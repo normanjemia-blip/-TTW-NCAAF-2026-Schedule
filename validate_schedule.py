@@ -3,7 +3,8 @@
 Validate TTW_2026_Verified_Schedule_ESPN_v1.0.csv against the TTW NCAAF
 2026 schedule build requirements.
 
-Runs 18 checks:
+Runs 18 base checks plus a placeholder-team hard-fail and a Week 0
+normalization check added in the phase-3 amendment:
   1.  Duplicate GameIDs
   2.  Blank GameIDs
   3.  Invalid season values
@@ -22,14 +23,20 @@ Runs 18 checks:
   16. Weeks successfully retrieved (from retrieval_log.csv)
   17. Unexpected gaps in the weekly retrieval sequence
   18. Rows excluded from the final file (from raw_espn/build_log.json)
+  19. Retained placeholder teams (hard failure - no exception for
+      championship-labeled rows; placeholder teams also count toward the
+      unresolved-team total) and unresolved team identities in general
+  20. Week 0 normalization: every retained 2026-08-29 / 2026-08-30 game must
+      have week=0, every retained game on/after 2026-09-03 must not, and a
+      named set of known opening-weekend games is explicitly checked
 
 Also performs a provenance check (every retained row traces back to a raw
 ESPN response file) as the operational proxy for "0 manually transcribed
 rows / 0 fabricated games".
 
-Exit code is 0 only if every hard-fail check (1-10, provenance) passes.
-Checks 11-18 are diagnostic/reporting checks (they surface findings such as
-low/high game counts rather than pass/fail on their own).
+Exit code is 0 only if every hard-fail check (1-10, provenance, 19, 20)
+passes. Checks 11-18 are diagnostic/reporting checks (they surface findings
+such as low/high game counts rather than pass/fail on their own).
 """
 import csv
 import json
@@ -46,6 +53,23 @@ RAW_SCOREBOARD_DIR = os.path.join(REPO_ROOT, "raw_espn", "scoreboard")
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 VALID_BOOL = {"TRUE", "FALSE"}
+PLACEHOLDER_NAME_RE = re.compile(r"^\s*(TBD|To Be Determined|Unknown)\b", re.IGNORECASE)
+
+WEEK_ZERO_DATES = {"2026-08-29", "2026-08-30"}
+WEEK_ZERO_CUTOFF_DATE = "2026-09-03"
+
+# Explicit opening-weekend examples named in the phase-3 amendment request,
+# each (away_team_substring, home_team_substring).
+WEEK_ZERO_EXAMPLES = [
+    ("North Carolina", "TCU"),
+    ("NC State", "Virginia"),
+    ("Jacksonville State", "North Dakota State"),
+    ("Sacramento State", "Eastern Michigan"),
+    ("Hawai", "Stanford"),
+    ("Memphis", "UNLV"),
+    ("San Jos", "USC"),
+    ("New Mexico State", "Florida State"),
+]
 
 HARD_FAILS = []
 DIAGNOSTICS = []
@@ -126,12 +150,33 @@ def main():
     unprovenanced = [r["id"] for r in rows if r["id"] not in raw_ids]
     hard_fail("Provenance (row id found in raw_espn/scoreboard/*.json)", len(unprovenanced), unprovenanced[:10])
 
+    # --- 19. Retained placeholder teams (hard failure, no championship exception) ---
+    # A row "labeled a championship" (via its notes text) gets no pass here -
+    # the check below only looks at the team-name columns themselves.
+    placeholder_rows = [
+        r["id"] for r in rows
+        if PLACEHOLDER_NAME_RE.match(r["away_team"] or "") or PLACEHOLDER_NAME_RE.match(r["home_team"] or "")
+    ]
+    hard_fail("19. Retained placeholder teams (TBD / To Be Determined / Unknown)", len(placeholder_rows), placeholder_rows[:10])
+
+    # Unresolved team identity = placeholder team name OR unresolved (blank)
+    # conference on either side. "Every retained row must have two resolvable
+    # real team identities" - conference resolution is part of that identity.
+    unresolved_identity_rows = [
+        r["id"] for r in rows
+        if PLACEHOLDER_NAME_RE.match(r["away_team"] or "")
+        or PLACEHOLDER_NAME_RE.match(r["home_team"] or "")
+        or not r["away_conference"].strip()
+        or not r["home_conference"].strip()
+    ]
+    hard_fail("19b. Unresolved team identities (placeholder team OR unresolved conference)", len(unresolved_identity_rows), unresolved_identity_rows[:10])
+
     # --- 11. Exact duplicate matchup/date combinations ---
     matchup_date = Counter((r["away_team"], r["home_team"], r["start_date"]) for r in rows)
-    exact_dupes = {k: v for k, v in matchup_date.items() if v > 1 and "TBD" not in k[0]}
+    exact_dupes = {k: v for k, v in matchup_date.items() if v > 1}
     diagnostic("11. Exact duplicate matchup/date combinations", f"{len(exact_dupes)} found: {list(exact_dupes.items())[:10]}")
 
-    swapped = Counter((frozenset([r["away_team"], r["home_team"]]), r["start_date"]) for r in rows if "TBD" not in r["away_team"])
+    swapped = Counter((frozenset([r["away_team"], r["home_team"]]), r["start_date"]) for r in rows)
     swapped_dupes = {k: v for k, v in swapped.items() if v > 1}
     diagnostic("11b. Same two teams same date (regardless of home/away order)", f"{len(swapped_dupes)} found: {list(swapped_dupes.items())[:10]}")
 
@@ -182,10 +227,8 @@ def main():
     # --- 15. Team schedule counts ---
     team_counts = Counter()
     for r in rows:
-        if not r["away_team"].startswith("TBD"):
-            team_counts[r["away_team"]] += 1
-        if not r["home_team"].startswith("TBD"):
-            team_counts[r["home_team"]] += 1
+        team_counts[r["away_team"]] += 1
+        team_counts[r["home_team"]] += 1
     counts_only = sorted(team_counts.values())
     if counts_only:
         median = counts_only[len(counts_only) // 2]
@@ -272,6 +315,49 @@ def main():
         )
     else:
         diagnostic("18. Rows excluded from the final file", "raw_espn/build_log.json not found")
+
+    # --- 20. Week 0 normalization ---
+    week_zero_rows = [r for r in rows if r["start_date"] in WEEK_ZERO_DATES]
+    misrouted_to_nonzero = [r["id"] for r in week_zero_rows if r["week"] != "0"]
+    hard_fail(
+        "20. All 2026-08-29 / 2026-08-30 games route to Week 0",
+        len(misrouted_to_nonzero), misrouted_to_nonzero,
+    )
+
+    on_or_after_cutoff_week_zero = [
+        r["id"] for r in rows if r["start_date"] >= WEEK_ZERO_CUTOFF_DATE and r["week"] == "0"
+    ]
+    hard_fail(
+        "20b. No game on/after 2026-09-03 is misrouted to Week 0",
+        len(on_or_after_cutoff_week_zero), on_or_after_cutoff_week_zero,
+    )
+
+    earliest_date = min((r["start_date"] for r in rows), default=None)
+    sept3_rows = [r for r in rows if r["start_date"] == WEEK_ZERO_CUTOFF_DATE]
+    sept3_not_week1 = [r["id"] for r in sept3_rows if r["week"] != "1"]
+    hard_fail("20c. 2026-09-03 games begin Week 1", len(sept3_not_week1), sept3_not_week1)
+    diagnostic(
+        "20d. Week 0 / Week 1 boundary",
+        f"{len(week_zero_rows)} Week 0 rows (dates {sorted(WEEK_ZERO_DATES)}); "
+        f"{len(sept3_rows)} rows on {WEEK_ZERO_CUTOFF_DATE} (first normalized Week 1 date); "
+        f"earliest retained date overall: {earliest_date}.",
+    )
+
+    # Explicit named opening-weekend examples.
+    example_results = []
+    for away_sub, home_sub in WEEK_ZERO_EXAMPLES:
+        matches = [
+            r for r in rows
+            if away_sub.lower() in r["away_team"].lower() and home_sub.lower() in r["home_team"].lower()
+        ]
+        if not matches:
+            example_results.append((f"{away_sub} @ {home_sub}", "NOT FOUND", None))
+        else:
+            for m in matches:
+                example_results.append((f"{m['away_team']} @ {m['home_team']}", m["week"], m["start_date"]))
+    bad_examples = [e for e in example_results if e[1] != "0"]
+    hard_fail("20e. Named Week 0 opening-weekend examples all resolve to week=0", len(bad_examples), bad_examples)
+    diagnostic("20f. Named Week 0 example resolution", example_results)
 
     # --- Report ---
     print("=" * 70)

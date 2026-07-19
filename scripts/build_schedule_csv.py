@@ -9,23 +9,33 @@ full accounting):
      which ESPN associates with any game involving at least one FBS team -
      including FBS-vs-FCS games and North Dakota State / Sacramento State,
      both of which ESPN already places under FBS conference groups for 2026.
-  2. Placeholder ("TBD") participants:
-       - If the event is an officially scheduled conference championship game
-         (identified by ESPN's own event notes headline containing
-         "Championship"), it is RETAINED with both team columns marked
-         "TBD (Home)" / "TBD (Away)" - per project instructions these games
-         must be retained even though the two participants are not yet known.
-       - Any other placeholder-participant game (bowl games, CFP games, or any
-         other not-yet-determined-opponent regular-season game) is EXCLUDED,
-         because the participating teams are not yet known and the project
-         instructions explicitly forbid fabricating or including such
-         placeholders outside the conference-championship exception.
-  3. North Dakota State (ESPN team id 2449) and Sacramento State (ESPN team id
+  2. Placeholder ("TBD" / not-yet-determined) participants are NEVER loaded
+     into the CSV, with no exception for conference championships. Any event
+     where either side is a placeholder (ESPN team id starting with "-", or a
+     display name matching TBD / "To Be Determined" / "Unknown") is EXCLUDED
+     and classified as:
+       - "official_event_shell_participants_unknown" for the 10 officially
+         scheduled 2026 conference championship games (date/venue/conference
+         are real and documented in the reconciliation report; the two
+         participating teams are not), and
+       - "placeholder_participant_bowl_cfp" / "placeholder_participant_regular_season"
+         for bowl, CFP, and any other not-yet-determined-opponent game.
+     A row is only ever written to the CSV once both team identities resolve
+     to real, non-placeholder ESPN team records.
+  3. Project Week 0 normalization: every retained game with a start_date
+     earlier than 2026-09-03 (ESPN's own data shows this is exactly the
+     2026-08-29 and 2026-08-30 opening-weekend slate - the first game ESPN
+     schedules on/after 2026-09-03 is Thursday 2026-09-03) has its `week`
+     column forced to 0, regardless of what ESPN's own season/week metadata
+     says (ESPN reports these as regular-season week 1). The ESPN-reported
+     season type and week number are preserved verbatim in Notes. Event ID,
+     date, home/away orientation, and neutral-site status are never altered.
+  4. North Dakota State (ESPN team id 2449) and Sacramento State (ESPN team id
      16) have their conference column forced to the approved 2026 assignments
      (Mountain West / Mid-American) regardless of what ESPN reports, with the
      original ESPN-reported value logged to Notes and the reconciliation
      report whenever it differs.
-  4. Events are de-duplicated by ESPN event id across all retrieved files.
+  5. Events are de-duplicated by ESPN event id across all retrieved files.
 """
 import csv
 import json
@@ -36,6 +46,23 @@ import re
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 SEASON = 2026
+
+# Games dated before this cutoff are the project's normalized "Week 0"
+# opening-weekend slate (2026-08-29 Saturday + 2026-08-30 Sunday). ESPN's own
+# data has no games between 2026-08-31 and 2026-09-02, and the next game on or
+# after this cutoff is Thursday 2026-09-03, which is normalized Week 1.
+WEEK_ZERO_CUTOFF_DATE = "2026-09-03"
+
+SEASON_TYPE_LABELS = {1: "preseason", 2: "regular-season", 3: "postseason"}
+
+PLACEHOLDER_NAME_RE = re.compile(r"^\s*(TBD|To Be Determined|Unknown)\s*$", re.IGNORECASE)
+
+
+def is_placeholder_team(team):
+    if str(team.get("id")).startswith("-"):
+        return True
+    name = team.get("displayName") or ""
+    return bool(PLACEHOLDER_NAME_RE.match(name)) or not name.strip()
 
 # Approved 2026 conference assignments for FCS-to-FBS reclassifying teams.
 RECLASSIFIER_OVERRIDES = {
@@ -131,6 +158,7 @@ def main():
                 continue
 
             week_number = event.get("week", {}).get("number")
+            season_type_id = event.get("season", {}).get("type")
             comp = event["competitions"][0]
 
             competitors = {c["homeAway"]: c for c in comp["competitors"]}
@@ -141,8 +169,8 @@ def main():
             home_team = competitors["home"]["team"]
             away_team = competitors["away"]["team"]
 
-            home_is_placeholder = str(home_team.get("id")).startswith("-")
-            away_is_placeholder = str(away_team.get("id")).startswith("-")
+            home_is_placeholder = is_placeholder_team(home_team)
+            away_is_placeholder = is_placeholder_team(away_team)
 
             notes_list = comp.get("notes") or []
             headline = notes_list[0]["headline"] if notes_list else ""
@@ -151,53 +179,63 @@ def main():
             # "Southeastern Conference"). CFP / bowl headlines also contain
             # the word "Championship" (e.g. "College Football Playoff
             # National Championship") but do not resolve to a conference,
-            # so they correctly fall through to the bowl/playoff exclusion.
+            # so they are correctly classified as bowl/CFP shells instead.
             is_championship = (
                 "Championship" in headline
                 and "College Football Playoff" not in headline
                 and resolve_headline_conference(headline, champ_lookup) is not None
             )
 
-            if (home_is_placeholder or away_is_placeholder):
-                if not is_championship:
-                    excluded.append((
-                        event_id, "placeholder_participant_non_championship",
+            # Placeholder participants are never loaded into the CSV, with no
+            # exception for conference championships (see module docstring).
+            if home_is_placeholder or away_is_placeholder:
+                champ_conf_name = resolve_headline_conference(headline, champ_lookup) if is_championship else None
+                if is_championship:
+                    category = "official_event_shell_participants_unknown"
+                    venue_name = comp.get("venue", {}).get("fullName", "") if comp.get("venue") else ""
+                    detail = (
+                        f"OFFICIAL EVENT SHELL — PARTICIPANTS UNKNOWN — NOT YET LOADABLE | "
+                        f"headline='{headline}' conference='{champ_conf_name or 'unresolved'}' "
+                        f"date={event.get('date')} venue='{venue_name}' "
+                        f"neutral_site={comp.get('neutralSite')}"
+                    )
+                elif season_type_id == 3:
+                    # Postseason (type 3) placeholder that isn't a resolved
+                    # conference championship is a bowl/CFP game shell.
+                    category = "placeholder_participant_bowl_cfp"
+                    detail = f"headline='{headline}' date={event.get('date')}"
+                else:
+                    category = "placeholder_participant_regular_season"
+                    detail = (
                         f"headline='{headline}' date={event.get('date')} "
                         f"home={home_team.get('displayName')} away={away_team.get('displayName')}"
-                    ))
-                    continue
+                    )
+                excluded.append((event_id, category, detail))
+                continue
 
             row_notes = []
-
-            if is_championship and home_is_placeholder and away_is_placeholder:
-                champ_conf_name = resolve_headline_conference(headline, champ_lookup)
-                away_team_name = "TBD (Away)"
-                home_team_name = "TBD (Home)"
-                away_conf = champ_conf_name or ""
-                home_conf = champ_conf_name or ""
-                if not champ_conf_name:
-                    row_notes.append(f"UNRESOLVED CHAMPIONSHIP CONFERENCE for headline '{headline}'")
-                row_notes.append(
-                    f"Officially scheduled conference championship game; participating teams not yet "
-                    f"determined (to be decided by regular-season standings). ESPN headline: '{headline}'."
-                )
-            else:
-                away_team_name = away_team.get("displayName")
-                home_team_name = home_team.get("displayName")
-                away_conf, away_note = team_conference(away_team, conference_map)
-                home_conf, home_note = team_conference(home_team, conference_map)
-                if away_note:
-                    row_notes.append(away_note)
-                if home_note:
-                    row_notes.append(home_note)
-                if headline:
-                    row_notes.append(f"ESPN event note: {headline}")
+            away_team_name = away_team.get("displayName")
+            home_team_name = home_team.get("displayName")
+            away_conf, away_note = team_conference(away_team, conference_map)
+            home_conf, home_note = team_conference(home_team, conference_map)
+            if away_note:
+                row_notes.append(away_note)
+            if home_note:
+                row_notes.append(home_note)
+            if headline:
+                row_notes.append(f"ESPN event note: {headline}")
 
             if not away_team_name or not home_team_name:
                 excluded.append((event_id, "missing_team_name", f"away={away_team_name} home={home_team_name}"))
                 continue
 
-            if away_team_name == home_team_name and not is_championship:
+            # Defense in depth: a placeholder-shaped name should never reach
+            # here given the check above, but never let one through silently.
+            if PLACEHOLDER_NAME_RE.match(away_team_name) or PLACEHOLDER_NAME_RE.match(home_team_name):
+                excluded.append((event_id, "unexpected_placeholder_retained", f"away={away_team_name} home={home_team_name}"))
+                continue
+
+            if away_team_name == home_team_name:
                 excluded.append((event_id, "same_team_matchup", f"{away_team_name} vs {home_team_name}"))
                 continue
 
@@ -206,6 +244,17 @@ def main():
                 excluded.append((event_id, "missing_or_invalid_date", f"date={start_date_raw}"))
                 continue
             start_date = start_date_raw[:10]
+
+            # Project Week 0 normalization (see module docstring point 3).
+            if start_date < WEEK_ZERO_CUTOFF_DATE:
+                season_type_label = SEASON_TYPE_LABELS.get(season_type_id, f"type={season_type_id}")
+                row_notes.append(
+                    f"ESPN source: season_type={season_type_id} ({season_type_label}), week={week_number}. "
+                    f"Normalized to project Week 0 (opening slate before the {WEEK_ZERO_CUTOFF_DATE} Week 1 kickoff)."
+                )
+                normalized_week = 0
+            else:
+                normalized_week = week_number
 
             status = comp.get("status", {}).get("type", {})
             completed = bool(status.get("completed", False))
@@ -226,7 +275,7 @@ def main():
             rows.append({
                 "id": event_id,
                 "season": SEASON,
-                "week": week_number,
+                "week": normalized_week,
                 "start_date": start_date,
                 "neutral_site": "TRUE" if neutral_site else "FALSE",
                 "away_team": away_team_name,

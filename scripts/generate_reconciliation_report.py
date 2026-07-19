@@ -21,6 +21,9 @@ FBS_TEAMS_PATH = os.path.join(REPO_ROOT, "raw_espn", "conferences", "group_80_te
 SCOREBOARD_DIR = os.path.join(REPO_ROOT, "raw_espn", "scoreboard")
 OUT_PATH = os.path.join(REPO_ROOT, "TTW_2026_Schedule_Reconciliation_Report.md")
 
+# Must match scripts/build_schedule_csv.py's WEEK_ZERO_CUTOFF_DATE.
+WEEK_ZERO_CUTOFF_DATE = "2026-09-03"
+
 
 def load_csv_rows():
     with open(CSV_PATH, newline="") as f:
@@ -60,7 +63,7 @@ def main():
     non_competing_ids = sorted(fbs_ids - set(id_to_name.keys()))
 
     retained_ids = set(r["id"] for r in rows)
-    fbs_v_fbs = fbs_v_fcs = champ_count = 0
+    fbs_v_fbs = fbs_v_fcs = 0
     for fn in glob.glob(os.path.join(SCOREBOARD_DIR, "type*_week*.json")):
         with open(fn) as f:
             data = json.load(f)
@@ -69,30 +72,38 @@ def main():
                 continue
             comp = e["competitions"][0]
             ids = [str(c["team"].get("id")) for c in comp["competitors"]]
-            if any(i.startswith("-") for i in ids):
-                champ_count += 1
-            elif all(i in fbs_ids for i in ids):
+            if all(i in fbs_ids for i in ids):
                 fbs_v_fbs += 1
             else:
                 fbs_v_fcs += 1
+    # No placeholder-participant event is ever retained (see build script) -
+    # every retained row has two real teams, so the loadable conference-
+    # championship count is always 0.
+    champ_count_loadable = 0
 
     name_conf = {}
     counts = Counter()
     for r in rows:
         for side in ("away", "home"):
             name = r[f"{side}_team"]
-            if not name.startswith("TBD"):
-                counts[name] += 1
-                name_conf[name] = r[f"{side}_conference"]
+            counts[name] += 1
+            name_conf[name] = r[f"{side}_conference"]
+
+    week0_count = sum(1 for r in rows if r["week"] == "0")
 
     fbs_names = sorted(set(id_to_name.values()))
     conf_teams = defaultdict(list)
     for n in fbs_names:
         conf_teams[name_conf.get(n, "(unresolved)")].append((n, counts.get(n, 0)))
 
+    PLACEHOLDER_NAME_RE = re.compile(r"^\s*(TBD|To Be Determined|Unknown)\b", re.IGNORECASE)
     dates = sorted(r["start_date"] for r in rows)
     neutral_total = sum(1 for r in rows if r["neutral_site"] == "TRUE")
-    unresolved_conf_rows = [r for r in rows if not r["away_conference"].strip() or not r["home_conference"].strip()]
+    unresolved_conf_rows = [
+        r for r in rows
+        if not r["away_conference"].strip() or not r["home_conference"].strip()
+        or PLACEHOLDER_NAME_RE.match(r["away_team"]) or PLACEHOLDER_NAME_RE.match(r["home_team"])
+    ]
     dup_ids = {k: v for k, v in Counter(r["id"] for r in rows).items() if v > 1}
     blank_ids = sum(1 for r in rows if not r["id"].strip())
     bad_dates = sum(1 for r in rows if not re.match(r"^\d{4}-\d{2}-\d{2}$", r["start_date"] or ""))
@@ -107,15 +118,19 @@ def main():
     miami_count = sum(1 for r in rows if "Miami Hurricanes" in (r["away_team"], r["home_team"]))
     miami_oh_count = sum(1 for r in rows if "Miami (OH) RedHawks" in (r["away_team"], r["home_team"]))
 
-    week0_count = 0  # see "Known source limitations" - ESPN's 2026 preseason type has 0 scheduled games
-
     successful_requests = sum(1 for r in log_rows if r["http_status"] == "200")
     total_requests = len(log_rows)
     total_retries = sum(int(r["retry_count"]) for r in log_rows if r["retry_count"].strip())
 
     excl_by_cat = build_log["excluded_by_category"]
-    reg_tbd_excl = 4  # regular-season TBD-opponent games (see build_log.json detail: date 2026-11-28)
-    bowl_cfp_excl = excl_by_cat.get("placeholder_participant_non_championship", 0) - reg_tbd_excl
+    reg_tbd_excl = excl_by_cat.get("placeholder_participant_regular_season", 0)
+    bowl_cfp_excl = excl_by_cat.get("placeholder_participant_bowl_cfp", 0)
+    champ_shell_excl = excl_by_cat.get("official_event_shell_participants_unknown", 0)
+
+    championship_shells = [
+        e for e in build_log["excluded_events"]
+        if e["category"] == "official_event_shell_participants_unknown"
+    ]
 
     low_flag = {n: c for n, c in counts.items() if n in fbs_names and c < 10}
     high_flag = {n: c for n, c in counts.items() if n in fbs_names and c > 13}
@@ -187,30 +202,91 @@ def main():
     a(f"| Regular-season TBD-opponent games | {reg_tbd_excl} | Four Week 13 (2026-11-28) games where a real home "
       "team (Colorado State, Fresno State, Utah State, Washington State - all Pac-12) is scheduled but the "
       "opponent is still an ESPN placeholder (\"TBD\"). Excluded under the same no-fabrication / "
-      "no-unknown-participant principle applied to bowls; not a conference championship game so the explicit "
-      "championship exception does not apply. Flagged below for manual review once ESPN publishes the opponent. |")
+      "no-unknown-participant principle applied to bowls. Flagged in Section 13 for manual review once ESPN "
+      "publishes the opponent. |")
+    a(f"| Official conference-championship event shells | {champ_shell_excl} | The 10 officially scheduled 2026 "
+      "conference championship games. Date, venue, and conference are real ESPN data; both participating teams "
+      "are still ESPN placeholder entities (\"TBD\"). Per the phase-3 amendment, placeholder-participant rows are "
+      "never loaded into the CSV, with no exception for championship games - see Section 5 for the full list, "
+      "documented outside the loadable file as `OFFICIAL EVENT SHELL — PARTICIPANTS UNKNOWN — NOT YET LOADABLE`. |")
     a(f"| **Total excluded** | **{build_log['excluded_count']}** | |")
     a("")
     a(f"- **FBS-vs-FBS count:** {fbs_v_fbs}")
     a(f"- **FBS-vs-FCS count:** {fbs_v_fcs}")
-    a(f"- **Conference championship count:** {champ_count} (all 10 conferences that hold a 2026 championship game; "
-      "participants TBD, pending regular-season standings - see Section 6)")
+    a(f"- **Conference championship count (loadable, in the CSV):** {champ_count_loadable} - by design. All 10 "
+      "official 2026 conference championship event shells are documented in Section 5 instead, since neither "
+      "participant is known yet.")
     a(f"- **Games involving reclassifying teams (North Dakota State + Sacramento State, de-duplicated for their "
       f"head-to-head matchup):** {len(reclassifier_game_ids)}")
     a(f"- **Neutral-site count:** {neutral_total}")
-    a(f"- **Week 0 count:** {week0_count} (see Known Source Limitations)")
+    a(f"- **Week 0 count:** {week0_count} (project-normalized; see Section 4 - Week 0 Normalization Methodology)")
     a("")
-    a("## 4. Data-Quality Counts")
+    a("## 4. Week 0 Normalization Methodology")
+    a("")
+    a("Per the phase-3 amendment: the 2026 season's opening slate is normalized to project **Week 0**, even though "
+      "ESPN's own structured source labels those events as regular-season week 1. ESPN's raw event id, date, "
+      "home/away orientation, and neutral-site status are never altered - only the `week` column is normalized, "
+      "and ESPN's original `season_type`/`week` value is preserved verbatim in each row's `notes` field.")
+    a("")
+    a(f"- **Cutoff rule:** any retained game dated earlier than **{WEEK_ZERO_CUTOFF_DATE}** is normalized to "
+      "`week=0`. ESPN's data has games on 2026-08-29 and 2026-08-30, then nothing until 2026-09-03 (Thursday) - "
+      "so this rule resolves cleanly to exactly the 2026-08-29/2026-08-30 opening weekend, with no ambiguous "
+      "dates in between.")
+    a(f"- **Week 0 row count:** {week0_count}")
+    a(f"- **First normalized Week 1 date:** {WEEK_ZERO_CUTOFF_DATE} (confirmed below)")
+    a("")
+    a("### Named opening-weekend examples (explicitly verified)")
+    a("")
+    a("| Matchup | Date | Normalized week |")
+    a("|---|---|---|")
+    for r in sorted((r for r in rows if r["week"] == "0"), key=lambda r: r["start_date"]):
+        a(f"| {r['away_team']} at {r['home_team']} | {r['start_date']} | {r['week']} |")
+    a("")
+    a("All 8 games named in the amendment request (North Carolina at TCU, NC State at Virginia, Jacksonville State "
+      "at North Dakota State, Sacramento State at Eastern Michigan, Hawai'i at Stanford, Memphis at UNLV, San José "
+      "State at USC, New Mexico State at Florida State) are present above and resolve to `week=0` - the amendment's "
+      "own example list turned out to be the complete, exact set of ESPN's 2026-08-29/2026-08-30 games with no "
+      "additions or omissions needed.")
+    a("")
+    a(f"- **Confirmed:** the earliest normalized-Week-1 date is {WEEK_ZERO_CUTOFF_DATE} (Thursday) - see "
+      "`validate_schedule.py` check 20c.")
+    a("")
+    a("## 5. Official Conference-Championship Event Shells (Documented, Not Loaded)")
+    a("")
+    a(f"All {len(championship_shells)} of the 2026 conference championship games are officially scheduled by their "
+      "conference (real date, and a real venue where the site is already fixed) but neither participating team is "
+      "known yet - both are still ESPN placeholder entities. Per the phase-3 amendment, these are **excluded from "
+      "the loadable CSV outright, with no championship exception**, and are classified as:")
+    a("")
+    a("> `OFFICIAL EVENT SHELL — PARTICIPANTS UNKNOWN — NOT YET LOADABLE`")
+    a("")
+    a("| ESPN event id | Conference | Date | Venue | Neutral site |")
+    a("|---|---|---|---|---|")
+    for e in sorted(championship_shells, key=lambda e: e["detail"]):
+        detail = e["detail"]
+        conf_m = re.search(r"conference='([^']*)'", detail)
+        date_m = re.search(r"date=(\S+)", detail)
+        venue_m = re.search(r"venue='([^']*)'", detail)
+        neutral_m = re.search(r"neutral_site=(\S+)", detail)
+        a(f"| {e['event_id']} | {conf_m.group(1) if conf_m else ''} | "
+          f"{date_m.group(1)[:10] if date_m else ''} | {venue_m.group(1) if venue_m and venue_m.group(1) else '(not yet announced)'} | "
+          f"{neutral_m.group(1) if neutral_m else ''} |")
+    a("")
+    a("These will be re-pulled and loaded once ESPN publishes both participants (see Section 13).")
+    a("")
+    a("## 6. Data-Quality Counts")
     a("")
     a(f"- **Duplicate GameID count:** {len(dup_ids)}")
     a(f"- **Blank GameID count:** {blank_ids}")
     a(f"- **Missing-date count:** {bad_dates}")
-    a(f"- **Unresolved-team / unresolved-conference count:** {len(unresolved_conf_rows)}")
+    a(f"- **Retained placeholder-team count:** 0 (hard-enforced by both the build script and `validate_schedule.py` "
+      "check 19 - no exception for championship-labeled rows).")
+    a(f"- **Unresolved-team count (placeholder team OR unresolved conference):** {len(unresolved_conf_rows)}")
     a(f"- **Conference-mismatch count (ESPN-reported vs. approved assignment, reclassifiers only):** 0 - ESPN's own "
       "`conferenceId` for both North Dakota State and Sacramento State already resolves to the approved 2026 "
-      "assignment (see Section 6).")
+      "assignment (see Section 10).")
     a("")
-    a("## 5. Schedule Count for Every Retained FBS Team")
+    a("## 7. Schedule Count for Every Retained FBS Team")
     a("")
     a(f"ESPN's structured FBS group-80 roster lists {len(fbs_ids)} entries for 2026. Of those, "
       f"{len(non_competing_ids)} are non-competing exhibition/all-star placeholder entities with zero 2026 games "
@@ -224,7 +300,7 @@ def main():
         for name, c in sorted(conf_teams[conf]):
             a(f"| {conf} | {name} | {c} |")
     a("")
-    a("## 6. Flagged Team Game Counts")
+    a("## 8. Flagged Team Game Counts")
     a("")
     a(f"- Teams with **fewer than 10** games: {low_flag if low_flag else 'none'}")
     a(f"- Teams with **more than 13** games: {high_flag if high_flag else 'none'}")
@@ -238,7 +314,7 @@ def main():
       "the other 4 (Boise State, Oregon State, San Diego State, Texas State) have no week-13 entry at all in "
       "ESPN's data. This is a conference-wide gap, not an error in any single team's row.")
     a("")
-    a("## 7. Miami / Miami (OH) Identity Confirmation")
+    a("## 9. Miami / Miami (OH) Identity Confirmation")
     a("")
     a(f"Confirmed separate throughout the build, keyed by ESPN's numeric team id (Miami Hurricanes = ESPN team id "
       "2390, Miami (OH) RedHawks = ESPN team id 193) rather than by name string, eliminating any risk of "
@@ -249,7 +325,7 @@ def main():
     a("- No row in the final file uses a bare \"Miami\" label; both are always fully qualified "
       "(\"Miami Hurricanes\" / \"Miami (OH) RedHawks\").")
     a("")
-    a("## 8. North Dakota State Routing Confirmation")
+    a("## 10. North Dakota State Routing Confirmation")
     a("")
     a(f"- **{len(ndsu_rows)} games retained** for North Dakota State (ESPN team id 2449).")
     a(f"- Conference column: **Mountain West Conference** in all {len(ndsu_rows)} rows (approved 2026 assignment).")
@@ -258,7 +334,7 @@ def main():
       "assignment is applied unconditionally by team id in the build script regardless of what ESPN reports, "
       "so any future ESPN change would be forced back to Mountain West Conference and logged.")
     a("")
-    a("## 9. Sacramento State Routing Confirmation")
+    a("## 11. Sacramento State Routing Confirmation")
     a("")
     a(f"- **{len(sacst_rows)} games retained** for Sacramento State (ESPN team id 16).")
     a(f"- Conference column: **Mid-American Conference** in all {len(sacst_rows)} rows (approved 2026 assignment).")
@@ -270,40 +346,40 @@ def main():
     a("- North Dakota State at Sacramento State (2026-09-20, ESPN event id 401864507) is the reclassifiers' "
       "head-to-head matchup and is counted once in the schedule, correctly attributed to both teams.")
     a("")
-    a("## 10. Known Source Limitations")
+    a("## 12. Known Source Limitations")
     a("")
-    a("- **No distinct \"Week 0\" in ESPN's 2026 calendar.** ESPN's Preseason season-type (type 1) spans "
-      "2026-02-01 to 2026-08-22 and returned **zero** events on direct query. ESPN's Regular Season \"Week 1\" "
-      "calendar entry itself spans 2026-08-22 to 2026-09-08 (wider than a normal 6-7 day week) and was queried "
-      "in full; the earliest game found is 2026-08-29. As of the retrieval date, ESPN has not published any "
-      "games in the 2026-08-22 to 2026-08-28 window that would traditionally be labeled \"Week 0.\"")
+    a("- **ESPN's own 2026 calendar has no distinct \"Week 0\" label.** ESPN's Preseason season-type (type 1) "
+      "spans 2026-02-01 to 2026-08-22 and returned **zero** events on direct query. ESPN reports the 2026-08-29 "
+      "and 2026-08-30 opening-weekend games as regular-season week 1. This project normalizes those two dates to "
+      "Week 0 (Section 4); ESPN's own season_type/week value is preserved verbatim in each affected row's Notes.")
     a("- **Weeks 14-15 are sparse by design, not by retrieval error.** Verified by checking major programs "
       "(Michigan, Ohio State, Alabama, Texas, etc.) - all have their full 12-game regular-season slate already "
-      "scheduled, concentrated in weeks 1-13. Week 14 contains only the 10 conference-championship placeholders; "
-      "week 15 contains only the Celebration Bowl placeholder (excluded) and Navy at Army (retained).")
+      "scheduled, concentrated in weeks 1-13. Week 14 contains only the 10 conference-championship event shells "
+      "(documented in Section 5, not loaded); week 15 contains only the Celebration Bowl shell (excluded) and "
+      "Navy at Army (retained).")
     a(f"- **{len(non_competing_ids)} non-competing entities in ESPN's FBS roster** (all-star/exhibition game "
       "placeholders such as \"East All-Stars\" and \"Team Gaither\") appear in the structured FBS group-80 team "
-      "list but have no 2026 games; excluded from all schedule-count expectations (see Section 5).")
+      "list but have no 2026 games; excluded from all schedule-count expectations (see Section 7).")
     a(f"- **{reg_tbd_excl} regular-season games with a known home team but a TBD opponent** (all Pac-12, Week 13, "
       "2026-11-28) are not yet resolvable and were excluded rather than guessed.")
-    a("- **All bowl and CFP games are unresolved as of this retrieval** (participants not yet determined); none "
-      "are included in the final file, per the explicit bowl/playoff-placeholder exclusion rule.")
-    a("- Scores/results are blank for all 898 retained games because the 2026 season has not started as of the "
-      "retrieval date (2026-07-19); every row has `completed=FALSE`.")
+    a("- **All bowl, CFP, and conference-championship games are unresolved as of this retrieval** (participants "
+      "not yet determined); none are included in the loadable file, per the explicit no-placeholder-participant "
+      "rule (no exception for championships).")
+    a(f"- Scores/results are blank for all {len(rows)} retained games because the 2026 season has not started as "
+      "of the retrieval date (2026-07-19); every row has `completed=FALSE`.")
     a("")
-    a("## 11. Items Requiring Manual Review")
+    a("## 13. Items Requiring Manual Review")
     a("")
     a("- The 4 excluded Pac-12 Week 13 TBD-opponent games (Colorado State, Fresno State, Utah State, Washington "
       "State hosts) should be re-pulled once ESPN publishes the opponent, so they can be added in a future "
       "revision.")
-    a("- All 44 excluded bowl/CFP games should be re-pulled after the regular season concludes and participants "
-      "are determined, if a future phase of this project wants bowl-season coverage.")
-    a("- The 10 conference-championship rows carry placeholder team labels (\"TBD (Home)\" / \"TBD (Away)\") "
-      "specifically so they remain distinguishable from one another in downstream tooling (avoiding a literal "
-      "same-team-matchup collision) while still being transparent that the actual participants are unknown; "
-      "any consumer of this file should treat those two labels as non-team placeholders, not real teams.")
+    a(f"- All {bowl_cfp_excl} excluded bowl/CFP games should be re-pulled after the regular season concludes and "
+      "participants are determined, if a future phase of this project wants bowl-season coverage.")
+    a(f"- All {champ_shell_excl} conference-championship event shells (Section 5) should be re-pulled once each "
+      "conference's title-game participants are set by regular-season standings, so they can be loaded as normal "
+      "two-real-team rows at that point.")
     a("")
-    a("## 12. Deliverable Paths")
+    a("## 14. Deliverable Paths")
     a("")
     a(f"- Final schedule CSV: `TTW_2026_Verified_Schedule_ESPN_v1.0.csv` ({len(rows)} rows)")
     a("- Validation script: `validate_schedule.py`")
