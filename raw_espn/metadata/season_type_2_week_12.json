@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/12?lang=en&region=us","number":12,"startDate":"2026-11-16T08:00Z","endDate":"2026-11-23T07:59Z","text":"Week 12","rankings":{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/12/rankings?lang=en&region=us"}}

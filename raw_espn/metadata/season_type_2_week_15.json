@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/15?lang=en&region=us","number":15,"startDate":"2026-12-07T08:00Z","endDate":"2026-12-13T07:59Z","text":"Week 15","rankings":{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/15/rankings?lang=en&region=us"}}

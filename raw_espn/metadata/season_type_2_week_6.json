@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/6?lang=en&region=us","number":6,"startDate":"2026-10-05T07:00Z","endDate":"2026-10-12T06:59Z","text":"Week 6","rankings":{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/6/rankings?lang=en&region=us"}}

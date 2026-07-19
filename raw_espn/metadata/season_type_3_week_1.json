@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/3/weeks/1?lang=en&region=us","number":1,"startDate":"2026-12-13T08:00Z","endDate":"2027-01-28T07:59Z","text":"Bowls","rankings":{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/3/weeks/1/rankings?lang=en&region=us"}}

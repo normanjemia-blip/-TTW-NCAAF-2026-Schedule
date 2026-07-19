@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/7?lang=en&region=us","number":7,"startDate":"2026-10-12T07:00Z","endDate":"2026-10-19T06:59Z","text":"Week 7","rankings":{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/7/rankings?lang=en&region=us"}}

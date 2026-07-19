@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/10?lang=en&region=us","number":10,"startDate":"2026-11-02T08:00Z","endDate":"2026-11-09T07:59Z","text":"Week 10","rankings":{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/10/rankings?lang=en&region=us"}}
