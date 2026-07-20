@@ -1,0 +1,33 @@
+PASS  SP+ re-parse row count == 138  138
+PASS  SP+ re-parse matched 138 unique abbrevs  138
+PASS  SP+ 138/138 D values match independently re-parsed capture  []
+PASS  SP+ 138/138 E == 2026-03-27 (publication date)  []
+PASS  SP+ 138/138 F == official ESPN citation  []
+PASS  FPI 138/138 unchanged and matching raw archive  []
+PASS  TR 138/138 unchanged and matching raw archive  []
+PASS  SETTINGS weights are 0.30/0.25/0.20/0.15/0.10  (0.3, 0.25, 0.2, 0.15, 0.1)
+PASS  Available weight Y == 0.70 for every team (0.30+0.25+0.15, all 138 rows populated)  0.7000000000000001
+PASS  Source count AA == 3 for every team (D,H,Q numeric on all 138 rows; L,U blank)  (integral values read back as int by openpyxl; numerically identical, ISNUMBER-true)
+PASS  Single-source flag AB blank for every team (AA=3 > 1)  by AA==3 above; formula unchanged (see formula-integrity)
+
+Independently reproduced FINAL PRIOR (pts vs avg FBS), 3-source blend:
+  TOP 5   : [('OHST', 31.01), ('ORE', 27.7), ('ND', 26.75), ('UGA', 26.08), ('TEX', 26.06)]
+  BOTTOM 5: [('ULM', -21.34), ('BALL', -21.7), ('SHSU', -22.8), ('CLT', -23.88), ('MASS', -25.85)]
+
+Diff counts by sheet: {'START HERE': 2, 'SETTINGS': 2, 'PRESEASON': 1243, 'FCS TIERS': 1, 'CHANGELOG': 60}
+PASS  Diff touches only expected sheets  set()
+PASS  PRESEASON diff == 1243 (828 FPI/TR + 414 SP+ + A1)  1243
+PASS  START HERE diff == 2 (banner + A3)  2
+PASS  SETTINGS diff == 2 (C22,C23)  2
+PASS  FCS TIERS diff == 1 (A2)  1
+PASS  CHANGELOG diff == 60 (15 appended rows x 4; row-21/25/29 edits are within appended rows)  60
+PASS  ZERO formula cells changed vs v0.3.1  []
+PASS  PRESEASON TTW raw/date/cite (L,N,O) fully blank  []
+PASS  PRESEASON VSiN raw/date/cite (U,V,W) fully blank  []
+PASS  PRESEASON Win totals (AD,AE) fully blank  []
+PASS  QB VALUES manual-input columns fully blank  []
+PASS  No remaining claims that SP+ is paywalled/unavailable/incomplete  []
+PASS  CHANGELOG: 9 v0.4 + 3 v0.4.1 + 3 v0.4.2 entries  {'v0.2': 1, 'v0.2.1': 3, 'v0.2.2': 4, 'v0.3': 1, 'v0.3.1': 3, 'v0.4': 9, 'v0.4.1': 3, 'v0.4.2': 3}
+PASS  IMPORT SCHEDULE 888 game ids intact
+
+ALL CHECKS PASSED
