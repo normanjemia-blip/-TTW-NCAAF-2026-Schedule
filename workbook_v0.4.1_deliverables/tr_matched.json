@@ -1,0 +1,692 @@
+{
+  "OHST": {
+    "rank": 1,
+    "name_tr": "Ohio St",
+    "rating": 32.3
+  },
+  "ORE": {
+    "rank": 2,
+    "name_tr": "Oregon",
+    "rating": 29.5
+  },
+  "ND": {
+    "rank": 3,
+    "name_tr": "Notre Dame",
+    "rating": 29.1
+  },
+  "IND": {
+    "rank": 4,
+    "name_tr": "Indiana",
+    "rating": 29.0
+  },
+  "UGA": {
+    "rank": 5,
+    "name_tr": "Georgia",
+    "rating": 28.4
+  },
+  "TEX": {
+    "rank": 6,
+    "name_tr": "Texas",
+    "rating": 28.4
+  },
+  "MIA": {
+    "rank": 7,
+    "name_tr": "Miami",
+    "rating": 25.3
+  },
+  "TTU": {
+    "rank": 8,
+    "name_tr": "Texas Tech",
+    "rating": 23.8
+  },
+  "TAMU": {
+    "rank": 9,
+    "name_tr": "Texas A&M",
+    "rating": 22.7
+  },
+  "MISS": {
+    "rank": 10,
+    "name_tr": "Mississippi",
+    "rating": 22.3
+  },
+  "LSU": {
+    "rank": 11,
+    "name_tr": "LSU",
+    "rating": 22.1
+  },
+  "OU": {
+    "rank": 12,
+    "name_tr": "Oklahoma",
+    "rating": 22.0
+  },
+  "ALA": {
+    "rank": 13,
+    "name_tr": "Alabama",
+    "rating": 21.6
+  },
+  "USC": {
+    "rank": 14,
+    "name_tr": "USC",
+    "rating": 20.9
+  },
+  "MICH": {
+    "rank": 15,
+    "name_tr": "Michigan",
+    "rating": 19.8
+  },
+  "FLA": {
+    "rank": 16,
+    "name_tr": "Florida",
+    "rating": 17.4
+  },
+  "TENN": {
+    "rank": 17,
+    "name_tr": "Tennessee",
+    "rating": 16.8
+  },
+  "WASH": {
+    "rank": 18,
+    "name_tr": "Washington",
+    "rating": 16.4
+  },
+  "PSU": {
+    "rank": 19,
+    "name_tr": "Penn St",
+    "rating": 16.4
+  },
+  "MIZ": {
+    "rank": 20,
+    "name_tr": "Missouri",
+    "rating": 15.4
+  },
+  "BYU": {
+    "rank": 21,
+    "name_tr": "BYU",
+    "rating": 14.6
+  },
+  "SMU": {
+    "rank": 22,
+    "name_tr": "SMU",
+    "rating": 14.4
+  },
+  "IOWA": {
+    "rank": 23,
+    "name_tr": "Iowa",
+    "rating": 13.9
+  },
+  "LOU": {
+    "rank": 24,
+    "name_tr": "Louisville",
+    "rating": 13.7
+  },
+  "AUB": {
+    "rank": 25,
+    "name_tr": "Auburn",
+    "rating": 13.4
+  },
+  "UTAH": {
+    "rank": 26,
+    "name_tr": "Utah",
+    "rating": 12.8
+  },
+  "SCAR": {
+    "rank": 27,
+    "name_tr": "South Carolina",
+    "rating": 12.2
+  },
+  "CLEM": {
+    "rank": 28,
+    "name_tr": "Clemson",
+    "rating": 11.6
+  },
+  "HOU": {
+    "rank": 29,
+    "name_tr": "Houston",
+    "rating": 10.6
+  },
+  "KSU": {
+    "rank": 30,
+    "name_tr": "Kansas St",
+    "rating": 10.2
+  },
+  "PITT": {
+    "rank": 31,
+    "name_tr": "Pittsburgh",
+    "rating": 10.0
+  },
+  "VAN": {
+    "rank": 32,
+    "name_tr": "Vanderbilt",
+    "rating": 9.8
+  },
+  "ILL": {
+    "rank": 33,
+    "name_tr": "Illinois",
+    "rating": 9.2
+  },
+  "UVA": {
+    "rank": 34,
+    "name_tr": "Virginia",
+    "rating": 9.0
+  },
+  "UK": {
+    "rank": 35,
+    "name_tr": "Kentucky",
+    "rating": 8.9
+  },
+  "AZST": {
+    "rank": 36,
+    "name_tr": "Arizona St",
+    "rating": 8.7
+  },
+  "ARIZ": {
+    "rank": 37,
+    "name_tr": "Arizona",
+    "rating": 8.7
+  },
+  "TCU": {
+    "rank": 38,
+    "name_tr": "TCU",
+    "rating": 8.4
+  },
+  "WISC": {
+    "rank": 39,
+    "name_tr": "Wisconsin",
+    "rating": 8.4
+  },
+  "UCLA": {
+    "rank": 40,
+    "name_tr": "UCLA",
+    "rating": 8.2
+  },
+  "VT": {
+    "rank": 41,
+    "name_tr": "Virginia Tech",
+    "rating": 8.2
+  },
+  "MINN": {
+    "rank": 42,
+    "name_tr": "Minnesota",
+    "rating": 8.1
+  },
+  "NEB": {
+    "rank": 43,
+    "name_tr": "Nebraska",
+    "rating": 8.0
+  },
+  "FSU": {
+    "rank": 44,
+    "name_tr": "Florida St",
+    "rating": 7.3
+  },
+  "OKST": {
+    "rank": 45,
+    "name_tr": "Oklahoma St",
+    "rating": 6.7
+  },
+  "BSU": {
+    "rank": 46,
+    "name_tr": "Boise St",
+    "rating": 6.7
+  },
+  "MSST": {
+    "rank": 47,
+    "name_tr": "Mississippi St",
+    "rating": 6.4
+  },
+  "NCST": {
+    "rank": 48,
+    "name_tr": "NC State",
+    "rating": 6.2
+  },
+  "GT": {
+    "rank": 49,
+    "name_tr": "Georgia Tech",
+    "rating": 5.8
+  },
+  "KAN": {
+    "rank": 50,
+    "name_tr": "Kansas",
+    "rating": 5.4
+  },
+  "NW": {
+    "rank": 51,
+    "name_tr": "Northwestern",
+    "rating": 4.8
+  },
+  "ARK": {
+    "rank": 52,
+    "name_tr": "Arkansas",
+    "rating": 4.7
+  },
+  "BAY": {
+    "rank": 53,
+    "name_tr": "Baylor",
+    "rating": 4.6
+  },
+  "WVU": {
+    "rank": 54,
+    "name_tr": "West Virginia",
+    "rating": 4.5
+  },
+  "CAL": {
+    "rank": 55,
+    "name_tr": "California",
+    "rating": 4.0
+  },
+  "UCF": {
+    "rank": 56,
+    "name_tr": "UCF",
+    "rating": 3.3
+  },
+  "MD": {
+    "rank": 57,
+    "name_tr": "Maryland",
+    "rating": 2.9
+  },
+  "WAKE": {
+    "rank": 58,
+    "name_tr": "Wake Forest",
+    "rating": 2.4
+  },
+  "UNC": {
+    "rank": 59,
+    "name_tr": "North Carolina",
+    "rating": 2.1
+  },
+  "FRES": {
+    "rank": 60,
+    "name_tr": "Fresno St",
+    "rating": 2.0
+  },
+  "DUKE": {
+    "rank": 61,
+    "name_tr": "Duke",
+    "rating": 1.9
+  },
+  "SDSU": {
+    "rank": 62,
+    "name_tr": "San Diego St",
+    "rating": 1.1
+  },
+  "NAVY": {
+    "rank": 63,
+    "name_tr": "Navy",
+    "rating": 0.9
+  },
+  "RUTG": {
+    "rank": 64,
+    "name_tr": "Rutgers",
+    "rating": 0.8
+  },
+  "CIN": {
+    "rank": 65,
+    "name_tr": "Cincinnati",
+    "rating": 0.3
+  },
+  "ISU": {
+    "rank": 66,
+    "name_tr": "Iowa St",
+    "rating": 0.0
+  },
+  "SYR": {
+    "rank": 67,
+    "name_tr": "Syracuse",
+    "rating": -0.2
+  },
+  "MSU": {
+    "rank": 68,
+    "name_tr": "Michigan St",
+    "rating": -0.3
+  },
+  "UNLV": {
+    "rank": 69,
+    "name_tr": "UNLV",
+    "rating": -0.8
+  },
+  "ARMY": {
+    "rank": 70,
+    "name_tr": "Army",
+    "rating": -1.2
+  },
+  "COLO": {
+    "rank": 71,
+    "name_tr": "Colorado",
+    "rating": -1.4
+  },
+  "UTSA": {
+    "rank": 72,
+    "name_tr": "UTSA",
+    "rating": -1.5
+  },
+  "JMU": {
+    "rank": 73,
+    "name_tr": "J Madison",
+    "rating": -1.5
+  },
+  "MEM": {
+    "rank": 74,
+    "name_tr": "Memphis",
+    "rating": -1.5
+  },
+  "WSU": {
+    "rank": 75,
+    "name_tr": "Washington St",
+    "rating": -1.6
+  },
+  "TXST": {
+    "rank": 76,
+    "name_tr": "Texas St",
+    "rating": -2.0
+  },
+  "UNM": {
+    "rank": 77,
+    "name_tr": "New Mexico",
+    "rating": -2.1
+  },
+  "PUR": {
+    "rank": 78,
+    "name_tr": "Purdue",
+    "rating": -2.1
+  },
+  "USF": {
+    "rank": 79,
+    "name_tr": "S Florida",
+    "rating": -2.4
+  },
+  "NDSU": {
+    "rank": 80,
+    "name_tr": "North Dakota State",
+    "rating": -2.8
+  },
+  "TULN": {
+    "rank": 81,
+    "name_tr": "Tulane",
+    "rating": -2.8
+  },
+  "STAN": {
+    "rank": 82,
+    "name_tr": "Stanford",
+    "rating": -3.0
+  },
+  "ECU": {
+    "rank": 83,
+    "name_tr": "E Carolina",
+    "rating": -3.7
+  },
+  "USU": {
+    "rank": 84,
+    "name_tr": "Utah St",
+    "rating": -3.8
+  },
+  "ODU": {
+    "rank": 85,
+    "name_tr": "Old Dominion",
+    "rating": -4.6
+  },
+  "BC": {
+    "rank": 86,
+    "name_tr": "Boston College",
+    "rating": -6.2
+  },
+  "HAW": {
+    "rank": 87,
+    "name_tr": "Hawai'i",
+    "rating": -6.3
+  },
+  "AFA": {
+    "rank": 88,
+    "name_tr": "Air Force",
+    "rating": -7.4
+  },
+  "TROY": {
+    "rank": 89,
+    "name_tr": "Troy",
+    "rating": -7.7
+  },
+  "WMU": {
+    "rank": 90,
+    "name_tr": "W Michigan",
+    "rating": -8.3
+  },
+  "WKU": {
+    "rank": 91,
+    "name_tr": "W Kentucky",
+    "rating": -8.4
+  },
+  "LIB": {
+    "rank": 92,
+    "name_tr": "Liberty",
+    "rating": -8.5
+  },
+  "TOL": {
+    "rank": 93,
+    "name_tr": "Toledo",
+    "rating": -8.6
+  },
+  "LT": {
+    "rank": 94,
+    "name_tr": "Louisiana Tech",
+    "rating": -8.6
+  },
+  "UNT": {
+    "rank": 95,
+    "name_tr": "N Texas",
+    "rating": -8.7
+  },
+  "FAU": {
+    "rank": 96,
+    "name_tr": "Florida Atlantic",
+    "rating": -8.7
+  },
+  "MRSH": {
+    "rank": 97,
+    "name_tr": "Marshall",
+    "rating": -8.8
+  },
+  "ORST": {
+    "rank": 98,
+    "name_tr": "Oregon St",
+    "rating": -10.0
+  },
+  "ULL": {
+    "rank": 99,
+    "name_tr": "Louisiana",
+    "rating": -10.3
+  },
+  "TLSA": {
+    "rank": 100,
+    "name_tr": "Tulsa",
+    "rating": -10.3
+  },
+  "M-OH": {
+    "rank": 101,
+    "name_tr": "Miami OH",
+    "rating": -10.6
+  },
+  "CSU": {
+    "rank": 102,
+    "name_tr": "Colorado St",
+    "rating": -10.7
+  },
+  "JVST": {
+    "rank": 103,
+    "name_tr": "Jacksonville St",
+    "rating": -10.7
+  },
+  "USA": {
+    "rank": 104,
+    "name_tr": "S Alabama",
+    "rating": -10.8
+  },
+  "OHIO": {
+    "rank": 105,
+    "name_tr": "Ohio",
+    "rating": -10.9
+  },
+  "TEM": {
+    "rank": 106,
+    "name_tr": "Temple",
+    "rating": -10.9
+  },
+  "CONN": {
+    "rank": 107,
+    "name_tr": "UConn",
+    "rating": -10.9
+  },
+  "APP": {
+    "rank": 108,
+    "name_tr": "App State",
+    "rating": -10.9
+  },
+  "ARST": {
+    "rank": 109,
+    "name_tr": "Arkansas St",
+    "rating": -11.0
+  },
+  "GASO": {
+    "rank": 110,
+    "name_tr": "Georgia So",
+    "rating": -11.7
+  },
+  "DEL": {
+    "rank": 111,
+    "name_tr": "Delaware",
+    "rating": -12.5
+  },
+  "CMU": {
+    "rank": 112,
+    "name_tr": "C Michigan",
+    "rating": -12.6
+  },
+  "WYO": {
+    "rank": 113,
+    "name_tr": "Wyoming",
+    "rating": -13.3
+  },
+  "CCU": {
+    "rank": 114,
+    "name_tr": "Coastal Car",
+    "rating": -13.8
+  },
+  "EMU": {
+    "rank": 115,
+    "name_tr": "E Michigan",
+    "rating": -13.9
+  },
+  "KENN": {
+    "rank": 116,
+    "name_tr": "Kennesaw St",
+    "rating": -14.2
+  },
+  "SJSU": {
+    "rank": 117,
+    "name_tr": "San Jose St",
+    "rating": -14.9
+  },
+  "FIU": {
+    "rank": 118,
+    "name_tr": "Florida Intl",
+    "rating": -15.0
+  },
+  "RICE": {
+    "rank": 119,
+    "name_tr": "Rice",
+    "rating": -15.2
+  },
+  "BUFF": {
+    "rank": 120,
+    "name_tr": "Buffalo",
+    "rating": -16.5
+  },
+  "BGSU": {
+    "rank": 121,
+    "name_tr": "Bowling Green",
+    "rating": -17.7
+  },
+  "USM": {
+    "rank": 122,
+    "name_tr": "Southern Miss",
+    "rating": -17.7
+  },
+  "AKR": {
+    "rank": 123,
+    "name_tr": "Akron",
+    "rating": -17.9
+  },
+  "NEV": {
+    "rank": 124,
+    "name_tr": "Nevada",
+    "rating": -18.1
+  },
+  "UAB": {
+    "rank": 125,
+    "name_tr": "UAB",
+    "rating": -18.2
+  },
+  "NMSU": {
+    "rank": 126,
+    "name_tr": "New Mexico St",
+    "rating": -18.4
+  },
+  "MOST": {
+    "rank": 127,
+    "name_tr": "Missouri St",
+    "rating": -18.9
+  },
+  "SAC": {
+    "rank": 128,
+    "name_tr": "Sacramento State",
+    "rating": -19.2
+  },
+  "GAST": {
+    "rank": 129,
+    "name_tr": "Georgia St",
+    "rating": -19.4
+  },
+  "ULM": {
+    "rank": 130,
+    "name_tr": "UL Monroe",
+    "rating": -19.8
+  },
+  "NIU": {
+    "rank": 131,
+    "name_tr": "N Illinois",
+    "rating": -20.6
+  },
+  "MTSU": {
+    "rank": 132,
+    "name_tr": "Middle Tenn",
+    "rating": -20.9
+  },
+  "UTEP": {
+    "rank": 133,
+    "name_tr": "UTEP",
+    "rating": -21.0
+  },
+  "KENT": {
+    "rank": 134,
+    "name_tr": "Kent St",
+    "rating": -22.1
+  },
+  "BALL": {
+    "rank": 135,
+    "name_tr": "Ball St",
+    "rating": -23.0
+  },
+  "CLT": {
+    "rank": 136,
+    "name_tr": "Charlotte",
+    "rating": -23.3
+  },
+  "SHSU": {
+    "rank": 137,
+    "name_tr": "Sam Houston",
+    "rating": -24.1
+  },
+  "MASS": {
+    "rank": 138,
+    "name_tr": "UMass",
+    "rating": -28.5
+  }
+}

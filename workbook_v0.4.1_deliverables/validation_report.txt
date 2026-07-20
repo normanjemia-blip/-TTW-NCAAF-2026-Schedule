@@ -1,0 +1,25 @@
+PASS  FPI re-parse team count == 138  138
+PASS  FPI 138/138 workbook values match archived raw source  []
+PASS  TR re-parse row count == 138  138
+PASS  TR re-parse matched 138 unique abbrevs  138
+PASS  TR 138/138 workbook values match archived raw source  []
+Diff counts by sheet: {'START HERE': 2, 'SETTINGS': 2, 'PRESEASON': 829, 'FCS TIERS': 1, 'CHANGELOG': 48}
+PASS  Diff touches only expected sheets  set()
+PASS  START HERE diff == 2 cells (A1 banner + A3 state)  2
+PASS  PRESEASON diff == 829 cells (828 data + A1 header)  829
+PASS  SETTINGS diff == 2 cells (C22, C23)  2
+PASS  FCS TIERS diff == 1 cell (A2)  1
+PASS  CHANGELOG diff == 48 cells (12 rows x 4)  48
+PASS  ZERO formula cells changed (v0.3.1 formula cells all identical)  []
+PASS  PRESEASON SP+ raw/date/cite columns fully blank  []
+PASS  PRESEASON TTW raw/date/cite columns fully blank  []
+PASS  PRESEASON VSiN raw/date/cite columns fully blank  []
+PASS  PRESEASON Win-total AD/AE columns fully blank  []
+PASS  QB VALUES manual-input columns fully blank  []
+CHANGELOG total entries from row 7: 24
+PASS  CHANGELOG has 9 v0.4 entries  9
+PASS  CHANGELOG has 3 v0.4.1 entries  3
+PASS  IMPORT SCHEDULE 888 game ids intact
+PASS  IMPORT SCHEDULE dims A1:N1005  A1:N1005
+
+ALL CHECKS PASSED

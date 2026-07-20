@@ -1,0 +1,883 @@
+sheet	cell	v0.3.1_value	v0.4.1_value
+START HERE	A1	'TO THE WINDOW — NCAAF POWER RATINGS 2026 (v0.3.1 STRUCTURAL BUILD)'	'TO THE WINDOW — NCAAF POWER RATINGS 2026 (v0.4.1 PHASE 4 CORRECTION BUILD — PENDING APPROVAL)'
+START HERE	A3	'PHASE 3 STATE: 888-game verified 2026 ESPN schedule loaded (values only); game-pipeline capacity expanded to 1,000 rows (6:1005). Ratings, quarterbacks, market lines, and statistics are still not loaded — every game correctly reports PENDING LINE (or a data-quality block) until Phase 4 loads verified rating/market data.'	'PHASE 4 STATE: verified FPI and TeamRankings 2026 preseason ratings are loaded for all 138 teams (PRESEASON, raw + date + citation; blend renormalizes over these two sources). Still unavailable or unpopulated: SP+ (paywalled), TTW independent 2025 prior (source access blocked - see CHANGELOG), VSiN (user-supplied, not provided), QB values (depth charts not yet published), market lines, and in-season statistics. Games correctly report PENDING LINE or a data-quality block until those load.'
+SETTINGS	C22	'BLANK until Phase 4 — totals show NOT AVAILABLE while blank'	'BLOCKED/DEFERRED — totals constants stay blank until verified in-season EPA data is available; totals show NOT AVAILABLE while blank'
+SETTINGS	C23	'BLANK until Phase 4'	'BLOCKED/DEFERRED — stays blank until verified in-season EPA data is available'
+PRESEASON	A1	'PRESEASON — source blend (VALUES EMPTY UNTIL PHASE 4)'	'PRESEASON — source blend (FPI + TeamRankings LOADED 2026-07-19; SP+/TTW-prior/VSiN input columns blank — sources unavailable, see CHANGELOG)'
+PRESEASON	H6	None	20.1
+PRESEASON	I6	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J6	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q6	None	21.6
+PRESEASON	R6	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S6	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H7	None	4.4
+PRESEASON	I7	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J7	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q7	None	4.7
+PRESEASON	R7	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S7	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H8	None	12
+PRESEASON	I8	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J8	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q8	None	13.4
+PRESEASON	R8	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S8	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H9	None	13.6
+PRESEASON	I9	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J9	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q9	None	17.4
+PRESEASON	R9	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S9	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H10	None	24.8
+PRESEASON	I10	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J10	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q10	None	28.4
+PRESEASON	R10	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S10	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H11	None	5.4
+PRESEASON	I11	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J11	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q11	None	8.9
+PRESEASON	R11	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S11	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H12	None	20
+PRESEASON	I12	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J12	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q12	None	22.1
+PRESEASON	R12	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S12	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H13	None	4.1
+PRESEASON	I13	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J13	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q13	None	6.4
+PRESEASON	R13	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S13	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H14	None	12.2
+PRESEASON	I14	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J14	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q14	None	15.4
+PRESEASON	R14	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S14	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H15	None	17.8
+PRESEASON	I15	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J15	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q15	None	22
+PRESEASON	R15	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S15	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H16	None	16
+PRESEASON	I16	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J16	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q16	None	22.3
+PRESEASON	R16	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S16	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H17	None	11.7
+PRESEASON	I17	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J17	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q17	None	12.2
+PRESEASON	R17	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S17	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H18	None	15.1
+PRESEASON	I18	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J18	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q18	None	16.8
+PRESEASON	R18	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S18	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H19	None	26.9
+PRESEASON	I19	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J19	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q19	None	28.4
+PRESEASON	R19	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S19	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H20	None	20
+PRESEASON	I20	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J20	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q20	None	22.7
+PRESEASON	R20	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S20	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H21	None	9
+PRESEASON	I21	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J21	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q21	None	9.8
+PRESEASON	R21	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S21	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H22	None	6.3
+PRESEASON	I22	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J22	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q22	None	9.2
+PRESEASON	R22	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S22	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H23	None	23.1
+PRESEASON	I23	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J23	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q23	None	29
+PRESEASON	R23	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S23	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H24	None	10.6
+PRESEASON	I24	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J24	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q24	None	13.9
+PRESEASON	R24	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S24	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H25	None	1
+PRESEASON	I25	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J25	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q25	None	2.9
+PRESEASON	R25	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S25	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H26	None	15.9
+PRESEASON	I26	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J26	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q26	None	19.8
+PRESEASON	R26	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S26	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H27	None	0.3
+PRESEASON	I27	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J27	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q27	None	-0.3
+PRESEASON	R27	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S27	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H28	None	0.6
+PRESEASON	I28	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J28	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q28	None	8.1
+PRESEASON	R28	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S28	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H29	None	8.8
+PRESEASON	I29	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J29	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q29	None	8
+PRESEASON	R29	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S29	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H30	None	1.4
+PRESEASON	I30	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J30	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q30	None	4.8
+PRESEASON	R30	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S30	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H31	None	28.7
+PRESEASON	I31	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J31	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q31	None	32.3
+PRESEASON	R31	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S31	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H32	None	25.3
+PRESEASON	I32	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J32	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q32	None	29.5
+PRESEASON	R32	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S32	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H33	None	13.7
+PRESEASON	I33	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J33	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q33	None	16.4
+PRESEASON	R33	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S33	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H34	None	-0.9
+PRESEASON	I34	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J34	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q34	None	-2.1
+PRESEASON	R34	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S34	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H35	None	-0.2
+PRESEASON	I35	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J35	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q35	None	0.8
+PRESEASON	R35	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S35	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H36	None	0.5
+PRESEASON	I36	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J36	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q36	None	8.2
+PRESEASON	R36	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S36	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H37	None	17
+PRESEASON	I37	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J37	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q37	None	20.9
+PRESEASON	R37	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S37	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H38	None	9.9
+PRESEASON	I38	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J38	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q38	None	16.4
+PRESEASON	R38	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S38	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H39	None	4.8
+PRESEASON	I39	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J39	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q39	None	8.4
+PRESEASON	R39	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S39	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H40	None	7.2
+PRESEASON	I40	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J40	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q40	None	8.7
+PRESEASON	R40	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S40	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H41	None	4.8
+PRESEASON	I41	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J41	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q41	None	8.7
+PRESEASON	R41	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S41	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H42	None	6.5
+PRESEASON	I42	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J42	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q42	None	4.6
+PRESEASON	R42	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S42	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H43	None	13.1
+PRESEASON	I43	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J43	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q43	None	14.6
+PRESEASON	R43	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S43	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H44	None	4.4
+PRESEASON	I44	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J44	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q44	None	0.3
+PRESEASON	R44	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S44	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H45	None	4.5
+PRESEASON	I45	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J45	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q45	None	-1.4
+PRESEASON	R45	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S45	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H46	None	7.1
+PRESEASON	I46	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J46	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q46	None	10.6
+PRESEASON	R46	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S46	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H47	None	-0.9
+PRESEASON	I47	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J47	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q47	None	0
+PRESEASON	R47	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S47	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H48	None	2.8
+PRESEASON	I48	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J48	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q48	None	5.4
+PRESEASON	R48	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S48	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H49	None	5.1
+PRESEASON	I49	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J49	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q49	None	10.2
+PRESEASON	R49	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S49	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H50	None	3.3
+PRESEASON	I50	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J50	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q50	None	6.7
+PRESEASON	R50	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S50	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H51	None	6.4
+PRESEASON	I51	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J51	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q51	None	8.4
+PRESEASON	R51	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S51	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H52	None	20
+PRESEASON	I52	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J52	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q52	None	23.8
+PRESEASON	R52	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S52	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H53	None	2.1
+PRESEASON	I53	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J53	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q53	None	3.3
+PRESEASON	R53	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S53	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H54	None	8.5
+PRESEASON	I54	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J54	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q54	None	12.8
+PRESEASON	R54	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S54	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H55	None	0.2
+PRESEASON	I55	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J55	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q55	None	4.5
+PRESEASON	R55	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S55	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H56	None	-2.7
+PRESEASON	I56	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J56	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q56	None	-6.2
+PRESEASON	R56	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S56	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H57	None	0.9
+PRESEASON	I57	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J57	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q57	None	4
+PRESEASON	R57	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S57	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H58	None	13.4
+PRESEASON	I58	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J58	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q58	None	11.6
+PRESEASON	R58	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S58	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H59	None	3.5
+PRESEASON	I59	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J59	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q59	None	1.9
+PRESEASON	R59	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S59	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H60	None	9.3
+PRESEASON	I60	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J60	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q60	None	7.3
+PRESEASON	R60	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S60	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H61	None	4.2
+PRESEASON	I61	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J61	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q61	None	5.8
+PRESEASON	R61	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S61	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H62	None	9.5
+PRESEASON	I62	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J62	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q62	None	13.7
+PRESEASON	R62	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S62	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H63	None	21.8
+PRESEASON	I63	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J63	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q63	None	25.3
+PRESEASON	R63	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S63	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H64	None	3.7
+PRESEASON	I64	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J64	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q64	None	6.2
+PRESEASON	R64	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S64	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H65	None	4.9
+PRESEASON	I65	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J65	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q65	None	2.1
+PRESEASON	R65	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S65	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H66	None	6.6
+PRESEASON	I66	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J66	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q66	None	10
+PRESEASON	R66	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S66	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H67	None	11.1
+PRESEASON	I67	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J67	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q67	None	14.4
+PRESEASON	R67	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S67	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H68	None	-3.3
+PRESEASON	I68	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J68	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q68	None	-3
+PRESEASON	R68	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S68	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H69	None	-0.8
+PRESEASON	I69	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J69	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q69	None	-0.2
+PRESEASON	R69	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S69	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H70	None	7.9
+PRESEASON	I70	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J70	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q70	None	9
+PRESEASON	R70	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S70	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H71	None	7.4
+PRESEASON	I71	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J71	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q71	None	8.2
+PRESEASON	R71	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S71	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H72	None	3.4
+PRESEASON	I72	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J72	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q72	None	2.4
+PRESEASON	R72	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S72	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H73	None	4
+PRESEASON	I73	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J73	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q73	None	6.7
+PRESEASON	R73	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S73	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H74	None	-12.4
+PRESEASON	I74	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J74	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q74	None	-10.7
+PRESEASON	R74	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S74	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H75	None	-2.5
+PRESEASON	I75	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J75	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q75	None	2
+PRESEASON	R75	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S75	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H76	None	-8.1
+PRESEASON	I76	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J76	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q76	None	-10
+PRESEASON	R76	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S76	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H77	None	1.4
+PRESEASON	I77	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J77	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q77	None	1.1
+PRESEASON	R77	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S77	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H78	None	-4.3
+PRESEASON	I78	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J78	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q78	None	-2
+PRESEASON	R78	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S78	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H79	None	-6.7
+PRESEASON	I79	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J79	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q79	None	-3.8
+PRESEASON	R79	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S79	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H80	None	-4.1
+PRESEASON	I80	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J80	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q80	None	-1.6
+PRESEASON	R80	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S80	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H81	None	-5.6
+PRESEASON	I81	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J81	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q81	None	-1.2
+PRESEASON	R81	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S81	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H82	None	-14.6
+PRESEASON	I82	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J82	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q82	None	-23.3
+PRESEASON	R82	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S82	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H83	None	-0.6
+PRESEASON	I83	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J83	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q83	None	-3.7
+PRESEASON	R83	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S83	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H84	None	-11.3
+PRESEASON	I84	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J84	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q84	None	-8.7
+PRESEASON	R84	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S84	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H85	None	-1.9
+PRESEASON	I85	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J85	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q85	None	-1.5
+PRESEASON	R85	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S85	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H86	None	-0.7
+PRESEASON	I86	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J86	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q86	None	0.9
+PRESEASON	R86	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S86	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H87	None	-6.4
+PRESEASON	I87	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J87	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q87	None	-8.7
+PRESEASON	R87	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S87	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H88	None	-13.4
+PRESEASON	I88	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J88	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q88	None	-15.2
+PRESEASON	R88	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S88	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H89	None	-0.9
+PRESEASON	I89	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J89	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q89	None	-2.4
+PRESEASON	R89	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S89	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H90	None	-8.6
+PRESEASON	I90	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J90	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q90	None	-10.9
+PRESEASON	R90	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S90	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H91	None	2.3
+PRESEASON	I91	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J91	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q91	None	-2.8
+PRESEASON	R91	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S91	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H92	None	-9
+PRESEASON	I92	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J92	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q92	None	-10.3
+PRESEASON	R92	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S92	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H93	None	-15.5
+PRESEASON	I93	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J93	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q93	None	-18.2
+PRESEASON	R93	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S93	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H94	None	-5.3
+PRESEASON	I94	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J94	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q94	None	-1.5
+PRESEASON	R94	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S94	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H95	None	-6.6
+PRESEASON	I95	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J95	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q95	None	-12.5
+PRESEASON	R95	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S95	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H96	None	-12.6
+PRESEASON	I96	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J96	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q96	None	-15
+PRESEASON	R96	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S96	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H97	None	-8.5
+PRESEASON	I97	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J97	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q97	None	-10.7
+PRESEASON	R97	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S97	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H98	None	-9
+PRESEASON	I98	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J98	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q98	None	-14.2
+PRESEASON	R98	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S98	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H99	None	-7.7
+PRESEASON	I99	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J99	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q99	None	-8.5
+PRESEASON	R99	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S99	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H100	None	-16.1
+PRESEASON	I100	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J100	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q100	None	-20.9
+PRESEASON	R100	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S100	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H101	None	-10.3
+PRESEASON	I101	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J101	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q101	None	-18.9
+PRESEASON	R101	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S101	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H102	None	-15.7
+PRESEASON	I102	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J102	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q102	None	-18.4
+PRESEASON	R102	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S102	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H103	None	-18.4
+PRESEASON	I103	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J103	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q103	None	-24.1
+PRESEASON	R103	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S103	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H104	None	-4.9
+PRESEASON	I104	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J104	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q104	None	-8.4
+PRESEASON	R104	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S104	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H105	None	-16.9
+PRESEASON	I105	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J105	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q105	None	-17.9
+PRESEASON	R105	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S105	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H106	None	-17.3
+PRESEASON	I106	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J106	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q106	None	-23
+PRESEASON	R106	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S106	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H107	None	-13.7
+PRESEASON	I107	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J107	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q107	None	-17.7
+PRESEASON	R107	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S107	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H108	None	-10.8
+PRESEASON	I108	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J108	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q108	None	-16.5
+PRESEASON	R108	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S108	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H109	None	-12.8
+PRESEASON	I109	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J109	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q109	None	-12.6
+PRESEASON	R109	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S109	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H110	None	-16.3
+PRESEASON	I110	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J110	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q110	None	-13.9
+PRESEASON	R110	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S110	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H111	None	-17.9
+PRESEASON	I111	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J111	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q111	None	-22.1
+PRESEASON	R111	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S111	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H112	None	-7
+PRESEASON	I112	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J112	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q112	None	-10.6
+PRESEASON	R112	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S112	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H113	None	-8
+PRESEASON	I113	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J113	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q113	None	-10.9
+PRESEASON	R113	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S113	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H114	None	-10.4
+PRESEASON	I114	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J114	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q114	None	-19.2
+PRESEASON	R114	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S114	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H115	None	-3
+PRESEASON	I115	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J115	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q115	None	-8.6
+PRESEASON	R115	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S115	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H116	None	-18.8
+PRESEASON	I116	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J116	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q116	None	-28.5
+PRESEASON	R116	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S116	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H117	None	-4
+PRESEASON	I117	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J117	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q117	None	-8.3
+PRESEASON	R117	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S117	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H118	None	-6.8
+PRESEASON	I118	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J118	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q118	None	-7.4
+PRESEASON	R118	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S118	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H119	None	-2.4
+PRESEASON	I119	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J119	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q119	None	-6.3
+PRESEASON	R119	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S119	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H120	None	-11.9
+PRESEASON	I120	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J120	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q120	None	-18.1
+PRESEASON	R120	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S120	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H121	None	-3.5
+PRESEASON	I121	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J121	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q121	None	-2.1
+PRESEASON	R121	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S121	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H122	None	-8.3
+PRESEASON	I122	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J122	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q122	None	-2.8
+PRESEASON	R122	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S122	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H123	None	-14.5
+PRESEASON	I123	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J123	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q123	None	-20.6
+PRESEASON	R123	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S123	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H124	None	-14.3
+PRESEASON	I124	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J124	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q124	None	-14.9
+PRESEASON	R124	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S124	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H125	None	1.8
+PRESEASON	I125	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J125	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q125	None	-0.8
+PRESEASON	R125	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S125	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H126	None	-16.6
+PRESEASON	I126	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J126	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q126	None	-21
+PRESEASON	R126	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S126	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H127	None	-13.1
+PRESEASON	I127	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J127	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q127	None	-13.3
+PRESEASON	R127	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S127	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H128	None	-9.8
+PRESEASON	I128	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J128	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q128	None	-10.9
+PRESEASON	R128	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S128	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H129	None	-9.2
+PRESEASON	I129	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J129	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q129	None	-11
+PRESEASON	R129	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S129	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H130	None	-12.1
+PRESEASON	I130	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J130	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q130	None	-13.8
+PRESEASON	R130	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S130	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H131	None	-8.7
+PRESEASON	I131	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J131	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q131	None	-11.7
+PRESEASON	R131	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S131	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H132	None	-15.2
+PRESEASON	I132	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J132	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q132	None	-19.4
+PRESEASON	R132	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S132	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H133	None	-2
+PRESEASON	I133	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J133	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q133	None	-1.5
+PRESEASON	R133	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S133	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H134	None	-8.3
+PRESEASON	I134	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J134	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q134	None	-10.3
+PRESEASON	R134	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S134	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H135	None	-9.6
+PRESEASON	I135	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J135	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q135	None	-8.6
+PRESEASON	R135	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S135	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H136	None	-8.8
+PRESEASON	I136	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J136	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q136	None	-8.8
+PRESEASON	R136	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S136	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H137	None	-4.4
+PRESEASON	I137	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J137	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q137	None	-4.6
+PRESEASON	R137	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S137	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H138	None	-10.5
+PRESEASON	I138	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J138	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q138	None	-10.8
+PRESEASON	R138	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S138	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H139	None	-5.1
+PRESEASON	I139	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J139	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q139	None	-17.7
+PRESEASON	R139	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S139	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H140	None	-7.4
+PRESEASON	I140	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J140	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q140	None	-7.7
+PRESEASON	R140	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S140	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H141	None	-19.3
+PRESEASON	I141	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J141	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q141	None	-19.8
+PRESEASON	R141	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S141	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H142	None	25.9
+PRESEASON	I142	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J142	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q142	None	29.1
+PRESEASON	R142	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S142	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+PRESEASON	H143	None	-11.2
+PRESEASON	I143	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	J143	None	'https://www.espn.com/college-football/fpi'
+PRESEASON	Q143	None	-10.9
+PRESEASON	R143	None	datetime.datetime(2026, 7, 19, 0, 0)
+PRESEASON	S143	None	'https://www.teamrankings.com/college-football/ranking/predictive-by-other'
+FCS TIERS	A2	'NDSU and Sacramento State are FBS-reclassifying and NEVER use this framework. Tier values are BLANK until Phase 4 populates verified FCS rating data — FCS games stay blocked/uncertain until then. Named overrides beat tier assignment.'	'NDSU and Sacramento State are FBS-reclassifying and NEVER use this framework. Tier values remain BLANK — verified FCS ratings are deferred pending an authorized source load; FCS games stay blocked/uncertain until then. Named overrides beat tier assignment.'
+CHANGELOG	A19	None	'v0.4'
+CHANGELOG	B19	None	'2026-07-19'
+CHANGELOG	C19	None	"PRESEASON!H:J populated with ESPN FPI 2026 preseason ratings for all 138 teams. Source: https://www.espn.com/college-football/fpi (embedded page JSON, page lastUpdated 2026-06-30T08:00Z, retrieved 2026-07-19; raw HTML/JSON archived). Team names matched against the existing TEAM MAP K:L ESPN-alias table built in Phase 3 (138/138 matched, 0 unmatched, since FPI uses ESPN's own team-name database)."
+CHANGELOG	D19	None	'Phase 4 source load - FPI'
+CHANGELOG	A20	None	'v0.4'
+CHANGELOG	B20	None	'2026-07-19'
+CHANGELOG	C20	None	"PRESEASON!Q:S populated with TeamRankings 2026 preseason predictive ratings for all 138 teams. Source: https://www.teamrankings.com/college-football/ranking/predictive-by-other (server-rendered table, retrieved 2026-07-19; raw HTML archived). TeamRankings uses non-ESPN team-name abbreviations (e.g. 'N Illinois', 'S Florida', 'J Madison'); each of the 138 names was manually verified against the canonical TEAM MAP list and mapped to its abbreviation (138/138 matched, 0 unmatched, including disambiguation of directional prefixes N/S/E/W/C and Mississippi vs Mississippi State)."
+CHANGELOG	D20	None	'Phase 4 source load - TeamRankings'
+CHANGELOG	A21	None	'v0.4'
+CHANGELOG	B21	None	'2026-07-19'
+CHANGELOG	C21	None	"PRESEASON!D:F (SP+) left BLANK - ESPN's SP+ rankings page (espn.com/college-football/story/_/id/48306284) is Insider-paywalled; only a prose article with scattered individual team ranks is publicly accessible, not a complete structured 138-team table. Loading a partial/incomplete SP+ set was rejected as unverifiable. Blend will renormalize over available sources (FPI + TeamRankings) per the approved 'missing is not zero' rule (SETTINGS!B28:B32) unless the user supplies SP+ access or data."
+CHANGELOG	D21	None	'Phase 4 blocker - SP+ unavailable'
+CHANGELOG	A22	None	'v0.4'
+CHANGELOG	B22	None	'2026-07-19'
+CHANGELOG	C22	None	'PRESEASON!L:P (TTW independent 2025 prior) left BLANK - construction requires CollegeFootballData.com (CFBD) API access; no API key is configured in this environment (unauthenticated request returned 401). Per Architecture Amendment v0.2 Section 1, if a reliable independent TTW 2025 prior cannot be constructed, the build must stop and report the limitation rather than silently substituting 2025 SP+ or another proxy. No substitution was made.'
+CHANGELOG	D22	None	'Phase 4 blocker - TTW independent prior unavailable'
+CHANGELOG	A23	None	'v0.4'
+CHANGELOG	B23	None	'2026-07-19'
+CHANGELOG	C23	None	'PRESEASON!U:X (VSiN) left BLANK - VSiN is explicitly documented as user-supplied-only data (enhancement, never a prerequisite); none has been provided yet.'
+CHANGELOG	D23	None	'Phase 4 blocker - VSiN not supplied'
+CHANGELOG	A24	None	'v0.4'
+CHANGELOG	B24	None	'2026-07-19'
+CHANGELOG	C24	None	'QB VALUES left unpopulated - ESPN depth charts are not yet published this early in the offseason (tested 2026-07-19, endpoint returns an empty body), and no explicit QB-value quantification source is named in the approved architecture docs. Existing UNCERTAIN/blank-tolerant formula logic on this tab handles the gap without modification.'
+CHANGELOG	D24	None	'Phase 4 blocker - QB depth charts not yet available'
+CHANGELOG	A25	None	'v0.4'
+CHANGELOG	B25	None	'2026-07-20'
+CHANGELOG	C25	None	'USER DECISION (confirmed): no SP+ data and no CFBD API key are available. Preseason blend renormalizes over the two verified loaded sources only - FPI (weight 0.25) + TeamRankings (0.15), renormalized available weight 0.40 for all 138 teams. TTW independent 2025 prior remains blank and BLOCKED per Architecture Amendment v0.2 Section 1 (no proxy substituted). VSiN remains blank (user-supplied only, none provided).'
+CHANGELOG	D25	None	'Phase 4 - user-confirmed source decisions'
+CHANGELOG	A26	None	'v0.4'
+CHANGELOG	B26	None	'2026-07-20'
+CHANGELOG	C26	None	'USER DECISION (confirmed): QB VALUES stays blank until reliable depth charts are available closer to August. Verified that the existing QB VALUES status formula (column M) already returns UNCERTAIN for every team while inputs are blank - no formula or structural change was needed or made.'
+CHANGELOG	D26	None	'Phase 4 - user-confirmed QB deferral'
+CHANGELOG	A27	None	'v0.4'
+CHANGELOG	B27	None	'2026-07-20'
+CHANGELOG	C27	None	"SETTINGS!B22 (League average total) and B23 (Total EPA scale) remain BLANK. Their only consumer is ENGINE column Y's projected game total, which also requires per-team EPA values flowing from IMPORT STATS via CALC - and the EPA stats pipeline is (a) CFBD/cfbfastR-sourced, blocked without an API key, and (b) in-season data that does not exist yet in July. ENGINE Y correctly shows blank/NOT AVAILABLE while B22/B23 are blank, so no placeholder value was invented. To be populated when the stats pipeline unblocks."
+CHANGELOG	D27	None	'Phase 4 - totals subsystem stays blocked with stats pipeline'
+CHANGELOG	A28	None	'v0.4.1'
+CHANGELOG	B28	None	'2026-07-20'
+CHANGELOG	C28	None	"TTW independent 2025 prior source investigation (user-directed, before declaring the prior blocked): the official public cfbfastR/SportsDataverse distribution was identified and validated as far as this session's access allows. (1) Source: GitHub release assets on sportsdataverse/sportsdataverse-data, release tag cfbfastR_cfb_pbp, file play_by_play_2025.rds - confirmed from the cfbfastR package's own loader source code (load_cfb_pbp). (2) Season completeness: the repo's publicly readable manifest (games_in_data_repo.csv, retrieved 2026-07-20) lists 1,662 games for 2025 - in line with verified-complete prior seasons (2024: 1,661 incl. full CFP; structure matches, incl. teams at 16 games), and includes North Dakota State (13 games) and Sacramento State (12). (3) Fields: the same dataset family's accessible 2019 parquet (71 MB, 368 columns, retrieved 2026-07-20) carries per-play EPA (epa/def_epa), success indicators, scores, teams, game_id, week - every field the approved prior methodology requires (neutral-site/date join via ESPN game_id from the already-approved schedule source). (4) ACCESS RESULT: the 2025 release asset itself is BLOCKED by this session's platform - github.com release downloads outside the session's repo scope return 'GitHub access to this repository is not enabled for this session', and add_repo was denied ('cross-tier adds are not supported in v1'). The in-tree files (raw.githubusercontent, accessible) stop at season 2020. The prior therefore remains BLANK. This is an access limitation, not dataset incompleteness or methodology infeasibility. No proxy substituted, no methodology change. Unblock paths: session with sportsdataverse as a source; user-supplied play_by_play_2025 file (~70 MB); or a CFBD API key."
+CHANGELOG	D28	None	'v0.4.1 - TTW prior investigation (user item 1)'
+CHANGELOG	A29	None	'v0.4.1'
+CHANGELOG	B29	None	'2026-07-20'
+CHANGELOG	C29	None	'Corrected four stale visible text cells that still described the pre-Phase-4 state: START HERE!A3 (now states FPI + TeamRankings are loaded and lists exactly what remains unavailable/unpopulated: SP+, TTW prior, VSiN, QB data, market lines, in-season statistics); PRESEASON!A1 (no longer says values are empty until Phase 4); SETTINGS!C22:C23 (now say the totals constants are blocked/deferred until verified in-season EPA data is available); FCS TIERS!A2 (no longer promises Phase 4 population; verified FCS ratings deferred pending an authorized source load). Text-only changes - no values or formulas touched.'
+CHANGELOG	D29	None	'v0.4.1 - stale-text corrections (user item 2)'
+CHANGELOG	A30	None	'v0.4.1'
+CHANGELOG	B30	None	'2026-07-20'
+CHANGELOG	C30	None	'FPI and TeamRankings values revalidated against the archived raw sources (independent re-parse of both archives, all 138 teams x 2 sources compared cell-by-cell against PRESEASON!H and Q). Result recorded in the v0.4.1 validation report. Values preserved unchanged; no formula modified anywhere in the workbook.'
+CHANGELOG	D30	None	'v0.4.1 - source revalidation (user item 5)'
