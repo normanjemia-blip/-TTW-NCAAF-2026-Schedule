@@ -1,0 +1,28 @@
+PASS  ENGINE!AI: all 1000 rows match the corrected template exactly  []
+PASS  DATA QUALITY!B11 corrected  =COUNTIF(ENGINE!$AI$6:$AI$1005,"TRANSITION UNCERTAIN")
+
+Diff vs v0.5.1: {'START HERE': 1, 'ENGINE': 1000, 'DATA QUALITY': 1, 'CHANGELOG': 6}
+PASS  Diff vs v0.5.1 touches only ENGINE, DATA QUALITY, START HERE, CHANGELOG  {'START HERE': 1, 'ENGINE': 1000, 'DATA QUALITY': 1, 'CHANGELOG': 6}
+PASS  ENGINE diff vs v0.5.1 == 1000 (AI only)  1000
+PASS  DATA QUALITY diff vs v0.5.1 == 1 (B11 only)  1
+PASS  START HERE diff vs v0.5.1 == 1 (banner only)  1
+PASS  Formula diffs vs v0.5.1 == 1001 (1000 ENGINE!AI + 1 DATA QUALITY!B11)  1001
+PASS  All formula diffs vs v0.5.1 confined to ENGINE!AI and DATA QUALITY!B11  []
+Diff vs v0.4.2 (lineage): {'START HERE': 2, 'ENGINE': 2000, 'DATA QUALITY': 7, 'SETTINGS': 1, 'FCS TIERS': 2, 'CLEAN': 2000, 'DICTIONARY': 3, 'CHANGELOG': 40}
+PASS  Diff vs v0.4.2 touches the same 8 sheets as v0.5.1 did (no new sheet touched)  {'ENGINE', 'SETTINGS', 'FCS TIERS', 'CLEAN', 'DATA QUALITY', 'DICTIONARY', 'START HERE', 'CHANGELOG'}
+PASS  Formula diffs vs v0.4.2 == 4001 (v0.5.1's 4000 + DATA QUALITY!B11, which v0.5.1 left unchanged vs v0.4.2 and this build now corrects)  4001
+PASS  Zero remaining stale FCS/TRANSITION or FCS-TRANSITION UNCERTAIN references (excluding the v0.5.2 correction entry's deliberate historical mention)  []
+PASS  PRESEASON TTW (L,N,O) fully blank  []
+PASS  PRESEASON VSiN (U,V,W) fully blank  []
+PASS  QB VALUES manual-input columns fully blank (0 of 138 loaded)  []
+PASS  MARKET LINES manual-input columns fully blank  []
+PASS  FCS TIERS still carries zero rating/tier data  []
+PASS  SAC still FBS-RECLASSIFYING
+PASS  NDSU still FBS-RECLASSIFYING
+PASS  TEAM RATINGS!X114 (SAC review-cleared) still blank
+PASS  TEAM RATINGS!X122 (NDSU review-cleared) still blank
+PASS  IMPORT SCHEDULE 888 game ids intact
+PASS  CHANGELOG has exactly 1 v0.5.2 entry  1
+PASS  CHANGELOG v0.5.1 entry count unchanged at 9  9
+
+ALL CHECKS PASSED
