@@ -1,0 +1,30 @@
+PASS  FCS TIERS J:M has exactly 100 named-override rows  100
+PASS  Named-override set == the 100 2026-schedule FCS opponents  set()
+PASS  FCS named-override ratings match independent re-derivation (tol 0.01)  []
+PASS  All 100 override dates == 2026-07-20  []
+PASS  FCS TIERS!A6:A10 labels unchanged  ['Elite FCS', 'Strong FCS', 'Average FCS', 'Weak FCS', 'Transitional/uncertain']
+PASS  FCS tier fallback values match independent re-derivation  []
+PASS  Transitional/uncertain tier value left blank
+PASS  NDSU/Sacramento State NOT present in FCS named-override table
+
+Diff counts (v0.5 vs v0.4.2): {'START HERE': 2, 'FCS TIERS': 413, 'DICTIONARY': 2, 'CHANGELOG': 20}
+PASS  ZERO formula cells changed vs v0.4.2  []
+PASS  Diff touches only expected sheets  set()
+PASS  FCS TIERS diff == 413 (400 override cells [100x4] + 12 tier value/source/date [4x3] + A2 text)  413
+PASS  START HERE diff == 2 (banner + A3)  2
+PASS  DICTIONARY diff == 2 (A21, B21)  2
+PASS  CHANGELOG diff == 20 (5 new rows x 4)  20
+PASS  ZERO formula cells changed vs original approved v0.3.1 (full chain)  []
+PASS  PRESEASON TTW raw/date/cite (L,N,O) fully blank  []
+PASS  PRESEASON VSiN raw/date/cite (U,V,W) fully blank  []
+PASS  QB VALUES manual-input columns fully blank (all 138 UNCERTAIN)  []
+PASS  MARKET LINES manual-input columns fully blank (no lines entered, per Phase 5 scope limit)  []
+PASS  TEAM RATINGS!X114 (SAC transition review cleared) still blank
+PASS  TEAM RATINGS!X122 (NDSU transition review cleared) still blank
+PASS  SP+ (D) unchanged from v0.4.2  []
+PASS  FPI (H) unchanged from v0.4.2  []
+PASS  TeamRankings (Q) unchanged from v0.4.2  []
+PASS  IMPORT SCHEDULE 888 game ids intact
+PASS  CHANGELOG has 5 v0.5 entries  5
+
+ALL CHECKS PASSED

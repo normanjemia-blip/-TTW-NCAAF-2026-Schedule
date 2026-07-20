@@ -1,0 +1,40 @@
+{
+ "Elite FCS": {
+  "value": -8.3,
+  "n_teams": 32,
+  "range": [
+   -15.1,
+   6.7
+  ]
+ },
+ "Strong FCS": {
+  "value": -19.4,
+  "n_teams": 32,
+  "range": [
+   -22.2,
+   -15.3
+  ]
+ },
+ "Average FCS": {
+  "value": -25.2,
+  "n_teams": 32,
+  "range": [
+   -28.7,
+   -22.5
+  ]
+ },
+ "Weak FCS": {
+  "value": -35.5,
+  "n_teams": 33,
+  "range": [
+   -46.3,
+   -29.4
+  ]
+ },
+ "Transitional/uncertain": {
+  "value": null,
+  "n_teams": null,
+  "range": null,
+  "note": "reserved for FCS opponents with <6 completed 2025 games - no number invented"
+ }
+}

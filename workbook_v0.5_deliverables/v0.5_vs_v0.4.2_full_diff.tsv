@@ -1,0 +1,438 @@
+sheet	cell	v0.4.2_value	v0.5_value
+START HERE	A1	'TO THE WINDOW — NCAAF POWER RATINGS 2026 (v0.4.2 PHASE 4 SP+ CORRECTION — PENDING APPROVAL)'	'TO THE WINDOW — NCAAF POWER RATINGS 2026 (v0.5 PHASE 5 FCS + REVIEW BUILD — PENDING APPROVAL)'
+START HERE	A3	'PHASE 4 STATE: verified SP+, FPI, and TeamRankings 2026 preseason ratings are loaded for all 138 teams (PRESEASON, raw + date + citation; blend renormalizes over these three sources, available weight 0.70). Still unavailable or unpopulated: TTW independent 2025 prior (source access blocked - see CHANGELOG), VSiN (user-supplied, not provided), QB values (depth charts not yet published), market lines, and in-season statistics. Games correctly report PENDING LINE or a data-quality block until those load.'	'PHASE 5 STATE: FCS opponent-rating framework loaded (100/100 verified named ratings from 2025 ESPN results; see DICTIONARY). SP+, FPI, TeamRankings preseason ratings loaded for all 138 teams (blend weight 0.70). Still blocked/unpopulated: TTW independent 2025 prior (release-asset access blocked - exact file + retrieval steps in deliverables), VSiN (user-supplied, not provided), QB values (all 138 teams UNCERTAIN - no verifiable starter source published yet; see unresolved-QB report), market lines, in-season statistics. NDSU and Sacramento State remain transitional/NOT review-cleared (0 completed 2026 FBS games; safeguards validated intact). Games correctly report PENDING LINE, FCS/TRANSITION UNCERTAIN, QB UNCERTAIN, or a data-quality block until those load.'
+FCS TIERS	A2	'NDSU and Sacramento State are FBS-reclassifying and NEVER use this framework. Tier values remain BLANK — verified FCS ratings are deferred pending an authorized source load; FCS games stay blocked/uncertain until then. Named overrides beat tier assignment.'	'NDSU and Sacramento State are FBS-reclassifying and NEVER use this framework. Named-override ratings (J:M) are loaded for all 100 FCS opponents on the approved 2026 schedule (methodology in DICTIONARY); tier values (A:D) are a documented evidence-based fallback for any opponent not individually named - none of the current 100 need it. Named overrides beat tier assignment.'
+FCS TIERS	B6	None	-8.3
+FCS TIERS	C6	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games; quartile bucket of 32 rated non-FBS teams in the full 2025 graph, range -15.1 to 6.7. FALLBACK ONLY - none of the 100 current 2026-schedule FCS opponents use this; all resolved via the named-override table (J:M).'
+FCS TIERS	D6	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J6	None	'Abilene Christian Wildcats'
+FCS TIERS	K6	None	-8.58
+FCS TIERS	L6	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=14 2025 games)'
+FCS TIERS	M6	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	B7	None	-19.4
+FCS TIERS	C7	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games; quartile bucket of 32 rated non-FBS teams in the full 2025 graph, range -22.2 to -15.3. FALLBACK ONLY - none of the 100 current 2026-schedule FCS opponents use this; all resolved via the named-override table (J:M).'
+FCS TIERS	D7	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J7	None	'Alabama State Hornets'
+FCS TIERS	K7	None	-12.3
+FCS TIERS	L7	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M7	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	B8	None	-25.2
+FCS TIERS	C8	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games; quartile bucket of 32 rated non-FBS teams in the full 2025 graph, range -28.7 to -22.5. FALLBACK ONLY - none of the 100 current 2026-schedule FCS opponents use this; all resolved via the named-override table (J:M).'
+FCS TIERS	D8	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J8	None	'Alcorn State Braves'
+FCS TIERS	K8	None	-26.83
+FCS TIERS	L8	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M8	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	B9	None	-35.5
+FCS TIERS	C9	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games; quartile bucket of 33 rated non-FBS teams in the full 2025 graph, range -46.3 to -29.4. FALLBACK ONLY - none of the 100 current 2026-schedule FCS opponents use this; all resolved via the named-override table (J:M).'
+FCS TIERS	D9	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J9	None	'Arkansas-Pine Bluff Golden Lions'
+FCS TIERS	K9	None	-34.6
+FCS TIERS	L9	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=11 2025 games)'
+FCS TIERS	M9	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J10	None	'Austin Peay Governors'
+FCS TIERS	K10	None	-10.1
+FCS TIERS	L10	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M10	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J11	None	'Bethune-Cookman Wildcats'
+FCS TIERS	K11	None	-25.98
+FCS TIERS	L11	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M11	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J12	None	'Bryant Bulldogs'
+FCS TIERS	K12	None	-32.95
+FCS TIERS	L12	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M12	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J13	None	'Bucknell Bison'
+FCS TIERS	K13	None	-32.6
+FCS TIERS	L13	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M13	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J14	None	'Cal Poly Mustangs'
+FCS TIERS	K14	None	-13.82
+FCS TIERS	L14	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M14	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J15	None	'Campbell Fighting Camels'
+FCS TIERS	K15	None	-27.68
+FCS TIERS	L15	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M15	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J16	None	'Central Arkansas Bears'
+FCS TIERS	K16	None	-20.14
+FCS TIERS	L16	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M16	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J17	None	'Central Connecticut Blue Devils'
+FCS TIERS	K17	None	-22.15
+FCS TIERS	L17	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=13 2025 games)'
+FCS TIERS	M17	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J18	None	'Charleston Southern Buccaneers'
+FCS TIERS	K18	None	-24.81
+FCS TIERS	L18	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M18	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J19	None	'Chattanooga Mocs'
+FCS TIERS	K19	None	-26.51
+FCS TIERS	L19	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M19	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J20	None	'Colgate Raiders'
+FCS TIERS	K20	None	-23.38
+FCS TIERS	L20	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M20	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J21	None	'Delaware State Hornets'
+FCS TIERS	K21	None	-23.85
+FCS TIERS	L21	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M21	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J22	None	'Duquesne Dukes'
+FCS TIERS	K22	None	-23.36
+FCS TIERS	L22	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M22	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J23	None	'East Tennessee State Buccaneers'
+FCS TIERS	K23	None	-15.53
+FCS TIERS	L23	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M23	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J24	None	'East Texas A&M Lions'
+FCS TIERS	K24	None	-24.35
+FCS TIERS	L24	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M24	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J25	None	'Eastern Illinois Panthers'
+FCS TIERS	K25	None	-28.54
+FCS TIERS	L25	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M25	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J26	None	'Eastern Kentucky Colonels'
+FCS TIERS	K26	None	-18.44
+FCS TIERS	L26	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M26	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J27	None	'Eastern Washington Eagles'
+FCS TIERS	K27	None	-17.34
+FCS TIERS	L27	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M27	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J28	None	'Elon Phoenix'
+FCS TIERS	K28	None	-19.78
+FCS TIERS	L28	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M28	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J29	None	'Florida A&M Rattlers'
+FCS TIERS	K29	None	-35.16
+FCS TIERS	L29	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M29	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J30	None	'Fordham Rams'
+FCS TIERS	K30	None	-35.4
+FCS TIERS	L30	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M30	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J31	None	'Furman Paladins'
+FCS TIERS	K31	None	-25.79
+FCS TIERS	L31	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M31	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J32	None	"Gardner-Webb Runnin' Bulldogs"
+FCS TIERS	K32	None	-19.95
+FCS TIERS	L32	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M32	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J33	None	'Grambling Tigers'
+FCS TIERS	K33	None	-25.87
+FCS TIERS	L33	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M33	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J34	None	'Hampton Pirates'
+FCS TIERS	K34	None	-41.17
+FCS TIERS	L34	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M34	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J35	None	'Holy Cross Crusaders'
+FCS TIERS	K35	None	-22.91
+FCS TIERS	L35	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M35	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J36	None	'Houston Christian Huskies'
+FCS TIERS	K36	None	-33.77
+FCS TIERS	L36	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M36	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J37	None	'Howard Bison'
+FCS TIERS	K37	None	-32.37
+FCS TIERS	L37	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M37	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J38	None	'Idaho State Bengals'
+FCS TIERS	K38	None	-10.82
+FCS TIERS	L38	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M38	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J39	None	'Idaho Vandals'
+FCS TIERS	K39	None	-15.06
+FCS TIERS	L39	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M39	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J40	None	'Illinois State Redbirds'
+FCS TIERS	K40	None	-5.44
+FCS TIERS	L40	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=17 2025 games)'
+FCS TIERS	M40	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J41	None	'Incarnate Word Cardinals'
+FCS TIERS	K41	None	-16.9
+FCS TIERS	L41	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M41	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J42	None	'Indiana State Sycamores'
+FCS TIERS	K42	None	-20.98
+FCS TIERS	L42	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M42	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J43	None	'Lafayette Leopards'
+FCS TIERS	K43	None	-19.48
+FCS TIERS	L43	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M43	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J44	None	'Lamar Cardinals'
+FCS TIERS	K44	None	-14.73
+FCS TIERS	L44	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=13 2025 games)'
+FCS TIERS	M44	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J45	None	'Lindenwood Lions'
+FCS TIERS	K45	None	-22.08
+FCS TIERS	L45	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M45	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J46	None	'Long Island University Sharks'
+FCS TIERS	K46	None	-24.99
+FCS TIERS	L46	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M46	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J47	None	'Maine Black Bears'
+FCS TIERS	K47	None	-22.47
+FCS TIERS	L47	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M47	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J48	None	'McNeese Cowboys'
+FCS TIERS	K48	None	-22.75
+FCS TIERS	L48	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M48	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J49	None	'Mercer Bears'
+FCS TIERS	K49	None	-11.88
+FCS TIERS	L49	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M49	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J50	None	'Mercyhurst Lakers'
+FCS TIERS	K50	None	-26.11
+FCS TIERS	L50	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M50	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J51	None	'Merrimack Warriors'
+FCS TIERS	K51	None	-28.68
+FCS TIERS	L51	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M51	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J52	None	'Mississippi Valley State Delta Devils'
+FCS TIERS	K52	None	-38.91
+FCS TIERS	L52	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M52	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J53	None	'Monmouth Hawks'
+FCS TIERS	K53	None	-15.3
+FCS TIERS	L53	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M53	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J54	None	'Montana Grizzlies'
+FCS TIERS	K54	None	0.01
+FCS TIERS	L54	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=15 2025 games)'
+FCS TIERS	M54	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J55	None	'Montana State Bobcats'
+FCS TIERS	K55	None	4.82
+FCS TIERS	L55	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=16 2025 games)'
+FCS TIERS	M55	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J56	None	'Morgan State Bears'
+FCS TIERS	K56	None	-29.9
+FCS TIERS	L56	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M56	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J57	None	'Murray State Racers'
+FCS TIERS	K57	None	-29.42
+FCS TIERS	L57	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M57	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J58	None	'New Hampshire Wildcats'
+FCS TIERS	K58	None	-16.56
+FCS TIERS	L58	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=13 2025 games)'
+FCS TIERS	M58	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J59	None	'Nicholls Colonels'
+FCS TIERS	K59	None	-21.91
+FCS TIERS	L59	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M59	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J60	None	'Norfolk State Spartans'
+FCS TIERS	K60	None	-37.66
+FCS TIERS	L60	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M60	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J61	None	'North Alabama Lions'
+FCS TIERS	K61	None	-25.39
+FCS TIERS	L61	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M61	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J62	None	'North Carolina A&T Aggies'
+FCS TIERS	K62	None	-36.72
+FCS TIERS	L62	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M62	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J63	None	'North Carolina Central Eagles'
+FCS TIERS	K63	None	-20.64
+FCS TIERS	L63	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M63	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J64	None	'North Dakota Fighting Hawks'
+FCS TIERS	K64	None	-0.49
+FCS TIERS	L64	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=14 2025 games)'
+FCS TIERS	M64	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J65	None	'Northern Arizona Lumberjacks'
+FCS TIERS	K65	None	-13.38
+FCS TIERS	L65	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M65	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J66	None	'Northern Colorado Bears'
+FCS TIERS	K66	None	-20.35
+FCS TIERS	L66	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M66	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J67	None	'Northern Iowa Panthers'
+FCS TIERS	K67	None	-21.27
+FCS TIERS	L67	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M67	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J68	None	'Northwestern State Demons'
+FCS TIERS	K68	None	-34.63
+FCS TIERS	L68	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M68	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J69	None	'Portland State Vikings'
+FCS TIERS	K69	None	-27.04
+FCS TIERS	L69	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M69	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J70	None	'Prairie View A&M Panthers'
+FCS TIERS	K70	None	-18.63
+FCS TIERS	L70	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=14 2025 games)'
+FCS TIERS	M70	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J71	None	'Rhode Island Rams'
+FCS TIERS	K71	None	-13.37
+FCS TIERS	L71	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=14 2025 games)'
+FCS TIERS	M71	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J72	None	'Richmond Spiders'
+FCS TIERS	K72	None	-23.97
+FCS TIERS	L72	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M72	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J73	None	'Robert Morris Colonials'
+FCS TIERS	K73	None	-33.82
+FCS TIERS	L73	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M73	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J74	None	'SE Louisiana Lions'
+FCS TIERS	K74	None	-10.11
+FCS TIERS	L74	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=13 2025 games)'
+FCS TIERS	M74	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J75	None	'Sacred Heart Pioneers'
+FCS TIERS	K75	None	-25.36
+FCS TIERS	L75	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M75	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J76	None	'Samford Bulldogs'
+FCS TIERS	K76	None	-35.15
+FCS TIERS	L76	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M76	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J77	None	'South Dakota Coyotes'
+FCS TIERS	K77	None	-9.84
+FCS TIERS	L77	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=15 2025 games)'
+FCS TIERS	M77	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J78	None	'South Dakota State Jackrabbits'
+FCS TIERS	K78	None	-6.05
+FCS TIERS	L78	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=14 2025 games)'
+FCS TIERS	M78	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J79	None	'Southeast Missouri State Redhawks'
+FCS TIERS	K79	None	-25.7
+FCS TIERS	L79	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M79	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J80	None	'Southern Illinois Salukis'
+FCS TIERS	K80	None	-7.19
+FCS TIERS	L80	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M80	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J81	None	'Southern Jaguars'
+FCS TIERS	K81	None	-39.86
+FCS TIERS	L81	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M81	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J82	None	'Southern Utah Thunderbirds'
+FCS TIERS	K82	None	-10.37
+FCS TIERS	L82	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M82	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J83	None	'Stonehill Skyhawks'
+FCS TIERS	K83	None	-31.88
+FCS TIERS	L83	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M83	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J84	None	'Stony Brook Seawolves'
+FCS TIERS	K84	None	-19.86
+FCS TIERS	L84	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M84	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J85	None	'Tarleton State Texans'
+FCS TIERS	K85	None	-0.23
+FCS TIERS	L85	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=14 2025 games)'
+FCS TIERS	M85	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J86	None	'Tennessee State Tigers'
+FCS TIERS	K86	None	-35.12
+FCS TIERS	L86	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M86	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J87	None	'Tennessee Tech Golden Eagles'
+FCS TIERS	K87	None	-11.94
+FCS TIERS	L87	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=13 2025 games)'
+FCS TIERS	M87	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J88	None	'Texas Southern Tigers'
+FCS TIERS	K88	None	-28.46
+FCS TIERS	L88	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=10 2025 games)'
+FCS TIERS	M88	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J89	None	'The Citadel Bulldogs'
+FCS TIERS	K89	None	-22.2
+FCS TIERS	L89	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M89	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J90	None	'Towson Tigers'
+FCS TIERS	K90	None	-22.78
+FCS TIERS	L90	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M90	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J91	None	'UAlbany Great Danes'
+FCS TIERS	K91	None	-32.15
+FCS TIERS	L91	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M91	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J92	None	'UC Davis Aggies'
+FCS TIERS	K92	None	-6.3
+FCS TIERS	L92	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=13 2025 games)'
+FCS TIERS	M92	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J93	None	'UT Martin Skyhawks'
+FCS TIERS	K93	None	-22.84
+FCS TIERS	L93	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M93	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J94	None	'UT Rio Grande Valley Vaqueros'
+FCS TIERS	K94	None	-12.72
+FCS TIERS	L94	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M94	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J95	None	'Utah Tech Trailblazers'
+FCS TIERS	K95	None	-26.73
+FCS TIERS	L95	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M95	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J96	None	'VMI Keydets'
+FCS TIERS	K96	None	-39.42
+FCS TIERS	L96	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M96	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J97	None	'Villanova Wildcats'
+FCS TIERS	K97	None	-8.89
+FCS TIERS	L97	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=15 2025 games)'
+FCS TIERS	M97	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J98	None	'Wagner Seahawks'
+FCS TIERS	K98	None	-32.42
+FCS TIERS	L98	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M98	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J99	None	'Weber State Wildcats'
+FCS TIERS	K99	None	-20.36
+FCS TIERS	L99	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M99	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J100	None	'West Georgia Wolves'
+FCS TIERS	K100	None	-13.01
+FCS TIERS	L100	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=11 2025 games)'
+FCS TIERS	M100	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J101	None	'Western Carolina Catamounts'
+FCS TIERS	K101	None	-18.88
+FCS TIERS	L101	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M101	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J102	None	'Western Illinois Leathernecks'
+FCS TIERS	K102	None	-27.72
+FCS TIERS	L102	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M102	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J103	None	'William & Mary Tribe'
+FCS TIERS	K103	None	-19.25
+FCS TIERS	L103	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M103	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J104	None	'Wofford Terriers'
+FCS TIERS	K104	None	-18.84
+FCS TIERS	L104	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=12 2025 games)'
+FCS TIERS	M104	None	datetime.datetime(2026, 7, 20, 0, 0)
+FCS TIERS	J105	None	'Youngstown State Penguins'
+FCS TIERS	K105	None	-9.06
+FCS TIERS	L105	None	'TTW-computed opponent-adjusted rating (SRS-style iterative solve, HFA 2.5, cap +/-28/game, mean-centered to FBS=0) from verified 2025 ESPN scoreboard results (site.api.espn.com), groups 80+81, seasontype 2+3, all completed games (n=13 2025 games)'
+FCS TIERS	M105	None	datetime.datetime(2026, 7, 20, 0, 0)
+DICTIONARY	A21	None	'FCS opponent ratings (FCS TIERS J:M named overrides; A:D fallback tiers)'
+DICTIONARY	B21	None	"Built in Phase 5. Massey Ratings (the obvious named external FCS source) returned HTTP 403/Cloudflare-blocked; no other external FCS rating source is named in the approved architecture. Instead: an iterative opponent-adjusted-margin (SRS-style) solve over the complete 2025 FBS+FCS completed-game graph from ESPN's structured scoreboard API (site.api.espn.com, same verified source family as the schedule build) - HFA 2.5, per-game cap +/-28 (same cap named for the FBS TTW-prior technique), mean-centered so the FBS subset averages 0. A team gets a named-override numeric rating only with >=6 completed 2025 games (0 of the 100 2026-schedule FCS opponents fell short). The A:D tier table is a documented, evidence-based fallback (quartiles of all rated non-FBS teams in the same graph) for any FCS opponent not individually named - unused by the current 100, held in reserve. This is a new construction this phase, not a pre-existing named external rating - flagged for user awareness."
+CHANGELOG	A34	None	'v0.5'
+CHANGELOG	B34	None	'2026-07-20'
+CHANGELOG	C34	None	'FCS opponent-rating framework built and loaded (Phase 5 item 1): all 100 distinct FCS programs on the approved 2026 schedule (IMPORT SCHEDULE, 888 rows) received a VERIFIED individual numeric rating (FCS TIERS!J6:M105), computed from the complete 2025 ESPN scoreboard results (315-team FBS+FCS graph, 1,686 completed games) via an iterative opponent-adjusted-margin solve - not a bucket guess. Methodology fully documented in DICTIONARY!B21 and the Phase 5 deliverables. A 4-tier evidence-based fallback (FCS TIERS!A6:D9, quartiles of the same rated-team population) was also built and documented for any future opponent without a named override; 0 of the 100 current opponents need it. Massey Ratings (external named source) was attempted first and found blocked (HTTP 403/Cloudflare).'
+CHANGELOG	D34	None	'v0.5 - FCS framework'
+CHANGELOG	A35	None	'v0.5'
+CHANGELOG	B35	None	'2026-07-20'
+CHANGELOG	C35	None	'TTW independent 2025 prior re-checked (Phase 5 item 2): both unblock paths identified in the v0.4.1 investigation were re-tested and remain blocked (release-asset download still returns the session repo-scope gate; add_repo for sportsdataverse/sportsdataverse-data still denied as cross-tier; CFBD API still 401 with no key configured). No proxy substituted (not SP+, not polls, not win totals). PRESEASON!L:P remains blank. Exact file needed (play_by_play_2025.rds/.parquet, release tag cfbfastR_cfb_pbp) and the simplest user retrieval procedure are documented in the Phase 5 deliverables (ttw_prior_recheck.md).'
+CHANGELOG	D35	None	'v0.5 - TTW prior re-check (still blocked)'
+CHANGELOG	A36	None	'v0.5'
+CHANGELOG	B36	None	'2026-07-20'
+CHANGELOG	C36	None	"QB information reviewed (Phase 5 item 3): ESPN depth-chart endpoints re-tested for multiple programs, still return an empty body; the ESPN roster endpoint lists rostered QBs but carries no starter/depth designation, and inferring one from jersey number, experience, or name recognition would be speculation, which was not done. All 138 teams remain UNCERTAIN in QB VALUES (no cell changed - the tab's existing status formula already yields UNCERTAIN for blank inputs). A separate 138-row unresolved-QB report was produced listing every team and the specific reason it could not be resolved."
+CHANGELOG	D36	None	'v0.5 - QB review (0 of 138 resolved; report produced)'
+CHANGELOG	A37	None	'v0.5'
+CHANGELOG	B37	None	'2026-07-20'
+CHANGELOG	C37	None	'VSiN confirmed left blank (Phase 5 item 4) - still user-supplied only, none provided.'
+CHANGELOG	D37	None	'v0.5 - VSiN unchanged'
+CHANGELOG	A38	None	'v0.5'
+CHANGELOG	B38	None	'2026-07-20'
+CHANGELOG	C38	None	'NDSU/Sacramento State validated under the approved transitional rules (Phase 5 item 5): full safeguard chain traced end-to-end (TEAM MAP!D/E -> TEAM RATINGS!D/X -> ENGINE!AF/AI -> DATA QUALITY!B11) and confirmed intact and correctly still active - TEAM RATINGS!X114/X122 (Transition review cleared) remain blank for both, correctly, since 2026 FBS games completed = 0 for each (season has not started) against the required >=4-game threshold (SETTINGS!B25). Neither team is ready to be review-cleared. No safeguard was removed, weakened, or bypassed; full trace in the Phase 5 deliverables (transitional_validation.md).'
+CHANGELOG	D38	None	'v0.5 - NDSU/Sac State transitional validation'
