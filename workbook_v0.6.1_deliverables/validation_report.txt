@@ -1,0 +1,52 @@
+Diff vs v0.6: {'START HERE': 1, 'ADJUSTMENTS': 500, 'CHANGELOG': 25}
+PASS  Diff vs v0.6 touches ONLY ADJUSTMENTS + START HERE + CHANGELOG  {'START HERE': 1, 'ADJUSTMENTS': 500, 'CHANGELOG': 25}
+PASS  ADJUSTMENTS diff vs v0.6 == 500 (250 J + 250 K corrected formulas)  500
+PASS  START HERE diff vs v0.6 == 1 (banner only)  1
+Diff vs v0.5.2: {'START HERE': 1, 'ADJUSTMENTS': 500, 'CHANGELOG': 52}
+PASS  Diff vs v0.5.2 touches ONLY ADJUSTMENTS + START HERE + CHANGELOG  {'START HERE': 1, 'ADJUSTMENTS': 500, 'CHANGELOG': 52}
+PASS  ADJUSTMENTS diff vs v0.5.2 == 500 (same 500 formula cells - v0.6 never touched ADJUSTMENTS)  500
+PASS  Formula diffs vs v0.5.2 are EXCLUSIVELY the 500 ADJUSTMENTS J/K cells (no other formula anywhere changed)  500
+PASS  ADJUSTMENTS!K6:K255 byte-exact match to user-specified formula, all 250 rows  []
+PASS  ADJUSTMENTS!J6:J255 byte-exact match to safety-corrected formula, all 250 rows  []
+PASS  888 total classified games  888
+PASS  761 FBS-vs-FBS games requiring lines  761
+PASS  127 FCS — NO PLAY games  127
+PASS  888 unique schedule games in v0.6.1  888
+PASS  All 888 GameIDs unique (Python cross-check of AUDIT!B19's intent)  888
+PASS  138 QB rows fully blank (all UNCERTAIN)  []
+PASS  138 QB VALUES rows present  138
+PASS  0 market lines (MARKET LINES manual columns fully blank)  []
+PASS  0 manual adjustments  []
+PASS  0 imported in-season statistics  []
+PASS  BET toggle OFF (SETTINGS!B11 = N)  N
+PASS  SETTINGS!B4 (current week) blank (preseason)
+PASS  SETTINGS!B5 (as-of date) blank (preseason)
+PASS  0 HISTORY snapshots  []
+PASS  IMPORT SCHEDULE row 8 away_points blank (no synthetic score)  None
+PASS  IMPORT SCHEDULE row 9 away_points blank (no synthetic score)  None
+PASS  IMPORT SCHEDULE row 14 away_points blank (no synthetic score)  None
+PASS  IMPORT SCHEDULE row 20 holds its real original GameID (NDSU fixture not present)  401856663
+PASS  IMPORT SCHEDULE row 21 holds its real original GameID (NDSU fixture not present)  401856768
+PASS  IMPORT SCHEDULE row 22 holds its real original GameID (NDSU fixture not present)  401856776
+PASS  IMPORT SCHEDULE row 23 holds its real original GameID (NDSU fixture not present)  401858422
+PASS  IMPORT SCHEDULE row 24 holds its real original GameID (NDSU fixture not present)  401858424
+PASS  No remaining TEST/SYNTHETIC data outside CHANGELOG's own description  []
+PASS  SAC still FBS-RECLASSIFYING
+PASS  NDSU still FBS-RECLASSIFYING
+PASS  TEAM RATINGS!X114 (SAC review-cleared) blank
+PASS  TEAM RATINGS!X122 (NDSU review-cleared) blank
+PASS  CHANGELOG has 6 v0.6.1 entries  6
+PASS  CHANGELOG v0.6 entry count unchanged (7)  7
+PASS  CHANGELOG v0.5.2 entry count unchanged (1)  1
+PASS  START HERE banner reads v0.6.1 pending-approval text  TO THE WINDOW — NCAAF POWER RATINGS 2026 (v0.6.1 PHASE 6 CORRECTION + TEST-COMPLETION BUILD — PENDING APPROVAL)
+PASS  Cleaned test-copy is CELL-IDENTICAL to pristine v0.6.1 (0 differences, all sheets)  {}
+PASS  9 live-calculated AUDIT invariants (B6-B9,B12-B15,B17,B18) all read OK/N-A  []
+PASS  B16 ground truth (direct inspection, library COUNTIF-wildcard-on-blank bug documented) = OK — clean  0 non-blank MARKET LINES!A6:A1005 cells
+PASS  B19 ground truth (Python duplicate check) = OK  888
+PASS  B10 ground truth (0 lines + 0 QBs => 0 rows reach READY => vacuously OK)
+PASS  AUDIT!F1 failing-invariant count = 0 (all 11 invariants OK/N-A by live-calc + direct proof)
+PASS  0 literal cached error values anywhere in the workbook (excl. CHANGELOG's own prose description of the defect it documents)  []
+PASS  0 unbalanced-parenthesis formulas anywhere in the workbook (syntax sanity)  []
+PASS  Harness proof: corrected K/J formulas evaluate cleanly on oversized/non-numeric inputs (no #VALUE!/#REF!)  see harness_test_D2.xlsx / harness_test_E2.xlsx / harness_test_F_override.xlsx results
+
+ALL CHECKS PASSED
