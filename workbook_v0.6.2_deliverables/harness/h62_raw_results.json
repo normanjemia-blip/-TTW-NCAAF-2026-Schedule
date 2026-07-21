@@ -1,0 +1,374 @@
+{
+ "datainc_control": {
+  "G1": {
+   "STATUS": "READY",
+   "spread_edge": "4.328571428571427",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "0",
+   "date_C": "46263"
+  }
+ },
+ "datainc_week_blank": {
+  "G1": {
+   "STATUS": "DATA INCOMPLETE",
+   "spread_edge": "4.328571428571427",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "",
+   "date_C": "46263"
+  }
+ },
+ "datainc_date_blank": {
+  "G1": {
+   "STATUS": "DATA INCOMPLETE",
+   "spread_edge": "4.328571428571427",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "0",
+   "date_C": ""
+  }
+ },
+ "datainc_restored": {
+  "G1": {
+   "STATUS": "READY",
+   "spread_edge": "4.328571428571427",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "0",
+   "date_C": "46263"
+  }
+ },
+ "stack_transitional_over_datainc": {
+  "G5": {
+   "STATUS": "TRANSITION UNCERTAIN",
+   "spread_edge": "3.9642857142857126",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "6.964285714285713",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "TRANSITIONAL",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "",
+   "date_C": "46263"
+  }
+ },
+ "stack_qbunc_over_datainc": {
+  "G1": {
+   "STATUS": "QB UNCERTAIN",
+   "spread_edge": "-1.1714285714285726",
+   "spread_label": "LEAN",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "",
+   "date_C": "46263"
+  }
+ },
+ "stack_pending_over_datainc": {
+  "G3": {
+   "STATUS": "PENDING LINE",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "35.19285714285714",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "",
+   "date_C": "46263"
+  }
+ },
+ "stack_blocked_over_datainc": {
+  "G7": {
+   "STATUS": "BLOCKED",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "24.0",
+   "manual_adj": "0.0",
+   "block_reasons": "INVALID FAVORITE; ",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "",
+   "date_C": "46268"
+  }
+ },
+ "status_chain": {
+  "G1": {
+   "STATUS": "QB UNCERTAIN",
+   "spread_edge": "-1.1714285714285726",
+   "spread_label": "LEAN",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "G2": {
+   "STATUS": "STALE LINE",
+   "spread_edge": "1.1571428571428557",
+   "spread_label": "",
+   "final_margin": "4.157142857142856",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "G3": {
+   "STATUS": "PENDING LINE",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "35.19285714285714",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "G5": {
+   "STATUS": "TRANSITION UNCERTAIN",
+   "spread_edge": "3.9642857142857126",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "6.964285714285713",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "TRANSITIONAL",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "G6": {
+   "STATUS": "FCS \u2014 NO PLAY",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "FCS OPP",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "1",
+   "date_C": "46268"
+  },
+  "G7": {
+   "STATUS": "BLOCKED",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "24.0",
+   "manual_adj": "0.0",
+   "block_reasons": "INVALID FAVORITE; ",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "1",
+   "date_C": "46268"
+  }
+ },
+ "adj_valid": {
+  "G4": {
+   "STATUS": "READY",
+   "spread_edge": "4.73571428571428",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "29.23571428571428",
+   "manual_adj": "1.5",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "adj6": {
+   "J_effective": "1",
+   "K_flags": ""
+  }
+ },
+ "adj_oversized": {
+  "G4": {
+   "STATUS": "QB UNCERTAIN",
+   "spread_edge": "3.2357142857142804",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "27.73571428571428",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "adj6": {
+   "J_effective": "0",
+   "K_flags": "LARGE ADJ (>4); "
+  }
+ },
+ "adj_nonnumeric": {
+  "G4": {
+   "STATUS": "QB UNCERTAIN",
+   "spread_edge": "3.2357142857142804",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "27.73571428571428",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "adj6": {
+   "J_effective": "0",
+   "K_flags": "VALUE NOT NUMERIC; "
+  }
+ },
+ "adj_override": {
+  "G4": {
+   "STATUS": "QB UNCERTAIN",
+   "spread_edge": "-9.5",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "15.0",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "adj6": {
+   "J_effective": "1",
+   "K_flags": ""
+  }
+ },
+ "adj_noreason": {
+  "G4": {
+   "STATUS": "QB UNCERTAIN",
+   "spread_edge": "3.2357142857142804",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "27.73571428571428",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "adj6": {
+   "J_effective": "0",
+   "K_flags": "REASON MISSING; "
+  }
+ },
+ "bet_N": {
+  "G1": {
+   "STATUS": "READY",
+   "spread_edge": "4.328571428571427",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "toggle": "N"
+ },
+ "bet_Y": {
+  "G1": {
+   "STATUS": "READY",
+   "spread_edge": "4.328571428571427",
+   "spread_label": "BET",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "toggle": "Y"
+ },
+ "ndsu_functional": {
+  "G5": {
+   "STATUS": "TRANSITION UNCERTAIN",
+   "spread_edge": "11.45614078674948",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "11.95614078674948",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "TRANSITIONAL",
+   "fcs_flag": "",
+   "qb_status": "OK",
+   "week_B": "0",
+   "date_C": "46263"
+  },
+  "NDSU_F_games": "5.0",
+  "NDSU_X_reviewcleared": "NOTFOUND"
+ },
+ "fcs_protection": {
+  "G6": {
+   "STATUS": "FCS \u2014 NO PLAY",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional": "",
+   "fcs_flag": "FCS OPP",
+   "qb_status": "QB UNCERTAIN",
+   "week_B": "1",
+   "date_C": "46268"
+  }
+ },
+ "fade_table": {
+  "0": "1.0",
+  "1": "0.8",
+  "2": "0.65",
+  "3": "0.5",
+  "4": "0.4",
+  "5": "0.3",
+  "6": "0.225",
+  "7": "0.175",
+  "8": "0.125",
+  "9": "0.1",
+  "10": "0.1"
+ }
+}

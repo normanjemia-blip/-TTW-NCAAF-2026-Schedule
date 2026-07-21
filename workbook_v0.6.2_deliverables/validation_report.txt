@@ -1,0 +1,41 @@
+PASS 21 sheets  21
+PASS sheet hidden/visible states exactly as approved
+PASS hidden/visible states unchanged vs v0.6.1
+PASS fullCalcOnLoad = True (recalc on open enabled)  True
+PASS CLEAN!C6:C1005 all carry the repaired blank-guarded formula  []
+PASS CLEAN!D6:D1005 all carry the repaired blank-guarded formula  []
+PASS only CLEAN + START HERE + CHANGELOG differ vs v0.6.1  {'START HERE': 1, 'CLEAN': 2000, 'CHANGELOG': 4}
+PASS CLEAN diff == 2000 (C+D)  2000
+PASS START HERE diff == 1 (banner)  1
+PASS CHANGELOG diff == 4 (one new v0.6.2 row)  4
+PASS ADJUSTMENTS!J/K 250 rows byte-identical to v0.6.1 (no unrelated adj change)  []
+PASS ADJUSTMENTS!J6 requires K blank (safety logic present)
+PASS ADJUSTMENTS!K6 has ISNUMBER guard (no raw #VALUE!)
+PASS 138 QB rows fully blank (all UNCERTAIN)  []
+PASS 138 QB VALUES rows present
+PASS 0 market lines  []
+PASS 0 manual adjustments  []
+PASS 0 imported statistics  []
+PASS BET toggle = N (approved default)  N
+PASS SETTINGS!B4 (week) blank
+PASS SETTINGS!B5 (as-of) blank
+PASS 0 HISTORY snapshots  []
+PASS 888 scheduled games  888
+PASS all 888 GameIDs unique  888
+PASS rows 894-1005 blank (no phantom games)
+PASS classification covers exactly the 888 populated schedule rows  0 mismatched
+PASS 761 FBS-vs-FBS games  761
+PASS 127 FCS-involved / FCS — NO PLAY games  127
+PASS 0 BLOCK-classified games in pristine schedule  0
+PASS IMPORT SCHEDULE 888 rows byte-identical to classification source (v0.6.1 working)
+PASS TEAM MAP byte-identical to classification source (v0.6.1 working)
+PASS SAC still FBS-RECLASSIFYING
+PASS NDSU still FBS-RECLASSIFYING
+PASS TEAM RATINGS!X114 (SAC review-cleared) blank
+PASS TEAM RATINGS!X122 (NDSU review-cleared) blank
+PASS 0 stored formula-error cells (excl. CHANGELOG prose)  []
+PASS banner shows v0.6.2
+PASS exactly one v0.6.2 CHANGELOG row  [57]
+PASS prior CHANGELOG history unchanged (v0.6.1 still 6 rows)
+
+ALL VALIDATION CHECKS PASSED
