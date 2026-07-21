@@ -1,0 +1,12 @@
+{
+  "games": {
+    "G1": {"row": 8, "id": "401858202", "away": "NC State Wolfpack", "home": "Virginia Cavaliers", "away_ab": "NCST", "home_ab": "UVA", "neutral": false, "role": "main line-entry test game (valid line, edges, labels, confidence, priority, BET toggle, HFA)"},
+    "G2": {"row": 6, "id": "401856766", "away": "North Carolina Tar Heels", "home": "TCU Horned Frogs", "away_ab": "UNC", "home_ab": "TCU", "neutral": true, "role": "neutral-site HFA test + stale-line test"},
+    "G3": {"row": 9, "id": "401864494", "away": "San José State Spartans", "home": "USC Trojans", "away_ab": "SJSU", "home_ab": "USC", "neutral": false, "role": "missing-line test (PENDING LINE)"},
+    "G4": {"row": 10, "id": "401864570", "away": "New Mexico State Aggies", "home": "Florida State Seminoles", "away_ab": "NMSU", "home_ab": "FSU", "neutral": false, "role": "QB UNCERTAIN + temporarily-resolved-QB test + manual/oversized adjustment tests"},
+    "G5": {"row": 11, "id": "401864577", "away": "Jacksonville State Gamecocks", "home": "North Dakota State Bison", "away_ab": "JVST", "home_ab": "NDSU", "neutral": false, "role": "TRANSITION UNCERTAIN test (NDSU home, reclassifier)"},
+    "G6": {"row": 14, "id": "401856767", "away": "Bethune-Cookman Wildcats", "home": "UCF Knights", "away_ab": null, "home_ab": "UCF", "neutral": false, "role": "FCS — NO PLAY test + line-cannot-override test"},
+    "G7": {"row": 15, "id": "401858204", "away": "Akron Zips", "home": "Wake Forest Demon Deacons", "away_ab": "AKR", "home_ab": "WAKE", "neutral": false, "role": "invalid/incomplete line test (bad favorite)"}
+  },
+  "note": "All GameIDs verified real rows from the approved 888-row v0.5.2/v0.6 schedule. away_ab/home_ab are canonical TEAM MAP abbreviations. Bethune-Cookman has no away_ab because it is FCS (never gets a canonical FBS abbrev)."
+}
