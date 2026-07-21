@@ -38,6 +38,7 @@ threshold/schedule logic — was touched.
 | `harness/` | Compact real-formula test harness (see below). |
 | `fixtures/` | Full-scale fixture application + cleanup (see below). |
 | `proof_of_removal/` | Zero-difference cleanup proof (see below). |
+| `promotion/` | Phase 7 native Google Sheets promotion: promotion manifest, round-trip verification report/JSON, and the round-trip verification script. |
 
 ### `harness/`
 
@@ -88,5 +89,15 @@ redistributed here since v0.6.1 is unmodified and already delivered.)
 
 v0.5.2, v0.6, and v0.6.1 are unmodified. No preseason ratings, HFA, QB
 values, thresholds, weights, schedule, rankings, or market logic were
-altered. No additional defect was silently fixed (none was found). **Phase
-7 has not started.**
+altered. No additional defect was silently fixed (none was found).
+
+## Promotion status (Phase 7)
+
+v0.6.2 was **approved** and promoted to a new native Google Sheet
+(`1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc`), round-trip verified
+(PASS), and is now the **current authoritative production workbook**. The
+v0.6.1 sheet (`1EITbPHCkNndhtgydsjZDejQ5tOx_IQvkI5yC0nEwYWo`) is preserved
+unmodified as the rollback version. See `promotion/` in this directory and
+the repository-root `PROJECT_MANIFEST.json` / `README.md`. Phase 7
+(repository closeout and authoritative-version promotion) is complete; no
+new model-development phase has been started.

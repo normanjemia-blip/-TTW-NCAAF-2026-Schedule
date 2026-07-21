@@ -1,0 +1,54 @@
+{
+  "project": "TTW NCAAF Power Ratings 2026",
+  "manifest_updated": "2026-07-21",
+  "current_authoritative": {
+    "version": "v0.6.2",
+    "title": "TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE",
+    "status": "APPROVED — current authoritative production workbook",
+    "native_google_sheet_id": "1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc",
+    "native_google_sheet_url": "https://docs.google.com/spreadsheets/d/1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc",
+    "source_xlsx": "workbook_v0.6.2_deliverables/TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE.xlsx",
+    "source_sha256": "bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd",
+    "promotion_date": "2026-07-21",
+    "roundtrip_verification": "PASS",
+    "deliverables_dir": "workbook_v0.6.2_deliverables",
+    "change_summary": "Phase 6.2 DATA INCOMPLETE pathway repair: CLEAN!C6:C1005 and CLEAN!D6:D1005 rebuilt with nested blank-preservation guards; 2005 cell-level changes vs v0.6.1 (2000 CLEAN formulas + banner + one CHANGELOG row); no other formula, formatting, sheet state, or production data touched."
+  },
+  "rollback": {
+    "version": "v0.6.1",
+    "title": "TTW_NCAAF_Power_Ratings_2026_v0.6.1_AUTHORITATIVE",
+    "status": "PRESERVED — rollback version, unmodified",
+    "native_google_sheet_id": "1EITbPHCkNndhtgydsjZDejQ5tOx_IQvkI5yC0nEwYWo",
+    "native_google_sheet_url": "https://docs.google.com/spreadsheets/d/1EITbPHCkNndhtgydsjZDejQ5tOx_IQvkI5yC0nEwYWo",
+    "deliverables_dir": "workbook_v0.6.1_deliverables",
+    "note": "The v0.6.1 Google Sheet remains the rollback version and was not modified during the v0.6.2 promotion."
+  },
+  "phase_status": {
+    "phase_6_2": "CLOSED — approved, promoted to native Google Sheet, round-trip verified",
+    "phase_7": "COMPLETE — repository closeout and authoritative-version promotion",
+    "phase_7_plus": "NOT STARTED — no QB population, market-line entry, preseason activation, or new model-development phase has begun"
+  },
+  "production_state": {
+    "sheet_count": 21,
+    "formula_count": 123011,
+    "games": 888,
+    "fbs_vs_fbs": 761,
+    "fcs_involved": 127,
+    "blocked": 0,
+    "data_incomplete": 0,
+    "audit_failures": 0,
+    "market_lines": 0,
+    "adjustments": 0,
+    "in_season_stats": 0,
+    "bet_toggle": "N"
+  },
+  "version_history": [
+    {"version": "v0.3",   "summary": "Verified 2026 schedule build (888 games) loaded into workbook pipeline"},
+    {"version": "v0.3.1", "summary": "Three production fixes"},
+    {"version": "v0.4 / v0.4.1 / v0.4.2", "summary": "Preseason ratings loaded (SP+, FPI, TeamRankings) for 138 FBS teams"},
+    {"version": "v0.5 / v0.5.1 / v0.5.2", "summary": "FCS — NO PLAY scope change and string corrections"},
+    {"version": "v0.6", "summary": "Phase 6 operational testing (not approved)"},
+    {"version": "v0.6.1", "summary": "ADJUSTMENTS!K/J correction + test-completion build (approved; now rollback)"},
+    {"version": "v0.6.2", "summary": "DATA INCOMPLETE pathway repair (approved; current authoritative)"}
+  ]
+}
