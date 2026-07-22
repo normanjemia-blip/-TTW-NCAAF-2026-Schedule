@@ -1,0 +1,33 @@
+{
+ "log": "pending_qb_resolutions",
+ "purpose": "Cross-sweep working ledger for Phase 8.4 fall-camp QB monitoring. One row per exception team once a sweep produces a meaningful update. Feeds the next workbook candidate (v0.7.3+) only when >=5 teams have cleared uncertainty or at the final Aug 24-26 sweep. Compact fields only - no narrative summaries.",
+ "generated": "2026-07-22",
+ "status": "EMPTY - no resolutions yet. No research performed today (2026-07-22). First sweep window: 2026-08-03 to 2026-08-05.",
+ "column_order": [
+  "Team", "Abbrev", "sweep_date", "current_candidates", "current_leader",
+  "resolution_status", "confidence", "availability", "source", "source_date",
+  "baseline_identity", "zero_init_justified", "nonzero_adjustment_possible"
+ ],
+ "field_documentation": {
+  "Team": "Full team name.",
+  "Abbrev": "Canonical abbreviation (matches QB VALUES / tracker).",
+  "sweep_date": "ISO YYYY-MM-DD of the sweep on which this row was recorded.",
+  "current_candidates": "Candidate QBs (compact, ' | ' separated).",
+  "current_leader": "Named/leading QB, or blank if genuinely undecided.",
+  "resolution_status": "One of: UNRESOLVED | RESOLVED-ZERO-INIT | RESOLVED-PENDING-DEVIATION-APPROVAL.",
+  "confidence": "H / M / L per the Phase 8.4 resolution standards.",
+  "availability": "Health/availability note (e.g., 'cleared', 'ACL rehab', 'full participation').",
+  "source": "Best credible source per the source-efficiency order.",
+  "source_date": "ISO YYYY-MM-DD of the source; blank if the exact date is unavailable (do not invent).",
+  "baseline_identity": "The preseason baseline QB the rating priced in (established / not established).",
+  "zero_init_justified": "Y if resolved Active QB == baseline and no unresolved issue (-> D=0/F=0, status OK). N otherwise.",
+  "nonzero_adjustment_possible": "Y if the resolved Active QB differs materially from baseline (-> add to qb_deviation_review_log, PROPOSE a quarter-point deviation, leave row UNCERTAIN pending approval). N otherwise."
+ },
+ "rules": [
+  "Record a row only on a meaningful update; do not re-research resolved teams or the other 105 unless credible news reports a starter change, injury, suspension, eligibility issue, or departure.",
+  "zero_init_justified=Y is applied to the workbook only when building the next candidate (>=5 cleared or final sweep).",
+  "nonzero_adjustment_possible=Y NEVER writes a value; it routes to qb_deviation_review_log with a PROPOSED quarter-point deviation and the row stays UNCERTAIN until explicit approval.",
+  "Injury cases require credible evidence of normal participation or confirmed game availability before clearing; 'expected back' is not sufficient."
+ ],
+ "records": []
+}
