@@ -1,0 +1,19 @@
+PASS 21 sheets  21
+PASS sheet order+states unchanged
+PASS recalc on open preserved
+diff by sheet: {'START HERE': 1, 'QB VALUES': 934, 'CHANGELOG': 12}
+PASS only QB VALUES + START HERE + CHANGELOG changed  {'QB VALUES', 'CHANGELOG', 'START HERE'}
+PASS START HERE diff == 1 (banner)
+PASS QB VALUES diff == 934  934
+PASS A/B/G/M formulas intact for all 138 rows  []
+PASS Baseline value (D) & Active value (F) blank for all 138 (no numbers written)  []
+PASS QB delta (G) left as formula (no manual value)
+PASS E/H/I/J/K/L populated for all 138 rows  []
+PASS Reviewed for season (J) == 2026 for all 138
+PASS Last update (K) populated for all 138
+PASS Confidence values are only H/M/L  {'L', 'H', 'M'}
+PASS Baseline QB (C) blank for all L-confidence (open competition) teams  32/32
+PASS Baseline QB (C) populated for all H/M teams (106)  106
+PASS QB VALUES row 144 A formula still present (structure intact)
+
+ALL WORKBOOK VERIFICATION CHECKS PASSED
