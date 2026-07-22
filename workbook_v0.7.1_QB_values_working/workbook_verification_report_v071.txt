@@ -1,0 +1,20 @@
+PASS 21 sheets
+PASS sheet order+states unchanged vs v0.7.0
+PASS recalc-on-open preserved
+PASS formula count unchanged vs v0.6.2 (=123011)  123011 vs 123011
+diff vs v0.7.0: {'START HERE': 1, 'QB VALUES': 210, 'CHANGELOG': 12}
+PASS only QB VALUES + START HERE + CHANGELOG changed vs v0.7.0  {'START HERE', 'QB VALUES', 'CHANGELOG'}
+PASS QB VALUES diff == 210 (D/F for 105 teams)  210
+PASS START HERE diff == 1 (banner)
+PASS Baseline value (D) & Active value (F) contain only 0 or blank (no nonzero)  []
+PASS exactly 105 teams have D=0  105
+PASS exactly 105 teams have F=0  105
+PASS exactly 33 teams have D blank (exceptions)  33
+PASS A/B/G/M formulas intact all 138 rows  []
+PASS all 138 retain research fields E/H/I/J/K/L  []
+PASS 138 team rows present (A formulas)
+
+ALL v0.7.1 STRUCTURAL CHECKS PASSED
+
+=== Live-calc status (all 138 rows) ===
+status OK: 105 | UNCERTAIN: 33 | nonzero deltas: 0
