@@ -52,16 +52,35 @@ settings/thresholds unchanged. D and F contain **only 0 or blank**.
 | `teams_initialized.md` | The 105 teams initialized at 0/0. |
 | `teams_uncertain.md` | The 33 exceptions with category + reason. |
 | `post_rating_changes.md` | Post-snapshot changes / baseline-mismatch review (0 found). |
-| `valuation_methodology_report.md` | Approved zero-init rule (applied) **+ proposed future nonzero-adjustment rubric (NOT approved)**. |
+| `valuation_methodology_report.md` | **CORRECTED (Phase 8.2)** — permanently deviation-only; no absolute cross-team tier scale; Baseline value fixed at 0. |
+| `future_qb_deviation_rubric.md` | **NEW (Phase 8.2)** — proposed quarter-point deviation bands (−4.0 / +2.0 bounds), evidence framework, no-arbitrary-decay review rule. |
+| `qb_exception_resolution_tracker.csv` / `.json` | **NEW (Phase 8.2)** — 33-team structured resolution tracker, grouped by category. |
+| `qb_exception_resolution_playbook.md` | **NEW (Phase 8.2)** — how to clear each exception + per-team treatment + Vanderbilt correction. |
+| `phase8_2_review_note.md` | **NEW (Phase 8.2)** — every substantive change vs the Phase 8.1 proposal + internal-consistency findings. |
 | `workbook_verification_report_v071.txt` | Full verification (all checks pass) + live-calc status counts. |
 | `changed_cells_v071.csv` / `.json` | Exact changed-cell list (210 D/F + banner + 12 CHANGELOG). |
 | `qb_research.csv` / `qb_research.json` / `source_audit.md` | Carried-forward research + sources. |
-| `scripts/` | `classify_and_populate.py`, `verify_v071.py`. |
+| `teams_initialized.md` / `teams_uncertain.md` / `post_rating_changes.md` | Init/exception lists + baseline-mismatch review. |
+| `scripts/` | `classify_and_populate.py`, `verify_v071.py`, `build_tracker.py`. |
+
+## Phase 8.2 (documentation only — no workbook/sheet edit)
+
+The methodology is finalized as **permanently deviation-only**: Baseline
+value stays 0 and is never rewritten; Active value is only the deviation vs
+a team's own preseason baseline QB; **no absolute cross-team tier scale**.
+The withdrawn "absolute tier" option and the arbitrary midseason-decay rule
+were removed; the proposed future deviation bands are now quarter-point with
+bounds **−4.0 / +2.0**. A 33-team exception-resolution tracker and playbook
+were added. **One classification inconsistency flagged: Vanderbilt** (L /
+"open competition") is really a consistently-projected young starter and is
+**recommended for reclassification to Medium + zero-init** — documented
+only, **not applied**. The v0.7.1 workbook is byte-unchanged this phase
+(SHA `608068e5…`).
 
 ## Next step (requires approval)
 
-Approve (or amend) the **future nonzero-adjustment rubric** in Section B of
-`valuation_methodology_report.md` before any nonzero QB value is entered,
-and/or resolve the 33 exceptions as their competitions/injuries settle.
-Nothing nonzero is written until you approve. This file is not authoritative
-and no Google Sheet was modified.
+Approve (or amend) `future_qb_deviation_rubric.md` before any nonzero QB
+value is entered; optionally approve the Vanderbilt reclassification; and
+resolve the 33 exceptions via the tracker as camps settle. Nothing nonzero
+is written and v0.7.1 is not promoted until you approve. No Google Sheet was
+modified.
