@@ -93,12 +93,33 @@ back" — require credible evidence of **normal participation** or **confirmed
 game availability.** If a replacement will start, treat as a possible baseline
 mismatch → **propose, not enter**, the deviation.
 
+## Candidate-build automation (Phase 8.4A)
+
+Approved resolutions are turned into a **verified** candidate by a one-command
+pipeline (see `qb_resolution_pipeline_readme.md`):
+
+- `scripts/apply_pending_qb_resolutions.py` — validate + apply APPROVED rows to
+  a **copy** (dry-run or apply); writes only QB inputs + banner + CHANGELOG,
+  never a formula; aborts atomically on any validation error.
+- `scripts/verify_qb_candidate.py` — full structural + content verification vs
+  source; JSON + Markdown reports.
+- `scripts/build_qb_candidate.py` — orchestrator (validate → dry-run → apply →
+  verify → changed-cell audit); **refuses** a candidate on an empty ledger or
+  failed verification; **never** modifies the source (SHA asserted unchanged).
+- `scripts/test_pipeline.py` — 12-scenario safety harness (temp copies only).
+
+The pipeline consumes `pending_qb_resolutions.csv/.json` (acts only on
+`resolution_status == APPROVED`) and `qb_deviation_review_log` (approves any
+nonzero deviation). Build a candidate only at the ≥5-cleared or final-sweep
+gate — not per resolution.
+
 ## Efficient verification (interim batches)
 Diff vs the prior candidate · formula count **123,011** · formula coords/text
-unchanged · focused QB delta/status harness (`livecalc_v072.py`-style) · no
-unrelated cells changed. **Do not** run the memory-heavy full 123,011-formula
-engine unless a formula/structural change occurred. Reserve full workbook +
-Google Sheets round-trip verification for the **final** preseason candidate.
+unchanged · focused QB delta/status harness (built into
+`verify_qb_candidate.py`) · no unrelated cells changed. **Do not** run the
+memory-heavy full 123,011-formula engine unless a formula/structural change
+occurred. Reserve full workbook + Google Sheets round-trip verification for the
+**final** preseason candidate.
 
 ## Per-sweep checkpoint report (only these)
 Teams checked · newly resolved · still unresolved · updated OK/UNCERTAIN counts

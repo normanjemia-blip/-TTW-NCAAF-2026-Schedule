@@ -45,8 +45,30 @@ The v0.6.1 Google Sheet was **not** modified during the v0.6.2 promotion.
   round-trip verified.
 - **Phase 7 (repository closeout & authoritative-version promotion):**
   COMPLETE.
-- No QB population, market-line entry, preseason activation, or new
-  model-development phase has been started.
+- **Phase 8.x (QB VALUES working track — NOT authoritative):** in progress on
+  branch `claude/2026-ncaaf-schedule-build-by6j5n`. Deviation-only QB
+  methodology; latest working checkpoint **v0.7.2 candidate** (105 OK / 33
+  UNCERTAIN / 0 nonzero). **Nothing QB-related is promoted; no Google Sheet was
+  edited; v0.6.2 remains the authoritative production workbook.**
+- No market-line entry or preseason activation has been started.
+
+## QB working track (not authoritative)
+
+The deviation-only QB initialization, the 33-team exception system, and the
+fall-camp monitoring + candidate-build automation live outside the authoritative
+deliverables and change **no** production workbook or Google Sheet:
+
+- [`workbook_v0.7.2_QB_values_candidate/`](workbook_v0.7.2_QB_values_candidate/)
+  — latest QB working checkpoint (candidate), methodology, rubric, exception
+  tracker, and review log.
+- [`phase8_4_qb_monitoring/`](phase8_4_qb_monitoring/) — fall-camp monitoring
+  plan, the `pending_qb_resolutions` ledger, and the **QB resolution → candidate
+  build pipeline** (`apply_pending_qb_resolutions.py`, `verify_qb_candidate.py`,
+  `build_qb_candidate.py`, `test_pipeline.py`). See
+  [`phase8_4_qb_monitoring/qb_resolution_pipeline_readme.md`](phase8_4_qb_monitoring/qb_resolution_pipeline_readme.md).
+  The pipeline turns human-**approved** resolutions into a **verified** workbook
+  candidate; it never modifies the source workbook (its SHA is asserted
+  unchanged) and never runs the memory-heavy full-formula engine.
 
 See [`PROJECT_MANIFEST.json`](PROJECT_MANIFEST.json) for the
 machine-readable version registry and
@@ -60,6 +82,10 @@ for the promotion + round-trip verification artifacts.
   verification).
 - `workbook_v0.6.1_deliverables/` … `workbook_v0.3.1_deliverables/` —
   prior version deliverables (historical record).
+- `workbook_v0.7.1_QB_values_working/`, `workbook_v0.7.2_QB_values_candidate/`,
+  `phase8_4_qb_monitoring/` — the QB VALUES working track (deviation-only
+  methodology, exception system, and the resolution→candidate pipeline). **Not
+  authoritative.**
 - `TTW_2026_Verified_Schedule_ESPN_v1.0.csv`,
   `TTW_2026_Schedule_Reconciliation_Report.md`, `raw_espn/`, `scripts/`,
   `validate_schedule.py` — the Phase 3 schedule build and its provenance.

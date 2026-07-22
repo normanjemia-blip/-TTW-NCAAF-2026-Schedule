@@ -1,33 +1,48 @@
 {
  "log": "pending_qb_resolutions",
- "purpose": "Cross-sweep working ledger for Phase 8.4 fall-camp QB monitoring. One row per exception team once a sweep produces a meaningful update. Feeds the next workbook candidate (v0.7.3+) only when >=5 teams have cleared uncertainty or at the final Aug 24-26 sweep. Compact fields only - no narrative summaries.",
+ "purpose": "Cross-sweep working ledger for Phase 8.4 fall-camp QB monitoring AND the input consumed by the Phase 8.4A candidate-build pipeline. One row per exception team once a sweep produces a meaningful update. The apply pipeline acts ONLY on rows whose resolution_status == 'APPROVED'.",
  "generated": "2026-07-22",
- "status": "EMPTY - no resolutions yet. No research performed today (2026-07-22). First sweep window: 2026-08-03 to 2026-08-05.",
+ "status": "EMPTY - no resolutions yet. No research performed. First sweep window: 2026-08-03 to 2026-08-05.",
  "column_order": [
-  "Team", "Abbrev", "sweep_date", "current_candidates", "current_leader",
-  "resolution_status", "confidence", "availability", "source", "source_date",
+  "abbrev", "team", "sweep_date", "current_candidates", "current_leader",
+  "resolution_status", "confidence", "availability",
+  "baseline_qb", "baseline_value", "active_qb", "active_value",
+  "source", "source_date", "last_update", "reviewed_season", "notes",
   "baseline_identity", "zero_init_justified", "nonzero_adjustment_possible"
  ],
+ "apply_input_fields": [
+  "abbrev", "team", "resolution_status", "confidence", "baseline_qb",
+  "baseline_value", "active_qb", "active_value", "source", "source_date",
+  "last_update", "reviewed_season", "notes"
+ ],
  "field_documentation": {
-  "Team": "Full team name.",
-  "Abbrev": "Canonical abbreviation (matches QB VALUES / tracker).",
-  "sweep_date": "ISO YYYY-MM-DD of the sweep on which this row was recorded.",
-  "current_candidates": "Candidate QBs (compact, ' | ' separated).",
-  "current_leader": "Named/leading QB, or blank if genuinely undecided.",
-  "resolution_status": "One of: UNRESOLVED | RESOLVED-ZERO-INIT | RESOLVED-PENDING-DEVIATION-APPROVAL.",
-  "confidence": "H / M / L per the Phase 8.4 resolution standards.",
-  "availability": "Health/availability note (e.g., 'cleared', 'ACL rehab', 'full participation').",
-  "source": "Best credible source per the source-efficiency order.",
-  "source_date": "ISO YYYY-MM-DD of the source; blank if the exact date is unavailable (do not invent).",
-  "baseline_identity": "The preseason baseline QB the rating priced in (established / not established).",
-  "zero_init_justified": "Y if resolved Active QB == baseline and no unresolved issue (-> D=0/F=0, status OK). N otherwise.",
-  "nonzero_adjustment_possible": "Y if the resolved Active QB differs materially from baseline (-> add to qb_deviation_review_log, PROPOSE a quarter-point deviation, leave row UNCERTAIN pending approval). N otherwise."
+  "abbrev": "Canonical abbreviation (matches QB VALUES / tracker). Required by the apply pipeline.",
+  "team": "Full team name.",
+  "sweep_date": "ISO YYYY-MM-DD of the sweep on which this row was recorded (monitoring context).",
+  "current_candidates": "Candidate QBs (compact, ' | ' separated) - monitoring context.",
+  "current_leader": "Named/leading QB, or blank if undecided - monitoring context.",
+  "resolution_status": "UNRESOLVED | PROPOSED-DEVIATION | APPROVED. The apply pipeline acts ONLY on APPROVED.",
+  "confidence": "H / M / L. Apply requires H or M.",
+  "availability": "Health/availability note - monitoring context.",
+  "baseline_qb": "Preseason baseline QB (the zero reference). Required (apply).",
+  "baseline_value": "Always 0 (deviation-only). Required (apply).",
+  "active_qb": "The QB the Active value describes. Required (apply).",
+  "active_value": "0 for zero-init; an APPROVED quarter-point deviation in [-4.00,+2.00] for a baseline mismatch (needs a matching approved review-log record).",
+  "source": "Best credible source. Required (apply).",
+  "source_date": "ISO YYYY-MM-DD; blank only if the exact date is unavailable - but apply requires it populated to write a row.",
+  "last_update": "ISO YYYY-MM-DD research/update date. Required (apply).",
+  "reviewed_season": "2026. Required (apply).",
+  "notes": "Short note. Required (apply).",
+  "baseline_identity": "established / not established - monitoring context.",
+  "zero_init_justified": "Y if resolved Active QB == baseline and no unresolved issue.",
+  "nonzero_adjustment_possible": "Y if the resolved Active QB differs materially from baseline (route to qb_deviation_review_log; propose - do not enter - a deviation)."
  },
  "rules": [
-  "Record a row only on a meaningful update; do not re-research resolved teams or the other 105 unless credible news reports a starter change, injury, suspension, eligibility issue, or departure.",
-  "zero_init_justified=Y is applied to the workbook only when building the next candidate (>=5 cleared or final sweep).",
-  "nonzero_adjustment_possible=Y NEVER writes a value; it routes to qb_deviation_review_log with a PROPOSED quarter-point deviation and the row stays UNCERTAIN until explicit approval.",
-  "Injury cases require credible evidence of normal participation or confirmed game availability before clearing; 'expected back' is not sufficient."
+  "The apply pipeline writes a row only when resolution_status == APPROVED and every apply-input field validates.",
+  "zero_init (baseline_qb == active_qb): baseline_value and active_value must both be 0.",
+  "baseline mismatch (baseline_qb != active_qb): active_value must be an APPROVED quarter-point deviation in [-4.00,+2.00] with a matching approved record in qb_deviation_review_log; otherwise the row is rejected and stays UNCERTAIN.",
+  "Never enter a nonzero value without explicit approval; the ADJUSTMENTS sheet must never be used as a substitute.",
+  "Injury cases require credible evidence of normal participation or confirmed game availability before clearing."
  ],
  "records": []
 }
