@@ -1,0 +1,35 @@
+v0.7.2 CANDIDATE — structural verification vs v0.7.1
+=======================================================
+PASS 21 sheets  21
+PASS sheet order + visibility unchanged vs v0.7.1
+PASS recalc-on-open (fullCalcOnLoad) preserved
+PASS formula count == 123011 in BOTH files  v0.7.1=123011 v0.7.2=123011
+PASS no formula overwritten/added/removed (all formula coords + text identical)  []
+PASS only START HERE + CHANGELOG differ vs v0.7.1  {'START HERE': 1, 'CHANGELOG': 12}
+PASS START HERE diff == 1 (banner only)  1
+PASS CHANGELOG diff == 12 (3 new rows x 4 cols)  12
+PASS QB VALUES unchanged (no Vanderbilt/other team data change)  None
+PASS START HERE changed cell is A1  [(1, 1)]
+PASS CHANGELOG changed cells are rows 64-66 cols A-D  [(64, 1), (64, 2), (64, 3), (64, 4), (65, 1), (65, 2)]
+PASS Baseline (D) & Active (F) contain only 0 or blank (no nonzero)  []
+PASS exactly 105 teams D=0  105
+PASS exactly 105 teams F=0  105
+PASS exactly 33 teams D blank (exceptions)  33
+PASS 138 team rows present (A formulas rows 6-143)
+PASS A/B/G/M formulas intact all 138 rows  []
+PASS Vanderbilt row is 21  21
+PASS VAN Baseline value (D) blank
+PASS VAN Active value (F) blank
+PASS VAN Active QB (E) = Jared Curtis
+PASS VAN Confidence (H) = L
+
+ALL v0.7.2 STRUCTURAL CHECKS PASSED
+
+=== Live-calc status (all 138 rows) ===
+Method: faithful evaluation of the actual QB VALUES G (delta) and M (status)
+formulas with real cell inputs incl. cross-sheet SETTINGS!B3 season (self-
+contained chain; no volatile/indirect deps). Full formulas-engine recalc of
+all 123,011 formulas was impractical here (exceeded memory); v0.7.1's engine
+recalc used identical calc inputs and returned the same counts.
+season (SETTINGS!B3) = 2026
+status OK: 105 | UNCERTAIN: 33 | nonzero deltas: 0
