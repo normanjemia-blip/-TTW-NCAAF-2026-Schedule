@@ -14,3 +14,15 @@
 | 10 | Ole Miss level | SP+ 15.9 / FPI 16.0 | TR 22.3 | 6.3-pt outlier gap | TR is results-heavy and carries 2025 production earned under the departed play-caller; partial-fade case retained as **provisional**, gated on triggers | Play-caller; whether SP+/FPI themselves under-rate the roster |
 | 11 | Indiana level | SP+ 24.5 / FPI 23.1 | TR 29.0; market +750 (top-4) | Computers vs results/market | Blend already carries TR's champion bump; market pedigree ≠ evidence → **hold** | None material (injury only) |
 | 12 | Research depth | Phase 7B mandate: open underlying sources | Practice: claims triangulated across ≥2 independent outlets; full-article fetches limited | Process shortfall | Disclosed, not hidden; no single-source claim was load-bearing | Individual article details not inspected |
+
+## Group 2 additions (2026-08-03)
+
+| # | Claim | Source 1 | Source 2 | Conflict | Resolution | Remaining uncertainty |
+|---|---|---|---|---|---|---|
+| G2-1 | Penn State head coach | **Phase 7A: "Franklin in carousel coverage; unverified"** | psucollegian + gopsusports release (2025-12-12): **Matt Campbell** HC, OC Taylor Mouser, DC D'Anton Lynn | 7A claim false | Official athletics release + beat outlet win; **7A corrected**. Workbook's own July QB data already listed Becht (Campbell's Iowa State QB) | None |
+| G2-2 | Clemson returning production | SI headline: "Clemson Ranks **First** in Returning Production" | ESPN/Connelly 2026: **53%, 60th** | First vs 60th | SI headline is **stale (2025 cycle)**; Connelly notes Clemson led RP entering 2025 then fell to 7-6. 2026 = 60th | None |
+| G2-3 | Charles Huff's 2026 employer | Southern Miss athletics roster page (Huff listed) | Underdog Dynasty + AAC media days: **Huff at Memphis** | Stale page vs current | Media-days attendance dispositive: **Huff coaches Memphis in 2026** | **Southern Miss 2026 HC identity unverified** |
+| G2-4 | Charlotte SP+/FPI 17.8-pt gap | SP+ −32.4 (138th) | FPI −14.6 (126th) | Large point gap | **Scale artifact** — SP+ SD 13.20 vs FPI 11.33 (ratio 1.165); rank gap only 12 | Negligible |
+| G2-5 | Southern Miss SP+/FPI 18.2-pt gap | SP+ −23.3 (131st) | FPI −5.1 (87th) | Large point **and rank** gap | **Not** scale-explained; rank gap 44 survives correction | Genuine; unresolved → DEFER |
+| G2-6 | Tulane QB room | Workbook July research: Semonza (L, open) | nola.com / Underdog Dynasty: Semonza vs Chriss-Gremillion | Consistent | Battle open; Semonza has 15 Ball State starts, 2024 MAC Freshman of the Year, prior Hall connection | Winner unknown |
+| G2-7 | Auburn OC structure | Golesh hire reporting (ESPN) | 2026 team page: OC Joel Gordon, co-OC Kodi Burns | Complementary | Accepted; **play-calling split not independently confirmed** | Who calls plays |

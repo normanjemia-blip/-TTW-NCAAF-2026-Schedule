@@ -1,6 +1,6 @@
-# Zero Workbook Changes — Confirmation (Phases 7A / 7B / 7B.1)
+# Zero Workbook Changes — Confirmation (Phases 7A / 7B Group 1 / 7B.1 / 7B Group 2)
 
-**Verified 2026-08-03.**
+**Verified 2026-08-03** (re-verified after Group 2).
 
 - **No rating overrides entered** — `TEAM RATINGS` L/M/N untouched for all 138 rows.
 - **No QB values changed** — `QB VALUES` C–L untouched (v0.6.2 state preserved).
@@ -16,5 +16,5 @@ hashes to SHA-256
 **identical to the promotion-time hash recorded in `PROJECT_MANIFEST.json`** —
 and the native Google Sheet
 (`1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc`) was **never accessed** during
-Phases 7A/7B/7B.1 (no Drive/Sheets tool call was made). Phases 7A–7B.1 produced
-research and documentation only.
+Phases 7A/7B/7B.1 and 7B Group 2 (no Drive/Sheets tool call was made). All of
+these phases produced research and documentation only.
