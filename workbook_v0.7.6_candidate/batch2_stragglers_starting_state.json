@@ -1,0 +1,93 @@
+[
+ {
+  "abbrev": "ARK",
+  "team": "Arkansas",
+  "conference": "SEC",
+  "row": 7,
+  "projected_qb": "KJ Jackson",
+  "confidence": "M",
+  "baseline_value": 0,
+  "active_value": 0,
+  "note": "returning starter (with competition) | 2025: partial (dual-threat retu",
+  "last_verified": "2026-07-21",
+  "unresolved_reason": "never live-verified (7D.3 sourcing did not reach team)"
+ },
+ {
+  "abbrev": "CONN",
+  "team": "UConn",
+  "conference": "Independent",
+  "row": 143,
+  "projected_qb": "Tucker McDonald",
+  "confidence": "M",
+  "baseline_value": 0,
+  "active_value": 0,
+  "note": "backup promotion | 2025: Backup 2025 | projected starter | VALUE PENDI",
+  "last_verified": "2026-07-21",
+  "unresolved_reason": "never live-verified (7D.3 sourcing did not reach team)"
+ },
+ {
+  "abbrev": "DUKE",
+  "team": "Duke",
+  "conference": "ACC",
+  "row": 59,
+  "projected_qb": "Walker Eget",
+  "confidence": "M",
+  "baseline_value": 0,
+  "active_value": 0,
+  "note": "transfer | prev: San José State | 2025: SJSU 2025: 59.0% comp, 3,051 y",
+  "last_verified": "2026-07-21",
+  "unresolved_reason": "CONFLICT: Mensah exit confirmed; no source names Walker Eget as replacement"
+ },
+ {
+  "abbrev": "HOU",
+  "team": "Houston",
+  "conference": "Big 12",
+  "row": 46,
+  "projected_qb": "Conner Weigman",
+  "confidence": "M",
+  "baseline_value": 0,
+  "active_value": 0,
+  "note": "transfer / competition | prev: Texas A&M | 2025: 2025: 65.2% comp, 2,7",
+  "last_verified": "2026-07-21",
+  "unresolved_reason": "never live-verified (7D.3 sourcing did not reach team)"
+ },
+ {
+  "abbrev": "IOWA",
+  "team": "Iowa",
+  "conference": "Big Ten",
+  "row": 24,
+  "projected_qb": "Jeremy Hecklinski",
+  "confidence": "L",
+  "baseline_value": null,
+  "active_value": null,
+  "note": "backup promotion / competition | OPEN COMPETITION — candidates: Jeremy",
+  "last_verified": "2026-07-21",
+  "unresolved_reason": "never live-verified (7D.3 sourcing did not reach team)"
+ },
+ {
+  "abbrev": "KAN",
+  "team": "Kansas",
+  "conference": "Big 12",
+  "row": 48,
+  "projected_qb": "Cole Ballard",
+  "confidence": "L",
+  "baseline_value": null,
+  "active_value": null,
+  "note": "backup promotion / open competition | OPEN COMPETITION — candidates: C",
+  "last_verified": "2026-07-21",
+  "unresolved_reason": "never live-verified (7D.3 sourcing did not reach team)"
+ },
+ {
+  "abbrev": "MSST",
+  "team": "Mississippi State",
+  "conference": "SEC",
+  "row": 13,
+  "projected_qb": "Kamario Taylor",
+  "confidence": "M",
+  "baseline_value": 0,
+  "active_value": 0,
+  "note": "returning starter | 2025: Started final two games of 2025 | strong pro",
+  "last_verified": "2026-07-21",
+  "unresolved_reason": "never live-verified (7D.3 sourcing did not reach team)"
+ }
+]
