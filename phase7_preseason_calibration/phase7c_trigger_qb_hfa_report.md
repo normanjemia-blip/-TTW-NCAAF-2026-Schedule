@@ -1,205 +1,240 @@
-# Phase 7C — Deferred Triggers, QB Calibration, HFA Audit, Factual Cleanup
+# Phase 7C (CORRECTED REISSUE — Phase 7C.1)
 
-**Date:** 2026-08-04 · **Workbook:** untouched, SHA `bbb17b50…` = manifest ·
-**Google Sheet:** never accessed · **Recommended workbook changes this phase: 0.**
+**Review date: 2026-08-03** (America/New_York, owner timezone) ·
+**Workbook:** untouched, SHA `bbb17b50…` = manifest · **Google Sheet:** never accessed ·
+**Recommended workbook changes this phase: 0 (one classification provisionally approved for LATER implementation).**
 
-**Timing context that governs Part 1:** the register was created **2026-08-03**,
-one day before this review. Fall camps opened in the first week of August and
-**no SEC starter has been named.** Expecting fired triggers after 24 hours would
-be unreasonable; the honest finding is that almost nothing has moved. I have not
-manufactured movement to justify the phase.
+> **Supersedes** the original Phase 7C report. Two owner-mandated corrections
+> applied (date; Southern Miss head coach), plus **one further correction this
+> analyst found while reconfirming the Texas Tech implementation** — the
+> original 7C implementation plan was wrong about the target cell's current
+> value. See §E and §G.
 
----
+## Correction 1 — Review date
 
-## A. Deferred-Trigger Status Report (all 16 register entries)
+The original report stated the date "rolled to 2026-08-04" and that the register
+was "one day old." **Incorrect.** The container clock runs **UTC**, which had
+passed midnight while it was still **2026-08-03** in America/New_York. The
+owner's timezone governs.
 
-| Team | Trigger | **Status** | Evidence | Review req'd | Recommended action |
-|---|---|---|---|---|---|
-| Ole Miss | OC + play-caller + camp roles + no major injury | **TRIGGER NOT FIRED** | Camp opened ~Aug 6 window; no play-caller confirmation located | No | Hold; keep provisional −0.5/−1.0 dormant |
-| Vanderbilt | Starter named | **TRIGGER NOT FIRED** | Curtis/Berlowitz still open; Lea signalled it may run to the opener | No | Hold |
-| Texas Tech | Formal Hammond clearance + Week 1 status | **TRIGGER NOT FIRED** | Surgeon cleared ~late July; **training staff has final say**; formal mark ~**Aug 21** | No (dated) | Hold to Aug 21 |
-| Florida | Starter named | **TRIGGER NOT FIRED** | Named as one of the SEC trio still without a starter | No | Hold |
-| Tennessee | Starter named | **TRIGGER NOT FIRED** | MacIntyre vs Brandon open; in-house after missing portal QBs | No | Hold |
-| Alabama | Starter named | **TRIGGER NOT FIRED** — *date sharpened* | DeBoer: decision targeted **after the second scrimmage, mid-August** | No | Hold; register date updated from "Unknown" |
-| UTSA | Market move / roster event / early over-performance | **TRIGGER NOT FIRED** | No market movement observed; season not started | No | Hold |
-| UNLV | MWC odds / Arnold change / injury / early results | **TRIGGER NOT FIRED** | No movement observed | No | Hold |
-| Tulane | Starter named + OL five settled | **TRIGGER NOT FIRED** | Semonza vs Chriss-Gremillion open; OL unsettled | No | Hold |
-| Memphis | Starter named | **TRIGGER NOT FIRED** | Room open under Huff | No | Hold |
-| South Florida | Starter named | **TRIGGER NOT FIRED** | Three-way room open under Hartline | No | Hold |
-| Southern Miss | HC identity confirmed + starter named | **UNKNOWN** | Huff verified **departed to Memphis**; **permanent 2026 HC not identified by any reliable source located** | Yes — factual gap | Keep deferred; escalate as an open item |
-| LSU | Material news only | **TRIGGER NOT FIRED** | No new material information | No | Hold |
-| South Carolina | Material news only | **TRIGGER NOT FIRED** | None | No | Hold |
-| Florida Atlantic | Win total → 6.5+ | **TRIGGER NOT FIRED** | Total still ~5.5 | No | Hold |
-| Indiana | Injury only | **TRIGGER NOT FIRED** | Hoover named QB1 (already known at validation) | No | Hold |
+- Review date: **2026-08-03**
+- Register age: **same day** (created 2026-08-03), i.e. **hours old, not a day**
+- All `last_verified_date` values: **2026-08-03**
 
-**"What does the baseline fail to capture now?" — for every entry: nothing
-material.** Recommended action across the register: **HOLD.**
+**Effect on conclusions: none — and the finding is strengthened.** The core
+Part 1 conclusion was "no triggers fired." Less elapsed time makes that *more*
+certain, not less. No conclusion depended on a full day having passed.
 
----
+## Correction 2 — Southern Miss head coach (owner-supplied official record)
 
-## B. Quarterback Classification Audit
+The original report stated the Southern Miss 2026 head coach was **UNKNOWN**.
+**Incorrect.** Official Southern Miss athletics sources establish:
 
-Scope note, stated plainly: the workbook carries **33 unresolved (L) teams**. I
-individually re-verified the **13 highest-impact** cases this pass. The
-remaining 20 are carried forward at their existing classification and explicitly
-marked as **not re-verified** — I am not going to assert 20 verifications I did
-not perform.
+- **Blake Anderson** — 24th head football coach; **2026 head coach**
+  (announced **2025-12-11**)
+- **Kyle Cefalo** — assistant head coach / offensive coordinator / QBs
+- **Joe Bolden** — defensive coordinator / linebackers
+  (staff announced **2025-12-30**; confirmed in the 2026 staff directory and
+  spring-practice coverage)
 
-**Recommended classification — verified this pass**
+My searches surfaced only Anderson's *bowl-game interim* role and I incorrectly
+generalized from an absence of evidence. Corrected unreservedly.
 
-| Team | Current | **Recommended** | Projected starter | Evidence | Conf | Recheck | Verified |
-|---|---|---|---|---|---|---|---|
-| Alabama | UNCERTAIN | **UNCERTAIN** | Russell *or* Mack | DeBoer explicitly undecided; decision after 2nd scrimmage | High | Naming | 2026-08-04 |
-| Florida | UNCERTAIN | **UNCERTAIN** | Jones Jr. / Philo | One of three SEC teams without a starter | High | Naming | 2026-08-04 |
-| Tennessee | UNCERTAIN | **UNCERTAIN** | MacIntyre / Brandon | In-house battle confirmed | High | Naming | 2026-08-04 |
-| Vanderbilt | UNCERTAIN | **UNCERTAIN** | Curtis / Berlowitz | Lea: may extend to opener | High | Naming | 2026-08-04 |
-| Texas Tech | UNCERTAIN | **LIKELY** | Will Hammond | Surgeon clearance + McGuire "in a good spot" + ESPN: Week 1 starter **if cleared** | Medium | Formal clearance ~Aug 21 | 2026-08-04 |
-| Tulane | UNCERTAIN | **UNCERTAIN** | Semonza / Chriss-Gremillion | Open; OL also unsettled | Medium | Naming | 2026-08-04 |
-| Memphis | UNCERTAIN | **UNCERTAIN** | Stokes (nominal) | Room open under new staff | Medium | Naming | 2026-08-04 |
-| South Florida | UNCERTAIN | **UNCERTAIN** | 3-way open | Kromenhoek / Van Buren Jr. / Cooper | Medium | Naming | 2026-08-04 |
-| Southern Miss | UNCERTAIN | **UNCERTAIN** | Open | HC also unknown — compounding uncertainty | Low | HC + naming | 2026-08-04 |
-| Stanford | UNCERTAIN | **UNCERTAIN** | Warren (ACL) | Injury + competition unresolved | Medium | Clearance | carried |
-| Syracuse | UNCERTAIN | **UNCERTAIN** | Angeli (Achilles) | Recovery unresolved | Medium | Clearance | carried |
-| North Carolina | UNCERTAIN | **UNCERTAIN** | Edwards Jr. (PCL) | "Inside track" only; still recovering | Medium | Clearance | carried |
-| Nebraska | UNCERTAIN | **UNCERTAIN** | Colandrea / Lateef | Source conflict unresolved | Medium | Consensus/naming | carried |
+### Does the correction change anything? Apply the override standard.
 
-**Only one classification change is recommended: Texas Tech UNCERTAIN → LIKELY**
-(and even that is *not* KNOWN — per your rule, a media projection and a surgeon's
-clearance are not an official naming; the training staff retains final say).
+| Area | Effect | Reasoning |
+|---|---|---|
+| **Rating review** | **No change — HOLD −15.39** | Anderson was hired **2025-12-11** and the staff completed **2025-12-30** — **before all three source publication dates** (SP+ 3/27; FPI & TR 7/19). All three sources priced a *known, settled* Southern Miss staff. **Nothing material fails to be captured.** |
+| **Deferred-trigger status** | **Changed** — was UNKNOWN; the HC component of the compound trigger is now **satisfied**. Remaining deferral is **QB-only** | The trigger read "HC identity confirmed **AND** starter named." Half is met; the QB half is not. |
+| **QB classification** | **No change — UNCERTAIN** | The room (White / Hampton / Lyddy) remains open; knowing the coach does not name a starter. |
+| **Source-conflict log** | **Updated** — G2-3's residual uncertainty is **resolved** | See §F. |
+| **Phase 7A / Group 2 conclusions** | **Verdict unchanged (DEFER)**, basis narrowed | Group 2 deferred on (a) HC gap **[now closed]**, (b) open QB, (c) genuine source disagreement (rank gap 44). (b) and (c) still stand. |
 
-**Not re-verified this pass (carried forward as UNCERTAIN):** ARST, BALL, BUFF,
-CCU, CMU, CSU, FRES, GASO, IOWA, KAN, LIB, M-OH, MOST, NEV, NIU, NMSU, OHIO,
-ORST, RUTG, SJSU.
+**One hypothesis is now eliminated:** the SP+/FPI disagreement (rank 131 vs 87)
+is **not** explained by coaching-situation uncertainty — the staff has been
+settled and public since December. The disagreement remains genuinely
+unresolved. Southern Miss is now classified exactly like Tulane/Memphis/USF: a
+**QB-gated DEFER**, which is a more consistent treatment.
 
 ---
 
-## C. QB Value Calibration
+## A. Deferred-Trigger Status Report (corrected — all 16 entries)
 
-**Framework check first.** The workbook is **baseline-delta**: the preseason
-prior already assumes the expected starter, so **every team's preseason QB delta
-is correctly 0**. Calibration here is about **contingency** — what the delta
-*would* become if the expected starter were unavailable. Nothing below is a
-preseason entry.
+Register created 2026-08-03; reviewed 2026-08-03 (same day). Camps opened in the
+first week of August; **no SEC starter has been named.**
 
-Conservative starter-to-realistic-backup deltas, only where the question is live:
+| Team | Trigger | **Status** | Evidence | Action |
+|---|---|---|---|---|
+| Ole Miss | OC + play-caller + roles + no major injury | **TRIGGER NOT FIRED** | No play-caller confirmation located | Hold; provisional −0.5/−1.0 stays dormant |
+| Vanderbilt | Starter named | **TRIGGER NOT FIRED** | Curtis/Berlowitz open; may run to opener | Hold |
+| Texas Tech | Formal clearance + Week 1 status | **TRIGGER NOT FIRED** | Surgeon cleared; **training staff has final say**; ~**Aug 21** | Hold to Aug 21 |
+| Florida | Starter named | **TRIGGER NOT FIRED** | One of the SEC trio still undecided | Hold |
+| Tennessee | Starter named | **TRIGGER NOT FIRED** | MacIntyre vs Brandon open | Hold |
+| Alabama | Starter named | **TRIGGER NOT FIRED** *(date sharpened)* | DeBoer: decision after the **second scrimmage, mid-August** | Hold |
+| UTSA | Market / roster / early results | **TRIGGER NOT FIRED** | No movement; season not started | Hold |
+| UNLV | MWC odds / Arnold / injury / results | **TRIGGER NOT FIRED** | No movement | Hold |
+| Tulane | Starter named + OL five | **TRIGGER NOT FIRED** | Both unsettled | Hold |
+| Memphis | Starter named | **TRIGGER NOT FIRED** | Room open | Hold |
+| South Florida | Starter named | **TRIGGER NOT FIRED** | Three-way open | Hold |
+| **Southern Miss** | HC confirmed **AND** starter named | **TRIGGER FIRED — NO RATING IMPACT** *(HC component)* | **Blake Anderson confirmed** (2025-12-11), staff 2025-12-30 — **pre-dates all sources** | **HOLD rating**; deferral continues, now **QB-only** |
+| LSU | Material news only | **TRIGGER NOT FIRED** | None | Hold |
+| South Carolina | Material news only | **TRIGGER NOT FIRED** | None | Hold |
+| Florida Atlantic | Win total → 6.5+ | **TRIGGER NOT FIRED** | Still ~5.5 | Hold |
+| Indiana | Injury only | **TRIGGER NOT FIRED** | None | Hold |
 
-| Team | Expected starter | Backup | **Starter→backup delta** | Injury sensitivity | Workbook input change now? |
-|---|---|---|---|---|---|
-| Texas Tech | Hammond (LIKELY) | Behind him, unproven | **−1.0 to −2.0** | **High** — post-ACL starter | No — delta stays 0 while he starts |
-| Alabama | Russell *or* Mack | The other | **0 to −0.5** | Low | No — two credible options |
-| Tennessee | MacIntyre *or* Brandon | The other | **0 to −0.5** | Low | No |
-| Florida | Jones Jr. *or* Philo | The other | **0 to −0.5** | Low | No |
-| Vanderbilt | Curtis *or* Berlowitz | The other | **0 to −0.5** | Low | No |
-| Indiana | Hoover (KNOWN) | Grant Wilson | **−1.5 to −2.5** | Medium | No |
-| Miami | Mensah (KNOWN) | Unproven | **−1.5 to −2.5** | Medium | No |
-| Texas | Manning (KNOWN) | Unproven | **−2.0 to −3.0** | Medium | No |
-| Ole Miss | Chambliss (KNOWN) | Deuce Knight (ex-5★) | **−1.0 to −1.5** | Medium | No — unusually good backup |
-| Penn State | Becht (KNOWN) | Unproven | **−1.5 to −2.5** | Medium | No |
-
-Two disciplined observations: (1) **an unresolved two-way battle between
-comparable players carries a *small* contingency delta**, because either
-outcome is near the baseline — competitions are a confidence problem, not a
-points problem; (2) the **largest** contingency deltas belong to teams with
-*settled elite* starters, the opposite of intuition. Nothing here approaches
-±4.0, so no special justification is required.
+**For every entry — including Southern Miss — the answer to "what does the
+baseline fail to capture now?" is: nothing material. Recommended action: HOLD.**
 
 ---
 
-## D. Home-Field Advantage Audit
+## B. QB Classification Audit (corrected)
 
-**Result: HOLD all 138 teams at the 2.5 default. Zero HFA overrides
-recommended. This includes withdrawing my own earlier suggestion.**
+Scope stated plainly: **13 of 33** unresolved teams individually re-verified;
+the other 20 are carried forward and **explicitly marked not re-verified**.
 
-**Self-correction:** in the first Phase 7 SEC pass I proposed **LSU 3.0, Texas
-A&M 3.0, Tennessee 3.0**. Applying the same evidentiary standard now governing
-team ratings, that recommendation was **reputation-driven** — crowd size and
-venue lore, not repeatable opponent-adjusted venue value. **It is withdrawn.**
+| Team | Current | **Recommended** | Projected starter | Evidence | Conf | Verified |
+|---|---|---|---|---|---|---|
+| Texas Tech | UNCERTAIN (`L`) | **LIKELY (`M`)** | Will Hammond | Surgeon clearance; McGuire "in a good spot"; ESPN Week-1-if-cleared. **Not KNOWN** — no official naming; training staff decides | Medium | 2026-08-03 |
+| Alabama | UNCERTAIN | **UNCERTAIN** | Russell / Mack | DeBoer undecided; decision after 2nd scrimmage | High | 2026-08-03 |
+| Florida | UNCERTAIN | **UNCERTAIN** | Jones Jr. / Philo | SEC trio without a starter | High | 2026-08-03 |
+| Tennessee | UNCERTAIN | **UNCERTAIN** | MacIntyre / Brandon | In-house battle | High | 2026-08-03 |
+| Vanderbilt | UNCERTAIN | **UNCERTAIN** | Curtis / Berlowitz | Lea: may extend to opener | High | 2026-08-03 |
+| Tulane | UNCERTAIN | **UNCERTAIN** | Semonza / Chriss-Gremillion | Open; OL unsettled | Medium | 2026-08-03 |
+| Memphis | UNCERTAIN | **UNCERTAIN** | Stokes (nominal) | Room open | Medium | 2026-08-03 |
+| South Florida | UNCERTAIN | **UNCERTAIN** | 3-way open | Kromenhoek/Van Buren/Cooper | Medium | 2026-08-03 |
+| **Southern Miss** | UNCERTAIN | **UNCERTAIN** | Open (White/Hampton/Lyddy) | **HC now known (Anderson/Cefalo/Bolden)** but QB room still open | Medium *(up from Low — coaching uncertainty removed)* | 2026-08-03 |
+| Stanford | UNCERTAIN | **UNCERTAIN** | Warren (ACL) | Injury + competition | Medium | carried |
+| Syracuse | UNCERTAIN | **UNCERTAIN** | Angeli (Achilles) | Recovery unresolved | Medium | carried |
+| North Carolina | UNCERTAIN | **UNCERTAIN** | Edwards Jr. (PCL) | "Inside track" only | Medium | carried |
+| Nebraska | UNCERTAIN | **UNCERTAIN** | Colandrea / Lateef | Source conflict | Medium | carried |
 
-**What the evidence actually supports:**
+**Not re-verified this pass:** ARST, BALL, BUFF, CCU, CMU, CSU, FRES, GASO,
+IOWA, KAN, LIB, M-OH, MOST, NEV, NIU, NMSU, OHIO, ORST, RUTG, SJSU.
 
-- **Altitude is the only factor with peer-reviewed statistical support.** A
-  study of **14,874 games (2001–2023)** finds a statistically significant
-  advantage for home teams playing at altitude *relative to the opponent's
-  native altitude* ([Sport Management Review](https://www.tandfonline.com/doi/full/10.1080/14413523.2026.2689228)).
-  **Air Force and Wyoming have the highest home elevations in FBS.**
-- **A structural limitation blocks acting on it:** the effect is **opponent-
-  relative**, but the workbook's HFA is a **single per-team constant**. A flat
-  Air Force/Wyoming bump would over-credit games against fellow altitude teams
-  and under-credit sea-level visitors. *(Observation only — no structural change
-  recommended or implied.)*
-- **Hawaii refutes the intuition.** Despite the largest travel burden in the
-  sport, visitors to Hawaii **rack up 24+ first downs**, and Hawaii/New Mexico
-  show **weaker** home advantages. Any instinct to bump Hawaii for travel is
-  backwards. **Hold 2.5.**
-- **Raw home/road splits are confounded.** BYU's 58–9 (86.6%) home vs 36–25
-  (59%) road record blends **team quality, home scheduling, and venue** — it
-  cannot be read as venue value. The mandate's own warning (*"whether the
-  program's team strength is being confused with venue value"*) applies exactly
-  here.
-- Modern HFA has **compressed league-wide**, making deviations from a 2.5 prior
-  harder, not easier, to justify.
-
-| Team | Current | Recommended | Evidence | Conf | Risk |
-|---|---:|---:|---|---|---|
-| Air Force, Wyoming | 2.5 | **2.5 (hold; best future case)** | Peer-reviewed altitude effect, but opponent-relative | Medium | Flat bump mis-prices intra-altitude games |
-| BYU, Utah, Colorado St., New Mexico, Nevada, Boise St. | 2.5 | **2.5 (hold)** | Moderate altitude; splits confounded | Low-Med | Confounding |
-| LSU, Texas A&M, Tennessee, Penn State, Clemson, Oregon, Washington, Iowa, Wisconsin, Kansas St., Virginia Tech, Florida St. | 2.5 | **2.5 (hold)** | Crowd/venue reputation only; **no opponent-adjusted venue evidence** | Medium | Reputation ≠ venue value |
-| Hawaii | 2.5 | **2.5 (hold)** | Data shows **weaker**, not stronger, home edge | Medium | Travel intuition is backwards |
-| All other FBS | 2.5 | **2.5 (hold)** | Default prior stands | — | — |
-
-**Recheck:** revisit only with multi-season **opponent-adjusted** home-vs-road
-margin data (i.e., venue value isolated from team quality), which I do not have.
+**Exactly one classification change recommended: Texas Tech.**
 
 ---
 
-## E. Factual Correction Log
+## C. QB Value Calibration (unchanged from 7C — no corrections required)
+
+Preseason deltas correctly remain **0** for all teams (the baseline-delta system
+already assumes the expected starter). Contingency starter-to-backup deltas:
+Texas Tech −1.0/−2.0 (high injury sensitivity), Alabama/Tennessee/Florida/
+Vanderbilt 0/−0.5 each, Indiana and Miami and Penn State −1.5/−2.5, Texas
+−2.0/−3.0, Ole Miss −1.0/−1.5. **Nothing approaches ±4.0.** The two findings
+stand: a two-way battle between comparable QBs carries a *small* delta
+(confidence problem, not points problem), and the *largest* contingency deltas
+belong to teams with **settled elite** starters.
+
+---
+
+## D. HFA Audit (retained; not reopened)
+
+**HOLD all 138 teams at 2.5. Zero overrides recommended.** The factual
+corrections reveal no reason to reopen HFA, and HFA is **not** reopened on venue
+reputation.
+
+**Superseded recommendations (formally recorded):** this analyst's earlier
+Phase 7 SEC proposals of **LSU 3.0, Texas A&M 3.0, Tennessee 3.0** are
+**WITHDRAWN and SUPERSEDED** — they were reputation-driven and fail the override
+standard. Supporting rationale retained from 7C: altitude is the only
+peer-reviewed factor (14,874-game study) but is **opponent-relative** while the
+workbook HFA is a per-team constant; Hawaii's data shows a *weaker* home edge
+despite travel burden; raw home/road splits confound team quality with venue.
+
+---
+
+## E. Factual Correction Log (corrected and extended)
 
 | # | Prior claim | Corrected fact | Source | Date | Affects |
 |---|---|---|---|---|---|
-| C-1 | 7A: Penn State HC unverified ("Franklin in carousel") | **Matt Campbell** HC; OC Taylor Mouser; DC D'Anton Lynn | gopsusports release 2025-12-12; psucollegian | 2026-08-03 | Nothing (rating held) |
-| C-2 | 7A: Auburn hire ambiguous (garbled "Cal: Golesh") | **Golesh → Auburn** | ESPN; Fox Sports | 2026-08-03 | Nothing |
+| C-1 | 7A: Penn State HC unverified | **Matt Campbell**; OC Mouser; DC Lynn | gopsusports 2025-12-12 | 2026-08-03 | Nothing |
+| C-2 | 7A: Auburn hire ambiguous | **Golesh → Auburn** | ESPN; Fox | 2026-08-03 | Nothing |
 | C-3 | 7A: UNLV "MWC favorite" | **Co-favorite (+240)** | SportsBettingDime/CFN | 2026-08-03 | Nothing |
-| C-4 | 7A: Clemson RP strong ("first in RP" headline) | **53%, 60th** for 2026; the headline was the **2025** cycle | ESPN/Connelly | 2026-08-03 | Nothing |
-| C-5 | Southern Miss roster page lists Huff as HC | **Huff coaches Memphis in 2026**; page stale | Underdog Dynasty; Fox Sports; AAC media days | 2026-08-03 | QB/HC classification context |
-| C-6 | **Phase 7 SEC pass: LSU/Texas A&M/Tennessee HFA → 3.0** | **Withdrawn** — reputation-based, fails the override standard | This audit | 2026-08-04 | **HFA (withdrawn, none entered)** |
-| C-7 | Register: Alabama trigger date "Unknown" | **Mid-August, after the second scrimmage** (DeBoer) | 247Sports/Yahoo camp reporting | 2026-08-04 | Register date only |
-| C-8 | Southern Miss 2026 HC | **STILL UNKNOWN** — Huff departed; permanent successor not identified by any reliable source located. Blake Anderson served as *interim* for the Dec 23 bowl only | Multiple searches | 2026-08-04 | Open item — no rating impact |
+| C-4 | 7A: Clemson "first in RP" | **53%, 60th** (headline was 2025 cycle) | ESPN/Connelly | 2026-08-03 | Nothing |
+| C-5 | Southern Miss page lists Huff | **Huff coaches Memphis in 2026** | Underdog Dynasty; Fox; AAC media days | 2026-08-03 | Context |
+| C-6 | Phase 7 SEC: LSU/A&M/TENN HFA → 3.0 | **Withdrawn / superseded** — reputation-based | This audit | 2026-08-03 | **HFA (none entered)** |
+| C-7 | Register: Alabama date "Unknown" | **Mid-August, after 2nd scrimmage** | DeBoer camp reporting | 2026-08-03 | Register date |
+| **C-8 (REVISED)** | **7C: "Southern Miss 2026 HC STILL UNKNOWN"** | **Blake Anderson**, 24th HC, 2026 HC (2025-12-11); **Kyle Cefalo** AHC/OC/QB; **Joe Bolden** DC/LB (2025-12-30) | **Official Southern Miss athletics** (HC announcement, staff announcement, 2026 staff directory, spring coverage) | 2026-08-03 | **Trigger status + QB confidence Low→Medium; NO rating impact** (pre-dates all source dates) |
+| **C-9 (NEW)** | **7C: review date 2026-08-04; register "one day old"** | **2026-08-03** (America/New_York); register **same-day**. Container clock is UTC | Owner timezone authority | 2026-08-03 | **All dates; no conclusion changed** |
+| **C-10 (NEW)** | **7C implementation plan: "`QB VALUES!H52` = `L` → `M`" in the authoritative workbook** | **`QB VALUES!H52` in v0.6.2 AUTHORITATIVE is BLANK.** All **0/138** rows have any confidence code. The `L` value exists **only in the v0.7.2 CANDIDATE** (138/138 populated: 61 H / 45 M / 32 L), which is **not promoted** | Direct workbook inspection (both files) | 2026-08-03 | **Implementation plan — see §G blocker** |
+| **C-11 (NEW)** | *(implicit in 7C)* the classification change would alter QB status | **It would not.** `QB VALUES!M` = `IF(OR($G="",$H="L",$J<>season),"UNCERTAIN","OK")`; with **D/F blank → G blank**, status stays **UNCERTAIN regardless of H** | Formula inspection | 2026-08-03 | Clarifies zero downstream effect |
 
 ---
 
-## F. Owner Decision Table
+## F. Source & Conflict Log — Group 2 revisions
 
-| Category | Items |
+| # | Item | Revision |
+|---|---|---|
+| **G2-3** | Charles Huff's 2026 employer | **Residual uncertainty RESOLVED.** Huff → Memphis; **Southern Miss's 2026 HC is Blake Anderson** (official, 2025-12-11), with Cefalo (OC) and Bolden (DC) added 2025-12-30. No remaining uncertainty. |
+| **G2-5** | Southern Miss SP+/FPI gap (rank 131 vs 87) | **Still unresolved**, but **one hypothesis eliminated**: it is *not* coaching-situation uncertainty — the staff was settled and public from December, before every source published. Disagreement persists on football grounds unknown. |
+
+---
+
+## G. Workbook Implementation Plan (CORRECTED — contains a blocker)
+
+**Texas Tech reconfirmation, as required:**
+
+| Check | Result |
 |---|---|
-| **Ready for owner decision** | **1** — Texas Tech QB classification **UNCERTAIN → LIKELY** (classification only; no value, no rating change) |
-| **Defer pending information** | Ole Miss (play-caller) · Vanderbilt, Florida, Tennessee, Alabama (naming; Alabama ~mid-Aug) · Texas Tech (formal clearance ~Aug 21) · Tulane, Memphis, USF (naming) · Southern Miss (**HC identity — escalated open item**) |
-| **Hold current input** | All 138 team ratings · all 138 HFA values (incl. the withdrawn LSU/A&M/Tennessee proposal) · all QB values at 0 preseason delta |
-| **No action needed** | UTSA, UNLV, LSU, South Carolina, FAU, Indiana — no trigger fired |
+| Row identity | **Row 52 = TTU / Texas Tech** ✔ |
+| Exact current value, **v0.6.2 AUTHORITATIVE** `QB VALUES!H52` | **BLANK (`None`)** — *not* `L` |
+| Exact current value, **v0.7.2 CANDIDATE** `QB VALUES!H52` | **`L`** (E52 = "Will Hammond", J52 = 2026) |
+| Classification code for LIKELY | **`M`** — the workbook header is **"Confidence (H/M/L)"**. There is **no literal "LIKELY" code**; LIKELY ⇒ `M` |
+| Is the cell a user input? | **Yes — constant, not a formula** ✔ (formula columns are A, B, G, M only) |
+| Direct downstream consumers of `H` | **Exactly one:** `QB VALUES!M` (same row status). **ENGINE never reads column H** — it reads only QB VALUES **A**, **G**, and **M** |
+| Does any rating or QB number change automatically? | **No.** ENGINE!M (margin) consumes **G** (delta), which is blank. ENGINE!AE (game status) consumes **M** |
+| Does status flip to OK? | **No.** `M52 = IF(OR($G52="",$H52="L",$J52<>season),"UNCERTAIN","OK")` — with D52/F52 blank, **G52 is blank**, so status stays **UNCERTAIN regardless of H** |
+| Unrelated status/formula changes | **None** |
+
+### ⚠ Blocker — the change has no valid target in the authoritative workbook
+
+The **v0.6.2 AUTHORITATIVE workbook contains no QB classifications at all
+(0/138 populated).** Entering `M` for Texas Tech there would make it the **only
+team of 138** carrying any QB data — internally inconsistent, and not what the
+analysis supports. The `L → M` edit I described in the original 7C is only
+coherent in the **v0.7.2 CANDIDATE**, which is explicitly **not promoted and not
+authoritative**.
+
+**Therefore the change cannot be implemented as described, and I am not
+proposing a fix unilaterally.** The owner must choose the target:
+
+- **(a)** apply in the **v0.7.2 candidate lineage** (`L` → `M`, one cell,
+  consistent with its 138/138 population) and leave v0.6.2 untouched; or
+- **(b)** defer until the QB dataset is promoted into the authoritative
+  workbook as a whole; or
+- **(c)** something else you direct.
+
+**Either way the effect is metadata-only:** in *both* workbooks the status stays
+UNCERTAIN and no rating, delta, or engine output moves, because D/F remain blank.
+
+**Not touched under any scenario:** `TEAM RATINGS` L/M/N (overrides), HFA
+override column, SETTINGS weights, formulas, structure.
 
 ---
 
-## G. Workbook Implementation Plan (description only — nothing entered)
+## H. Owner Decision Table
 
-If — and only if — you approve the single recommendation:
-
-- **Texas Tech (TEAM MAP row 52) → `QB VALUES!H52`**: `L` → `M`. That one cell
-  is the entire proposed change set.
-- Consequential behaviour: `QB VALUES!M52` (status) would flip UNCERTAIN → OK
-  **only if** D52/F52 are also populated (0/0) and J52 = 2026. Under the
-  deviation-only rule the correct values remain **D=0, F=0, delta 0**.
-- A CHANGELOG row would record the reclassification with reason and date.
-- **Not touched under any scenario:** `TEAM RATINGS` L/M/N (overrides),
-  `TEAM RATINGS` HFA override column, SETTINGS weights, formulas, structure.
+| Item | Status |
+|---|---|
+| **Texas Tech QB classification (UNCERTAIN → LIKELY / `L` → `M`)** | **Provisionally approved for later implementation** — blocked pending the owner's choice of target workbook (§G) |
+| **All team-rating overrides** | **Not approved** |
+| **All HFA overrides** | **Not approved** (incl. superseded LSU / Texas A&M / Tennessee 3.0) |
+| **All QB-value numerical changes** | **Not approved** |
+| **All other QB-classification changes** | **Not approved** |
 
 ---
 
-## H. Zero Workbook Changes Report
+## I. Zero Workbook Changes Report
 
-- **No team-rating overrides entered** — `TEAM RATINGS` L/M/N untouched, 138 rows
-- **No QB classifications changed** — `QB VALUES!H` untouched
-- **No QB values changed** — `QB VALUES` D/F untouched (still blank/0 state)
+- **No team-rating overrides entered** — `TEAM RATINGS` L/M/N untouched (138 rows)
+- **No QB classifications changed** — `QB VALUES!H` untouched (still 0/138 in v0.6.2)
+- **No QB values changed** — `QB VALUES` D/F untouched
 - **No HFA values changed** — HFA override column untouched; all 138 at 2.5
 - **No formulas changed** — 123,011 formula cells, byte-identical
 - **No workbook structure changed** — 21 sheets, order and visibility unchanged
 - **Hash unchanged** — `bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd`,
-  identical to `PROJECT_MANIFEST.json`; Google Sheet never accessed
+  identical to `PROJECT_MANIFEST.json`
+- **Google Sheet unchanged** — `1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc` never accessed
+- **All corrected documents use 2026-08-03**
+- **Southern Miss is no longer listed as having an unknown head coach**

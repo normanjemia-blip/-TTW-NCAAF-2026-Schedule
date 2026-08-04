@@ -26,3 +26,12 @@
 | G2-5 | Southern Miss SP+/FPI 18.2-pt gap | SP+ −23.3 (131st) | FPI −5.1 (87th) | Large point **and rank** gap | **Not** scale-explained; rank gap 44 survives correction | Genuine; unresolved → DEFER |
 | G2-6 | Tulane QB room | Workbook July research: Semonza (L, open) | nola.com / Underdog Dynasty: Semonza vs Chriss-Gremillion | Consistent | Battle open; Semonza has 15 Ball State starts, 2024 MAC Freshman of the Year, prior Hall connection | Winner unknown |
 | G2-7 | Auburn OC structure | Golesh hire reporting (ESPN) | 2026 team page: OC Joel Gordon, co-OC Kodi Burns | Complementary | Accepted; **play-calling split not independently confirmed** | Who calls plays |
+
+## Phase 7C.1 revisions (2026-08-03)
+
+| # | Item | Revision |
+|---|---|---|
+| **G2-3 (RESOLVED)** | Charles Huff's 2026 employer / Southern Miss HC | Huff → Memphis confirmed. **Southern Miss's 2026 HC is Blake Anderson** (24th HC, announced **2025-12-11**), with **Kyle Cefalo** AHC/OC/QBs and **Joe Bolden** DC/LBs (**2025-12-30**), per official Southern Miss athletics releases and the 2026 staff directory. **Residual uncertainty CLOSED.** Prior Phase 7C claim of "HC unknown" was wrong — the analyst generalized from an absence of search results. |
+| **G2-5 (still open, narrowed)** | Southern Miss SP+ (131st) vs FPI (87th), rank gap 44 | Remains unresolved on football grounds, but **one hypothesis is eliminated**: it is **not** coaching-situation uncertainty — the staff was settled and public from December 2025, before every source published. |
+| **G2-8 (NEW)** | Phase 7C: "QB VALUES!H52 = L" in the authoritative workbook | **False.** Direct inspection: **v0.6.2 AUTHORITATIVE has 0/138 confidence codes (H52 blank)**; the `L` exists only in the **v0.7.2 CANDIDATE** (138/138: 61 H / 45 M / 32 L), which is not promoted. Implementation target is now an open owner decision. |
+| **G2-9 (NEW)** | Review date | Container clock is **UTC** and had rolled past midnight; owner timezone **America/New_York** governs → correct date **2026-08-03**. No conclusion depended on the extra day. |
