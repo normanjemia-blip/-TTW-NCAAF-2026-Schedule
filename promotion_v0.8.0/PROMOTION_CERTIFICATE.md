@@ -184,7 +184,7 @@ both workbooks, so no computed output is lost.
 | Promotion-audit commit | `dda2b1a` — *Promotion audit passed: promote v0.7.9 → v0.8.0 AUTHORITATIVE* |
 | Candidate commit | `4e6f53a` — *Phase 7D.5: final QB-verification candidate v0.7.9* |
 | Backlog-closure commit | `5e3c99c` — *Phase 7D.4A: final five QB resolution* |
-| **Phase 7E promotion commit** | recorded in the commit that adds this certificate |
+| **Phase 7E promotion commit** | `c060417` — *Phase 7E: promote v0.7.9 → v0.8.0 AUTHORITATIVE; close the build project* |
 
 ## 13. Promotion rationale
 
