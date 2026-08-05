@@ -1,0 +1,91 @@
+==============================================================================
+1. STRUCTURE
+  sheets old/new: 21 / 21  identical order: True
+  visibility identical: True
+  formula cells: v0.6.2 123011 | v0.7.8 123011 -> v0.7.9 123011  (delta this phase 0; vs authoritative 0)
+==============================================================================
+2. CELL DIFF v0.7.8 -> v0.7.9
+  changed cells: 73   FORMULA changes: 0
+    START HERE: 1
+    QB VALUES: 60
+    CHANGELOG: 12
+  classification:
+    F-7 AUDIT-TRAIL STAMP (verification date + evidence note): 41
+    VERSION OR CHANGELOG: 13
+    VERIFIED QB CLASSIFICATION CHANGE: 12
+    FINAL-FIVE RE-VERIFICATION NOTE REFRESH: 5
+    NUMERICAL-CELL CONSISTENCY REPAIR: 2
+  UNRELATED/UNAUTHORIZED/UNKNOWN: 0
+
+  CUMULATIVE DIFF v0.6.2 AUTHORITATIVE -> v0.7.9 CANDIDATE
+    changed cells: 1249   FORMULA changes: 0
+      START HERE: 1
+      QB VALUES: 1132
+      CHANGELOG: 116
+    sheets touched vs authoritative: ['CHANGELOG', 'QB VALUES', 'START HERE']
+==============================================================================
+3. QB VALUES INVENTORY (v0.7.9 FINAL)
+  rows: 138  unique abbrevs: 138  unique teams: 138
+  codes: {'L': 33, 'M': 40, 'H': 65}
+  invalid codes: []
+  blank numerical: 39   zero numerical: 99   other: 0
+  NONZERO QB VALUES: 0
+  L-coded with non-blank numerical cells: 0 []
+  SETTINGS!B3=2026   QB status: {'UNCERTAIN': 39, 'OK': 99}   nonzero deltas: 0
+==============================================================================
+4. BACKLOG AND AUDIT TRAIL
+  Tier 1 population (M+L): 73
+  ledger: {'VERIFIED 7D.5': 21, 'VERIFIED 7D.3A': 7, 'H-coded (tier 2)': 51, 'verified 7A-7D': 11, 'VERIFIED 7D.3': 9, 'VERIFIED 7D.4': 26, 'VERIFIED 7D.4A': 5, 'VERIFIED 7D.2': 7, 'VERIFIED 7D.1': 1}
+  >>> QB VERIFICATION BACKLOG: 0 []
+  >>> AUDIT-TRAIL GAP (Tier-1 rows unstamped): 0 []
+  H-coded tier-2 rows still on the 2026-07-21 build stamp: 61 (never in Tier-1 scope; expected)
+==============================================================================
+5. REGRESSION BATTERY
+  [PASS] 1 no formula changes this phase - 0
+  [PASS] 2 no formula changes vs v0.6.2 AUTHORITATIVE - 0
+  [PASS] 3 formula count unchanged - 123011 / 123011 / 123011
+  [PASS] 4 sheet count/order/visibility unchanged
+  [PASS] 5 138 unique teams, no shifted rows
+  [PASS] 6 no invalid H/M/L codes
+  [PASS] 7 zero nonzero QB values
+  [PASS] 8 zero nonzero QB deltas
+  [PASS] 9 every L-coded team blank-gated
+  [PASS] 10 every L-coded team UNCERTAIN
+  [PASS] 11 TEAM RATINGS untouched (this phase and vs v0.6.2)
+  [PASS] 12 ENGINE untouched (no spread movement, vs v0.6.2 too)
+  [PASS] 13 SETTINGS untouched vs v0.6.2
+  [PASS] 14 ADJUSTMENTS untouched vs v0.6.2
+  [PASS] 15 MARKET LINES untouched vs v0.6.2
+  [PASS] 16 PRESEASON untouched vs v0.6.2 (source weights)
+  [PASS] 17 IMPORT SCHEDULE untouched vs v0.6.2
+  [PASS] 18 only QB VALUES + CHANGELOG + START HERE in diff - ['CHANGELOG', 'QB VALUES', 'START HERE']
+  [PASS] 19 cumulative diff confined to the same three sheets - ['CHANGELOG', 'QB VALUES', 'START HERE']
+  [PASS] 20 no unrelated/unauthorized/unknown cells
+  [PASS] 21 QB VALUES diff confined to the 26 intended rows
+  [PASS] 22 formula columns A,B,G,M intact on all 138 rows
+  [PASS] 23 input columns hold constants only
+  [PASS] 24 SETTINGS!B3 season = 2026
+  [PASS] 25 SETTINGS!B6 HFA = 2.5
+  [PASS] 26 SETTINGS!B11 BET toggle = N
+  [PASS] 27 QB VERIFICATION BACKLOG = 0 - 0
+  [PASS] 28 AUDIT-TRAIL GAP = 0 (finding F-7 closed) - 0
+  [PASS] 29 every Tier-1 record carries a note
+  [PASS] 30 MIZ M->H, zeros retained, status OK
+  [PASS] 31 UNC M->L, values blank (were already blank), UNCERTAIN
+  [PASS] 32 UNLV M->L, zeros cleared, UNCERTAIN
+  [PASS] 33 ENGINE!AI status precedence unchanged vs v0.6.2
+  [PASS] 34 ENGINE!M (QB adj) unchanged vs v0.6.2
+  [PASS] 35 ENGINE!AE (QB status) unchanged vs v0.6.2
+  [PASS] 36 QB VALUES G formula unchanged vs v0.6.2
+  [PASS] 37 QB VALUES M formula unchanged vs v0.6.2
+  [PASS] 38 no market spreads loaded (pristine preseason state preserved)
+
+  RESULT: 38/38 PASS, 0 FAIL
+==============================================================================
+6. ZERO-CHANGE VERIFICATION / MANIFEST
+  v0.6.2 AUTHORITATIVE bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd  UNCHANGED=True
+  v0.7.8 CANDIDATE     8f655e5e369a6a8c12fdb34f3309cff13a92c9310af6186b77081be4b3c389cb  UNCHANGED=True
+  v0.7.9 CANDIDATE     661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7  (new, FINAL)
+  PROJECT_MANIFEST.json match for v0.6.2: True
+
+  artifacts written to /home/user/-TTW-NCAAF-2026-Schedule/workbook_v0.7.9_candidate
