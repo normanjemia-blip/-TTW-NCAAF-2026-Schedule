@@ -9,7 +9,7 @@
 | Field | Value |
 |---|---|
 | **Version** | **v0.8.0 AUTHORITATIVE** |
-| **File** | `promotion_v0.8.0/TTW_NCAAF_Power_Ratings_2026_v0.8.0_AUTHORITATIVE.xlsx` |
+| **File** | `promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx` |
 | **SHA-256** | `661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7` |
 | Size | 3,010,398 bytes |
 | Sheets | 21 |
@@ -80,6 +80,6 @@ conditional formatting and data validation identical on every sheet ·
 
 ## Audit artifacts
 
-`workbook_v0.7.9_candidate/promotion_audit_log.txt` (parts 1),
+`archive/candidates/workbook_v0.7.9_candidate/promotion_audit_log.txt` (parts 1),
 `promotion_audit_log3.txt` (part 3, corrected), `verification_log_v079.txt`,
 `diff_v062_to_v079.csv`, `qb_inventory_v079.json`.

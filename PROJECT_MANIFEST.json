@@ -3,24 +3,27 @@
   "manifest_updated": "2026-08-04",
   "current_authoritative": {
     "version": "v0.8.0",
-    "title": "TTW_NCAAF_Power_Ratings_2026_v0.8.0_AUTHORITATIVE",
-    "status": "APPROVED — current authoritative production workbook",
+    "title": "TTW College Football Power Ratings \u2014 v0.8.0 AUTHORITATIVE",
+    "status": "APPROVED \u2014 current authoritative production workbook",
     "native_google_sheet_id": null,
     "native_google_sheet_url": null,
     "native_sheet_note": "NOT YET IMPORTED. The v0.8.0 promotion is repository-side only. The native Google Sheet 1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc still holds v0.6.2 and was never accessed by any phase of the QB verification project. Take a Sheets version snapshot before importing.",
-    "source_xlsx": "promotion_v0.8.0/TTW_NCAAF_Power_Ratings_2026_v0.8.0_AUTHORITATIVE.xlsx",
+    "source_xlsx": "promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx",
     "source_sha256": "661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7",
     "promotion_date": "2026-08-04",
-    "promoted_from": "workbook_v0.7.9_candidate/TTW_NCAAF_Power_Ratings_2026_v0.7.9_CANDIDATE.xlsx",
+    "promoted_from": "archive/candidates/workbook_v0.7.9_candidate/TTW_NCAAF_Power_Ratings_2026_v0.7.9_CANDIDATE.xlsx",
     "promoted_byte_for_byte": true,
-    "roundtrip_verification": "N/A — byte-identical copy of the audited candidate (cmp clean, identical SHA-256)",
+    "roundtrip_verification": "N/A \u2014 byte-identical copy of the audited candidate (cmp clean, identical SHA-256)",
     "deliverables_dir": "promotion_v0.8.0",
-    "change_summary": "QB verification project (Phases 7A-7D.5). QB dataset populated for all 138 teams (v0.6.2 had 0/138 confidence codes) and all 73 Tier-1 records independently verified against team-specific primary sources and stamped with a verification date and evidence note. 1249 cell changes vs v0.6.2, ZERO formula changes, confined to QB VALUES (1132), CHANGELOG (116) and START HERE (1); 18 of 21 worksheet XML parts byte-identical. No rating, spread, HFA, threshold, schedule, source-weight or status-logic change. All QB numerical values remain 0 or blank, so the QB adjustment computes 0 for every game in both workbooks."
+    "change_summary": "QB verification project (Phases 7A-7D.5). QB dataset populated for all 138 teams (v0.6.2 had 0/138 confidence codes) and all 73 Tier-1 records independently verified against team-specific primary sources and stamped with a verification date and evidence note. 1249 cell changes vs v0.6.2, ZERO formula changes, confined to QB VALUES (1132), CHANGELOG (116) and START HERE (1); 18 of 21 worksheet XML parts byte-identical. No rating, spread, HFA, threshold, schedule, source-weight or status-logic change. All QB numerical values remain 0 or blank, so the QB adjustment computes 0 for every game in both workbooks.",
+    "product_name": "TTW College Football Power Ratings",
+    "certificate": "promotion_v0.8.0/PROMOTION_CERTIFICATE.md",
+    "phase": "7E \u2014 Authoritative Promotion"
   },
   "rollback": {
     "version": "v0.6.2",
     "title": "TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE",
-    "status": "PRESERVED — rollback version, unmodified",
+    "status": "PRESERVED \u2014 rollback version, unmodified",
     "source_xlsx": "workbook_v0.6.2_deliverables/TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE.xlsx",
     "source_sha256": "bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd",
     "native_google_sheet_id": "1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc",
@@ -30,12 +33,14 @@
     "note": "v0.6.2 is unmodified and remains the rollback target. Its native Google Sheet was never accessed during the QB verification project. The older v0.6.1 rollback sheet 1EITbPHCkNndhtgydsjZDejQ5tOx_IQvkI5yC0nEwYWo also remains untouched."
   },
   "phase_status": {
-    "phase_6_2": "CLOSED — approved, promoted to native Google Sheet, round-trip verified",
-    "phase_7": "COMPLETE — repository closeout and authoritative-version promotion",
-    "phase_7a_7d5": "COMPLETE — QB verification project. Backlog 0; audit-trail gap 0; 73/73 Tier-1 records verified and stamped.",
-    "promotion_audit": "COMPLETE — 3-part adversarial audit, ~60 independent checks, 0 blockers",
-    "phase_8_4": "PIPELINE BUILT, FIRST SWEEP NOT RUN — run immediately after promotion",
-    "phase_v1_vsin": "PAUSED — guide upload failed (1-byte file); not indexed, not integrated"
+    "phase_6_2": "CLOSED \u2014 approved, promoted to native Google Sheet, round-trip verified",
+    "phase_7": "COMPLETE \u2014 repository closeout and authoritative-version promotion",
+    "phase_7a_7d5": "COMPLETE \u2014 QB verification project. Backlog 0; audit-trail gap 0; 73/73 Tier-1 records verified and stamped.",
+    "promotion_audit": "COMPLETE \u2014 3-part adversarial audit, ~60 independent checks, 0 blockers",
+    "phase_8_4": "PIPELINE BUILT, FIRST SWEEP NOT RUN \u2014 run immediately after promotion",
+    "phase_v1_vsin": "PAUSED \u2014 guide upload failed (1-byte file); not indexed, not integrated",
+    "phase_7e": "COMPLETE \u2014 v0.8.0 promoted; TTW Workbook Build Project formally CLOSED",
+    "project": "CLOSED \u2014 build project complete; only monitoring sweeps remain"
   },
   "production_state": {
     "sheet_count": 21,
@@ -57,21 +62,54 @@
     "qb_tier1_verified": "73 / 73"
   },
   "known_limitations": [
+    "START HERE!A1 banner is stale: it still reads 'v0.7.9 FINAL QB-VERIFICATION CANDIDATE ... NOT AUTHORITATIVE, NOT PROMOTED' and says 'all 74 Tier-1 records' when the correct figure is 73. Deliberately NOT corrected \u2014 Phase 7E required byte-identity to the audited candidate. No formula reads either string. A banner-only v0.8.1 patch (2 cells) is available at the owner's discretion.",
     "61 H-coded records were never independently verified (out of declared Tier-1 scope). Missouri proved an H-tier assumption can go stale. Spot-check in the first monitoring sweep.",
-    "33 L-coded records are perishable — accurate as of 2026-08-04, with depth charts landing before the 2026-08-29 openers.",
+    "33 L-coded records are perishable \u2014 accurate as of 2026-08-04, with depth charts landing before the 2026-08-29 openers.",
     "Alabama's stamped note records Russell as slightly favored; separate same-day reporting has DeBoer suggesting Mack may hold a slight edge. The L code is correct either way; neutralise the note in the first sweep.",
     "Texas Tech remains provisional pending final team medical clearance (~2026-08-21).",
     "Neither v0.6.2 nor v0.8.0 stores cached formula results; Excel and Sheets recalculate on open. Pre-existing, not a regression."
   ],
   "version_history": [
-    {"version": "v0.3",   "summary": "Verified 2026 schedule build (888 games) loaded into workbook pipeline"},
-    {"version": "v0.3.1", "summary": "Three production fixes"},
-    {"version": "v0.4 / v0.4.1 / v0.4.2", "summary": "Preseason ratings loaded (SP+, FPI, TeamRankings) for 138 FBS teams"},
-    {"version": "v0.5 / v0.5.1 / v0.5.2", "summary": "FCS — NO PLAY scope change and string corrections"},
-    {"version": "v0.6", "summary": "Phase 6 operational testing (not approved)"},
-    {"version": "v0.6.1", "summary": "ADJUSTMENTS!K/J correction + test-completion build (approved)"},
-    {"version": "v0.6.2", "summary": "DATA INCOMPLETE pathway repair (approved; now rollback)"},
-    {"version": "v0.7.2 – v0.7.9", "summary": "QB verification candidate line; 11 defects found across 80 team-specific verification passes"},
-    {"version": "v0.8.0", "summary": "QB verification project complete; promoted from v0.7.9 byte-for-byte (current authoritative)"}
-  ]
+    {
+      "version": "v0.3",
+      "summary": "Verified 2026 schedule build (888 games) loaded into workbook pipeline"
+    },
+    {
+      "version": "v0.3.1",
+      "summary": "Three production fixes"
+    },
+    {
+      "version": "v0.4 / v0.4.1 / v0.4.2",
+      "summary": "Preseason ratings loaded (SP+, FPI, TeamRankings) for 138 FBS teams"
+    },
+    {
+      "version": "v0.5 / v0.5.1 / v0.5.2",
+      "summary": "FCS \u2014 NO PLAY scope change and string corrections"
+    },
+    {
+      "version": "v0.6",
+      "summary": "Phase 6 operational testing (not approved)"
+    },
+    {
+      "version": "v0.6.1",
+      "summary": "ADJUSTMENTS!K/J correction + test-completion build (approved)"
+    },
+    {
+      "version": "v0.6.2",
+      "summary": "DATA INCOMPLETE pathway repair (approved; now rollback)"
+    },
+    {
+      "version": "v0.7.2 \u2013 v0.7.9",
+      "summary": "QB verification candidate line; 11 defects found across 80 team-specific verification passes"
+    },
+    {
+      "version": "v0.8.0",
+      "summary": "QB verification project complete; promoted from v0.7.9 byte-for-byte (current authoritative)"
+    }
+  ],
+  "archive": {
+    "candidates_dir": "archive/candidates",
+    "pre_qb_project_dir": "archive/pre_qb_project",
+    "note": "All superseded versions archived, nothing deleted, full git history retained. workbook_v0.6.2_deliverables/ is deliberately NOT archived \u2014 it is the rollback target and must stay in place."
+  }
 }

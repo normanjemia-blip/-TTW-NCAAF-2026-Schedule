@@ -1,91 +1,87 @@
-# TTW NCAAF Power Ratings 2026
+# TTW College Football Power Ratings
 
 Google Sheets–first college-football power-rating workbook: CFBD data in,
 opponent-adjusted ratings out, your own market lines for edges. No picks
 sold — just process.
 
-## Current authoritative version: **v0.6.2** ✅
+> **The TTW Workbook Build Project is CLOSED** as of 2026-08-04 (Phase 7E).
+> Only monitoring sweeps remain. See
+> [`promotion_v0.8.0/PROMOTION_CERTIFICATE.md`](promotion_v0.8.0/PROMOTION_CERTIFICATE.md).
+
+## Current authoritative version: **v0.8.0** ✅
+
+| | |
+|---|---|
+| **Title** | **TTW College Football Power Ratings — v0.8.0 AUTHORITATIVE** |
+| **Status** | APPROVED — current authoritative production workbook |
+| **File** | [`promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx`](promotion_v0.8.0/) |
+| **SHA-256** | `661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7` |
+| **Promotion date** | 2026-08-04 |
+| **Promoted from** | `v0.7.9_CANDIDATE` — **byte-for-byte** (identical SHA-256) |
+| **Native Google Sheet** | **NOT YET IMPORTED** — the sheet still holds v0.6.2; import is an owner action |
+| **Certificate** | [`promotion_v0.8.0/PROMOTION_CERTIFICATE.md`](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
+
+v0.8.0 delivers the completed **QB verification project**. v0.6.2 shipped with an
+empty QB dataset — **0 of 138** confidence codes populated, so every team computed
+UNCERTAIN. v0.8.0 populates all 138 records and independently verifies all **73 of 73**
+Tier-1 records against team-specific primary sources, each stamped with a verification
+date and evidence note.
+
+**1,249 cell changes vs v0.6.2 · ZERO formula changes · 18 of 21 worksheet XML parts
+byte-identical.** It cannot move a rating or a spread: no formula reads the confidence
+code, and every QB delta is blank or 0.
+
+## Rollback version: v0.6.2 (preserved, unmodified)
 
 | | |
 |---|---|
 | **Title** | `TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE` |
-| **Status** | APPROVED — current authoritative production workbook |
+| **Status** | PRESERVED — rollback target |
+| **SHA-256** | `bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd` |
 | **Native Google Sheet** | [`1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc`](https://docs.google.com/spreadsheets/d/1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc) |
-| **Source SHA-256** | `bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd` |
-| **Promotion date** | 2026-07-21 |
-| **Round-trip verification** | PASS (`workbook_v0.6.2_deliverables/promotion/`) |
 | **Deliverables** | [`workbook_v0.6.2_deliverables/`](workbook_v0.6.2_deliverables/) |
+| **Procedure** | [`promotion_v0.8.0/ROLLBACK.md`](promotion_v0.8.0/ROLLBACK.md) |
 
-v0.6.2 repaired the DATA INCOMPLETE pathway defect — `CLEAN!C6:C1005` and
-`CLEAN!D6:D1005` now preserve genuinely blank Week/Date inputs as blank
-(nested blank-guard) so the DATA INCOMPLETE status is reachable. Exactly
-2,005 cell-level changes vs v0.6.1 (2,000 CLEAN formulas + banner + one
-CHANGELOG row); nothing else was touched.
+`workbook_v0.6.2_deliverables/` is deliberately **not archived** — it must stay in
+place as the rollback target. Neither Google Sheet was accessed by any phase of the QB
+verification project.
 
-## Rollback version: v0.6.1 (preserved, unmodified)
+## Production state (v0.8.0, clean preseason)
 
-| | |
-|---|---|
-| **Title** | `TTW_NCAAF_Power_Ratings_2026_v0.6.1_AUTHORITATIVE` |
-| **Status** | PRESERVED — rollback version |
-| **Native Google Sheet** | [`1EITbPHCkNndhtgydsjZDejQ5tOx_IQvkI5yC0nEwYWo`](https://docs.google.com/spreadsheets/d/1EITbPHCkNndhtgydsjZDejQ5tOx_IQvkI5yC0nEwYWo) |
-| **Deliverables** | [`workbook_v0.6.1_deliverables/`](workbook_v0.6.1_deliverables/) |
+21 sheets · 123,011 formula cells · 888 games (761 FBS-vs-FBS, 127 FCS — NO PLAY) ·
+0 BLOCKED · 0 DATA INCOMPLETE · 0 audit failures · 0 market lines · 0 adjustments ·
+0 in-season stats · BET toggle = N.
 
-The v0.6.1 Google Sheet was **not** modified during the v0.6.2 promotion.
-
-## Production state (v0.6.2, clean preseason)
-
-21 sheets · 123,011 formula cells · 888 games (761 FBS-vs-FBS,
-127 FCS — NO PLAY) · 0 BLOCKED · 0 DATA INCOMPLETE · 0 audit failures ·
-0 market lines · 0 adjustments · 0 in-season stats · BET toggle = N.
+**QB dataset:** 138/138 codes populated · **65 H / 40 M / 33 L** · 99 OK / 39 UNCERTAIN ·
+39 blank / 99 zero numerical inputs · **0 nonzero QB values** · backlog 0 ·
+audit-trail gap 0.
 
 ## Phase status
 
-- **Phase 6.2:** CLOSED — approved, promoted to a native Google Sheet, and
-  round-trip verified.
-- **Phase 7 (repository closeout & authoritative-version promotion):**
-  COMPLETE.
-- **Phase 8.x (QB VALUES working track — NOT authoritative):** in progress on
-  branch `claude/2026-ncaaf-schedule-build-by6j5n`. Deviation-only QB
-  methodology; latest working checkpoint **v0.7.2 candidate** (105 OK / 33
-  UNCERTAIN / 0 nonzero). **Nothing QB-related is promoted; no Google Sheet was
-  edited; v0.6.2 remains the authoritative production workbook.**
-- No market-line entry or preseason activation has been started.
+- **Phases 3–6.2:** CLOSED — schedule build, preseason sources, FCS — NO PLAY, operational testing, DATA INCOMPLETE repair.
+- **Phases 7A–7D.5 (QB verification project):** COMPLETE — 11 defects found across 80 team-specific verification passes.
+- **Promotion audit:** COMPLETE — 3-part adversarial audit, ~60 independent checks, **0 blockers**.
+- **Phase 7E (authoritative promotion):** COMPLETE — **project closed**.
+- **Phase 8.4 (fall-camp monitoring):** pipeline built, **first sweep not yet run** — run it next.
+- **Phase V1 (VSiN reference library):** PAUSED — the guide upload produced a 1-byte file; nothing was indexed or integrated.
 
-## QB working track (not authoritative)
+## Known limitations carried into production
 
-The deviation-only QB initialization, the 33-team exception system, and the
-fall-camp monitoring + candidate-build automation live outside the authoritative
-deliverables and change **no** production workbook or Google Sheet:
-
-- [`workbook_v0.7.2_QB_values_candidate/`](workbook_v0.7.2_QB_values_candidate/)
-  — latest QB working checkpoint (candidate), methodology, rubric, exception
-  tracker, and review log.
-- [`phase8_4_qb_monitoring/`](phase8_4_qb_monitoring/) — fall-camp monitoring
-  plan, the `pending_qb_resolutions` ledger, and the **QB resolution → candidate
-  build pipeline** (`apply_pending_qb_resolutions.py`, `verify_qb_candidate.py`,
-  `build_qb_candidate.py`, `test_pipeline.py`). See
-  [`phase8_4_qb_monitoring/qb_resolution_pipeline_readme.md`](phase8_4_qb_monitoring/qb_resolution_pipeline_readme.md).
-  The pipeline turns human-**approved** resolutions into a **verified** workbook
-  candidate; it never modifies the source workbook (its SHA is asserted
-  unchanged) and never runs the memory-heavy full-formula engine.
-
-See [`PROJECT_MANIFEST.json`](PROJECT_MANIFEST.json) for the
-machine-readable version registry and
-[`workbook_v0.6.2_deliverables/promotion/`](workbook_v0.6.2_deliverables/promotion/)
-for the promotion + round-trip verification artifacts.
+1. **`START HERE!A1` banner is stale** — it still reads *"v0.7.9 … NOT AUTHORITATIVE, NOT PROMOTED"* and says *"74 Tier-1 records"* when the correct figure is **73**. Deliberately not corrected: Phase 7E required byte-identity to the audited candidate. No formula reads either string. A banner-only **v0.8.1** patch (2 cells) is available on request.
+2. **61 H-coded records were never independently verified** — out of declared Tier-1 scope. Missouri proved an H-tier assumption can go stale. Spot-check in the first sweep.
+3. **The 33 L records are perishable** — depth charts land before the 2026-08-29 openers.
+4. **Alabama's note is directionally contested** (Russell vs Mack); the `L` code is correct either way.
+5. **Texas Tech is provisional** pending final medical clearance (~2026-08-21).
+6. **No cached formula results** in either workbook — Excel/Sheets recalculate on open. Pre-existing, not a regression.
 
 ## Repository layout
 
-- `workbook_v0.6.2_deliverables/` — current authoritative deliverables,
-  including `promotion/` (native-sheet promotion manifest and round-trip
-  verification).
-- `workbook_v0.6.1_deliverables/` … `workbook_v0.3.1_deliverables/` —
-  prior version deliverables (historical record).
-- `workbook_v0.7.1_QB_values_working/`, `workbook_v0.7.2_QB_values_candidate/`,
-  `phase8_4_qb_monitoring/` — the QB VALUES working track (deviation-only
-  methodology, exception system, and the resolution→candidate pipeline). **Not
-  authoritative.**
-- `TTW_2026_Verified_Schedule_ESPN_v1.0.csv`,
-  `TTW_2026_Schedule_Reconciliation_Report.md`, `raw_espn/`, `scripts/`,
-  `validate_schedule.py` — the Phase 3 schedule build and its provenance.
+- `promotion_v0.8.0/` — **the authoritative workbook** plus its certificate, manifest, promotion notes, rollback procedure, and archive index.
+- `workbook_v0.6.2_deliverables/` — **rollback target. Do not move, modify or delete.**
+- `archive/candidates/` — the QB verification candidate line (v0.7.0 → v0.7.9), each with its own manifest, phase report, build script and verification log.
+- `archive/pre_qb_project/` — pre-QB deliverables (v0.3.1 → v0.6.1).
+- `phase8_4_qb_monitoring/` — fall-camp monitoring plan, the `pending_qb_resolutions` ledger, and the QB resolution → candidate build pipeline. **Run the first sweep next.**
+- `phase7_preseason_calibration/` — the override standard, deferred-trigger register and source-conflict log that govern future rating changes.
+- `TTW_2026_Verified_Schedule_ESPN_v1.0.csv`, `TTW_2026_Schedule_Reconciliation_Report.md`, `raw_espn/`, `scripts/`, `validate_schedule.py` — the Phase 3 schedule build and its provenance.
+
+See [`PROJECT_MANIFEST.json`](PROJECT_MANIFEST.json) for the machine-readable version registry.

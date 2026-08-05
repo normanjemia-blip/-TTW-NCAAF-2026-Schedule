@@ -17,14 +17,14 @@ phase report, build script and verification log, so any step is reproducible.
 
 | Directory | Version | SHA-256 | Contribution |
 |---|---|---|---|
-| `workbook_v0.7.2_QB_values_candidate/` | v0.7.2 | `82ee5b3d…f151a183` | First 138/138 codes (61 H / 45 M / 32 L) |
-| `workbook_v0.7.3_candidate/` | v0.7.3 | `07bed6de…5dc8d7a72d` | Texas Tech L→M; **Akron defect** corrected |
-| `workbook_v0.7.4_candidate/` | v0.7.4 | `57cd6d20…` | Akron zeros cleared; MAC/CUSA batch 1 |
-| `workbook_v0.7.5_candidate/` | v0.7.5 | `8c273c2e…` | Power-conference batch 2 (partial) |
-| `workbook_v0.7.6_candidate/` | v0.7.6 | `080986dd…4c3cae30d7a5bb` | Batch 2 complete |
-| `workbook_v0.7.7_candidate/` | v0.7.7 | `3da33d0c…5670d02a73` | Final G5 batch; backlog 31 → 5 |
-| `workbook_v0.7.8_candidate/` | v0.7.8 | `8f655e5e…b4b3c389cb` | Final five resolved; backlog → 0; **finding F-7 raised** |
-| `workbook_v0.7.9_candidate/` | v0.7.9 | `661f8ab0…3cef97c7` | **Promotion basis** — F-7 closed, 3 defects corrected |
+| `archive/candidates/workbook_v0.7.2_QB_values_candidate/` | v0.7.2 | `82ee5b3d…f151a183` | First 138/138 codes (61 H / 45 M / 32 L) |
+| `archive/candidates/workbook_v0.7.3_candidate/` | v0.7.3 | `07bed6de…5dc8d7a72d` | Texas Tech L→M; **Akron defect** corrected |
+| `archive/candidates/workbook_v0.7.4_candidate/` | v0.7.4 | `57cd6d20…` | Akron zeros cleared; MAC/CUSA batch 1 |
+| `archive/candidates/workbook_v0.7.5_candidate/` | v0.7.5 | `8c273c2e…` | Power-conference batch 2 (partial) |
+| `archive/candidates/workbook_v0.7.6_candidate/` | v0.7.6 | `080986dd…4c3cae30d7a5bb` | Batch 2 complete |
+| `archive/candidates/workbook_v0.7.7_candidate/` | v0.7.7 | `3da33d0c…5670d02a73` | Final G5 batch; backlog 31 → 5 |
+| `archive/candidates/workbook_v0.7.8_candidate/` | v0.7.8 | `8f655e5e…b4b3c389cb` | Final five resolved; backlog → 0; **finding F-7 raised** |
+| `archive/candidates/workbook_v0.7.9_candidate/` | v0.7.9 | `661f8ab0…3cef97c7` | **Promotion basis** — F-7 closed, 3 defects corrected |
 
 Earlier deliverable sets (`workbook_v0.3.1` … `workbook_v0.6.1`, and the
 `v0.4.2` / `v0.6.1` / `v0.6.2` zips) remain archived as the pre-QB-project lineage.
