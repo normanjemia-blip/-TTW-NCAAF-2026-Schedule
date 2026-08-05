@@ -2,23 +2,24 @@
   "project": "TTW NCAAF Power Ratings 2026",
   "manifest_updated": "2026-08-04",
   "current_authoritative": {
-    "version": "v0.8.0",
-    "title": "TTW College Football Power Ratings \u2014 v0.8.0 AUTHORITATIVE",
+    "version": "v0.8.1",
+    "title": "TTW College Football Power Ratings \u2014 v0.8.1 AUTHORITATIVE",
     "status": "APPROVED \u2014 current authoritative production workbook",
     "native_google_sheet_id": null,
     "native_google_sheet_url": null,
     "native_sheet_note": "NOT YET IMPORTED. The v0.8.0 promotion is repository-side only. The native Google Sheet 1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc still holds v0.6.2 and was never accessed by any phase of the QB verification project. Take a Sheets version snapshot before importing.",
-    "source_xlsx": "promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx",
-    "source_sha256": "661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7",
+    "source_xlsx": "promotion_v0.8.1/TTW_College_Football_Power_Ratings_v0.8.1_AUTHORITATIVE.xlsx",
+    "source_sha256": "e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6",
     "promotion_date": "2026-08-04",
-    "promoted_from": "archive/candidates/workbook_v0.7.9_candidate/TTW_NCAAF_Power_Ratings_2026_v0.7.9_CANDIDATE.xlsx",
-    "promoted_byte_for_byte": true,
+    "promoted_from": "promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx",
+    "promoted_byte_for_byte": false,
     "roundtrip_verification": "N/A \u2014 byte-identical copy of the audited candidate (cmp clean, identical SHA-256)",
-    "deliverables_dir": "promotion_v0.8.0",
-    "change_summary": "QB verification project (Phases 7A-7D.5). QB dataset populated for all 138 teams (v0.6.2 had 0/138 confidence codes) and all 73 Tier-1 records independently verified against team-specific primary sources and stamped with a verification date and evidence note. 1249 cell changes vs v0.6.2, ZERO formula changes, confined to QB VALUES (1132), CHANGELOG (116) and START HERE (1); 18 of 21 worksheet XML parts byte-identical. No rating, spread, HFA, threshold, schedule, source-weight or status-logic change. All QB numerical values remain 0 or blank, so the QB adjustment computes 0 for every game in both workbooks.",
+    "deliverables_dir": "promotion_v0.8.1",
+    "change_summary": "v0.8.1 is a DOCUMENTATION MAINTENANCE patch over v0.8.0: exactly one cell changed (START HERE!A1) to correct a stale banner that still declared the workbook 'NOT AUTHORITATIVE, NOT PROMOTED - awaiting owner approval' and stated 74 Tier-1 records instead of 73. 20 of 21 worksheet XML parts are byte-identical to v0.8.0; 0 formula changes; formula count 123,011; regression 43/43 PASS. No formula, structure, QB data, rating, engine, HFA, worksheet-order or formatting change. v0.8.0 delivered the completed QB verification project over v0.6.2 (which had 0/138 confidence codes): 1249 cells, 0 formula changes, all 73 Tier-1 records verified and stamped.",
     "product_name": "TTW College Football Power Ratings",
-    "certificate": "promotion_v0.8.0/PROMOTION_CERTIFICATE.md",
-    "phase": "7E \u2014 Authoritative Promotion"
+    "certificate": "promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md",
+    "phase": "7E.1 \u2014 Documentation Maintenance Patch",
+    "release_class": "DOCUMENTATION MAINTENANCE ONLY \u2014 no functional change"
   },
   "rollback": {
     "version": "v0.6.2",
@@ -40,7 +41,8 @@
     "phase_8_4": "PIPELINE BUILT, FIRST SWEEP NOT RUN \u2014 run immediately after promotion",
     "phase_v1_vsin": "PAUSED \u2014 guide upload failed (1-byte file); not indexed, not integrated",
     "phase_7e": "COMPLETE \u2014 v0.8.0 promoted; TTW Workbook Build Project formally CLOSED",
-    "project": "CLOSED \u2014 build project complete; only monitoring sweeps remain"
+    "project": "CLOSED \u2014 build project complete; only monitoring sweeps remain",
+    "phase_7e_1": "COMPLETE \u2014 documentation maintenance patch; banner corrected; 43/43 regression PASS"
   },
   "production_state": {
     "sheet_count": 21,
@@ -62,7 +64,7 @@
     "qb_tier1_verified": "73 / 73"
   },
   "known_limitations": [
-    "START HERE!A1 banner is stale: it still reads 'v0.7.9 FINAL QB-VERIFICATION CANDIDATE ... NOT AUTHORITATIVE, NOT PROMOTED' and says 'all 74 Tier-1 records' when the correct figure is 73. Deliberately NOT corrected \u2014 Phase 7E required byte-identity to the audited candidate. No formula reads either string. A banner-only v0.8.1 patch (2 cells) is available at the owner's discretion.",
+    "RESOLVED in v0.8.1 (Phase 7E.1): the START HERE!A1 banner previously read 'v0.7.9 ... NOT AUTHORITATIVE, NOT PROMOTED' and '74 Tier-1 records'. Corrected to v0.8.1 AUTHORITATIVE, promotion complete, 73 Tier-1 records. NOTE: the workbook's internal CHANGELOG tab still records history only through v0.7.9 - adding a row would have broken the 'only START HERE changed' regression that Phase 7E.1 required. The external record (certificates, manifest, README) is complete.",
     "61 H-coded records were never independently verified (out of declared Tier-1 scope). Missouri proved an H-tier assumption can go stale. Spot-check in the first monitoring sweep.",
     "33 L-coded records are perishable \u2014 accurate as of 2026-08-04, with depth charts landing before the 2026-08-29 openers.",
     "Alabama's stamped note records Russell as slightly favored; separate same-day reporting has DeBoer suggesting Mack may hold a slight edge. The L code is correct either way; neutralise the note in the first sweep.",
@@ -105,11 +107,21 @@
     {
       "version": "v0.8.0",
       "summary": "QB verification project complete; promoted from v0.7.9 byte-for-byte (current authoritative)"
+    },
+    {
+      "version": "v0.8.1",
+      "summary": "Documentation maintenance patch: START HERE banner corrected (1 cell); current authoritative"
     }
   ],
   "archive": {
     "candidates_dir": "archive/candidates",
     "pre_qb_project_dir": "archive/pre_qb_project",
     "note": "All superseded versions archived, nothing deleted, full git history retained. workbook_v0.6.2_deliverables/ is deliberately NOT archived \u2014 it is the rollback target and must stay in place."
+  },
+  "intermediate_rollback": {
+    "version": "v0.8.0",
+    "source_xlsx": "promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx",
+    "source_sha256": "661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7",
+    "note": "Functionally identical to v0.8.1; differs only by the START HERE!A1 banner text. Use for a cosmetic revert; use the v0.6.2 rollback entry for a full rollback."
   }
 }

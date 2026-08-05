@@ -4,22 +4,28 @@ Google Sheets–first college-football power-rating workbook: CFBD data in,
 opponent-adjusted ratings out, your own market lines for edges. No picks
 sold — just process.
 
-> **The TTW Workbook Build Project is CLOSED** as of 2026-08-04 (Phase 7E).
-> Only monitoring sweeps remain. See
-> [`promotion_v0.8.0/PROMOTION_CERTIFICATE.md`](promotion_v0.8.0/PROMOTION_CERTIFICATE.md).
+> **The TTW Workbook Build Project is CLOSED** as of 2026-08-04 (Phase 7E, with a
+> Phase 7E.1 documentation patch). Only monitoring sweeps remain. See the
+> [maintenance certificate](promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md) and the
+> [promotion certificate](promotion_v0.8.0/PROMOTION_CERTIFICATE.md).
 
-## Current authoritative version: **v0.8.0** ✅
+## Current authoritative version: **v0.8.1** ✅
 
 | | |
 |---|---|
-| **Title** | **TTW College Football Power Ratings — v0.8.0 AUTHORITATIVE** |
+| **Title** | **TTW College Football Power Ratings — v0.8.1 AUTHORITATIVE** |
 | **Status** | APPROVED — current authoritative production workbook |
-| **File** | [`promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx`](promotion_v0.8.0/) |
-| **SHA-256** | `661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7` |
-| **Promotion date** | 2026-08-04 |
-| **Promoted from** | `v0.7.9_CANDIDATE` — **byte-for-byte** (identical SHA-256) |
+| **Release class** | **Documentation maintenance** over v0.8.0 — no functional change |
+| **File** | [`promotion_v0.8.1/TTW_College_Football_Power_Ratings_v0.8.1_AUTHORITATIVE.xlsx`](promotion_v0.8.1/) |
+| **SHA-256** | `e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6` |
+| **Promotion date** | 2026-08-04 (v0.8.0), patched same day (v0.8.1) |
 | **Native Google Sheet** | **NOT YET IMPORTED** — the sheet still holds v0.6.2; import is an owner action |
-| **Certificate** | [`promotion_v0.8.0/PROMOTION_CERTIFICATE.md`](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
+| **Certificates** | [Maintenance (v0.8.1)](promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md) · [Promotion (v0.8.0)](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
+
+**v0.8.1** corrects the `START HERE` banner, which still declared the workbook
+*"NOT AUTHORITATIVE, NOT PROMOTED"* and cited 74 Tier-1 records instead of 73.
+**Exactly one cell changed**; 20 of 21 worksheet XML parts byte-identical to v0.8.0;
+43/43 regression PASS.
 
 v0.8.0 delivers the completed **QB verification project**. v0.6.2 shipped with an
 empty QB dataset — **0 of 138** confidence codes populated, so every team computed
@@ -46,7 +52,7 @@ code, and every QB delta is blank or 0.
 place as the rollback target. Neither Google Sheet was accessed by any phase of the QB
 verification project.
 
-## Production state (v0.8.0, clean preseason)
+## Production state (v0.8.1, clean preseason)
 
 21 sheets · 123,011 formula cells · 888 games (761 FBS-vs-FBS, 127 FCS — NO PLAY) ·
 0 BLOCKED · 0 DATA INCOMPLETE · 0 audit failures · 0 market lines · 0 adjustments ·
@@ -62,12 +68,13 @@ audit-trail gap 0.
 - **Phases 7A–7D.5 (QB verification project):** COMPLETE — 11 defects found across 80 team-specific verification passes.
 - **Promotion audit:** COMPLETE — 3-part adversarial audit, ~60 independent checks, **0 blockers**.
 - **Phase 7E (authoritative promotion):** COMPLETE — **project closed**.
+- **Phase 7E.1 (documentation maintenance patch):** COMPLETE — banner corrected, 43/43 regression PASS.
 - **Phase 8.4 (fall-camp monitoring):** pipeline built, **first sweep not yet run** — run it next.
 - **Phase V1 (VSiN reference library):** PAUSED — the guide upload produced a 1-byte file; nothing was indexed or integrated.
 
 ## Known limitations carried into production
 
-1. **`START HERE!A1` banner is stale** — it still reads *"v0.7.9 … NOT AUTHORITATIVE, NOT PROMOTED"* and says *"74 Tier-1 records"* when the correct figure is **73**. Deliberately not corrected: Phase 7E required byte-identity to the audited candidate. No formula reads either string. A banner-only **v0.8.1** patch (2 cells) is available on request.
+1. **~~START HERE banner~~ — RESOLVED in v0.8.1.** One residual note: the workbook's internal `CHANGELOG` tab records history only through v0.7.9, because adding a row would have broken the *"only START HERE changed"* regression Phase 7E.1 required. The external record (certificates, manifest, this README) is complete. A **v0.8.2** patch could bring the internal changelog current if wanted.
 2. **61 H-coded records were never independently verified** — out of declared Tier-1 scope. Missouri proved an H-tier assumption can go stale. Spot-check in the first sweep.
 3. **The 33 L records are perishable** — depth charts land before the 2026-08-29 openers.
 4. **Alabama's note is directionally contested** (Russell vs Mack); the `L` code is correct either way.
@@ -76,7 +83,8 @@ audit-trail gap 0.
 
 ## Repository layout
 
-- `promotion_v0.8.0/` — **the authoritative workbook** plus its certificate, manifest, promotion notes, rollback procedure, and archive index.
+- `promotion_v0.8.1/` — **the authoritative workbook**, maintenance certificate, regression log and diff.
+- `promotion_v0.8.0/` — the promotion certificate, manifest, promotion notes, rollback procedure and archive index. Retained as an intermediate (cosmetic) rollback point.
 - `workbook_v0.6.2_deliverables/` — **rollback target. Do not move, modify or delete.**
 - `archive/candidates/` — the QB verification candidate line (v0.7.0 → v0.7.9), each with its own manifest, phase report, build script and verification log.
 - `archive/pre_qb_project/` — pre-QB deliverables (v0.3.1 → v0.6.1).

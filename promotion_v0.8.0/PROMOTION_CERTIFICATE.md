@@ -6,6 +6,15 @@
 **Phase 7E — Authoritative Promotion.** This certificate formally closes the
 TTW Workbook Build Project.
 
+> ## ⚠ SUPERSEDED BY v0.8.1
+> A **documentation maintenance patch** was applied on 2026-08-04 under Phase 7E.1,
+> correcting the two banner defects disclosed in §14.1 below. The current
+> authoritative workbook is **v0.8.1**, SHA-256
+> `e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6`
+> — see [`promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md`](../promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md).
+> **v0.8.1 differs from v0.8.0 by exactly one cell** (`START HERE!A1`); every figure,
+> proof and regression result in this certificate remains valid and unchanged.
+
 ---
 
 ## 1. Version
@@ -207,7 +216,7 @@ strictly preferable to promoting mid-week once lines are live.
 
 Disclosed, not discovered late. Each is equal or worse in v0.6.2.
 
-1. **The internal banner is stale and contains two errors.** `START HERE!A1` still
+1. **RESOLVED IN v0.8.1 — the internal banner was stale and contained two errors.** `START HERE!A1` still
    reads *"v0.7.9 FINAL QB-VERIFICATION CANDIDATE … NOT AUTHORITATIVE, NOT PROMOTED —
    awaiting owner approval"*, and states *"all 74 Tier-1 records"* when the correct
    figure is **73** (Missouri's M→H upgrade moved it out of Tier 1). Both are text I
@@ -244,8 +253,11 @@ Disclosed, not discovered late. Each is equal or worse in v0.6.2.
 
 The workbook now authoritative is:
 
-> **`promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx`**
-> **SHA-256 `661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7`**
+> **`promotion_v0.8.1/TTW_College_Football_Power_Ratings_v0.8.1_AUTHORITATIVE.xlsx`**
+> **SHA-256 `e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6`**
+>
+> *(v0.8.0, SHA `661f8ab0…`, was the workbook promoted by this certificate; it was
+> superseded the same day by the v0.8.1 documentation patch.)*
 
 **No workbook content changed during promotion.** The promoted file is byte-for-byte
 identical to the audited `v0.7.9_CANDIDATE`; `cmp` is clean and the SHA-256 is
