@@ -1,0 +1,36 @@
+==============================================================================
+7.4 CORRECTED — ROW ALIGNMENT THROUGH THE FORMULA CHAIN
+  [PASS] 7.4a TEAM RATINGS!A{r} references TEAM MAP!A{r} for all 138 rows - []
+  [PASS] 7.4b QB VALUES!A{r} references TEAM RATINGS!A{r} for all 138 rows - []
+  [FAIL] 7.4c cached QB VALUES!A resolves to the TEAM MAP abbrev on all 138 rows - [(6, 'ALA', None), (7, 'ARK', None), (8, 'AUB', None), (9, 'FLA', None), (10, 'UGA', None)]
+
+==============================================================================
+10b. DOWNSTREAM LOOKUP INTEGRITY (ENGINE MATCHes by abbrev, not by row)
+  game rows with team data: 0   FBS team-slots referenced: 0
+  [PASS] 10b.1 every FBS team-slot in CLEAN resolves to a QB VALUES row - []
+
+==============================================================================
+10c. DOWNSTREAM EFFECT — v0.6.2 vs v0.7.9, computed not asserted
+  QB VALUES!M cached status  v0.6.2: {None: 1}
+  QB VALUES!M cached status  v0.7.9: {None: 1}
+  games that would read QB UNCERTAIN at ENGINE!AE  v0.6.2: 0  ->  v0.7.9: 0
+  MARKET LINES numeric cells loaded: 0
+  ENGINE!AI cached status distribution in the candidate: {}
+  [PASS] 10c.1 no market spreads loaded (PENDING LINE masks every QB status change) - 0
+  [PASS] 10c.2 QB-status improvement is real (fewer uncertain teams than v0.6.2) - None -> None
+
+==============================================================================
+10d. USER-VISIBLE COUNTER (START HERE!C11)
+  v0.6.2 START HERE!C11 = None
+  v0.7.9 START HERE!C11 = None
+
+==============================================================================
+10e. TEAM RATINGS / projected spreads — cached value comparison
+  [PASS] 10e.1 TEAM RATINGS cached values identical (columns C-H, all 138 rows) - []
+  [PASS] 10e.2 ENGINE!M (QB adjustment) cached values identical for every game row - 0 rows differ: []
+  ENGINE column T cached differences: 0
+
+##############################################################################
+# PART 2 BLOCKERS: 1
+#   - 7.4c cached QB VALUES!A resolves to the TEAM MAP abbrev on all 138 rows :: [(6, 'ALA', None), (7, 'ARK', None), (8, 'AUB', None), (9, 'FLA', None), (10, 'UGA', None)]
+##############################################################################

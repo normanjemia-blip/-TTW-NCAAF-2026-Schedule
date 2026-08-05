@@ -1,0 +1,39 @@
+==============================================================================
+CACHED-VALUE STATUS (corrects part 1's optimistic reading)
+  v0.6.2 : 123011 formula cells, 0 carry a cached result
+  v0.7.9 : 123011 formula cells, 0 carry a cached result
+  [PASS] C.1 candidate is no worse than authoritative on cached results - 0 -> 0
+  => NEITHER workbook stores cached formula results. This is a pre-existing
+     property of the authoritative workbook, NOT a regression introduced here.
+     Excel and Google Sheets recalculate on open. Any consumer reading cached
+     values would already be broken against v0.6.2 today.
+
+==============================================================================
+DOWNSTREAM PROOF FROM LITERALS AND FORMULA TEXT ONLY
+  [PASS] D.1 TEAM MAP supplies 138 unique non-empty abbrevs
+  [PASS] D.2 QB VALUES!A(r) <- TEAM RATINGS!A(r) <- TEAM MAP!A(r) for all 138 rows - []
+     => the ENGINE's MATCH key set is exactly the TEAM MAP abbrev set, by construction.
+  [PASS] D.3 every QB delta G is blank or exactly 0 - []
+  ENGINE!M maps a blank lookup result to 0: True
+  [PASS] D.3b ENGINE!M explicitly coerces a blank QB delta to 0
+  [PASS] D.4 ENGINE!M formula byte-identical to authoritative
+     => QB adjustment = (home G or 0) - (away G or 0) = 0 - 0 = 0 for EVERY game,
+        for both workbooks. No rating and no projected spread can move.
+
+  QB status recomputed from inputs  v0.6.2: {'UNCERTAIN': 138}
+  QB status recomputed from inputs  v0.7.9: {'UNCERTAIN': 39, 'OK': 99}
+  v0.6.2 populated codes: 0 / 138
+  v0.7.9 populated codes: 138 / 138
+  [PASS] D.5 candidate strictly reduces QB uncertainty - 138 -> 39
+
+  ENGINE!AI precedence as written: ['BLOCKED', 'FCS — NO PLAY', 'PENDING LINE', 'STALE LINE', 'QB UNCERTAIN']
+  [PASS] D.6 PENDING LINE is evaluated before QB UNCERTAIN
+  MARKET LINES non-formula cells present: 20
+  [PASS] D.7 zero numeric market spreads loaded -> every game reads PENDING LINE - 0
+     => the 39 UNCERTAIN teams are MASKED today. Promotion changes no visible
+        game status until lines are entered.
+  [PASS] D.8 IMPORT SCHEDULE has zero formulas in both (pure literal data)
+
+##############################################################################
+# PART 3 BLOCKERS: 0
+##############################################################################
