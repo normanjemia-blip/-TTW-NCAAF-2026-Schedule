@@ -1,0 +1,108 @@
+40
+2026 VSiN COLLEGE FOOTBALL BETTING GUIDE
+Last year was an eye-opener for my “world-famous” college football 
+stability system. Prior to the 2025 campaign, I shared my concern about 
+how program stability was changing, largely because of the transfer 
+portal. However, since the system had only suffered a single losing 
+season since 2013, I figured I owed it to VSiN readers to go with the 
+methodology “as-is.” Well, unfortunately, that backfired a bit for me 
+and for everyone who has benefited from the Stability System for many 
+years, as the final record wound up being just 30-36 ATS. I promised that 
+I would dig into the nuts and bolts of the concept to see whether what 
+I was doing still made sense in this new era. I did and now have some 
+new data to share. 
+The College Football Stability System is for the first four weeks of every 
+season (Weeks 0, 1, 2, and 3). It is the foremost strategy I employ every 
+year to find value early. The thought behind it is that teams in more 
+stable year-to-year situations are better bets early, while those that have 
+undergone significant offseason change should be faded. I feel the 
+logic is fundamentally sound. Returning fewer starters, starting over 
+at quarterback, and welcoming new head coaches or coordinators are 
+always hurdles for teams.
+One of the biggest areas of transition for teams nowadays is the transfer 
+of starting quarterbacks. To me, the position is of such importance that 
+a transfer quarterback for a team, even if he has three years of starting 
+experience somewhere else, I still consider him a NEW quarterback, or 
+more effectively, a change at QB. He is still learning new schemes, and 
+while his veteran experience may lessen some of the bumps along the 
+way, there are still hurdles to overcome early on with this new player 
+in this most key position. There can be degrees to this; however, in the 
+current era, some QBs, such as Rocco Becht of Penn State, followed 
+their former school’s head coach and OC to a new school. To me, this 
+is still a big change. So, to clarify how I am dealing with the transfer 
+portal starters, here is your answer: I consider former starters acquired 
+through the transfer portal at non-QB positions as starters.
+This is where the new numbers and changes will come in. I have 
+conducted regression analysis on my College Football Stability System 
+and here are the results. First off, my results still did show that the 
+FIRST FOUR WEEKS (0, 1, 2, and 3) were the most impacted by stability. 
+So, I will be sticking with that. Also, since most of the changes I’ve seen 
+in the college football world have occurred since the COVID season, I 
+have looked back at the results of the various stability factors in the first 
+four weeks after 2021. Here are those results. Note that these trends only 
+include FBS vs. FBS games.
+•	
+NEW head coaches are 91-153 SU and 110-132 ATS (45.4%) in the 
+first four weeks of the CFB season versus returning head coaches 
+since 2021 
+•	
+NEW offensive coordinators are 157-203 SU and 177-178 ATS 
+(49.9%) in the first four weeks of the CFB season versus returning 
+offensive coordinators since 2021 
+•	
+NEW defensive coordinators are 165-198 SU and 163-195 ATS 
+(45.5%) in the first four weeks of the CFB season versus returning 
+defensive coordinators since 2021 
+•	
+NEW starting quarterbacks are 159-178 SU and 157-172 ATS (47.7%) 
+in the first four weeks of the CFB season versus returning defensive 
+coordinators since 2021 
+•	
+Teams with 0-7 total returning starters are 21-60 SU and 40-41 ATS 
+(49.4%) in the first four weeks of the CFB season versus teams 
+returning 8+ since 2021 
+•	
+Teams with 17+ total returning starters are 107-89 SU and 108-86 
+ATS (55.7%) in the first four weeks of the CFB season versus teams 
+returning 16 or fewer since 2021
+From this info, bettors can certainly discern that having new head 
+coaches, new defensive coordinators, and many returning starters are 
+the most impactful offseason developments.
+I also recognized that CONFERENCE GAMES on my stability system 
+were pulling down the winning percentages. In fact, teams with an old 
+stability edge of seven points or more in conference games were only 
+winning around 49.5% ATS. 
+The other two things I found that were negatively impacting my Stability 
+System results were 1) games with point spreads of 30+ and 2) leaving 
+out teams with an edge of 6 on the stability scores.
+With the stats above in mind, my official new College Football Stability 
+System(s) will read as follows:
+Play ON any team with a STABILITY SCORE EDGE of 6+ in non-conference 
+games in the first four weeks of the season (weeks 0, 1, 2, 3), assuming the 
+game DOES NOT have a point spread of -30 or higher for either team. (335-
+222 SU and 302-243-12 ATS, 55.4% since 2013)
+AND 
+Play AGAINST any team with STABILITY SCORES of 0-6 in non-conference 
+games in the first four weeks of the season (weeks 0, 1, 2, 3) versus teams 
+with higher scores, assuming the game DOES NOT have a point spread of 
+-30 or higher for either team (FADE record 259-136 SU and 217-173-4 ATS, 
+55.6% since 2013)
+Doing regression on the tweaked Stability Score Edge System, I found 
+that over the last 13 years, there were only two losing seasons, one of 
+them being last year. The second angle, teams with 0-6 scores, even lost 
+a year ago, as they were 22-26 ATS. In my opinion, both systems are still 
+very viable.
+Just below, I’ve put together a chart of the College Football Stability 
+Scores for 2026. When the season arrives, I will put together lists in each 
+of the first four weeks detailing the top mismatches. Again, I have now 
+found that a Stability Mismatch score of 6 is the minimum on which I 
+will consider a play for this thought process in non-conference games. 
+Incidentally, USC (15) hosting San Jose State (7) in Week 0 would be a 
+play for 2026 except the Trojans are 35.5-point favorites. Instead, Hawaii 
+(14) -3.5 at Stanford (3) and UNLV (10) -3.5 hosting Memphis (2) are the 
+first two playable games for Week 0.
+TAKING ADVANTAGE 
+OF COLLEGE 
+FOOTBALL STABILITY 
+IN 2026
+by Steve Makinen

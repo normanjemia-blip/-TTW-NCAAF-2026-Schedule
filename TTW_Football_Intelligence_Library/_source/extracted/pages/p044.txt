@@ -1,0 +1,382 @@
+44
+2026 VSiN COLLEGE FOOTBALL BETTING GUIDE
+2025
+CHANGE? (0-YES)
+RET
+TOTAL
+TEAM (CONFERENCE)
+RECORD
+HC?
+OC?
+DC?
+QB?
+STRS
+STABILITY
+PITTSBURGH (ACC)
+8-5
+4
+3
+0
+4
+3 (13)
+14
+PURDUE (B10)
+2-10
+4
+3
+0
+4
+2 (11)
+13
+RICE (AAC)
+5-8
+4
+3
+3
+0
+0 (6)
+10
+RUTGERS (B10)
+5-7
+4
+3
+0
+0
+2 (12)
+9
+S ALABAMA (SBC)
+4-8
+4
+0
+3
+4
+1 (8)
+12
+SACRAMENTO ST (MAC)
+7-5
+0
+0
+0
+0
+0 (6)
+0
+SAM HOUSTON ST (CUSA)
+2-10
+4
+3
+3
+0
+0 (7)
+10
+SAN DIEGO ST (P12)
+9-4
+4
+3
+0
+4
+3 (13)
+14
+SAN JOSE ST (MWC)
+3-9
+4
+3
+0
+0
+0 (3)
+7
+SMU (ACC)
+9-4
+4
+3
+0
+4
+2 (12)
+13
+SOUTH CAROLINA (SEC)
+4-8
+4
+0
+0
+4
+3 (14)
+11
+SOUTH FLORIDA (AAC)
+9-4
+0
+0
+0
+0
+0 (7)
+0
+SOUTHERN MISS (SBC)
+7-6
+0
+0
+0
+0
+0 (1)
+0
+STANFORD (ACC)
+4-8
+0
+0
+0
+0
+3 (14)
+3
+SYRACUSE (ACC)
+3-9
+4
+3
+0
+4
+2 (11)
+13
+TCU (B12)
+9-4
+4
+3
+3
+0
+2 (12)
+12
+TEMPLE (AAC)
+5-7
+4
+3
+3
+0
+2 (10)
+12
+TENNESSEE (SEC)
+8-5
+4
+3
+0
+0
+3 (14)
+10
+TEXAS (SEC)
+10-3
+4
+3
+3
+4
+3 (16)
+17
+TEXAS A&M (SEC)
+11-2
+4
+3
+0
+4
+4 (18)
+15
+TEXAS ST UNIV (P12)
+7-6
+4
+3
+0
+4
+2 (11)
+13
+TEXAS TECH (B12)
+12-2
+4
+3
+3
+0
+3 (15)
+13
+TOLEDO (MAC)
+8-5
+0
+0
+0
+0
+0 (6)
+0
+TROY (SBC)
+8-6
+4
+0
+3
+4
+0 (6)
+11
+TULANE (AAC)
+11-3
+0
+0
+3
+0
+1 (8)
+4
+TULSA (AAC)
+4-8
+4
+3
+3
+4
+1 (9)
+15
+TX-SAN ANTONIO (AAC)
+7-6
+4
+0
+3
+4
+1 (8)
+12
+UAB (AAC)
+4-8
+4
+3
+0
+0
+0 (4)
+7
+UCF (B12)
+5-7
+4
+3
+3
+0
+2 (12)
+12
+UCLA (B10)
+3-9
+0
+0
+0
+4
+4 (18)
+8
+UNLV (MWC)
+10-4
+4
+3
+3
+0
+0 (6)
+10
+USC (B10)
+9-4
+4
+3
+0
+4
+4 (17)
+15
+UTAH (B12)
+11-2
+0
+0
+0
+4
+1 (8)
+5
+UTAH ST (P12)
+6-7
+4
+0
+3
+0
+2 (12)
+9
+UTEP (MWC)
+2-10
+4
+0
+3
+0
+0 (6)
+7
+VANDERBILT (SEC)
+10-3
+4
+3
+3
+0
+3 (13)
+13
+VIRGINIA (ACC)
+11-3
+4
+3
+3
+0
+3 (14)
+13
+VIRGINIA TECH (ACC)
+3-9
+0
+0
+0
+0
+4 (17)
+4
+W KENTUCKY (CUSA)
+9-4
+4
+0
+3
+4
+0 (7)
+11
+W MICHIGAN (MAC)
+10-4
+4
+3
+0
+4
+2 (10)
+13
+WAKE FOREST (ACC)
+9-4
+4
+3
+3
+0
+2 (11)
+12
+WASHINGTON (B10)
+9-4
+4
+0
+3
+4
+3 (14)
+14
+WASHINGTON ST (P12)
+7-6
+0
+0
+0
+0
+1 (8)
+1
+WEST VIRGINIA (B12)
+4-8
+4
+0
+3
+4
+2 (12)
+13
+WISCONSIN (B10)
+4-8
+4
+3
+3
+0
+2 (10)
+12
+WYOMING (MWC)
+4-8
+4
+0
+3
+0
+0 (5)
+7

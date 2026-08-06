@@ -1,0 +1,382 @@
+42
+2026 VSiN COLLEGE FOOTBALL BETTING GUIDE
+2025
+CHANGE? (0-YES)
+RET
+TOTAL
+TEAM (CONFERENCE)
+RECORD
+HC?
+OC?
+DC?
+QB?
+STRS
+STABILITY
+AIR FORCE (MWC)
+4-8
+4
+3
+0
+4
+2 (12)
+13
+AKRON (MAC)
+5-7
+4
+3
+3
+0
+2 (11)
+12
+ALABAMA (SEC)
+11-4
+4
+3
+3
+0
+2 (10)
+12
+APPALACHIAN ST (SBC)
+5-8
+4
+0
+3
+0
+0 (5)
+7
+ARIZONA (B12)
+9-4
+4
+3
+3
+4
+3 (14)
+17
+ARIZONA ST (B12)
+8-5
+4
+3
+3
+0
+2 (12)
+12
+ARKANSAS (SEC)
+2-10
+0
+0
+0
+0
+3 (13)
+3
+ARKANSAS ST (SBC)
+7-6
+4
+0
+3
+0
+2 (10)
+9
+ARMY (AAC)
+7-6
+4
+3
+0
+4
+2 (11)
+13
+AUBURN (SEC)
+5-7
+0
+0
+3
+0
+1 (9)
+4
+BALL ST (MAC)
+4-8
+4
+3
+3
+0
+0 (6)
+10
+BAYLOR (B12)
+5-7
+4
+3
+0
+0
+2 (12)
+9
+BOISE ST (P12)
+9-5
+4
+3
+3
+4
+2 (11)
+16
+BOSTON COLLEGE (ACC)
+2-10
+4
+0
+0
+0
+1 (9)
+5
+BOWLING GREEN (MAC)
+4-8
+4
+0
+0
+0
+0 (6)
+4
+BUFFALO (MAC)
+5-7
+4
+0
+0
+0
+0 (6)
+4
+BYU (B12)
+12-2
+4
+3
+0
+4
+3 (13)
+14
+C MICHIGAN (MAC)
+7-6
+4
+3
+3
+0
+1 (8)
+11
+CALIFORNIA (ACC)
+7-6
+0
+0
+0
+4
+2 (11)
+6
+CHARLOTTE (AAC)
+1-11
+4
+3
+3
+4
+1 (9)
+15
+CINCINNATI (B12)
+7-6
+4
+0
+0
+0
+1 (9)
+5
+CLEMSON (ACC)
+7-6
+4
+0
+3
+0
+2 (10)
+9
+COASTAL CAROLINA (SBC)
+6-7
+0
+0
+0
+0
+1 (9)
+1
+COLORADO (B12)
+3-9
+4
+0
+0
+0
+3 (15)
+7
+COLORADO ST (P12)
+2-10
+0
+0
+3
+0
+0 (7)
+3
+CONNECTICUT (IND)
+9-4
+0
+0
+0
+0
+0 (5)
+0
+DELAWARE (CUSA)
+7-6
+4
+3
+3
+4
+2 (12)
+16
+DUKE (ACC)
+9-5
+4
+3
+3
+0
+2 (11)
+12
+E MICHIGAN (MAC)
+4-8
+4
+3
+0
+4
+2 (12)
+13
+EAST CAROLINA (AAC)
+9-4
+4
+0
+0
+0
+0 (7)
+4
+FLA ATLANTIC (AAC)
+4-8
+4
+3
+3
+4
+2 (12)
+16
+FLA INTERNATIONAL (CUSA)
+7-6
+4
+3
+3
+0
+0 (7)
+10
+FLORIDA (SEC)
+4-8
+0
+0
+0
+0
+3 (13)
+3
+FLORIDA ST (ACC)
+5-7
+4
+0
+3
+0
+2 (11)
+9
+FRESNO ST (P12)
+9-4
+4
+3
+3
+0
+3 (13)
+13
+GA SOUTHERN (SBC)
+7-6
+4
+3
+0
+0
+1 (9)
+8
+GEORGIA (SEC)
+12-2
+4
+3
+3
+4
+3 (14)
+17
+GEORGIA ST (SBC)
+1-11
+4
+3
+0
+4
+1 (8)
+12
+GEORGIA TECH (ACC)
+9-4
+4
+0
+0
+0
+2 (10)
+6
+HAWAII (MWC)
+9-4
+4
+3
+3
+4
+0 (7)
+14
+HOUSTON (B12)
+10-3
+4
+3
+3
+4
+4 (19)
+18
+ILLINOIS (B10)
+9-4
+4
+3
+0
+0
+2 (11)
+9
+INDIANA (B10)
+16-0
+4
+3
+3
+0
+3 (16)
+13
+IOWA (B10)
+9-4
+4
+3
+3
+0
+1 (9)
+11
+IOWA ST (B12)
+8-4
+0
+0
+0
+0
+0 (4)
+0
+JACKSONVILLE ST (CUSA)
+9-5
+4
+0
+3
+4
+1 (9)
+12

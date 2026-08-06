@@ -1,0 +1,46 @@
+[
+ {
+  "conference": "American",
+  "preview_page": 49
+ },
+ {
+  "conference": "ACC",
+  "preview_page": 79
+ },
+ {
+  "conference": "Big 12",
+  "preview_page": 115
+ },
+ {
+  "conference": "Big Ten",
+  "preview_page": 149
+ },
+ {
+  "conference": "Conference USA",
+  "preview_page": 187
+ },
+ {
+  "conference": "Independents",
+  "preview_page": 209
+ },
+ {
+  "conference": "MAC",
+  "preview_page": 215
+ },
+ {
+  "conference": "Mountain West",
+  "preview_page": 243
+ },
+ {
+  "conference": "Pac-12",
+  "preview_page": 265
+ },
+ {
+  "conference": "SEC",
+  "preview_page": 283
+ },
+ {
+  "conference": "Sun Belt",
+  "preview_page": 317
+ }
+]

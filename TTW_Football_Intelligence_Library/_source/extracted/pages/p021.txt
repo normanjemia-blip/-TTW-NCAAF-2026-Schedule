@@ -1,0 +1,159 @@
+21
+2026 VSiN COLLEGE FOOTBALL BETTING GUIDE
+The college football landscape is changing 
+literally and figuratively this season, as 
+the Pac-12 is back with eight teams, the 
+Mountain West looks a lot different, and a 
+team from California will play in the MAC. 
+Home-field advantage is probably more 
+dynamic than ever, in the sense that it 
+depends on a variety of factors. Having one 
+simple baseline probably isn’t enough, but 
+having something is better than nothing 
+and that has been my approach over the last 
+several seasons.
+Playing at home is never really going to 
+be a bad thing, so there is still an inherent 
+“advantage”, even though its value will 
+always be subjective. Weather, rest, travel, 
+and all of the usual factors come into play, 
+but there are others. A night game in Death 
+Valley (either one) is going to carry more 
+weight than a noon kickoff against a Group 
+of Six school. A school where the basketball 
+program outpaces the football program could see home-field lessened once 
+November rolls around and students are more invested in hoops. How invested 
+are the alums and adults in that particular program nowadays? It’s very hard to 
+pin down these qualitative factors.
+But, at least if we have some kind of value in mind, we can adjust accordingly, 
+whether we actually attempt to quantify all of those variables or just keep them 
+in mind when handicapping the game. To find that baseline, I’ve decided to take 
+a three-year sample of home records, as that would seem to capture the team’s 
+current state and also create a sample size large enough to minimize some noise. 
+With over 100 different head coaches and thousands of transfers in FBS over 
+the last three seasons, even three years may be tricky, but it seems like a happy 
+medium.
+Based on the straight up (SU) and against the spread (ATS) home win percentages 
+for these teams, I’ve created a series of buckets. The standard home-field 
+advantage I’ve settled on is two points. For teams that sit between 40% and 
+59.99% at home, their home-field advantage is two points. For teams above or 
+below those thresholds, the HFA varies.
+For this season, there are 24 teams with my max HFA of 3.5 points for having a 
+SU + ATS Win% of 70% or higher. There are 16 teams with 3 points of HFA for 
+a SU + ATS Win% of 65-69.99%. There are 24 teams with 2.5 points of HFA for 
+60-64.99%.
+On the flip side, there are eight teams with 1.5 points of HFA for 35.01-39.99% 
+and eight teams with 1 point of HFA for 35% or lower. Again, I want to stress 
+that I consider these numbers to be starting points for creating point spreads on 
+games. All of those factors and variables mentioned above should be considered 
+on a case-by-case basis.
+The home records are courtesy of Steve Makinen and his extensive 
+database, so my thanks go out to our VSiN Analytics Guru.
+Here are those teams for the 2026 season.
+With the HFA numbers established for all 138 FBS teams, those are then put 
+together with my college football power ratings to produce a game spread. If 
+my power ratings have Ohio State 14 points better than USC and the game is in 
+Columbus, that would make my line on the game Buckeyes -17.5 with their 3.5 
+points of home-field advantage.
+This season, I expect to have some deviations on a week-to-week basis in 
+conference play, since we have Sacramento State in the MAC, Northern Illinois 
+in the Mountain West, and Texas State in the Pac-12, just as some examples 
+of conference realignment and how those teams will be visiting new venues, 
+playing at elevation, or having long travel with some odd kickoff times. Similarly, 
+teams that go to them will be doing something different.
+As I continue to say, home-field advantage is an “inexact science”, but a true case 
+of ‘something is better than nothing’ and at least there is some sort of criteria that 
+teams meet in order to have the values that they do.
+QUANTIFYING 
+COLLEGE 
+FOOTBALL’S BIGGEST 
+ADVANTAGE:
+HOME-FIELD ADVANTAGE
+by Adam Burke
+3.5 POINTS (SU + ATS HOME WIN% OF 70% OR HIGHER)
+Alabama
+Boise State
+BYU
+Georgia Southern
+Indiana
+Iowa
+Jacksonville State
+James Madison
+Marshall
+Miami (OH)
+Mississippi
+Missouri
+North Dakota State
+Notre Dame
+Ohio
+Ohio State
+Oregon
+SMU
+Texas
+Texas Tech
+Toledo
+UTSA
+Washington
+Western Michigan
+3 POINTS (65-69.99%)
+Arizona
+Ball State
+Central Michigan
+Connecticut
+Delaware
+Georgia Tech
+Hawaii
+Kansas State
+LSU
+Miami (FL)
+Oklahoma
+South Florida
+USC
+Utah State
+Washington State
+Western Kentucky
+2.5 POINTS (60-64.99%)
+1.5 POINTS (35.01-39.99%)
+Arkansas
+Baylor
+Florida Atlantic
+Michigan State
+Middle Tennessee
+Northern Illinois
+Stanford
+UCLA
+1 POINT (35% OR LOWER)
+Charlotte
+Georgia State
+Kent State
+Massachusetts
+Nevada
+Purdue
+Tulsa
+UTEP
+Arkansas State
+Colorado
+Duke
+Eastern Michigan
+Florida State
+Georgia
+Illinois
+Iowa State
+Kennesaw State
+Liberty
+Memphis
+Michigan
+Minnesota
+Navy
+North Carolina State
+North Texas
+Penn State
+Pitt
+TCU
+Tennessee
+Tulane
+UNLV
+Utah
+Vanderbilt
+*Note: Any team between 40-59.99%
+has a standard HFA of 2 points.*

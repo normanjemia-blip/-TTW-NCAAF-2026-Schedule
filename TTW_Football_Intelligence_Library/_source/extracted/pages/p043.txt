@@ -1,0 +1,382 @@
+43
+2026 VSiN COLLEGE FOOTBALL BETTING GUIDE
+2025
+CHANGE? (0-YES)
+RET
+TOTAL
+TEAM (CONFERENCE)
+RECORD
+HC?
+OC?
+DC?
+QB?
+STRS
+STABILITY
+JAMES MADISON (SBC)
+12-2
+0
+0
+0
+0
+0 (5)
+0
+KANSAS (B12)
+5-7
+4
+3
+3
+0
+2 (12)
+12
+KANSAS ST (B12)
+6-6
+0
+0
+0
+4
+2 (12)
+6
+KENNESAW ST (CUSA)
+10-4
+4
+3
+3
+0
+1 (9)
+11
+KENT ST (MAC)
+5-7
+4
+0
+0
+4
+2 (10)
+10
+KENTUCKY (SEC)
+5-7
+0
+0
+0
+0
+2 (11)
+2
+LA LAFAYETTE (SBC)
+6-7
+4
+3
+3
+4
+2 (10)
+16
+LA MONROE (SBC)
+3-9
+4
+0
+0
+4
+1 (8)
+9
+LIBERTY (CUSA)
+4-8
+4
+0
+3
+0
+2 (12)
+9
+LOUISIANA TECH (SBC)
+8-5
+4
+0
+3
+4
+1 (9)
+12
+LOUISVILLE (ACC)
+9-4
+4
+3
+0
+0
+3 (14)
+10
+LSU (SEC)
+7-6
+0
+0
+3
+0
+3 (14)
+6
+MARSHALL (SBC)
+5-7
+4
+3
+0
+4
+1 (9)
+12
+MARYLAND (B10)
+4-8
+4
+0
+3
+4
+3 (16)
+14
+MASSACHUSETTS (MAC)
+0-12
+4
+0
+3
+0
+1 (9)
+8
+MEMPHIS (AAC)
+8-5
+0
+0
+0
+0
+2 (10)
+2
+MIAMI FL (ACC)
+13-3
+4
+3
+3
+0
+2 (12)
+12
+MIAMI OHIO (MAC)
+7-7
+4
+0
+3
+0
+2 (12)
+9
+MICHIGAN (B10)
+9-4
+0
+0
+0
+4
+3 (14)
+7
+MICHIGAN ST (B10)
+4-8
+0
+0
+3
+0
+2 (12)
+5
+MIDDLE TENN ST (CUSA)
+3-9
+4
+0
+3
+0
+0 (6)
+7
+MINNESOTA (B10)
+8-5
+4
+3
+3
+4
+3 (13)
+17
+MISSISSIPPI ST (SEC)
+5-8
+4
+3
+0
+0
+2 (11)
+9
+MISSOURI (SEC)
+8-5
+4
+0
+3
+0
+2 (12)
+9
+MISSOURI ST (CUSA)
+7-6
+0
+0
+0
+0
+0 (5)
+0
+N DAKOTA ST (MWC)
+12-1
+4
+3
+3
+0
+2 (10)
+12
+N ILLINOIS (MWC)
+3-9
+0
+0
+0
+0
+0 (6)
+0
+NAVY (AAC)
+11-2
+4
+3
+0
+0
+2 (11)
+9
+NC STATE (ACC)
+8-5
+4
+3
+3
+4
+2 (10)
+16
+NEBRASKA (B10)
+7-6
+4
+3
+0
+0
+3 (15)
+10
+NEVADA (MWC)
+3-9
+4
+0
+3
+0
+0 (5)
+7
+NEW MEXICO (MWC)
+9-4
+4
+3
+3
+4
+2 (12)
+16
+NEW MEXICO ST (CUSA)
+4-8
+4
+3
+3
+0
+2 (10)
+12
+NORTH CAROLINA (ACC)
+4-8
+4
+0
+3
+0
+1 (9)
+8
+NORTH TEXAS (AAC)
+12-2
+0
+0
+0
+0
+0 (5)
+0
+NORTHWESTERN (B10)
+7-6
+4
+0
+3
+0
+2 (12)
+9
+NOTRE DAME (IND)
+10-2
+4
+3
+3
+4
+4 (17)
+18
+OHIO ST (B10)
+12-2
+4
+3
+3
+4
+3 (14)
+17
+OHIO U (MAC)
+9-4
+0
+3
+0
+0
+0 (5)
+3
+OKLAHOMA (SEC)
+10-3
+4
+3
+3
+4
+3 (16)
+17
+OKLAHOMA ST (B12)
+1-11
+0
+0
+0
+0
+2 (10)
+2
+OLD DOMINION (SBC)
+10-3
+4
+0
+3
+0
+0 (7)
+7
+OLE MISS (SEC)
+13-2
+0
+0
+3
+4
+3 (16)
+10
+OREGON (B10)
+13-2
+4
+0
+3
+4
+3 (15)
+14
+OREGON ST (P12)
+2-10
+0
+0
+0
+4
+2 (10)
+6
+PENN ST (B10)
+7-6
+0
+0
+0
+0
+3 (16)
+3
