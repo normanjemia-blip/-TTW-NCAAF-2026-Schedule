@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 7.2–4.8 overall, 5.1–2.9 in conference |
 | **Schedule strength** | 26.72 (#135 toughest of 138) |
 
-### Season outlook as written in the guide (p. 234)
+### Season outlook — VSiN's analysis in reference form (p. 234)
 
-Aside from an uncharacteristic 3-9 showing in 2021, the Bobcats have been one of the most consistent G5 teams in the nation. Last year’s 9-4 mark was the first time since that ‘21 season that Ohio didn’t win 10+ games, but given everything that they went through, it was another really good season. It wasn’t surprising that the transfer of power from Frank Solich to Tim Albin resulted in a one-year blip, but now the Bobcats have another new head coach in John Hauser. While they’ve kept all of their promotions internal, from Albin to Brian Smith to Hauser, who was the interim head coach for the Frisco Bowl win over UNLV, you have to wonder if there’s a big impact on one of these seasons. Perhaps this could be the one, as Hauser, who was the defensive coordinator, is now looking at a program with one returning starter on offense, the loss of a multi-year QB in Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura, who transferred back into the program prior to last season, and a noticeably lackluster transfer portal class. Under 6.5 It is entirely possible that an established, steady program can withstand and overcome all of the doom and gloom addressed above, but I have my doubts. Given how the Bobcats have had tenured starting QBs like Tettleton and the Rourkes, I won’t be the least bit shocked if they take some lumps and embrace a transitional year with Davis, the three-star QB from the Columbus area, to set him up to follow the long line of productive predecessors. While the Bobcats do avoid reigning champ Western Michigan, they get Miami and Toledo over a three-week stretch, have to go out to Sacramento, and have some non-conference toss- ups. My projection is 6.91 wins, but I could see a down year.
+- The guide rates Ohio one of the most consistent Group of Five programmes in the nation, with an uncharacteristic 3-9 in 2021 the only exception. *(p. 234)*
+- It treats last season's 9-4 as another really good year, noting it was the first since 2021 that Ohio did not win 10 or more games, and that it came given everything the programme went through. *(p. 234)*
+- Its historical read is that the handover from Frank Solich to Tim Albin causing a one-year blip was unsurprising. *(p. 234)*
+- Now there is another new head coach in John Hauser, and the guide traces the chain of internal promotions — Albin to Brian Smith to Hauser, who was interim head coach for the Frisco Bowl win over UNLV — while wondering whether one of these transitions eventually has a big impact. *(p. 234)*
+- It suspects this could be that year, listing what Hauser inherits: one returning starter on offense, the loss of multi-year quarterback Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura — who had transferred back into the programme before last season — and a noticeably lacklustre portal class. *(p. 234)*
+- Recommendation is Under 6.5 wins. The guide states it is entirely possible an established, steady programme absorbs all of that, but says it has doubts. *(p. 234)*
+- Its specific scenario is a transitional year: given Ohio's history of tenured starters like Tettleton and the Rourkes, it would not be at all shocked if the Bobcats take some lumps while developing Davis, a three-star quarterback from the Columbus area, to follow that line of productive predecessors. *(p. 234)*
+- On the schedule it notes Ohio avoids reigning champion Western Michigan but draws Miami and Toledo within a three-week stretch, must travel to Sacramento, and has some non-conference toss-ups. Projection is 6.91 wins, with a down year seen as plausible. *(p. 234)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,21 +89,11 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 34)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- It wasn’t surprising that the transfer of power from Frank Solich to Tim Albin resulted in a one-year blip, but now the Bobcats have another new head coach in John Hauser. *(p. 234)*
-- While they’ve kept all of their promotions internal, from Albin to Brian Smith to Hauser, who was the interim head coach for the Frisco Bowl win over UNLV, you have to wonder if there’s a big impact on one of these seasons. *(p. 234)*
-- Perhaps this could be the one, as Hauser, who was the defensive coordinator, is now looking at a program with one returning starter on offense, the loss of a multi-year QB in Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura, who transferred back into the program prior to last season, and a noticeably lackluster transfer portal class. *(p. 234)*
-- Hauser and OC Scott Isphording have options, including returnee Nick Poulos, who redshirted last season, New Hampshire transfer Matt Vezza, who ran for 600 yards, and incoming freshman Levi Davis. *(p. 235)*
-- It’s possible, but it is interesting to note that Hauser was the co- DC at Miami of Ohio, so he was one of the few external hires in recent seasons. *(p. 235)*
-- Kurt Mattix is back to be the DC after shacking up in Charlotte with Albin last season. *(p. 235)*
+- Its historical read is that the handover from Frank Solich to Tim Albin causing a one-year blip was unsurprising. *(p. 234)*
+- Now there is another new head coach in John Hauser, and the guide traces the chain of internal promotions — Albin to Brian Smith to Hauser, who was interim head coach for the Frisco Bowl win over UNLV — while wondering whether one of these transitions eventually has a big impact. *(p. 234)*
+- **Will the defense save the day?** The guide says it is possible, then notes something it finds interesting: Hauser was co-defensive coordinator at Miami of Ohio, making him one of the few external hires in recent seasons — while admitting it is unsure whether that matters. Kurt Mattix returns as coordinator after a season in Charlotte with Albin. Attrition on defense is lighter than on offense but still noticeable: the top two tacklers are gone, as is top defensive back Tarik Pearson and most of last season's very low total of 22 sacks, so backups must step up and transfers acclimate quickly. It puts that sack number in context — 36, 36 and 35 over the previous three seasons, making 22 the fewest since the ill-fated 2021 season and its 17. *(p. 235)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OHIO U – UNDER 6.5 WINS Ohio U is another team undergoing massive change for first-year head coach John Hauser, although he was the DC here previously, so perhaps less change than other teams on this Under list. *(p. 26)*
-- Campbell has strong Ohio ties, which should help with recruiting and he did really well to get D’Anton Lynn, a Texas native, as the DC, giving Penn State a lot of connections from coast to coast. *(p. 32)*
-- John Hauser Ohio “New” head coach is a loose term here, as Hauser was the assistant head coach and DC for the Bobcats before HC Brian Smith was placed on leave at the end of the regular season. *(p. 34)*
-- Mike Jacobs Toledo Jacobs, a Maumee native from northwestern Ohio, worked his way up the hard way, serving as the head coach at Division II Notre Dame College (OH) and Lenoir-Rhyne before getting an opportunity in the FCS ranks at Mercer. *(p. 34)*
-- Prior to becoming the OC at Ohio, Albin primarily coached offensive linemen and running backs. *(p. 53)*
-- His DC is Ryan Manalac, a fellow Ohio native who served as Pitt’s linebackers coach and has never been a defensive coordinator at the FBS level. *(p. 211)*
+Also referenced on **pp. 26, 32, 34, 53, 211, 238** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -102,9 +101,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 234)*.
 
-- Perhaps this could be the one, as Hauser, who was the defensive coordinator, is now looking at a program with one returning starter on offense, the loss of a multi-year QB in Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura, who transferred back into the program prior to last season, and a noticeably lackluster transfer portal class. *(p. 234)*
-- Given how the Bobcats have had tenured starting QBs like Tettleton and the Rourkes, I won’t be the least bit shocked if they take some lumps and embrace a transitional year with Davis, the three-star QB from the Columbus area, to set him up to follow the long line of productive predecessors. *(p. 234)*
-- Ohio’s three all-time leading passers have all come within the last 20 years with Tettleton, Nathan Rourke, and Kurtis Rourke. *(p. 235)*
+- It suspects this could be that year, listing what Hauser inherits: one returning starter on offense, the loss of multi-year quarterback Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura — who had transferred back into the programme before last season — and a noticeably lacklustre portal class. *(p. 234)*
+- Its specific scenario is a transitional year: given Ohio's history of tenured starters like Tettleton and the Rourkes, it would not be at all shocked if the Bobcats take some lumps while developing Davis, a three-star quarterback from the Columbus area, to follow that line of productive predecessors. *(p. 234)*
+- **Will the string run out at the quarterback position?** The guide describes a generational run at the position since Tyler Tettleton arrived in 2009, offering several possible causes — scouting and talent evaluation, the system, programme stability, or outright good luck — and the supporting fact that Ohio's three all-time leading passers all come from the last 20 years in Tettleton, Nathan Rourke and Kurtis Rourke. On Navarro it is even-handed: trouble taking care of the ball with a 27/22 touchdown-to-interception ratio across two seasons as starter, but nearly 2,000 rushing yards with 27 rushing scores. Hauser and coordinator Scott Isphording have options — returnee Nick Poulos, who redshirted; New Hampshire transfer Matt Vezza, who ran for 600 yards; and incoming freshman Levi Davis — but its verdict is that the bar is set so high virtually any of them is likely to fall short. *(p. 235)*
 
 ## 10. Returning Production
 
@@ -120,49 +119,30 @@ The Stability Score table prints the same figure independently: **5 returning st
 
 ## 11. Transfer Portal
 
-- It wasn’t surprising that the transfer of power from Frank Solich to Tim Albin resulted in a one-year blip, but now the Bobcats have another new head coach in John Hauser. *(p. 234)*
-- Perhaps this could be the one, as Hauser, who was the defensive coordinator, is now looking at a program with one returning starter on offense, the loss of a multi-year QB in Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura, who transferred back into the program prior to last season, and a noticeably lackluster transfer portal class. *(p. 234)*
-- Hauser and OC Scott Isphording have options, including returnee Nick Poulos, who redshirted last season, New Hampshire transfer Matt Vezza, who ran for 600 yards, and incoming freshman Levi Davis. *(p. 235)*
-- Even in the transfer portal era, Ohio has had a lot of continuity and returning production year over year, or have at least had high-upside players waiting in the wings. *(p. 235)*
-- With the top two tacklers gone, top defensive back Tarik Pearson, and most of last season’s very low total of 22 sacks, backups will have to step up and transfers will have to acclimate quickly. *(p. 235)*
+- It suspects this could be that year, listing what Hauser inherits: one returning starter on offense, the loss of multi-year quarterback Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura — who had transferred back into the programme before last season — and a noticeably lacklustre portal class. *(p. 234)*
+- **Will the string run out at the quarterback position?** The guide describes a generational run at the position since Tyler Tettleton arrived in 2009, offering several possible causes — scouting and talent evaluation, the system, programme stability, or outright good luck — and the supporting fact that Ohio's three all-time leading passers all come from the last 20 years in Tettleton, Nathan Rourke and Kurtis Rourke. On Navarro it is even-handed: trouble taking care of the ball with a 27/22 touchdown-to-interception ratio across two seasons as starter, but nearly 2,000 rushing yards with 27 rushing scores. Hauser and coordinator Scott Isphording have options — returnee Nick Poulos, who redshirted; New Hampshire transfer Matt Vezza, who ran for 600 yards; and incoming freshman Levi Davis — but its verdict is that the bar is set so high virtually any of them is likely to fall short. *(p. 235)*
+- **Is QB the only concern on offense?** The guide's answer is “hardly”, starting with an offensive line featuring all new starters — long in the system, but unproven. The production leaving is substantial: Bangura's 1,392 yards and 15 rushing touchdowns plus the top four receivers by yardage, including 1,000-yard pass-catcher Chase Hendricks. It stresses how unusual this is for Ohio, which even in the portal era has had continuity and returning production year over year, or at least high-upside players waiting, and says the offense looks unrecognisable this season. Its closing caution is that even at 6.1 and 6.2 yards per play over the last two seasons, Ohio has not scored 30 PPG since 2022, when it had a +12 turnover margin. *(p. 235)*
+- **Will the defense save the day?** The guide says it is possible, then notes something it finds interesting: Hauser was co-defensive coordinator at Miami of Ohio, making him one of the few external hires in recent seasons — while admitting it is unsure whether that matters. Kurt Mattix returns as coordinator after a season in Charlotte with Albin. Attrition on defense is lighter than on offense but still noticeable: the top two tacklers are gone, as is top defensive back Tarik Pearson and most of last season's very low total of 22 sacks, so backups must step up and transfers acclimate quickly. It puts that sack number in context — 36, 36 and 35 over the previous three seasons, making 22 the fewest since the ill-fated 2021 season and its 17. *(p. 235)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Hilliard’s presence should really help here, especially with 1,000-yard Ohio standout Chase Henderson and big-bodied Rutgers transfer Ian Strong. *(p. 83)*
-- However, McGuire loves some of the young pieces that will have bigger roles in 2026, Austin Romaine and Brice Pollock are both back, and the team added a legitimate star in Miami (Ohio) transfer Adam Trick. *(p. 141)*
+Referenced in the guide on **pp. 83, 141** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Given how the Bobcats have had tenured starting QBs like Tettleton and the Rourkes, I won’t be the least bit shocked if they take some lumps and embrace a transitional year with Davis, the three-star QB from the Columbus area, to set him up to follow the long line of productive predecessors. *(p. 234)*
-- Hauser and OC Scott Isphording have options, including returnee Nick Poulos, who redshirted last season, New Hampshire transfer Matt Vezza, who ran for 600 yards, and incoming freshman Levi Davis. *(p. 235)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Campbell has strong Ohio ties, which should help with recruiting and he did really well to get D’Anton Lynn, a Texas native, as the DC, giving Penn State a lot of connections from coast to coast. *(p. 32)*
+Referenced in the guide on **pp. 32, 234, 235** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Perhaps this could be the one, as Hauser, who was the defensive coordinator, is now looking at a program with one returning starter on offense, the loss of a multi-year QB in Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura, who transferred back into the program prior to last season, and a noticeably lackluster transfer portal class. *(p. 234)*
-- While Navarro had trouble taking care of the ball with just a 27/22 TD/INT ratio in his two seasons as a starter, he ran for nearly 2,000 yards with 27 rushing scores. *(p. 235)*
-- The offensive line features all new starters. *(p. 235)*
-- While pretty much everybody has been in the system for a long time, they are unproven, which is a major concern with Bangura’s 1,392 yards and 15 rushing TDs and the team’s top four wide receivers in yardage, including a 1,000-yard pass-catcher in Chase Hendricks all elsewhere. *(p. 235)*
-- The offense looks unrecognizable this season. *(p. 235)*
-- The attrition on the defensive side is a lot lighter than the offensive side, but still noticeable. *(p. 235)*
+- It suspects this could be that year, listing what Hauser inherits: one returning starter on offense, the loss of multi-year quarterback Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura — who had transferred back into the programme before last season — and a noticeably lacklustre portal class. *(p. 234)*
+- **Is QB the only concern on offense?** The guide's answer is “hardly”, starting with an offensive line featuring all new starters — long in the system, but unproven. The production leaving is substantial: Bangura's 1,392 yards and 15 rushing touchdowns plus the top four receivers by yardage, including 1,000-yard pass-catcher Chase Hendricks. It stresses how unusual this is for Ohio, which even in the portal era has had continuity and returning production year over year, or at least high-upside players waiting, and says the offense looks unrecognisable this season. Its closing caution is that even at 6.1 and 6.2 yards per play over the last two seasons, Ohio has not scored 30 PPG since 2022, when it had a +12 turnover margin. *(p. 235)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Prior to becoming the OC at Ohio, Albin primarily coached offensive linemen and running backs. *(p. 53)*
+Referenced in the guide on **pp. 53** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Perhaps this could be the one, as Hauser, who was the defensive coordinator, is now looking at a program with one returning starter on offense, the loss of a multi-year QB in Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura, who transferred back into the program prior to last season, and a noticeably lackluster transfer portal class. *(p. 234)*
-- The attrition on the defensive side is a lot lighter than the offensive side, but still noticeable. *(p. 235)*
-- With the top two tacklers gone, top defensive back Tarik Pearson, and most of last season’s very low total of 22 sacks, backups will have to step up and transfers will have to acclimate quickly. *(p. 235)*
-- After racking up 36, 36, and 35 sacks over the previous three seasons, the 22 sacks were the fewest since that ill-fated ‘21 season with 17. *(p. 235)*
+- **Will the defense save the day?** The guide says it is possible, then notes something it finds interesting: Hauser was co-defensive coordinator at Miami of Ohio, making him one of the few external hires in recent seasons — while admitting it is unsure whether that matters. Kurt Mattix returns as coordinator after a season in Charlotte with Albin. Attrition on defense is lighter than on offense but still noticeable: the top two tacklers are gone, as is top defensive back Tarik Pearson and most of last season's very low total of 22 sacks, so backups must step up and transfers acclimate quickly. It puts that sack number in context — 36, 36 and 35 over the previous three seasons, making 22 the fewest since the ill-fated 2021 season and its 17. *(p. 235)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- His DC is Ryan Manalac, a fellow Ohio native who served as Pitt’s linebackers coach and has never been a defensive coordinator at the FBS level. *(p. 211)*
+Referenced in the guide on **pp. 211** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -206,11 +186,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- While the Bobcats do avoid reigning champ Western Michigan, they get Miami and Toledo over a three-week stretch, have to go out to Sacramento, and have some non-conference toss- ups. *(p. 234)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+Referenced in the guide on **pp. 220, 234** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -234,25 +211,18 @@ Prices printed on the team page *(p. 235)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 6.5 wins. The guide states it is entirely possible an established, steady programme absorbs all of that, but says it has doubts. *(p. 234)*
+- Its specific scenario is a transitional year: given Ohio's history of tenured starters like Tettleton and the Rourkes, it would not be at all shocked if the Bobcats take some lumps while developing Davis, a three-star quarterback from the Columbus area, to follow that line of productive predecessors. *(p. 234)*
+- On the schedule it notes Ohio avoids reigning champion Western Michigan but draws Miami and Toledo within a three-week stretch, must travel to Sacramento, and has some non-conference toss-ups. Projection is 6.91 wins, with a down year seen as plausible. *(p. 234)*
 
 ## 22. Historical / Situational Trends
 
-- Aside from an uncharacteristic 3-9 showing in 2021, the Bobcats have been one of the most consistent G5 teams in the nation. *(p. 234)*
-- Last year’s 9-4 mark was the first time since that ‘21 season that Ohio didn’t win 10+ games, but given everything that they went through, it was another really good season. *(p. 234)*
-- Perhaps this could be the one, as Hauser, who was the defensive coordinator, is now looking at a program with one returning starter on offense, the loss of a multi-year QB in Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura, who transferred back into the program prior to last season, and a noticeably lackluster transfer portal class. *(p. 234)*
-- Whether you want to credit the scouting and talent evaluation, the system, the stability of the program, or just outright good luck, Ohio has been on a generational run of QBs since Tyler Tettleton showed up in 2009. *(p. 235)*
-- Hauser and OC Scott Isphording have options, including returnee Nick Poulos, who redshirted last season, New Hampshire transfer Matt Vezza, who ran for 600 yards, and incoming freshman Levi Davis. *(p. 235)*
-- And, as potent as they’ve been on a per- play basis, with 6.1 and 6.2 YPP over the last two seasons, they still haven’t scored 30 PPG since 2022 when they had a +12 TO margin. *(p. 235)*
-- Kurt Mattix is back to be the DC after shacking up in Charlotte with Albin last season. *(p. 235)*
-- With the top two tacklers gone, top defensive back Tarik Pearson, and most of last season’s very low total of 22 sacks, backups will have to step up and transfers will have to acclimate quickly. *(p. 235)*
-- After racking up 36, 36, and 35 sacks over the previous three seasons, the 22 sacks were the fewest since that ill-fated ‘21 season with 17. *(p. 235)*
+- The guide rates Ohio one of the most consistent Group of Five programmes in the nation, with an uncharacteristic 3-9 in 2021 the only exception. *(p. 234)*
+- It treats last season's 9-4 as another really good year, noting it was the first since 2021 that Ohio did not win 10 or more games, and that it came given everything the programme went through. *(p. 234)*
+- Its historical read is that the handover from Frank Solich to Tim Albin causing a one-year blip was unsurprising. *(p. 234)*
+- **Will the string run out at the quarterback position?** The guide describes a generational run at the position since Tyler Tettleton arrived in 2009, offering several possible causes — scouting and talent evaluation, the system, programme stability, or outright good luck — and the supporting fact that Ohio's three all-time leading passers all come from the last 20 years in Tettleton, Nathan Rourke and Kurtis Rourke. On Navarro it is even-handed: trouble taking care of the ball with a 27/22 touchdown-to-interception ratio across two seasons as starter, but nearly 2,000 rushing yards with 27 rushing scores. Hauser and coordinator Scott Isphording have options — returnee Nick Poulos, who redshirted; New Hampshire transfer Matt Vezza, who ran for 600 yards; and incoming freshman Levi Davis — but its verdict is that the bar is set so high virtually any of them is likely to fall short. *(p. 235)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, McGuire loves some of the young pieces that will have bigger roles in 2026, Austin Romaine and Brice Pollock are both back, and the team added a legitimate star in Miami (Ohio) transfer Adam Trick. *(p. 141)*
-- With UMass rejoining the MAC last season, the conference has 13 teams, with three in Michigan, one in New York, six in Ohio, one in Indiana, one in Massachusetts, and then one in California. *(p. 215)*
-- They also shockingly upset Ohio last season and that probably doesn’t happen again with a trip to Athens. *(p. 218)*
+Referenced in the guide on **pp. 141, 215, 218** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -298,44 +268,37 @@ As printed on p. 235. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.2 wins** against a posted total of 6.5 — **+0.7** in this team's favour.
-- Last year’s 9-4 mark was the first time since that ‘21 season that Ohio didn’t win 10+ games, but given everything that they went through, it was another really good season. *(p. 234)*
-- Whether you want to credit the scouting and talent evaluation, the system, the stability of the program, or just outright good luck, Ohio has been on a generational run of QBs since Tyler Tettleton showed up in 2009. *(p. 235)*
-- Even in the transfer portal era, Ohio has had a lot of continuity and returning production year over year, or have at least had high-upside players waiting in the wings. *(p. 235)*
-- Campbell has strong Ohio ties, which should help with recruiting and he did really well to get D’Anton Lynn, a Texas native, as the DC, giving Penn State a lot of connections from coast to coast. *(p. 32)*
-- Apparently Tim Albin felt like Charlotte Green was a brighter shade than Bobcat Green, as he gave up a pretty good gig at Ohio to take on arguably the biggest challenge in the American Conference. *(p. 52)*
-- Albin had three straight double-digit winning seasons at Ohio before suffering through his first season in the Queen City. *(p. 52)*
-- Hilliard’s presence should really help here, especially with 1,000-yard Ohio standout Chase Henderson and big-bodied Rutgers transfer Ian Strong. *(p. 83)*
-- Cincinnati starts the season with winnable games against Boston College, Western Carolina, and Miami (Ohio). *(p. 125)*
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+- It treats last season's 9-4 as another really good year, noting it was the first since 2021 that Ohio did not win 10 or more games, and that it came given everything the programme went through. *(p. 234)*
+- The guide describes a generational run at the position since Tyler Tettleton arrived in 2009, offering several possible causes — scouting and talent evaluation, the system, programme stability, or outright good luck — and the supporting fact that Ohio's three all-time leading passers all come from the last 20 years in Tettleton, Nathan Rourke and Kurtis Rourke. On Navarro it is even-handed: trouble taking care of the ball with a 27/22 touchdown-to-interception ratio across two seasons as starter, but nearly 2,000 rushing yards with 27 rushing scores. Hauser and coordinator Scott Isphording have options — returnee Nick Poulos, who redshirted; New Hampshire transfer Matt Vezza, who ran for 600 yards; and incoming freshman Levi Davis — but its verdict is that the bar is set so high virtually any of them is likely to fall short. *(p. 235)*
+- The guide's answer is “hardly”, starting with an offensive line featuring all new starters — long in the system, but unproven. The production leaving is substantial: Bangura's 1,392 yards and 15 rushing touchdowns plus the top four receivers by yardage, including 1,000-yard pass-catcher Chase Hendricks. It stresses how unusual this is for Ohio, which even in the portal era has had continuity and returning production year over year, or at least high-upside players waiting, and says the offense looks unrecognisable this season. Its closing caution is that even at 6.1 and 6.2 yards per play over the last two seasons, Ohio has not scored 30 PPG since 2022, when it had a +12 turnover margin. *(p. 235)*
+- The guide says it is possible, then notes something it finds interesting: Hauser was co-defensive coordinator at Miami of Ohio, making him one of the few external hires in recent seasons — while admitting it is unsure whether that matters. Kurt Mattix returns as coordinator after a season in Charlotte with Albin. Attrition on defense is lighter than on offense but still noticeable: the top two tacklers are gone, as is top defensive back Tarik Pearson and most of last season's very low total of 22 sacks, so backups must step up and transfers acclimate quickly. It puts that sack number in context — 36, 36 and 35 over the previous three seasons, making 22 the fewest since the ill-fated 2021 season and its 17. *(p. 235)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 6.5**.
-- Perhaps this could be the one, as Hauser, who was the defensive coordinator, is now looking at a program with one returning starter on offense, the loss of a multi-year QB in Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura, who transferred back into the program prior to last season, and a noticeably lackluster transfer portal class. *(p. 234)*
-- While pretty much everybody has been in the system for a long time, they are unproven, which is a major concern with Bangura’s 1,392 yards and 15 rushing TDs and the team’s top four wide receivers in yardage, including a 1,000-yard pass-catcher in Chase Hendricks all elsewhere. *(p. 235)*
-- In terms of other weak schedules, Buffalo, Sacramento State, and Ohio, all other MAC teams as well, check in at Nos. 2-4. *(p. 46)*
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+- It suspects this could be that year, listing what Hauser inherits: one returning starter on offense, the loss of multi-year quarterback Parker Navarro, the loss of near-1,400-yard rusher Sieh Bangura — who had transferred back into the programme before last season — and a noticeably lacklustre portal class. *(p. 234)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 235)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 235)*. Its analysis, in reference form:
 
 ### Will the string run out at the quarterback position?
 
-Whether you want to credit the scouting and talent evaluation, the system, the stability of the program, or just outright good luck, Ohio has been on a generational run of QBs since Tyler Tettleton showed up in 2009. Ohio’s three all-time leading passers have all come within the last 20 years with Tettleton, Nathan Rourke, and Kurtis Rourke. While Navarro had trouble taking care of the ball with just a 27/22 TD/INT ratio in his two seasons as a starter, he ran for nearly 2,000 yards with 27 rushing scores. Hauser and OC Scott Isphording have options, including returnee Nick Poulos, who redshirted last season, New Hampshire transfer Matt Vezza, who ran for 600 yards, and incoming freshman Levi Davis. But, the bar is set so high here that virtually any of those options are likely to fall short.
+The guide describes a generational run at the position since Tyler Tettleton arrived in 2009, offering several possible causes — scouting and talent evaluation, the system, programme stability, or outright good luck — and the supporting fact that Ohio's three all-time leading passers all come from the last 20 years in Tettleton, Nathan Rourke and Kurtis Rourke. On Navarro it is even-handed: trouble taking care of the ball with a 27/22 touchdown-to-interception ratio across two seasons as starter, but nearly 2,000 rushing yards with 27 rushing scores. Hauser and coordinator Scott Isphording have options — returnee Nick Poulos, who redshirted; New Hampshire transfer Matt Vezza, who ran for 600 yards; and incoming freshman Levi Davis — but its verdict is that the bar is set so high virtually any of them is likely to fall short. *(p. 235)*
 
 ### Is QB the only concern on offense?
 
-Hardly. The offensive line features all new starters. While pretty much everybody has been in the system for a long time, they are unproven, which is a major concern with Bangura’s 1,392 yards and 15 rushing TDs and the team’s top four wide receivers in yardage, including a 1,000-yard pass-catcher in Chase Hendricks all elsewhere. Even in the transfer portal era, Ohio has had a lot of continuity and returning production year over year, or have at least had high-upside players waiting in the wings. The offense looks unrecognizable this season. And, as potent as they’ve been on a per- play basis, with 6.1 and 6.2 YPP over the last two seasons, they still haven’t scored 30 PPG since 2022 when they had a +12 TO margin.
+The guide's answer is “hardly”, starting with an offensive line featuring all new starters — long in the system, but unproven. The production leaving is substantial: Bangura's 1,392 yards and 15 rushing touchdowns plus the top four receivers by yardage, including 1,000-yard pass-catcher Chase Hendricks. It stresses how unusual this is for Ohio, which even in the portal era has had continuity and returning production year over year, or at least high-upside players waiting, and says the offense looks unrecognisable this season. Its closing caution is that even at 6.1 and 6.2 yards per play over the last two seasons, Ohio has not scored 30 PPG since 2022, when it had a +12 turnover margin. *(p. 235)*
 
 ### Will the defense save the day?
 
-It’s possible, but it is interesting to note that Hauser was the co- DC at Miami of Ohio, so he was one of the few external hires in recent seasons. I’m not sure if that will matter or not. Kurt Mattix is back to be the DC after shacking up in Charlotte with Albin last season. The attrition on the defensive side is a lot lighter than the offensive side, but still noticeable. With the top two tacklers gone, top defensive back Tarik Pearson, and most of last season’s very low total of 22 sacks, backups will have to step up and transfers will have to acclimate quickly. After racking up 36, 36, and 35 sacks over the previous three seasons, the 22 sacks were the fewest since that ill-fated ‘21 season with 17.
+The guide says it is possible, then notes something it finds interesting: Hauser was co-defensive coordinator at Miami of Ohio, making him one of the few external hires in recent seasons — while admitting it is unsure whether that matters. Kurt Mattix returns as coordinator after a season in Charlotte with Albin. Attrition on defense is lighter than on offense but still noticeable: the top two tacklers are gone, as is top defensive back Tarik Pearson and most of last season's very low total of 22 sacks, so backups must step up and transfers acclimate quickly. It puts that sack number in context — 36, 36 and 35 over the previous three seasons, making 22 the fewest since the ill-fated 2021 season and its 17. *(p. 235)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

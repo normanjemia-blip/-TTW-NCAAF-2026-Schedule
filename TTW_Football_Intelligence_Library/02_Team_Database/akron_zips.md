@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 4.3–7.7 overall, 3.1–4.9 in conference |
 | **Schedule strength** | 31.19 (#117 toughest of 138) |
 
-### Season outlook as written in the guide (p. 216)
+### Season outlook — VSiN's analysis in reference form (p. 216)
 
-The Zips failed to win more games than they lost for the 10th consecutive season, as a 7-7 showing in 2017 is the best outcome for the program since going 8-5 under Terry Bowden back in 2015. While a 5-7 mark wasn’t very impressive, context matters a lot here. For starters, five is the most wins for Akron since that 2017 season. Second, the team knew before even stepping foot on the field that a bowl game was not going to happen, as low Academic Progress Rate (APR) scores caused a bowl ban prior to the start of the campaign. To go 5-7 under those conditions was a huge win for Joe Moorhead. Are the Zips slowly turning the corner? Maybe. There is no bowl ban for this season and it seems like the program got a little bit more investment than usual, as the school in the heart of the Rubber City has among the lowest NIL budgets in FBS. Not only that, but the APR scores forced the team to be away from the field and spend more time in the classroom, so the Zips have the chance at being even better this season. Over 4.5 Moorhead got a lot out of a team that couldn’t make a bowl game and the most impressive data point to me was a 19-16 road win at Bowling Green after losing to rival Kent State in OT. The Zips had every reason in the world to mail that game in and didn’t. It should also be noted that the Zips were +480 in yards against MAC foes outside of the 45-3 loss to Toledo in which they were outgained 538-134. That game, and the 728 yards from Nebraska in a 68-0 loss, skewed the defensive numbers in a big way. This was maybe a better team than the 5-7 record showed and Moorhead is finally gaining ground with the direction of the program. My projection is 4.29 wins, but I do like this team.
+- The guide opens with the long record: Akron failed to win more games than it lost for a 10th consecutive season, with a 7-7 showing in 2017 the best outcome since going 8-5 under Terry Bowden in 2015. *(p. 216)*
+- It then insists context matters. First, five wins is the most for Akron since that 2017 season. *(p. 216)*
+- Second, the team knew before the season began that no bowl was possible, because low Academic Progress Rate scores produced a bowl ban beforehand. Going 5-7 under those conditions it calls a huge win for Joe Moorhead. *(p. 216)*
+- On whether the programme is turning the corner it answers “maybe”, citing no bowl ban this season and a little more investment than usual at a school it notes has among the lowest NIL budgets in FBS. *(p. 216)*
+- It adds an unusual second-order effect: the APR scores forced the team away from the field and into the classroom, which it frames as giving the Zips a chance to be even better this season. *(p. 216)*
+- Recommendation is Over 4.5 wins. *(p. 216)*
+- The single data point it finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State — a game the Zips had every reason to mail in and did not. *(p. 216)*
+- It corrects the raw defensive numbers for two outliers: Akron was +480 in yards against MAC opponents outside the 45-3 loss to Toledo, in which it was out-gained 538-134, and the 728 yards Nebraska put up in a 68-0 win skewed the season totals badly. *(p. 216)*
+- Its conclusion is that this was possibly a better team than 5-7 suggested and that Moorhead is finally gaining ground on the programme's direction. Projection is 4.29 wins, with a stated liking for the team. *(p. 216)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,7 +88,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Moorhead was a longtime OC and QB coach before taking on this challenging job. *(p. 217)*
+- Second, the team knew before the season began that no bowl was possible, because low Academic Progress Rate scores produced a bowl ban beforehand. Going 5-7 under those conditions it calls a huge win for Joe Moorhead. *(p. 216)*
+- On whether the programme is turning the corner it answers “maybe”, citing no bowl ban this season and a little more investment than usual at a school it notes has among the lowest NIL budgets in FBS. *(p. 216)*
+- It adds an unusual second-order effect: the APR scores forced the team away from the field and into the classroom, which it frames as giving the Zips a chance to be even better this season. *(p. 216)*
+- Its conclusion is that this was possibly a better team than 5-7 suggested and that Moorhead is finally gaining ground on the programme's direction. Projection is 4.29 wins, with a stated liking for the team. *(p. 216)*
+- **Which defense shows up in 2026?** Across Moorhead's four seasons the guide lists 6.0, 5.2, 6.1 and 5.8 yards per play allowed alongside 33.5, 28.0, 32.0 and 27.4 PPG, arguing that given the offense's annual shortcomings any defensive drop-off is a concern. It adds that last season produced Akron's first positive turnover margin in about a decade at +3, with 20 takeaways. On attrition it draws a specific inference: all eight leading tacklers are gone, but nobody had more than 66 tackles, so Tim Tibesar's plan was clearly to rotate everyone through. The catch it identifies is that those same eight carried most of the sacks, pass breakups, tackles for loss and interceptions. *(p. 217)*
 
 ## 9. Quarterback Situation
 
@@ -86,7 +100,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 216)*.
 
-- Moorhead was a longtime OC and QB coach before taking on this challenging job. *(p. 217)*
+- **Will Reese Poffenbarger shake off the dust and cobwebs?** The guide traces a quarterback who has barely played: originally recruited to Miami (FL) after a strong season at Albany, Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, and has thrown a total of 14 passes across those two seasons. What it likes is the situation he inherits — minimal resistance for the job, a head coach who was a longtime coordinator and quarterbacks coach, a 1,000-yard rusher in Jordan Gant representing genuine growth in the run game, and returning pass-catchers including leading receiver Marcel Williams. *(p. 217)*
 
 ## 10. Returning Production
 
@@ -102,28 +116,24 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- There is no bowl ban for this season and it seems like the program got a little bit more investment than usual, as the school in the heart of the Rubber City has among the lowest NIL budgets in FBS. *(p. 216)*
+- **Will Reese Poffenbarger shake off the dust and cobwebs?** The guide traces a quarterback who has barely played: originally recruited to Miami (FL) after a strong season at Albany, Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, and has thrown a total of 14 passes across those two seasons. What it likes is the situation he inherits — minimal resistance for the job, a head coach who was a longtime coordinator and quarterbacks coach, a 1,000-yard rusher in Jordan Gant representing genuine growth in the run game, and returning pass-catchers including leading receiver Marcel Williams. *(p. 217)*
+- **Which defense shows up in 2026?** Across Moorhead's four seasons the guide lists 6.0, 5.2, 6.1 and 5.8 yards per play allowed alongside 33.5, 28.0, 32.0 and 27.4 PPG, arguing that given the offense's annual shortcomings any defensive drop-off is a concern. It adds that last season produced Akron's first positive turnover margin in about a decade at +3, with 20 takeaways. On attrition it draws a specific inference: all eight leading tacklers are gone, but nobody had more than 66 tackles, so Tim Tibesar's plan was clearly to rotate everyone through. The catch it identifies is that those same eight carried most of the sacks, pass breakups, tackles for loss and interceptions. *(p. 217)*
 
 ## 12. Recruiting / Roster Notes
 
-- Poffenbarger, who was originally recruited to Miami (FL) after a strong season at Albany, will attempt to take advantage of a fresh start in Akron. *(p. 217)*
+
+Referenced in the guide on **pp. 217** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- He waltzes into a pretty good offensive situation. *(p. 217)*
-- In Moorhead’s four seasons, the Zips have allowed 6.0, 5.2, 6.1, and 5.8 yards per play, while giving up 33.5, 28.0, 32.0, and 27.4 PPG. *(p. 217)*
-- Given the annual shortcomings of the offense, any drop-off from the defense feels like a concern. *(p. 217)*
+- **Will Reese Poffenbarger shake off the dust and cobwebs?** The guide traces a quarterback who has barely played: originally recruited to Miami (FL) after a strong season at Albany, Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, and has thrown a total of 14 passes across those two seasons. What it likes is the situation he inherits — minimal resistance for the job, a head coach who was a longtime coordinator and quarterbacks coach, a 1,000-yard rusher in Jordan Gant representing genuine growth in the run game, and returning pass-catchers including leading receiver Marcel Williams. *(p. 217)*
+- **Are the Zips improving in the trenches?** The guide states the principle first — if you want to be a bad football team, be bad at the point of attack — then tracks the numbers. Akron allowed 63 sacks in Tom Arth's final season in 2021 and 56 in Moorhead's first in 2022, improving to 30 in 2024 and 35 in 2025. It concedes that is still not enough for a positive sack differential, while noting last year's -9 was easily the best in a very long time. Two other markers: the defense's 26 sacks were the most since the Bowden era, and 3.7 yards per carry was the team's best in a non-COVID year over the same span. Its honest framing is that none of these are impressive numbers in themselves — only better than what Akron usually manages. *(p. 217)*
 
 ## 14. Defensive Identity
 
-- That game, and the 728 yards from Nebraska in a 68-0 loss, skewed the defensive numbers in a big way. *(p. 216)*
-- This is a Zips program that gave up 63 sacks in Tom Arth’s last season back in 2021 and then 56 sacks in Moorhead’s first season in 2022. *(p. 217)*
-- They’ve improved, dropping to 30 sacks in 2024 and 35 sacks in 2025. *(p. 217)*
-- While that’s not good enough to have a positive sack differential, last year’s -9 was easily the best for the team in a very, very long time. *(p. 217)*
-- The 26 sacks from the defense were the most since the Bowden era and the team’s 3.7 yards per carry was the most in a non-COVID year since then as well. *(p. 217)*
-- Given the annual shortcomings of the offense, any drop-off from the defense feels like a concern. *(p. 217)*
-- The top eight tacklers are all gone from last season, but nobody had more than 66, so it’s clear that Tim Tibesar’s plan was to rotate everybody in. *(p. 217)*
-- Unfortunately, those top eight had most of the production in terms of sacks, pass breakups, tackles for loss, and interceptions. *(p. 217)*
+- It corrects the raw defensive numbers for two outliers: Akron was +480 in yards against MAC opponents outside the 45-3 loss to Toledo, in which it was out-gained 538-134, and the 728 yards Nebraska put up in a 68-0 win skewed the season totals badly. *(p. 216)*
+- **Are the Zips improving in the trenches?** The guide states the principle first — if you want to be a bad football team, be bad at the point of attack — then tracks the numbers. Akron allowed 63 sacks in Tom Arth's final season in 2021 and 56 in Moorhead's first in 2022, improving to 30 in 2024 and 35 in 2025. It concedes that is still not enough for a positive sack differential, while noting last year's -9 was easily the best in a very long time. Two other markers: the defense's 26 sacks were the most since the Bowden era, and 3.7 yards per carry was the team's best in a non-COVID year over the same span. Its honest framing is that none of these are impressive numbers in themselves — only better than what Akron usually manages. *(p. 217)*
+- **Which defense shows up in 2026?** Across Moorhead's four seasons the guide lists 6.0, 5.2, 6.1 and 5.8 yards per play allowed alongside 33.5, 28.0, 32.0 and 27.4 PPG, arguing that given the offense's annual shortcomings any defensive drop-off is a concern. It adds that last season produced Akron's first positive turnover margin in about a decade at +3, with 20 takeaways. On attrition it draws a specific inference: all eight leading tacklers are gone, but nobody had more than 66 tackles, so Tim Tibesar's plan was clearly to rotate everyone through. The catch it identifies is that those same eight carried most of the sacks, pass breakups, tackles for loss and interceptions. *(p. 217)*
 
 ## 15. Key Strengths
 
@@ -170,9 +180,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. *(p. 228)*
+Referenced in the guide on **pp. 228** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -194,27 +202,21 @@ Prices printed on the team page *(p. 217)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Over 4.5 wins. *(p. 216)*
+- The single data point it finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State — a game the Zips had every reason to mail in and did not. *(p. 216)*
+- Its conclusion is that this was possibly a better team than 5-7 suggested and that Moorhead is finally gaining ground on the programme's direction. Projection is 4.29 wins, with a stated liking for the team. *(p. 216)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They also lost to Akron as a doubledigit favorite. *(p. 222)*
-- Over 2.5 The betting market seems to be confident in three wins coming from the group of Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State, and Akron and I can’t blame them. *(p. 230)*
+Also referenced on **pp. 222, 230** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- The Zips failed to win more games than they lost for the 10th consecutive season, as a 7-7 showing in 2017 is the best outcome for the program since going 8-5 under Terry Bowden back in 2015. *(p. 216)*
-- For starters, five is the most wins for Akron since that 2017 season. *(p. 216)*
-- Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, but he has a minimal path of resistance at best here at Akron. *(p. 217)*
-- This is a Zips program that gave up 63 sacks in Tom Arth’s last season back in 2021 and then 56 sacks in Moorhead’s first season in 2022. *(p. 217)*
-- They’ve improved, dropping to 30 sacks in 2024 and 35 sacks in 2025. *(p. 217)*
-- While that’s not good enough to have a positive sack differential, last year’s -9 was easily the best for the team in a very, very long time. *(p. 217)*
-- The 26 sacks from the defense were the most since the Bowden era and the team’s 3.7 yards per carry was the most in a non-COVID year since then as well. *(p. 217)*
-- Last season also saw the Zips with a positive TO margin for the first time in about a decade at +3 with 20 takeaways. *(p. 217)*
-- The top eight tacklers are all gone from last season, but nobody had more than 66, so it’s clear that Tim Tibesar’s plan was to rotate everybody in. *(p. 217)*
+- The guide opens with the long record: Akron failed to win more games than it lost for a 10th consecutive season, with a 7-7 showing in 2017 the best outcome since going 8-5 under Terry Bowden in 2015. *(p. 216)*
+- It then insists context matters. First, five wins is the most for Akron since that 2017 season. *(p. 216)*
+- Second, the team knew before the season began that no bowl was possible, because low Academic Progress Rate scores produced a bowl ban beforehand. Going 5-7 under those conditions it calls a huge win for Joe Moorhead. *(p. 216)*
+- The single data point it finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State — a game the Zips had every reason to mail in and did not. *(p. 216)*
+- **Are the Zips improving in the trenches?** The guide states the principle first — if you want to be a bad football team, be bad at the point of attack — then tracks the numbers. Akron allowed 63 sacks in Tom Arth's final season in 2021 and 56 in Moorhead's first in 2022, improving to 30 in 2024 and 35 in 2025. It concedes that is still not enough for a positive sack differential, while noting last year's -9 was easily the best in a very long time. Two other markers: the defense's 26 sacks were the most since the Bowden era, and 3.7 yards per carry was the team's best in a non-COVID year over the same span. Its honest framing is that none of these are impressive numbers in themselves — only better than what Akron usually manages. *(p. 217)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. *(p. 228)*
+Referenced in the guide on **pp. 228** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -260,47 +262,40 @@ As printed on p. 217. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- The Zips failed to win more games than they lost for the 10th consecutive season, as a 7-7 showing in 2017 is the best outcome for the program since going 8-5 under Terry Bowden back in 2015. *(p. 216)*
-- While a 5-7 mark wasn’t very impressive, context matters a lot here. *(p. 216)*
-- Over 4.5 Moorhead got a lot out of a team that couldn’t make a bowl game and the most impressive data point to me was a 19-16 road win at Bowling Green after losing to rival Kent State in OT. *(p. 216)*
-- Poffenbarger, who was originally recruited to Miami (FL) after a strong season at Albany, will attempt to take advantage of a fresh start in Akron. *(p. 217)*
-- Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, but he has a minimal path of resistance at best here at Akron. *(p. 217)*
-- He waltzes into a pretty good offensive situation. *(p. 217)*
-- They’ve improved, dropping to 30 sacks in 2024 and 35 sacks in 2025. *(p. 217)*
-- While that’s not good enough to have a positive sack differential, last year’s -9 was easily the best for the team in a very, very long time. *(p. 217)*
-- While none of these are impressive numbers, per se, they’re better than what the Zips usually accomplish. *(p. 217)*
-- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
+- The guide opens with the long record: Akron failed to win more games than it lost for a 10th consecutive season, with a 7-7 showing in 2017 the best outcome since going 8-5 under Terry Bowden in 2015. *(p. 216)*
+- The single data point it finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State — a game the Zips had every reason to mail in and did not. *(p. 216)*
+- The guide traces a quarterback who has barely played: originally recruited to Miami (FL) after a strong season at Albany, Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, and has thrown a total of 14 passes across those two seasons. What it likes is the situation he inherits — minimal resistance for the job, a head coach who was a longtime coordinator and quarterbacks coach, a 1,000-yard rusher in Jordan Gant representing genuine growth in the run game, and returning pass-catchers including leading receiver Marcel Williams. *(p. 217)*
+- The guide states the principle first — if you want to be a bad football team, be bad at the point of attack — then tracks the numbers. Akron allowed 63 sacks in Tom Arth's final season in 2021 and 56 in Moorhead's first in 2022, improving to 30 in 2024 and 35 in 2025. It concedes that is still not enough for a positive sack differential, while noting last year's -9 was easily the best in a very long time. Two other markers: the defense's 26 sacks were the most since the Bowden era, and 3.7 yards per carry was the team's best in a non-COVID year over the same span. Its honest framing is that none of these are impressive numbers in themselves — only better than what Akron usually manages. *(p. 217)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.3 wins** against a posted total of 4.5 — **-0.2** against this team.
-- The Zips failed to win more games than they lost for the 10th consecutive season, as a 7-7 showing in 2017 is the best outcome for the program since going 8-5 under Terry Bowden back in 2015. *(p. 216)*
-- It should also be noted that the Zips were +480 in yards against MAC foes outside of the 45-3 loss to Toledo in which they were outgained 538-134. *(p. 216)*
-- That game, and the 728 yards from Nebraska in a 68-0 loss, skewed the defensive numbers in a big way. *(p. 216)*
-- Given the annual shortcomings of the offense, any drop-off from the defense feels like a concern. *(p. 217)*
-- Unfortunately, those top eight had most of the production in terms of sacks, pass breakups, tackles for loss, and interceptions. *(p. 217)*
-- They also lost to Akron as a doubledigit favorite. *(p. 222)*
+- The guide opens with the long record: Akron failed to win more games than it lost for a 10th consecutive season, with a 7-7 showing in 2017 the best outcome since going 8-5 under Terry Bowden in 2015. *(p. 216)*
+- The single data point it finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State — a game the Zips had every reason to mail in and did not. *(p. 216)*
+- It corrects the raw defensive numbers for two outliers: Akron was +480 in yards against MAC opponents outside the 45-3 loss to Toledo, in which it was out-gained 538-134, and the 728 yards Nebraska put up in a 68-0 win skewed the season totals badly. *(p. 216)*
+- Across Moorhead's four seasons the guide lists 6.0, 5.2, 6.1 and 5.8 yards per play allowed alongside 33.5, 28.0, 32.0 and 27.4 PPG, arguing that given the offense's annual shortcomings any defensive drop-off is a concern. It adds that last season produced Akron's first positive turnover margin in about a decade at +3, with 20 takeaways. On attrition it draws a specific inference: all eight leading tacklers are gone, but nobody had more than 66 tackles, so Tim Tibesar's plan was clearly to rotate everyone through. The catch it identifies is that those same eight carried most of the sacks, pass breakups, tackles for loss and interceptions. *(p. 217)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 217)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 217)*. Its analysis, in reference form:
 
 ### Will Reese Poffenbarger shake off the dust and cobwebs?
 
-Poffenbarger, who was originally recruited to Miami (FL) after a strong season at Albany, will attempt to take advantage of a fresh start in Akron. Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, but he has a minimal path of resistance at best here at Akron. He waltzes into a pretty good offensive situation. Moorhead was a longtime OC and QB coach before taking on this challenging job. RB Jordan Gant ran for over 1,000 yards, as the Zips finally showed signs of growth there, and leading WR Marcel Williams is among the pass-catchers that are back. Poffenbarger, though, has only thrown a total of 14 passes over the last two seasons.
+The guide traces a quarterback who has barely played: originally recruited to Miami (FL) after a strong season at Albany, Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, and has thrown a total of 14 passes across those two seasons. What it likes is the situation he inherits — minimal resistance for the job, a head coach who was a longtime coordinator and quarterbacks coach, a 1,000-yard rusher in Jordan Gant representing genuine growth in the run game, and returning pass-catchers including leading receiver Marcel Williams. *(p. 217)*
 
 ### Are the Zips improving in the trenches?
 
-If you want to be a bad football team, be bad at the point of attack. This is a Zips program that gave up 63 sacks in Tom Arth’s last season back in 2021 and then 56 sacks in Moorhead’s first season in 2022. They’ve improved, dropping to 30 sacks in 2024 and 35 sacks in 2025. While that’s not good enough to have a positive sack differential, last year’s -9 was easily the best for the team in a very, very long time. The 26 sacks from the defense were the most since the Bowden era and the team’s 3.7 yards per carry was the most in a non-COVID year since then as well. While none of these are impressive numbers, per se, they’re better than what the Zips usually accomplish.
+The guide states the principle first — if you want to be a bad football team, be bad at the point of attack — then tracks the numbers. Akron allowed 63 sacks in Tom Arth's final season in 2021 and 56 in Moorhead's first in 2022, improving to 30 in 2024 and 35 in 2025. It concedes that is still not enough for a positive sack differential, while noting last year's -9 was easily the best in a very long time. Two other markers: the defense's 26 sacks were the most since the Bowden era, and 3.7 yards per carry was the team's best in a non-COVID year over the same span. Its honest framing is that none of these are impressive numbers in themselves — only better than what Akron usually manages. *(p. 217)*
 
 ### Which defense shows up in 2026?
 
-In Moorhead’s four seasons, the Zips have allowed 6.0, 5.2, 6.1, and 5.8 yards per play, while giving up 33.5, 28.0, 32.0, and 27.4 PPG. Given the annual shortcomings of the offense, any drop-off from the defense feels like a concern. Last season also saw the Zips with a positive TO margin for the first time in about a decade at +3 with 20 takeaways. The top eight tacklers are all gone from last season, but nobody had more than 66, so it’s clear that Tim Tibesar’s plan was to rotate everybody in. Unfortunately, those top eight had most of the production in terms of sacks, pass breakups, tackles for loss, and interceptions.
+Across Moorhead's four seasons the guide lists 6.0, 5.2, 6.1 and 5.8 yards per play allowed alongside 33.5, 28.0, 32.0 and 27.4 PPG, arguing that given the offense's annual shortcomings any defensive drop-off is a concern. It adds that last season produced Akron's first positive turnover margin in about a decade at +3, with 20 takeaways. On attrition it draws a specific inference: all eight leading tacklers are gone, but nobody had more than 66 tackles, so Tim Tibesar's plan was clearly to rotate everyone through. The catch it identifies is that those same eight carried most of the sacks, pass breakups, tackles for loss and interceptions. *(p. 217)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 3.7–8.3 overall, 2.9–5.1 in conference |
 | **Schedule strength** | 35.31 (#83 toughest of 138) |
 
-### Season outlook as written in the guide (p. 228)
+### Season outlook — VSiN's analysis in reference form (p. 228)
 
-A lot of context is required when looking at Kent State’s 2025 season. First, Kenni Burns was 1-23 over the previous two seasons and then got fired for cause in April, pushing OC Mark Carney into the head coaching role. Second, looking at the full-season stats would be disingenuous. Kent State lost 62-14 to Texas Tech, 66-10 to Florida State, and 44-0 to Oklahoma, getting outgained by over 1,000 yards combined. While Toledo also blew them out in conference play, the Golden Flashes were competitive in most of their other games and went 5-3 in them. While the full record states that Kent State was outgained by 12.3 PPG and outgained by nearly 140 yards per game, conference play was a different story. They only allowed 5.2 YPP and gained nearly 5.7. They were +1 in TO margin. After going 0-16 against MAC opponents under Burns, they were 4-4 under Carney and there is a lot of hope around the program that this wasn’t just a one-year blip. Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. However, Carney’s swing game might very well be the season finale at Eastern Michigan and I’m very low on the Eagles this season. This isn’t a super strong play, but the talent level is better here again. And, hey, if you’re looking for a possible X factor, Josh Cribbs is the new special teams coordinator. I do like this, despite a projection of 3.23 wins.
+- The guide insists a great deal of context is needed to read Kent State's 2025 season. *(p. 228)*
+- The first piece is the coaching change: Kenni Burns was 1-23 over the previous two seasons and was fired for cause in April, pushing offensive coordinator Mark Carney into the head job. *(p. 228)*
+- The second is that full-season statistics would be disingenuous, because Kent State lost 62-14 to Texas Tech, 66-10 to Florida State and 44-0 to Oklahoma, being out-gained by over 1,000 yards across those three games. *(p. 228)*
+- With Toledo also blowing them out in conference play set aside, it says the Golden Flashes were competitive in most other games and went 5-3 in them. *(p. 228)*
+- The full record has Kent State down by 12.3 points per game and out-gained by nearly 140 yards per game — the guide's text uses “outgained” in both clauses — but it argues conference play was a different story: 5.2 yards per play allowed against nearly 5.7 gained, and +1 in turnover margin. *(p. 228)*
+- Its most striking comparison is the conference record: 0-16 against MAC opponents under Burns, then 4-4 under Carney, with a lot of hope around the programme that this was not a one-year blip. *(p. 228)*
+- Recommendation is Over 3.5 wins, though the guide expects matching last season's five wins to be a challenge. *(p. 228)*
+- The obstacles it names are a road game at Sacramento State on a short week after the Akron rivalry game, and not having UMass on the schedule. *(p. 228)*
+- Its swing game is the finale at Eastern Michigan, an opponent it is very low on. It calls this not a super strong play while noting the talent level is better again, adds Josh Cribbs as the new special teams coordinator as a possible X factor, and states it likes the position despite a projection of 3.23 wins. *(p. 228)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,13 +90,11 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 34)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- First, Kenni Burns was 1-23 over the previous two seasons and then got fired for cause in April, pushing OC Mark Carney into the head coaching role. *(p. 228)*
-- And, hey, if you’re looking for a possible X factor, Josh Cribbs is the new special teams coordinator. *(p. 228)*
+- The first piece is the coaching change: Kenni Burns was 1-23 over the previous two seasons and was fired for cause in April, pushing offensive coordinator Mark Carney into the head job. *(p. 228)*
+- Its most striking comparison is the conference record: 0-16 against MAC opponents under Burns, then 4-4 under Carney, with a lot of hope around the programme that this was not a one-year blip. *(p. 228)*
+- Its swing game is the finale at Eastern Michigan, an opponent it is very low on. It calls this not a super strong play while noting the talent level is better again, adds Josh Cribbs as the new special teams coordinator as a possible X factor, and states it likes the position despite a projection of 3.23 wins. *(p. 228)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Mark Carney Kent State Anybody who wins five games at Kent State deserves Coach of the Year consideration. *(p. 34)*
-- In the end, Loggains and his staff settled on Malachi Singleton from Purdue, Henry Hasselbeck from UCLA, and Tommy Ulatowski from Kent State. *(p. 319)*
+Also referenced on **pp. 34, 319** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -94,10 +102,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 228)*.
 
-- The Dru in question is Dru DeShields, who basically came out of nowhere last season to post an 18/3 TD/INT ratio with just over 2,000 passing yards. *(p. 229)*
-- While the yardage totals still weren’t eye-popping, even in conference play, taking care of the football and protecting the quarterback really made a difference. *(p. 229)*
-- That’s not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
-- DeShields only had three interceptions as the primary QB and the Flashes were still negative in TO margin for the season. *(p. 229)*
+- **What does Dru have in store for Year 2?** Dru DeShields came basically out of nowhere to post an 18/3 touchdown-to-interception ratio with just over 2,000 passing yards. The guide's causal note is health — the redshirt freshman finally kept his ACL intact — and the payoff was Kent State topping 20 PPG for the first time since 2022. It is careful not to overstate the numbers, saying the yardage totals still were not eye-popping even in conference play, and locating the gain instead in taking care of the football and protecting the quarterback. It adds a degree-of-difficulty note: this came after top receivers Chrishon McCray and Luke Floriea moved on, having combined for 84 of the team's 139 receptions the previous year. *(p. 229)*
+- **What about the rest of the offense?** The guide's first point is a dependency it calls massive: DeShields staying healthy is vital because there is absolutely no FBS experience behind him. Beyond that, the top four rushers are gone along with the top two receivers by yardage, leaving Wayne Harris — 35 receptions for only 383 yards — as the leading returnee. The receiver room took in few new faces while virtually the entire running back room is new. On the line it allows the group may be better despite lost starters, since it helped produce only 2.9 yards per carry overall and 3.6 in conference games once the brutal non-conference slate is excluded. Its verdict is that this is not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
 
 ## 10. Returning Production
 
@@ -113,25 +119,21 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- There is a fascinating dynamic on Cherokee Valeria’s defense, as there are portal players that are seniors and some homegrown talent that will play big roles as sophomores. *(p. 229)*
-- Many of the portal guys are second-year players in the scheme, so we may see more explosive plays out of them. *(p. 229)*
+- **Will the “Sophomores and Seniors” defense work?** The guide describes a fascinating age split on Cherokee Valeria's defense: portal players who are seniors alongside homegrown talent playing big roles as sophomores. It expects more explosive plays from the transfers because many are now second-year players in the scheme. On the trend line it notes a -3 sack differential, much better than -25 and -29 in the previous two seasons, while insisting more turnovers must follow — DeShields threw only three interceptions as the primary quarterback and Kent State was still negative in turnover margin. Its projection for the season shape mirrors last year: under duress in non-conference against South Carolina, Ohio State and USF, but competitive again in conference games. *(p. 229)*
 
 ## 12. Recruiting / Roster Notes
 
-- The redshirt freshman finally kept his ACL intact and it paid huge dividends for the Kent State offense, as they put up over 20 PPG for the first time since 2022. *(p. 229)*
-- That’s not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
+
+Referenced in the guide on **pp. 229** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The redshirt freshman finally kept his ACL intact and it paid huge dividends for the Kent State offense, as they put up over 20 PPG for the first time since 2022. *(p. 229)*
-- The team’s top four rushers from last season are all gone and so are the top two receivers by yardage. *(p. 229)*
-- While the wide receiver room didn’t invite a lot of new faces to the party, virtually the entire running back room is new. *(p. 229)*
-- It’s also entirely possible that the offensive line is better, despite some lost starters. *(p. 229)*
+- **What does Dru have in store for Year 2?** Dru DeShields came basically out of nowhere to post an 18/3 touchdown-to-interception ratio with just over 2,000 passing yards. The guide's causal note is health — the redshirt freshman finally kept his ACL intact — and the payoff was Kent State topping 20 PPG for the first time since 2022. It is careful not to overstate the numbers, saying the yardage totals still were not eye-popping even in conference play, and locating the gain instead in taking care of the football and protecting the quarterback. It adds a degree-of-difficulty note: this came after top receivers Chrishon McCray and Luke Floriea moved on, having combined for 84 of the team's 139 receptions the previous year. *(p. 229)*
+- **What about the rest of the offense?** The guide's first point is a dependency it calls massive: DeShields staying healthy is vital because there is absolutely no FBS experience behind him. Beyond that, the top four rushers are gone along with the top two receivers by yardage, leaving Wayne Harris — 35 receptions for only 383 yards — as the leading returnee. The receiver room took in few new faces while virtually the entire running back room is new. On the line it allows the group may be better despite lost starters, since it helped produce only 2.9 yards per carry overall and 3.6 in conference games once the brutal non-conference slate is excluded. Its verdict is that this is not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
 
 ## 14. Defensive Identity
 
-- There is a fascinating dynamic on Cherokee Valeria’s defense, as there are portal players that are seniors and some homegrown talent that will play big roles as sophomores. *(p. 229)*
-- The team’s -3 sack differential last season was better than the -25 and -29 of the last two seasons, but more turnovers need to come. *(p. 229)*
+- **Will the “Sophomores and Seniors” defense work?** The guide describes a fascinating age split on Cherokee Valeria's defense: portal players who are seniors alongside homegrown talent playing big roles as sophomores. It expects more explosive plays from the transfers because many are now second-year players in the scheme. On the trend line it notes a -3 sack differential, much better than -25 and -29 in the previous two seasons, while insisting more turnovers must follow — DeShields threw only three interceptions as the primary quarterback and Kent State was still negative in turnover margin. Its projection for the season shape mirrors last year: under duress in non-conference against South Carolina, Ohio State and USF, but competitive again in conference games. *(p. 229)*
 
 ## 15. Key Strengths
 
@@ -180,8 +182,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. *(p. 228)*
-- That group only helped the team to 2.9 yards per carry and if we even eliminate the brutal non-conference schedule, the Flashes had just 3.6 YPC in conference games. *(p. 229)*
+
+Referenced in the guide on **pp. 228, 229** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -202,24 +204,21 @@ Prices printed on the team page *(p. 229)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Over 3.5 wins, though the guide expects matching last season's five wins to be a challenge. *(p. 228)*
+- The obstacles it names are a road game at Sacramento State on a short week after the Akron rivalry game, and not having UMass on the schedule. *(p. 228)*
+- Its swing game is the finale at Eastern Michigan, an opponent it is very low on. It calls this not a super strong play while noting the talent level is better again, adds Josh Cribbs as the new special teams coordinator as a possible X factor, and states it likes the position despite a projection of 3.23 wins. *(p. 228)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. *(p. 222)*
+Also referenced on **pp. 222** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. *(p. 228)*
-- The Dru in question is Dru DeShields, who basically came out of nowhere last season to post an 18/3 TD/INT ratio with just over 2,000 passing yards. *(p. 229)*
-- The redshirt freshman finally kept his ACL intact and it paid huge dividends for the Kent State offense, as they put up over 20 PPG for the first time since 2022. *(p. 229)*
-- The team’s top four rushers from last season are all gone and so are the top two receivers by yardage. *(p. 229)*
-- The team’s -3 sack differential last season was better than the -25 and -29 of the last two seasons, but more turnovers need to come. *(p. 229)*
-- Like last season, they’ll be under duress in the non-conference with South Carolina, Ohio State, and USF, but should be competitive in conference games again. *(p. 229)*
+- The guide insists a great deal of context is needed to read Kent State's 2025 season. *(p. 228)*
+- The second is that full-season statistics would be disingenuous, because Kent State lost 62-14 to Texas Tech, 66-10 to Florida State and 44-0 to Oklahoma, being out-gained by over 1,000 yards across those three games. *(p. 228)*
+- With Toledo also blowing them out in conference play set aside, it says the Golden Flashes were competitive in most other games and went 5-3 in them. *(p. 228)*
+- The full record has Kent State down by 12.3 points per game and out-gained by nearly 140 yards per game — the guide's text uses “outgained” in both clauses — but it argues conference play was a different story: 5.2 yards per play allowed against nearly 5.7 gained, and +1 in turnover margin. *(p. 228)*
+- Its most striking comparison is the conference record: 0-16 against MAC opponents under Burns, then 4-4 under Carney, with a lot of hope around the programme that this was not a one-year blip. *(p. 228)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. *(p. 222)*
-- The low point of the season was probably a 42-6 loss to Kent State, a team that hadn’t beaten a FBS opponent since the end of 2022. *(p. 230)*
+Referenced in the guide on **pp. 222, 230** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -266,43 +265,36 @@ As printed on p. 229. Each category carries a value and a national rank.
 
 - Makinen projects **3.7 wins** against a posted total of 3.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 3.5**.
-- This isn’t a super strong play, but the talent level is better here again. *(p. 228)*
-- It was also an impressive season given that top WRs Chrishon McCray and Luke Floriea had moved on, as they combined for 84 of the team’s 139 receptions the previous year. *(p. 229)*
-- That’s not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
-- Over 4.5 Moorhead got a lot out of a team that couldn’t make a bowl game and the most impressive data point to me was a 19-16 road win at Bowling Green after losing to rival Kent State in OT. *(p. 216)*
-- Unfortunately for the Cardinals, two of their three most winnable conference games are road visits to Kent State and UMass. *(p. 218)*
-- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
-- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
+- Its swing game is the finale at Eastern Michigan, an opponent it is very low on. It calls this not a super strong play while noting the talent level is better again, adds Josh Cribbs as the new special teams coordinator as a possible X factor, and states it likes the position despite a projection of 3.23 wins. *(p. 228)*
+- The guide's first point is a dependency it calls massive: DeShields staying healthy is vital because there is absolutely no FBS experience behind him. Beyond that, the top four rushers are gone along with the top two receivers by yardage, leaving Wayne Harris — 35 receptions for only 383 yards — as the leading returnee. The receiver room took in few new faces while virtually the entire running back room is new. On the line it allows the group may be better despite lost starters, since it helped produce only 2.9 yards per carry overall and 3.6 in conference games once the brutal non-conference slate is excluded. Its verdict is that this is not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Kent State lost 62-14 to Texas Tech, 66-10 to Florida State, and 44-0 to Oklahoma, getting outgained by over 1,000 yards combined. *(p. 228)*
-- The Dru in question is Dru DeShields, who basically came out of nowhere last season to post an 18/3 TD/INT ratio with just over 2,000 passing yards. *(p. 229)*
-- So, that’s one concern and a massive one at that. *(p. 229)*
-- It’s also entirely possible that the offensive line is better, despite some lost starters. *(p. 229)*
-- That group only helped the team to 2.9 yards per carry and if we even eliminate the brutal non-conference schedule, the Flashes had just 3.6 YPC in conference games. *(p. 229)*
-- The low point of the season was probably a 42-6 loss to Kent State, a team that hadn’t beaten a FBS opponent since the end of 2022. *(p. 230)*
+- The second is that full-season statistics would be disingenuous, because Kent State lost 62-14 to Texas Tech, 66-10 to Florida State and 44-0 to Oklahoma, being out-gained by over 1,000 yards across those three games. *(p. 228)*
+- Dru DeShields came basically out of nowhere to post an 18/3 touchdown-to-interception ratio with just over 2,000 passing yards. The guide's causal note is health — the redshirt freshman finally kept his ACL intact — and the payoff was Kent State topping 20 PPG for the first time since 2022. It is careful not to overstate the numbers, saying the yardage totals still were not eye-popping even in conference play, and locating the gain instead in taking care of the football and protecting the quarterback. It adds a degree-of-difficulty note: this came after top receivers Chrishon McCray and Luke Floriea moved on, having combined for 84 of the team's 139 receptions the previous year. *(p. 229)*
+- The guide's first point is a dependency it calls massive: DeShields staying healthy is vital because there is absolutely no FBS experience behind him. Beyond that, the top four rushers are gone along with the top two receivers by yardage, leaving Wayne Harris — 35 receptions for only 383 yards — as the leading returnee. The receiver room took in few new faces while virtually the entire running back room is new. On the line it allows the group may be better despite lost starters, since it helped produce only 2.9 yards per carry overall and 3.6 in conference games once the brutal non-conference slate is excluded. Its verdict is that this is not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 229)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 229)*. Its analysis, in reference form:
 
 ### What does Dru have in store for Year 2?
 
-The Dru in question is Dru DeShields, who basically came out of nowhere last season to post an 18/3 TD/INT ratio with just over 2,000 passing yards. The redshirt freshman finally kept his ACL intact and it paid huge dividends for the Kent State offense, as they put up over 20 PPG for the first time since 2022. While the yardage totals still weren’t eye-popping, even in conference play, taking care of the football and protecting the quarterback really made a difference. It was also an impressive season given that top WRs Chrishon McCray and Luke Floriea had moved on, as they combined for 84 of the team’s 139 receptions the previous year.
+Dru DeShields came basically out of nowhere to post an 18/3 touchdown-to-interception ratio with just over 2,000 passing yards. The guide's causal note is health — the redshirt freshman finally kept his ACL intact — and the payoff was Kent State topping 20 PPG for the first time since 2022. It is careful not to overstate the numbers, saying the yardage totals still were not eye-popping even in conference play, and locating the gain instead in taking care of the football and protecting the quarterback. It adds a degree-of-difficulty note: this came after top receivers Chrishon McCray and Luke Floriea moved on, having combined for 84 of the team's 139 receptions the previous year. *(p. 229)*
 
 ### What about the rest of the offense?
 
-Here’s the thing - DeShields staying healthy is vital because there is absolutely no FBS experience behind him. So, that’s one concern and a massive one at that. The team’s top four rushers from last season are all gone and so are the top two receivers by yardage. Wayne Harris led the team with 35 receptions, but only had 383 yards. While the wide receiver room didn’t invite a lot of new faces to the party, virtually the entire running back room is new. It’s also entirely possible that the offensive line is better, despite some lost starters. That group only helped the team to 2.9 yards per carry and if we even eliminate the brutal non-conference schedule, the Flashes had just 3.6 YPC in conference games. That’s not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help.
+The guide's first point is a dependency it calls massive: DeShields staying healthy is vital because there is absolutely no FBS experience behind him. Beyond that, the top four rushers are gone along with the top two receivers by yardage, leaving Wayne Harris — 35 receptions for only 383 yards — as the leading returnee. The receiver room took in few new faces while virtually the entire running back room is new. On the line it allows the group may be better despite lost starters, since it helped produce only 2.9 yards per carry overall and 3.6 in conference games once the brutal non-conference slate is excluded. Its verdict is that this is not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
 
 ### Will the “Sophomores and Seniors” defense work?
 
-There is a fascinating dynamic on Cherokee Valeria’s defense, as there are portal players that are seniors and some homegrown talent that will play big roles as sophomores. Many of the portal guys are second-year players in the scheme, so we may see more explosive plays out of them. The team’s -3 sack differential last season was better than the -25 and -29 of the last two seasons, but more turnovers need to come. DeShields only had three interceptions as the primary QB and the Flashes were still negative in TO margin for the season. Like last season, they’ll be under duress in the non-conference with South Carolina, Ohio State, and USF, but should be competitive in conference games again.
+The guide describes a fascinating age split on Cherokee Valeria's defense: portal players who are seniors alongside homegrown talent playing big roles as sophomores. It expects more explosive plays from the transfers because many are now second-year players in the scheme. On the trend line it notes a -3 sack differential, much better than -25 and -29 in the previous two seasons, while insisting more turnovers must follow — DeShields threw only three interceptions as the primary quarterback and Kent State was still negative in turnover margin. Its projection for the season shape mirrors last year: under duress in non-conference against South Carolina, Ohio State and USF, but competitive again in conference games. *(p. 229)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

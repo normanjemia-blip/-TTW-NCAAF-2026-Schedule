@@ -24,9 +24,20 @@
 | **Makinen projected wins** | 6.0–6.0 overall, 4.4–3.6 in conference |
 | **Schedule strength** | 31.43 (#113 toughest of 138) |
 
-### Season outlook as written in the guide (p. 224)
+### Season outlook — VSiN's analysis in reference form (p. 224)
 
-Are you a quarterback who would rather run the ball than throw it? You might want to consider going to Central Michigan while Matt Drinkall is still there. The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. Drinkall’s offense only averaged 3.9 yards per carry, which is not at all what you’d expect given his history with the Black Knights, but turning a team into a group capable of running that sort of offense takes time. It’s also not very easy to find players who come from that scheme or can pick up that scheme, given how spread offenses and more of the “run and gun” style are en vogue these days. Also, Jim McElwain was not running a power offense, so any of the holdovers were going to take some time to whip into shape, while also trying to win games with what the team was capable of executing. After a successful first season, Drinkall now pivots to doing what he originally wanted to do and that could be a good thing or a bad thing. Over 6.5 Per Brian Fremeau of BCF Toys, there wasn’t a single MAC team in the top 50 in Offensive Points Per Drive. We do have to take into account how some of the paycheck games against P4 teams skew the numbers, but a lot of MAC teams also mix in a FCS team or two. If Central Michigan can achieve this ground-and-pound, uber- methodical offensive attack and limit the available possessions in games, they should have a ton of success in this conference because the offenses by and large stink. Even with defensive concerns, that unit shouldn’t be asked to do a ton. The conference schedule is a bit tougher for the Chips, but they host Sac State and only play three true conference road games, with one against lowly Ball State. My projection is 6.14 wins.
+- The guide's framing device is a recruiting pitch: a quarterback who would rather run than throw should consider Central Michigan while Matt Drinkall is still there. *(p. 224)*
+- It credits the former Army offensive line coach with a 7-6 first season, describing the achievement as ramming square pegs through round holes. *(p. 224)*
+- The evidence that the scheme is not yet installed is that the offense averaged only 3.9 yards per carry — not what his Army history would suggest — and it argues turning a roster into one capable of running that offense takes time. *(p. 224)*
+- It explains why the personnel are hard to find: spread offenses and run-and-gun styles are in vogue, so few players come from that scheme or pick it up quickly. *(p. 224)*
+- It adds the inherited-roster problem — Jim McElwain was not running a power offense, so holdovers needed time to be reshaped while the staff also tried to win with what the team could actually execute. *(p. 224)*
+- Its statement of the stakes is neutral: after a successful first season, Drinkall now pivots to what he originally wanted to do, and that could be a good thing or a bad thing. *(p. 224)*
+- Recommendation is Over 6.5 wins. *(p. 224)*
+- Its conference-wide evidence comes from Brian Fremeau at BCF Toys: not a single MAC team ranked in the top 50 in Offensive Points Per Drive. It qualifies this itself, noting paycheck games against Power Four teams skew the numbers while many MAC teams also mix in an FCS opponent or two. *(p. 224)*
+- The strategic argument follows from that: if Central Michigan can run a ground-and-pound, uber-methodical attack and limit available possessions, it should have a great deal of success in a conference whose offenses by and large stink — and even with defensive concerns, that unit should not be asked to do much. *(p. 224)*
+- On the schedule it notes the conference draw is a bit tougher, but the Chippewas host Sacramento State and play only three true conference road games, one at lowly Ball State. Projection is 6.14 wins. *(p. 224)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,7 +89,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. *(p. 224)*
+- The guide's framing device is a recruiting pitch: a quarterback who would rather run than throw should consider Central Michigan while Matt Drinkall is still there. *(p. 224)*
+- It credits the former Army offensive line coach with a 7-6 first season, describing the achievement as ramming square pegs through round holes. *(p. 224)*
+- It adds the inherited-roster problem — Jim McElwain was not running a power offense, so holdovers needed time to be reshaped while the staff also tried to win with what the team could actually execute. *(p. 224)*
+- Its statement of the stakes is neutral: after a successful first season, Drinkall now pivots to what he originally wanted to do, and that could be a good thing or a bad thing. *(p. 224)*
+- **How close is Drinkall to running the offense the way he wants?** The guide calls this probably the biggest question, then lays out the split backfield: Joe Labas completed 70.6% with a 13/6 touchdown-to-interception ratio while Flores was the running quarterback with 107 carries against just 28 pass attempts. Brock Townsend averaged over five yards per carry for the Chippewas and Vaughn Blue did the same at Liberty. It treats receiver buy-in as the hard part of such a playbook, and reads leading receiver Langston Lewis staying as meaningful evidence. On the line it turns an apparent weakness into intent: the group is slightly undersized by design, because the linemen must pull and get out ahead of plays to run this scheme optimally. Its verdict is that they are very, very close. *(p. 225)*
 
 ## 9. Quarterback Situation
 
@@ -86,9 +101,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 224)*.
 
-- Are you a quarterback who would rather run the ball than throw it? *(p. 224)*
-- Drinkall is looking to run a lot of 21 personnel, as he has a mobile QB in Angel Flores, who was the team’s second- leading rusher and top touchdown-getter last season. *(p. 225)*
-- That’s the biggest question, probably, as Joe Labas completed 70.6% of his passes last season with a 13/6 TD/INT ratio while Flores was the running QB with 107 rush attempts against just 28 pass attempts. *(p. 225)*
+- The guide's framing device is a recruiting pitch: a quarterback who would rather run than throw should consider Central Michigan while Matt Drinkall is still there. *(p. 224)*
+- **Will this work in the MAC?** The guide's answer starts from a blunt assessment of the league: objectively the MAC is not a good conference, where humming offenses come at the expense of defenses and defensive prioritisation produces poor per-play and per-game numbers. It observes the MAC is not traditionally viewed as physical, despite many schools sitting in or near recruiting hotbeds for linemen on both sides. Against that backdrop it describes Drinkall's plan — heavy 21 personnel with mobile quarterback Angel Flores, the team's second-leading rusher and top touchdown-scorer last season — supported by many returning linemen and some portal additions. Its conclusion is that in a conference this inefficient, shortening the game and limiting possessions may be extremely fruitful. *(p. 225)*
+- **How close is Drinkall to running the offense the way he wants?** The guide calls this probably the biggest question, then lays out the split backfield: Joe Labas completed 70.6% with a 13/6 touchdown-to-interception ratio while Flores was the running quarterback with 107 carries against just 28 pass attempts. Brock Townsend averaged over five yards per carry for the Chippewas and Vaughn Blue did the same at Liberty. It treats receiver buy-in as the hard part of such a playbook, and reads leading receiver Langston Lewis staying as meaningful evidence. On the line it turns an apparent weakness into intent: the group is slightly undersized by design, because the linemen must pull and get out ahead of plays to run this scheme optimally. Its verdict is that they are very, very close. *(p. 225)*
 
 ## 10. Returning Production
 
@@ -104,43 +119,30 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 ## 11. Transfer Portal
 
-- With a lot of returning linemen and some transfer portal acquisitions, Central Michigan is going to play a run-heavy, ball-control style of offense. *(p. 225)*
+- It explains why the personnel are hard to find: spread offenses and run-and-gun styles are in vogue, so few players come from that scheme or pick it up quickly. *(p. 224)*
+- **Is the defense a bigger worry than the offense?** The guide points out the offense managed only 22.5 PPG and was greatly assisted by a defense allowing just 23.5 PPG, and only 18 PPG in conference play. The losses on that side it calls extremely heavy: Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss, and leading sack man Michael Heidman had 10.5 of the team's 28 sacks. Jaion Jackson, probably the second-best corner, is one of only two returning starters. Its balanced conclusion is that this style of offense limits a defense's exposure, but the group definitely looks to be a major worry. *(p. 225)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The program heads into 2026 with the lowest-ranked transfer portal class in the conference per 247Sports, but also tied with in-state rival Central Michigan for the largest freshman class. *(p. 226)*
+Referenced in the guide on **pp. 226** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- The MAC isn’t traditionally viewed as a physical conference, even though a lot of schools are located in or near recruiting hotbeds for linemen talent on both sides of the ball. *(p. 225)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The program heads into 2026 with the lowest-ranked transfer portal class in the conference per 247Sports, but also tied with in-state rival Central Michigan for the largest freshman class. *(p. 226)*
+Referenced in the guide on **pp. 225, 226** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. *(p. 224)*
-- Drinkall’s offense only averaged 3.9 yards per carry, which is not at all what you’d expect given his history with the Black Knights, but turning a team into a group capable of running that sort of offense takes time. *(p. 224)*
-- It’s also not very easy to find players who come from that scheme or can pick up that scheme, given how spread offenses and more of the “run and gun” style are en vogue these days. *(p. 224)*
-- Also, Jim McElwain was not running a power offense, so any of the holdovers were going to take some time to whip into shape, while also trying to win games with what the team was capable of executing. *(p. 224)*
-- Over 6.5 Per Brian Fremeau of BCF Toys, there wasn’t a single MAC team in the top 50 in Offensive Points Per Drive. *(p. 224)*
-- If Central Michigan can achieve this ground-and-pound, uber- methodical offensive attack and limit the available possessions in games, they should have a ton of success in this conference because the offenses by and large stink. *(p. 224)*
-- When offenses are humming, defenses are suffering. *(p. 225)*
-- When teams prioritize defense to slow down the opposing offense, we see a lot of poor per-play and per-game numbers from those units. *(p. 225)*
-- With a lot of returning linemen and some transfer portal acquisitions, Central Michigan is going to play a run-heavy, ball-control style of offense. *(p. 225)*
-- It is not easy to get wide receivers to buy in with this kind of playbook, but leading receiver Langston Lewis stuck around and that says a lot to me. *(p. 225)*
-- Last season, the offense only had 22.5 PPG, but they were assisted greatly by a defense that allowed just 23.5 PPG, including just 18 PPG in conference play. *(p. 225)*
-- This style of offense limits exposure for a defense, but this group definitely looks to be a major worry. *(p. 225)*
+- The evidence that the scheme is not yet installed is that the offense averaged only 3.9 yards per carry — not what his Army history would suggest — and it argues turning a roster into one capable of running that offense takes time. *(p. 224)*
+- It explains why the personnel are hard to find: spread offenses and run-and-gun styles are in vogue, so few players come from that scheme or pick it up quickly. *(p. 224)*
+- It adds the inherited-roster problem — Jim McElwain was not running a power offense, so holdovers needed time to be reshaped while the staff also tried to win with what the team could actually execute. *(p. 224)*
+- Its conference-wide evidence comes from Brian Fremeau at BCF Toys: not a single MAC team ranked in the top 50 in Offensive Points Per Drive. It qualifies this itself, noting paycheck games against Power Four teams skew the numbers while many MAC teams also mix in an FCS opponent or two. *(p. 224)*
+- The strategic argument follows from that: if Central Michigan can run a ground-and-pound, uber-methodical attack and limit available possessions, it should have a great deal of success in a conference whose offenses by and large stink — and even with defensive concerns, that unit should not be asked to do much. *(p. 224)*
+- **Will this work in the MAC?** The guide's answer starts from a blunt assessment of the league: objectively the MAC is not a good conference, where humming offenses come at the expense of defenses and defensive prioritisation produces poor per-play and per-game numbers. It observes the MAC is not traditionally viewed as physical, despite many schools sitting in or near recruiting hotbeds for linemen on both sides. Against that backdrop it describes Drinkall's plan — heavy 21 personnel with mobile quarterback Angel Flores, the team's second-leading rusher and top touchdown-scorer last season — supported by many returning linemen and some portal additions. Its conclusion is that in a conference this inefficient, shortening the game and limiting possessions may be extremely fruitful. *(p. 225)*
+- **How close is Drinkall to running the offense the way he wants?** The guide calls this probably the biggest question, then lays out the split backfield: Joe Labas completed 70.6% with a 13/6 touchdown-to-interception ratio while Flores was the running quarterback with 107 carries against just 28 pass attempts. Brock Townsend averaged over five yards per carry for the Chippewas and Vaughn Blue did the same at Liberty. It treats receiver buy-in as the hard part of such a playbook, and reads leading receiver Langston Lewis staying as meaningful evidence. On the line it turns an apparent weakness into intent: the group is slightly undersized by design, because the linemen must pull and get out ahead of plays to run this scheme optimally. Its verdict is that they are very, very close. *(p. 225)*
 
 ## 14. Defensive Identity
 
-- Even with defensive concerns, that unit shouldn’t be asked to do a ton. *(p. 224)*
-- When offenses are humming, defenses are suffering. *(p. 225)*
-- When teams prioritize defense to slow down the opposing offense, we see a lot of poor per-play and per-game numbers from those units. *(p. 225)*
-- Last season, the offense only had 22.5 PPG, but they were assisted greatly by a defense that allowed just 23.5 PPG, including just 18 PPG in conference play. *(p. 225)*
-- Leading sack man Michael Heidman had 10.5 of the team’s 28 sacks. *(p. 225)*
-- This style of offense limits exposure for a defense, but this group definitely looks to be a major worry. *(p. 225)*
+- The strategic argument follows from that: if Central Michigan can run a ground-and-pound, uber-methodical attack and limit available possessions, it should have a great deal of success in a conference whose offenses by and large stink — and even with defensive concerns, that unit should not be asked to do much. *(p. 224)*
+- **Is the defense a bigger worry than the offense?** The guide points out the offense managed only 22.5 PPG and was greatly assisted by a defense allowing just 23.5 PPG, and only 18 PPG in conference play. The losses on that side it calls extremely heavy: Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss, and leading sack man Michael Heidman had 10.5 of the team's 28 sacks. Jaion Jackson, probably the second-best corner, is one of only two returning starters. Its balanced conclusion is that this style of offense limits a defense's exposure, but the group definitely looks to be a major worry. *(p. 225)*
 
 ## 15. Key Strengths
 
@@ -210,13 +212,13 @@ Prices printed on the team page *(p. 225)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Over 6.5 wins. *(p. 224)*
+- The strategic argument follows from that: if Central Michigan can run a ground-and-pound, uber-methodical attack and limit available possessions, it should have a great deal of success in a conference whose offenses by and large stink — and even with defensive concerns, that unit should not be asked to do much. *(p. 224)*
+- On the schedule it notes the conference draw is a bit tougher, but the Chippewas host Sacramento State and play only three true conference road games, one at lowly Ball State. Projection is 6.14 wins. *(p. 224)*
 
 ## 22. Historical / Situational Trends
 
-- Drinkall is looking to run a lot of 21 personnel, as he has a mobile QB in Angel Flores, who was the team’s second- leading rusher and top touchdown-getter last season. *(p. 225)*
-- That’s the biggest question, probably, as Joe Labas completed 70.6% of his passes last season with a 13/6 TD/INT ratio while Flores was the running QB with 107 rush attempts against just 28 pass attempts. *(p. 225)*
-- Last season, the offense only had 22.5 PPG, but they were assisted greatly by a defense that allowed just 23.5 PPG, including just 18 PPG in conference play. *(p. 225)*
+- It credits the former Army offensive line coach with a 7-6 first season, describing the achievement as ramming square pegs through round holes. *(p. 224)*
 
 ## 23. Important Statistics
 
@@ -262,42 +264,40 @@ As printed on p. 225. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 6.5**.
-- The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. *(p. 224)*
-- After a successful first season, Drinkall now pivots to doing what he originally wanted to do and that could be a good thing or a bad thing. *(p. 224)*
-- If Central Michigan can achieve this ground-and-pound, uber- methodical offensive attack and limit the available possessions in games, they should have a ton of success in this conference because the offenses by and large stink. *(p. 224)*
-- Objectively, the MAC is not a good conference. *(p. 225)*
-- While Jaion Jackson was probably the team’s second-best corner, he’s one of just two returning starters. *(p. 225)*
-- The no-show against Central Michigan the week after the Toledo game was also a good teaching moment for everybody. *(p. 221)*
+- It credits the former Army offensive line coach with a 7-6 first season, describing the achievement as ramming square pegs through round holes. *(p. 224)*
+- Its statement of the stakes is neutral: after a successful first season, Drinkall now pivots to what he originally wanted to do, and that could be a good thing or a bad thing. *(p. 224)*
+- The strategic argument follows from that: if Central Michigan can run a ground-and-pound, uber-methodical attack and limit available possessions, it should have a great deal of success in a conference whose offenses by and large stink — and even with defensive concerns, that unit should not be asked to do much. *(p. 224)*
+- The guide's answer starts from a blunt assessment of the league: objectively the MAC is not a good conference, where humming offenses come at the expense of defenses and defensive prioritisation produces poor per-play and per-game numbers. It observes the MAC is not traditionally viewed as physical, despite many schools sitting in or near recruiting hotbeds for linemen on both sides. Against that backdrop it describes Drinkall's plan — heavy 21 personnel with mobile quarterback Angel Flores, the team's second-leading rusher and top touchdown-scorer last season — supported by many returning linemen and some portal additions. Its conclusion is that in a conference this inefficient, shortening the game and limiting possessions may be extremely fruitful. *(p. 225)*
+- The guide points out the offense managed only 22.5 PPG and was greatly assisted by a defense allowing just 23.5 PPG, and only 18 PPG in conference play. The losses on that side it calls extremely heavy: Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss, and leading sack man Michael Heidman had 10.5 of the team's 28 sacks. Jaion Jackson, probably the second-best corner, is one of only two returning starters. Its balanced conclusion is that this style of offense limits a defense's exposure, but the group definitely looks to be a major worry. *(p. 225)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **6.0 wins** against a posted total of 6.5 — **-0.5** against this team.
-- Even with defensive concerns, that unit shouldn’t be asked to do a ton. *(p. 224)*
-- That’s the biggest question, probably, as Joe Labas completed 70.6% of his passes last season with a 13/6 TD/INT ratio while Flores was the running QB with 107 rush attempts against just 28 pass attempts. *(p. 225)*
-- However, the losses are extremely heavy on that side of the ball. *(p. 225)*
-- Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss. *(p. 225)*
-- This style of offense limits exposure for a defense, but this group definitely looks to be a major worry. *(p. 225)*
+- The strategic argument follows from that: if Central Michigan can run a ground-and-pound, uber-methodical attack and limit available possessions, it should have a great deal of success in a conference whose offenses by and large stink — and even with defensive concerns, that unit should not be asked to do much. *(p. 224)*
+- The guide calls this probably the biggest question, then lays out the split backfield: Joe Labas completed 70.6% with a 13/6 touchdown-to-interception ratio while Flores was the running quarterback with 107 carries against just 28 pass attempts. Brock Townsend averaged over five yards per carry for the Chippewas and Vaughn Blue did the same at Liberty. It treats receiver buy-in as the hard part of such a playbook, and reads leading receiver Langston Lewis staying as meaningful evidence. On the line it turns an apparent weakness into intent: the group is slightly undersized by design, because the linemen must pull and get out ahead of plays to run this scheme optimally. Its verdict is that they are very, very close. *(p. 225)*
+- The guide points out the offense managed only 22.5 PPG and was greatly assisted by a defense allowing just 23.5 PPG, and only 18 PPG in conference play. The losses on that side it calls extremely heavy: Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss, and leading sack man Michael Heidman had 10.5 of the team's 28 sacks. Jaion Jackson, probably the second-best corner, is one of only two returning starters. Its balanced conclusion is that this style of offense limits a defense's exposure, but the group definitely looks to be a major worry. *(p. 225)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 225)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 225)*. Its analysis, in reference form:
 
 ### Will this work in the MAC?
 
-Objectively, the MAC is not a good conference. When offenses are humming, defenses are suffering. When teams prioritize defense to slow down the opposing offense, we see a lot of poor per-play and per-game numbers from those units. The MAC isn’t traditionally viewed as a physical conference, even though a lot of schools are located in or near recruiting hotbeds for linemen talent on both sides of the ball. Drinkall is looking to run a lot of 21 personnel, as he has a mobile QB in Angel Flores, who was the team’s second- leading rusher and top touchdown-getter last season. With a lot of returning linemen and some transfer portal acquisitions, Central Michigan is going to play a run-heavy, ball-control style of offense. Given the inefficiency most teams in this conference display, shortening the game and limiting possessions may be extremely fruitful.
+The guide's answer starts from a blunt assessment of the league: objectively the MAC is not a good conference, where humming offenses come at the expense of defenses and defensive prioritisation produces poor per-play and per-game numbers. It observes the MAC is not traditionally viewed as physical, despite many schools sitting in or near recruiting hotbeds for linemen on both sides. Against that backdrop it describes Drinkall's plan — heavy 21 personnel with mobile quarterback Angel Flores, the team's second-leading rusher and top touchdown-scorer last season — supported by many returning linemen and some portal additions. Its conclusion is that in a conference this inefficient, shortening the game and limiting possessions may be extremely fruitful. *(p. 225)*
 
 ### How close is Drinkall to running the offense the way he wants?
 
-That’s the biggest question, probably, as Joe Labas completed 70.6% of his passes last season with a 13/6 TD/INT ratio while Flores was the running QB with 107 rush attempts against just 28 pass attempts. Brock Townsend had over five yards per carry for the Chippewas, while Vaughn Blue had over five yards per carry for Liberty. It is not easy to get wide receivers to buy in with this kind of playbook, but leading receiver Langston Lewis stuck around and that says a lot to me. While this is a slightly undersized line compared to most, that’s by design, as the linemen need to be pulling and getting out ahead of the play to optimally run this scheme. They are very, very close.
+The guide calls this probably the biggest question, then lays out the split backfield: Joe Labas completed 70.6% with a 13/6 touchdown-to-interception ratio while Flores was the running quarterback with 107 carries against just 28 pass attempts. Brock Townsend averaged over five yards per carry for the Chippewas and Vaughn Blue did the same at Liberty. It treats receiver buy-in as the hard part of such a playbook, and reads leading receiver Langston Lewis staying as meaningful evidence. On the line it turns an apparent weakness into intent: the group is slightly undersized by design, because the linemen must pull and get out ahead of plays to run this scheme optimally. Its verdict is that they are very, very close. *(p. 225)*
 
 ### Is the defense a bigger worry than the offense?
 
-Last season, the offense only had 22.5 PPG, but they were assisted greatly by a defense that allowed just 23.5 PPG, including just 18 PPG in conference play. However, the losses are extremely heavy on that side of the ball. Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss. Leading sack man Michael Heidman had 10.5 of the team’s 28 sacks. While Jaion Jackson was probably the team’s second-best corner, he’s one of just two returning starters. This style of offense limits exposure for a defense, but this group definitely looks to be a major worry.
+The guide points out the offense managed only 22.5 PPG and was greatly assisted by a defense allowing just 23.5 PPG, and only 18 PPG in conference play. The losses on that side it calls extremely heavy: Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss, and leading sack man Michael Heidman had 10.5 of the team's 28 sacks. Jaion Jackson, probably the second-best corner, is one of only two returning starters. Its balanced conclusion is that this style of offense limits a defense's exposure, but the group definitely looks to be a major worry. *(p. 225)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

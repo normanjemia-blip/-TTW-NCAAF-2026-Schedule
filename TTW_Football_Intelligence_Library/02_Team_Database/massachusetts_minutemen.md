@@ -24,9 +24,20 @@
 | **Makinen projected wins** | 3.4–8.6 overall, 1.6–6.4 in conference |
 | **Schedule strength** | 26.21 (#138 toughest of 138) |
 
-### Season outlook as written in the guide (p. 230)
+### Season outlook — VSiN's analysis in reference form (p. 230)
 
-The Minutemen really put the “ass” in UMass last season, as they were 0-12 and scored just 11.1 PPG. It was the first year for head coach Joe Harasymiak and one to forget to say the least. This wasn’t a byproduct of getting super unlucky in the turnover department or anything like that either. This was a truly terrible team that got outgained at home by Bryant and lost all eight conference games by an average score of 38-11. The low point of the season was probably a 42-6 loss to Kent State, a team that hadn’t beaten a FBS opponent since the end of 2022. Now it’s UMass who hasn’t beaten a FBS team in a while, as their last win was against Army back on October 8, 2023, a game in which Kay’Ron Lynch-Adams ran for 234 yards. The Minutemen rushed for a total of 989 yards last season over 12 games. Since their last FBS win, the Minutemen have beaten Merrimack, Central Connecticut State, and Wagner. They’ll get two FCS teams - Sacred Heart and Stonehill - this season, so 0-12 looks unlikely, but I guess you never really know. Over 2.5 The betting market seems to be confident in three wins coming from the group of Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State, and Akron and I can’t blame them. This team is absolutely better on paper and the schedule is absolutely friendlier. That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. My projection is 2.77 wins.
+- The guide's summary of last season is unsparing: 0-12 with just 11.1 PPG, a first year for head coach Joe Harasymiak to forget. *(p. 230)*
+- It forecloses the excuse before it can be made — this was not a byproduct of bad turnover luck. *(p. 230)*
+- Its evidence is that UMass was out-gained at home by Bryant and lost all eight conference games by an average score of 38-11. *(p. 230)*
+- The low point it identifies is a 42-6 loss to Kent State, a team that had not beaten an FBS opponent since the end of 2022. *(p. 230)*
+- It then applies the same measure to UMass: the last FBS win came against Army on October 8, 2023, in a game where Kay'Ron Lynch-Adams ran for 234 yards — against which it sets the fact that the Minutemen rushed for 989 yards total across 12 games last season. *(p. 230)*
+- Since that win the victories have been over Merrimack, Central Connecticut State and Wagner. *(p. 230)*
+- With two FCS opponents this season — Sacred Heart and Stonehill — it judges another 0-12 unlikely, while allowing that one never really knows. *(p. 230)*
+- Recommendation is Over 2.5 wins. *(p. 230)*
+- It reads the market as confident in three wins coming from Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State and Akron, and says it cannot blame them: this team is absolutely better on paper and the schedule is absolutely friendlier. *(p. 230)*
+- Its stated hesitation is that it does not even know whether Harasymiak is a good coach. The supporting detail for the position is that this is Stonehill's first game against an FBS team, and that Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023 — enough to put the Minutemen one win from cashing. Projection is 2.77 wins. *(p. 230)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,13 +91,10 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- It was the first year for head coach Joe Harasymiak and one to forget to say the least. *(p. 230)*
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
-- It is also Year 2 for Harasymiak and his assistants, although OC Mike Bajakian won’t be along for the ride, as he’s the new QB coach of the Cleveland Browns (I swear, the jokes write themselves with that organization). *(p. 231)*
-- New OC Max Warner, who was an offensive assistant at Toledo, seems like an upgrade. *(p. 231)*
-- Injuries played a part, but Harasymiak and his staff were just trying to find dudes that could ball pretty much all season long. *(p. 231)*
-- There are quite a few P4 transfers on the roster now between this portal cycle and the coaching staff’s first one. *(p. 231)*
-- Ironically, Rutgers was one of the teams with fewer sacks than UMass and that’s where Harasymiak and his DC Jared Keyte came from. *(p. 231)*
+- The guide's summary of last season is unsparing: 0-12 with just 11.1 PPG, a first year for head coach Joe Harasymiak to forget. *(p. 230)*
+- Its stated hesitation is that it does not even know whether Harasymiak is a good coach. The supporting detail for the position is that this is Stonehill's first game against an FBS team, and that Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023 — enough to put the Minutemen one win from cashing. Projection is 2.77 wins. *(p. 230)*
+- **Will UMass win a game?!** The guide takes the hardest question first and answers yes. Sacred Heart and Stonehill are the obvious options, but it adds home games against Ball State and Eastern Michigan, two teams not on last season's schedule, either or both of which it thinks could be beatable. It notes this is Year 2 for Harasymiak and his assistants, minus offensive coordinator Mike Bajakian, who left to be the Cleveland Browns' quarterbacks coach. Its judgement on that departure is unsentimental: with a UMass offense at 3.9 yards per play and an 8/9 touchdown-to-interception ratio from the quarterbacks, Bajakian is not really a big loss, and new coordinator Max Warner, previously an offensive assistant at Toledo, seems like an upgrade. *(p. 231)*
+- **Will anybody get to the quarterback?** The guide identifies the absence of negative plays as an enormous problem: 13 sacks, more than five yards per carry allowed including 5.1 in conference play, and fewer tackles for loss than everyone except Air Force and UCLA. It then raises the possibility that the scheme itself is the cause, noting the irony that Rutgers — where Harasymiak and coordinator Jared Keyte came from — was among the teams with fewer sacks than UMass. On personnel it lists Jackson State transfer Joshua Nobles, who had 10 sacks before transferring in but was hurt before the season started, edge William DePaepe from Indiana and linebacker Michael Robinson from Rutgers, judging the group decidedly more talented. *(p. 231)*
 
 ## 9. Quarterback Situation
 
@@ -94,9 +102,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 230)*.
 
-- It is also Year 2 for Harasymiak and his assistants, although OC Mike Bajakian won’t be along for the ride, as he’s the new QB coach of the Cleveland Browns (I swear, the jokes write themselves with that organization). *(p. 231)*
-- One of them is Pop Watson, who may start at QB. *(p. 231)*
-- He’s never really gotten a crack to start, but was a three-star recruit and the MaxPreps HS QB of the Year in Massachusetts back in 2021, so it’s a homecoming for him and he headlines a much better QB room. *(p. 231)*
+- **Can UMass right the wrongs of last season?** The guide diagnoses last season through churn: three different quarterbacks started; six different players, including two quarterbacks, had at least 40 rushing attempts; Jacquon Gibson had 63 catches while nobody else had more than 27; and 15 players recorded at least 20 tackles. Injuries played a part, but its reading is that the staff spent essentially the whole season trying to find players who could contribute. It now counts quite a few Power Four transfers across this portal cycle and the staff's first, singling out Pop Watson as a possible starter at quarterback — never really given a chance to start, but a three-star recruit and the MaxPreps High School Quarterback of the Year in Massachusetts in 2021, making this a homecoming, and heading what it calls a much better room. *(p. 231)*
 
 ## 10. Returning Production
 
@@ -112,31 +118,24 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- There are quite a few P4 transfers on the roster now between this portal cycle and the coaching staff’s first one. *(p. 231)*
-- Jackson State transfer Joshua Nobles had 10 sacks before transferring in, but got hurt before the season started. *(p. 231)*
+- **Can UMass right the wrongs of last season?** The guide diagnoses last season through churn: three different quarterbacks started; six different players, including two quarterbacks, had at least 40 rushing attempts; Jacquon Gibson had 63 catches while nobody else had more than 27; and 15 players recorded at least 20 tackles. Injuries played a part, but its reading is that the staff spent essentially the whole season trying to find players who could contribute. It now counts quite a few Power Four transfers across this portal cycle and the staff's first, singling out Pop Watson as a possible starter at quarterback — never really given a chance to start, but a three-star recruit and the MaxPreps High School Quarterback of the Year in Massachusetts in 2021, making this a homecoming, and heading what it calls a much better room. *(p. 231)*
+- **Will anybody get to the quarterback?** The guide identifies the absence of negative plays as an enormous problem: 13 sacks, more than five yards per carry allowed including 5.1 in conference play, and fewer tackles for loss than everyone except Air Force and UCLA. It then raises the possibility that the scheme itself is the cause, noting the irony that Rutgers — where Harasymiak and coordinator Jared Keyte came from — was among the teams with fewer sacks than UMass. On personnel it lists Jackson State transfer Joshua Nobles, who had 10 sacks before transferring in but was hurt before the season started, edge William DePaepe from Indiana and linebacker Michael Robinson from Rutgers, judging the group decidedly more talented. *(p. 231)*
 
 ## 12. Recruiting / Roster Notes
 
-- He’s never really gotten a crack to start, but was a three-star recruit and the MaxPreps HS QB of the Year in Massachusetts back in 2021, so it’s a homecoming for him and he headlines a much better QB room. *(p. 231)*
+
+Referenced in the guide on **pp. 231** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
-- Given that the UMass offense had 3.9 yards per play and an 8/9 TD/INT ratio from the QBs, something tells me that Bajakian isn’t really a big loss. *(p. 231)*
-- New OC Max Warner, who was an offensive assistant at Toledo, seems like an upgrade. *(p. 231)*
-- Well, for starters, three different QBs started games and six different players, including two of the QBs, had at least 40 rushing attempts. *(p. 231)*
+- It then applies the same measure to UMass: the last FBS win came against Army on October 8, 2023, in a game where Kay'Ron Lynch-Adams ran for 234 yards — against which it sets the fact that the Minutemen rushed for 989 yards total across 12 games last season. *(p. 230)*
+- **Will UMass win a game?!** The guide takes the hardest question first and answers yes. Sacred Heart and Stonehill are the obvious options, but it adds home games against Ball State and Eastern Michigan, two teams not on last season's schedule, either or both of which it thinks could be beatable. It notes this is Year 2 for Harasymiak and his assistants, minus offensive coordinator Mike Bajakian, who left to be the Cleveland Browns' quarterbacks coach. Its judgement on that departure is unsentimental: with a UMass offense at 3.9 yards per play and an 8/9 touchdown-to-interception ratio from the quarterbacks, Bajakian is not really a big loss, and new coordinator Max Warner, previously an offensive assistant at Toledo, seems like an upgrade. *(p. 231)*
 
 ## 14. Defensive Identity
 
-- An absence of negative plays was an enormous issue for the UMass defense last season. *(p. 231)*
-- They only racked up 13 sacks and allowed more than five yards per carry, including 5.1 YPC in conference action. *(p. 231)*
-- Ironically, Rutgers was one of the teams with fewer sacks than UMass and that’s where Harasymiak and his DC Jared Keyte came from. *(p. 231)*
-- Jackson State transfer Joshua Nobles had 10 sacks before transferring in, but got hurt before the season started. *(p. 231)*
-- Linebacker Michael Robinson was at Rutgers. *(p. 231)*
+- **Will anybody get to the quarterback?** The guide identifies the absence of negative plays as an enormous problem: 13 sacks, more than five yards per carry allowed including 5.1 in conference play, and fewer tackles for loss than everyone except Air Force and UCLA. It then raises the possibility that the scheme itself is the cause, noting the irony that Rutgers — where Harasymiak and coordinator Jared Keyte came from — was among the teams with fewer sacks than UMass. On personnel it lists Jackson State transfer Joshua Nobles, who had 10 sacks before transferring in but was hurt before the season started, edge William DePaepe from Indiana and linebacker Michael Robinson from Rutgers, judging the group decidedly more talented. *(p. 231)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Simon’s safe, reliable throws didn’t produce a ton of yardage, and he only had 19 TD passes after throwing six in the first game against UMass, but he protected the ball and gave the undermanned defense a better chance than his predecessors. *(p. 69)*
+Referenced in the guide on **pp. 69** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -196,9 +195,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. *(p. 228)*
+Referenced in the guide on **pp. 228** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -220,29 +217,22 @@ Prices printed on the team page *(p. 231)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Over 2.5 The betting market seems to be confident in three wins coming from the group of Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State, and Akron and I can’t blame them. *(p. 230)*
+- Recommendation is Over 2.5 wins. *(p. 230)*
+- It reads the market as confident in three wins coming from Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State and Akron, and says it cannot blame them: this team is absolutely better on paper and the schedule is absolutely friendlier. *(p. 230)*
+- Its stated hesitation is that it does not even know whether Harasymiak is a good coach. The supporting detail for the position is that this is Stonehill's first game against an FBS team, and that Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023 — enough to put the Minutemen one win from cashing. Projection is 2.77 wins. *(p. 230)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. *(p. 222)*
+Also referenced on **pp. 222** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- The Minutemen really put the “ass” in UMass last season, as they were 0-12 and scored just 11.1 PPG. *(p. 230)*
-- The low point of the season was probably a 42-6 loss to Kent State, a team that hadn’t beaten a FBS opponent since the end of 2022. *(p. 230)*
-- The Minutemen rushed for a total of 989 yards last season over 12 games. *(p. 230)*
-- Since their last FBS win, the Minutemen have beaten Merrimack, Central Connecticut State, and Wagner. *(p. 230)*
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
-- Sacred Heart and Stonehill are two great options, but they also host Ball State and Eastern Michigan this season, two teams that they didn’t play last season, and I think either one could be beatable, if not both. *(p. 231)*
-- He’s never really gotten a crack to start, but was a three-star recruit and the MaxPreps HS QB of the Year in Massachusetts back in 2021, so it’s a homecoming for him and he headlines a much better QB room. *(p. 231)*
-- An absence of negative plays was an enormous issue for the UMass defense last season. *(p. 231)*
+- The guide's summary of last season is unsparing: 0-12 with just 11.1 PPG, a first year for head coach Joe Harasymiak to forget. *(p. 230)*
+- It forecloses the excuse before it can be made — this was not a byproduct of bad turnover luck. *(p. 230)*
+- Its evidence is that UMass was out-gained at home by Bryant and lost all eight conference games by an average score of 38-11. *(p. 230)*
+- The low point it identifies is a 42-6 loss to Kent State, a team that had not beaten an FBS opponent since the end of 2022. *(p. 230)*
+- It then applies the same measure to UMass: the last FBS win came against Army on October 8, 2023, in a game where Kay'Ron Lynch-Adams ran for 234 yards — against which it sets the fact that the Minutemen rushed for 989 yards total across 12 games last season. *(p. 230)*
+- Since that win the victories have been over Merrimack, Central Connecticut State and Wagner. *(p. 230)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, even with an easier slate last season, UMass went 0-12. *(p. 46)*
-- With UMass rejoining the MAC last season, the conference has 13 teams, with three in Michigan, one in New York, six in Ohio, one in Indiana, one in Massachusetts, and then one in California. *(p. 215)*
-- But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. *(p. 222)*
-- Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. *(p. 228)*
+Referenced in the guide on **pp. 46, 215, 222, 228** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -289,43 +279,39 @@ As printed on p. 231. Each category carries a value and a national rank.
 
 - Makinen projects **3.4 wins** against a posted total of 2.5 — **+0.9** in this team's favour.
 - The team page recommends **OVER 2.5**.
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
-- This group seems decidedly more talented. *(p. 231)*
-- Unfortunately for the Cardinals, two of their three most winnable conference games are road visits to Kent State and UMass. *(p. 218)*
-- While the Eagles do host Sacramento State in the Hornets’ first MAC game, they have to go to UMass and Akron, two of their more winnable conference contests. *(p. 226)*
-- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
-- Under 4.5 Mississippi Valley State and UMass look like the best (and maybe only) hopes for wins from the Hornets this season. *(p. 236)*
+- Its stated hesitation is that it does not even know whether Harasymiak is a good coach. The supporting detail for the position is that this is Stonehill's first game against an FBS team, and that Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023 — enough to put the Minutemen one win from cashing. Projection is 2.77 wins. *(p. 230)*
+- The guide identifies the absence of negative plays as an enormous problem: 13 sacks, more than five yards per carry allowed including 5.1 in conference play, and fewer tackles for loss than everyone except Air Force and UCLA. It then raises the possibility that the scheme itself is the cause, noting the irony that Rutgers — where Harasymiak and coordinator Jared Keyte came from — was among the teams with fewer sacks than UMass. On personnel it lists Jackson State transfer Joshua Nobles, who had 10 sacks before transferring in but was hurt before the season started, edge William DePaepe from Indiana and linebacker Michael Robinson from Rutgers, judging the group decidedly more talented. *(p. 231)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- This was a truly terrible team that got outgained at home by Bryant and lost all eight conference games by an average score of 38-11. *(p. 230)*
-- The low point of the season was probably a 42-6 loss to Kent State, a team that hadn’t beaten a FBS opponent since the end of 2022. *(p. 230)*
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
-- Let’s get the hardest question out of the way early. *(p. 231)*
-- Given that the UMass offense had 3.9 yards per play and an 8/9 TD/INT ratio from the QBs, something tells me that Bajakian isn’t really a big loss. *(p. 231)*
-- Injuries played a part, but Harasymiak and his staff were just trying to find dudes that could ball pretty much all season long. *(p. 231)*
-- Only Air Force and UCLA had fewer tackles for loss. *(p. 231)*
+- Its evidence is that UMass was out-gained at home by Bryant and lost all eight conference games by an average score of 38-11. *(p. 230)*
+- The low point it identifies is a 42-6 loss to Kent State, a team that had not beaten an FBS opponent since the end of 2022. *(p. 230)*
+- Its stated hesitation is that it does not even know whether Harasymiak is a good coach. The supporting detail for the position is that this is Stonehill's first game against an FBS team, and that Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023 — enough to put the Minutemen one win from cashing. Projection is 2.77 wins. *(p. 230)*
+- The guide takes the hardest question first and answers yes. Sacred Heart and Stonehill are the obvious options, but it adds home games against Ball State and Eastern Michigan, two teams not on last season's schedule, either or both of which it thinks could be beatable. It notes this is Year 2 for Harasymiak and his assistants, minus offensive coordinator Mike Bajakian, who left to be the Cleveland Browns' quarterbacks coach. Its judgement on that departure is unsentimental: with a UMass offense at 3.9 yards per play and an 8/9 touchdown-to-interception ratio from the quarterbacks, Bajakian is not really a big loss, and new coordinator Max Warner, previously an offensive assistant at Toledo, seems like an upgrade. *(p. 231)*
+- The guide diagnoses last season through churn: three different quarterbacks started; six different players, including two quarterbacks, had at least 40 rushing attempts; Jacquon Gibson had 63 catches while nobody else had more than 27; and 15 players recorded at least 20 tackles. Injuries played a part, but its reading is that the staff spent essentially the whole season trying to find players who could contribute. It now counts quite a few Power Four transfers across this portal cycle and the staff's first, singling out Pop Watson as a possible starter at quarterback — never really given a chance to start, but a three-star recruit and the MaxPreps High School Quarterback of the Year in Massachusetts in 2021, making this a homecoming, and heading what it calls a much better room. *(p. 231)*
+- The guide identifies the absence of negative plays as an enormous problem: 13 sacks, more than five yards per carry allowed including 5.1 in conference play, and fewer tackles for loss than everyone except Air Force and UCLA. It then raises the possibility that the scheme itself is the cause, noting the irony that Rutgers — where Harasymiak and coordinator Jared Keyte came from — was among the teams with fewer sacks than UMass. On personnel it lists Jackson State transfer Joshua Nobles, who had 10 sacks before transferring in but was hurt before the season started, edge William DePaepe from Indiana and linebacker Michael Robinson from Rutgers, judging the group decidedly more talented. *(p. 231)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 231)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 231)*. Its analysis, in reference form:
 
 ### Will UMass win a game?!
 
-Let’s get the hardest question out of the way early. I’m going to say yes. Sacred Heart and Stonehill are two great options, but they also host Ball State and Eastern Michigan this season, two teams that they didn’t play last season, and I think either one could be beatable, if not both. It is also Year 2 for Harasymiak and his assistants, although OC Mike Bajakian won’t be along for the ride, as he’s the new QB coach of the Cleveland Browns (I swear, the jokes write themselves with that organization). Given that the UMass offense had 3.9 yards per play and an 8/9 TD/INT ratio from the QBs, something tells me that Bajakian isn’t really a big loss. New OC Max Warner, who was an offensive assistant at Toledo, seems like an upgrade.
+The guide takes the hardest question first and answers yes. Sacred Heart and Stonehill are the obvious options, but it adds home games against Ball State and Eastern Michigan, two teams not on last season's schedule, either or both of which it thinks could be beatable. It notes this is Year 2 for Harasymiak and his assistants, minus offensive coordinator Mike Bajakian, who left to be the Cleveland Browns' quarterbacks coach. Its judgement on that departure is unsentimental: with a UMass offense at 3.9 yards per play and an 8/9 touchdown-to-interception ratio from the quarterbacks, Bajakian is not really a big loss, and new coordinator Max Warner, previously an offensive assistant at Toledo, seems like an upgrade. *(p. 231)*
 
 ### Can UMass right the wrongs of last season?
 
-Well, for starters, three different QBs started games and six different players, including two of the QBs, had at least 40 rushing attempts. Jacquon Gibson had 63 catches and nobody else had more than 27. Fifteen players had at least 20 tackles. Injuries played a part, but Harasymiak and his staff were just trying to find dudes that could ball pretty much all season long. There are quite a few P4 transfers on the roster now between this portal cycle and the coaching staff’s first one. One of them is Pop Watson, who may start at QB. He’s never really gotten a crack to start, but was a three-star recruit and the MaxPreps HS QB of the Year in Massachusetts back in 2021, so it’s a homecoming for him and he headlines a much better QB room.
+The guide diagnoses last season through churn: three different quarterbacks started; six different players, including two quarterbacks, had at least 40 rushing attempts; Jacquon Gibson had 63 catches while nobody else had more than 27; and 15 players recorded at least 20 tackles. Injuries played a part, but its reading is that the staff spent essentially the whole season trying to find players who could contribute. It now counts quite a few Power Four transfers across this portal cycle and the staff's first, singling out Pop Watson as a possible starter at quarterback — never really given a chance to start, but a three-star recruit and the MaxPreps High School Quarterback of the Year in Massachusetts in 2021, making this a homecoming, and heading what it calls a much better room. *(p. 231)*
 
 ### Will anybody get to the quarterback?
 
-An absence of negative plays was an enormous issue for the UMass defense last season. They only racked up 13 sacks and allowed more than five yards per carry, including 5.1 YPC in conference action. Only Air Force and UCLA had fewer tackles for loss. Ironically, Rutgers was one of the teams with fewer sacks than UMass and that’s where Harasymiak and his DC Jared Keyte came from. So, maybe it’s just the scheme. Jackson State transfer Joshua Nobles had 10 sacks before transferring in, but got hurt before the season started. Edge William DePaepe was at Indiana. Linebacker Michael Robinson was at Rutgers. This group seems decidedly more talented.
+The guide identifies the absence of negative plays as an enormous problem: 13 sacks, more than five yards per carry allowed including 5.1 in conference play, and fewer tackles for loss than everyone except Air Force and UCLA. It then raises the possibility that the scheme itself is the cause, noting the irony that Rutgers — where Harasymiak and coordinator Jared Keyte came from — was among the teams with fewer sacks than UMass. On personnel it lists Jackson State transfer Joshua Nobles, who had 10 sacks before transferring in but was hurt before the season started, edge William DePaepe from Indiana and linebacker Michael Robinson from Rutgers, judging the group decidedly more talented. *(p. 231)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

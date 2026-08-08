@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 3.6–8.4 overall, 2.7–5.3 in conference |
 | **Schedule strength** | 31.73 (#111 toughest of 138) |
 
-### Season outlook as written in the guide (p. 218)
+### Season outlook — VSiN's analysis in reference form (p. 218)
 
-The Men of Muncie need to figure something out and fast. Last year’s dismal offensive performance with just 15.8 PPG led to the fourth straight season without a bowl game and Ball State hasn’t had a winning record in conference play outside of the 2020 COVID season since 2013. The MAC is not exactly known for being a stout conference, but the Cardinals haven’t played in the title game outside of the COVID year since 2008. Maybe downplaying the COVID year is a bit harsh, as Ball State did go 7-1 and beat San Jose State in the Arizona Bowl, but obviously there were a lot of factors in play that season. In hopes of turning things around, the university hired Mike Uremovich as the head coach and his 4-8 season featured very little to be excited about. The Cardinals were simply brutal on special teams, mustered just 272 yards of offense per game, and finished -26 in sack differential with 49 sacks allowed. Returning production would have been an oxymoron here, but Ball State has next to none of it anyway, so Uremovich starts Year 2 with essentially a brand-new roster. Under 3.5 This is a tepid take at best, as even with an offense that managed just 16 PPG in conference play, the Cardinals still won three of those eight games, plus the win over FCS New Hampshire. Unfortunately for the Cardinals, two of their three most winnable conference games are road visits to Kent State and UMass. They also shockingly upset Ohio last season and that probably doesn’t happen again with a trip to Athens. It is tough to find four wins here, as my projection is 3.41 wins.
+- The guide's assessment is urgent: Ball State needs to figure something out fast after a dismal offensive year at just 15.8 PPG produced a fourth straight season without a bowl. *(p. 218)*
+- It sets the drought in its longest terms — no winning conference record outside the 2020 COVID season since 2013, and no MAC title game appearance outside that year since 2008. *(p. 218)*
+- It is fair to the exception it just discounted: downplaying the COVID year may be harsh, since Ball State went 7-1 and beat San Jose State in the Arizona Bowl, though obviously many factors were in play that season. *(p. 218)*
+- On the current coach it finds little to like in Year 1: Mike Uremovich's 4-8 season featured very little to be excited about, with brutal special teams, just 272 yards of offense per game, and a -26 sack differential including 49 sacks allowed. *(p. 218)*
+- It makes a pointed remark about returning production — the phrase would have been an oxymoron here — and notes Ball State has next to none of it anyway, so Uremovich starts Year 2 with essentially a brand-new roster. *(p. 218)*
+- Recommendation is Under 3.5 wins, which the guide itself calls a tepid take at best. *(p. 218)*
+- Its reason for the hedge: even with 16 PPG in conference play the Cardinals still won three of those eight games, plus the win over FCS New Hampshire. *(p. 218)*
+- The schedule works against them — two of the three most winnable conference games are road trips to Kent State and UMass — and it notes the shocking upset of Ohio last season probably does not repeat with the game in Athens. Projection is 3.41 wins, with four wins hard to find. *(p. 218)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +87,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- In hopes of turning things around, the university hired Mike Uremovich as the head coach and his 4-8 season featured very little to be excited about. *(p. 218)*
-- It’s entirely possible that Uremovich likes the fit of his portal class and his two freshman classes more than what he inherited from Mike Neu, but as his own OC, last year’s results were pathetic and the talent level of the roster looks similarly low heading into 2026, even if the offensive line might be better. *(p. 219)*
-- Uremovich brought his Butler DC and longtime best friend Jeff Knowles with him to Muncie. *(p. 219)*
+- On the current coach it finds little to like in Year 1: Mike Uremovich's 4-8 season featured very little to be excited about, with brutal special teams, just 272 yards of offense per game, and a -26 sack differential including 49 sacks allowed. *(p. 218)*
+- **How about the skill positions?** The guide measures returning production in touchdowns: one rushing and two receiving. It grants there were few touchdowns to bring back regardless, while noting these are essentially two new position groups. The returning benchmarks are thin — quarterback Kiael Kelly led the team with just 600 rushing yards at 2.8 per carry, Qian Magwood led receivers with 19 catches for 320 yards, and returnee Donovan Hamilton had 20 for 244. It allows that Uremovich may well prefer his own portal class and two freshman classes to what he inherited from Mike Neu, but is direct about the record: as his own play-caller, last year's results were pathetic, and the roster's talent level looks similarly low, even if the offensive line might be better. *(p. 219)*
+- **Is the news any better on defense?** Here the guide finds a success story. Uremovich brought his Butler coordinator and longtime best friend Jeff Knowles to Muncie, and Knowles took a unit that had allowed over 40 PPG in Neu's final defense down to 29.8 PPG while shaving a full yard per play. It argues the unit deserves extra credit for workload: Ball State played slowly to protect it, averaging just 60.8 plays per game, while the defense faced 67.3. Its qualifications are that more pass rushers would not hurt, and that Knowles returns only two starters, both in the secondary. *(p. 219)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- After he was let go by Ball State, he bounced around a bit as a special teams coordinator and really did a fine job in that role. *(p. 223)*
+Also referenced on **pp. 223** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,11 +99,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 218)*.
 
-- However, there is no clear-cut answer as to whether or not any of the guys in the QB room can be FBS-level starters, even in the MAC. *(p. 219)*
-- D-II transfer Tyler Mizzell threw 10 interceptions with 26 TD passes for the Concord U. *(p. 219)*
-- Maybe redshirt freshman Khalel Wright, who was part of Uremovich’s first freshman class last season, or this year’s top true freshman QB recruit Mason Adkins will get a crack. *(p. 219)*
-- While the bar is exceedingly low for a team that had 15.8 PPG, 4.5 YPP, 49 sacks, and a starting QB that threw for just 1,583 yards, it doesn’t seem like the bar will move much higher. *(p. 219)*
-- QB Kiael Kelly led the team with just 600 rushing yards (2.8 YPC) last season. *(p. 219)*
+- **Is there a starting QB on the roster?** The guide answers the question literally — somebody must start — before saying there is no clear evidence any of them can be an FBS-level starter, even in the MAC. Its inventory: Keldric Luster barely played across two years at SMU and again at Texas State last season; Division II transfer Tyler Mizzell threw 10 interceptions with 26 touchdown passes for Concord after leaving Wake Forest; redshirt freshman Khalel Wright came in with Uremovich's first freshman class; and this year's top true freshman recruit Mason Adkins could get a chance. It sets the baseline as exceedingly low — 15.8 PPG, 4.5 yards per play, 49 sacks, and a starting quarterback who threw for just 1,583 yards — and still concludes the bar does not seem likely to move much higher. *(p. 219)*
 
 ## 10. Returning Production
 
@@ -112,35 +115,24 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 11. Transfer Portal
 
-- D-II transfer Tyler Mizzell threw 10 interceptions with 26 TD passes for the Concord U. *(p. 219)*
-- Mountain Lions after transferring out of Wake Forest. *(p. 219)*
-- It’s entirely possible that Uremovich likes the fit of his portal class and his two freshman classes more than what he inherited from Mike Neu, but as his own OC, last year’s results were pathetic and the talent level of the roster looks similarly low heading into 2026, even if the offensive line might be better. *(p. 219)*
+- It makes a pointed remark about returning production — the phrase would have been an oxymoron here — and notes Ball State has next to none of it anyway, so Uremovich starts Year 2 with essentially a brand-new roster. *(p. 218)*
+- **Is there a starting QB on the roster?** The guide answers the question literally — somebody must start — before saying there is no clear evidence any of them can be an FBS-level starter, even in the MAC. Its inventory: Keldric Luster barely played across two years at SMU and again at Texas State last season; Division II transfer Tyler Mizzell threw 10 interceptions with 26 touchdown passes for Concord after leaving Wake Forest; redshirt freshman Khalel Wright came in with Uremovich's first freshman class; and this year's top true freshman recruit Mason Adkins could get a chance. It sets the baseline as exceedingly low — 15.8 PPG, 4.5 yards per play, 49 sacks, and a starting quarterback who threw for just 1,583 yards — and still concludes the bar does not seem likely to move much higher. *(p. 219)*
+- **How about the skill positions?** The guide measures returning production in touchdowns: one rushing and two receiving. It grants there were few touchdowns to bring back regardless, while noting these are essentially two new position groups. The returning benchmarks are thin — quarterback Kiael Kelly led the team with just 600 rushing yards at 2.8 per carry, Qian Magwood led receivers with 19 catches for 320 yards, and returnee Donovan Hamilton had 20 for 244. It allows that Uremovich may well prefer his own portal class and two freshman classes to what he inherited from Mike Neu, but is direct about the record: as his own play-caller, last year's results were pathetic, and the roster's talent level looks similarly low, even if the offensive line might be better. *(p. 219)*
 
 ## 12. Recruiting / Roster Notes
 
-- Maybe redshirt freshman Khalel Wright, who was part of Uremovich’s first freshman class last season, or this year’s top true freshman QB recruit Mason Adkins will get a crack. *(p. 219)*
-- It’s entirely possible that Uremovich likes the fit of his portal class and his two freshman classes more than what he inherited from Mike Neu, but as his own OC, last year’s results were pathetic and the talent level of the roster looks similarly low heading into 2026, even if the offensive line might be better. *(p. 219)*
+
+Referenced in the guide on **pp. 219** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Last year’s dismal offensive performance with just 15.8 PPG led to the fourth straight season without a bowl game and Ball State hasn’t had a winning record in conference play outside of the 2020 COVID season since 2013. *(p. 218)*
-- The Cardinals were simply brutal on special teams, mustered just 272 yards of offense per game, and finished -26 in sack differential with 49 sacks allowed. *(p. 218)*
-- Under 3.5 This is a tepid take at best, as even with an offense that managed just 16 PPG in conference play, the Cardinals still won three of those eight games, plus the win over FCS New Hampshire. *(p. 218)*
-- The Cardinals return one rushing TD from last season and two receiving TD. *(p. 219)*
-- QB Kiael Kelly led the team with just 600 rushing yards (2.8 YPC) last season. *(p. 219)*
-- It’s entirely possible that Uremovich likes the fit of his portal class and his two freshman classes more than what he inherited from Mike Neu, but as his own OC, last year’s results were pathetic and the talent level of the roster looks similarly low heading into 2026, even if the offensive line might be better. *(p. 219)*
-- Given how little help the offense was able to provide, this unit did its best, though some more pass rushers wouldn’t hurt. *(p. 219)*
-- The Cardinals played at a slow tempo in hopes of keeping the defense from getting exposed, as they averaged just 60.8 plays per game. *(p. 219)*
+- The guide's assessment is urgent: Ball State needs to figure something out fast after a dismal offensive year at just 15.8 PPG produced a fourth straight season without a bowl. *(p. 218)*
+- On the current coach it finds little to like in Year 1: Mike Uremovich's 4-8 season featured very little to be excited about, with brutal special teams, just 272 yards of offense per game, and a -26 sack differential including 49 sacks allowed. *(p. 218)*
+- **How about the skill positions?** The guide measures returning production in touchdowns: one rushing and two receiving. It grants there were few touchdowns to bring back regardless, while noting these are essentially two new position groups. The returning benchmarks are thin — quarterback Kiael Kelly led the team with just 600 rushing yards at 2.8 per carry, Qian Magwood led receivers with 19 catches for 320 yards, and returnee Donovan Hamilton had 20 for 244. It allows that Uremovich may well prefer his own portal class and two freshman classes to what he inherited from Mike Neu, but is direct about the record: as his own play-caller, last year's results were pathetic, and the roster's talent level looks similarly low, even if the offensive line might be better. *(p. 219)*
 
 ## 14. Defensive Identity
 
-- The Cardinals were simply brutal on special teams, mustered just 272 yards of offense per game, and finished -26 in sack differential with 49 sacks allowed. *(p. 218)*
-- While the bar is exceedingly low for a team that had 15.8 PPG, 4.5 YPP, 49 sacks, and a starting QB that threw for just 1,583 yards, it doesn’t seem like the bar will move much higher. *(p. 219)*
-- Neu’s final defense at Ball State gave up over 40 PPG. *(p. 219)*
-- Given how little help the offense was able to provide, this unit did its best, though some more pass rushers wouldn’t hurt. *(p. 219)*
-- The Cardinals played at a slow tempo in hopes of keeping the defense from getting exposed, as they averaged just 60.8 plays per game. *(p. 219)*
-- The defense faced 67.3 plays per game, so given their heightened workload, that unit deserves a lot of credit. *(p. 219)*
-- That being said, Knowles has only two returning starters and both are in the secondary. *(p. 219)*
+- **Is the news any better on defense?** Here the guide finds a success story. Uremovich brought his Butler coordinator and longtime best friend Jeff Knowles to Muncie, and Knowles took a unit that had allowed over 40 PPG in Neu's final defense down to 29.8 PPG while shaving a full yard per play. It argues the unit deserves extra credit for workload: Ball State played slowly to protect it, averaging just 60.8 plays per game, while the defense faced 67.3. Its qualifications are that more pass rushers would not hurt, and that Knowles returns only two starters, both in the secondary. *(p. 219)*
 
 ## 15. Key Strengths
 
@@ -186,7 +178,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- The Cardinals were simply brutal on special teams, mustered just 272 yards of offense per game, and finished -26 in sack differential with 49 sacks allowed. *(p. 218)*
+
+Referenced in the guide on **pp. 218** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -208,27 +201,20 @@ Prices printed on the team page *(p. 219)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 3.5 wins, which the guide itself calls a tepid take at best. *(p. 218)*
+- Its reason for the hedge: even with 16 PPG in conference play the Cardinals still won three of those eight games, plus the win over FCS New Hampshire. *(p. 218)*
+- The schedule works against them — two of the three most winnable conference games are road trips to Kent State and UMass — and it notes the shocking upset of Ohio last season probably does not repeat with the game in Athens. Projection is 3.41 wins, with four wins hard to find. *(p. 218)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Over 2.5 The betting market seems to be confident in three wins coming from the group of Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State, and Akron and I can’t blame them. *(p. 230)*
+Also referenced on **pp. 230** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Last year’s dismal offensive performance with just 15.8 PPG led to the fourth straight season without a bowl game and Ball State hasn’t had a winning record in conference play outside of the 2020 COVID season since 2013. *(p. 218)*
-- The MAC is not exactly known for being a stout conference, but the Cardinals haven’t played in the title game outside of the COVID year since 2008. *(p. 218)*
-- They also shockingly upset Ohio last season and that probably doesn’t happen again with a trip to Athens. *(p. 218)*
-- Keldric Luster barely played over two years at SMU and then barely played at Texas State last season. *(p. 219)*
-- Maybe redshirt freshman Khalel Wright, who was part of Uremovich’s first freshman class last season, or this year’s top true freshman QB recruit Mason Adkins will get a crack. *(p. 219)*
-- The Cardinals return one rushing TD from last season and two receiving TD. *(p. 219)*
-- QB Kiael Kelly led the team with just 600 rushing yards (2.8 YPC) last season. *(p. 219)*
-- It’s entirely possible that Uremovich likes the fit of his portal class and his two freshman classes more than what he inherited from Mike Neu, but as his own OC, last year’s results were pathetic and the talent level of the roster looks similarly low heading into 2026, even if the offensive line might be better. *(p. 219)*
-- This unit was actually something of a success story last season. *(p. 219)*
+- The guide's assessment is urgent: Ball State needs to figure something out fast after a dismal offensive year at just 15.8 PPG produced a fourth straight season without a bowl. *(p. 218)*
+- It sets the drought in its longest terms — no winning conference record outside the 2020 COVID season since 2013, and no MAC title game appearance outside that year since 2008. *(p. 218)*
+- It is fair to the exception it just discounted: downplaying the COVID year may be harsh, since Ball State went 7-1 and beat San Jose State in the Arizona Bowl, though obviously many factors were in play that season. *(p. 218)*
+- Its reason for the hedge: even with 16 PPG in conference play the Cardinals still won three of those eight games, plus the win over FCS New Hampshire. *(p. 218)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kadin Semonza was there last year, but redshirted and didn’t play at all after starting for Ball State. *(p. 71)*
-- Sacred Heart and Stonehill are two great options, but they also host Ball State and Eastern Michigan this season, two teams that they didn’t play last season, and I think either one could be beatable, if not both. *(p. 231)*
+Referenced in the guide on **pp. 71, 231** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -274,42 +260,39 @@ As printed on p. 219. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **3.6 wins** against a posted total of 3.5 — **+0.1** in this team's favour.
-- Last year’s dismal offensive performance with just 15.8 PPG led to the fourth straight season without a bowl game and Ball State hasn’t had a winning record in conference play outside of the 2020 COVID season since 2013. *(p. 218)*
-- Under 3.5 This is a tepid take at best, as even with an offense that managed just 16 PPG in conference play, the Cardinals still won three of those eight games, plus the win over FCS New Hampshire. *(p. 218)*
-- Unfortunately for the Cardinals, two of their three most winnable conference games are road visits to Kent State and UMass. *(p. 218)*
-- The Cardinals return one rushing TD from last season and two receiving TD. *(p. 219)*
-- Uremovich brought his Butler DC and longtime best friend Jeff Knowles with him to Muncie. *(p. 219)*
-- This unit was actually something of a success story last season. *(p. 219)*
-- Given how little help the offense was able to provide, this unit did its best, though some more pass rushers wouldn’t hurt. *(p. 219)*
-- The defense faced 67.3 plays per game, so given their heightened workload, that unit deserves a lot of credit. *(p. 219)*
-- November roadies at Ball State and Akron are extremely winnable games and even the Week 2 trip to FIU has the chance for a happy flight home. *(p. 222)*
+- It sets the drought in its longest terms — no winning conference record outside the 2020 COVID season since 2013, and no MAC title game appearance outside that year since 2008. *(p. 218)*
+- Recommendation is Under 3.5 wins, which the guide itself calls a tepid take at best. *(p. 218)*
+- The schedule works against them — two of the three most winnable conference games are road trips to Kent State and UMass — and it notes the shocking upset of Ohio last season probably does not repeat with the game in Athens. Projection is 3.41 wins, with four wins hard to find. *(p. 218)*
+- Here the guide finds a success story. Uremovich brought his Butler coordinator and longtime best friend Jeff Knowles to Muncie, and Knowles took a unit that had allowed over 40 PPG in Neu's final defense down to 29.8 PPG while shaving a full yard per play. It argues the unit deserves extra credit for workload: Ball State played slowly to protect it, averaging just 60.8 plays per game, while the defense faced 67.3. Its qualifications are that more pass rushers would not hurt, and that Knowles returns only two starters, both in the secondary. *(p. 219)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 3.5**.
-- The Cardinals were simply brutal on special teams, mustered just 272 yards of offense per game, and finished -26 in sack differential with 49 sacks allowed. *(p. 218)*
-- It is tough to find four wins here, as my projection is 3.41 wins. *(p. 218)*
+- On the current coach it finds little to like in Year 1: Mike Uremovich's 4-8 season featured very little to be excited about, with brutal special teams, just 272 yards of offense per game, and a -26 sack differential including 49 sacks allowed. *(p. 218)*
+- The guide answers the question literally — somebody must start — before saying there is no clear evidence any of them can be an FBS-level starter, even in the MAC. Its inventory: Keldric Luster barely played across two years at SMU and again at Texas State last season; Division II transfer Tyler Mizzell threw 10 interceptions with 26 touchdown passes for Concord after leaving Wake Forest; redshirt freshman Khalel Wright came in with Uremovich's first freshman class; and this year's top true freshman recruit Mason Adkins could get a chance. It sets the baseline as exceedingly low — 15.8 PPG, 4.5 yards per play, 49 sacks, and a starting quarterback who threw for just 1,583 yards — and still concludes the bar does not seem likely to move much higher. *(p. 219)*
+- The guide measures returning production in touchdowns: one rushing and two receiving. It grants there were few touchdowns to bring back regardless, while noting these are essentially two new position groups. The returning benchmarks are thin — quarterback Kiael Kelly led the team with just 600 rushing yards at 2.8 per carry, Qian Magwood led receivers with 19 catches for 320 yards, and returnee Donovan Hamilton had 20 for 244. It allows that Uremovich may well prefer his own portal class and two freshman classes to what he inherited from Mike Neu, but is direct about the record: as his own play-caller, last year's results were pathetic, and the roster's talent level looks similarly low, even if the offensive line might be better. *(p. 219)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 219)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 219)*. Its analysis, in reference form:
 
 ### Is there a starting QB on the roster?
 
-By definition, yes, somebody will have to start games. However, there is no clear-cut answer as to whether or not any of the guys in the QB room can be FBS-level starters, even in the MAC. Keldric Luster barely played over two years at SMU and then barely played at Texas State last season. D-II transfer Tyler Mizzell threw 10 interceptions with 26 TD passes for the Concord U. Mountain Lions after transferring out of Wake Forest. Maybe redshirt freshman Khalel Wright, who was part of Uremovich’s first freshman class last season, or this year’s top true freshman QB recruit Mason Adkins will get a crack. While the bar is exceedingly low for a team that had 15.8 PPG, 4.5 YPP, 49 sacks, and a starting QB that threw for just 1,583 yards, it doesn’t seem like the bar will move much higher.
+The guide answers the question literally — somebody must start — before saying there is no clear evidence any of them can be an FBS-level starter, even in the MAC. Its inventory: Keldric Luster barely played across two years at SMU and again at Texas State last season; Division II transfer Tyler Mizzell threw 10 interceptions with 26 touchdown passes for Concord after leaving Wake Forest; redshirt freshman Khalel Wright came in with Uremovich's first freshman class; and this year's top true freshman recruit Mason Adkins could get a chance. It sets the baseline as exceedingly low — 15.8 PPG, 4.5 yards per play, 49 sacks, and a starting quarterback who threw for just 1,583 yards — and still concludes the bar does not seem likely to move much higher. *(p. 219)*
 
 ### How about the skill positions?
 
-The Cardinals return one rushing TD from last season and two receiving TD. Granted, they didn’t have many touchdowns to possibly bring back regardless, but these are pretty much two new groups of players as well. QB Kiael Kelly led the team with just 600 rushing yards (2.8 YPC) last season. Qian Magwood was the leading WR with 19 catches for 320 yards, followed by returnee Donovan Hamilton with 20 grabs for 244 yards. It’s entirely possible that Uremovich likes the fit of his portal class and his two freshman classes more than what he inherited from Mike Neu, but as his own OC, last year’s results were pathetic and the talent level of the roster looks similarly low heading into 2026, even if the offensive line might be better.
+The guide measures returning production in touchdowns: one rushing and two receiving. It grants there were few touchdowns to bring back regardless, while noting these are essentially two new position groups. The returning benchmarks are thin — quarterback Kiael Kelly led the team with just 600 rushing yards at 2.8 per carry, Qian Magwood led receivers with 19 catches for 320 yards, and returnee Donovan Hamilton had 20 for 244. It allows that Uremovich may well prefer his own portal class and two freshman classes to what he inherited from Mike Neu, but is direct about the record: as his own play-caller, last year's results were pathetic, and the roster's talent level looks similarly low, even if the offensive line might be better. *(p. 219)*
 
 ### Is the news any better on defense?
 
-Uremovich brought his Butler DC and longtime best friend Jeff Knowles with him to Muncie. This unit was actually something of a success story last season. Neu’s final defense at Ball State gave up over 40 PPG. Knowles oversaw a unit that allowed 29.8 PPG and shaved off a full yard per play. Given how little help the offense was able to provide, this unit did its best, though some more pass rushers wouldn’t hurt. The Cardinals played at a slow tempo in hopes of keeping the defense from getting exposed, as they averaged just 60.8 plays per game. The defense faced 67.3 plays per game, so given their heightened workload, that unit deserves a lot of credit. That being said, Knowles has only two returning starters and both are in the secondary.
+Here the guide finds a success story. Uremovich brought his Butler coordinator and longtime best friend Jeff Knowles to Muncie, and Knowles took a unit that had allowed over 40 PPG in Neu's final defense down to 29.8 PPG while shaving a full yard per play. It argues the unit deserves extra credit for workload: Ball State played slowly to protect it, averaging just 60.8 plays per game, while the defense faced 67.3. Its qualifications are that more pass rushers would not hurt, and that Knowles returns only two starters, both in the secondary. *(p. 219)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

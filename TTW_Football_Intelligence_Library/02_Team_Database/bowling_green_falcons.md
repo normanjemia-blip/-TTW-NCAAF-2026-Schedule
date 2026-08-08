@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 4.3–7.7 overall, 3.8–4.2 in conference |
 | **Schedule strength** | 32.73 (#101 toughest of 138) |
 
-### Season outlook as written in the guide (p. 220)
+### Season outlook — VSiN's analysis in reference form (p. 220)
 
-I felt like the Falcons were one of the more interesting teams that I wrote up last season because they hired former Ohio State standout and Tennessee State miracle worker Eddie George as the head coach. We saw flashes from the Falcons, as they upset Liberty in non- conference and upset rival Toledo in conference, but there were more disappointments than achievements. The Falcons lost four times as a favorite to MAC opponents and mustered very little on offense, especially in the passing game. We’ll never know if things would have gone better had Notre Dame/Missouri transfer Drew Pyne not gotten hurt, as four different quarterbacks saw action and they collectively had as many touchdowns (12) as interceptions. That position is still in a state of flux heading into this season. One major silver lining is that George and his staff were able to attack the portal alongside everybody else instead of doing so in March last season after he was hired. Over 4.5 Not a bet given the heavy vig, and we’ll see how much George has grown and adapted to life in the MAC, because most of the wins will have to come from conference games. The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. The schedule softens up considerably from that point forward and that’s where the wins should come. If you can find an in-season win total on BG after they probably start 1-4, that might be the way to go. My projection is 4.26 wins.
+- The guide recalls flagging Bowling Green as one of its more interesting write-ups last season, on the strength of the hire — former Ohio State standout and Tennessee State miracle worker Eddie George. *(p. 220)*
+- It records both sides of Year 1: flashes in upsets of Liberty in non-conference and rival Toledo in conference, but more disappointments than achievements overall. *(p. 220)*
+- The specific failures it cites are losing four times as a favourite against MAC opponents and mustering very little on offense, especially through the air. *(p. 220)*
+- It leaves a counterfactual open rather than resolving it: nobody will know whether things would have gone better had Notre Dame and Missouri transfer Drew Pyne not been hurt. Four quarterbacks saw action and collectively produced as many touchdowns as interceptions, 12 apiece, and the position remains in flux. *(p. 220)*
+- The major silver lining it identifies is timing: George and his staff could work the portal alongside everyone else this cycle, rather than in March last year after he was hired. *(p. 220)*
+- Recommendation is Over 4.5 wins, explicitly not a bet given the heavy vig, with the open question being how much George has grown and adapted to life in the MAC. *(p. 220)*
+- It expects most wins to come in conference, because non-conference brings Nebraska, Iowa State and South Florida, and conference play opens at perennial contender Miami of Ohio. *(p. 220)*
+- Its tactical suggestion is to wait for the market: the schedule softens considerably after that stretch, so an in-season win total on Bowling Green after a likely 1-4 start might be the way to go. Projection is 4.26 wins. *(p. 220)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,18 +87,14 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- I felt like the Falcons were one of the more interesting teams that I wrote up last season because they hired former Ohio State standout and Tennessee State miracle worker Eddie George as the head coach. *(p. 220)*
-- One major silver lining is that George and his staff were able to attack the portal alongside everybody else instead of doing so in March last season after he was hired. *(p. 220)*
-- Bowling Green had injuries, as every team does, but it seemed like last season was a series of fact-finding missions for George and his staff to isolate the players that best fit the system. *(p. 221)*
-- Linebackers coach Joe Bowden, who played with George as a member of the Tennessee Titans, is now the DC of a group that allowed just 24.3 PPG, but 5.6 YPP. *(p. 221)*
-- Keep in mind, when George took over at Tennessee State, he hadn’t really coached anywhere else. *(p. 221)*
-- Even though he’s been around football all his life, coaching, especially in the current CFB landscape, is a lot different and his first recruiting cycle at the FBS level seems promising. *(p. 221)*
+- The guide recalls flagging Bowling Green as one of its more interesting write-ups last season, on the strength of the hire — former Ohio State standout and Tennessee State miracle worker Eddie George. *(p. 220)*
+- The major silver lining it identifies is timing: George and his staff could work the portal alongside everyone else this cycle, rather than in March last year after he was hired. *(p. 220)*
+- Recommendation is Over 4.5 wins, explicitly not a bet given the heavy vig, with the open question being how much George has grown and adapted to life in the MAC. *(p. 220)*
+- **Are the Falcons set up for success?** The guide reads last season as a series of fact-finding missions to identify who fits the system, injuries aside. At running back that produced an answer: Austyn Dendy looks like the feature back after a solid freshman season at 4.6 yards per carry, though his 108 carries barely outpaced Chris McMillian's 84 and Cameron Pettaway's 72, with Kaderris Roberts adding 48. It expects a tighter rotation this season between Dendy and Charleston Southern transfer Ke'Marion Baldwin, who averaged nearly five yards per carry for the Buccaneers. The same logic extends elsewhere — players who appeared without being focal points now get chances at receiver and on the offensive line, including tight ends, given how much 12 personnel this scheme uses. *(p. 221)*
+- **Will the defense take a step forward?** The guide frames the unit as having been under heavy pressure, with the offense managing only 20.5 PPG and 4.9 yards per play. The new coordinator is linebackers coach Joe Bowden, who played alongside George with the Tennessee Titans, inheriting a group that allowed just 24.3 PPG but 5.6 yards per play. Gideon Lampron basically never left the field and will be missed after 119 tackles including 15 for loss, though it notes the defense resembled the offense in that many players featured. It adds that some expected starters were with George at Tennessee State two seasons ago but either did not start at Bowling Green or transferred away. Its conclusion is conditional and modest: even without a step forward, a similar baseline paired with a better offense would be effective. *(p. 221)*
+- **Did Eddie George learn some important lessons?** The guide balances the two impressive wins over Liberty and Toledo against blown leads versus Kent State, Akron and Eastern Michigan — results that would have made the season look very different and might have produced bowl eligibility — plus a no-show against Central Michigan the week after the Toledo win, which it calls a good teaching moment for everybody. It then supplies the context for judging the learning curve: when George took over at Tennessee State he had not really coached anywhere, having been an adjunct professor at Ohio State and Vanderbilt and doing some acting. Its point is that being around football all his life is not the same as coaching in the current landscape — and it rates his first FBS recruiting cycle as promising. *(p. 221)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Michael Hutchings and Lupoi didn’t really cross paths at Oregon, as Lupoi came in as the DC in 2022 and Hutchings had moved from Eugene to Bowling Green, coaching up linebackers at Western Kentucky. *(p. 83)*
-- Brown also went to the MAC and grabbed special teams coordinator Alex Bayer from Bowling Green. *(p. 107)*
-- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
+Also referenced on **pp. 83, 107, 130** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -97,8 +102,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 220)*.
 
-- The Falcons lost four times as a favorite to MAC opponents and mustered very little on offense, especially in the passing game. *(p. 220)*
-- We’ll never know if things would have gone better had Notre Dame/Missouri transfer Drew Pyne not gotten hurt, as four different quarterbacks saw action and they collectively had as many touchdowns (12) as interceptions. *(p. 220)*
+- It leaves a counterfactual open rather than resolving it: nobody will know whether things would have gone better had Notre Dame and Missouri transfer Drew Pyne not been hurt. Four quarterbacks saw action and collectively produced as many touchdowns as interceptions, 12 apiece, and the position remains in flux. *(p. 220)*
 
 ## 10. Returning Production
 
@@ -114,34 +118,25 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 11. Transfer Portal
 
-- We’ll never know if things would have gone better had Notre Dame/Missouri transfer Drew Pyne not gotten hurt, as four different quarterbacks saw action and they collectively had as many touchdowns (12) as interceptions. *(p. 220)*
-- One major silver lining is that George and his staff were able to attack the portal alongside everybody else instead of doing so in March last season after he was hired. *(p. 220)*
-- This season, I would expect a tighter rotation with Dendy and Charleston Southern transfer Ke’Marion Baldwin, who had nearly five yards per carry for the Buccaneers. *(p. 221)*
-- Some of the expected starters were with George at Tennessee State two seasons ago, but either didn’t start at BG or had transferred elsewhere. *(p. 221)*
+- The major silver lining it identifies is timing: George and his staff could work the portal alongside everyone else this cycle, rather than in March last year after he was hired. *(p. 220)*
+- **Are the Falcons set up for success?** The guide reads last season as a series of fact-finding missions to identify who fits the system, injuries aside. At running back that produced an answer: Austyn Dendy looks like the feature back after a solid freshman season at 4.6 yards per carry, though his 108 carries barely outpaced Chris McMillian's 84 and Cameron Pettaway's 72, with Kaderris Roberts adding 48. It expects a tighter rotation this season between Dendy and Charleston Southern transfer Ke'Marion Baldwin, who averaged nearly five yards per carry for the Buccaneers. The same logic extends elsewhere — players who appeared without being focal points now get chances at receiver and on the offensive line, including tight ends, given how much 12 personnel this scheme uses. *(p. 221)*
 
 ## 12. Recruiting / Roster Notes
 
-- Austyn Dendy looks like the feature back and had a solid freshman season with 4.6 yards per carry, but his 108 carries barely outpaced Chris McMillian with 84 and Cameron Pettaway with 72. *(p. 221)*
-- Even though he’s been around football all his life, coaching, especially in the current CFB landscape, is a lot different and his first recruiting cycle at the FBS level seems promising. *(p. 221)*
+
+Referenced in the guide on **pp. 221** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The Falcons lost four times as a favorite to MAC opponents and mustered very little on offense, especially in the passing game. *(p. 220)*
-- Similarly, a lot of guys that played, but maybe weren’t focal points, now get chances at WR and on the offensive line, including the tight ends with a lot of 12 personnel in this scheme. *(p. 221)*
-- The offense only mustered 20.5 PPG and just 4.9 YPP, so the defense was under a lot of pressure. *(p. 221)*
-- Gideon Lampron basically never left the field and he’ll be missed with 119 tackles, including 15 tackles for loss, but the defense was a lot like the offense in that a lot of guys played. *(p. 221)*
-- Even if the defense doesn’t take a step forward, a similar baseline coupled with a better offense would be effective. *(p. 221)*
+- The specific failures it cites are losing four times as a favourite against MAC opponents and mustering very little on offense, especially through the air. *(p. 220)*
+- **Are the Falcons set up for success?** The guide reads last season as a series of fact-finding missions to identify who fits the system, injuries aside. At running back that produced an answer: Austyn Dendy looks like the feature back after a solid freshman season at 4.6 yards per carry, though his 108 carries barely outpaced Chris McMillian's 84 and Cameron Pettaway's 72, with Kaderris Roberts adding 48. It expects a tighter rotation this season between Dendy and Charleston Southern transfer Ke'Marion Baldwin, who averaged nearly five yards per carry for the Buccaneers. The same logic extends elsewhere — players who appeared without being focal points now get chances at receiver and on the offensive line, including tight ends, given how much 12 personnel this scheme uses. *(p. 221)*
+- **Will the defense take a step forward?** The guide frames the unit as having been under heavy pressure, with the offense managing only 20.5 PPG and 4.9 yards per play. The new coordinator is linebackers coach Joe Bowden, who played alongside George with the Tennessee Titans, inheriting a group that allowed just 24.3 PPG but 5.6 yards per play. Gideon Lampron basically never left the field and will be missed after 119 tackles including 15 for loss, though it notes the defense resembled the offense in that many players featured. It adds that some expected starters were with George at Tennessee State two seasons ago but either did not start at Bowling Green or transferred away. Its conclusion is conditional and modest: even without a step forward, a similar baseline paired with a better offense would be effective. *(p. 221)*
 
 ## 14. Defensive Identity
 
-- The offense only mustered 20.5 PPG and just 4.9 YPP, so the defense was under a lot of pressure. *(p. 221)*
-- Linebackers coach Joe Bowden, who played with George as a member of the Tennessee Titans, is now the DC of a group that allowed just 24.3 PPG, but 5.6 YPP. *(p. 221)*
-- Gideon Lampron basically never left the field and he’ll be missed with 119 tackles, including 15 tackles for loss, but the defense was a lot like the offense in that a lot of guys played. *(p. 221)*
-- Even if the defense doesn’t take a step forward, a similar baseline coupled with a better offense would be effective. *(p. 221)*
+- **Will the defense take a step forward?** The guide frames the unit as having been under heavy pressure, with the offense managing only 20.5 PPG and 4.9 yards per play. The new coordinator is linebackers coach Joe Bowden, who played alongside George with the Tennessee Titans, inheriting a group that allowed just 24.3 PPG but 5.6 yards per play. Gideon Lampron basically never left the field and will be missed after 119 tackles including 15 for loss, though it notes the defense resembled the offense in that many players featured. It adds that some expected starters were with George at Tennessee State two seasons ago but either did not start at Bowling Green or transferred away. Its conclusion is conditional and modest: even without a step forward, a similar baseline paired with a better offense would be effective. *(p. 221)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Michael Hutchings and Lupoi didn’t really cross paths at Oregon, as Lupoi came in as the DC in 2022 and Hutchings had moved from Eugene to Bowling Green, coaching up linebackers at Western Kentucky. *(p. 83)*
+Referenced in the guide on **pp. 83** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -185,7 +180,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+
+Referenced in the guide on **pp. 220** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -207,19 +203,17 @@ Prices printed on the team page *(p. 221)*:
 
 ## 21. Betting Notes / Best Bets
 
-- The Falcons lost four times as a favorite to MAC opponents and mustered very little on offense, especially in the passing game. *(p. 220)*
-- Over 4.5 Not a bet given the heavy vig, and we’ll see how much George has grown and adapted to life in the MAC, because most of the wins will have to come from conference games. *(p. 220)*
+- The specific failures it cites are losing four times as a favourite against MAC opponents and mustering very little on offense, especially through the air. *(p. 220)*
+- Recommendation is Over 4.5 wins, explicitly not a bet given the heavy vig, with the open question being how much George has grown and adapted to life in the MAC. *(p. 220)*
+- It expects most wins to come in conference, because non-conference brings Nebraska, Iowa State and South Florida, and conference play opens at perennial contender Miami of Ohio. *(p. 220)*
+- Its tactical suggestion is to wait for the market: the schedule softens considerably after that stretch, so an in-season win total on Bowling Green after a likely 1-4 start might be the way to go. Projection is 4.26 wins. *(p. 220)*
 
 ## 22. Historical / Situational Trends
 
-- I felt like the Falcons were one of the more interesting teams that I wrote up last season because they hired former Ohio State standout and Tennessee State miracle worker Eddie George as the head coach. *(p. 220)*
-- One major silver lining is that George and his staff were able to attack the portal alongside everybody else instead of doing so in March last season after he was hired. *(p. 220)*
-- Bowling Green had injuries, as every team does, but it seemed like last season was a series of fact-finding missions for George and his staff to isolate the players that best fit the system. *(p. 221)*
+- It records both sides of Year 1: flashes in upsets of Liberty in non-conference and rival Toledo in conference, but more disappointments than achievements overall. *(p. 220)*
+- **Did Eddie George learn some important lessons?** The guide balances the two impressive wins over Liberty and Toledo against blown leads versus Kent State, Akron and Eastern Michigan — results that would have made the season look very different and might have produced bowl eligibility — plus a no-show against Central Michigan the week after the Toledo win, which it calls a good teaching moment for everybody. It then supplies the context for judging the learning curve: when George took over at Tennessee State he had not really coached anywhere, having been an adjunct professor at Ohio State and Vanderbilt and doing some acting. Its point is that being around football all his life is not the same as coaching in the current landscape — and it rates his first FBS recruiting cycle as promising. *(p. 221)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Michael Hutchings and Lupoi didn’t really cross paths at Oregon, as Lupoi came in as the DC in 2022 and Hutchings had moved from Eugene to Bowling Green, coaching up linebackers at Western Kentucky. *(p. 83)*
-- WMU (+360) is co-favored to run it back and their company is Miami, so we could be looking at our first MAC Championship Game rematch since Northern Illinois and Bowling Green played three straight title games from 2013-15. *(p. 215)*
+Referenced in the guide on **pp. 83, 215** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -265,44 +259,39 @@ As printed on p. 221. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
-- Bowling Green had injuries, as every team does, but it seemed like last season was a series of fact-finding missions for George and his staff to isolate the players that best fit the system. *(p. 221)*
-- Austyn Dendy looks like the feature back and had a solid freshman season with 4.6 yards per carry, but his 108 carries barely outpaced Chris McMillian with 84 and Cameron Pettaway with 72. *(p. 221)*
-- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
-- The no-show against Central Michigan the week after the Toledo game was also a good teaching moment for everybody. *(p. 221)*
-- Even though he’s been around football all his life, coaching, especially in the current CFB landscape, is a lot different and his first recruiting cycle at the FBS level seems promising. *(p. 221)*
-- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
-- Over 4.5 Moorhead got a lot out of a team that couldn’t make a bowl game and the most impressive data point to me was a 19-16 road win at Bowling Green after losing to rival Kent State in OT. *(p. 216)*
+- The guide recalls flagging Bowling Green as one of its more interesting write-ups last season, on the strength of the hire — former Ohio State standout and Tennessee State miracle worker Eddie George. *(p. 220)*
+- It expects most wins to come in conference, because non-conference brings Nebraska, Iowa State and South Florida, and conference play opens at perennial contender Miami of Ohio. *(p. 220)*
+- The guide reads last season as a series of fact-finding missions to identify who fits the system, injuries aside. At running back that produced an answer: Austyn Dendy looks like the feature back after a solid freshman season at 4.6 yards per carry, though his 108 carries barely outpaced Chris McMillian's 84 and Cameron Pettaway's 72, with Kaderris Roberts adding 48. It expects a tighter rotation this season between Dendy and Charleston Southern transfer Ke'Marion Baldwin, who averaged nearly five yards per carry for the Buccaneers. The same logic extends elsewhere — players who appeared without being focal points now get chances at receiver and on the offensive line, including tight ends, given how much 12 personnel this scheme uses. *(p. 221)*
+- The guide balances the two impressive wins over Liberty and Toledo against blown leads versus Kent State, Akron and Eastern Michigan — results that would have made the season look very different and might have produced bowl eligibility — plus a no-show against Central Michigan the week after the Toledo win, which it calls a good teaching moment for everybody. It then supplies the context for judging the learning curve: when George took over at Tennessee State he had not really coached anywhere, having been an adjunct professor at Ohio State and Vanderbilt and doing some acting. Its point is that being around football all his life is not the same as coaching in the current landscape — and it rates his first FBS recruiting cycle as promising. *(p. 221)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.3 wins** against a posted total of 4.5 — **-0.2** against this team.
-- The Falcons lost four times as a favorite to MAC opponents and mustered very little on offense, especially in the passing game. *(p. 220)*
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
-- Bowling Green had injuries, as every team does, but it seemed like last season was a series of fact-finding missions for George and his staff to isolate the players that best fit the system. *(p. 221)*
-- Gideon Lampron basically never left the field and he’ll be missed with 119 tackles, including 15 tackles for loss, but the defense was a lot like the offense in that a lot of guys played. *(p. 221)*
-- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
+- Recommendation is Over 4.5 wins, explicitly not a bet given the heavy vig, with the open question being how much George has grown and adapted to life in the MAC. *(p. 220)*
+- The guide reads last season as a series of fact-finding missions to identify who fits the system, injuries aside. At running back that produced an answer: Austyn Dendy looks like the feature back after a solid freshman season at 4.6 yards per carry, though his 108 carries barely outpaced Chris McMillian's 84 and Cameron Pettaway's 72, with Kaderris Roberts adding 48. It expects a tighter rotation this season between Dendy and Charleston Southern transfer Ke'Marion Baldwin, who averaged nearly five yards per carry for the Buccaneers. The same logic extends elsewhere — players who appeared without being focal points now get chances at receiver and on the offensive line, including tight ends, given how much 12 personnel this scheme uses. *(p. 221)*
+- The guide frames the unit as having been under heavy pressure, with the offense managing only 20.5 PPG and 4.9 yards per play. The new coordinator is linebackers coach Joe Bowden, who played alongside George with the Tennessee Titans, inheriting a group that allowed just 24.3 PPG but 5.6 yards per play. Gideon Lampron basically never left the field and will be missed after 119 tackles including 15 for loss, though it notes the defense resembled the offense in that many players featured. It adds that some expected starters were with George at Tennessee State two seasons ago but either did not start at Bowling Green or transferred away. Its conclusion is conditional and modest: even without a step forward, a similar baseline paired with a better offense would be effective. *(p. 221)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 221)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 221)*. Its analysis, in reference form:
 
 ### Are the Falcons set up for success?
 
-Bowling Green had injuries, as every team does, but it seemed like last season was a series of fact-finding missions for George and his staff to isolate the players that best fit the system. Austyn Dendy looks like the feature back and had a solid freshman season with 4.6 yards per carry, but his 108 carries barely outpaced Chris McMillian with 84 and Cameron Pettaway with 72. Kaderris Roberts also had 48 carries. George was trying out everybody to see who would stick, and it was ultimately Dendy who did. This season, I would expect a tighter rotation with Dendy and Charleston Southern transfer Ke’Marion Baldwin, who had nearly five yards per carry for the Buccaneers. Similarly, a lot of guys that played, but maybe weren’t focal points, now get chances at WR and on the offensive line, including the tight ends with a lot of 12 personnel in this scheme.
+The guide reads last season as a series of fact-finding missions to identify who fits the system, injuries aside. At running back that produced an answer: Austyn Dendy looks like the feature back after a solid freshman season at 4.6 yards per carry, though his 108 carries barely outpaced Chris McMillian's 84 and Cameron Pettaway's 72, with Kaderris Roberts adding 48. It expects a tighter rotation this season between Dendy and Charleston Southern transfer Ke'Marion Baldwin, who averaged nearly five yards per carry for the Buccaneers. The same logic extends elsewhere — players who appeared without being focal points now get chances at receiver and on the offensive line, including tight ends, given how much 12 personnel this scheme uses. *(p. 221)*
 
 ### Will the defense take a step forward?
 
-The offense only mustered 20.5 PPG and just 4.9 YPP, so the defense was under a lot of pressure. Linebackers coach Joe Bowden, who played with George as a member of the Tennessee Titans, is now the DC of a group that allowed just 24.3 PPG, but 5.6 YPP. Gideon Lampron basically never left the field and he’ll be missed with 119 tackles, including 15 tackles for loss, but the defense was a lot like the offense in that a lot of guys played. Some of the expected starters were with George at Tennessee State two seasons ago, but either didn’t start at BG or had transferred elsewhere. Even if the defense doesn’t take a step forward, a similar baseline coupled with a better offense would be effective.
+The guide frames the unit as having been under heavy pressure, with the offense managing only 20.5 PPG and 4.9 yards per play. The new coordinator is linebackers coach Joe Bowden, who played alongside George with the Tennessee Titans, inheriting a group that allowed just 24.3 PPG but 5.6 yards per play. Gideon Lampron basically never left the field and will be missed after 119 tackles including 15 for loss, though it notes the defense resembled the offense in that many players featured. It adds that some expected starters were with George at Tennessee State two seasons ago but either did not start at Bowling Green or transferred away. Its conclusion is conditional and modest: even without a step forward, a similar baseline paired with a better offense would be effective. *(p. 221)*
 
 ### Did Eddie George learn some important lessons?
 
-The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. The no-show against Central Michigan the week after the Toledo game was also a good teaching moment for everybody. Keep in mind, when George took over at Tennessee State, he hadn’t really coached anywhere else. Instead, he had been an adjunct professor at Ohio State and Vanderbilt and had been doing some acting. Even though he’s been around football all his life, coaching, especially in the current CFB landscape, is a lot different and his first recruiting cycle at the FBS level seems promising.
+The guide balances the two impressive wins over Liberty and Toledo against blown leads versus Kent State, Akron and Eastern Michigan — results that would have made the season look very different and might have produced bowl eligibility — plus a no-show against Central Michigan the week after the Toledo win, which it calls a good teaching moment for everybody. It then supplies the context for judging the learning curve: when George took over at Tennessee State he had not really coached anywhere, having been an adjunct professor at Ohio State and Vanderbilt and doing some acting. Its point is that being around football all his life is not the same as coaching in the current landscape — and it rates his first FBS recruiting cycle as promising. *(p. 221)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

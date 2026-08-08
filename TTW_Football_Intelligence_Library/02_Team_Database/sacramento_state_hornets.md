@@ -24,9 +24,20 @@
 | **Makinen projected wins** | 4.2–7.8 overall, 2.9–5.1 in conference |
 | **Schedule strength** | 26.52 (#136 toughest of 138) |
 
-### Season outlook as written in the guide (p. 236)
+### Season outlook — VSiN's analysis in reference form (p. 236)
 
-Welcome the Sac State Hornets to the FBS ranks, as the team from the capital of California will play in the Mid-American Conference. There has been a lot of money funneled into athletics lately at the school, as the basketball program is coached by Mike Bibby, Shaquille O’Neal is the “GM”, and home games have a party- like atmosphere. They’re now in the Big West Conference, but the football team is in the MAC as a football-only member. That is hardly the only change for the program, as they hit the FBS ranks with a new head coach in Alonzo Carter and a ton of new faces. Last year’s team was led by Rodney Hammond, who had over 1,200 rushing yards, and Ernest Campbell, who had 755 yards on just 37 catches. HC Brennan Marion’s up-tempo offense produced 33.8 PPG, but the scheme will be different this season. Also, the most obvious change for the Hornets will be the travel, with two trips to Michigan, one to Ohio, one to Indiana, and then the regular- season finale in Hawaii. Under 4.5 Mississippi Valley State and UMass look like the best (and maybe only) hopes for wins from the Hornets this season. Ohio, Kent State, and Toledo all head west in conference play and those are two of the better programs annually in the MAC, plus a Kent State team hungry for any win that they can get. Obviously this is a transitional year to say the least and one that is likely to feature a lot of hurdles and challenges. My projection is 4.82 wins.
+- The guide welcomes Sacramento State to the FBS ranks, with the team from California's capital joining the Mid-American Conference. *(p. 236)*
+- It describes an athletic department with money flowing in: the basketball programme coached by Mike Bibby, Shaquille O'Neal as “GM”, and a party-like atmosphere at home games. *(p. 236)*
+- It records the split affiliation precisely — the school is now in the Big West, while football is a football-only member of the MAC. *(p. 236)*
+- The programme arrives with a new head coach in Alonzo Carter and a great many new faces. *(p. 236)*
+- The production being replaced: Rodney Hammond with over 1,200 rushing yards, and Ernest Campbell with 755 yards on just 37 catches. *(p. 236)*
+- It flags scheme discontinuity as well — Brennan Marion's up-tempo offense produced 33.8 PPG, but the scheme will be different this season. *(p. 236)*
+- The change it calls most obvious is travel: two trips to Michigan, one to Ohio, one to Indiana, and a regular-season finale in Hawaii. *(p. 236)*
+- Recommendation is Under 4.5 wins, with Mississippi Valley State and UMass identified as the best and perhaps only hopes for wins. *(p. 236)*
+- It notes Ohio, Kent State and Toledo all travel west in conference play — two of the MAC's better annual programmes plus a Kent State team hungry for any win it can get. *(p. 236)*
+- Its summary is that this is obviously a transitional year, likely to feature a lot of hurdles and challenges. Projection is 4.82 wins. *(p. 236)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -81,17 +92,12 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 34)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- There has been a lot of money funneled into athletics lately at the school, as the basketball program is coached by Mike Bibby, Shaquille O’Neal is the “GM”, and home games have a party- like atmosphere. *(p. 236)*
-- That is hardly the only change for the program, as they hit the FBS ranks with a new head coach in Alonzo Carter and a ton of new faces. *(p. 236)*
-- Jackson was based on a California high school basketball coach who had a talented team that wasn’t showing up in the classroom and he put the season on hold to put academics first. *(p. 237)*
-- Ken Carter was the head coach at Richmond High School in the West Contra Costa Unified School District. *(p. 237)*
-- Alonzo Carter’s only other college head coaching gig was at Contra Costa College in San Pablo. *(p. 237)*
-- He’s been at San Jose State and Arizona on Brent Brennan’s staff over the last five years and now gets his own program. *(p. 237)*
-- There are major questions in the trenches on both sides and obviously new playbooks to learn with OC Eric Kiesau from Florida and DC Adam Clark from Northern Arizona. *(p. 237)*
+- The programme arrives with a new head coach in Alonzo Carter and a great many new faces. *(p. 236)*
+- It flags scheme discontinuity as well — Brennan Marion's up-tempo offense produced 33.8 PPG, but the scheme will be different this season. *(p. 236)*
+- **Is this the real-life sequel to Coach Carter?** The guide draws out the coincidence behind the heading: the 2005 film with Samuel L. Jackson was based on Ken Carter, head coach at Richmond High School in the West Contra Costa Unified School District, who suspended a talented team's season over classroom performance — while Alonzo Carter's only previous college head-coaching job was at Contra Costa College in San Pablo. On substance it presents Alonzo Carter, who grew up in Oakland, as holding a strong reputation in the athletics community for mentoring players and assisting them off the field as much as on it, with the last five years spent at San Jose State and Arizona on Brent Brennan's staff before getting his own programme. Its honest limits are stated: it does not know how the team will fare in close games or what his clock management will look like, but given a roster of JUCO transfers and discarded players it assumes this team will play extremely hard every week. *(p. 237)*
+- **Are the Hornets going to be competitive?** The guide turns effort into a question of talent: does the roster have enough to make games tight and win some? The evidence for is 247Sports grading Sacramento State's portal class second in the MAC, and quarterback Carson Conklin returning to the place where he started in 2024 after transferring to Fresno State when Marion took over. The evidence against is major questions in the trenches on both sides plus entirely new playbooks under coordinators Eric Kiesau, from Florida, and Adam Clark, from Northern Arizona — with returning defenders having to learn a 3-3-5 stack and the very few returning offensive players facing a more traditional offense. Its answer is “maybe”, with the caveat that it probably will not show in the standings. *(p. 237)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- I don’t give negative numbers, but if I did, what Sacramento State and new head coach Alonzo Carter are facing in 2026 would qualify. *(p. 26)*
+Also referenced on **pp. 26** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -99,7 +105,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 236)*.
 
-- QB Carson Conklin transferred to Fresno State when Marion took over, but has now come back to the place where he was the starter in 2024. *(p. 237)*
+- **Are the Hornets going to be competitive?** The guide turns effort into a question of talent: does the roster have enough to make games tight and win some? The evidence for is 247Sports grading Sacramento State's portal class second in the MAC, and quarterback Carson Conklin returning to the place where he started in 2024 after transferring to Fresno State when Marion took over. The evidence against is major questions in the trenches on both sides plus entirely new playbooks under coordinators Eric Kiesau, from Florida, and Adam Clark, from Northern Arizona — with returning defenders having to learn a 3-3-5 stack and the very few returning offensive players facing a more traditional offense. Its answer is “maybe”, with the caveat that it probably will not show in the standings. *(p. 237)*
 
 ## 10. Returning Production
 
@@ -115,34 +121,27 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 11. Transfer Portal
 
-- I don’t know how the team will do in close games or what his clock-management will look like, but there are a lot of JUCO transfers and discarded players that make up his roster and I have to assume this team is going to play extremely hard every week. *(p. 237)*
-- Well, we’ll have to wait and see, but 247Sports did grade Sac State’s transfer portal class second in the MAC. *(p. 237)*
-- QB Carson Conklin transferred to Fresno State when Marion took over, but has now come back to the place where he was the starter in 2024. *(p. 237)*
+- The programme arrives with a new head coach in Alonzo Carter and a great many new faces. *(p. 236)*
+- **Are the Hornets going to be competitive?** The guide turns effort into a question of talent: does the roster have enough to make games tight and win some? The evidence for is 247Sports grading Sacramento State's portal class second in the MAC, and quarterback Carson Conklin returning to the place where he started in 2024 after transferring to Fresno State when Marion took over. The evidence against is major questions in the trenches on both sides plus entirely new playbooks under coordinators Eric Kiesau, from Florida, and Adam Clark, from Northern Arizona — with returning defenders having to learn a 3-3-5 stack and the very few returning offensive players facing a more traditional offense. Its answer is “maybe”, with the caveat that it probably will not show in the standings. *(p. 237)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- As Sacramento State got ready for its final season of FCSlevel football a year ago, it scored a program-high 73rd-ranked incoming recruit/transfer class. *(p. 26)*
+Referenced in the guide on **pp. 26** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- As Sacramento State got ready for its final season of FCSlevel football a year ago, it scored a program-high 73rd-ranked incoming recruit/transfer class. *(p. 26)*
+Referenced in the guide on **pp. 26** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Last year’s team was led by Rodney Hammond, who had over 1,200 rushing yards, and Ernest Campbell, who had 755 yards on just 37 catches. *(p. 236)*
-- HC Brennan Marion’s up-tempo offense produced 33.8 PPG, but the scheme will be different this season. *(p. 236)*
-- Any returnees on defense now have to learn a 3-3-5 stack and returnees on offense, while very few and far between, have a more traditional offense to learn. *(p. 237)*
+- The production being replaced: Rodney Hammond with over 1,200 rushing yards, and Ernest Campbell with 755 yards on just 37 catches. *(p. 236)*
+- It flags scheme discontinuity as well — Brennan Marion's up-tempo offense produced 33.8 PPG, but the scheme will be different this season. *(p. 236)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Marion’s fast-paced, power rushing offense was highly successful at UNLV and Sacramento State, but it’ll be interesting to see whether it translates to the big leagues. *(p. 127)*
+Referenced in the guide on **pp. 127** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Any returnees on defense now have to learn a 3-3-5 stack and returnees on offense, while very few and far between, have a more traditional offense to learn. *(p. 237)*
+
+Referenced in the guide on **pp. 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -175,11 +174,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- While the travel is certainly a talking point, it should be noted that there are no back-to-back road games for the Hornets outside of the end of the season with a bye week in between and that they only leave California once prior to October 10. *(p. 237)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. *(p. 228)*
+Referenced in the guide on **pp. 228, 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -203,22 +199,16 @@ Prices printed on the team page *(p. 237)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 4.5 wins, with Mississippi Valley State and UMass identified as the best and perhaps only hopes for wins. *(p. 236)*
+- It notes Ohio, Kent State and Toledo all travel west in conference play — two of the MAC's better annual programmes plus a Kent State team hungry for any win it can get. *(p. 236)*
+- Its summary is that this is obviously a transitional year, likely to feature a lot of hurdles and challenges. Projection is 4.82 wins. *(p. 236)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Over 2.5 The betting market seems to be confident in three wins coming from the group of Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State, and Akron and I can’t blame them. *(p. 230)*
+Also referenced on **pp. 230** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Last year’s team was led by Rodney Hammond, who had over 1,200 rushing yards, and Ernest Campbell, who had 755 yards on just 37 catches. *(p. 236)*
-- The biggest trip for the program last season was to head down to East Texas A&M. *(p. 237)*
-- QB Carson Conklin transferred to Fresno State when Marion took over, but has now come back to the place where he was the starter in 2024. *(p. 237)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- This season, I expect to have some deviations on a week-to-week basis in conference play, since we have Sacramento State in the MAC, Northern Illinois in the Mountain West, and Texas State in the Pac-12, just as some examples of conference realignment and how those teams will be visiting new venues, playing at elevation, or having long travel with some odd kickoff times. *(p. 21)*
-- I don’t give negative numbers, but if I did, what Sacramento State and new head coach Alonzo Carter are facing in 2026 would qualify. *(p. 26)*
-- Over 3.5 It will be a challenge to match the five wins from last season, given that the Flashes play Sacramento State on the road on a short week after the rivalry game against Akron and don’t have the luxury of seeing UMass on the schedule. *(p. 228)*
+Referenced in the guide on **pp. 21, 26, 228, 236, 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -228,14 +218,8 @@ This is the guide's own note, not a gap in extraction.
 
 ## 24. Bull Case
 
-- Under 4.5 Mississippi Valley State and UMass look like the best (and maybe only) hopes for wins from the Hornets this season. *(p. 236)*
-- Jackson was based on a California high school basketball coach who had a talented team that wasn’t showing up in the classroom and he put the season on hold to put academics first. *(p. 237)*
-- Alonzo, who grew up in Oakland, has a strong reputation in the athletics community in terms of mentoring players and assisting them off-the-field as much or more as he does on it. *(p. 237)*
-- Playing hard is a nice trait to have, but does the roster have the talent to turn that into playing tight games and even winning some? *(p. 237)*
-- Marion’s fast-paced, power rushing offense was highly successful at UNLV and Sacramento State, but it’ll be interesting to see whether it translates to the big leagues. *(p. 127)*
-- While the Eagles do host Sacramento State in the Hornets’ first MAC game, they have to go to UMass and Akron, two of their more winnable conference contests. *(p. 226)*
-- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
-- The home schedule is far from daunting — especially non-conference games against Fordham and Sacramento State — but Wyoming, Nevada and UTEP all have potential for improvement this season. *(p. 252)*
+- Recommendation is Under 4.5 wins, with Mississippi Valley State and UMass identified as the best and perhaps only hopes for wins. *(p. 236)*
+- The guide draws out the coincidence behind the heading: the 2005 film with Samuel L. Jackson was based on Ken Carter, head coach at Richmond High School in the West Contra Costa Unified School District, who suspended a talented team's season over classroom performance — while Alonzo Carter's only previous college head-coaching job was at Contra Costa College in San Pablo. On substance it presents Alonzo Carter, who grew up in Oakland, as holding a strong reputation in the athletics community for mentoring players and assisting them off the field as much as on it, with the last five years spent at San Jose State and Arizona on Brent Brennan's staff before getting his own programme. Its honest limits are stated: it does not know how the team will fare in close games or what his clock management will look like, but given a roster of JUCO transfers and discarded players it assumes this team will play extremely hard every week. *(p. 237)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -243,27 +227,27 @@ This is the guide's own note, not a gap in extraction.
 
 - Makinen projects **4.2 wins** against a posted total of 4.5 — **-0.3** against this team.
 - The team page recommends **UNDER 4.5**.
-- There are major questions in the trenches on both sides and obviously new playbooks to learn with OC Eric Kiesau from Florida and DC Adam Clark from Northern Arizona. *(p. 237)*
-- In terms of other weak schedules, Buffalo, Sacramento State, and Ohio, all other MAC teams as well, check in at Nos. 2-4. *(p. 46)*
+- The guide turns effort into a question of talent: does the roster have enough to make games tight and win some? The evidence for is 247Sports grading Sacramento State's portal class second in the MAC, and quarterback Carson Conklin returning to the place where he started in 2024 after transferring to Fresno State when Marion took over. The evidence against is major questions in the trenches on both sides plus entirely new playbooks under coordinators Eric Kiesau, from Florida, and Adam Clark, from Northern Arizona — with returning defenders having to learn a 3-3-5 stack and the very few returning offensive players facing a more traditional offense. Its answer is “maybe”, with the caveat that it probably will not show in the standings. *(p. 237)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 237)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 237)*. Its analysis, in reference form:
 
 ### Do the players get to keep their frequent flyer miles?
 
-As long as they’re flying commercial, they should be able to, but that all depends on how the tickets are booked. Hopefully the Hornets players do get to keep them, because they’re going to log some miles this season. The biggest trip for the program last season was to head down to East Texas A&M. This season, Eastern and Central Michigan, Bowling Green, Ball State, and Hawaii are all on the schedule. Of course, they could take advantage of some teams making the long trek to them. While the travel is certainly a talking point, it should be noted that there are no back-to-back road games for the Hornets outside of the end of the season with a bye week in between and that they only leave California once prior to October 10.
+The guide answers the joke on its own terms — they should, as long as they fly commercial and depending on how tickets are booked — then uses it to quantify the travel shock. The biggest trip last season was to East Texas A&M; this season brings Eastern and Central Michigan, Bowling Green, Ball State and Hawaii, with the offsetting benefit of some teams making the long trek west. Its mitigating analysis is the schedule's shape: there are no back-to-back road games outside the end of the season, and even then with a bye week in between, and Sacramento State leaves California only once before October 10. *(p. 237)*
 
 ### Is this the real-life sequel to Coach Carter?
 
-The 2005 movie featuring Samuel L. Jackson was based on a California high school basketball coach who had a talented team that wasn’t showing up in the classroom and he put the season on hold to put academics first. Ken Carter was the head coach at Richmond High School in the West Contra Costa Unified School District. Alonzo Carter’s only other college head coaching gig was at Contra Costa College in San Pablo. Alonzo, who grew up in Oakland, has a strong reputation in the athletics community in terms of mentoring players and assisting them off-the-field as much or more as he does on it. He’s been at San Jose State and Arizona on Brent Brennan’s staff over the last five years and now gets his own program. I don’t know how the team will do in close games or what his clock-management will look like, but there are a lot of JUCO transfers and discarded players that make up his roster and I have to assume this team is going to play extremely hard every week.
+The guide draws out the coincidence behind the heading: the 2005 film with Samuel L. Jackson was based on Ken Carter, head coach at Richmond High School in the West Contra Costa Unified School District, who suspended a talented team's season over classroom performance — while Alonzo Carter's only previous college head-coaching job was at Contra Costa College in San Pablo. On substance it presents Alonzo Carter, who grew up in Oakland, as holding a strong reputation in the athletics community for mentoring players and assisting them off the field as much as on it, with the last five years spent at San Jose State and Arizona on Brent Brennan's staff before getting his own programme. Its honest limits are stated: it does not know how the team will fare in close games or what his clock management will look like, but given a roster of JUCO transfers and discarded players it assumes this team will play extremely hard every week. *(p. 237)*
 
 ### Are the Hornets going to be competitive?
 
-Playing hard is a nice trait to have, but does the roster have the talent to turn that into playing tight games and even winning some? Well, we’ll have to wait and see, but 247Sports did grade Sac State’s transfer portal class second in the MAC. QB Carson Conklin transferred to Fresno State when Marion took over, but has now come back to the place where he was the starter in 2024. There are major questions in the trenches on both sides and obviously new playbooks to learn with OC Eric Kiesau from Florida and DC Adam Clark from Northern Arizona. Any returnees on defense now have to learn a 3-3-5 stack and returnees on offense, while very few and far between, have a more traditional offense to learn. Competitive? Maybe, but it probably won’t show in the standings.
+The guide turns effort into a question of talent: does the roster have enough to make games tight and win some? The evidence for is 247Sports grading Sacramento State's portal class second in the MAC, and quarterback Carson Conklin returning to the place where he started in 2024 after transferring to Fresno State when Marion took over. The evidence against is major questions in the trenches on both sides plus entirely new playbooks under coordinators Eric Kiesau, from Florida, and Adam Clark, from Northern Arizona — with returning defenders having to learn a 3-3-5 stack and the very few returning offensive players facing a more traditional offense. Its answer is “maybe”, with the caveat that it probably will not show in the standings. *(p. 237)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

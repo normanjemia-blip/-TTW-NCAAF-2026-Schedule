@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 7.8–4.2 overall, 5.8–2.2 in conference |
 | **Schedule strength** | 29.65 (#125 toughest of 138) |
 
-### Season outlook as written in the guide (p. 232)
+### Season outlook — VSiN's analysis in reference form (p. 232)
 
-A 7-7 record at Miami feels like a down year for Chuck Martin, who begins his 13th season at the helm in Oxford. But, when you dig deeper, the season played out exactly as expected. Miami was an underdog in all seven losses and a favorite in all seven wins. How’s that for following a script? Unfortunately, one of those defeats came at the hands of Western Michigan, who got revenge for a regular-season loss when it mattered most in the conference title game. That marks two seasons in a row that the RedHawks have lost in Detroit with the hardware on the line, but also their third straight Motor City appearance. So, the goal is pretty clear for Martin and his players this season. Get back to the title game, but win it this time. Even though the G6 CFP berth is out there for somebody to take, it would take something really, really special for a MAC team to even be in the running, so the goals are pretty reasonable and pretty attainable for the RedHawks as they embark on a season with a lot of new faces on offense and some serious production to replace on defense. Over 7.5 The MAC co-favorites should split their non-conference games down the middle, with two P4 losses and wins in the other two games. While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. The RedHawks have gone 21-6 in MAC play over the last three seasons, winning at least six games each time. With plus money on 8+ wins, I’ll trust that Martin does what he almost always does. My projection is 7.77 wins.
+- The guide says 7-7 feels like a down year for Chuck Martin, who begins a 13th season in Oxford — then argues the season actually played out exactly as expected. *(p. 232)*
+- Its evidence is a perfect correlation with the market: Miami was an underdog in all seven losses and a favourite in all seven wins. *(p. 232)*
+- The exception it regrets is that one of those defeats came against Western Michigan, which avenged a regular-season loss in the conference title game. *(p. 232)*
+- It frames that as a pattern with an upside: two straight seasons losing in Detroit with the hardware on the line, but also a third consecutive Motor City appearance. *(p. 232)*
+- The goal it sets is accordingly simple — get back to the title game and win it. *(p. 232)*
+- It deliberately caps the ambition: even with a Group of Six CFP berth available to someone, it would take something really special for a MAC team to be in the running, so Miami's goals are reasonable and attainable — for a season with many new faces on offense and serious production to replace on defense. *(p. 232)*
+- Recommendation is Over 7.5 wins, with the MAC co-favourites expected to split non-conference — two Power Four losses and two wins. *(p. 232)*
+- Its conference schedule read: Miami misses newcomer Sacramento State and Eastern Michigan, but gets UMass and Kent State on the road, two very winnable trips. *(p. 232)*
+- The case rests on consistency: 21-6 in MAC play over the last three seasons with at least six wins each time. With plus money available on eight or more wins, the guide trusts Martin to do what he almost always does. Projection is 7.77 wins. *(p. 232)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,7 +88,9 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- They had 4.94 YPC against MAC opponents two seasons ago, so that’s probably the benchmark that Martin and OC Pat Welsh will be looking for. *(p. 233)*
+- The guide says 7-7 feels like a down year for Chuck Martin, who begins a 13th season in Oxford — then argues the season actually played out exactly as expected. *(p. 232)*
+- The case rests on consistency: 21-6 in MAC play over the last three seasons with at least six wins each time. With plus money available on eight or more wins, the guide trusts Martin to do what he almost always does. Projection is 7.77 wins. *(p. 232)*
+- **Is the RedHawks defense in any danger?** The guide identifies a stout defense as a staple of the Martin era, and reads last season generously: 21.7 PPG allowed was the most since 2022, but the 41 sacks were the most in a long time, and with the offense completing under 50% of its passes the unit faced tougher situations than in previous seasons and still did fine — allowing under 200 passing yards per game in conference play and just 3.7 yards per carry. The losses it calls extremely heavy: Eli Blakey, Jackson Kuwatch and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups and 12 quarterback hits, while top pass rusher Adam Trick leaves after 8.5 sacks and 13 hits. Its conclusion holds both facts: Martin always finds defenders and losing players is nothing new, but it might take some time given who departed. *(p. 233)*
 
 ## 9. Quarterback Situation
 
@@ -86,12 +98,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 232)*.
 
-- The program’s all-time third-leading passer was first replaced by former rival Dequan Finn from Toledo, but Finn quit the program before playing his old team. *(p. 233)*
-- Even with a mobile QB in Finn, the RedHawks put up just 4.2 yards per carry, their lowest since 2022. *(p. 233)*
-- With a sub-50% completion rate from the offense, the defense was put into some tougher situations relative to previous seasons and still did just fine. *(p. 233)*
-- They allowed under 200 passing yards per game in conference play and just 3.7 yards per carry. *(p. 233)*
-- The defensive losses are extremely heavy, as Eli Blakey, Jackson Kuwatch, and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups, and 12 QB hits. *(p. 233)*
-- Top pass rusher Adam Trick had 8.5 sacks and 13 QB hits and he’s also gone. *(p. 233)*
+- **Who wins the QB battle?** The guide narrates a season of upheaval at the position: Brett Gabbert, the programme's all-time third-leading passer, finally exhausted his eligibility; his replacement, former rival Dequan Finn from Toledo, quit the programme before facing his old team; Henry Hesson took over and was awful against the Rockets; and Thomas Gotkowski finished the season as starter while completing only 44.2% of his passes. Gotkowski remains on the roster alongside Kansas transfer David McComb and Division II Fort Hays State transfer Caleb Heavner. Its lean is McComb, citing offers from Memphis, Virginia Tech, North Texas and Tulane among others, and arguing he is probably a better fit because he is more Gabbert-like than Finn was. *(p. 233)*
 
 ## 10. Returning Production
 
@@ -107,7 +114,10 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Gotkowski only completed 44.2% of his passes, but he’s still on the roster alongside Kansas transfer David McComb and D-II Fort Hays State transfer Caleb Heavner. *(p. 233)*
+- It deliberately caps the ambition: even with a Group of Six CFP berth available to someone, it would take something really special for a MAC team to be in the running, so Miami's goals are reasonable and attainable — for a season with many new faces on offense and serious production to replace on defense. *(p. 232)*
+- **Who wins the QB battle?** The guide narrates a season of upheaval at the position: Brett Gabbert, the programme's all-time third-leading passer, finally exhausted his eligibility; his replacement, former rival Dequan Finn from Toledo, quit the programme before facing his old team; Henry Hesson took over and was awful against the Rockets; and Thomas Gotkowski finished the season as starter while completing only 44.2% of his passes. Gotkowski remains on the roster alongside Kansas transfer David McComb and Division II Fort Hays State transfer Caleb Heavner. Its lean is McComb, citing offers from Memphis, Virginia Tech, North Texas and Tulane among others, and arguing he is probably a better fit because he is more Gabbert-like than Finn was. *(p. 233)*
+- **Who sparks life back into Miami’s running game?** The guide sets the benchmark from Miami's own recent history: even with a mobile quarterback in Finn the RedHawks managed just 4.2 yards per carry, their lowest since 2022, and only 4.1 against MAC opponents — against 4.94 versus MAC opponents two seasons ago, which it takes to be the target for Martin and coordinator Pat Welsh. The additions it lists come from the same Division II source as Heavner: Rodney Nelson from Fort Hays State, who averaged better than six yards per carry. Returning is D'Shawntae Jones, a 5-foot-10, nearly 250-pound back who averaged 4.4 yards on 63 attempts and led the team with seven rushing touchdowns. Its read is a thunder-and-lightning ground game behind an offensive line that played together a lot last season. *(p. 233)*
+- **Is the RedHawks defense in any danger?** The guide identifies a stout defense as a staple of the Martin era, and reads last season generously: 21.7 PPG allowed was the most since 2022, but the 41 sacks were the most in a long time, and with the offense completing under 50% of its passes the unit faced tougher situations than in previous seasons and still did fine — allowing under 200 passing yards per game in conference play and just 3.7 yards per carry. The losses it calls extremely heavy: Eli Blakey, Jackson Kuwatch and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups and 12 quarterback hits, while top pass rusher Adam Trick leaves after 8.5 sacks and 13 hits. Its conclusion holds both facts: Martin always finds defenders and losing players is nothing new, but it might take some time given who departed. *(p. 233)*
 
 ## 12. Recruiting / Roster Notes
 
@@ -115,19 +125,11 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Even though the G6 CFP berth is out there for somebody to take, it would take something really, really special for a MAC team to even be in the running, so the goals are pretty reasonable and pretty attainable for the RedHawks as they embark on a season with a lot of new faces on offense and some serious production to replace on defense. *(p. 232)*
-- D’Shawntae Jones had 4.4 yards per pop last season on 63 attempts and led the team with seven rushing touchdowns as a 5-foot-10, almost 250-pound back. *(p. 233)*
-- Seems like there’s a bit of a “thunder and lightning” component to the ground game to go with an offensive line that played together a lot last season. *(p. 233)*
-- With a sub-50% completion rate from the offense, the defense was put into some tougher situations relative to previous seasons and still did just fine. *(p. 233)*
+- **Who sparks life back into Miami’s running game?** The guide sets the benchmark from Miami's own recent history: even with a mobile quarterback in Finn the RedHawks managed just 4.2 yards per carry, their lowest since 2022, and only 4.1 against MAC opponents — against 4.94 versus MAC opponents two seasons ago, which it takes to be the target for Martin and coordinator Pat Welsh. The additions it lists come from the same Division II source as Heavner: Rodney Nelson from Fort Hays State, who averaged better than six yards per carry. Returning is D'Shawntae Jones, a 5-foot-10, nearly 250-pound back who averaged 4.4 yards on 63 attempts and led the team with seven rushing touchdowns. Its read is a thunder-and-lightning ground game behind an offensive line that played together a lot last season. *(p. 233)*
 
 ## 14. Defensive Identity
 
-- Even though the G6 CFP berth is out there for somebody to take, it would take something really, really special for a MAC team to even be in the running, so the goals are pretty reasonable and pretty attainable for the RedHawks as they embark on a season with a lot of new faces on offense and some serious production to replace on defense. *(p. 232)*
-- One of the staples of the Martin era has been a stout defense. *(p. 233)*
-- Last season’s 21.7 PPG allowed was the most since 2022, but the 41 sacks were also the most in a long time. *(p. 233)*
-- With a sub-50% completion rate from the offense, the defense was put into some tougher situations relative to previous seasons and still did just fine. *(p. 233)*
-- The defensive losses are extremely heavy, as Eli Blakey, Jackson Kuwatch, and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups, and 12 QB hits. *(p. 233)*
-- Top pass rusher Adam Trick had 8.5 sacks and 13 QB hits and he’s also gone. *(p. 233)*
+- **Is the RedHawks defense in any danger?** The guide identifies a stout defense as a staple of the Martin era, and reads last season generously: 21.7 PPG allowed was the most since 2022, but the 41 sacks were the most in a long time, and with the offense completing under 50% of its passes the unit faced tougher situations than in previous seasons and still did fine — allowing under 200 passing yards per game in conference play and just 3.7 yards per carry. The losses it calls extremely heavy: Eli Blakey, Jackson Kuwatch and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups and 12 quarterback hits, while top pass rusher Adam Trick leaves after 8.5 sacks and 13 hits. Its conclusion holds both facts: Martin always finds defenders and losing players is nothing new, but it might take some time given who departed. *(p. 233)*
 
 ## 15. Key Strengths
 
@@ -205,16 +207,17 @@ Prices printed on the team page *(p. 233)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Miami was an underdog in all seven losses and a favorite in all seven wins. *(p. 232)*
-- Over 7.5 The MAC co-favorites should split their non-conference games down the middle, with two P4 losses and wins in the other two games. *(p. 232)*
+- Its evidence is a perfect correlation with the market: Miami was an underdog in all seven losses and a favourite in all seven wins. *(p. 232)*
+- Recommendation is Over 7.5 wins, with the MAC co-favourites expected to split non-conference — two Power Four losses and two wins. *(p. 232)*
+- Its conference schedule read: Miami misses newcomer Sacramento State and Eastern Michigan, but gets UMass and Kent State on the road, two very winnable trips. *(p. 232)*
+- The case rests on consistency: 21-6 in MAC play over the last three seasons with at least six wins each time. With plus money available on eight or more wins, the guide trusts Martin to do what he almost always does. Projection is 7.77 wins. *(p. 232)*
 
 ## 22. Historical / Situational Trends
 
-- The winds of change blew through Oxford last season, as Brett Gabbert finally exhausted his eligibility. *(p. 233)*
-- Even with a mobile QB in Finn, the RedHawks put up just 4.2 yards per carry, their lowest since 2022. *(p. 233)*
-- D’Shawntae Jones had 4.4 yards per pop last season on 63 attempts and led the team with seven rushing touchdowns as a 5-foot-10, almost 250-pound back. *(p. 233)*
-- Seems like there’s a bit of a “thunder and lightning” component to the ground game to go with an offensive line that played together a lot last season. *(p. 233)*
-- Last season’s 21.7 PPG allowed was the most since 2022, but the 41 sacks were also the most in a long time. *(p. 233)*
+- The guide says 7-7 feels like a down year for Chuck Martin, who begins a 13th season in Oxford — then argues the season actually played out exactly as expected. *(p. 232)*
+- Its evidence is a perfect correlation with the market: Miami was an underdog in all seven losses and a favourite in all seven wins. *(p. 232)*
+- The exception it regrets is that one of those defeats came against Western Michigan, which avenged a regular-season loss in the conference title game. *(p. 232)*
+- It frames that as a pattern with an upside: two straight seasons losing in Detroit with the hardware on the line, but also a third consecutive Motor City appearance. *(p. 232)*
 
 ## 23. Important Statistics
 
@@ -261,37 +264,37 @@ As printed on p. 233. Each category carries a value and a national rank.
 
 - Makinen projects **7.8 wins** against a posted total of 6.5 — **+1.3** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
-- The RedHawks have gone 21-6 in MAC play over the last three seasons, winning at least six games each time. *(p. 232)*
+- It frames that as a pattern with an upside: two straight seasons losing in Detroit with the hardware on the line, but also a third consecutive Motor City appearance. *(p. 232)*
+- Its conference schedule read: Miami misses newcomer Sacramento State and Eastern Michigan, but gets UMass and Kent State on the road, two very winnable trips. *(p. 232)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Miami was an underdog in all seven losses and a favorite in all seven wins. *(p. 232)*
-- Unfortunately, one of those defeats came at the hands of Western Michigan, who got revenge for a regular-season loss when it mattered most in the conference title game. *(p. 232)*
-- That marks two seasons in a row that the RedHawks have lost in Detroit with the hardware on the line, but also their third straight Motor City appearance. *(p. 232)*
-- Over 7.5 The MAC co-favorites should split their non-conference games down the middle, with two P4 losses and wins in the other two games. *(p. 232)*
-- The defensive losses are extremely heavy, as Eli Blakey, Jackson Kuwatch, and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups, and 12 QB hits. *(p. 233)*
+- Its evidence is a perfect correlation with the market: Miami was an underdog in all seven losses and a favourite in all seven wins. *(p. 232)*
+- The exception it regrets is that one of those defeats came against Western Michigan, which avenged a regular-season loss in the conference title game. *(p. 232)*
+- Recommendation is Over 7.5 wins, with the MAC co-favourites expected to split non-conference — two Power Four losses and two wins. *(p. 232)*
+- The guide identifies a stout defense as a staple of the Martin era, and reads last season generously: 21.7 PPG allowed was the most since 2022, but the 41 sacks were the most in a long time, and with the offense completing under 50% of its passes the unit faced tougher situations than in previous seasons and still did fine — allowing under 200 passing yards per game in conference play and just 3.7 yards per carry. The losses it calls extremely heavy: Eli Blakey, Jackson Kuwatch and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups and 12 quarterback hits, while top pass rusher Adam Trick leaves after 8.5 sacks and 13 hits. Its conclusion holds both facts: Martin always finds defenders and losing players is nothing new, but it might take some time given who departed. *(p. 233)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 233)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 233)*. Its analysis, in reference form:
 
 ### Who wins the QB battle?
 
-The winds of change blew through Oxford last season, as Brett Gabbert finally exhausted his eligibility. The program’s all-time third-leading passer was first replaced by former rival Dequan Finn from Toledo, but Finn quit the program before playing his old team. Henry Hesson took over and was awful against the Rockets, leading Thomas Gotkowski to finish the season as the starter. Gotkowski only completed 44.2% of his passes, but he’s still on the roster alongside Kansas transfer David McComb and D-II Fort Hays State transfer Caleb Heavner. McComb had offers from Memphis, Virginia Tech, North Texas, and Tulane, among others and is probably a better fit in that he’s more Gabbert-like than Finn was.
+The guide narrates a season of upheaval at the position: Brett Gabbert, the programme's all-time third-leading passer, finally exhausted his eligibility; his replacement, former rival Dequan Finn from Toledo, quit the programme before facing his old team; Henry Hesson took over and was awful against the Rockets; and Thomas Gotkowski finished the season as starter while completing only 44.2% of his passes. Gotkowski remains on the roster alongside Kansas transfer David McComb and Division II Fort Hays State transfer Caleb Heavner. Its lean is McComb, citing offers from Memphis, Virginia Tech, North Texas and Tulane among others, and arguing he is probably a better fit because he is more Gabbert-like than Finn was. *(p. 233)*
 
 ### Who sparks life back into Miami’s running game?
 
-Even with a mobile QB in Finn, the RedHawks put up just 4.2 yards per carry, their lowest since 2022. Furthermore, they only managed 4.1 yards per carry against MAC opponents. They had 4.94 YPC against MAC opponents two seasons ago, so that’s probably the benchmark that Martin and OC Pat Welsh will be looking for. Along with Heavner, Martin went to Fort Hays State and secured Rodney Nelson, who averaged better than six yards per carry. D’Shawntae Jones had 4.4 yards per pop last season on 63 attempts and led the team with seven rushing touchdowns as a 5-foot-10, almost 250-pound back. Seems like there’s a bit of a “thunder and lightning” component to the ground game to go with an offensive line that played together a lot last season.
+The guide sets the benchmark from Miami's own recent history: even with a mobile quarterback in Finn the RedHawks managed just 4.2 yards per carry, their lowest since 2022, and only 4.1 against MAC opponents — against 4.94 versus MAC opponents two seasons ago, which it takes to be the target for Martin and coordinator Pat Welsh. The additions it lists come from the same Division II source as Heavner: Rodney Nelson from Fort Hays State, who averaged better than six yards per carry. Returning is D'Shawntae Jones, a 5-foot-10, nearly 250-pound back who averaged 4.4 yards on 63 attempts and led the team with seven rushing touchdowns. Its read is a thunder-and-lightning ground game behind an offensive line that played together a lot last season. *(p. 233)*
 
 ### Is the RedHawks defense in any danger?
 
-One of the staples of the Martin era has been a stout defense. Last season’s 21.7 PPG allowed was the most since 2022, but the 41 sacks were also the most in a long time. With a sub-50% completion rate from the offense, the defense was put into some tougher situations relative to previous seasons and still did just fine. They allowed under 200 passing yards per game in conference play and just 3.7 yards per carry. The defensive losses are extremely heavy, as Eli Blakey, Jackson Kuwatch, and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups, and 12 QB hits. Top pass rusher Adam Trick had 8.5 sacks and 13 QB hits and he’s also gone. Martin always finds defenders and losing guys is nothing new, but it might take some time with the group that departed.
+The guide identifies a stout defense as a staple of the Martin era, and reads last season generously: 21.7 PPG allowed was the most since 2022, but the 41 sacks were the most in a long time, and with the offense completing under 50% of its passes the unit faced tougher situations than in previous seasons and still did fine — allowing under 200 passing yards per game in conference play and just 3.7 yards per carry. The losses it calls extremely heavy: Eli Blakey, Jackson Kuwatch and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups and 12 quarterback hits, while top pass rusher Adam Trick leaves after 8.5 sacks and 13 hits. Its conclusion holds both facts: Martin always finds defenders and losing players is nothing new, but it might take some time given who departed. *(p. 233)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

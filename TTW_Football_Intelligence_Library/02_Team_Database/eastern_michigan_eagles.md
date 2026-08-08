@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 5.7–6.3 overall, 4.1–3.9 in conference |
 | **Schedule strength** | 29.18 (#127 toughest of 138) |
 
-### Season outlook as written in the guide (p. 226)
+### Season outlook — VSiN's analysis in reference form (p. 226)
 
-The Chris Creighton magic may be dwindling in Ypsilanti. In a world where coaches change teams like they change underwear, Creighton is kicking off his 13th season with the program. However, after records of 5-7 and 4-8, the Eagles have missed the bowl season in consecutive years for the first time since 2014-15, Creighton’s first two years with the team. The program heads into 2026 with the lowest-ranked transfer portal class in the conference per 247Sports, but also tied with in-state rival Central Michigan for the largest freshman class. Creighton wants to be a program builder and watch players develop over multiple seasons. While admirable, and successful in the past, it is a hard route to take nowadays. Sticking with that theme, instead of going outside the program to replace DC Ben Needham, Creighton simply promoted two of the defensive assistants to revive a unit that has allowed 6.2 yards per play each of the last two seasons. Under 5.5 The talent level on the roster doesn’t really seem to be any stronger. While the Eagles do host Sacramento State in the Hornets’ first MAC game, they have to go to UMass and Akron, two of their more winnable conference contests. With a neutral-site game against Central Michigan, the Eagles only play three conference home games. It does seem like other programs are evolving more and portal success seems paramount nowadays. Perhaps EMU goes bowling, but the ceiling is probably six wins and several outcomes below that seem more plausible. My projection is 5.39 wins.
+- The guide suspects the Chris Creighton magic may be dwindling in Ypsilanti. *(p. 226)*
+- It marks the rarity of his tenure — in a world where coaches change teams constantly, Creighton is starting a 13th season with the programme. *(p. 226)*
+- The trend against him: records of 5-7 and 4-8 mean consecutive missed bowl seasons for the first time since 2014-15, Creighton's own first two years. *(p. 226)*
+- On roster building it records a contrast — the lowest-ranked portal class in the conference per 247Sports, but a freshman class tied with in-state rival Central Michigan for the largest. *(p. 226)*
+- It reads that as a deliberate philosophy: Creighton wants to build a programme and watch players develop across multiple seasons — admirable and previously successful, but a hard route nowadays. *(p. 226)*
+- The same theme extends to staffing, with Creighton promoting two defensive assistants rather than hiring outside to replace coordinator Ben Needham, on a unit that has allowed 6.2 yards per play in each of the last two seasons. *(p. 226)*
+- Recommendation is Under 5.5 wins, on the judgement that the roster's talent level does not seem any stronger. *(p. 226)*
+- Its schedule reasoning: Eastern Michigan hosts Sacramento State in the Hornets' first MAC game, but must travel to UMass and Akron, two of its more winnable conference games, and with a neutral-site game against Central Michigan it plays only three conference home games. *(p. 226)*
+- It sets the whole case against the era: other programmes appear to be evolving more, and portal success seems paramount now. A bowl is possible, but the ceiling is probably six wins with several lower outcomes more plausible. Projection is 5.39 wins. *(p. 226)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,8 +88,10 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- In a world where coaches change teams like they change underwear, Creighton is kicking off his 13th season with the program. *(p. 226)*
-- Sticking with that theme, instead of going outside the program to replace DC Ben Needham, Creighton simply promoted two of the defensive assistants to revive a unit that has allowed 6.2 yards per play each of the last two seasons. *(p. 226)*
+- The guide suspects the Chris Creighton magic may be dwindling in Ypsilanti. *(p. 226)*
+- It marks the rarity of his tenure — in a world where coaches change teams constantly, Creighton is starting a 13th season with the programme. *(p. 226)*
+- It reads that as a deliberate philosophy: Creighton wants to build a programme and watch players develop across multiple seasons — admirable and previously successful, but a hard route nowadays. *(p. 226)*
+- The same theme extends to staffing, with Creighton promoting two defensive assistants rather than hiring outside to replace coordinator Ben Needham, on a unit that has allowed 6.2 yards per play in each of the last two seasons. *(p. 226)*
 
 ## 9. Quarterback Situation
 
@@ -87,9 +99,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 226)*.
 
-- The team’s three leading tacklers are back, the starting QB, and top WR, and that’s seemingly a rarity in the current landscape of college football. *(p. 227)*
-- EMU will roll with QB Noah Kim once again, the Class of 2020 Michigan State commit who is on his seventh season of college football. *(p. 227)*
-- Kim had an 18/11 TD/INT ratio and was tops in the MAC with 2,817 passing yards, but the offense only had 24.1 PPG, even with just 11 sacks allowed. *(p. 227)*
+- **What is the ceiling for the offense?** Eastern Michigan again starts Noah Kim, a Class of 2020 Michigan State commit now in his seventh season of college football. His numbers were an 18/11 touchdown-to-interception ratio and a MAC-leading 2,817 passing yards, yet the offense produced only 24.1 PPG despite allowing just 11 sacks. The guide credits Kim with enough mobility to evade pressure and expects production from Braydon Bennett, who averaged over six yards per carry at Coastal Carolina, plus the depth backs. Replacing McMillan matters twice over, since he was also the second-leading receiver. Its overall read is a largely similar offense to last season with a less experienced offensive line, and it leaves one figure deliberately unresolved: Eastern Michigan went from 5.1 to 5.7 yards per play between 2024 and 2025 yet scored 1.8 fewer points per game. *(p. 227)*
 
 ## 10. Returning Production
 
@@ -105,38 +115,28 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- The program heads into 2026 with the lowest-ranked transfer portal class in the conference per 247Sports, but also tied with in-state rival Central Michigan for the largest freshman class. *(p. 226)*
-- It does seem like other programs are evolving more and portal success seems paramount nowadays. *(p. 226)*
-- With the P4-level teams, I’m not sure how much it matters, but it might in the G6, where the talent isn’t as strong and there are more transfers from JUCOs and lower-division schools. *(p. 227)*
+- On roster building it records a contrast — the lowest-ranked portal class in the conference per 247Sports, but a freshman class tied with in-state rival Central Michigan for the largest. *(p. 226)*
+- It reads that as a deliberate philosophy: Creighton wants to build a programme and watch players develop across multiple seasons — admirable and previously successful, but a hard route nowadays. *(p. 226)*
+- It sets the whole case against the era: other programmes appear to be evolving more, and portal success seems paramount now. A bowl is possible, but the ceiling is probably six wins with several lower outcomes more plausible. Projection is 5.39 wins. *(p. 226)*
+- **Is this a case study in returning production in the transfer portal era?** The guide assembles the continuity evidence from two sources: per Bill Connelly, Eastern Michigan ranks 24th in percentage of returning production even after losing 1,000-yard rusher Dontae McMillan; per Phil Steele, the Eagles are No. 1 in the MAC and No. 7 nationally in his experience chart. Returning are the three leading tacklers, the starting quarterback and the top receiver — a rarity in the current landscape. It then interrogates the value of that continuity honestly, saying it is unsure how much it matters at Power Four level while suggesting it might matter more in the Group of Six, where talent is thinner and more transfers arrive from JUCOs and lower divisions. Its complication is that the defense has more returning production than the offense, and that defense allowed 6.2 yards per play while generating only 14 sacks. *(p. 227)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. *(p. 151)*
+Referenced in the guide on **pp. 151** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- The program heads into 2026 with the lowest-ranked transfer portal class in the conference per 247Sports, but also tied with in-state rival Central Michigan for the largest freshman class. *(p. 226)*
-- EMU will roll with QB Noah Kim once again, the Class of 2020 Michigan State commit who is on his seventh season of college football. *(p. 227)*
+
+Referenced in the guide on **pp. 226, 227** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Sticking with that theme, instead of going outside the program to replace DC Ben Needham, Creighton simply promoted two of the defensive assistants to revive a unit that has allowed 6.2 yards per play each of the last two seasons. *(p. 226)*
-- Unfortunately, the defense has more returning production than the offense and this is a defense that allowed 6.2 yards per play and only generated 14 sacks. *(p. 227)*
-- Kim had an 18/11 TD/INT ratio and was tops in the MAC with 2,817 passing yards, but the offense only had 24.1 PPG, even with just 11 sacks allowed. *(p. 227)*
-- McMillan was the team’s second-leading receiver, so we’ll see who can help there, but this is largely a similar offense to last season, just with a less experienced offensive line. *(p. 227)*
+- **Is this a case study in returning production in the transfer portal era?** The guide assembles the continuity evidence from two sources: per Bill Connelly, Eastern Michigan ranks 24th in percentage of returning production even after losing 1,000-yard rusher Dontae McMillan; per Phil Steele, the Eagles are No. 1 in the MAC and No. 7 nationally in his experience chart. Returning are the three leading tacklers, the starting quarterback and the top receiver — a rarity in the current landscape. It then interrogates the value of that continuity honestly, saying it is unsure how much it matters at Power Four level while suggesting it might matter more in the Group of Six, where talent is thinner and more transfers arrive from JUCOs and lower divisions. Its complication is that the defense has more returning production than the offense, and that defense allowed 6.2 yards per play while generating only 14 sacks. *(p. 227)*
+- **What is the ceiling for the offense?** Eastern Michigan again starts Noah Kim, a Class of 2020 Michigan State commit now in his seventh season of college football. His numbers were an 18/11 touchdown-to-interception ratio and a MAC-leading 2,817 passing yards, yet the offense produced only 24.1 PPG despite allowing just 11 sacks. The guide credits Kim with enough mobility to evade pressure and expects production from Braydon Bennett, who averaged over six yards per carry at Coastal Carolina, plus the depth backs. Replacing McMillan matters twice over, since he was also the second-leading receiver. Its overall read is a largely similar offense to last season with a less experienced offensive line, and it leaves one figure deliberately unresolved: Eastern Michigan went from 5.1 to 5.7 yards per play between 2024 and 2025 yet scored 1.8 fewer points per game. *(p. 227)*
 
 ## 14. Defensive Identity
 
-- Sticking with that theme, instead of going outside the program to replace DC Ben Needham, Creighton simply promoted two of the defensive assistants to revive a unit that has allowed 6.2 yards per play each of the last two seasons. *(p. 226)*
-- The team’s three leading tacklers are back, the starting QB, and top WR, and that’s seemingly a rarity in the current landscape of college football. *(p. 227)*
-- Unfortunately, the defense has more returning production than the offense and this is a defense that allowed 6.2 yards per play and only generated 14 sacks. *(p. 227)*
-- Kim had an 18/11 TD/INT ratio and was tops in the MAC with 2,817 passing yards, but the offense only had 24.1 PPG, even with just 11 sacks allowed. *(p. 227)*
-- Kim is mobile enough to evade the pass rush and the combination of Braydon Bennett and the depth guys at running back should produce, as Bennett had over six yards per carry at Coastal Carolina. *(p. 227)*
-- Bryce Llewellyn had 102 tackles to lead the way and he’s back, along with the team’s second and third-leading tacklers. *(p. 227)*
-- The defense allowed 6.2 YPP for the second straight season and gave up nearly two more points per game. *(p. 227)*
-- The defense improved greatly against the pass, but allowed a full yard more per carry. *(p. 227)*
-- This was the 131st-ranked defense on third down, only had nine takeaways, and 126th in sacks. *(p. 227)*
-- One potential silver lining is that the defense only allowed 5.6 YPP in conference games. *(p. 227)*
+- The same theme extends to staffing, with Creighton promoting two defensive assistants rather than hiring outside to replace coordinator Ben Needham, on a unit that has allowed 6.2 yards per play in each of the last two seasons. *(p. 226)*
+- **Is this a case study in returning production in the transfer portal era?** The guide assembles the continuity evidence from two sources: per Bill Connelly, Eastern Michigan ranks 24th in percentage of returning production even after losing 1,000-yard rusher Dontae McMillan; per Phil Steele, the Eagles are No. 1 in the MAC and No. 7 nationally in his experience chart. Returning are the three leading tacklers, the starting quarterback and the top receiver — a rarity in the current landscape. It then interrogates the value of that continuity honestly, saying it is unsure how much it matters at Power Four level while suggesting it might matter more in the Group of Six, where talent is thinner and more transfers arrive from JUCOs and lower divisions. Its complication is that the defense has more returning production than the offense, and that defense allowed 6.2 yards per play while generating only 14 sacks. *(p. 227)*
+- **Is that returning production the key for the defense?** Bryce Llewellyn returns after a team-leading 102 tackles, along with the second and third-leading tacklers, but the guide's point is that returnees have not translated into impact plays. The defense allowed 6.2 yards per play for a second straight season while conceding nearly two more points per game, improved greatly against the pass yet allowed a full yard more per carry, ranked 131st on third down, managed only nine takeaways and ranked 126th in sacks. The one silver lining it offers is that the unit allowed just 5.6 yards per play in conference games. *(p. 227)*
 
 ## 15. Key Strengths
 
@@ -203,22 +203,18 @@ Prices printed on the team page *(p. 227)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 5.5 wins, on the judgement that the roster's talent level does not seem any stronger. *(p. 226)*
+- Its schedule reasoning: Eastern Michigan hosts Sacramento State in the Hornets' first MAC game, but must travel to UMass and Akron, two of its more winnable conference games, and with a neutral-site game against Central Michigan it plays only three conference home games. *(p. 226)*
+- It sets the whole case against the era: other programmes appear to be evolving more, and portal success seems paramount now. A bowl is possible, but the ceiling is probably six wins with several lower outcomes more plausible. Projection is 5.39 wins. *(p. 226)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. *(p. 222)*
-- Over 2.5 The betting market seems to be confident in three wins coming from the group of Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State, and Akron and I can’t blame them. *(p. 230)*
+Also referenced on **pp. 222, 230** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- However, after records of 5-7 and 4-8, the Eagles have missed the bowl season in consecutive years for the first time since 2014-15, Creighton’s first two years with the team. *(p. 226)*
-- McMillan was the team’s second-leading receiver, so we’ll see who can help there, but this is largely a similar offense to last season, just with a less experienced offensive line. *(p. 227)*
+- It marks the rarity of his tenure — in a world where coaches change teams constantly, Creighton is starting a 13th season with the programme. *(p. 226)*
+- The trend against him: records of 5-7 and 4-8 mean consecutive missed bowl seasons for the first time since 2014-15, Creighton's own first two years. *(p. 226)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. *(p. 151)*
-- But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. *(p. 222)*
-- Sacred Heart and Stonehill are two great options, but they also host Ball State and Eastern Michigan this season, two teams that they didn’t play last season, and I think either one could be beatable, if not both. *(p. 231)*
+Referenced in the guide on **pp. 151, 222, 231** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -264,42 +260,38 @@ As printed on p. 227. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
-- While admirable, and successful in the past, it is a hard route to take nowadays. *(p. 226)*
-- While the Eagles do host Sacramento State in the Hornets’ first MAC game, they have to go to UMass and Akron, two of their more winnable conference contests. *(p. 226)*
-- It does seem like other programs are evolving more and portal success seems paramount nowadays. *(p. 226)*
-- With the P4-level teams, I’m not sure how much it matters, but it might in the G6, where the talent isn’t as strong and there are more transfers from JUCOs and lower-division schools. *(p. 227)*
-- McMillan was the team’s second-leading receiver, so we’ll see who can help there, but this is largely a similar offense to last season, just with a less experienced offensive line. *(p. 227)*
-- The defense improved greatly against the pass, but allowed a full yard more per carry. *(p. 227)*
-- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
-- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
-- None of that includes spots against Eastern Michigan and UTEP on the road, which are coin flips at best. *(p. 256)*
+- It reads that as a deliberate philosophy: Creighton wants to build a programme and watch players develop across multiple seasons — admirable and previously successful, but a hard route nowadays. *(p. 226)*
+- Its schedule reasoning: Eastern Michigan hosts Sacramento State in the Hornets' first MAC game, but must travel to UMass and Akron, two of its more winnable conference games, and with a neutral-site game against Central Michigan it plays only three conference home games. *(p. 226)*
+- It sets the whole case against the era: other programmes appear to be evolving more, and portal success seems paramount now. A bowl is possible, but the ceiling is probably six wins with several lower outcomes more plausible. Projection is 5.39 wins. *(p. 226)*
+- Eastern Michigan again starts Noah Kim, a Class of 2020 Michigan State commit now in his seventh season of college football. His numbers were an 18/11 touchdown-to-interception ratio and a MAC-leading 2,817 passing yards, yet the offense produced only 24.1 PPG despite allowing just 11 sacks. The guide credits Kim with enough mobility to evade pressure and expects production from Braydon Bennett, who averaged over six yards per carry at Coastal Carolina, plus the depth backs. Replacing McMillan matters twice over, since he was also the second-leading receiver. Its overall read is a largely similar offense to last season with a less experienced offensive line, and it leaves one figure deliberately unresolved: Eastern Michigan went from 5.1 to 5.7 yards per play between 2024 and 2025 yet scored 1.8 fewer points per game. *(p. 227)*
+- Bryce Llewellyn returns after a team-leading 102 tackles, along with the second and third-leading tacklers, but the guide's point is that returnees have not translated into impact plays. The defense allowed 6.2 yards per play for a second straight season while conceding nearly two more points per game, improved greatly against the pass yet allowed a full yard more per carry, ranked 131st on third down, managed only nine takeaways and ranked 126th in sacks. The one silver lining it offers is that the unit allowed just 5.6 yards per play in conference games. *(p. 227)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- However, after records of 5-7 and 4-8, the Eagles have missed the bowl season in consecutive years for the first time since 2014-15, Creighton’s first two years with the team. *(p. 226)*
-- Per Bill Connelly, Eastern Michigan ranks 24th in percentage of returning production and that’s even with the loss of a 1,000-yard rusher in Dontae McMillan. *(p. 227)*
+- The trend against him: records of 5-7 and 4-8 mean consecutive missed bowl seasons for the first time since 2014-15, Creighton's own first two years. *(p. 226)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 227)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 227)*. Its analysis, in reference form:
 
 ### Is this a case study in returning production in the transfer portal era?
 
-Per Bill Connelly, Eastern Michigan ranks 24th in percentage of returning production and that’s even with the loss of a 1,000-yard rusher in Dontae McMillan. The team’s three leading tacklers are back, the starting QB, and top WR, and that’s seemingly a rarity in the current landscape of college football. Phil Steele has the Eagles No. 1 in the MAC and No. 7 nationally in his experience chart. How valuable is that continuity? With the P4-level teams, I’m not sure how much it matters, but it might in the G6, where the talent isn’t as strong and there are more transfers from JUCOs and lower-division schools. Unfortunately, the defense has more returning production than the offense and this is a defense that allowed 6.2 yards per play and only generated 14 sacks.
+The guide assembles the continuity evidence from two sources: per Bill Connelly, Eastern Michigan ranks 24th in percentage of returning production even after losing 1,000-yard rusher Dontae McMillan; per Phil Steele, the Eagles are No. 1 in the MAC and No. 7 nationally in his experience chart. Returning are the three leading tacklers, the starting quarterback and the top receiver — a rarity in the current landscape. It then interrogates the value of that continuity honestly, saying it is unsure how much it matters at Power Four level while suggesting it might matter more in the Group of Six, where talent is thinner and more transfers arrive from JUCOs and lower divisions. Its complication is that the defense has more returning production than the offense, and that defense allowed 6.2 yards per play while generating only 14 sacks. *(p. 227)*
 
 ### What is the ceiling for the offense?
 
-EMU will roll with QB Noah Kim once again, the Class of 2020 Michigan State commit who is on his seventh season of college football. Kim had an 18/11 TD/INT ratio and was tops in the MAC with 2,817 passing yards, but the offense only had 24.1 PPG, even with just 11 sacks allowed. Kim is mobile enough to evade the pass rush and the combination of Braydon Bennett and the depth guys at running back should produce, as Bennett had over six yards per carry at Coastal Carolina. McMillan was the team’s second-leading receiver, so we’ll see who can help there, but this is largely a similar offense to last season, just with a less experienced offensive line. While EMU went from 5.1 YPP to 5.7 YPP from 2024 to 2025, they scored 1.8 fewer PPG. Make of that what you will.
+Eastern Michigan again starts Noah Kim, a Class of 2020 Michigan State commit now in his seventh season of college football. His numbers were an 18/11 touchdown-to-interception ratio and a MAC-leading 2,817 passing yards, yet the offense produced only 24.1 PPG despite allowing just 11 sacks. The guide credits Kim with enough mobility to evade pressure and expects production from Braydon Bennett, who averaged over six yards per carry at Coastal Carolina, plus the depth backs. Replacing McMillan matters twice over, since he was also the second-leading receiver. Its overall read is a largely similar offense to last season with a less experienced offensive line, and it leaves one figure deliberately unresolved: Eastern Michigan went from 5.1 to 5.7 yards per play between 2024 and 2025 yet scored 1.8 fewer points per game. *(p. 227)*
 
 ### Is that returning production the key for the defense?
 
-Bryce Llewellyn had 102 tackles to lead the way and he’s back, along with the team’s second and third-leading tacklers. However, while there are a lot of returnees, impact plays were few and far between. The defense allowed 6.2 YPP for the second straight season and gave up nearly two more points per game. The defense improved greatly against the pass, but allowed a full yard more per carry. This was the 131st-ranked defense on third down, only had nine takeaways, and 126th in sacks. One potential silver lining is that the defense only allowed 5.6 YPP in conference games.
+Bryce Llewellyn returns after a team-leading 102 tackles, along with the second and third-leading tacklers, but the guide's point is that returnees have not translated into impact plays. The defense allowed 6.2 yards per play for a second straight season while conceding nearly two more points per game, improved greatly against the pass yet allowed a full yard more per carry, ranked 131st on third down, managed only nine takeaways and ranked 126th in sacks. The one silver lining it offers is that the unit allowed just 5.6 yards per play in conference games. *(p. 227)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

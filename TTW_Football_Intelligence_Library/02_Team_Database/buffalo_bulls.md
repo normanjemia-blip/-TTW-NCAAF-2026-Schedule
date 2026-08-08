@@ -24,9 +24,20 @@
 | **Makinen projected wins** | 6.2–5.8 overall, 3.8–4.2 in conference |
 | **Schedule strength** | 26.4 (#137 toughest of 138) |
 
-### Season outlook as written in the guide (p. 222)
+### Season outlook — VSiN's analysis in reference form (p. 222)
 
-Pete Lembo was dealt a harsh reminder about how hard it is to be a head coach at the G5 level and with the current state of affairs. Lembo’s first season at Buffalo was spectacular, as the team went 9-4 and comfortably beat Liberty in the Bahamas Bowl. But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. They also lost to Akron as a double- digit favorite. The Bulls had a swing of 16 in the turnover margin department, going from +9 to -7, as C.J. Ogbonna was outstanding in 2024 and Ta’Quan Roberson and Gunnar Gray were less so in 2025. Al-Jay Henderson went from a 1,000- yard rusher to a 755-yard rusher due to attrition on the offensive line. Last year’s defense was even unequivocally better than the 2024 version, but the Bulls won four fewer games and now we have a lot of questions heading into Year 3 of the Lembo regime. Over 6.5 This is a bit of a price play here, as the juice on Over 5.5 is cost- prohibitive, but 6-6 does look like the most likely outcome. However, the schedule is pretty kind with two FCS opponents at home in non-conference, plus home games against UMass and Bowling Green. November roadies at Ball State and Akron are extremely winnable games and even the Week 2 trip to FIU has the chance for a happy flight home. Lembo gets a lot out of his talent and I think his program bounces back. My projection is 6.32 wins, but the Over 6.5 has some equity. With two FCS games, Buffalo needs to get to seven wins for a bowl, so unless they can get a waiver for winning six games if two of them are the FCS games, that should be a motivating factor.
+- The guide's theme is the difficulty of the Group of Five job as things now stand, with Pete Lembo receiving a harsh reminder. *(p. 222)*
+- Year 1 it calls spectacular: 9-4 with a comfortable Bahamas Bowl win over Liberty. *(p. 222)*
+- Year 2 was 5-7, and it stresses that even the wins were scary — beating Kent State by only a field goal as a 23.5-point favourite, then barely beating Eastern Michigan and UMass as substantial favourites, with a loss to Akron as a double-digit favourite. *(p. 222)*
+- It attributes much of the decline to turnovers, a swing of 16 from +9 to -7, contrasting C.J. Ogbonna's outstanding 2024 with weaker play from Ta'Quan Roberson and Gunnar Gray. *(p. 222)*
+- It ties a second decline to the offensive line: Al-Jay Henderson fell from a 1,000-yard rusher to 755 yards because of attrition up front. *(p. 222)*
+- The paradox it highlights is that last year's defense was unequivocally better than the 2024 version, yet Buffalo won four fewer games — leaving many questions for Year 3 of the Lembo regime. *(p. 222)*
+- Recommendation is Over 6.5 wins, described as a price play because the juice on Over 5.5 is cost-prohibitive, even though 6-6 looks like the most likely outcome. *(p. 222)*
+- Its schedule case is favourable: two FCS opponents at home in non-conference, home games against UMass and Bowling Green, extremely winnable November road trips to Ball State and Akron, and a Week 2 trip to FIU with a chance at a happy flight home. *(p. 222)*
+- It credits Lembo with getting a lot out of his talent and expects a bounce-back, projecting 6.32 wins while judging Over 6.5 to have equity. *(p. 222)*
+- One eligibility mechanic is flagged as a motivating factor: with two FCS games on the slate, Buffalo needs seven wins for a bowl unless a waiver allows six with two FCS wins among them. *(p. 222)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,12 +89,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Pete Lembo was dealt a harsh reminder about how hard it is to be a head coach at the G5 level and with the current state of affairs. *(p. 222)*
-- After he was let go by Ball State, he bounced around a bit as a special teams coordinator and really did a fine job in that role. *(p. 223)*
+- The guide's theme is the difficulty of the Group of Five job as things now stand, with Pete Lembo receiving a harsh reminder. *(p. 222)*
+- Year 1 it calls spectacular: 9-4 with a comfortable Bahamas Bowl win over Liberty. *(p. 222)*
+- It credits Lembo with getting a lot out of his talent and expects a bounce-back, projecting 6.32 wins while judging Over 6.5 to have equity. *(p. 222)*
+- **Isn’t there something ‘special’ about Lembo?** The guide's answer is special teams, and it cites three independent sources. Per Phil Steele, Buffalo ranked 13th in special teams, a jump of more than 40 spots; Bill Connelly's SP+ had the Bulls 12th nationally; and Brian Fremeau at BCF Toys had them 37th in net starting field position, with only 23.5% of opponents' drives beginning less than 60 yards from the end zone — despite 22 turnovers lost. It supplies the biographical link: after being let go by Ball State, Lembo bounced around as a special teams coordinator and did fine work in that role. Its general point is that special teams are underrated in college football, especially amid heavy roster turnover, and that being good there can absolutely raise a team's floor. It expects the Bulls to be good there again. *(p. 223)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Taylor most recently served as an offensive advisor for the Buffalo Bills and was the offensive coordinator for William & Mary from 2020 to 2023. *(p. 263)*
+Also referenced on **pp. 263** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -91,9 +102,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 222)*.
 
-- Everything starts with the QB and we saw that last season, as Buffalo excelled on special teams and played well on defense, but Roberson couldn’t keep up with what Ogbonna did the year prior. *(p. 223)*
-- Elijah Holmes threw for over 3,000 yards for the D-II Wingate Bulldogs, while redshirt freshman Jason Wright had 15 rush attempts, but no pass attempts. *(p. 223)*
-- But, the Bulls have 69 sacks over Lembo’s two seasons, so they should have found somebody to get after the QB. *(p. 223)*
+- It attributes much of the decline to turnovers, a swing of 16 from +9 to -7, contrasting C.J. Ogbonna's outstanding 2024 with weaker play from Ta'Quan Roberson and Gunnar Gray. *(p. 222)*
+- **Is there anything special about the quarterbacks?** The guide calls this by far the most questionable position group on the roster, and uses last season as proof of the position's primacy: Buffalo excelled on special teams and played well on defense, but Roberson could not match what Ogbonna had done the year before. The options it lists are Elijah Holmes, who threw for over 3,000 yards for Division II Wingate, and redshirt freshman Jason Wright, who had 15 rushing attempts and no pass attempts. Its own expectation is that true freshman Qur'an McNeill plays sooner rather than later, reasoning from his offer list — Arkansas, Cincinnati, UConn, Syracuse and Boston College — that a programme with a very light NIL budget invested heavily to land him. *(p. 223)*
 
 ## 10. Returning Production
 
@@ -109,35 +119,26 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 11. Transfer Portal
 
-- With a very light NIL budget, I’m guessing they invested pretty heavily in this kid. *(p. 223)*
+- **Is there anything special about the quarterbacks?** The guide calls this by far the most questionable position group on the roster, and uses last season as proof of the position's primacy: Buffalo excelled on special teams and played well on defense, but Roberson could not match what Ogbonna had done the year before. The options it lists are Elijah Holmes, who threw for over 3,000 yards for Division II Wingate, and redshirt freshman Jason Wright, who had 15 rushing attempts and no pass attempts. Its own expectation is that true freshman Qur'an McNeill plays sooner rather than later, reasoning from his offer list — Arkansas, Cincinnati, UConn, Syracuse and Boston College — that a programme with a very light NIL budget invested heavily to land him. *(p. 223)*
+- **Can Bowden rebuild the defense on the fly?** The guide notes the offensive questions are obvious — two players with 62 receptions apiece are gone, as is Henderson — before arguing the defensive losses were just as heavy. Leading tackler Red Murdock had 142 stops, 61 more than Dion Crawford, and both are gone, as is Mitchell Gosner, one of four Bulls with 70-plus tackles; everyone with three or more sacks is out. Its counterweight is programme-level production rather than individuals: Buffalo has 69 sacks across Lembo's two seasons, so it expects someone to be found who can rush the passer. The weakness it flags is takeaways — only 15 last season, just seven of them interceptions — and the mitigating factor is that quite a few in-house options have been elevated, so the programme retains players who know the system. *(p. 223)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Maybe Buffalo transfer Victor Snow and Miami transfer Joshisa Trader, along with holdover RB Jayden Scott, can stand out instead of last season’s by-committee approach. *(p. 97)*
+Referenced in the guide on **pp. 97** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Elijah Holmes threw for over 3,000 yards for the D-II Wingate Bulldogs, while redshirt freshman Jason Wright had 15 rush attempts, but no pass attempts. *(p. 223)*
-- Personally, I think we see true freshman Qur’an McNeill sooner rather than later, as he had offers from Arkansas, Cincinnati, UConn, Syracuse, and Boston College, but opted for Buffalo. *(p. 223)*
+
+Referenced in the guide on **pp. 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Al-Jay Henderson went from a 1,000- yard rusher to a 755-yard rusher due to attrition on the offensive line. *(p. 222)*
-- The offensive questions are plenty obvious, including the loss of two guys who had 62 receptions apiece, plus Henderson, but the defensive losses were heavy, too. *(p. 223)*
+- It ties a second decline to the offensive line: Al-Jay Henderson fell from a 1,000-yard rusher to 755 yards because of attrition up front. *(p. 222)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Taylor most recently served as an offensive advisor for the Buffalo Bills and was the offensive coordinator for William & Mary from 2020 to 2023. *(p. 263)*
+Referenced in the guide on **pp. 263** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Last year’s defense was even unequivocally better than the 2024 version, but the Bulls won four fewer games and now we have a lot of questions heading into Year 3 of the Lembo regime. *(p. 222)*
-- Everything starts with the QB and we saw that last season, as Buffalo excelled on special teams and played well on defense, but Roberson couldn’t keep up with what Ogbonna did the year prior. *(p. 223)*
-- The offensive questions are plenty obvious, including the loss of two guys who had 62 receptions apiece, plus Henderson, but the defensive losses were heavy, too. *(p. 223)*
-- Leading tackler Red Murdock had 142 stops, 61 more than Dion Crawford, and he’s gone. *(p. 223)*
-- Everybody with 3+ sacks is out. *(p. 223)*
-- But, the Bulls have 69 sacks over Lembo’s two seasons, so they should have found somebody to get after the QB. *(p. 223)*
-- Last year’s defense only had 15 takeaways and only seven were interceptions. *(p. 223)*
+- The paradox it highlights is that last year's defense was unequivocally better than the 2024 version, yet Buffalo won four fewer games — leaving many questions for Year 3 of the Lembo regime. *(p. 222)*
+- **Can Bowden rebuild the defense on the fly?** The guide notes the offensive questions are obvious — two players with 62 receptions apiece are gone, as is Henderson — before arguing the defensive losses were just as heavy. Leading tackler Red Murdock had 142 stops, 61 more than Dion Crawford, and both are gone, as is Mitchell Gosner, one of four Bulls with 70-plus tackles; everyone with three or more sacks is out. Its counterweight is programme-level production rather than individuals: Buffalo has 69 sacks across Lembo's two seasons, so it expects someone to be found who can rush the passer. The weakness it flags is takeaways — only 15 last season, just seven of them interceptions — and the mitigating factor is that quite a few in-house options have been elevated, so the programme retains players who know the system. *(p. 223)*
 
 ## 15. Key Strengths
 
@@ -207,22 +208,20 @@ Prices printed on the team page *(p. 223)*:
 
 ## 21. Betting Notes / Best Bets
 
-- But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. *(p. 222)*
-- They also lost to Akron as a double- digit favorite. *(p. 222)*
-- Over 6.5 This is a bit of a price play here, as the juice on Over 5.5 is cost- prohibitive, but 6-6 does look like the most likely outcome. *(p. 222)*
+- Year 2 was 5-7, and it stresses that even the wins were scary — beating Kent State by only a field goal as a 23.5-point favourite, then barely beating Eastern Michigan and UMass as substantial favourites, with a loss to Akron as a double-digit favourite. *(p. 222)*
+- Recommendation is Over 6.5 wins, described as a price play because the juice on Over 5.5 is cost-prohibitive, even though 6-6 looks like the most likely outcome. *(p. 222)*
+- Its schedule case is favourable: two FCS opponents at home in non-conference, home games against UMass and Bowling Green, extremely winnable November road trips to Ball State and Akron, and a Week 2 trip to FIU with a chance at a happy flight home. *(p. 222)*
+- It credits Lembo with getting a lot out of his talent and expects a bounce-back, projecting 6.32 wins while judging Over 6.5 to have equity. *(p. 222)*
+- One eligibility mechanic is flagged as a motivating factor: with two FCS games on the slate, Buffalo needs seven wins for a bowl unless a waiver allows six with two FCS wins among them. *(p. 222)*
+- **Isn’t there something ‘special’ about Lembo?** The guide's answer is special teams, and it cites three independent sources. Per Phil Steele, Buffalo ranked 13th in special teams, a jump of more than 40 spots; Bill Connelly's SP+ had the Bulls 12th nationally; and Brian Fremeau at BCF Toys had them 37th in net starting field position, with only 23.5% of opponents' drives beginning less than 60 yards from the end zone — despite 22 turnovers lost. It supplies the biographical link: after being let go by Ball State, Lembo bounced around as a special teams coordinator and did fine work in that role. Its general point is that special teams are underrated in college football, especially amid heavy roster turnover, and that being good there can absolutely raise a team's floor. It expects the Bulls to be good there again. *(p. 223)*
 
 ## 22. Historical / Situational Trends
 
-- But, this past season, Buffalo went 5-7 and even the wins were scary, beating Kent State by only a field goal as a 23.5-point favorite and then barely beating Eastern Michigan and UMass as substantial favorites. *(p. 222)*
-- Ogbonna was outstanding in 2024 and Ta’Quan Roberson and Gunnar Gray were less so in 2025. *(p. 222)*
-- Last year’s defense was even unequivocally better than the 2024 version, but the Bulls won four fewer games and now we have a lot of questions heading into Year 3 of the Lembo regime. *(p. 222)*
-- One area of the team that absolutely did improve last season was the special teams. *(p. 223)*
-- Everything starts with the QB and we saw that last season, as Buffalo excelled on special teams and played well on defense, but Roberson couldn’t keep up with what Ogbonna did the year prior. *(p. 223)*
-- Last year’s defense only had 15 takeaways and only seven were interceptions. *(p. 223)*
+- Year 1 it calls spectacular: 9-4 with a comfortable Bahamas Bowl win over Liberty. *(p. 222)*
+- Year 2 was 5-7, and it stresses that even the wins were scary — beating Kent State by only a field goal as a 23.5-point favourite, then barely beating Eastern Michigan and UMass as substantial favourites, with a loss to Akron as a double-digit favourite. *(p. 222)*
+- The paradox it highlights is that last year's defense was unequivocally better than the 2024 version, yet Buffalo won four fewer games — leaving many questions for Year 3 of the Lembo regime. *(p. 222)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Maybe Buffalo transfer Victor Snow and Miami transfer Joshisa Trader, along with holdover RB Jayden Scott, can stand out instead of last season’s by-committee approach. *(p. 97)*
+Referenced in the guide on **pp. 97** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -269,41 +268,41 @@ As printed on p. 223. Each category carries a value and a national rank.
 
 - Makinen projects **6.2 wins** against a posted total of 5.5 — **+0.7** in this team's favour.
 - The team page recommends **OVER 6.5**.
-- November roadies at Ball State and Akron are extremely winnable games and even the Week 2 trip to FIU has the chance for a happy flight home. *(p. 222)*
-- With two FCS games, Buffalo needs to get to seven wins for a bowl, so unless they can get a waiver for winning six games if two of them are the FCS games, that should be a motivating factor. *(p. 222)*
-- One area of the team that absolutely did improve last season was the special teams. *(p. 223)*
-- Special teams are a very underrated part of the game, especially in college football and especially with so much roster turnover, but being good in that area can absolutely elevate the floor of a team. *(p. 223)*
-- Expect the Bulls to be good there again. *(p. 223)*
+- Its schedule case is favourable: two FCS opponents at home in non-conference, home games against UMass and Bowling Green, extremely winnable November road trips to Ball State and Akron, and a Week 2 trip to FIU with a chance at a happy flight home. *(p. 222)*
+- It credits Lembo with getting a lot out of his talent and expects a bounce-back, projecting 6.32 wins while judging Over 6.5 to have equity. *(p. 222)*
+- The guide's answer is special teams, and it cites three independent sources. Per Phil Steele, Buffalo ranked 13th in special teams, a jump of more than 40 spots; Bill Connelly's SP+ had the Bulls 12th nationally; and Brian Fremeau at BCF Toys had them 37th in net starting field position, with only 23.5% of opponents' drives beginning less than 60 yards from the end zone — despite 22 turnovers lost. It supplies the biographical link: after being let go by Ball State, Lembo bounced around as a special teams coordinator and did fine work in that role. Its general point is that special teams are underrated in college football, especially amid heavy roster turnover, and that being good there can absolutely raise a team's floor. It expects the Bulls to be good there again. *(p. 223)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- They also lost to Akron as a double- digit favorite. *(p. 222)*
-- Last year’s defense was even unequivocally better than the 2024 version, but the Bulls won four fewer games and now we have a lot of questions heading into Year 3 of the Lembo regime. *(p. 222)*
-- Even with 22 turnovers lost, Brian Fremeau at BCF Toys had Buffalo 37th in Net Starting Field Position and only 23.5% of opponents’ drives started less than 60 yards from the end zone. *(p. 223)*
-- This is, by far, the most questionable position group on the roster. *(p. 223)*
-- The offensive questions are plenty obvious, including the loss of two guys who had 62 receptions apiece, plus Henderson, but the defensive losses were heavy, too. *(p. 223)*
-- In terms of other weak schedules, Buffalo, Sacramento State, and Ohio, all other MAC teams as well, check in at Nos. 2-4. *(p. 46)*
+- The guide's theme is the difficulty of the Group of Five job as things now stand, with Pete Lembo receiving a harsh reminder. *(p. 222)*
+- Year 2 was 5-7, and it stresses that even the wins were scary — beating Kent State by only a field goal as a 23.5-point favourite, then barely beating Eastern Michigan and UMass as substantial favourites, with a loss to Akron as a double-digit favourite. *(p. 222)*
+- It attributes much of the decline to turnovers, a swing of 16 from +9 to -7, contrasting C.J. Ogbonna's outstanding 2024 with weaker play from Ta'Quan Roberson and Gunnar Gray. *(p. 222)*
+- The paradox it highlights is that last year's defense was unequivocally better than the 2024 version, yet Buffalo won four fewer games — leaving many questions for Year 3 of the Lembo regime. *(p. 222)*
+- The guide's answer is special teams, and it cites three independent sources. Per Phil Steele, Buffalo ranked 13th in special teams, a jump of more than 40 spots; Bill Connelly's SP+ had the Bulls 12th nationally; and Brian Fremeau at BCF Toys had them 37th in net starting field position, with only 23.5% of opponents' drives beginning less than 60 yards from the end zone — despite 22 turnovers lost. It supplies the biographical link: after being let go by Ball State, Lembo bounced around as a special teams coordinator and did fine work in that role. Its general point is that special teams are underrated in college football, especially amid heavy roster turnover, and that being good there can absolutely raise a team's floor. It expects the Bulls to be good there again. *(p. 223)*
+- The guide calls this by far the most questionable position group on the roster, and uses last season as proof of the position's primacy: Buffalo excelled on special teams and played well on defense, but Roberson could not match what Ogbonna had done the year before. The options it lists are Elijah Holmes, who threw for over 3,000 yards for Division II Wingate, and redshirt freshman Jason Wright, who had 15 rushing attempts and no pass attempts. Its own expectation is that true freshman Qur'an McNeill plays sooner rather than later, reasoning from his offer list — Arkansas, Cincinnati, UConn, Syracuse and Boston College — that a programme with a very light NIL budget invested heavily to land him. *(p. 223)*
+- The guide notes the offensive questions are obvious — two players with 62 receptions apiece are gone, as is Henderson — before arguing the defensive losses were just as heavy. Leading tackler Red Murdock had 142 stops, 61 more than Dion Crawford, and both are gone, as is Mitchell Gosner, one of four Bulls with 70-plus tackles; everyone with three or more sacks is out. Its counterweight is programme-level production rather than individuals: Buffalo has 69 sacks across Lembo's two seasons, so it expects someone to be found who can rush the passer. The weakness it flags is takeaways — only 15 last season, just seven of them interceptions — and the mitigating factor is that quite a few in-house options have been elevated, so the programme retains players who know the system. *(p. 223)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 223)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 223)*. Its analysis, in reference form:
 
 ### Isn’t there something ‘special’ about Lembo?
 
-One area of the team that absolutely did improve last season was the special teams. Per Phil Steele, the Bulls were 13th in his special teams rankings, a jump of more than 40 spots, and Bill Connelly’s SP+ had the Bulls 12th nationally. After he was let go by Ball State, he bounced around a bit as a special teams coordinator and really did a fine job in that role. Even with 22 turnovers lost, Brian Fremeau at BCF Toys had Buffalo 37th in Net Starting Field Position and only 23.5% of opponents’ drives started less than 60 yards from the end zone. Special teams are a very underrated part of the game, especially in college football and especially with so much roster turnover, but being good in that area can absolutely elevate the floor of a team. Expect the Bulls to be good there again.
+The guide's answer is special teams, and it cites three independent sources. Per Phil Steele, Buffalo ranked 13th in special teams, a jump of more than 40 spots; Bill Connelly's SP+ had the Bulls 12th nationally; and Brian Fremeau at BCF Toys had them 37th in net starting field position, with only 23.5% of opponents' drives beginning less than 60 yards from the end zone — despite 22 turnovers lost. It supplies the biographical link: after being let go by Ball State, Lembo bounced around as a special teams coordinator and did fine work in that role. Its general point is that special teams are underrated in college football, especially amid heavy roster turnover, and that being good there can absolutely raise a team's floor. It expects the Bulls to be good there again. *(p. 223)*
 
 ### Is there anything special about the quarterbacks?
 
-This is, by far, the most questionable position group on the roster. Everything starts with the QB and we saw that last season, as Buffalo excelled on special teams and played well on defense, but Roberson couldn’t keep up with what Ogbonna did the year prior. Elijah Holmes threw for over 3,000 yards for the D-II Wingate Bulldogs, while redshirt freshman Jason Wright had 15 rush attempts, but no pass attempts. Personally, I think we see true freshman Qur’an McNeill sooner rather than later, as he had offers from Arkansas, Cincinnati, UConn, Syracuse, and Boston College, but opted for Buffalo. With a very light NIL budget, I’m guessing they invested pretty heavily in this kid.
+The guide calls this by far the most questionable position group on the roster, and uses last season as proof of the position's primacy: Buffalo excelled on special teams and played well on defense, but Roberson could not match what Ogbonna had done the year before. The options it lists are Elijah Holmes, who threw for over 3,000 yards for Division II Wingate, and redshirt freshman Jason Wright, who had 15 rushing attempts and no pass attempts. Its own expectation is that true freshman Qur'an McNeill plays sooner rather than later, reasoning from his offer list — Arkansas, Cincinnati, UConn, Syracuse and Boston College — that a programme with a very light NIL budget invested heavily to land him. *(p. 223)*
 
 ### Can Bowden rebuild the defense on the fly?
 
-The offensive questions are plenty obvious, including the loss of two guys who had 62 receptions apiece, plus Henderson, but the defensive losses were heavy, too. Leading tackler Red Murdock had 142 stops, 61 more than Dion Crawford, and he’s gone. So is Crawford. So is Mitchell Gosner, who was one of four Bulls with 70+ tackles. Everybody with 3+ sacks is out. But, the Bulls have 69 sacks over Lembo’s two seasons, so they should have found somebody to get after the QB. Last year’s defense only had 15 takeaways and only seven were interceptions. Quite a few in-house options have been elevated, so the program has guys who know the system.
+The guide notes the offensive questions are obvious — two players with 62 receptions apiece are gone, as is Henderson — before arguing the defensive losses were just as heavy. Leading tackler Red Murdock had 142 stops, 61 more than Dion Crawford, and both are gone, as is Mitchell Gosner, one of four Bulls with 70-plus tackles; everyone with three or more sacks is out. Its counterweight is programme-level production rather than individuals: Buffalo has 69 sacks across Lembo's two seasons, so it expects someone to be found who can rush the passer. The weakness it flags is takeaways — only 15 last season, just seven of them interceptions — and the mitigating factor is that quite a few in-house options have been elevated, so the programme retains players who know the system. *(p. 223)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
