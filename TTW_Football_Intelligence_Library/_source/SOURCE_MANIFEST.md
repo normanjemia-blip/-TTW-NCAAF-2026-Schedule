@@ -11,21 +11,33 @@ Anything not listed here has **not** been consulted.
 | --- | --- |
 | Title | 2026 VSiN College Football Betting Guide |
 | Pages | 345 |
-| File | `2026-VSiN-CFB-Betting-Guide.pdf` |
+| File | `_source/2026-VSiN-CFB-Betting-Guide.pdf` (committed) |
 | Size | 6,995,586 bytes |
 | MD5 | `a4af70fac06969d33f2c5b8ceb94aff1` |
 | PDF version | 1.6 |
-| Origin | Supplied by the Director from Google Drive |
-| Drive file ID | `18bWkdYxqqkAft1E8lnoV5xAVgEy7_jym` |
-| Retrieved | 2026-08-06 |
+| Origin | Uploaded to the repository by the Director, 2026-08-07 (commit `c1ec899`, branch `claude/2026-ncaaf-schedule-build-by6j5n`) |
+| Originally retrieved | 2026-08-06 from Google Drive, file ID `18bWkdYxqqkAft1E8lnoV5xAVgEy7_jym` |
 
 **Verify the MD5 before trusting this library against a different copy.** A
 re-issued or corrected printing would shift page numbers and invalidate every
 page reference here.
 
-The PDF itself is **not committed**. It is a commercial product, and the
-extracted text is what the library actually needs. To rebuild from scratch,
-re-obtain the file and confirm the MD5 above.
+The guide is **committed alongside the library** so the whole thing is
+self-contained and rebuildable without external retrieval. It was originally
+obtained from the Director's Drive and later uploaded to the repository; both
+copies are byte-identical, verified by MD5.
+
+### Verification history
+
+| Date | Event | Result |
+| --- | --- | --- |
+| 2026-08-06 | Phase 1 built from the Drive copy | validation passed |
+| 2026-08-08 | Repository copy verified against the Drive copy | MD5 identical |
+| 2026-08-08 | Full pipeline re-run against the repository copy | index regenerated **byte-for-byte identical**; zero diffs |
+
+The re-run is the meaningful check: it confirms the Master Index is fully
+reproducible from the committed source, so nothing in it depends on a transient
+file or a one-off manual step.
 
 ### Quality of the source file
 

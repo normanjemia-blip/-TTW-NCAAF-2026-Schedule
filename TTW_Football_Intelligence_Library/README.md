@@ -88,9 +88,13 @@ The index is generated, never hand-edited. Extraction fixes are made once in
 
 ```bash
 pip install pymupdf
-python3 _tools/extract_guide.py /path/to/2026-VSiN-CFB-Betting-Guide.pdf _source
+python3 _tools/extract_guide.py _source/2026-VSiN-CFB-Betting-Guide.pdf _source
 python3 _tools/build_index.py
 ```
+
+The guide PDF is committed under `_source/`, so this runs with no external
+retrieval. Verified 2026-08-08: a full re-run reproduces the committed index
+byte-for-byte.
 
 `extract_guide.py` exits non-zero if validation fails, so a bad extraction can
 never silently produce a plausible-looking library.
