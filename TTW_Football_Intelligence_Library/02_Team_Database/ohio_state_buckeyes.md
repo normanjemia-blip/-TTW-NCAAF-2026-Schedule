@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 10.0–2.0 overall, 7.4–1.6 in conference |
 | **Schedule strength** | 50.07 (#10 toughest of 138) |
 
-### Season outlook as written in the guide (p. 168)
+### Season outlook — VSiN's analysis in reference form (p. 168)
 
-Ohio State enters 2026 with something rare – a losing streak. The Buckeyes dropped the last two games of 2025 losing to Indiana, for the first time since 1988, in the Big Ten Championship Game and then being upset as the No. 2 seed in the Cotton Bowl by Miami. They did end a four-game losing streak to “the team up north” (Michigan), and finished 12-2, but it is never enough in Columbus, and the Buckeyes are not standing pat as there are significant changes. The Buckeyes added 18 players through the portal and have 50 new players in the program including yet another top- five recruiting class. Adding a former NFL coach worked last year with Matt Patricia as defensive coordinator, so Ryan Day is trying the same thing on offense with Arthur Smith. Even with so many changes from last season, Julian Sayin and Jeremiah Smith return to form arguably the best QB-WR combination in the nation to head up what is annually one of the most talented rosters in college football. Over 9.5 Ordinarily a win total in single digits would be a slam dunk over for the Buckeyes considering they haven’t had fewer than double-digit victories in a full season since 2011. However, there are 51 newcomers on this roster and this schedule is loaded. Ohio State has road trips to Texas, Iowa, Indiana, USC, and Nebraska plus host Illinois, Oregon, and Michigan at “The Horseshoe”. Ohio State ran the slowest-paced offense in college football, but this year they should take the training wheels off Sayin and Arthur Smith could do for the offense what Patricia did for the defense last season.
+- Ohio State enters 2026 with something rare — a losing streak. It lost the Big Ten Championship Game to Indiana, a first defeat to them since 1988, then was upset as the No. 2 seed in the Cotton Bowl by Miami. *(p. 168)*
+- The Buckeyes did end a four-game losing run to Michigan and finished 12-2, which the guide says is never enough in Columbus. *(p. 168)*
+- They have not stood pat: 18 portal additions, 50 new players and another top-five recruiting class. *(p. 168)*
+- Having succeeded with an NFL hire in defensive coordinator Matt Patricia, Ryan Day has repeated the approach on offense with Arthur Smith. *(p. 168)*
+- Julian Sayin and Jeremiah Smith return to form what the guide calls arguably the best quarterback-receiver combination in the country, on one of the sport's most talented rosters. *(p. 168)*
+- Recommendation is Over 9.5 wins. The guide notes that a single-digit total would ordinarily be an obvious Over given Ohio State has not won fewer than ten in a full season since 2011. *(p. 168)*
+- It sets against that 51 newcomers and a loaded schedule: road trips to Texas, Iowa, Indiana, USC and Nebraska, plus Illinois, Oregon and Michigan at home. *(p. 168)*
+- One tactical expectation is offered: Ohio State ran the slowest-paced offense in college football, and the guide expects the training wheels to come off Sayin, suggesting Arthur Smith could do for the offense what Patricia did for the defense. *(p. 168)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,17 +87,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Adding a former NFL coach worked last year with Matt Patricia as defensive coordinator, so Ryan Day is trying the same thing on offense with Arthur Smith. *(p. 168)*
-- Last year, Patricia had to replace eight starters in his first season as defensive coordinator, and all his group did was to become the No. 1 defense in the country by holding opponents to a paltry 9.3 points per game and allowing just 219.1 yards per game. *(p. 169)*
+- Having succeeded with an NFL hire in defensive coordinator Matt Patricia, Ryan Day has repeated the approach on offense with Arthur Smith. *(p. 168)*
+- One tactical expectation is offered: Ohio State ran the slowest-paced offense in college football, and the guide expects the training wheels to come off Sayin, suggesting Arthur Smith could do for the offense what Patricia did for the defense. *(p. 168)*
+- **Can the Buckeyes offensive line get back to being dominant again?** The guide is fair to the unit first: it was dominant in the regular season, allowing six sacks, before conceding five against Indiana and five more against Miami. It entertains other explanations for those losses — whether Day became too conservative and whether the tempo was too slow, answering yes to both — but concludes the clearest reason is that the line was beaten up front. Four starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. While the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively and will let Sayin use his legs. *(p. 169)*
+- **Can Matt Patricia's defense be No. 1 again?** Patricia replaced eight starters in his first year and produced the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game. He must now replace eight more, all drafted last spring. The guide's distinction is that the talent is always top-notch but there is no superstar equivalent to last year's. Kenyatta Jackson Jr (6.5 sacks) is the likely next first-rounder, joined on the line by Alabama transfer James Smith and UCF transfer John Walker. Other transfer starters include Earl Little Jr from Florida State and Terry Moore from Duke at free safety, with corners Jermaine Matthews Jr (two interceptions) and Devin Sanchez and strong safety Jaylen McClain (53 tackles). *(p. 169)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Ohio State under OC Arthur Smith is worrisome, given that they’ll likely squander their talent advantage again and play slowly, which makes them more beatable. *(p. 11)*
-- New defensive coordinator Jim Knowles, formerly at Penn State and Ohio State, will make a difference. 27. *(p. 19)*
-- Since joining the Ohio State staff in 2017, it was obvious that Hartline was making a beeline for a prominent head coaching spot in college football. *(p. 27)*
-- The absurd receiver pipeline is just one attractive element to Hartline, who was Ohio State’s OC/co-OC the last three seasons. *(p. 29)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- I felt like the Falcons were one of the more interesting teams that I wrote up last season because they hired former Ohio State standout and Tennessee State miracle worker Eddie George as the head coach. *(p. 220)*
+Also referenced on **pp. 11, 19, 27, 29, 95, 220, 238, 343** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -98,14 +102,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 168)*.
 
-- Even with so many changes from last season, Julian Sayin and Jeremiah Smith return to form arguably the best QB-WR combination in the nation to head up what is annually one of the most talented rosters in college football. *(p. 168)*
-- While the downfield passing game will be the most explosive part of the offense, Arthur Smith wants to run the ball more aggressively and will allow Sayin to use his legs more. *(p. 169)*
+- Julian Sayin and Jeremiah Smith return to form what the guide calls arguably the best quarterback-receiver combination in the country, on one of the sport's most talented rosters. *(p. 168)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OHIO STATE The Buckeyes are as good as it gets at the offense’s most important positions with quarterback Julian Sayin (77% completions and 32 touchdowns last season), running back Bo Jackson (1,090 yards) and receiver Jeremiah Smith (87 receptions, 1,243 yards and 12 touchdowns). *(p. 18)*
-- LOUISVILLE A year after losing the quarterback competition at Ohio State, Lincoln Kienholz will probably help the Cardinals win a lot of games in the ACC. *(p. 19)*
-- Ohio State (+180), defeated by the Hoosiers in the Big Ten Championship Game, returns QB Julian Sayin and WR Jeremiah Smith as perhaps the best QB-WR tandem in college football. *(p. 149)*
+Also referenced on **pp. 18, 19, 149** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -121,71 +120,33 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
-- The Buckeyes added 18 players through the portal and have 50 new players in the program including yet another top- five recruiting class. *(p. 168)*
-- Kenyatta Jackson Jr (6.5 sacks) is likely the next first rounder from this group, and he is joined on the defensive line by Alabama transfer James Smith and UCF transfer John Walker. *(p. 169)*
-- Other transfers that will start included Earl Little Jr. (Florida State) and Terry Moore (Duke) at free safety to go along with corners Jermaine Matthews Jr (two INTs) and Devin Sanchez along with strong safety Jaylen McClain (53 tackles). *(p. 169)*
-- Transfer Devin McCuin had 726 yards and eight touchdowns at UTSA last season. *(p. 169)*
+- They have not stood pat: 18 portal additions, 50 new players and another top-five recruiting class. *(p. 168)*
+- **Can Matt Patricia's defense be No. 1 again?** Patricia replaced eight starters in his first year and produced the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game. He must now replace eight more, all drafted last spring. The guide's distinction is that the talent is always top-notch but there is no superstar equivalent to last year's. Kenyatta Jackson Jr (6.5 sacks) is the likely next first-rounder, joined on the line by Alabama transfer James Smith and UCF transfer John Walker. Other transfer starters include Earl Little Jr from Florida State and Terry Moore from Duke at free safety, with corners Jermaine Matthews Jr (two interceptions) and Devin Sanchez and strong safety Jaylen McClain (53 tackles). *(p. 169)*
+- **Who can be Jeremiah Smith's running mate?** Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- After spending three seasons at Ohio State, Kienholz transferred to Louisville this offseason. *(p. 15)*
-- The offensive line ranks among the nation’s best, and Ohio State transfer Quincy Porter boosts the receiving corps. *(p. 18)*
-- Marcus Stokes was a multi-year starter at West Florida and Air Noland was a very highly-touted recruit who never saw the field at Ohio State and transferred to South Carolina. *(p. 59)*
-- This time, Brohm has gone the portal route again, but with Ohio State’s Lincoln Kienholz. *(p. 93)*
-- Ohio State transfer James Peoples and Quentin Martin Jr (103 yards in Pinstripe Bowl) join Hansen in the backfield. *(p. 173)*
+Referenced in the guide on **pp. 10, 15, 18, 59, 93, 173** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- The Buckeyes added 18 players through the portal and have 50 new players in the program including yet another top- five recruiting class. *(p. 168)*
-- Four starters are back and Bo Jackson rushed for almost 1100 yards as a freshman behind the group. *(p. 169)*
-- Smith has been the most talented receiver in college football since he stepped on the field as a true freshman two years ago. *(p. 169)*
-- Brandon Inniss returns and Chris Henry Jr. is the latest five-star freshman prospect at receiver for the Buckeyes. *(p. 169)*
+- They have not stood pat: 18 portal additions, 50 new players and another top-five recruiting class. *(p. 168)*
+- **Who can be Jeremiah Smith's running mate?** Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- Marcus Stokes was a multi-year starter at West Florida and Air Noland was a very highly-touted recruit who never saw the field at Ohio State and transferred to South Carolina. *(p. 59)*
-- Now it’s Brian Hartline’s turn, as the world’s best wide receiver recruiter has left Ohio State to put his stamp on his own program. *(p. 66)*
+Referenced in the guide on **pp. 10, 59, 66** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Adding a former NFL coach worked last year with Matt Patricia as defensive coordinator, so Ryan Day is trying the same thing on offense with Arthur Smith. *(p. 168)*
-- Ohio State ran the slowest-paced offense in college football, but this year they should take the training wheels off Sayin and Arthur Smith could do for the offense what Patricia did for the defense last season. *(p. 168)*
-- Did the Ohio State offense run too slow of a tempo? *(p. 169)*
-- It is fair to answer in the affirmative to both those questions, but the most obvious reason the Buckeyes lost those games is because their offensive line got whipped up front. *(p. 169)*
-- While the downfield passing game will be the most explosive part of the offense, Arthur Smith wants to run the ball more aggressively and will allow Sayin to use his legs more. *(p. 169)*
-- Smith has been the most talented receiver in college football since he stepped on the field as a true freshman two years ago. *(p. 169)*
-- Brandon Inniss returns and Chris Henry Jr. is the latest five-star freshman prospect at receiver for the Buckeyes. *(p. 169)*
+- Julian Sayin and Jeremiah Smith return to form what the guide calls arguably the best quarterback-receiver combination in the country, on one of the sport's most talented rosters. *(p. 168)*
+- One tactical expectation is offered: Ohio State ran the slowest-paced offense in college football, and the guide expects the training wheels to come off Sayin, suggesting Arthur Smith could do for the offense what Patricia did for the defense. *(p. 168)*
+- **Can the Buckeyes offensive line get back to being dominant again?** The guide is fair to the unit first: it was dominant in the regular season, allowing six sacks, before conceding five against Indiana and five more against Miami. It entertains other explanations for those losses — whether Day became too conservative and whether the tempo was too slow, answering yes to both — but concludes the clearest reason is that the line was beaten up front. Four starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. While the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively and will let Sayin use his legs. *(p. 169)*
+- **Who can be Jeremiah Smith's running mate?** Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- The offensive line ranks among the nation’s best, and Ohio State transfer Quincy Porter boosts the receiving corps. *(p. 18)*
-- OHIO STATE The Buckeyes are as good as it gets at the offense’s most important positions with quarterback Julian Sayin (77% completions and 32 touchdowns last season), running back Bo Jackson (1,090 yards) and receiver Jeremiah Smith (87 receptions, 1,243 yards and 12 touchdowns). *(p. 18)*
-- The absurd receiver pipeline is just one attractive element to Hartline, who was Ohio State’s OC/co-OC the last three seasons. *(p. 29)*
-- USF is looking to keep up the offensive prowess they had under another Ohio State alum in Alex Golesh, but it’s fair to question Hartline’s experience outside of his offensive bubble. *(p. 29)*
-- Now it’s Brian Hartline’s turn, as the world’s best wide receiver recruiter has left Ohio State to put his stamp on his own program. *(p. 66)*
+Referenced in the guide on **pp. 10, 18, 29, 66, 77, 170, 182, 238, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Adding a former NFL coach worked last year with Matt Patricia as defensive coordinator, so Ryan Day is trying the same thing on offense with Arthur Smith. *(p. 168)*
-- Ohio State ran the slowest-paced offense in college football, but this year they should take the training wheels off Sayin and Arthur Smith could do for the offense what Patricia did for the defense last season. *(p. 168)*
-- To be fair, they were dominant in the regular season and only allowed six sacks. *(p. 169)*
-- Then, they gave up five sacks against Indiana and five more against Miami. *(p. 169)*
-- Last year, Patricia had to replace eight starters in his first season as defensive coordinator, and all his group did was to become the No. 1 defense in the country by holding opponents to a paltry 9.3 points per game and allowing just 219.1 yards per game. *(p. 169)*
-- This year, Patricia also must replace eight defensive starters, as they were all drafted into the NFL last spring. *(p. 169)*
-- Kenyatta Jackson Jr (6.5 sacks) is likely the next first rounder from this group, and he is joined on the defensive line by Alabama transfer James Smith and UCF transfer John Walker. *(p. 169)*
-- Other transfers that will start included Earl Little Jr. (Florida State) and Terry Moore (Duke) at free safety to go along with corners Jermaine Matthews Jr (two INTs) and Devin Sanchez along with strong safety Jaylen McClain (53 tackles). *(p. 169)*
+- **Can Matt Patricia's defense be No. 1 again?** Patricia replaced eight starters in his first year and produced the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game. He must now replace eight more, all drafted last spring. The guide's distinction is that the talent is always top-notch but there is no superstar equivalent to last year's. Kenyatta Jackson Jr (6.5 sacks) is the likely next first-rounder, joined on the line by Alabama transfer James Smith and UCF transfer John Walker. Other transfer starters include Earl Little Jr from Florida State and Terry Moore from Duke at free safety, with corners Jermaine Matthews Jr (two interceptions) and Devin Sanchez and strong safety Jaylen McClain (53 tackles). *(p. 169)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Fresno has the best lines in the new Pac on both sides of the ball, and they were ranked No. 2 nationally in pass defense (only Ohio State ranked higher). *(p. 13)*
-- New defensive coordinator Jim Knowles, formerly at Penn State and Ohio State, will make a difference. 27. *(p. 19)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
-- The Huskies only averaged 9.3 points per game and 4.3 yards per play against Ohio State, Michigan, Wisconsin, and Oregon, who were the four best defenses they faced. *(p. 182)*
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
+Referenced in the guide on **pp. 13, 19, 95, 151, 182, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -241,9 +202,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They’ll have a three-week stretch that’s really challenging early, at the Big House, hosting Ohio State and then at Washington, but after that, there’s no obvious loss on the schedule, especially considering the success they had against some of those conference opponents last season. *(p. 13)*
+Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -285,39 +244,18 @@ Prices printed on the team page *(p. 169)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- This is still arguably the most talented corps in the country, but it will be interesting to see who becomes the No. 2 option to Smith, who will see every type of coverage you can throw at him. *(p. 169)*
+- Recommendation is Over 9.5 wins. The guide notes that a single-digit total would ordinarily be an obvious Over given Ohio State has not won fewer than ten in a full season since 2011. *(p. 168)*
+- It sets against that 51 newcomers and a loaded schedule: road trips to Texas, Iowa, Indiana, USC and Nebraska, plus Illinois, Oregon and Michigan at home. *(p. 168)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- It looks like a three-horse race in the Big Ten between Indiana, Ohio State and Oregon, so +245 is a fair price. *(p. 6)*
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- OREGON TO REACH BIG TEN CHAMPIONSHIP GAME (+100) DraftKings had Ohio State and Indiana as odds-on prices to make it to the Big Ten title game as of the Tuesday before the CFB Guide came out. *(p. 11)*
-- Per my numbers, Oregon is an underdog once (at Ohio State) and -5.5 or higher in every other Big Ten game. *(p. 11)*
-- OREGON TO REACH BIG TEN TITLE GAME (+100) I personally view Oregon as the favorite in the Big Ten, so seeing them behind both Ohio State and Indiana just to make the title game — and with a plus sign in front of the price — felt like a must-play. *(p. 14)*
-- “One could throw Texas, Georgia, Ohio State, Oregon, Indiana, Miami and Notre Dame into a hat and pull them out in any order and I’d probably say, ‘OK, I can buy that.’” Notre Dame will be favored in all 12 games and likely a double-digit favorite in 10 of those games. *(p. 17)*
+Also referenced on **pp. 6, 10, 11, 14, 17, 38, 45** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Ohio State enters 2026 with something rare – a losing streak. *(p. 168)*
-- The Buckeyes dropped the last two games of 2025 losing to Indiana, for the first time since 1988, in the Big Ten Championship Game and then being upset as the No. 2 seed in the Cotton Bowl by Miami. *(p. 168)*
-- They did end a four-game losing streak to “the team up north” (Michigan), and finished 12-2, but it is never enough in Columbus, and the Buckeyes are not standing pat as there are significant changes. *(p. 168)*
-- Adding a former NFL coach worked last year with Matt Patricia as defensive coordinator, so Ryan Day is trying the same thing on offense with Arthur Smith. *(p. 168)*
-- Even with so many changes from last season, Julian Sayin and Jeremiah Smith return to form arguably the best QB-WR combination in the nation to head up what is annually one of the most talented rosters in college football. *(p. 168)*
-- Over 9.5 Ordinarily a win total in single digits would be a slam dunk over for the Buckeyes considering they haven’t had fewer than double-digit victories in a full season since 2011. *(p. 168)*
-- Ohio State ran the slowest-paced offense in college football, but this year they should take the training wheels off Sayin and Arthur Smith could do for the offense what Patricia did for the defense last season. *(p. 168)*
-- Last year, Patricia had to replace eight starters in his first season as defensive coordinator, and all his group did was to become the No. 1 defense in the country by holding opponents to a paltry 9.3 points per game and allowing just 219.1 yards per game. *(p. 169)*
-- The talent is always top-notch here, but there is not a superstar like last year. *(p. 169)*
-- Smith has been the most talented receiver in college football since he stepped on the field as a true freshman two years ago. *(p. 169)*
-- Transfer Devin McCuin had 726 yards and eight touchdowns at UTSA last season. *(p. 169)*
+- Ohio State enters 2026 with something rare — a losing streak. It lost the Big Ten Championship Game to Indiana, a first defeat to them since 1988, then was upset as the No. 2 seed in the Cotton Bowl by Miami. *(p. 168)*
+- The Buckeyes did end a four-game losing run to Michigan and finished 12-2, which the guide says is never enough in Columbus. *(p. 168)*
+- Recommendation is Over 9.5 wins. The guide notes that a single-digit total would ordinarily be an obvious Over given Ohio State has not won fewer than ten in a full season since 2011. *(p. 168)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They’ll have a three-week stretch that’s really challenging early, at the Big House, hosting Ohio State and then at Washington, but after that, there’s no obvious loss on the schedule, especially considering the success they had against some of those conference opponents last season. *(p. 13)*
-- They avoid Indiana altogether, who appeared to be their Kryptonite last season; road trips to USC and Ohio State will be challenging, and they do welcome Michigan and Washington to Autzen Stadium, but my gut says they don’t lose more than one of those games. *(p. 14)*
-- At the end of last season, Notre Dame was No. 3 in my power rankings, behind only Ohio State and Indiana. *(p. 17)*
-- The downside is the Ducks were blown out by eventual national champions Ohio State and Indiana in playoff games the past two years. *(p. 18)*
-- OHIO STATE The Buckeyes are as good as it gets at the offense’s most important positions with quarterback Julian Sayin (77% completions and 32 touchdowns last season), running back Bo Jackson (1,090 yards) and receiver Jeremiah Smith (87 receptions, 1,243 yards and 12 touchdowns). *(p. 18)*
-- Nebraska (7-6 last season) faces Ohio State, Oregon and Indiana but should have enough talent to go bowling again. 39. *(p. 20)*
+Referenced in the guide on **pp. 13, 14, 17, 18, 20, 27, 38, 149, 151, 166, 170, 172, 176, 181, 209, 220, 249** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -364,50 +302,38 @@ As printed on p. 169. Each category carries a value and a national rank.
 
 - Makinen projects **10.0 wins** against a posted total of 9.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 9.5**.
-- Even with so many changes from last season, Julian Sayin and Jeremiah Smith return to form arguably the best QB-WR combination in the nation to head up what is annually one of the most talented rosters in college football. *(p. 168)*
-- Other transfers that will start included Earl Little Jr. (Florida State) and Terry Moore (Duke) at free safety to go along with corners Jermaine Matthews Jr (two INTs) and Devin Sanchez along with strong safety Jaylen McClain (53 tackles). *(p. 169)*
-- Smith has been the most talented receiver in college football since he stepped on the field as a true freshman two years ago. *(p. 169)*
-- Brandon Inniss returns and Chris Henry Jr. is the latest five-star freshman prospect at receiver for the Buckeyes. *(p. 169)*
-- This is still arguably the most talented corps in the country, but it will be interesting to see who becomes the No. 2 option to Smith, who will see every type of coverage you can throw at him. *(p. 169)*
-- Fresno has the best lines in the new Pac on both sides of the ball, and they were ranked No. 2 nationally in pass defense (only Ohio State ranked higher). *(p. 13)*
-- ND has playoff experience and a great shot at winning it all.” It can be argued Oregon deserves to be No. 1, and the same goes for Ohio State. *(p. 17)*
-- The offensive line ranks among the nation’s best, and Ohio State transfer Quincy Porter boosts the receiving corps. *(p. 18)*
-- Texas and Georgia are the SEC’s best bets to break the Big Ten’s threeyear championship reign strung together by Michigan, Ohio State and Indiana. *(p. 38)*
-- The only other double-digit win projections go to Ohio State and Georgia. • Assuming the projections play out accurately, besides Texas Tech, Oregon, Indiana, Miami (FL), and Ohio State the other Power Four conference teams that would be expected to contend for a spot in the College Football Playoff this year would be Georgia, Texas, Penn State, BYU, and perhaps SMU or Utah. *(p. 46)*
+- Julian Sayin and Jeremiah Smith return to form what the guide calls arguably the best quarterback-receiver combination in the country, on one of the sport's most talented rosters. *(p. 168)*
+- The guide is fair to the unit first: it was dominant in the regular season, allowing six sacks, before conceding five against Indiana and five more against Miami. It entertains other explanations for those losses — whether Day became too conservative and whether the tempo was too slow, answering yes to both — but concludes the clearest reason is that the line was beaten up front. Four starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. While the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively and will let Sayin use his legs. *(p. 169)*
+- Patricia replaced eight starters in his first year and produced the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game. He must now replace eight more, all drafted last spring. The guide's distinction is that the talent is always top-notch but there is no superstar equivalent to last year's. Kenyatta Jackson Jr (6.5 sacks) is the likely next first-rounder, joined on the line by Alabama transfer James Smith and UCF transfer John Walker. Other transfer starters include Earl Little Jr from Florida State and Terry Moore from Duke at free safety, with corners Jermaine Matthews Jr (two interceptions) and Devin Sanchez and strong safety Jaylen McClain (53 tackles). *(p. 169)*
+- Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- There are many reasons to point out for those two losses. *(p. 169)*
-- It is fair to answer in the affirmative to both those questions, but the most obvious reason the Buckeyes lost those games is because their offensive line got whipped up front. *(p. 169)*
-- Dan Lanning in big games is a worry, but I don’t think the Week 10 game against Ohio State is unattainable. *(p. 11)*
-- They’ll have a three-week stretch that’s really challenging early, at the Big House, hosting Ohio State and then at Washington, but after that, there’s no obvious loss on the schedule, especially considering the success they had against some of those conference opponents last season. *(p. 13)*
-- USF is looking to keep up the offensive prowess they had under another Ohio State alum in Alex Golesh, but it’s fair to question Hartline’s experience outside of his offensive bubble. *(p. 29)*
-- “Whether the Irish are good enough to beat Texas and Ohio State is a different question.” Two years ago, the Irish eliminated Indiana and Cignetti in the first round of the CFP and fell to Ohio State in the national title game. *(p. 38)*
-- The Hurricanes were unable to finish the job and lost to Indiana, but Mario Cristobal was able to flip the proverbial bird to the doubters and haters with wins over Texas A&M, Ohio State, and Ole Miss before the 27-21 loss to the Hoosiers. *(p. 79)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
-- Over 10.5 There is never much margin for error in taking a win total over 10.5 wins especially with tough trips to both USC and Ohio State, and a lot has to go right to clear this number like the offensive line being able to gel together and the young skill position players being ready to step into starting roles after being productive backups. *(p. 170)*
+- Ohio State enters 2026 with something rare — a losing streak. It lost the Big Ten Championship Game to Indiana, a first defeat to them since 1988, then was upset as the No. 2 seed in the Cotton Bowl by Miami. *(p. 168)*
+- The guide is fair to the unit first: it was dominant in the regular season, allowing six sacks, before conceding five against Indiana and five more against Miami. It entertains other explanations for those losses — whether Day became too conservative and whether the tempo was too slow, answering yes to both — but concludes the clearest reason is that the line was beaten up front. Four starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. While the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively and will let Sayin use his legs. *(p. 169)*
+- Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 169)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 169)*. Its analysis, in reference form:
 
 ### Can the Buckeyes offensive line get back to being dominant again?
 
-To be fair, they were dominant in the regular season and only allowed six sacks. Then, they gave up five sacks against Indiana and five more against Miami. There are many reasons to point out for those two losses. Did Ryan Day get too conservative with the gameplan? Did the Ohio State offense run too slow of a tempo? It is fair to answer in the affirmative to both those questions, but the most obvious reason the Buckeyes lost those games is because their offensive line got whipped up front. Four starters are back and Bo Jackson rushed for almost 1100 yards as a freshman behind the group. While the downfield passing game will be the most explosive part of the offense, Arthur Smith wants to run the ball more aggressively and will allow Sayin to use his legs more.
+The guide is fair to the unit first: it was dominant in the regular season, allowing six sacks, before conceding five against Indiana and five more against Miami. It entertains other explanations for those losses — whether Day became too conservative and whether the tempo was too slow, answering yes to both — but concludes the clearest reason is that the line was beaten up front. Four starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. While the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively and will let Sayin use his legs. *(p. 169)*
 
-### Can Matt Patricia’s defense be No. 1 again?
+### Can Matt Patricia's defense be No. 1 again?
 
-Last year, Patricia had to replace eight starters in his first season as defensive coordinator, and all his group did was to become the No. 1 defense in the country by holding opponents to a paltry 9.3 points per game and allowing just 219.1 yards per game. This year, Patricia also must replace eight defensive starters, as they were all drafted into the NFL last spring. The talent is always top-notch here, but there is not a superstar like last year. Kenyatta Jackson Jr (6.5 sacks) is likely the next first rounder from this group, and he is joined on the defensive line by Alabama transfer James Smith and UCF transfer John Walker. Other transfers that will start included Earl Little Jr. (Florida State) and Terry Moore (Duke) at free safety to go along with corners Jermaine Matthews Jr (two INTs) and Devin Sanchez along with strong safety Jaylen McClain (53 tackles).
+Patricia replaced eight starters in his first year and produced the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game. He must now replace eight more, all drafted last spring. The guide's distinction is that the talent is always top-notch but there is no superstar equivalent to last year's. Kenyatta Jackson Jr (6.5 sacks) is the likely next first-rounder, joined on the line by Alabama transfer James Smith and UCF transfer John Walker. Other transfer starters include Earl Little Jr from Florida State and Terry Moore from Duke at free safety, with corners Jermaine Matthews Jr (two interceptions) and Devin Sanchez and strong safety Jaylen McClain (53 tackles). *(p. 169)*
 
-### Who can be Jeremiah Smith’s running mate?
+### Who can be Jeremiah Smith's running mate?
 
-Smith has been the most talented receiver in college football since he stepped on the field as a true freshman two years ago. Even No. 4 overall pick Carnell Tate was the second option to him. Brandon Inniss returns and Chris Henry Jr. is the latest five-star freshman prospect at receiver for the Buckeyes. Transfer Devin McCuin had 726 yards and eight touchdowns at UTSA last season. This is still arguably the most talented corps in the country, but it will be interesting to see who becomes the No. 2 option to Smith, who will see every type of coverage you can throw at him.
+Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -425,6 +351,8 @@ No source conflict identified for this team.
 | 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 22, 27, 29, 30, 38, 45, 46, 59, 66, 67, 77, 79, 93, 95, 150, 151, 152, 156, 162, 164, 166, 170, 172, 173, 174, 176, 178, 181, 182, 184, 209, 220, 221, 238, 249, 275, 308, 310, 343 | Other pages naming this team |
 
 This team is named in **96 sentences across 57 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 22, 27, 29, 30, 38, 45, 46, 59, 66, 67, 77, 79, 93, 95, 150, 151, 152, 156, 162, 164, 166, 170, 172, 173, 174, 176, 178, 181, 182, 184, 209, 220, 221, 238, 249, 275, 308, 310, 343.
 
 ## 29. Cross-Links
 

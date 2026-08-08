@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 4.0–8.0 overall, 2.4–6.6 in conference |
 | **Schedule strength** | 50.49 (#8 toughest of 138) |
 
-### Season outlook as written in the guide (p. 160)
+### Season outlook — VSiN's analysis in reference form (p. 160)
 
-Jonathan Smith came to East Lansing as the man thought to be what was needed to get Sparty back to the success of the Mark Dantonio era. Two years later, after a 9-15 record (4-15 officially due to five vacated wins in 2024 courtesy of violations under Mel Tucker), Smith was out. Dantonio’s teams at Michigan State were always defense- first and built on toughness, so Michigan State looked to the days of Big Ten past to find a coach that shares that same mentality and may have found it with Northwestern’s all-time winningest coach Pat Fitzgerald. Fitzgerald was terminated at his alma mater three years ago after significant hazing allegations in his program were reported. He later sued for wrongful termination, and the case was settled last August to clear a path for his return to coaching. Over 3.5 It is worth laying -150 or so available in the market here. While there are certainly plenty of roster questions across the board, Sparty must feel as good about its QB situation as they have in the last few seasons. The market might be underestimating Fitzgerald’s history as a proven program builder. Fitzgerald has also put together a good staff mixed with a couple holdovers for continuity’s sake, plus younger coaches like former Spartan linebacker legend Max Bullough, Nick Tabacca as offensive line coach, and James Adams as safeties coach. The schedule is not easy with trips to Notre Dame and Michigan, but this team needed some new and positive energy and should respond to this new staff.
+- Jonathan Smith arrived as the man to restore the Mark Dantonio era and was gone two years later at 9-15 — officially 4-15 after five 2024 wins were vacated over violations under Mel Tucker. *(p. 160)*
+- Dantonio's Michigan State was defense-first and built on toughness, so the programme looked to the Big Ten's past and hired Northwestern's all-time winningest coach Pat Fitzgerald. *(p. 160)*
+- The guide states the circumstances plainly: Fitzgerald was terminated at his alma mater three years ago after significant hazing allegations were reported, sued for wrongful termination, and settled last August, clearing his return to coaching. *(p. 160)*
+- Recommendation is Over 3.5 wins, and the guide says laying around -150 is worth it. It acknowledges roster questions across the board while arguing Michigan State should feel better about quarterback than in several seasons. *(p. 160)*
+- Its edge is that the market may be underestimating Fitzgerald as a proven programme builder, and it credits a staff blending holdovers for continuity with younger hires — former Spartan linebacker Max Bullough, offensive line coach Nick Tabacca and safeties coach James Adams. *(p. 160)*
+- The schedule is not easy, with trips to Notre Dame and Michigan, but the guide argues the team needed positive energy and should respond to the new staff. *(p. 160)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,20 +87,13 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 32)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Dantonio’s teams at Michigan State were always defense- first and built on toughness, so Michigan State looked to the days of Big Ten past to find a coach that shares that same mentality and may have found it with Northwestern’s all-time winningest coach Pat Fitzgerald. *(p. 160)*
-- He later sued for wrongful termination, and the case was settled last August to clear a path for his return to coaching. *(p. 160)*
-- Fitzgerald has also put together a good staff mixed with a couple holdovers for continuity’s sake, plus younger coaches like former Spartan linebacker legend Max Bullough, Nick Tabacca as offensive line coach, and James Adams as safeties coach. *(p. 160)*
-- The schedule is not easy with trips to Notre Dame and Michigan, but this team needed some new and positive energy and should respond to this new staff. *(p. 160)*
-- Cam Fancher has 28 starts over the last four years combined at Marshall, Florida Atlantic, and UCF and he will push Milivojevic, but the incumbent (986 yards in four starts) should hold the job for Fitzgerald and new offensive coordinator Nick Sheridan, who comes in from the same role at Alabama. *(p. 161)*
+- Jonathan Smith arrived as the man to restore the Mark Dantonio era and was gone two years later at 9-15 — officially 4-15 after five 2024 wins were vacated over violations under Mel Tucker. *(p. 160)*
+- Dantonio's Michigan State was defense-first and built on toughness, so the programme looked to the Big Ten's past and hired Northwestern's all-time winningest coach Pat Fitzgerald. *(p. 160)*
+- The guide states the circumstances plainly: Fitzgerald was terminated at his alma mater three years ago after significant hazing allegations were reported, sued for wrongful termination, and settled last August, clearing his return to coaching. *(p. 160)*
+- Its edge is that the market may be underestimating Fitzgerald as a proven programme builder, and it credits a staff blending holdovers for continuity with younger hires — former Spartan linebacker Max Bullough, offensive line coach Nick Tabacca and safeties coach James Adams. *(p. 160)*
+- **Has Michigan State finally found its quarterback?** Since Payton Thorne and Kenneth Walker delivered 11-2 in 2021 it has been a revolving door, with neither Katin Houser, Noah Kim nor Aidan Chiles succeeding. Alessio Milivojevic took over for the final four games, going 1-3, though two losses came by three points; the guide notes wryly that he had a run of backdoor covers against Nebraska, Indiana and Michigan, and that the backup is always the fans' favourite when the starter struggles. Cam Fancher, with 28 starts across Marshall, Florida Atlantic and UCF, will push him, but the guide expects the incumbent — 986 yards in four starts — to hold the job for Fitzgerald and new coordinator Nick Sheridan, in from the same role at Alabama. *(p. 161)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Pat Fitzgerald Michigan State It might be unfair to call a College Football Hall of Famer an underwhelming hire, but this is an underwhelming hire. *(p. 32)*
-- Aside from the Buckeyes, the rest of the road schedule is not all that arduous, going to Maryland and facing two teams with new coaches – Michigan State and Northwestern. *(p. 150)*
-- Woods is now in the same role and the assistant head coach for Pat Fitzgerald’s new staff at Michigan State. *(p. 155)*
-- This is now David Braun’s program as the Pat Fitzgerald chapter finally closed with a settled lawsuit and Fitzgerald returning to coaching at Michigan State (they play on October 17). *(p. 166)*
-- While not an official trade, Michigan State now has Northwestern’s old coach, while the Wildcats have Michigan State’s old quarterback, as Aidan Chiles transfers into Evanston. *(p. 166)*
-- Penn State should be emotional and so should facing former coach Fitzgerald at Michigan State. *(p. 166)*
+Also referenced on **pp. 32, 150, 155, 166, 167, 238, 327** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -101,17 +101,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 160)*.
 
-- While there are certainly plenty of roster questions across the board, Sparty must feel as good about its QB situation as they have in the last few seasons. *(p. 160)*
-- After Payton Thorne, with a large assist from eventual Super Bowl LX MVP running back Kenneth Walker, led them to an 11-2 season in 2021, it has been a revolving door at QB with neither Katin Houser nor Noah Kim nor Aidan Chiles able to lead the Spartans to success. *(p. 161)*
-- The backup QB is always the most popular player with the fans when the starter is struggling. *(p. 161)*
+- Recommendation is Over 3.5 wins, and the guide says laying around -150 is worth it. It acknowledges roster questions across the board while arguing Michigan State should feel better about quarterback than in several seasons. *(p. 160)*
+- **Has Michigan State finally found its quarterback?** Since Payton Thorne and Kenneth Walker delivered 11-2 in 2021 it has been a revolving door, with neither Katin Houser, Noah Kim nor Aidan Chiles succeeding. Alessio Milivojevic took over for the final four games, going 1-3, though two losses came by three points; the guide notes wryly that he had a run of backdoor covers against Nebraska, Indiana and Michigan, and that the backup is always the fans' favourite when the starter struggles. Cam Fancher, with 28 starts across Marshall, Florida Atlantic and UCF, will push him, but the guide expects the incumbent — 986 yards in four starts — to hold the job for Fitzgerald and new coordinator Nick Sheridan, in from the same role at Alabama. *(p. 161)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The new QB is likely to be Michigan State transfer Aidan Chiles. 46. *(p. 20)*
-- They do lose QB Luke Altmyer, but replacing him is another former Big Ten starter, Katin Houser from Michigan State. *(p. 22)*
-- While not an official trade, Michigan State now has Northwestern’s old coach, while the Wildcats have Michigan State’s old quarterback, as Aidan Chiles transfers into Evanston. *(p. 166)*
-- EMU will roll with QB Noah Kim once again, the Class of 2020 Michigan State commit who is on his seventh season of college football. *(p. 227)*
-- Also, Michigan State wasn’t great last season, but their QBs posted a 20/6 TD/INT ratio and pass game coordinator Aaron Pflugrad is the new QB coach for the Dukes. *(p. 327)*
+Also referenced on **pp. 20, 22, 166, 227, 327** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -127,55 +120,29 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Michigan State’s top three receivers from last season, including one of the big gets in the portal Nick Marsh (Indiana), are now gone. *(p. 161)*
-- Nevertheless, the running game led by UConn transfer Cam Edwards (1240 yards in 2025) will need to carry a heavier load. *(p. 161)*
-- Fitzgerald will turn to NC State transfer Kenny Soares, who was with him at Northwestern, to spark a pass rush. *(p. 161)*
-- On the offensive side, five transfers come in with 72 career starts including Trent Fraley, who was the FCS Rimington Award winner last year at North Dakota State. *(p. 161)*
-- The Spartans OL gave up 72 sacks over the last two years, and they will need this portal group to come together quickly. *(p. 161)*
+- **Has Michigan State finally found its quarterback?** Since Payton Thorne and Kenneth Walker delivered 11-2 in 2021 it has been a revolving door, with neither Katin Houser, Noah Kim nor Aidan Chiles succeeding. Alessio Milivojevic took over for the final four games, going 1-3, though two losses came by three points; the guide notes wryly that he had a run of backdoor covers against Nebraska, Indiana and Michigan, and that the backup is always the fans' favourite when the starter struggles. Cam Fancher, with 28 starts across Marshall, Florida Atlantic and UCF, will push him, but the guide expects the incumbent — 986 yards in four starts — to hold the job for Fitzgerald and new coordinator Nick Sheridan, in from the same role at Alabama. *(p. 161)*
+- **Who is there for Milivojevic at wide receiver?** All three top receivers are gone, including Nick Marsh to Indiana. Chrishon McCray (24 catches, 320 yards, two touchdowns) leads the returners but at 5-foot-10 lacks the size of a typical No. 1. KK Smith from Notre Dame and Fred Moore from Michigan were never featured at their previous stops, which the guide frames as a possible fresh start, and redshirt freshman Braylon Collier is floated as a future standout. Its conclusion is that the run game, led by UConn transfer Cam Edwards (1,240 yards in 2025), will have to carry more. *(p. 161)*
+- **Can they get better at the line of scrimmage?** Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The new QB is likely to be Michigan State transfer Aidan Chiles. 46. *(p. 20)*
-- After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. *(p. 151)*
-- There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). *(p. 153)*
-- While not an official trade, Michigan State now has Northwestern’s old coach, while the Wildcats have Michigan State’s old quarterback, as Aidan Chiles transfers into Evanston. *(p. 166)*
-- Patterson switches the defense to a 4-2-5 where there is a lot of depth up front including defensive ends Kameryn Crawford (5.5 sacks, 10.5 TFLs) and Braylan Shelby (4.5 sacks), defensive tackles Jahkeem Stewart and Jide Abasiri plus the addition of Michigan State transfer Alex VanSumeren (52 tackles) to improve a run defense that ranked 12th in the conference. *(p. 181)*
-- It will take time for things to come together and the opener against Michigan State may not be pretty, especially for a defense that allowed just 13.3 PPG and 96 rushing yards per game last season, but Jacobs seems like a good hire and there’s at least some familiarity thanks to all the transfers from a team that finished in the FCS Top 25 each of the last two seasons. *(p. 238)*
+Referenced in the guide on **pp. 20, 151, 153, 166, 181, 238** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Redshirt freshman Braylon Collier could be the next outstanding receiver in East Lansing. *(p. 161)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- EMU will roll with QB Noah Kim once again, the Class of 2020 Michigan State commit who is on his seventh season of college football. *(p. 227)*
+Referenced in the guide on **pp. 161, 227** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Fitzgerald has also put together a good staff mixed with a couple holdovers for continuity’s sake, plus younger coaches like former Spartan linebacker legend Max Bullough, Nick Tabacca as offensive line coach, and James Adams as safeties coach. *(p. 160)*
-- Cam Fancher has 28 starts over the last four years combined at Marshall, Florida Atlantic, and UCF and he will push Milivojevic, but the incumbent (986 yards in four starts) should hold the job for Fitzgerald and new offensive coordinator Nick Sheridan, who comes in from the same role at Alabama. *(p. 161)*
-- Michigan State’s top three receivers from last season, including one of the big gets in the portal Nick Marsh (Indiana), are now gone. *(p. 161)*
-- Redshirt freshman Braylon Collier could be the next outstanding receiver in East Lansing. *(p. 161)*
-- On the offensive side, five transfers come in with 72 career starts including Trent Fraley, who was the FCS Rimington Award winner last year at North Dakota State. *(p. 161)*
+- **Who is there for Milivojevic at wide receiver?** All three top receivers are gone, including Nick Marsh to Indiana. Chrishon McCray (24 catches, 320 yards, two touchdowns) leads the returners but at 5-foot-10 lacks the size of a typical No. 1. KK Smith from Notre Dame and Fred Moore from Michigan were never featured at their previous stops, which the guide frames as a possible fresh start, and redshirt freshman Braylon Collier is floated as a future standout. Its conclusion is that the run game, led by UConn transfer Cam Edwards (1,240 yards in 2025), will have to carry more. *(p. 161)*
+- **Can they get better at the line of scrimmage?** Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). *(p. 153)*
-- It will take time for things to come together and the opener against Michigan State may not be pretty, especially for a defense that allowed just 13.3 PPG and 96 rushing yards per game last season, but Jacobs seems like a good hire and there’s at least some familiarity thanks to all the transfers from a team that finished in the FCS Top 25 each of the last two seasons. *(p. 238)*
+Referenced in the guide on **pp. 153, 238** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Dantonio’s teams at Michigan State were always defense- first and built on toughness, so Michigan State looked to the days of Big Ten past to find a coach that shares that same mentality and may have found it with Northwestern’s all-time winningest coach Pat Fitzgerald. *(p. 160)*
-- Fitzgerald has also put together a good staff mixed with a couple holdovers for continuity’s sake, plus younger coaches like former Spartan linebacker legend Max Bullough, Nick Tabacca as offensive line coach, and James Adams as safeties coach. *(p. 160)*
-- Last year, Michigan State only had 22 sacks in 12 games, 86th nationally. *(p. 161)*
-- This year, they only have one starter back on the defensive line. *(p. 161)*
-- Fitzgerald will turn to NC State transfer Kenny Soares, who was with him at Northwestern, to spark a pass rush. *(p. 161)*
-- The Spartans OL gave up 72 sacks over the last two years, and they will need this portal group to come together quickly. *(p. 161)*
+- **Can they get better at the line of scrimmage?** Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Patterson switches the defense to a 4-2-5 where there is a lot of depth up front including defensive ends Kameryn Crawford (5.5 sacks, 10.5 TFLs) and Braylan Shelby (4.5 sacks), defensive tackles Jahkeem Stewart and Jide Abasiri plus the addition of Michigan State transfer Alex VanSumeren (52 tackles) to improve a run defense that ranked 12th in the conference. *(p. 181)*
-- It will take time for things to come together and the opener against Michigan State may not be pretty, especially for a defense that allowed just 13.3 PPG and 96 rushing yards per game last season, but Jacobs seems like a good hire and there’s at least some familiarity thanks to all the transfers from a team that finished in the FCS Top 25 each of the last two seasons. *(p. 238)*
+Referenced in the guide on **pp. 181, 238** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -239,30 +206,18 @@ Prices printed on the team page *(p. 161)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Over 3.5 It is worth laying -150 or so available in the market here. *(p. 160)*
-- The market might be underestimating Fitzgerald’s history as a proven program builder. *(p. 160)*
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
+- Recommendation is Over 3.5 wins, and the guide says laying around -150 is worth it. It acknowledges roster questions across the board while arguing Michigan State should feel better about quarterback than in several seasons. *(p. 160)*
+- Its edge is that the market may be underestimating Fitzgerald as a proven programme builder, and it credits a staff blending holdovers for continuity with younger hires — former Spartan linebacker Max Bullough, offensive line coach Nick Tabacca and safeties coach James Adams. *(p. 160)*
+- The schedule is not easy, with trips to Notre Dame and Michigan, but the guide argues the team needed positive energy and should respond to the new staff. *(p. 160)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Howard), Rutgers is likely to be an underdog in every conference game except for perhaps the season finale against Michigan State. *(p. 12)*
+Also referenced on **pp. 12** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Two years later, after a 9-15 record (4-15 officially due to five vacated wins in 2024 courtesy of violations under Mel Tucker), Smith was out. *(p. 160)*
-- After Payton Thorne, with a large assist from eventual Super Bowl LX MVP running back Kenneth Walker, led them to an 11-2 season in 2021, it has been a revolving door at QB with neither Katin Houser nor Noah Kim nor Aidan Chiles able to lead the Spartans to success. *(p. 161)*
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
-- Michigan State’s top three receivers from last season, including one of the big gets in the portal Nick Marsh (Indiana), are now gone. *(p. 161)*
-- Nevertheless, the running game led by UConn transfer Cam Edwards (1240 yards in 2025) will need to carry a heavier load. *(p. 161)*
-- Last year, Michigan State only had 22 sacks in 12 games, 86th nationally. *(p. 161)*
-- On the offensive side, five transfers come in with 72 career starts including Trent Fraley, who was the FCS Rimington Award winner last year at North Dakota State. *(p. 161)*
+- Jonathan Smith arrived as the man to restore the Mark Dantonio era and was gone two years later at 9-15 — officially 4-15 after five 2024 wins were vacated over violations under Mel Tucker. *(p. 160)*
+- The guide states the circumstances plainly: Fitzgerald was terminated at his alma mater three years ago after significant hazing allegations were reported, sued for wrongful termination, and settled last August, clearing his return to coaching. *(p. 160)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. *(p. 151)*
-- It will take time for things to come together and the opener against Michigan State may not be pretty, especially for a defense that allowed just 13.3 PPG and 96 rushing yards per game last season, but Jacobs seems like a good hire and there’s at least some familiarity thanks to all the transfers from a team that finished in the FCS Top 25 each of the last two seasons. *(p. 238)*
-- Jonathan Smith had it rolling at Oregon State, posting 10 wins in 2022 and eight in 2023, but it seemed inevitable that he would leave for a big payday and he got it from Michigan State. *(p. 272)*
-- Also, Michigan State wasn’t great last season, but their QBs posted a 20/6 TD/INT ratio and pass game coordinator Aaron Pflugrad is the new QB coach for the Dukes. *(p. 327)*
+Referenced in the guide on **pp. 151, 238, 272, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -308,37 +263,36 @@ As printed on p. 161. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 3.5**.
-- He later sued for wrongful termination, and the case was settled last August to clear a path for his return to coaching. *(p. 160)*
-- Katin Houser returns to the Big Ten (Michigan State) after starting for the better part of two seasons at East Carolina, where he went 13-6 as a starter. *(p. 150)*
-- Patterson switches the defense to a 4-2-5 where there is a lot of depth up front including defensive ends Kameryn Crawford (5.5 sacks, 10.5 TFLs) and Braylan Shelby (4.5 sacks), defensive tackles Jahkeem Stewart and Jide Abasiri plus the addition of Michigan State transfer Alex VanSumeren (52 tackles) to improve a run defense that ranked 12th in the conference. *(p. 181)*
+- The guide states the circumstances plainly: Fitzgerald was terminated at his alma mater three years ago after significant hazing allegations were reported, sued for wrongful termination, and settled last August, clearing his return to coaching. *(p. 160)*
+- Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.0 wins** against a posted total of 4.5 — **-0.5** against this team.
-- While there are certainly plenty of roster questions across the board, Sparty must feel as good about its QB situation as they have in the last few seasons. *(p. 160)*
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
-- The backup QB is always the most popular player with the fans when the starter is struggling. *(p. 161)*
+- Recommendation is Over 3.5 wins, and the guide says laying around -150 is worth it. It acknowledges roster questions across the board while arguing Michigan State should feel better about quarterback than in several seasons. *(p. 160)*
+- Since Payton Thorne and Kenneth Walker delivered 11-2 in 2021 it has been a revolving door, with neither Katin Houser, Noah Kim nor Aidan Chiles succeeding. Alessio Milivojevic took over for the final four games, going 1-3, though two losses came by three points; the guide notes wryly that he had a run of backdoor covers against Nebraska, Indiana and Michigan, and that the backup is always the fans' favourite when the starter struggles. Cam Fancher, with 28 starts across Marshall, Florida Atlantic and UCF, will push him, but the guide expects the incumbent — 986 yards in four starts — to hold the job for Fitzgerald and new coordinator Nick Sheridan, in from the same role at Alabama. *(p. 161)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 161)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 161)*. Its analysis, in reference form:
 
 ### Has Michigan State finally found its quarterback?
 
-After Payton Thorne, with a large assist from eventual Super Bowl LX MVP running back Kenneth Walker, led them to an 11-2 season in 2021, it has been a revolving door at QB with neither Katin Houser nor Noah Kim nor Aidan Chiles able to lead the Spartans to success. Alessio Milivojevic, who was Mr. Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. The backup QB is always the most popular player with the fans when the starter is struggling. He showed promise, but now can he be the full-time guy? Cam Fancher has 28 starts over the last four years combined at Marshall, Florida Atlantic, and UCF and he will push Milivojevic, but the incumbent (986 yards in four starts) should hold the job for Fitzgerald and new offensive coordinator Nick Sheridan, who comes in from the same role at Alabama.
+Since Payton Thorne and Kenneth Walker delivered 11-2 in 2021 it has been a revolving door, with neither Katin Houser, Noah Kim nor Aidan Chiles succeeding. Alessio Milivojevic took over for the final four games, going 1-3, though two losses came by three points; the guide notes wryly that he had a run of backdoor covers against Nebraska, Indiana and Michigan, and that the backup is always the fans' favourite when the starter struggles. Cam Fancher, with 28 starts across Marshall, Florida Atlantic and UCF, will push him, but the guide expects the incumbent — 986 yards in four starts — to hold the job for Fitzgerald and new coordinator Nick Sheridan, in from the same role at Alabama. *(p. 161)*
 
 ### Who is there for Milivojevic at wide receiver?
 
-Michigan State’s top three receivers from last season, including one of the big gets in the portal Nick Marsh (Indiana), are now gone. Chrishon McCray (24-320-2) is the leading returner but at 5-foot-10, he doesn’t bring the typical size of a number one option. KK Smith (Notre Dame) and Fred Moore (Michigan) were never really featured at their former destinations so perhaps they have a new lease on life here. Redshirt freshman Braylon Collier could be the next outstanding receiver in East Lansing. Nevertheless, the running game led by UConn transfer Cam Edwards (1240 yards in 2025) will need to carry a heavier load.
+All three top receivers are gone, including Nick Marsh to Indiana. Chrishon McCray (24 catches, 320 yards, two touchdowns) leads the returners but at 5-foot-10 lacks the size of a typical No. 1. KK Smith from Notre Dame and Fred Moore from Michigan were never featured at their previous stops, which the guide frames as a possible fresh start, and redshirt freshman Braylon Collier is floated as a future standout. Its conclusion is that the run game, led by UConn transfer Cam Edwards (1,240 yards in 2025), will have to carry more. *(p. 161)*
 
 ### Can they get better at the line of scrimmage?
 
-Last year, Michigan State only had 22 sacks in 12 games, 86th nationally. This year, they only have one starter back on the defensive line. Fitzgerald will turn to NC State transfer Kenny Soares, who was with him at Northwestern, to spark a pass rush. On the offensive side, five transfers come in with 72 career starts including Trent Fraley, who was the FCS Rimington Award winner last year at North Dakota State. The Spartans OL gave up 72 sacks over the last two years, and they will need this portal group to come together quickly.
+Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -356,6 +310,8 @@ No source conflict identified for this team.
 | 12, 20, 22, 32, 150, 151, 153, 155, 166, 167, 181, 227, 238, 272, 327 | Other pages naming this team |
 
 This team is named in **24 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 12, 20, 22, 32, 150, 151, 153, 155, 166, 167, 181, 227, 238, 272, 327.
 
 ## 29. Cross-Links
 

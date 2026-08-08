@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 7.3–4.7 overall, 4.7–4.3 in conference |
 | **Schedule strength** | 46.05 (#36 toughest of 138) |
 
-### Season outlook as written in the guide (p. 150)
+### Season outlook — VSiN's analysis in reference form (p. 150)
 
-Illinois won 19 games over the course of the last two seasons, which was the most in program history over a two-year span. Three-year starting QB Luke Altmyer was largely responsible for those victories, but he has graduated and four offensive line starters also depart due to graduation or transfer portal. Katin Houser returns to the Big Ten (Michigan State) after starting for the better part of two seasons at East Carolina, where he went 13-6 as a starter. The Illini prides itself on playing old-school, physical Big Ten football under Bret Bielema, but they ranked just 13th in the conference running the football (138.1 YPG) and ranked 12th in scoring defense (23.6 PPG). Defensive coordinator Aaron Henry left for a job on the Notre Dame staff and Bobby Hauck, after a successful eight-year second act as Montana head coach, comes in to reinvent what was a stale Illinois defense. Under 7.5 The schedule is manageable and the Illini should start with three non-conference victories playing UAB, Duke, and Southern Illinois at home. While they avoid Indiana, USC, Penn State, and Michigan, Illinois does open the Big 10 campaign at Ohio State. Aside from the Buckeyes, the rest of the road schedule is not all that arduous, going to Maryland and facing two teams with new coaches – Michigan State and Northwestern. Oregon will be a likely home loss, and they do have three of the last four at home, but all in coin flip games – Nebraska, Iowa, and Northwestern – where they more than likely must win all three to get to eight victories. The rebuilding of both lines up front will not be able to be completed in just one season.
+- Illinois won 19 games across the last two seasons, the most in programme history over a two-year span, largely behind three-year starter Luke Altmyer, who has now graduated. *(p. 150)*
+- Four offensive line starters also leave through graduation or the portal. *(p. 150)*
+- Katin Houser returns to the Big Ten from East Carolina, where he went 13-6 as a starter, having previously been at Michigan State. *(p. 150)*
+- The guide notes a gap between identity and output: Illinois prides itself on old-school physical Big Ten football under Bret Bielema, yet ranked 13th in the conference rushing at 138.1 yards per game and 12th in scoring defense at 23.6 points allowed. *(p. 150)*
+- Defensive coordinator Aaron Henry left for Notre Dame. Bobby Hauck arrives after an eight-year second spell as Montana head coach to reinvent what the guide calls a stale defense. *(p. 150)*
+- Recommendation is Under 7.5 wins. The schedule is manageable — three home non-conference wins expected over UAB, Duke and Southern Illinois, and Illinois avoids Indiana, USC, Penn State and Michigan — but opens Big Ten play at Ohio State. *(p. 150)*
+- The rest of the road slate is not arduous: Maryland plus two teams with new coaches in Michigan State and Northwestern. Oregon is a likely home loss. *(p. 150)*
+- The decisive argument: three of the last four are at home but all are coin flips — Nebraska, Iowa and Northwestern — and Illinois would probably need to win all three to reach eight. The guide concludes rebuilding both lines cannot be finished in one season. *(p. 150)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,12 +87,10 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Defensive coordinator Aaron Henry left for a job on the Notre Dame staff and Bobby Hauck, after a successful eight-year second act as Montana head coach, comes in to reinvent what was a stale Illinois defense. *(p. 150)*
-- Aside from the Buckeyes, the rest of the road schedule is not all that arduous, going to Maryland and facing two teams with new coaches – Michigan State and Northwestern. *(p. 150)*
+- Defensive coordinator Aaron Henry left for Notre Dame. Bobby Hauck arrives after an eight-year second spell as Montana head coach to reinvent what the guide calls a stale defense. *(p. 150)*
+- **How quickly can they adjust to Bobby Hauck's new 3-3-5 defense?** Hauck's Montana sides ranked top-20 in FCS scoring defense and top-10 in takeaways in three of the last five years. Attrition is concentrated on the defensive line, where five rotational players including second-round pick Gabe Jacas are replaced by Group of Six or FCS talent, which the guide calls the roster's biggest question. The secondary is not: four senior starters return including All-Big Ten free safety Xavier Scott. Illinois rated only 14th in the conference against the pass, but the guide rates this defensive backfield among the league's better ones and allows the new scheme could catch opponents by surprise. *(p. 151)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS Senior quarterback Katin Houser, a transfer from East Carolina, replaces Luke Altmyer in coach Bret Bielema’s run-oriented offense. *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -91,13 +98,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 150)*.
 
-- Three-year starting QB Luke Altmyer was largely responsible for those victories, but he has graduated and four offensive line starters also depart due to graduation or transfer portal. *(p. 150)*
-- Houser became the full-time starter for ECU last year and threw for 3300 yards (65.9% completions) and 19 TDs while also rushing for nine. *(p. 151)*
+- Illinois won 19 games across the last two seasons, the most in programme history over a two-year span, largely behind three-year starter Luke Altmyer, who has now graduated. *(p. 150)*
+- Katin Houser returns to the Big Ten from East Carolina, where he went 13-6 as a starter, having previously been at Michigan State. *(p. 150)*
+- **Will Katin Houser's second stint in the Big Ten go better than his first?** After redshirting in 2022 Houser could not beat out Noah Kim at Michigan State and moved to East Carolina, where he started full-time and threw for 3,300 yards on 65.9% completions with 19 touchdowns plus nine rushing. The guide judges he has a better supporting cast in Champaign than he had in East Lansing, while flagging two offsetting factors: a new system and an offensive line replacing four starters. *(p. 151)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS Senior quarterback Katin Houser, a transfer from East Carolina, replaces Luke Altmyer in coach Bret Bielema’s run-oriented offense. *(p. 20)*
-- With a new QB, the loss of leading WR Alex Perry is probably less significant, as he was going to have to develop chemistry with everybody anyway, but Perry did have 530 more receiving yards and 25 more catches than anybody else, which is part of the reason why he’s at Illinois now. *(p. 191)*
+Also referenced on **pp. 20, 191** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -113,44 +118,31 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- Three-year starting QB Luke Altmyer was largely responsible for those victories, but he has graduated and four offensive line starters also depart due to graduation or transfer portal. *(p. 150)*
-- After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. *(p. 151)*
-- Bielema feels good about his backfield as they moved second- leading rusher Kaden Feagin to tight end, and he is one of the better OL evaluators and developers in the country but only imported one Power Four transfer (C Jake Renfro – Wisconsin). *(p. 151)*
+- Four offensive line starters also leave through graduation or the portal. *(p. 150)*
+- Katin Houser returns to the Big Ten from East Carolina, where he went 13-6 as a starter, having previously been at Michigan State. *(p. 150)*
+- **Will Katin Houser's second stint in the Big Ten go better than his first?** After redshirting in 2022 Houser could not beat out Noah Kim at Michigan State and moved to East Carolina, where he started full-time and threw for 3,300 yards on 65.9% completions with 19 touchdowns plus nine rushing. The guide judges he has a better supporting cast in Champaign than he had in East Lansing, while flagging two offsetting factors: a new system and an offensive line replacing four starters. *(p. 151)*
+- **Can Illinois get more physical up front?** The line must replace four starters including first-team All-Big Ten tackle J.C. Davis, and the guide notes last year's group already struggled to run consistently and looked overmatched against better fronts — Duke, Indiana, Ohio State and Wisconsin averaged five sacks against them. Bielema is content with his backfield, having moved second-leading rusher Kaden Feagin to tight end, and is rated among the country's better evaluators and developers of linemen. The caution is that he imported only one Power Four transfer, Wisconsin center Jake Renfro. *(p. 151)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS Senior quarterback Katin Houser, a transfer from East Carolina, replaces Luke Altmyer in coach Bret Bielema’s run-oriented offense. *(p. 20)*
+Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Perhaps it will be 6-foot5 Ashton Hollis from Illinois or Andre Greene, a highly-touted recruit who didn’t do much at Virginia. *(p. 323)*
+Referenced in the guide on **pp. 323** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Three-year starting QB Luke Altmyer was largely responsible for those victories, but he has graduated and four offensive line starters also depart due to graduation or transfer portal. *(p. 150)*
-- The Illini prides itself on playing old-school, physical Big Ten football under Bret Bielema, but they ranked just 13th in the conference running the football (138.1 YPG) and ranked 12th in scoring defense (23.6 PPG). *(p. 150)*
-- Houser became the full-time starter for ECU last year and threw for 3300 yards (65.9% completions) and 19 TDs while also rushing for nine. *(p. 151)*
-- He has a better group around him in Champaign than he did in East Lansing three years ago, but this is a new system, and he is behind an offensive line that must replace four starters. *(p. 151)*
-- While the offensive line must replace four starters, including first- team All-Big Ten tackle J.C. *(p. 151)*
-- Hauck’s Montana teams ranked in the top 20 for scoring defense and inside the top 10 for takeaways amongst FCS teams in three of the last five seasons. *(p. 151)*
+- Four offensive line starters also leave through graduation or the portal. *(p. 150)*
+- The guide notes a gap between identity and output: Illinois prides itself on old-school physical Big Ten football under Bret Bielema, yet ranked 13th in the conference rushing at 138.1 yards per game and 12th in scoring defense at 23.6 points allowed. *(p. 150)*
+- **Can Illinois get more physical up front?** The line must replace four starters including first-team All-Big Ten tackle J.C. Davis, and the guide notes last year's group already struggled to run consistently and looked overmatched against better fronts — Duke, Indiana, Ohio State and Wisconsin averaged five sacks against them. Bielema is content with his backfield, having moved second-leading rusher Kaden Feagin to tight end, and is rated among the country's better evaluators and developers of linemen. The caution is that he imported only one Power Four transfer, Wisconsin center Jake Renfro. *(p. 151)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS Senior quarterback Katin Houser, a transfer from East Carolina, replaces Luke Altmyer in coach Bret Bielema’s run-oriented offense. *(p. 20)*
-- With a new QB, the loss of leading WR Alex Perry is probably less significant, as he was going to have to develop chemistry with everybody anyway, but Perry did have 530 more receiving yards and 25 more catches than anybody else, which is part of the reason why he’s at Illinois now. *(p. 191)*
+Referenced in the guide on **pp. 20, 191** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The Illini prides itself on playing old-school, physical Big Ten football under Bret Bielema, but they ranked just 13th in the conference running the football (138.1 YPG) and ranked 12th in scoring defense (23.6 PPG). *(p. 150)*
-- Defensive coordinator Aaron Henry left for a job on the Notre Dame staff and Bobby Hauck, after a successful eight-year second act as Montana head coach, comes in to reinvent what was a stale Illinois defense. *(p. 150)*
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
-- Hauck’s Montana teams ranked in the top 20 for scoring defense and inside the top 10 for takeaways amongst FCS teams in three of the last five seasons. *(p. 151)*
-- The main attrition comes on the defensive line where five rotational players, including second-round pick DE Gabe Jacas, are being replaced by Group of Six or FCS talent. *(p. 151)*
-- This unit is the biggest question mark on the roster, but the secondary is not, with four returning senior starters including All-Big Ten free safety Xavier Scott. *(p. 151)*
-- While the Illini rated just 14th in the conference for pass defense, this defensive backfield is one of the better ones in the league and a new scheme could catch opponents by surprise. *(p. 151)*
+- The guide notes a gap between identity and output: Illinois prides itself on old-school physical Big Ten football under Bret Bielema, yet ranked 13th in the conference rushing at 138.1 yards per game and 12th in scoring defense at 23.6 points allowed. *(p. 150)*
+- Defensive coordinator Aaron Henry left for Notre Dame. Bobby Hauck arrives after an eight-year second spell as Montana head coach to reinvent what the guide calls a stale defense. *(p. 150)*
+- **How quickly can they adjust to Bobby Hauck's new 3-3-5 defense?** Hauck's Montana sides ranked top-20 in FCS scoring defense and top-10 in takeaways in three of the last five years. Attrition is concentrated on the defensive line, where five rotational players including second-round pick Gabe Jacas are replaced by Group of Six or FCS talent, which the guide calls the roster's biggest question. The secondary is not: four senior starters return including All-Big Ten free safety Xavier Scott. Illinois rated only 14th in the conference against the pass, but the guide rates this defensive backfield among the league's better ones and allows the new scheme could catch opponents by surprise. *(p. 151)*
 
 ## 15. Key Strengths
 
@@ -193,7 +185,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- The decisive argument: three of the last four are at home but all are coin flips — Nebraska, Iowa and Northwestern — and Illinois would probably need to win all three to reach eight. The guide concludes rebuilding both lines cannot be finished in one season. *(p. 150)*
 
 ## 19. Win Total Discussion
 
@@ -216,18 +208,14 @@ Prices printed on the team page *(p. 151)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 7.5 wins. The schedule is manageable — three home non-conference wins expected over UAB, Duke and Southern Illinois, and Illinois avoids Indiana, USC, Penn State and Michigan — but opens Big Ten play at Ohio State. *(p. 150)*
+- The decisive argument: three of the last four are at home but all are coin flips — Nebraska, Iowa and Northwestern — and Illinois would probably need to win all three to reach eight. The guide concludes rebuilding both lines cannot be finished in one season. *(p. 150)*
 
 ## 22. Historical / Situational Trends
 
-- After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. *(p. 151)*
-- Houser became the full-time starter for ECU last year and threw for 3300 yards (65.9% completions) and 19 TDs while also rushing for nine. *(p. 151)*
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
+- Illinois won 19 games across the last two seasons, the most in programme history over a two-year span, largely behind three-year starter Luke Altmyer, who has now graduated. *(p. 150)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS – OVER 7.5 WINS After getting a winner with the Illini last year on their Over win total prop, I’m going back to the well in 2026. *(p. 22)*
-- Plus, the Wildcats have games with Penn State, Iowa, and Illinois who were also bowl teams last season. *(p. 166)*
+Referenced in the guide on **pp. 22, 166** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -272,7 +260,8 @@ As printed on p. 151. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Katin Houser returns to the Big Ten (Michigan State) after starting for the better part of two seasons at East Carolina, where he went 13-6 as a starter. *(p. 150)*
+- Katin Houser returns to the Big Ten from East Carolina, where he went 13-6 as a starter, having previously been at Michigan State. *(p. 150)*
+- Hauck's Montana sides ranked top-20 in FCS scoring defense and top-10 in takeaways in three of the last five years. Attrition is concentrated on the defensive line, where five rotational players including second-round pick Gabe Jacas are replaced by Group of Six or FCS talent, which the guide calls the roster's biggest question. The secondary is not: four senior starters return including All-Big Ten free safety Xavier Scott. Illinois rated only 14th in the conference against the pass, but the guide rates this defensive backfield among the league's better ones and allows the new scheme could catch opponents by surprise. *(p. 151)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -280,29 +269,29 @@ As printed on p. 151. Each category carries a value and a national rank.
 
 - Makinen projects **7.3 wins** against a posted total of 7.5 — **-0.2** against this team.
 - The team page recommends **UNDER 7.5**.
-- Oregon will be a likely home loss, and they do have three of the last four at home, but all in coin flip games – Nebraska, Iowa, and Northwestern – where they more than likely must win all three to get to eight victories. *(p. 150)*
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
-- This unit is the biggest question mark on the roster, but the secondary is not, with four returning senior starters including All-Big Ten free safety Xavier Scott. *(p. 151)*
-- With a new QB, the loss of leading WR Alex Perry is probably less significant, as he was going to have to develop chemistry with everybody anyway, but Perry did have 530 more receiving yards and 25 more catches than anybody else, which is part of the reason why he’s at Illinois now. *(p. 191)*
+- The rest of the road slate is not arduous: Maryland plus two teams with new coaches in Michigan State and Northwestern. Oregon is a likely home loss. *(p. 150)*
+- The line must replace four starters including first-team All-Big Ten tackle J.C. Davis, and the guide notes last year's group already struggled to run consistently and looked overmatched against better fronts — Duke, Indiana, Ohio State and Wisconsin averaged five sacks against them. Bielema is content with his backfield, having moved second-leading rusher Kaden Feagin to tight end, and is rated among the country's better evaluators and developers of linemen. The caution is that he imported only one Power Four transfer, Wisconsin center Jake Renfro. *(p. 151)*
+- Hauck's Montana sides ranked top-20 in FCS scoring defense and top-10 in takeaways in three of the last five years. Attrition is concentrated on the defensive line, where five rotational players including second-round pick Gabe Jacas are replaced by Group of Six or FCS talent, which the guide calls the roster's biggest question. The secondary is not: four senior starters return including All-Big Ten free safety Xavier Scott. Illinois rated only 14th in the conference against the pass, but the guide rates this defensive backfield among the league's better ones and allows the new scheme could catch opponents by surprise. *(p. 151)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 151)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 151)*. Its analysis, in reference form:
 
-### Will Katin Houser’s second stint in the Big Ten go better than his first?
+### Will Katin Houser's second stint in the Big Ten go better than his first?
 
-After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. Houser became the full-time starter for ECU last year and threw for 3300 yards (65.9% completions) and 19 TDs while also rushing for nine. He has a better group around him in Champaign than he did in East Lansing three years ago, but this is a new system, and he is behind an offensive line that must replace four starters.
+After redshirting in 2022 Houser could not beat out Noah Kim at Michigan State and moved to East Carolina, where he started full-time and threw for 3,300 yards on 65.9% completions with 19 touchdowns plus nine rushing. The guide judges he has a better supporting cast in Champaign than he had in East Lansing, while flagging two offsetting factors: a new system and an offensive line replacing four starters. *(p. 151)*
 
 ### Can Illinois get more physical up front?
 
-While the offensive line must replace four starters, including first- team All-Big Ten tackle J.C. Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. Bielema feels good about his backfield as they moved second- leading rusher Kaden Feagin to tight end, and he is one of the better OL evaluators and developers in the country but only imported one Power Four transfer (C Jake Renfro – Wisconsin).
+The line must replace four starters including first-team All-Big Ten tackle J.C. Davis, and the guide notes last year's group already struggled to run consistently and looked overmatched against better fronts — Duke, Indiana, Ohio State and Wisconsin averaged five sacks against them. Bielema is content with his backfield, having moved second-leading rusher Kaden Feagin to tight end, and is rated among the country's better evaluators and developers of linemen. The caution is that he imported only one Power Four transfer, Wisconsin center Jake Renfro. *(p. 151)*
 
-### How quickly can they adjust to Bobby Hauck’s new 3-3-5 defense?
+### How quickly can they adjust to Bobby Hauck's new 3-3-5 defense?
 
-Hauck’s Montana teams ranked in the top 20 for scoring defense and inside the top 10 for takeaways amongst FCS teams in three of the last five seasons. The main attrition comes on the defensive line where five rotational players, including second-round pick DE Gabe Jacas, are being replaced by Group of Six or FCS talent. This unit is the biggest question mark on the roster, but the secondary is not, with four returning senior starters including All-Big Ten free safety Xavier Scott. While the Illini rated just 14th in the conference for pass defense, this defensive backfield is one of the better ones in the league and a new scheme could catch opponents by surprise.
+Hauck's Montana sides ranked top-20 in FCS scoring defense and top-10 in takeaways in three of the last five years. Attrition is concentrated on the defensive line, where five rotational players including second-round pick Gabe Jacas are replaced by Group of Six or FCS talent, which the guide calls the roster's biggest question. The secondary is not: four senior starters return including All-Big Ten free safety Xavier Scott. Illinois rated only 14th in the conference against the pass, but the guide rates this defensive backfield among the league's better ones and allows the new scheme could catch opponents by surprise. *(p. 151)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -320,6 +309,8 @@ No source conflict identified for this team.
 | 20, 22, 166, 168, 191, 323, 343 | Other pages naming this team |
 
 This team is named in **11 sentences across 8 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 20, 22, 166, 168, 191, 323, 343.
 
 ## 29. Cross-Links
 

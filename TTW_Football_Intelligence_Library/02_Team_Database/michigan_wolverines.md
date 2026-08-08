@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 7.8–4.2 overall, 5.3–3.7 in conference |
 | **Schedule strength** | 50.94 (#6 toughest of 138) |
 
-### Season outlook as written in the guide (p. 158)
+### Season outlook — VSiN's analysis in reference form (p. 158)
 
-Perhaps no program is undergoing more of a culture change than Michigan. It has been a turbulent two-year span in Ann Arbor. The program was subject to an NCAA investigation into recruiting violations and in-person scouting infractions towards the end of the Jim Harbaugh era. Then Harbaugh’s successor Sherrone Moore was fired last December for an inappropriate relationship with a staff member. So, the Wolverines needed to hit Ctrl+Alt+Delete and reboot. Enter Kyle Whittingham, who, at 66, leaves Utah after 21 seasons after compiling a 177-88 record. Whittingham and Utah mutually agreed to part ways, but he expressed the desire to continue coaching and then Michigan came open after the Moore scandal. The hire seemed to come a bit out of left field, but Whittingham seems to fit the identity of Michigan football. He is old-school, leads with the running game, and looks to establish being more physical and tough along the line of scrimmage on both sides of the ball. Under 8.5 The cupboard is not bare for Whittingham in terms of the talent he inherits. On the other hand, he and his Wolverines get a “welcome to the Big Ten” schedule that has six ranked opponents on it and does not get to avoid any of the top teams in conference play. Whittingham is, without question, a proven winner, but this is still a program in some transition and one with a QB that still has a lot to prove before he can be given the benefit of the doubt.
+- The guide argues no programme is undergoing more cultural change. Michigan faced an NCAA investigation into recruiting violations and in-person scouting late in the Jim Harbaugh era, and Harbaugh's successor Sherrone Moore was fired last December over an inappropriate relationship with a staff member. *(p. 158)*
+- Kyle Whittingham arrives at 66 after 21 seasons and a 177-88 record at Utah. He and Utah parted mutually, he wanted to keep coaching, and Michigan opened after the Moore scandal. *(p. 158)*
+- The guide concedes the hire seemed to come out of left field but argues he fits Michigan's identity: old-school, run-first, and focused on physicality along both lines. *(p. 158)*
+- Recommendation is Under 8.5 wins. The guide is explicit that the inherited talent is not the problem — the cupboard is not bare. *(p. 158)*
+- Its case rests on the schedule and the quarterback: a welcome-to-the-Big-Ten slate with six ranked opponents and no chance to dodge any of the conference's top teams, a programme still in transition, and a quarterback with a lot left to prove. *(p. 158)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,21 +86,13 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 32)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Then Harbaugh’s successor Sherrone Moore was fired last December for an inappropriate relationship with a staff member. *(p. 158)*
-- Whittingham and Utah mutually agreed to part ways, but he expressed the desire to continue coaching and then Michigan came open after the Moore scandal. *(p. 158)*
-- The hire seemed to come a bit out of left field, but Whittingham seems to fit the identity of Michigan football. *(p. 158)*
-- On the surface, he should be improved just with better coaching and development under new offensive coordinator Jason Beck and QB coach Koy Detmer. *(p. 159)*
-- The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters. *(p. 159)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
+- The guide argues no programme is undergoing more cultural change. Michigan faced an NCAA investigation into recruiting violations and in-person scouting late in the Jim Harbaugh era, and Harbaugh's successor Sherrone Moore was fired last December over an inappropriate relationship with a staff member. *(p. 158)*
+- Kyle Whittingham arrives at 66 after 21 seasons and a 177-88 record at Utah. He and Utah parted mutually, he wanted to keep coaching, and Michigan opened after the Moore scandal. *(p. 158)*
+- The guide concedes the hire seemed to come out of left field but argues he fits Michigan's identity: old-school, run-first, and focused on physicality along both lines. *(p. 158)*
+- **Can the defense be rebuilt?** Former Weber State head coach Jay Hill spent three years as BYU's coordinator, lifting the Cougars to a top-20 scoring defense. Michigan will run a 4-2-5 base with varied looks, blitzes and mixed man and zone. The guide notes the group looked ahead of the offense in the spring game but has little experience. John Henry Daley (11.5 sacks), a first-team All-American at Utah, shores up the line; the secondary is talented with corners Zeke Berry and Jyaire Hill, safety Rod Moore, All-Big 12 nickel Smith Snowden (two interceptions, nine pass breakups) and Chris Bracy (81 tackles) from Memphis. Linebacker remains a stated concern, and the guide expects opponents to attack the middle until it improves. *(p. 159)*
+- **Will Whittingham be able to get higher-level talent to fit into his culture?** Whittingham wants to restore discipline, toughness and physicality, which he achieved at Utah by recruiting solid talent and developing it. The difference now is raw material: four- and five-stars and a much higher ceiling. The guide's balance is that two decades of success show his method works, while insisting Michigan is a different proposition and that he will be tested immediately by a schedule featuring Oklahoma, Iowa, Penn State and Indiana at home plus trips to Oregon and Ohio State. *(p. 159)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Michigan monkey, meaning a four-game losing streak, is finally off coach Ryan Day’s back, but now he’s got a Curt Cignetti problem and plays at Indiana in October. 4. *(p. 18)*
-- MICHIGAN The hiring of Kyle Whittingham, who spent 21 years as Utah’s coach, was a home run even if he’s lost something off his fastball. *(p. 19)*
-- Morgan Scalley Utah After basically a decade of being the head coach-in-waiting, except for a short period of time after a scandal involving the use of racial stereotypes, Scalley gets his shot with Whittingham off to Michigan. *(p. 31)*
-- But BYU will have a new coach leading the defense, as Jay Hill went to join Kyle Whittingham at Michigan. *(p. 123)*
-- In 2023, Michigan won its first national title since 1997 before Jim Harbaugh left his alma mater and took his NCAA show-cause penalty to return to coaching in the NFL. *(p. 149)*
-- He played at Michigan, was a grad assistant there, actually coached at Ohio State, and also had stops at Nevada and Tulsa. *(p. 343)*
+Also referenced on **pp. 18, 19, 31, 123, 149, 343** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -102,14 +100,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 158)*.
 
-- Whittingham is, without question, a proven winner, but this is still a program in some transition and one with a QB that still has a lot to prove before he can be given the benefit of the doubt. *(p. 158)*
-- However, his numbers (2429 yards, 11/9 TD/INT, 60.3% completions, 392 rushing yards, six TDs) last year were largely underwhelming. *(p. 159)*
-- On the surface, he should be improved just with better coaching and development under new offensive coordinator Jason Beck and QB coach Koy Detmer. *(p. 159)*
+- Its case rests on the schedule and the quarterback: a welcome-to-the-Big-Ten slate with six ranked opponents and no chance to dodge any of the conference's top teams, a programme still in transition, and a quarterback with a lot left to prove. *(p. 158)*
+- **Is Bryce Underwood ready to take the next step?** Underwood is among the most hyped recruits in Michigan history, started as a freshman and flashed the form that made him the No. 1 overall player in the 2025 class, but the guide calls his numbers largely underwhelming: 2,429 yards, 11 touchdowns to nine interceptions, 60.3% completions, 392 rushing yards and six scores. It expects improvement from coaching alone under new coordinator Jason Beck and quarterbacks coach Koy Detmer, citing Beck's record — New Mexico's offense went from 44th to fourth nationally in 2024, and Utah's from 115th to fourth last year. The staff wants Underwood running more, and he has support from Jordan Marshall (932 yards, 10 touchdowns) and five-star freshman Savion Hiter behind a line returning four starters. *(p. 159)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The former Michigan signal-caller is somewhat limited as a passer. *(p. 258)*
-- Behind him is former Michigan quarterback Alex Orji, who is coming off a catastrophic leg injury and was not fully healthy in spring. *(p. 259)*
+Also referenced on **pp. 258, 259** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -125,55 +119,28 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
+- **Can the defense be rebuilt?** Former Weber State head coach Jay Hill spent three years as BYU's coordinator, lifting the Cougars to a top-20 scoring defense. Michigan will run a 4-2-5 base with varied looks, blitzes and mixed man and zone. The guide notes the group looked ahead of the offense in the spring game but has little experience. John Henry Daley (11.5 sacks), a first-team All-American at Utah, shores up the line; the secondary is talented with corners Zeke Berry and Jyaire Hill, safety Rod Moore, All-Big 12 nickel Smith Snowden (two interceptions, nine pass breakups) and Chris Bracy (81 tackles) from Memphis. Linebacker remains a stated concern, and the guide expects opponents to attack the middle until it improves. *(p. 159)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The brother of Heisman Trophy winner Fernando Mendoza transferred from Indiana, and running back Justice Haynes transferred from Michigan. *(p. 20)*
-- Justice Haynes transferred in from Michigan and looks to be the starter at RB in front of Malachi Hosley, who is easily the most productive skill player back for the Yellow Jackets, even though King led the team in rushing yards and rushing touchdowns. *(p. 91)*
-- The talent is there because Denegal is a former Michigan transfer who was a touted recruit. *(p. 275)*
+Referenced in the guide on **pp. 20, 91, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- The program was subject to an NCAA investigation into recruiting violations and in-person scouting infractions towards the end of the Jim Harbaugh era. *(p. 158)*
-- Underwood is one of the most hyped recruits in the history of Michigan football. *(p. 159)*
-- He started last year as a freshman and showed flashes of what made him the No. 1 ranked overall player nationally in the 2025 recruiting class. *(p. 159)*
-- The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters. *(p. 159)*
-- He was able to do that at Utah, recruiting good and solid talent and developing them into something more. *(p. 159)*
-- Now, he has four-stars, five-stars and ultimately a much higher ceiling in terms of pure talent. *(p. 159)*
+- **Is Bryce Underwood ready to take the next step?** Underwood is among the most hyped recruits in Michigan history, started as a freshman and flashed the form that made him the No. 1 overall player in the 2025 class, but the guide calls his numbers largely underwhelming: 2,429 yards, 11 touchdowns to nine interceptions, 60.3% completions, 392 rushing yards and six scores. It expects improvement from coaching alone under new coordinator Jason Beck and quarterbacks coach Koy Detmer, citing Beck's record — New Mexico's offense went from 44th to fourth nationally in 2024, and Utah's from 115th to fourth last year. The staff wants Underwood running more, and he has support from Jordan Marshall (932 yards, 10 touchdowns) and five-star freshman Savion Hiter behind a line returning four starters. *(p. 159)*
+- **Will Whittingham be able to get higher-level talent to fit into his culture?** Whittingham wants to restore discipline, toughness and physicality, which he achieved at Utah by recruiting solid talent and developing it. The difference now is raw material: four- and five-stars and a much higher ceiling. The guide's balance is that two decades of success show his method works, while insisting Michigan is a different proposition and that he will be tested immediately by a schedule featuring Oklahoma, Iowa, Penn State and Indiana at home plus trips to Oregon and Ohio State. *(p. 159)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Expect this team to keep the ball on the ground with a deep stable of RBs: Braylen Russell is a bruiser, Sutton Smith ran for 669 yards and seven TDs at Memphis, and Jasper Parker was a fourstar recruit at Michigan. *(p. 10)*
-- The talent is there because Denegal is a former Michigan transfer who was a touted recruit. *(p. 275)*
+Referenced in the guide on **pp. 10, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- However, his numbers (2429 yards, 11/9 TD/INT, 60.3% completions, 392 rushing yards, six TDs) last year were largely underwhelming. *(p. 159)*
-- On the surface, he should be improved just with better coaching and development under new offensive coordinator Jason Beck and QB coach Koy Detmer. *(p. 159)*
-- Beck’s power spread took New Mexico’s offense from 44th to fourth nationally in 2024 and made even more progress last year at Utah going from 115th to fourth. *(p. 159)*
-- The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters. *(p. 159)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
-- While this group looked ahead of the offense in the spring game, there is not much experience here. *(p. 159)*
+- **Is Bryce Underwood ready to take the next step?** Underwood is among the most hyped recruits in Michigan history, started as a freshman and flashed the form that made him the No. 1 overall player in the 2025 class, but the guide calls his numbers largely underwhelming: 2,429 yards, 11 touchdowns to nine interceptions, 60.3% completions, 392 rushing yards and six scores. It expects improvement from coaching alone under new coordinator Jason Beck and quarterbacks coach Koy Detmer, citing Beck's record — New Mexico's offense went from 44th to fourth nationally in 2024, and Utah's from 115th to fourth last year. The staff wants Underwood running more, and he has support from Jordan Marshall (932 yards, 10 touchdowns) and five-star freshman Savion Hiter behind a line returning four starters. *(p. 159)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The offense put up 456 yards in the bowl win over Michigan. *(p. 6)*
-- Expect to see the Longhorns utilize Manning more in the running game after his 155-yard rushing outburst against Michigan in the Citrus Bowl. *(p. 45)*
-- Justice Haynes transferred in from Michigan and looks to be the starter at RB in front of Malachi Hosley, who is easily the most productive skill player back for the Yellow Jackets, even though King led the team in rushing yards and rushing touchdowns. *(p. 91)*
-- Essentially a brand-new receiving corps joins holdover Mikey Matthews (33-3482) with Landon Ellis (James Madison), Leland Smith (San Jose State), Brian Rowe (South Carolina), Aidan Mizell (Florida), and Semaj Morgan (Michigan) entering the fold. *(p. 179)*
-- The Huskies only averaged 9.3 points per game and 4.3 yards per play against Ohio State, Michigan, Wisconsin, and Oregon, who were the four best defenses they faced. *(p. 182)*
+Referenced in the guide on **pp. 6, 23, 45, 91, 179, 182** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
-- John Henry Daley (11.5 sacks) was a first-team All- American at Utah last year and helps shore up the defensive line. *(p. 159)*
-- The secondary has a lot of talent with the return of starting corners Zeke Berry and Jyaire Hill, Rod Moore at safety, and the additions of nickel Smith Snowden (two INTs, nine PBU), who was All-Big 12 at Utah and Chris Bracy (81 tackles) from Memphis. *(p. 159)*
-- The linebacker room remains a concern; expect opponents to attack Michigan over the middle until that group improves. *(p. 159)*
+- **Can the defense be rebuilt?** Former Weber State head coach Jay Hill spent three years as BYU's coordinator, lifting the Cougars to a top-20 scoring defense. Michigan will run a 4-2-5 base with varied looks, blitzes and mixed man and zone. The guide notes the group looked ahead of the offense in the spring game but has little experience. John Henry Daley (11.5 sacks), a first-team All-American at Utah, shores up the line; the secondary is talented with corners Zeke Berry and Jyaire Hill, safety Rod Moore, All-Big 12 nickel Smith Snowden (two interceptions, nine pass breakups) and Chris Bracy (81 tackles) from Memphis. Linebacker remains a stated concern, and the guide expects opponents to attack the middle until it improves. *(p. 159)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- But BYU will have a new coach leading the defense, as Jay Hill went to join Kyle Whittingham at Michigan. *(p. 123)*
-- The Huskies only averaged 9.3 points per game and 4.3 yards per play against Ohio State, Michigan, Wisconsin, and Oregon, who were the four best defenses they faced. *(p. 182)*
+Referenced in the guide on **pp. 123, 182** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -248,29 +215,16 @@ Prices printed on the team page *(p. 159)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Michigan will run a 4-2-5 base with varied looks, blitzes, and a mix of both man and zone coverages. *(p. 159)*
+- Recommendation is Under 8.5 wins. The guide is explicit that the inherited talent is not the problem — the cupboard is not bare. *(p. 158)*
+- Its case rests on the schedule and the quarterback: a welcome-to-the-Big-Ten slate with six ranked opponents and no chance to dodge any of the conference's top teams, a programme still in transition, and a quarterback with a lot left to prove. *(p. 158)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Out of their 12 games, the Nittany Lions are likely underdogs in only two of them, at Michigan and at Washington. *(p. 12)*
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
+Also referenced on **pp. 12, 161** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- He started last year as a freshman and showed flashes of what made him the No. 1 ranked overall player nationally in the 2025 recruiting class. *(p. 159)*
-- However, his numbers (2429 yards, 11/9 TD/INT, 60.3% completions, 392 rushing yards, six TDs) last year were largely underwhelming. *(p. 159)*
-- Beck’s power spread took New Mexico’s offense from 44th to fourth nationally in 2024 and made even more progress last year at Utah going from 115th to fourth. *(p. 159)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
-- John Henry Daley (11.5 sacks) was a first-team All- American at Utah last year and helps shore up the defensive line. *(p. 159)*
+- The guide argues no programme is undergoing more cultural change. Michigan faced an NCAA investigation into recruiting violations and in-person scouting late in the Jim Harbaugh era, and Harbaugh's successor Sherrone Moore was fired last December over an inappropriate relationship with a staff member. *(p. 158)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They avoid Indiana altogether, who appeared to be their Kryptonite last season; road trips to USC and Ohio State will be challenging, and they do welcome Michigan and Washington to Autzen Stadium, but my gut says they don’t lose more than one of those games. *(p. 14)*
-- The Michigan monkey, meaning a four-game losing streak, is finally off coach Ryan Day’s back, but now he’s got a Curt Cignetti problem and plays at Indiana in October. 4. *(p. 18)*
-- Warren, who missed last season with a torn ACL, had a 7/9 TD/INT ratio at Michigan. *(p. 105)*
-- In 2023, Michigan won its first national title since 1997 before Jim Harbaugh left his alma mater and took his NCAA show-cause penalty to return to coaching in the NFL. *(p. 149)*
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
-- They did end a four-game losing streak to “the team up north” (Michigan), and finished 12-2, but it is never enough in Columbus, and the Buckeyes are not standing pat as there are significant changes. *(p. 168)*
+Referenced in the guide on **pp. 14, 18, 105, 149, 161, 168, 215** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -316,49 +270,35 @@ As printed on p. 159. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.8 wins** against a posted total of 7.5 — **+0.3** in this team's favour.
-- On the surface, he should be improved just with better coaching and development under new offensive coordinator Jason Beck and QB coach Koy Detmer. *(p. 159)*
-- The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters. *(p. 159)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
-- The secondary has a lot of talent with the return of starting corners Zeke Berry and Jyaire Hill, Rod Moore at safety, and the additions of nickel Smith Snowden (two INTs, nine PBU), who was All-Big 12 at Utah and Chris Bracy (81 tackles) from Memphis. *(p. 159)*
-- The linebacker room remains a concern; expect opponents to attack Michigan over the middle until that group improves. *(p. 159)*
-- Expect this team to keep the ball on the ground with a deep stable of RBs: Braylen Russell is a bruiser, Sutton Smith ran for 669 yards and seven TDs at Memphis, and Jasper Parker was a fourstar recruit at Michigan. *(p. 10)*
-- Texas and Georgia are the SEC’s best bets to break the Big Ten’s threeyear championship reign strung together by Michigan, Ohio State and Indiana. *(p. 38)*
-- This year’s team is actually plenty talented, but the fact that Whittingham went to Michigan did make things interesting. *(p. 144)*
-- In 2023, Michigan won its first national title since 1997 before Jim Harbaugh left his alma mater and took his NCAA show-cause penalty to return to coaching in the NFL. *(p. 149)*
-- The Huskies only averaged 9.3 points per game and 4.3 yards per play against Ohio State, Michigan, Wisconsin, and Oregon, who were the four best defenses they faced. *(p. 182)*
+- Underwood is among the most hyped recruits in Michigan history, started as a freshman and flashed the form that made him the No. 1 overall player in the 2025 class, but the guide calls his numbers largely underwhelming: 2,429 yards, 11 touchdowns to nine interceptions, 60.3% completions, 392 rushing yards and six scores. It expects improvement from coaching alone under new coordinator Jason Beck and quarterbacks coach Koy Detmer, citing Beck's record — New Mexico's offense went from 44th to fourth nationally in 2024, and Utah's from 115th to fourth last year. The staff wants Underwood running more, and he has support from Jordan Marshall (932 yards, 10 touchdowns) and five-star freshman Savion Hiter behind a line returning four starters. *(p. 159)*
+- Former Weber State head coach Jay Hill spent three years as BYU's coordinator, lifting the Cougars to a top-20 scoring defense. Michigan will run a 4-2-5 base with varied looks, blitzes and mixed man and zone. The guide notes the group looked ahead of the offense in the spring game but has little experience. John Henry Daley (11.5 sacks), a first-team All-American at Utah, shores up the line; the secondary is talented with corners Zeke Berry and Jyaire Hill, safety Rod Moore, All-Big 12 nickel Smith Snowden (two interceptions, nine pass breakups) and Chris Bracy (81 tackles) from Memphis. Linebacker remains a stated concern, and the guide expects opponents to attack the middle until it improves. *(p. 159)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- He is old-school, leads with the running game, and looks to establish being more physical and tough along the line of scrimmage on both sides of the ball. *(p. 158)*
-- Whittingham is, without question, a proven winner, but this is still a program in some transition and one with a QB that still has a lot to prove before he can be given the benefit of the doubt. *(p. 158)*
-- The linebacker room remains a concern; expect opponents to attack Michigan over the middle until that group improves. *(p. 159)*
-- Whittingham has two decades of success that shows that his way works, but this is a different ball game at Michigan and he and his team will be tested immediately facing a difficult schedule with dates vs. *(p. 159)*
-- MICHIGAN The hiring of Kyle Whittingham, who spent 21 years as Utah’s coach, was a home run even if he’s lost something off his fastball. *(p. 19)*
-- Warren, who missed last season with a torn ACL, had a 7/9 TD/INT ratio at Michigan. *(p. 105)*
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
-- Behind him is former Michigan quarterback Alex Orji, who is coming off a catastrophic leg injury and was not fully healthy in spring. *(p. 259)*
+- Former Weber State head coach Jay Hill spent three years as BYU's coordinator, lifting the Cougars to a top-20 scoring defense. Michigan will run a 4-2-5 base with varied looks, blitzes and mixed man and zone. The guide notes the group looked ahead of the offense in the spring game but has little experience. John Henry Daley (11.5 sacks), a first-team All-American at Utah, shores up the line; the secondary is talented with corners Zeke Berry and Jyaire Hill, safety Rod Moore, All-Big 12 nickel Smith Snowden (two interceptions, nine pass breakups) and Chris Bracy (81 tackles) from Memphis. Linebacker remains a stated concern, and the guide expects opponents to attack the middle until it improves. *(p. 159)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 159)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 159)*. Its analysis, in reference form:
 
 ### Is Bryce Underwood ready to take the next step?
 
-Underwood is one of the most hyped recruits in the history of Michigan football. He started last year as a freshman and showed flashes of what made him the No. 1 ranked overall player nationally in the 2025 recruiting class. However, his numbers (2429 yards, 11/9 TD/INT, 60.3% completions, 392 rushing yards, six TDs) last year were largely underwhelming. On the surface, he should be improved just with better coaching and development under new offensive coordinator Jason Beck and QB coach Koy Detmer. Beck’s power spread took New Mexico’s offense from 44th to fourth nationally in 2024 and made even more progress last year at Utah going from 115th to fourth. The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters.
+Underwood is among the most hyped recruits in Michigan history, started as a freshman and flashed the form that made him the No. 1 overall player in the 2025 class, but the guide calls his numbers largely underwhelming: 2,429 yards, 11 touchdowns to nine interceptions, 60.3% completions, 392 rushing yards and six scores. It expects improvement from coaching alone under new coordinator Jason Beck and quarterbacks coach Koy Detmer, citing Beck's record — New Mexico's offense went from 44th to fourth nationally in 2024, and Utah's from 115th to fourth last year. The staff wants Underwood running more, and he has support from Jordan Marshall (932 yards, 10 touchdowns) and five-star freshman Savion Hiter behind a line returning four starters. *(p. 159)*
 
 ### Can the defense be rebuilt?
 
-Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. Michigan will run a 4-2-5 base with varied looks, blitzes, and a mix of both man and zone coverages. While this group looked ahead of the offense in the spring game, there is not much experience here. John Henry Daley (11.5 sacks) was a first-team All- American at Utah last year and helps shore up the defensive line. The secondary has a lot of talent with the return of starting corners Zeke Berry and Jyaire Hill, Rod Moore at safety, and the additions of nickel Smith Snowden (two INTs, nine PBU), who was All-Big 12 at Utah and Chris Bracy (81 tackles) from Memphis. The linebacker room remains a concern; expect opponents to attack Michigan over the middle until that group improves.
+Former Weber State head coach Jay Hill spent three years as BYU's coordinator, lifting the Cougars to a top-20 scoring defense. Michigan will run a 4-2-5 base with varied looks, blitzes and mixed man and zone. The guide notes the group looked ahead of the offense in the spring game but has little experience. John Henry Daley (11.5 sacks), a first-team All-American at Utah, shores up the line; the secondary is talented with corners Zeke Berry and Jyaire Hill, safety Rod Moore, All-Big 12 nickel Smith Snowden (two interceptions, nine pass breakups) and Chris Bracy (81 tackles) from Memphis. Linebacker remains a stated concern, and the guide expects opponents to attack the middle until it improves. *(p. 159)*
 
 ### Will Whittingham be able to get higher-level talent to fit into his culture?
 
-Whittingham clearly wants to restore Michigan to its long-standing identity of discipline, toughness, and physicality. He was able to do that at Utah, recruiting good and solid talent and developing them into something more. Now, he has four-stars, five-stars and ultimately a much higher ceiling in terms of pure talent. Whittingham has two decades of success that shows that his way works, but this is a different ball game at Michigan and he and his team will be tested immediately facing a difficult schedule with dates vs. Oklahoma, Iowa, Penn State, Indiana, at Oregon, and at Ohio State.
+Whittingham wants to restore discipline, toughness and physicality, which he achieved at Utah by recruiting solid talent and developing it. The difference now is raw material: four- and five-stars and a much higher ceiling. The guide's balance is that two decades of success show his method works, while insisting Michigan is a different proposition and that he will be tested immediately by a schedule featuring Oklahoma, Iowa, Penn State and Indiana at home plus trips to Oregon and Ohio State. *(p. 159)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -376,6 +316,8 @@ No source conflict identified for this team.
 | 5, 6, 8, 10, 11, 12, 14, 18, 19, 20, 23, 30, 31, 32, 38, 39, 45, 46, 91, 105, 123, 144, 150, 154, 156, 161, 168, 172, 174, 178, 179, 182, 212, 215, 236, 240, 258, 259, 260, 275, 287, 302, 325, 343 | Other pages naming this team |
 
 This team is named in **63 sentences across 47 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 6, 8, 10, 11, 12, 14, 18, 19, 20, 23, 30, 31, 32, 38, 39, 45, 46, 91, 105, 123, 144, 150, 154, 156, 161, 168, 172, 174, 178, 179, 182, 212, 215, 236, 240, 258, 259, 260, 275, 287, 302, 325, 343.
 
 ## 29. Cross-Links
 

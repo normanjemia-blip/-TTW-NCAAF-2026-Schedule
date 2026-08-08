@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 6.3–5.7 overall, 3.7–5.3 in conference |
 | **Schedule strength** | 45.38 (#42 toughest of 138) |
 
-### Season outlook as written in the guide (p. 162)
+### Season outlook — VSiN's analysis in reference form (p. 162)
 
-P.J. Fleck is now in his 10th season of rowing the boat at Minnesota. The Gophers have gone to bowl games in seven of his nine seasons (7-0 in bowls) and have won eight or more games in four of the last five years. The boat is steady in the Land of 10,000 Lakes, but can it pick up a little speed to challenge the conference elite at least occasionally? Minnesota returns 68% of its 2025 production per ESPN’s Bill Connelly and is led by redshirt sophomore quarterback Drake Lindsey (63.5%, 2432 yards, 19/6 TD/INT), who started all 13 games as a freshman. Running back Darius Taylor missed nearly half of the season last year but has almost 2,500 yards in 28 career games for the Gophers. Including Taylor, three of the top four pass catchers are back plus six defensive starters as Minnesota remains a consistent upper half of the Big Ten program while being bottom half in terms of NIL. Under 6.5 The Gophers get a break in the schedule avoiding Ohio State and Oregon but still must travel to Indiana, Penn State, and Washington. Lindsey has the potential to be a special QB in Minneapolis but still lacks a true No. 1 receiver (can Auburn transfer Perry Thompson fill that void?). They also have questions on the interior of both the offensive and defensive lines. In each of the last two years, Minnesota has defeated a ranked opponent as a home underdog – No. 25 Nebraska (2025) and No. 11 USC (2024). They will likely need to do the same against Michigan or Iowa in similar spots this year to once again eclipse this win total.
+- P.J. Fleck enters a tenth season with bowls in seven of nine years, a 7-0 bowl record, and eight or more wins in four of the last five. The guide's framing question is whether a steady programme can occasionally challenge the conference elite. *(p. 162)*
+- Minnesota returns 68% of its 2025 production per ESPN's Bill Connelly, led by redshirt sophomore Drake Lindsey (63.5%, 2,432 yards, 19 touchdowns to six interceptions) who started all 13 games as a freshman. *(p. 162)*
+- Running back Darius Taylor missed nearly half of last season but has almost 2,500 yards in 28 career games. Three of the top four pass catchers return along with six defensive starters. *(p. 162)*
+- The guide adds a structural note: Minnesota is consistently an upper-half Big Ten programme while sitting in the bottom half for NIL. *(p. 162)*
+- Recommendation is Under 6.5 wins. The schedule offers a break in avoiding Ohio State and Oregon but still requires trips to Indiana, Penn State and Washington. *(p. 162)*
+- Its reservations are specific: Lindsey has the potential to be special but lacks a true No. 1 receiver, with Auburn transfer Perry Thompson the open question, and there are doubts on the interior of both lines. *(p. 162)*
+- A situational pattern is offered as the path to clearing the number: Minnesota has beaten a ranked opponent as a home underdog in each of the last two years — No. 25 Nebraska in 2025 and No. 11 USC in 2024 — and the guide says it likely needs the same against Michigan or Iowa this time. *(p. 162)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,10 +86,9 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
+- P.J. Fleck enters a tenth season with bowls in seven of nine years, a 7-0 bowl record, and eight or more wins in four of the last five. The guide's framing question is whether a steady programme can occasionally challenge the conference elite. *(p. 162)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He was replaced with the new staff coming in and coached linebackers at Minnesota last season. *(p. 175)*
+Also referenced on **pp. 175** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -89,9 +96,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 162)*.
 
-- Minnesota returns 68% of its 2025 production per ESPN’s Bill Connelly and is led by redshirt sophomore quarterback Drake Lindsey (63.5%, 2432 yards, 19/6 TD/INT), who started all 13 games as a freshman. *(p. 162)*
-- Lindsey has the potential to be a special QB in Minneapolis but still lacks a true No. 1 receiver (can Auburn transfer Perry Thompson fill that void?). *(p. 162)*
-- Bush, and Karter Menz (6.5 sacks), and they should be able to get to the opposing quarterbacks. *(p. 163)*
+- Minnesota returns 68% of its 2025 production per ESPN's Bill Connelly, led by redshirt sophomore Drake Lindsey (63.5%, 2,432 yards, 19 touchdowns to six interceptions) who started all 13 games as a freshman. *(p. 162)*
+- Its reservations are specific: Lindsey has the potential to be special but lacks a true No. 1 receiver, with Auburn transfer Perry Thompson the open question, and there are doubts on the interior of both lines. *(p. 162)*
 
 ## 10. Returning Production
 
@@ -107,47 +113,31 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 ## 11. Transfer Portal
 
-- Including Taylor, three of the top four pass catchers are back plus six defensive starters as Minnesota remains a consistent upper half of the Big Ten program while being bottom half in terms of NIL. *(p. 162)*
-- Lindsey has the potential to be a special QB in Minneapolis but still lacks a true No. 1 receiver (can Auburn transfer Perry Thompson fill that void?). *(p. 162)*
-- Taylor rejected numerous overtures in the portal to stay at Minnesota and should be healthy from the hamstring injuries that plagued him last season. *(p. 163)*
-- Lindsey should continue to progress, but it is all on the offensive line, which returns three starters and adds transfer right tackle Bennett Warren from Tennessee. *(p. 163)*
-- Portal gains and losses are a way of life in college football, but losing Perich to the portal (Oregon) stings extra for the Gophers, as he was a local product (Esko, MN) and was arguably the most talented player on the defense. *(p. 163)*
-- Minnesota had to hit the transfer portal hard and brought in Naquan Crowder and Sid Kaba, both from Marshall, along with Xion Chapman from FIU. *(p. 163)*
+- **Minnesota can Row the Boat, but can they Run the Ball?** Taylor turned down portal interest to stay and should be clear of the hamstring problems that plagued him. The guide's counterweight is stark: Minnesota ranked 116th nationally on the ground at 3.57 yards per carry, and 127th in total offense. Taylor still managed 915 scrimmage yards despite missing five games. It puts the burden squarely on the offensive line, which returns three starters and adds Tennessee transfer right tackle Bennett Warren, concluding that Lindsey's progress depends on it. *(p. 163)*
+- **Who replaces Koi Perich in the secondary?** Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
+- **Who can plug the holes?** Minnesota is solid on the edge with Smith, Bush and Karter Menz (6.5 sacks) and should reach quarterbacks. It returns 65% of overall defensive production but loses its top four defensive tackles including seventh-round pick Deven Eastern. The portal response was Naquan Crowder and Sid Kaba from Marshall and Xion Chapman from FIU. The guide leaves the interior unproven and notes pointedly that the Big Ten contains several of the country's top-10 offensive lines. *(p. 163)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They only bring in three Power Four transfers, one of which is a punter from Minnesota. *(p. 15)*
-- While Purdue returns second-leading rusher Antonio Harris (69-305-2), the bulk of production will come from portal additions like running backs Fame Ijeboi (Minnesota), Jerrick Gibson (Texas), and Travis Terrell (Jackson State). *(p. 175)*
-- Chris Brooks Jr. and Eugene Hilton return, along with the additions of Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. *(p. 185)*
+Referenced in the guide on **pp. 15, 175, 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Minnesota returns 68% of its 2025 production per ESPN’s Bill Connelly and is led by redshirt sophomore quarterback Drake Lindsey (63.5%, 2432 yards, 19/6 TD/INT), who started all 13 games as a freshman. *(p. 162)*
-- In 2024, he was first-team All-Big Ten as a freshman with five interceptions while also contributing on offense and special teams. *(p. 163)*
+- The guide adds a structural note: Minnesota is consistently an upper-half Big Ten programme while sitting in the bottom half for NIL. *(p. 162)*
 
 ## 13. Offensive Identity
 
-- Lindsey has the potential to be a special QB in Minneapolis but still lacks a true No. 1 receiver (can Auburn transfer Perry Thompson fill that void?). *(p. 162)*
-- They also have questions on the interior of both the offensive and defensive lines. *(p. 162)*
-- Taylor still had 915 yards from scrimmage last year despite missing five games, but the offensive line needs to improve dramatically as the Gophers dug many holes for themselves offensively ranking just 127th in FBS for total offense. *(p. 163)*
-- Lindsey should continue to progress, but it is all on the offensive line, which returns three starters and adds transfer right tackle Bennett Warren from Tennessee. *(p. 163)*
-- In 2024, he was first-team All-Big Ten as a freshman with five interceptions while also contributing on offense and special teams. *(p. 163)*
-- The interior defensive line is still unproven and the Big Ten has several of the top-10 offensive lines in the country. *(p. 163)*
+- Minnesota returns 68% of its 2025 production per ESPN's Bill Connelly, led by redshirt sophomore Drake Lindsey (63.5%, 2,432 yards, 19 touchdowns to six interceptions) who started all 13 games as a freshman. *(p. 162)*
+- Running back Darius Taylor missed nearly half of last season but has almost 2,500 yards in 28 career games. Three of the top four pass catchers return along with six defensive starters. *(p. 162)*
+- Its reservations are specific: Lindsey has the potential to be special but lacks a true No. 1 receiver, with Auburn transfer Perry Thompson the open question, and there are doubts on the interior of both lines. *(p. 162)*
+- **Minnesota can Row the Boat, but can they Run the Ball?** Taylor turned down portal interest to stay and should be clear of the hamstring problems that plagued him. The guide's counterweight is stark: Minnesota ranked 116th nationally on the ground at 3.57 yards per carry, and 127th in total offense. Taylor still managed 915 scrimmage yards despite missing five games. It puts the burden squarely on the offensive line, which returns three starters and adds Tennessee transfer right tackle Bennett Warren, concluding that Lindsey's progress depends on it. *(p. 163)*
 
 ## 14. Defensive Identity
 
-- Including Taylor, three of the top four pass catchers are back plus six defensive starters as Minnesota remains a consistent upper half of the Big Ten program while being bottom half in terms of NIL. *(p. 162)*
-- They also have questions on the interior of both the offensive and defensive lines. *(p. 162)*
-- Portal gains and losses are a way of life in college football, but losing Perich to the portal (Oregon) stings extra for the Gophers, as he was a local product (Esko, MN) and was arguably the most talented player on the defense. *(p. 163)*
-- Kerry Brown (four PBU, two INTs) is back in the secondary along with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten. *(p. 163)*
-- TJ Bush also comes in from Cal, and he has had 91 pressures and 13 sacks over three seasons at Liberty and Cal. *(p. 163)*
-- Bush, and Karter Menz (6.5 sacks), and they should be able to get to the opposing quarterbacks. *(p. 163)*
-- The Gophers do return 65% of their overall defensive production, but do lose their four top defensive tackles from last season including seventh-round draft pick Deven Eastern. *(p. 163)*
-- The interior defensive line is still unproven and the Big Ten has several of the top-10 offensive lines in the country. *(p. 163)*
+- Running back Darius Taylor missed nearly half of last season but has almost 2,500 yards in 28 career games. Three of the top four pass catchers return along with six defensive starters. *(p. 162)*
+- Its reservations are specific: Lindsey has the potential to be special but lacks a true No. 1 receiver, with Auburn transfer Perry Thompson the open question, and there are doubts on the interior of both lines. *(p. 162)*
+- **Who replaces Koi Perich in the secondary?** Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
+- **Who can plug the holes?** Minnesota is solid on the edge with Smith, Bush and Karter Menz (6.5 sacks) and should reach quarterbacks. It returns 65% of overall defensive production but loses its top four defensive tackles including seventh-round pick Deven Eastern. The portal response was Naquan Crowder and Sid Kaba from Marshall and Xion Chapman from FIU. The guide leaves the interior unproven and notes pointedly that the Big Ten contains several of the country's top-10 offensive lines. *(p. 163)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He was replaced with the new staff coming in and coached linebackers at Minnesota last season. *(p. 175)*
+Referenced in the guide on **pp. 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -218,19 +208,15 @@ Prices printed on the team page *(p. 163)*:
 
 ## 21. Betting Notes / Best Bets
 
-- In each of the last two years, Minnesota has defeated a ranked opponent as a home underdog – No. 25 Nebraska (2025) and No. 11 USC (2024). *(p. 162)*
+- Recommendation is Under 6.5 wins. The schedule offers a break in avoiding Ohio State and Oregon but still requires trips to Indiana, Penn State and Washington. *(p. 162)*
+- A situational pattern is offered as the path to clearing the number: Minnesota has beaten a ranked opponent as a home underdog in each of the last two years — No. 25 Nebraska in 2025 and No. 11 USC in 2024 — and the guide says it likely needs the same against Michigan or Iowa this time. *(p. 162)*
 
 ## 22. Historical / Situational Trends
 
-- Running back Darius Taylor missed nearly half of the season last year but has almost 2,500 yards in 28 career games for the Gophers. *(p. 162)*
-- Taylor rejected numerous overtures in the portal to stay at Minnesota and should be healthy from the hamstring injuries that plagued him last season. *(p. 163)*
-- Taylor still had 915 yards from scrimmage last year despite missing five games, but the offensive line needs to improve dramatically as the Gophers dug many holes for themselves offensively ranking just 127th in FBS for total offense. *(p. 163)*
-- In 2024, he was first-team All-Big Ten as a freshman with five interceptions while also contributing on offense and special teams. *(p. 163)*
-- The Gophers do return 65% of their overall defensive production, but do lose their four top defensive tackles from last season including seventh-round draft pick Deven Eastern. *(p. 163)*
+- P.J. Fleck enters a tenth season with bowls in seven of nine years, a 7-0 bowl record, and eight or more wins in four of the last five. The guide's framing question is whether a steady programme can occasionally challenge the conference elite. *(p. 162)*
+- A situational pattern is offered as the path to clearing the number: Minnesota has beaten a ranked opponent as a home underdog in each of the last two years — No. 25 Nebraska in 2025 and No. 11 USC in 2024 — and the guide says it likely needs the same against Michigan or Iowa this time. *(p. 162)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He was replaced with the new staff coming in and coached linebackers at Minnesota last season. *(p. 175)*
+Referenced in the guide on **pp. 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -276,45 +262,43 @@ As printed on p. 163. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **6.3 wins** against a posted total of 5.5 — **+0.8** in this team's favour.
-- The boat is steady in the Land of 10,000 Lakes, but can it pick up a little speed to challenge the conference elite at least occasionally? *(p. 162)*
-- Minnesota returns 68% of its 2025 production per ESPN’s Bill Connelly and is led by redshirt sophomore quarterback Drake Lindsey (63.5%, 2432 yards, 19/6 TD/INT), who started all 13 games as a freshman. *(p. 162)*
-- Taylor still had 915 yards from scrimmage last year despite missing five games, but the offensive line needs to improve dramatically as the Gophers dug many holes for themselves offensively ranking just 127th in FBS for total offense. *(p. 163)*
-- Lindsey should continue to progress, but it is all on the offensive line, which returns three starters and adds transfer right tackle Bennett Warren from Tennessee. *(p. 163)*
-- Portal gains and losses are a way of life in college football, but losing Perich to the portal (Oregon) stings extra for the Gophers, as he was a local product (Esko, MN) and was arguably the most talented player on the defense. *(p. 163)*
-- The Gophers do return 65% of their overall defensive production, but do lose their four top defensive tackles from last season including seventh-round draft pick Deven Eastern. *(p. 163)*
-- While Purdue returns second-leading rusher Antonio Harris (69-305-2), the bulk of production will come from portal additions like running backs Fame Ijeboi (Minnesota), Jerrick Gibson (Texas), and Travis Terrell (Jackson State). *(p. 175)*
-- Chris Brooks Jr. and Eugene Hilton return, along with the additions of Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. *(p. 185)*
+- P.J. Fleck enters a tenth season with bowls in seven of nine years, a 7-0 bowl record, and eight or more wins in four of the last five. The guide's framing question is whether a steady programme can occasionally challenge the conference elite. *(p. 162)*
+- Minnesota returns 68% of its 2025 production per ESPN's Bill Connelly, led by redshirt sophomore Drake Lindsey (63.5%, 2,432 yards, 19 touchdowns to six interceptions) who started all 13 games as a freshman. *(p. 162)*
+- Running back Darius Taylor missed nearly half of last season but has almost 2,500 yards in 28 career games. Three of the top four pass catchers return along with six defensive starters. *(p. 162)*
+- Taylor turned down portal interest to stay and should be clear of the hamstring problems that plagued him. The guide's counterweight is stark: Minnesota ranked 116th nationally on the ground at 3.57 yards per carry, and 127th in total offense. Taylor still managed 915 scrimmage yards despite missing five games. It puts the burden squarely on the offensive line, which returns three starters and adds Tennessee transfer right tackle Bennett Warren, concluding that Lindsey's progress depends on it. *(p. 163)*
+- Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
+- Minnesota is solid on the edge with Smith, Bush and Karter Menz (6.5 sacks) and should reach quarterbacks. It returns 65% of overall defensive production but loses its top four defensive tackles including seventh-round pick Deven Eastern. The portal response was Naquan Crowder and Sid Kaba from Marshall and Xion Chapman from FIU. The guide leaves the interior unproven and notes pointedly that the Big Ten contains several of the country's top-10 offensive lines. *(p. 163)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 6.5**.
-- Running back Darius Taylor missed nearly half of the season last year but has almost 2,500 yards in 28 career games for the Gophers. *(p. 162)*
-- They also have questions on the interior of both the offensive and defensive lines. *(p. 162)*
-- Taylor rejected numerous overtures in the portal to stay at Minnesota and should be healthy from the hamstring injuries that plagued him last season. *(p. 163)*
-- Taylor still had 915 yards from scrimmage last year despite missing five games, but the offensive line needs to improve dramatically as the Gophers dug many holes for themselves offensively ranking just 127th in FBS for total offense. *(p. 163)*
-- Portal gains and losses are a way of life in college football, but losing Perich to the portal (Oregon) stings extra for the Gophers, as he was a local product (Esko, MN) and was arguably the most talented player on the defense. *(p. 163)*
-- There is still talent here, but the loss of Perich could lower the ceiling a bit for this solid unit. *(p. 163)*
+- P.J. Fleck enters a tenth season with bowls in seven of nine years, a 7-0 bowl record, and eight or more wins in four of the last five. The guide's framing question is whether a steady programme can occasionally challenge the conference elite. *(p. 162)*
+- Running back Darius Taylor missed nearly half of last season but has almost 2,500 yards in 28 career games. Three of the top four pass catchers return along with six defensive starters. *(p. 162)*
+- Its reservations are specific: Lindsey has the potential to be special but lacks a true No. 1 receiver, with Auburn transfer Perry Thompson the open question, and there are doubts on the interior of both lines. *(p. 162)*
+- Taylor turned down portal interest to stay and should be clear of the hamstring problems that plagued him. The guide's counterweight is stark: Minnesota ranked 116th nationally on the ground at 3.57 yards per carry, and 127th in total offense. Taylor still managed 915 scrimmage yards despite missing five games. It puts the burden squarely on the offensive line, which returns three starters and adds Tennessee transfer right tackle Bennett Warren, concluding that Lindsey's progress depends on it. *(p. 163)*
+- Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 163)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 163)*. Its analysis, in reference form:
 
 ### Minnesota can Row the Boat, but can they Run the Ball?
 
-Taylor rejected numerous overtures in the portal to stay at Minnesota and should be healthy from the hamstring injuries that plagued him last season. However, the Gophers only ranked 116th in the nation running the ball at just 3.57 yards per carry. Taylor still had 915 yards from scrimmage last year despite missing five games, but the offensive line needs to improve dramatically as the Gophers dug many holes for themselves offensively ranking just 127th in FBS for total offense. Lindsey should continue to progress, but it is all on the offensive line, which returns three starters and adds transfer right tackle Bennett Warren from Tennessee.
+Taylor turned down portal interest to stay and should be clear of the hamstring problems that plagued him. The guide's counterweight is stark: Minnesota ranked 116th nationally on the ground at 3.57 yards per carry, and 127th in total offense. Taylor still managed 915 scrimmage yards despite missing five games. It puts the burden squarely on the offensive line, which returns three starters and adds Tennessee transfer right tackle Bennett Warren, concluding that Lindsey's progress depends on it. *(p. 163)*
 
 ### Who replaces Koi Perich in the secondary?
 
-Portal gains and losses are a way of life in college football, but losing Perich to the portal (Oregon) stings extra for the Gophers, as he was a local product (Esko, MN) and was arguably the most talented player on the defense. In 2024, he was first-team All-Big Ten as a freshman with five interceptions while also contributing on offense and special teams. Kerry Brown (four PBU, two INTs) is back in the secondary along with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten. TJ Bush also comes in from Cal, and he has had 91 pressures and 13 sacks over three seasons at Liberty and Cal. There is still talent here, but the loss of Perich could lower the ceiling a bit for this solid unit.
+Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
 
 ### Who can plug the holes?
 
-Minnesota is solid on the edge with Smith. Bush, and Karter Menz (6.5 sacks), and they should be able to get to the opposing quarterbacks. The Gophers do return 65% of their overall defensive production, but do lose their four top defensive tackles from last season including seventh-round draft pick Deven Eastern. Minnesota had to hit the transfer portal hard and brought in Naquan Crowder and Sid Kaba, both from Marshall, along with Xion Chapman from FIU. The interior defensive line is still unproven and the Big Ten has several of the top-10 offensive lines in the country.
+Minnesota is solid on the edge with Smith, Bush and Karter Menz (6.5 sacks) and should reach quarterbacks. It returns 65% of overall defensive production but loses its top four defensive tackles including seventh-round pick Deven Eastern. The portal response was Naquan Crowder and Sid Kaba from Marshall and Xion Chapman from FIU. The guide leaves the interior unproven and notes pointedly that the Big Ten contains several of the country's top-10 offensive lines. *(p. 163)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -332,6 +316,8 @@ No source conflict identified for this team.
 | 15, 175, 185, 298 | Other pages naming this team |
 
 This team is named in **13 sentences across 6 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 15, 175, 185, 298.
 
 ## 29. Cross-Links
 

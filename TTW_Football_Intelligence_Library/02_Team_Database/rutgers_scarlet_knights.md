@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 4.9–7.1 overall, 2.3–6.7 in conference |
 | **Schedule strength** | 43.86 (#53 toughest of 138) |
 
-### Season outlook as written in the guide (p. 176)
+### Season outlook — VSiN's analysis in reference form (p. 176)
 
-The second act for Greg Schiano at Rutgers certainly has had more difficulty than the first. In the late 2000s, Schiano got the Scarlet Knights near the top of the Big East, but in his second stanza, he is just 31-41 six seasons as a member of the Big Ten. There is credence to the thought that Schiano is coaching a bit with an arm tied behind his back because Rutgers has not really made the financial investment necessary to get this program more competitive in the Big Ten. Schiano is a proven good coach but eventually results must materialize. That task is made even more difficult with “The Greek Rifle” Athan Kaliakmanis’s graduation and now having to replace a two- year starter at quarterback. Furthermore, the Scarlet Knights ranked 125th nationally in total defense which is why Travis Johansen was brought in as defensive coordinator after coaching South Dakota to the FCS Playoffs last year. Schiano will still have involvement on defense as always, but Johansen will be given more autonomy than his predecessors. Over 4.5 Even with all the defensive issues, Rutgers should be able to put up some points again with Lonergan most likely to win the QB job, Raymond, and Duff. The Scarlet Knights avoid Oregon and Ohio State on the schedule, so on paper they look to have one of the easier schedules in the Big Ten and all three non-conference games are winnable, including at Boston College where Lonergan would face the school where he started nine games last season. Rutgers will need to win a coin flip game or two (at Maryland, at Northwestern, Michigan State).
+- Greg Schiano's second spell has been harder than his first. He took Rutgers near the top of the Big East in the late 2000s; in six Big Ten seasons this time he is 31-41. *(p. 176)*
+- The guide gives credence to the view that Schiano coaches with an arm tied behind his back, because Rutgers has not made the financial investment needed to compete in the Big Ten — while stating that results must eventually come. *(p. 176)*
+- The task is harder with Athan Kaliakmanis graduating, leaving a two-year starter to replace at quarterback. *(p. 176)*
+- Rutgers ranked 125th nationally in total defense, prompting the hire of Travis Johansen as coordinator after he took South Dakota to the FCS playoffs. Schiano will stay involved on defense as always, but Johansen gets more autonomy than his predecessors. *(p. 176)*
+- Recommendation is Over 4.5 wins. Even with the defensive problems the guide expects points, with Dylan Lonergan likely to win the job alongside Antwan Raymond and K.J. Duff. *(p. 176)*
+- Rutgers avoids Oregon and Ohio State, giving it on paper one of the easier Big Ten schedules, and all three non-conference games are winnable — including at Boston College, where Lonergan would face the school he started nine games for last season. *(p. 176)*
+- The guide is clear about what the Over still requires: winning a coin flip or two, naming Maryland and Northwestern away plus Michigan State. *(p. 176)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -79,18 +87,13 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- There is credence to the thought that Schiano is coaching a bit with an arm tied behind his back because Rutgers has not really made the financial investment necessary to get this program more competitive in the Big Ten. *(p. 176)*
-- Schiano is a proven good coach but eventually results must materialize. *(p. 176)*
-- Furthermore, the Scarlet Knights ranked 125th nationally in total defense which is why Travis Johansen was brought in as defensive coordinator after coaching South Dakota to the FCS Playoffs last year. *(p. 176)*
-- With all the issues on defense, Schiano and offensive coordinator Kirk Ciarrocca must play a little bit more ball control on offense. *(p. 177)*
-- Jim Turner, most recently the interim head coach of the UFL’s Memphis Showboats before the franchise was eliminated, replaces Pat Flaherty as offensive line coach. *(p. 177)*
-- Turner has a bit of a checkered past dating back to being fired as the Miami Dolphins OL coach for a pattern of harassment and bullying. *(p. 177)*
-- Johansen brought in some of his FCS brethren to fill out his defensive staff including Drake head coach Joe Woodley to coach the rush ends and Drake defensive coordinator Adam Cox to coach the safeties. *(p. 177)*
+- Greg Schiano's second spell has been harder than his first. He took Rutgers near the top of the Big East in the late 2000s; in six Big Ten seasons this time he is 31-41. *(p. 176)*
+- The guide gives credence to the view that Schiano coaches with an arm tied behind his back, because Rutgers has not made the financial investment needed to compete in the Big Ten — while stating that results must eventually come. *(p. 176)*
+- Rutgers ranked 125th nationally in total defense, prompting the hire of Travis Johansen as coordinator after he took South Dakota to the FCS playoffs. Schiano will stay involved on defense as always, but Johansen gets more autonomy than his predecessors. *(p. 176)*
+- **Can the offensive line get better?** Given the defensive problems, the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control. Senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard return with three spots open going into camp. Jim Turner, most recently interim head coach of the UFL's Memphis Showboats before the franchise folded, replaces Pat Flaherty; the guide records that Turner has a checkered past, having been fired as Miami Dolphins offensive line coach over a pattern of harassment and bullying. Center Hank Zilinskas from Colorado, Everett Small from Eastern Michigan and Isaiah Cook from Delaware State all bring starting experience. *(p. 177)*
+- **Defense? Defense, anyone?** Rutgers allowed 432.9 yards per game, 125th in FBS and the worst of any Power Four team. Only three starters return, which the guide suggests may not be a bad thing. Johansen recruited from his FCS network, bringing Drake head coach Joe Woodley to coach rush ends and Drake coordinator Adam Cox for the safeties. Safety Kaj Sanders (65 tackles) had half his tackles in the final five games. The guide notes Rutgers is rebuilding the defense through the portal for a second straight season and leaves open whether this attempt goes better. *(p. 177)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Well, Candle’s OC is Nunzio Campanile, who was at Syracuse from 2023-25 and at Rutgers prior to that. *(p. 211)*
-- Ironically, Rutgers was one of the teams with fewer sacks than UMass and that’s where Harasymiak and his DC Jared Keyte came from. *(p. 231)*
+Also referenced on **pp. 211, 231** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -98,13 +101,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 176)*.
 
-- That task is made even more difficult with “The Greek Rifle” Athan Kaliakmanis’s graduation and now having to replace a two- year starter at quarterback. *(p. 176)*
-- Over 4.5 Even with all the defensive issues, Rutgers should be able to put up some points again with Lonergan most likely to win the QB job, Raymond, and Duff. *(p. 176)*
-- Sophomore AJ Surace saw limited action last season behind Kaliakmanis and now he battles Boston College transfer Dylan Lonergan (66.9% completions, 2,025 yards, 12/5 TD/INT, nine starts). *(p. 177)*
+- The task is harder with Athan Kaliakmanis graduating, leaving a two-year starter to replace at quarterback. *(p. 176)*
+- **Who wins the quarterback job?** Sophomore AJ Surace saw limited action behind Kaliakmanis and now faces Boston College transfer Dylan Lonergan, who completed 66.9% for 2,025 yards with 12 touchdowns to five interceptions across nine starts and was once a four-star recruit taken to Alabama by Nick Saban. The guide notes weapons are available, and makes a structural point in passing: Rutgers consistently has player retention problems because of NIL, yet kept running back Antwan Raymond (1,275 yards, 13 touchdowns) and 6-foot-6 receiver K.J. Duff (60 catches, 1,084 yards, seven touchdowns). *(p. 177)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With Simon and backup Gevani McCoy gone, there is virtually no experience on the roster, with Penn State’s Jaxon Smolik, who played in four games over three years at Penn State, and Ajani Sheppard, who played five games at Rutgers and zero last season at Washington State, as the primary QB options. *(p. 69)*
+Also referenced on **pp. 69** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -120,46 +120,29 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Sophomore AJ Surace saw limited action last season behind Kaliakmanis and now he battles Boston College transfer Dylan Lonergan (66.9% completions, 2,025 yards, 12/5 TD/INT, nine starts). *(p. 177)*
-- Whoever wins the job does have some weapons to work with as Rutgers, who consistently has player retention problems due to NIL, was able to retain running back Antwan Raymond (1,275 yards, 13 TDs) and big 6-foot-6 receiver K.J. *(p. 177)*
-- Rutgers is largely rebuilding the defense through the portal for the second consecutive season. *(p. 177)*
+- **Who wins the quarterback job?** Sophomore AJ Surace saw limited action behind Kaliakmanis and now faces Boston College transfer Dylan Lonergan, who completed 66.9% for 2,025 yards with 12 touchdowns to five interceptions across nine starts and was once a four-star recruit taken to Alabama by Nick Saban. The guide notes weapons are available, and makes a structural point in passing: Rutgers consistently has player retention problems because of NIL, yet kept running back Antwan Raymond (1,275 yards, 13 touchdowns) and 6-foot-6 receiver K.J. Duff (60 catches, 1,084 yards, seven touchdowns). *(p. 177)*
+- **Can the offensive line get better?** Given the defensive problems, the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control. Senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard return with three spots open going into camp. Jim Turner, most recently interim head coach of the UFL's Memphis Showboats before the franchise folded, replaces Pat Flaherty; the guide records that Turner has a checkered past, having been fired as Miami Dolphins offensive line coach over a pattern of harassment and bullying. Center Hank Zilinskas from Colorado, Everett Small from Eastern Michigan and Isaiah Cook from Delaware State all bring starting experience. *(p. 177)*
+- **Defense? Defense, anyone?** Rutgers allowed 432.9 yards per game, 125th in FBS and the worst of any Power Four team. Only three starters return, which the guide suggests may not be a bad thing. Johansen recruited from his FCS network, bringing Drake head coach Joe Woodley to coach rush ends and Drake coordinator Adam Cox for the safeties. Safety Kaj Sanders (65 tackles) had half his tackles in the final five games. The guide notes Rutgers is rebuilding the defense through the portal for a second straight season and leaves open whether this attempt goes better. *(p. 177)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The NIL era has been even less kind to the Scarlet Knights, and player retention is certainly an issue, as Rutgers needs to make a decision to put more resources into the program if they are going to be competitive in the Big Ten. *(p. 12)*
-- Hilliard’s presence should really help here, especially with 1,000-yard Ohio standout Chase Henderson and big-bodied Rutgers transfer Ian Strong. *(p. 83)*
-- This was a much more efficient offense with Creel at the helm as opposed to Rutgers/Kentucky transfer Gavin Wimsatt and that means there’s a lot of hope for this group, even if a new stud running back needs to emerge. *(p. 192)*
+Referenced in the guide on **pp. 12, 83, 192** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Once upon a time, Lonergan was a four-star recruit brought to Alabama by Nick Saban. *(p. 177)*
+- **Who wins the quarterback job?** Sophomore AJ Surace saw limited action behind Kaliakmanis and now faces Boston College transfer Dylan Lonergan, who completed 66.9% for 2,025 yards with 12 touchdowns to five interceptions across nine starts and was once a four-star recruit taken to Alabama by Nick Saban. The guide notes weapons are available, and makes a structural point in passing: Rutgers consistently has player retention problems because of NIL, yet kept running back Antwan Raymond (1,275 yards, 13 touchdowns) and 6-foot-6 receiver K.J. Duff (60 catches, 1,084 yards, seven touchdowns). *(p. 177)*
 
 ## 13. Offensive Identity
 
-- Whoever wins the job does have some weapons to work with as Rutgers, who consistently has player retention problems due to NIL, was able to retain running back Antwan Raymond (1,275 yards, 13 TDs) and big 6-foot-6 receiver K.J. *(p. 177)*
-- With all the issues on defense, Schiano and offensive coordinator Kirk Ciarrocca must play a little bit more ball control on offense. *(p. 177)*
-- Jim Turner, most recently the interim head coach of the UFL’s Memphis Showboats before the franchise was eliminated, replaces Pat Flaherty as offensive line coach. *(p. 177)*
+- Recommendation is Over 4.5 wins. Even with the defensive problems the guide expects points, with Dylan Lonergan likely to win the job alongside Antwan Raymond and K.J. Duff. *(p. 176)*
+- **Can the offensive line get better?** Given the defensive problems, the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control. Senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard return with three spots open going into camp. Jim Turner, most recently interim head coach of the UFL's Memphis Showboats before the franchise folded, replaces Pat Flaherty; the guide records that Turner has a checkered past, having been fired as Miami Dolphins offensive line coach over a pattern of harassment and bullying. Center Hank Zilinskas from Colorado, Everett Small from Eastern Michigan and Isaiah Cook from Delaware State all bring starting experience. *(p. 177)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Rutgers does have two All-Big Ten offensive skill players in RB Antwan Raymond and WR KJ Duff. *(p. 12)*
-- This was a much more efficient offense with Creel at the helm as opposed to Rutgers/Kentucky transfer Gavin Wimsatt and that means there’s a lot of hope for this group, even if a new stud running back needs to emerge. *(p. 192)*
+Referenced in the guide on **pp. 12, 192** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Furthermore, the Scarlet Knights ranked 125th nationally in total defense which is why Travis Johansen was brought in as defensive coordinator after coaching South Dakota to the FCS Playoffs last year. *(p. 176)*
-- Schiano will still have involvement on defense as always, but Johansen will be given more autonomy than his predecessors. *(p. 176)*
-- Over 4.5 Even with all the defensive issues, Rutgers should be able to put up some points again with Lonergan most likely to win the QB job, Raymond, and Duff. *(p. 176)*
-- With all the issues on defense, Schiano and offensive coordinator Kirk Ciarrocca must play a little bit more ball control on offense. *(p. 177)*
-- Rutgers ranked 125th in FBS for total defense, allowing 432.9 yards per game, which was the worst of any team in the Power Four. *(p. 177)*
-- Johansen brought in some of his FCS brethren to fill out his defensive staff including Drake head coach Joe Woodley to coach the rush ends and Drake defensive coordinator Adam Cox to coach the safeties. *(p. 177)*
-- Safety Kaj Sanders (65 tackles) had half of his tackles in the last five games. *(p. 177)*
-- Rutgers is largely rebuilding the defense through the portal for the second consecutive season. *(p. 177)*
+- Rutgers ranked 125th nationally in total defense, prompting the hire of Travis Johansen as coordinator after he took South Dakota to the FCS playoffs. Schiano will stay involved on defense as always, but Johansen gets more autonomy than his predecessors. *(p. 176)*
+- **Defense? Defense, anyone?** Rutgers allowed 432.9 yards per game, 125th in FBS and the worst of any Power Four team. Only three starters return, which the guide suggests may not be a bad thing. Johansen recruited from his FCS network, bringing Drake head coach Joe Woodley to coach rush ends and Drake coordinator Adam Cox for the safeties. Safety Kaj Sanders (65 tackles) had half his tackles in the final five games. The guide notes Rutgers is rebuilding the defense through the portal for a second straight season and leaves open whether this attempt goes better. *(p. 177)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Defensively, though, is where Rutgers has been an absolute mess. *(p. 12)*
-- Ironically, Rutgers was one of the teams with fewer sacks than UMass and that’s where Harasymiak and his DC Jared Keyte came from. *(p. 231)*
+Referenced in the guide on **pp. 12, 231** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -210,7 +193,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- The guide is clear about what the Over still requires: winning a coin flip or two, naming Maryland and Northwestern away plus Michigan State. *(p. 176)*
 
 ## 19. Win Total Discussion
 
@@ -239,20 +222,16 @@ Prices printed on the team page *(p. 177)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- Recommendation is Over 4.5 wins. Even with the defensive problems the guide expects points, with Dylan Lonergan likely to win the job alongside Antwan Raymond and K.J. Duff. *(p. 176)*
+- The guide is clear about what the Over still requires: winning a coin flip or two, naming Maryland and Northwestern away plus Michigan State. *(p. 176)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Howard), Rutgers is likely to be an underdog in every conference game except for perhaps the season finale against Michigan State. *(p. 12)*
+Also referenced on **pp. 12** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Furthermore, the Scarlet Knights ranked 125th nationally in total defense which is why Travis Johansen was brought in as defensive coordinator after coaching South Dakota to the FCS Playoffs last year. *(p. 176)*
-- The Scarlet Knights avoid Oregon and Ohio State on the schedule, so on paper they look to have one of the easier schedules in the Big Ten and all three non-conference games are winnable, including at Boston College where Lonergan would face the school where he started nine games last season. *(p. 176)*
-- Sophomore AJ Surace saw limited action last season behind Kaliakmanis and now he battles Boston College transfer Dylan Lonergan (66.9% completions, 2,025 yards, 12/5 TD/INT, nine starts). *(p. 177)*
+- Greg Schiano's second spell has been harder than his first. He took Rutgers near the top of the Big East in the late 2000s; in six Big Ten seasons this time he is 31-41. *(p. 176)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With Simon and backup Gevani McCoy gone, there is virtually no experience on the roster, with Penn State’s Jaxon Smolik, who played in four games over three years at Penn State, and Ajani Sheppard, who played five games at Rutgers and zero last season at Washington State, as the primary QB options. *(p. 69)*
+Referenced in the guide on **pp. 69** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -298,35 +277,35 @@ As printed on p. 177. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- Hilliard’s presence should really help here, especially with 1,000-yard Ohio standout Chase Henderson and big-bodied Rutgers transfer Ian Strong. *(p. 83)*
+- The guide is clear about what the Over still requires: winning a coin flip or two, naming Maryland and Northwestern away plus Michigan State. *(p. 176)*
+- Given the defensive problems, the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control. Senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard return with three spots open going into camp. Jim Turner, most recently interim head coach of the UFL's Memphis Showboats before the franchise folded, replaces Pat Flaherty; the guide records that Turner has a checkered past, having been fired as Miami Dolphins offensive line coach over a pattern of harassment and bullying. Center Hank Zilinskas from Colorado, Everett Small from Eastern Michigan and Isaiah Cook from Delaware State all bring starting experience. *(p. 177)*
+- Rutgers allowed 432.9 yards per game, 125th in FBS and the worst of any Power Four team. Only three starters return, which the guide suggests may not be a bad thing. Johansen recruited from his FCS network, bringing Drake head coach Joe Woodley to coach rush ends and Drake coordinator Adam Cox for the safeties. Safety Kaj Sanders (65 tackles) had half his tackles in the final five games. The guide notes Rutgers is rebuilding the defense through the portal for a second straight season and leaves open whether this attempt goes better. *(p. 177)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.9 wins** against a posted total of 5.5 — **-0.6** against this team.
-- The second act for Greg Schiano at Rutgers certainly has had more difficulty than the first. *(p. 176)*
-- That task is made even more difficult with “The Greek Rifle” Athan Kaliakmanis’s graduation and now having to replace a two- year starter at quarterback. *(p. 176)*
-- RUTGERS UNDER 5.5 WINS (-150) Greg Schiano’s second act at Rutgers in the Big Ten has proven to be more difficult than his first act in the Big East. *(p. 12)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 177)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 177)*. Its analysis, in reference form:
 
 ### Who wins the quarterback job?
 
-Sophomore AJ Surace saw limited action last season behind Kaliakmanis and now he battles Boston College transfer Dylan Lonergan (66.9% completions, 2,025 yards, 12/5 TD/INT, nine starts). Once upon a time, Lonergan was a four-star recruit brought to Alabama by Nick Saban. Whoever wins the job does have some weapons to work with as Rutgers, who consistently has player retention problems due to NIL, was able to retain running back Antwan Raymond (1,275 yards, 13 TDs) and big 6-foot-6 receiver K.J. Duff (60-1,084-7).
+Sophomore AJ Surace saw limited action behind Kaliakmanis and now faces Boston College transfer Dylan Lonergan, who completed 66.9% for 2,025 yards with 12 touchdowns to five interceptions across nine starts and was once a four-star recruit taken to Alabama by Nick Saban. The guide notes weapons are available, and makes a structural point in passing: Rutgers consistently has player retention problems because of NIL, yet kept running back Antwan Raymond (1,275 yards, 13 touchdowns) and 6-foot-6 receiver K.J. Duff (60 catches, 1,084 yards, seven touchdowns). *(p. 177)*
 
 ### Can the offensive line get better?
 
-With all the issues on defense, Schiano and offensive coordinator Kirk Ciarrocca must play a little bit more ball control on offense. Two senior starters – left tackle Tyler Needham and right guard Kwabena Asamoah – are back, but there are also three open spots heading into fall camp. Jim Turner, most recently the interim head coach of the UFL’s Memphis Showboats before the franchise was eliminated, replaces Pat Flaherty as offensive line coach. Turner has a bit of a checkered past dating back to being fired as the Miami Dolphins OL coach for a pattern of harassment and bullying. Center Hank Zilinskas (Colorado), Everett Small (Eastern Michigan), and Isaiah Cook (Delaware State) all have starting experience at their previous stops.
+Given the defensive problems, the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control. Senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard return with three spots open going into camp. Jim Turner, most recently interim head coach of the UFL's Memphis Showboats before the franchise folded, replaces Pat Flaherty; the guide records that Turner has a checkered past, having been fired as Miami Dolphins offensive line coach over a pattern of harassment and bullying. Center Hank Zilinskas from Colorado, Everett Small from Eastern Michigan and Isaiah Cook from Delaware State all bring starting experience. *(p. 177)*
 
 ### Defense? Defense, anyone?
 
-Rutgers ranked 125th in FBS for total defense, allowing 432.9 yards per game, which was the worst of any team in the Power Four. Only three starters are back from that group and that might not be a bad thing. Johansen brought in some of his FCS brethren to fill out his defensive staff including Drake head coach Joe Woodley to coach the rush ends and Drake defensive coordinator Adam Cox to coach the safeties. Safety Kaj Sanders (65 tackles) had half of his tackles in the last five games. Rutgers is largely rebuilding the defense through the portal for the second consecutive season. We will see if this rebuild goes better than the first.
+Rutgers allowed 432.9 yards per game, 125th in FBS and the worst of any Power Four team. Only three starters return, which the guide suggests may not be a bad thing. Johansen recruited from his FCS network, bringing Drake head coach Joe Woodley to coach rush ends and Drake coordinator Adam Cox for the safeties. Safety Kaj Sanders (65 tackles) had half his tackles in the final five games. The guide notes Rutgers is rebuilding the defense through the portal for a second straight season and leaves open whether this attempt goes better. *(p. 177)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -344,6 +323,8 @@ No source conflict identified for this team.
 | 12, 69, 83, 192, 211, 231 | Other pages naming this team |
 
 This team is named in **19 sentences across 8 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 12, 69, 83, 192, 211, 231.
 
 ## 29. Cross-Links
 

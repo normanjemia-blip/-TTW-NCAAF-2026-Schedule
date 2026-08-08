@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 2.9–9.1 overall, 1.5–7.5 in conference |
 | **Schedule strength** | 50.47 (#9 toughest of 138) |
 
-### Season outlook as written in the guide (p. 174)
+### Season outlook — VSiN's analysis in reference form (p. 174)
 
-It was another tough season for Purdue in Barry Odom’s first year. The Boilermakers improved from 1-11 to just 2-10 and the program is currently on an 18-game losing streak in Big 10 play and has zero victories over Power Four opponents in this two-year span. It also must be difficult to be at the bottom of the conference and see your archrival at the top as the defending National Champions. While results have yet to show on the field, Purdue is in better shape and has more continuity than it had before Odom’s arrival. The coaching staff is better, but the talent is still not good enough to compete week in and week out in the Big Ten. They did not bring in a quarterback from the portal, so this is Ryan Browne’s show again. Browne (2153 yards, 9/10 TD/INT ratio) played with an ankle injury last season and his play suffered because of that and the loss of now graduated running back Devin Mockobee. Over 3.5 Purdue is still a long way away from getting back to the competitiveness of the Jeff Brohm years, but Odom and his staff are an upgrade over the disastrous tenure of Ryan Walters. The schedule is relatively manageable considering the Boilermakers avoid Ohio State, Oregon, Michigan, and USC. Unfortunately for them, they cannot avoid Old Oaken Bucket rival Indiana who has beaten them by a combined score of 122-3 the last two seasons. Nevertheless, you still have a settled quarterback and better personnel on the lines and some conference games where the talent gap is not as large. Four wins seems doable, but that is likely the ceiling.
+- Barry Odom's first year was another hard one: Purdue improved only from 1-11 to 2-10, sits on an 18-game Big Ten losing streak and has no Power Four wins across that two-year span. *(p. 174)*
+- The guide adds the psychological dimension — being bottom of the conference while the archrival is the defending national champion. *(p. 174)*
+- Its assessment separates process from results: Purdue is in better shape with more continuity than before Odom arrived and the staff is better, but the talent still cannot compete weekly in the Big Ten. *(p. 174)*
+- No portal quarterback was added, so this is Ryan Browne's job again. He threw for 2,153 yards with nine touchdowns to ten interceptions while playing through an ankle injury, which the guide says hurt his play along with the graduation of running back Devin Mockobee. *(p. 174)*
+- Recommendation is Over 3.5 wins. The guide is candid that Purdue is far from the competitiveness of the Jeff Brohm years while rating Odom and staff an upgrade on Ryan Walters' tenure. *(p. 174)*
+- The schedule is relatively manageable, avoiding Ohio State, Oregon, Michigan and USC — but not Old Oaken Bucket rival Indiana, who has beaten Purdue 122-3 on aggregate over two seasons. *(p. 174)*
+- Its conclusion is bounded on both sides: a settled quarterback, better line personnel and some conference games with a smaller talent gap make four wins doable, but that is likely the ceiling. *(p. 174)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,18 +86,13 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The coaching staff is better, but the talent is still not good enough to compete week in and week out in the Big Ten. *(p. 174)*
-- Over 3.5 Purdue is still a long way away from getting back to the competitiveness of the Jeff Brohm years, but Odom and his staff are an upgrade over the disastrous tenure of Ryan Walters. *(p. 174)*
-- Odom fired his offensive line coach Vance Vice, who came with him from UNLV, and brought in Zach Crabtree, who worked with offensive coordinator Josh Henson previously at USC. *(p. 175)*
-- The coaching change should be an upgrade, and Purdue added more beef up front. *(p. 175)*
-- Kevin Kane was the defensive coordinator here under previous head coach Ryan Walters in the 2023 and 2024 seasons. *(p. 175)*
-- He was replaced with the new staff coming in and coached linebackers at Minnesota last season. *(p. 175)*
-- Kane now gets a second chance at the DC position and has more autonomy in calling the defense and he likes to attack more than Walters did. *(p. 175)*
+- Barry Odom's first year was another hard one: Purdue improved only from 1-11 to 2-10, sits on an 18-game Big Ten losing streak and has no Power Four wins across that two-year span. *(p. 174)*
+- Its assessment separates process from results: Purdue is in better shape with more continuity than before Odom arrived and the staff is better, but the talent still cannot compete weekly in the Big Ten. *(p. 174)*
+- Recommendation is Over 3.5 wins. The guide is candid that Purdue is far from the competitiveness of the Jeff Brohm years while rating Odom and staff an upgrade on Ryan Walters' tenure. *(p. 174)*
+- **Can the Boilermakers be more physical up front?** Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
+- **Is Kane able?** Kevin Kane was Purdue's coordinator under Ryan Walters in 2023 and 2024, when the Boilermakers finished last in the league in most defensive categories, and he was replaced before spending last season coaching Minnesota's linebackers. The guide gives the case for a second chance in balanced terms: he now has more autonomy calling the defense and prefers to attack more than Walters did, and in any case Purdue did not improve without him, ranking 17th in the Big Ten in total defense. *(p. 175)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Jeff Brohm, who coached Purdue to the Big Ten title game in 2022 and has a 28-12 record at Louisville, is an overachiever. *(p. 19)*
-- In the end, Loggains and his staff settled on Malachi Singleton from Purdue, Henry Hasselbeck from UCLA, and Tommy Ulatowski from Kent State. *(p. 319)*
+Also referenced on **pp. 19, 319** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -97,8 +100,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 174)*.
 
-- They did not bring in a quarterback from the portal, so this is Ryan Browne’s show again. *(p. 174)*
-- Nevertheless, you still have a settled quarterback and better personnel on the lines and some conference games where the talent gap is not as large. *(p. 174)*
+- No portal quarterback was added, so this is Ryan Browne's job again. He threw for 2,153 yards with nine touchdowns to ten interceptions while playing through an ankle injury, which the guide says hurt his play along with the graduation of running back Devin Mockobee. *(p. 174)*
+- **Can the transfers help Browne?** The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
 
 ## 10. Returning Production
 
@@ -114,14 +117,10 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- They did not bring in a quarterback from the portal, so this is Ryan Browne’s show again. *(p. 174)*
-- While Purdue returns second-leading rusher Antonio Harris (69-305-2), the bulk of production will come from portal additions like running backs Fame Ijeboi (Minnesota), Jerrick Gibson (Texas), and Travis Terrell (Jackson State). *(p. 175)*
-- The Boilers also added three receivers – Bisi Owens (Penn), Assad Wassem (Florida Atlantic), Xavier Townsend (Iowa State) – from the portal who are all expected to start. *(p. 175)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
+- **Can the transfers help Browne?** The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
+- **Can the Boilermakers be more physical up front?** Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
+Referenced in the guide on **pp. 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -129,16 +128,13 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- The Boilers also added three receivers – Bisi Owens (Penn), Assad Wassem (Florida Atlantic), Xavier Townsend (Iowa State) – from the portal who are all expected to start. *(p. 175)*
-- Odom fired his offensive line coach Vance Vice, who came with him from UNLV, and brought in Zach Crabtree, who worked with offensive coordinator Josh Henson previously at USC. *(p. 175)*
+- No portal quarterback was added, so this is Ryan Browne's job again. He threw for 2,153 yards with nine touchdowns to ten interceptions while playing through an ankle injury, which the guide says hurt his play along with the graduation of running back Devin Mockobee. *(p. 174)*
+- **Can the transfers help Browne?** The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
+- **Can the Boilermakers be more physical up front?** Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
 
 ## 14. Defensive Identity
 
-- Kevin Kane was the defensive coordinator here under previous head coach Ryan Walters in the 2023 and 2024 seasons. *(p. 175)*
-- The Boilermakers finished last in the league in most defensive categories during those two seasons. *(p. 175)*
-- He was replaced with the new staff coming in and coached linebackers at Minnesota last season. *(p. 175)*
-- Kane now gets a second chance at the DC position and has more autonomy in calling the defense and he likes to attack more than Walters did. *(p. 175)*
-- Plus, it was not like Purdue really got any better here ranking 17th in the Big Ten for total defense. *(p. 175)*
+- **Is Kane able?** Kevin Kane was Purdue's coordinator under Ryan Walters in 2023 and 2024, when the Boilermakers finished last in the league in most defensive categories, and he was replaced before spending last season coaching Minnesota's linebackers. The guide gives the case for a second chance in balanced terms: he now has more autonomy calling the defense and prefers to attack more than Walters did, and in any case Purdue did not improve without him, ranking 17th in the Big Ten in total defense. *(p. 175)*
 
 ## 15. Key Strengths
 
@@ -206,22 +202,15 @@ Prices printed on the team page *(p. 175)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Over 3.5 wins. The guide is candid that Purdue is far from the competitiveness of the Jeff Brohm years while rating Odom and staff an upgrade on Ryan Walters' tenure. *(p. 174)*
+- Its conclusion is bounded on both sides: a settled quarterback, better line personnel and some conference games with a smaller talent gap make four wins doable, but that is likely the ceiling. *(p. 174)*
 
 ## 22. Historical / Situational Trends
 
-- The Boilermakers improved from 1-11 to just 2-10 and the program is currently on an 18-game losing streak in Big 10 play and has zero victories over Power Four opponents in this two-year span. *(p. 174)*
-- Browne (2153 yards, 9/10 TD/INT ratio) played with an ankle injury last season and his play suffered because of that and the loss of now graduated running back Devin Mockobee. *(p. 174)*
-- Browne clearly must improve under center, but in fairness, he did not have a great deal of help last season. *(p. 175)*
-- De’Nylon Morrissette also returns from missing last season with an ankle injury. *(p. 175)*
-- Purdue struggled in many areas last season, but they especially had difficulty in short-yardage (85th on third downs) and red-zone (119th) situations. *(p. 175)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
-- He was replaced with the new staff coming in and coached linebackers at Minnesota last season. *(p. 175)*
+- Barry Odom's first year was another hard one: Purdue improved only from 1-11 to 2-10, sits on an 18-game Big Ten losing streak and has no Power Four wins across that two-year span. *(p. 174)*
+- The guide adds the psychological dimension — being bottom of the conference while the archrival is the defending national champion. *(p. 174)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Jeff Brohm, who coached Purdue to the Big Ten title game in 2022 and has a 28-12 record at Louisville, is an overachiever. *(p. 19)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
+Referenced in the guide on **pp. 19, 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -267,43 +256,39 @@ As printed on p. 175. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 3.5**.
-- The Boilermakers improved from 1-11 to just 2-10 and the program is currently on an 18-game losing streak in Big 10 play and has zero victories over Power Four opponents in this two-year span. *(p. 174)*
-- Browne clearly must improve under center, but in fairness, he did not have a great deal of help last season. *(p. 175)*
-- While Purdue returns second-leading rusher Antonio Harris (69-305-2), the bulk of production will come from portal additions like running backs Fame Ijeboi (Minnesota), Jerrick Gibson (Texas), and Travis Terrell (Jackson State). *(p. 175)*
-- De’Nylon Morrissette also returns from missing last season with an ankle injury. *(p. 175)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
+- Barry Odom's first year was another hard one: Purdue improved only from 1-11 to 2-10, sits on an 18-game Big Ten losing streak and has no Power Four wins across that two-year span. *(p. 174)*
+- The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
+- Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
+- Kevin Kane was Purdue's coordinator under Ryan Walters in 2023 and 2024, when the Boilermakers finished last in the league in most defensive categories, and he was replaced before spending last season coaching Minnesota's linebackers. The guide gives the case for a second chance in balanced terms: he now has more autonomy calling the defense and prefers to attack more than Walters did, and in any case Purdue did not improve without him, ranking 17th in the Big Ten in total defense. *(p. 175)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **2.9 wins** against a posted total of 3.5 — **-0.6** against this team.
-- It was another tough season for Purdue in Barry Odom’s first year. *(p. 174)*
-- It also must be difficult to be at the bottom of the conference and see your archrival at the top as the defending National Champions. *(p. 174)*
-- Browne (2153 yards, 9/10 TD/INT ratio) played with an ankle injury last season and his play suffered because of that and the loss of now graduated running back Devin Mockobee. *(p. 174)*
-- De’Nylon Morrissette also returns from missing last season with an ankle injury. *(p. 175)*
-- Purdue struggled in many areas last season, but they especially had difficulty in short-yardage (85th on third downs) and red-zone (119th) situations. *(p. 175)*
-- I still don’t know how he did it.” Indiana lost its 2023 season finale at Purdue to finish 3-9. *(p. 38)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
+- No portal quarterback was added, so this is Ryan Browne's job again. He threw for 2,153 yards with nine touchdowns to ten interceptions while playing through an ankle injury, which the guide says hurt his play along with the graduation of running back Devin Mockobee. *(p. 174)*
+- The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
+- Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 175)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 175)*. Its analysis, in reference form:
 
 ### Can the transfers help Browne?
 
-Browne clearly must improve under center, but in fairness, he did not have a great deal of help last season. While Purdue returns second-leading rusher Antonio Harris (69-305-2), the bulk of production will come from portal additions like running backs Fame Ijeboi (Minnesota), Jerrick Gibson (Texas), and Travis Terrell (Jackson State). The Boilers also added three receivers – Bisi Owens (Penn), Assad Wassem (Florida Atlantic), Xavier Townsend (Iowa State) – from the portal who are all expected to start. De’Nylon Morrissette also returns from missing last season with an ankle injury.
+The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
 
 ### Can the Boilermakers be more physical up front?
 
-Purdue struggled in many areas last season, but they especially had difficulty in short-yardage (85th on third downs) and red-zone (119th) situations. Odom fired his offensive line coach Vance Vice, who came with him from UNLV, and brought in Zach Crabtree, who worked with offensive coordinator Josh Henson previously at USC. The coaching change should be an upgrade, and Purdue added more beef up front. While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State).
+Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
 
 ### Is Kane able?
 
-Kevin Kane was the defensive coordinator here under previous head coach Ryan Walters in the 2023 and 2024 seasons. The Boilermakers finished last in the league in most defensive categories during those two seasons. He was replaced with the new staff coming in and coached linebackers at Minnesota last season. Kane now gets a second chance at the DC position and has more autonomy in calling the defense and he likes to attack more than Walters did. Plus, it was not like Purdue really got any better here ranking 17th in the Big Ten for total defense.
+Kevin Kane was Purdue's coordinator under Ryan Walters in 2023 and 2024, when the Boilermakers finished last in the league in most defensive categories, and he was replaced before spending last season coaching Minnesota's linebackers. The guide gives the case for a second chance in balanced terms: he now has more autonomy calling the defense and prefers to attack more than Walters did, and in any case Purdue did not improve without him, ranking 17th in the Big Ten in total defense. *(p. 175)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -321,6 +306,8 @@ No source conflict identified for this team.
 | 19, 38, 73, 112, 212, 213, 319 | Other pages naming this team |
 
 This team is named in **17 sentences across 9 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 19, 38, 73, 112, 212, 213, 319.
 
 ## 29. Cross-Links
 

@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 9.3–2.7 overall, 6.4–2.6 in conference |
 | **Schedule strength** | 44.01 (#50 toughest of 138) |
 
-### Season outlook as written in the guide (p. 172)
+### Season outlook — VSiN's analysis in reference form (p. 172)
 
-Last year was supposed to be the year in Happy Valley for Penn State to return to the top of the college football mountain for the first time since 1986. The Nittany Lions started 3-0 and then lost a heartbreaker at home to Oregon in OT. That defeat sent them into a tailspin, as Penn State would lose six straight games including as 24-point road favorites at UCLA and as three touchdown home favorites vs. Northwestern, which resulted in James Franklin being fired the following day. They rallied to win the last four games under interim coach Terry Smith, who is being kept on staff as associate head coach. After failing to land Kalani Sitake from BYU, Penn State signed Iowa State’s Matt Campbell to an eight- year, $70.5 million contract. After leading the Cyclones to arguably its best decade in program history, Campbell finally decided to make the jump for the big job. He brings along 11 assistants (including offensive coordinator Taylor Mouser) and staff with him from Ames plus 24 players, perhaps looking to duplicate Curt Cignetti’s success of the last two years at Indiana. Over 9.5 All last season, college football pundits were asking “who is this year’s Indiana” that could take everyone by surprise and make the College Football Playoff? Well, it turned out to be Indiana again. This year the answer to that question could very well be Penn State. Indiana had a highly- manageable schedule in 2024, and Penn State has the same this season as they avoid the consensus top trio of Ohio State, Oregon, and Indiana altogether. There are road trips to Michigan and Washington, but they will be favored in every home game. This is a step up in competition for these Iowa State transfers, but they likely band together like the James Madison guys did for Indiana and set a new culture for the rest of the team to follow.
+- 2025 was meant to be Penn State's year to return to the summit for the first time since 1986. It started 3-0, lost a home overtime heartbreaker to Oregon, then lost six straight — including as a 24-point road favorite at UCLA and a three-touchdown home favorite against Northwestern, which cost James Franklin his job the next day. *(p. 172)*
+- The team rallied to win its last four under interim coach Terry Smith, who stays on as associate head coach. *(p. 172)*
+- After missing on Kalani Sitake, Penn State signed Iowa State's Matt Campbell to an eight-year, $70.5 million contract, having led the Cyclones through arguably their best decade. *(p. 172)*
+- Campbell brought 11 assistants including coordinator Taylor Mouser plus 24 players from Ames, which the guide reads as an attempt to duplicate Curt Cignetti's Indiana blueprint. *(p. 172)*
+- Recommendation is Over 9.5 wins. The guide builds the case through a comparison: pundits spent last season asking who the next Indiana would be, and the answer was Indiana again — this year it suggests Penn State. *(p. 172)*
+- Schedule support is concrete: Penn State avoids the consensus top trio of Ohio State, Oregon and Indiana entirely, travels to Michigan and Washington, and should be favored in every home game. *(p. 172)*
+- It acknowledges the step up in competition for the Iowa State transfers while expecting them to band together as the James Madison group did at Indiana and set a new culture. *(p. 172)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,18 +88,13 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 32)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- They rallied to win the last four games under interim coach Terry Smith, who is being kept on staff as associate head coach. *(p. 172)*
-- He brings along 11 assistants (including offensive coordinator Taylor Mouser) and staff with him from Ames plus 24 players, perhaps looking to duplicate Curt Cignetti’s success of the last two years at Indiana. *(p. 172)*
-- Lynn improved the USC defense over the last two years, and Campbell immediately hired the former Penn State player to be his new defensive coordinator. *(p. 173)*
+- 2025 was meant to be Penn State's year to return to the summit for the first time since 1986. It started 3-0, lost a home overtime heartbreaker to Oregon, then lost six straight — including as a 24-point road favorite at UCLA and a three-touchdown home favorite against Northwestern, which cost James Franklin his job the next day. *(p. 172)*
+- The team rallied to win its last four under interim coach Terry Smith, who stays on as associate head coach. *(p. 172)*
+- After missing on Kalani Sitake, Penn State signed Iowa State's Matt Campbell to an eight-year, $70.5 million contract, having led the Cyclones through arguably their best decade. *(p. 172)*
+- Campbell brought 11 assistants including coordinator Taylor Mouser plus 24 players from Ames, which the guide reads as an attempt to duplicate Curt Cignetti's Indiana blueprint. *(p. 172)*
+- **How quickly can D'Anton Lynn get this defense up to speed?** Lynn improved USC's defense over two years and Campbell hired the former Penn State player immediately. The scheme is new to these players, a 4-2-5 alignment, but the guide notes a mitigating factor: seven of Lynn's defensive starters also started for an Iowa State group that finished one place outside the top 25 in scoring defense at 20.2 points allowed. *(p. 173)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- PENN STATE OVER 8.5 WINS (-160) & TO MAKE COLLEGE FOOTBALL PLAYOFF (+425) While the Matt Campbell hire feels a little like a consolation prize after Penn State’s coaching search largely resulted in its primary targets leveraging the job for extensions at their current schools, I still think they still landed a solid coach. *(p. 13)*
-- Third-year coach Jedd Fisch (9-4 last season) should carry playoff hopes into November, when the Huskies host Indiana and Penn State and finish at Oregon. 17. *(p. 19)*
-- New defensive coordinator Jim Knowles, formerly at Penn State and Ohio State, will make a difference. 27. *(p. 19)*
-- Penn State fans are happy to get rid of coach James Franklin after 12 years and Virginia Tech fans are thrilled to have him. *(p. 19)*
-- Matt Campbell Penn State Of all the Power Four hires, this is the hardest one to project in my estimation. *(p. 32)*
-- Campbell has strong Ohio ties, which should help with recruiting and he did really well to get D’Anton Lynn, a Texas native, as the DC, giving Penn State a lot of connections from coast to coast. *(p. 32)*
+Also referenced on **pp. 13, 19, 32, 40, 132, 166, 181** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -99,15 +102,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 172)*.
 
-- The quarterback made 39 consecutive starts at Iowa State despite sustaining a torn labrum, a sprained AC joint, and two concussions last season. *(p. 173)*
-- Connor Barry, a D-III transfer from Christopher Newport, is the only other QB on the roster who has taken a college snap. *(p. 173)*
+- **Can Rocco Becht stay healthy?** Becht made 39 consecutive starts at Iowa State despite a torn labrum, a sprained AC joint and two concussions last season, then had offseason surgery limiting him to 7-on-7 work. The depth situation is thin: fellow Iowa State transfer Alex Manske also missed spring with injury, and Connor Barry, a Division III transfer from Christopher Newport, is the only other quarterback on the roster to have taken a college snap. If healthy, Becht has familiar weapons — running back Carson Hansen (1,771 yards, 19 touchdowns over two years) plus Ben Brahmer, Gabe Burkle, Chase Sowell and Brett Eskildsen, his top four pass catchers at Iowa State — with Ohio State transfer James Peoples and Quentin Martin Jr adding backfield depth. *(p. 173)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- PENN STATE Rocco Becht should feel at home in Happy Valley, and that’s because the senior quarterback will have more than 20 of his former Iowa State teammates with him. *(p. 19)*
-- With Simon and backup Gevani McCoy gone, there is virtually no experience on the roster, with Penn State’s Jaxon Smolik, who played in four games over three years at Penn State, and Ajani Sheppard, who played five games at Rutgers and zero last season at Washington State, as the primary QB options. *(p. 69)*
-- So, this will be a brand new offense in that regard with Penn State/Missouri transfer Beau Pribula and also Pitt transfer Eli Holstein at QB. 247Sports has Virginia with the eighth-ranked transfer class in the ACC, which includes those two, plus RB Peyton Lewis and WR Da’Shawn Martin. *(p. 109)*
-- Per 247Sports, VT brought in the fourth-ranked transfer portal class in the conference, which is a list that includes Penn State QB Ethan Grunkemeyer, UNC QB Bryce Baker, WR Que’Sean Brown. *(p. 111)*
+Also referenced on **pp. 19, 69, 109, 111** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -123,53 +120,28 @@ The Stability Score table prints the same figure independently: **16 returning s
 
 ## 11. Transfer Portal
 
-- This is a step up in competition for these Iowa State transfers, but they likely band together like the James Madison guys did for Indiana and set a new culture for the rest of the team to follow. *(p. 172)*
-- Becht is one of the 24 transfers coming with Campbell to Happy Valley. *(p. 173)*
-- Alex Manske, also transferring from Iowa State, also missed spring practice with injury. *(p. 173)*
-- Connor Barry, a D-III transfer from Christopher Newport, is the only other QB on the roster who has taken a college snap. *(p. 173)*
-- Ohio State transfer James Peoples and Quentin Martin Jr (103 yards in Pinstripe Bowl) join Hansen in the backfield. *(p. 173)*
-- Campbell brings in his 24 from Iowa State, but brings in 40 total transfers as the Nittany Lions are replacing 70 players from last year’s team, including eight that were taken in last spring’s NFL Draft. *(p. 173)*
-- For comparison, Cignetti brought in 29 transfers, including 12 from his team at James Madison (22 were from the Group of Five or lower) during his first season at Indiana in 2024. *(p. 173)*
-- Thirty-six of Campbell’s 40 transfers are from Power Four schools, so at least there is some talent that has played the highest competition in FBS. *(p. 173)*
+- Campbell brought 11 assistants including coordinator Taylor Mouser plus 24 players from Ames, which the guide reads as an attempt to duplicate Curt Cignetti's Indiana blueprint. *(p. 172)*
+- It acknowledges the step up in competition for the Iowa State transfers while expecting them to band together as the James Madison group did at Indiana and set a new culture. *(p. 172)*
+- **Can Rocco Becht stay healthy?** Becht made 39 consecutive starts at Iowa State despite a torn labrum, a sprained AC joint and two concussions last season, then had offseason surgery limiting him to 7-on-7 work. The depth situation is thin: fellow Iowa State transfer Alex Manske also missed spring with injury, and Connor Barry, a Division III transfer from Christopher Newport, is the only other quarterback on the roster to have taken a college snap. If healthy, Becht has familiar weapons — running back Carson Hansen (1,771 yards, 19 touchdowns over two years) plus Ben Brahmer, Gabe Burkle, Chase Sowell and Brett Eskildsen, his top four pass catchers at Iowa State — with Ohio State transfer James Peoples and Quentin Martin Jr adding backfield depth. *(p. 173)*
+- **How will all the transfers mix in with the returning players?** Campbell brought 24 from Iowa State within 40 total transfers, as Penn State replaces 70 players including eight drafted last spring. The guide draws an explicit comparison: Cignetti brought 29 transfers to Indiana in 2024, 12 from James Madison and 22 from the Group of Five or lower. Thirty-six of Campbell's 40 are from Power Four schools, so the talent has faced top FBS competition — but the guide closes with the caution that the Big Ten is still a step above the Big 12. *(p. 173)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- So, this will be a brand new offense in that regard with Penn State/Missouri transfer Beau Pribula and also Pitt transfer Eli Holstein at QB. 247Sports has Virginia with the eighth-ranked transfer class in the ACC, which includes those two, plus RB Peyton Lewis and WR Da’Shawn Martin. *(p. 109)*
-- Per 247Sports, VT brought in the fourth-ranked transfer portal class in the conference, which is a list that includes Penn State QB Ethan Grunkemeyer, UNC QB Bryce Baker, WR Que’Sean Brown. *(p. 111)*
-- With Miller, Penn State transfer Cory Smith, and two senior tackles who played for the Rockets last season, I would expect them to lean on the run at the outset. *(p. 239)*
-- Ivey is a former four-star recruit who transferred in from Penn State. *(p. 257)*
+Referenced in the guide on **pp. 109, 111, 239, 257** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Unfortunately, when he opted to leave for Penn State, he also took a lot of his players he worked so hard to recruit to ISU with him. *(p. 25)*
-- Campbell has strong Ohio ties, which should help with recruiting and he did really well to get D’Anton Lynn, a Texas native, as the DC, giving Penn State a lot of connections from coast to coast. *(p. 32)*
-- Ivey is a former four-star recruit who transferred in from Penn State. *(p. 257)*
+Referenced in the guide on **pp. 25, 32, 257** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- He brings along 11 assistants (including offensive coordinator Taylor Mouser) and staff with him from Ames plus 24 players, perhaps looking to duplicate Curt Cignetti’s success of the last two years at Indiana. *(p. 172)*
-- This is a new scheme for these players with a 4-2-5 alignment, but seven of Lynn’s defensive starters were also starters for an Iowa State group that finished one spot outside of the top 25 for scoring defense (20.2 PPG). *(p. 173)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- After a decade at Iowa State, where Campbell really built up the Cyclones amid a lot of financial and reputational shortcomings in a high-octane offensive conference, Penn State is a different beast. *(p. 32)*
-- So, this will be a brand new offense in that regard with Penn State/Missouri transfer Beau Pribula and also Pitt transfer Eli Holstein at QB. 247Sports has Virginia with the eighth-ranked transfer class in the ACC, which includes those two, plus RB Peyton Lewis and WR Da’Shawn Martin. *(p. 109)*
-- The good news for Kansas is that Leipold was able to bring offensive coordinator Andy Kotelnicki, a former Broyles Award nominee, back after an up-and-down stint with Penn State. *(p. 132)*
+Referenced in the guide on **pp. 32, 109, 132, 172, 173** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Lynn improved the USC defense over the last two years, and Campbell immediately hired the former Penn State player to be his new defensive coordinator. *(p. 173)*
-- This is a new scheme for these players with a 4-2-5 alignment, but seven of Lynn’s defensive starters were also starters for an Iowa State group that finished one spot outside of the top 25 for scoring defense (20.2 PPG). *(p. 173)*
+- **How quickly can D'Anton Lynn get this defense up to speed?** Lynn improved USC's defense over two years and Campbell hired the former Penn State player immediately. The scheme is new to these players, a 4-2-5 alignment, but the guide notes a mitigating factor: seven of Lynn's defensive starters also started for an Iowa State group that finished one place outside the top 25 in scoring defense at 20.2 points allowed. *(p. 173)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And the secondary adds Georgia CB Ondre Evans and Penn State safety King Mack (58 tackles, 3 passes defended) to go with second-year starting CB Brian Nelson. *(p. 10)*
-- New defensive coordinator Jim Knowles, formerly at Penn State and Ohio State, will make a difference. 27. *(p. 19)*
-- Lynn got the call to return to his alma mater Penn State as defensive coordinator, so Patterson returns to full-time coaching for the first time since 2021. *(p. 181)*
-- Plus, they added Amare Campbell from Penn State, the Nittany Lions’ leading tackler in 2025. *(p. 309)*
+Referenced in the guide on **pp. 10, 19, 181, 309** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -253,29 +225,16 @@ Prices printed on the team page *(p. 173)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- That defeat sent them into a tailspin, as Penn State would lose six straight games including as 24-point road favorites at UCLA and as three touchdown home favorites vs. *(p. 172)*
+- Recommendation is Over 9.5 wins. The guide builds the case through a comparison: pundits spent last season asking who the next Indiana would be, and the answer was Indiana again — this year it suggests Penn State. *(p. 172)*
+- Schedule support is concrete: Penn State avoids the consensus top trio of Ohio State, Oregon and Indiana entirely, travels to Michigan and Washington, and should be favored in every home game. *(p. 172)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- UCLA The Bruins were bad last season at 3-9, but they did upset Penn State 42-37 as 24-point underdogs in Pasadena. *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Last year was supposed to be the year in Happy Valley for Penn State to return to the top of the college football mountain for the first time since 1986. *(p. 172)*
-- Over 9.5 All last season, college football pundits were asking “who is this year’s Indiana” that could take everyone by surprise and make the College Football Playoff? *(p. 172)*
-- Indiana had a highly- manageable schedule in 2024, and Penn State has the same this season as they avoid the consensus top trio of Ohio State, Oregon, and Indiana altogether. *(p. 172)*
-- The quarterback made 39 consecutive starts at Iowa State despite sustaining a torn labrum, a sprained AC joint, and two concussions last season. *(p. 173)*
-- Campbell brings in his 24 from Iowa State, but brings in 40 total transfers as the Nittany Lions are replacing 70 players from last year’s team, including eight that were taken in last spring’s NFL Draft. *(p. 173)*
-- For comparison, Cignetti brought in 29 transfers, including 12 from his team at James Madison (22 were from the Group of Five or lower) during his first season at Indiana in 2024. *(p. 173)*
+- 2025 was meant to be Penn State's year to return to the summit for the first time since 1986. It started 3-0, lost a home overtime heartbreaker to Oregon, then lost six straight — including as a 24-point road favorite at UCLA and a three-touchdown home favorite against Northwestern, which cost James Franklin his job the next day. *(p. 172)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- 12 WES REYNOLDS PENN STATE TO MAKE COLLEGE FOOTBALL PLAYOFF (+450) Last year, Penn State had College Football Playoff and championship aspirations. *(p. 12)*
-- Penn State, unlike last season, gets to also be the beneficiary of lower expectations. *(p. 12)*
-- Third-year coach Jedd Fisch (9-4 last season) should carry playoff hopes into November, when the Huskies host Indiana and Penn State and finish at Oregon. 17. *(p. 19)*
-- UCLA The Bruins were bad last season at 3-9, but they did upset Penn State 42-37 as 24-point underdogs in Pasadena. *(p. 20)*
-- With Simon and backup Gevani McCoy gone, there is virtually no experience on the roster, with Penn State’s Jaxon Smolik, who played in four games over three years at Penn State, and Ajani Sheppard, who played five games at Rutgers and zero last season at Washington State, as the primary QB options. *(p. 69)*
-- Plus, the Wildcats have games with Penn State, Iowa, and Illinois who were also bowl teams last season. *(p. 166)*
+Referenced in the guide on **pp. 12, 19, 20, 69, 166, 181, 239, 309** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -322,40 +281,37 @@ As printed on p. 173. Each category carries a value and a national rank.
 
 - Makinen projects **9.3 wins** against a posted total of 8.5 — **+0.8** in this team's favour.
 - The team page recommends **OVER 9.5**.
-- Last year was supposed to be the year in Happy Valley for Penn State to return to the top of the college football mountain for the first time since 1986. *(p. 172)*
-- After leading the Cyclones to arguably its best decade in program history, Campbell finally decided to make the jump for the big job. *(p. 172)*
-- Lynn improved the USC defense over the last two years, and Campbell immediately hired the former Penn State player to be his new defensive coordinator. *(p. 173)*
-- As a guy who is just 8-7 in bowl games and 2-1 in the CFP, he’s had a very high regular-season floor with two 9-4 seasons at Vanderbilt in the early 2010s when that was a rough job, and six doubledigit winning seasons at Penn State. *(p. 30)*
-- Campbell has strong Ohio ties, which should help with recruiting and he did really well to get D’Anton Lynn, a Texas native, as the DC, giving Penn State a lot of connections from coast to coast. *(p. 32)*
-- The only other double-digit win projections go to Ohio State and Georgia. • Assuming the projections play out accurately, besides Texas Tech, Oregon, Indiana, Miami (FL), and Ohio State the other Power Four conference teams that would be expected to contend for a spot in the College Football Playoff this year would be Georgia, Texas, Penn State, BYU, and perhaps SMU or Utah. *(p. 46)*
-- Lynn got the call to return to his alma mater Penn State as defensive coordinator, so Patterson returns to full-time coaching for the first time since 2021. *(p. 181)*
+- 2025 was meant to be Penn State's year to return to the summit for the first time since 1986. It started 3-0, lost a home overtime heartbreaker to Oregon, then lost six straight — including as a 24-point road favorite at UCLA and a three-touchdown home favorite against Northwestern, which cost James Franklin his job the next day. *(p. 172)*
+- After missing on Kalani Sitake, Penn State signed Iowa State's Matt Campbell to an eight-year, $70.5 million contract, having led the Cyclones through arguably their best decade. *(p. 172)*
+- Lynn improved USC's defense over two years and Campbell hired the former Penn State player immediately. The scheme is new to these players, a 4-2-5 alignment, but the guide notes a mitigating factor: seven of Lynn's defensive starters also started for an Iowa State group that finished one place outside the top 25 in scoring defense at 20.2 points allowed. *(p. 173)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The Nittany Lions started 3-0 and then lost a heartbreaker at home to Oregon in OT. *(p. 172)*
-- This year the answer to that question could very well be Penn State. *(p. 172)*
-- Alex Manske, also transferring from Iowa State, also missed spring practice with injury. *(p. 173)*
+- 2025 was meant to be Penn State's year to return to the summit for the first time since 1986. It started 3-0, lost a home overtime heartbreaker to Oregon, then lost six straight — including as a 24-point road favorite at UCLA and a three-touchdown home favorite against Northwestern, which cost James Franklin his job the next day. *(p. 172)*
+- After missing on Kalani Sitake, Penn State signed Iowa State's Matt Campbell to an eight-year, $70.5 million contract, having led the Cyclones through arguably their best decade. *(p. 172)*
+- Becht made 39 consecutive starts at Iowa State despite a torn labrum, a sprained AC joint and two concussions last season, then had offseason surgery limiting him to 7-on-7 work. The depth situation is thin: fellow Iowa State transfer Alex Manske also missed spring with injury, and Connor Barry, a Division III transfer from Christopher Newport, is the only other quarterback on the roster to have taken a college snap. If healthy, Becht has familiar weapons — running back Carson Hansen (1,771 yards, 19 touchdowns over two years) plus Ben Brahmer, Gabe Burkle, Chase Sowell and Brett Eskildsen, his top four pass catchers at Iowa State — with Ohio State transfer James Peoples and Quentin Martin Jr adding backfield depth. *(p. 173)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 173)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 173)*. Its analysis, in reference form:
 
 ### Can Rocco Becht stay healthy?
 
-Becht is one of the 24 transfers coming with Campbell to Happy Valley. The quarterback made 39 consecutive starts at Iowa State despite sustaining a torn labrum, a sprained AC joint, and two concussions last season. He had offseason surgery and was limited to 7-on-7 drills. Alex Manske, also transferring from Iowa State, also missed spring practice with injury. Connor Barry, a D-III transfer from Christopher Newport, is the only other QB on the roster who has taken a college snap. If Becht is healthy, he will have a lot of familiar weapons around him with running back Carson Hansen (1771 yards, 19 TDs last two years at ISU) along with Ben Brahmer, Gabe Burkle, Chase Sowell, and Brett Eskildsen, who were his top four pass catchers at Iowa State. Ohio State transfer James Peoples and Quentin Martin Jr (103 yards in Pinstripe Bowl) join Hansen in the backfield.
+Becht made 39 consecutive starts at Iowa State despite a torn labrum, a sprained AC joint and two concussions last season, then had offseason surgery limiting him to 7-on-7 work. The depth situation is thin: fellow Iowa State transfer Alex Manske also missed spring with injury, and Connor Barry, a Division III transfer from Christopher Newport, is the only other quarterback on the roster to have taken a college snap. If healthy, Becht has familiar weapons — running back Carson Hansen (1,771 yards, 19 touchdowns over two years) plus Ben Brahmer, Gabe Burkle, Chase Sowell and Brett Eskildsen, his top four pass catchers at Iowa State — with Ohio State transfer James Peoples and Quentin Martin Jr adding backfield depth. *(p. 173)*
 
 ### How will all the transfers mix in with the returning players?
 
-Campbell brings in his 24 from Iowa State, but brings in 40 total transfers as the Nittany Lions are replacing 70 players from last year’s team, including eight that were taken in last spring’s NFL Draft. For comparison, Cignetti brought in 29 transfers, including 12 from his team at James Madison (22 were from the Group of Five or lower) during his first season at Indiana in 2024. Thirty-six of Campbell’s 40 transfers are from Power Four schools, so at least there is some talent that has played the highest competition in FBS. Nevertheless, the Big Ten is still a step above the Big 12.
+Campbell brought 24 from Iowa State within 40 total transfers, as Penn State replaces 70 players including eight drafted last spring. The guide draws an explicit comparison: Cignetti brought 29 transfers to Indiana in 2024, 12 from James Madison and 22 from the Group of Five or lower. Thirty-six of Campbell's 40 are from Power Four schools, so the talent has faced top FBS competition — but the guide closes with the caution that the Big Ten is still a step above the Big 12. *(p. 173)*
 
-### How quickly can D’Anton Lynn get this defense up to speed?
+### How quickly can D'Anton Lynn get this defense up to speed?
 
-Lynn improved the USC defense over the last two years, and Campbell immediately hired the former Penn State player to be his new defensive coordinator. This is a new scheme for these players with a 4-2-5 alignment, but seven of Lynn’s defensive starters were also starters for an Iowa State group that finished one spot outside of the top 25 for scoring defense (20.2 PPG).
+Lynn improved USC's defense over two years and Campbell hired the former Penn State player immediately. The scheme is new to these players, a 4-2-5 alignment, but the guide notes a mitigating factor: seven of Lynn's defensive starters also started for an Iowa State group that finished one place outside the top 25 in scoring defense at 20.2 points allowed. *(p. 173)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -373,6 +329,8 @@ No source conflict identified for this team.
 | 5, 7, 8, 10, 12, 13, 18, 19, 20, 24, 25, 30, 32, 40, 46, 68, 69, 109, 110, 111, 122, 130, 132, 150, 162, 166, 181, 191, 239, 257, 309, 328 | Other pages naming this team |
 
 This team is named in **56 sentences across 34 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 7, 8, 10, 12, 13, 18, 19, 20, 24, 25, 30, 32, 40, 46, 68, 69, 109, 110, 111, 122, 130, 132, 150, 162, 166, 181, 191, 239, 257, 309, 328.
 
 ## 29. Cross-Links
 

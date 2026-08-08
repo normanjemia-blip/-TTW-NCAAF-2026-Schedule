@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 6.1–5.9 overall, 4.1–4.9 in conference |
 | **Schedule strength** | 45.33 (#43 toughest of 138) |
 
-### Season outlook as written in the guide (p. 184)
+### Season outlook — VSiN's analysis in reference form (p. 184)
 
-It was thought that Luke Fickell would be the guy to restore Wisconsin Football to the Barry Alvarez era. It hasn’t gone that way in Madison, though, as Fickell has gone 7-6, 5-7, and 4-8 in his three seasons and no coaching hot seat in the Big Ten is hotter than his. For the first time since 1978, the Badgers did not have a player get selected in the NFL Draft, a streak of 47 seasons. This is a complete roster makeover with 33 transfers. For the fourth straight year, Wisconsin had to get a starting QB out of the portal with Colton Joseph from Old Dominion. Joseph (4,251 passing yards, 32 touchdowns; 1,654 rushing yards, 24 touchdowns over two seasons) was the Sun Belt Player of the Year and could provide a jolt for the worst scoring offense (12.8 PPG – 133rd) in the Power Four. Wisconsin scored 81 points in nine Big Ten games during the 2025 season. The defense was solid as usual, but this team will once again find wins hard to come by if these numbers do not improve. Under 6.5 After the opener vs. Notre Dame at Lambeau Field, the schedule gets a bit more manageable with three of the next four games at home vs. Western Illinois, Eastern Michigan, and Michigan State. The Badgers also avoid Ohio State, Oregon, and Indiana. Joseph makes this offense better for sure, but the ceiling is still low with very few proven playmakers. Wisconsin had to rely more on the portal than usual and are looking for some kind of quick fix. Although the schedule is substantially easier, getting to seven wins is a big ask for a team that lacks talent at many positions.
+- Luke Fickell was expected to restore the Barry Alvarez era; instead he has gone 7-6, 5-7 and 4-8, and the guide says no Big Ten seat is hotter. *(p. 184)*
+- A telling marker: for the first time since 1978, ending a 47-season streak, Wisconsin had no player drafted. *(p. 184)*
+- This is a complete roster makeover with 33 transfers, and for the fourth straight year the starting quarterback comes from the portal — Colton Joseph from Old Dominion. *(p. 184)*
+- Joseph was Sun Belt Player of the Year with 4,251 passing yards and 32 touchdowns plus 1,654 rushing yards and 24 touchdowns over two seasons, and the guide sees him as a potential jolt for the worst scoring offense in the Power Four at 12.8 points per game, 133rd nationally. *(p. 184)*
+- It supplies the starkest single number: Wisconsin scored 81 points across nine Big Ten games in 2025. The defense was solid as usual, but wins will stay scarce unless the offense improves. *(p. 184)*
+- Recommendation is Under 6.5 wins. After the Notre Dame opener at Lambeau Field the schedule eases, with three of the next four at home against Western Illinois, Eastern Michigan and Michigan State, and Wisconsin avoids Ohio State, Oregon and Indiana. *(p. 184)*
+- Its judgement is that Joseph certainly makes the offense better but the ceiling stays low with few proven playmakers, that the heavy portal reliance looks like a search for a quick fix, and that seven wins is a big ask for a team lacking talent at many positions despite the easier schedule. *(p. 184)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,14 +86,9 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- It hasn’t gone that way in Madison, though, as Fickell has gone 7-6, 5-7, and 4-8 in his three seasons and no coaching hot seat in the Big Ten is hotter than his. *(p. 184)*
-- Offensive coordinator Jeff Grimes is likely to go with a more run-heavy approach, especially with a mobile QB like Joseph, but they need at least some production from this position. *(p. 185)*
-- Wisconsin’s identity has always been a power running game no matter who is the head coach, but last season they ranked just 115th nationally averaging just 116.7 yards per game. *(p. 185)*
+- Luke Fickell was expected to restore the Barry Alvarez era; instead he has gone 7-6, 5-7 and 4-8, and the guide says no Big Ten seat is hotter. *(p. 184)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Things have been miserable since Luke Fickell took over the Wisconsin program, but they were trending in the wrong direction long before he was hired. *(p. 8)*
-- WISCONSIN There was a lot of excitement in Madison when Luke Fickell was hired as coach in 2023, but the thrill is long gone after back-to-back losing seasons. *(p. 20)*
+Also referenced on **pp. 8, 20** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -93,13 +96,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 184)*.
 
-- For the fourth straight year, Wisconsin had to get a starting QB out of the portal with Colton Joseph from Old Dominion. *(p. 184)*
-- Joseph (4,251 passing yards, 32 touchdowns; 1,654 rushing yards, 24 touchdowns over two seasons) was the Sun Belt Player of the Year and could provide a jolt for the worst scoring offense (12.8 PPG – 133rd) in the Power Four. *(p. 184)*
-- Offensive coordinator Jeff Grimes is likely to go with a more run-heavy approach, especially with a mobile QB like Joseph, but they need at least some production from this position. *(p. 185)*
+- This is a complete roster makeover with 33 transfers, and for the fourth straight year the starting quarterback comes from the portal — Colton Joseph from Old Dominion. *(p. 184)*
+- Joseph was Sun Belt Player of the Year with 4,251 passing yards and 32 touchdowns plus 1,654 rushing yards and 24 touchdowns over two seasons, and the guide sees him as a potential jolt for the worst scoring offense in the Power Four at 12.8 points per game, 133rd nationally. *(p. 184)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- This season, ODU is one of those teams with very heavy losses, including QB Colton Joseph to Wisconsin after rushing for more than 1,000 yards and throwing for over 2,600 more. *(p. 330)*
+Also referenced on **pp. 330** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -115,49 +115,34 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- This is a complete roster makeover with 33 transfers. *(p. 184)*
-- For the fourth straight year, Wisconsin had to get a starting QB out of the portal with Colton Joseph from Old Dominion. *(p. 184)*
-- Wisconsin had to rely more on the portal than usual and are looking for some kind of quick fix. *(p. 184)*
-- The Badgers will need to rely on transfers and its young recruits. *(p. 185)*
-- Chris Brooks Jr. and Eugene Hilton return, along with the additions of Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. *(p. 185)*
-- Leading rusher Darrion Dupree (83-363-2) returns but he has some company in the backfield with Abu Sama III (Iowa State) who rushed for 1933 yards and 13 touchdowns across three seasons and USC transfer Bryan Jackson II. *(p. 185)*
-- Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). *(p. 185)*
+- This is a complete roster makeover with 33 transfers, and for the fourth straight year the starting quarterback comes from the portal — Colton Joseph from Old Dominion. *(p. 184)*
+- Its judgement is that Joseph certainly makes the offense better but the ceiling stays low with few proven playmakers, that the heavy portal reliance looks like a search for a quick fix, and that seven wins is a big ask for a team lacking talent at many positions despite the easier schedule. *(p. 184)*
+- **Can anyone make plays at receiver?** Very little production returns, which the guide suggests may not be a bad thing given the leading receiver managed under 400 yards. Wisconsin will lean on transfers and young recruits: Chris Brooks Jr and Eugene Hilton return, joined by Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. Coordinator Jeff Grimes is expected to go run-heavy, especially with a mobile quarterback, but the guide insists some production from the position is still required. *(p. 185)*
+- **Aside from Joseph, who is the Badgers rushing threat?** Wisconsin's identity has always been power running, yet it ranked 115th nationally at 116.7 yards per game. Leading rusher Darrion Dupree (83 carries, 363 yards, two touchdowns) returns with Abu Sama III from Iowa State, who ran for 1,933 yards and 13 touchdowns across three seasons, and USC transfer Bryan Jackson II. Three offensive line starters are back. The guide's sharpest illustration of the problem: Joseph individually had more runs of 10-plus yards last season, 37, than Wisconsin managed as a team, 33. *(p. 185)*
+- **How much of a load will the defense have to carry?** Wisconsin somehow ranked 24th nationally in total defense despite being on the field constantly because of the offense. Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) contributed heavily as freshmen and now lead the unit with safety Matthew Jung (50 tackles). Apart from Jung the secondary is entirely portal additions — Marvin Burks Jr from Missouri, Javan Robinson from Arizona State, Cai Bates from Florida State and Eric Fletcher from East Carolina. The front has homegrown talent in Nicolas Clayton, Jaylen Williams and Sebastian Cheeks. The guide's conclusion turns on the offense: this could be solid again, but it depends on whether the unit can be kept off the field. *(p. 185)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- It was said that Wisconsin paid about $1 million in total NIL compensation to Edwards. *(p. 99)*
-- Bielema feels good about his backfield as they moved secondleading rusher Kaden Feagin to tight end, and he is one of the better OL evaluators and developers in the country but only imported one Power Four transfer (C Jake Renfro – Wisconsin). *(p. 151)*
+Referenced in the guide on **pp. 99, 151** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- The Badgers will need to rely on transfers and its young recruits. *(p. 185)*
+
+Referenced in the guide on **pp. 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Joseph (4,251 passing yards, 32 touchdowns; 1,654 rushing yards, 24 touchdowns over two seasons) was the Sun Belt Player of the Year and could provide a jolt for the worst scoring offense (12.8 PPG – 133rd) in the Power Four. *(p. 184)*
-- Joseph makes this offense better for sure, but the ceiling is still low with very few proven playmakers. *(p. 184)*
-- Wisconsin has very little production returning at the position, but that might not be a bad thing considering its leading receiver last year had less than 400 yards. *(p. 185)*
-- Offensive coordinator Jeff Grimes is likely to go with a more run-heavy approach, especially with a mobile QB like Joseph, but they need at least some production from this position. *(p. 185)*
-- Three starters are back on the offensive line to block for this group, but someone needs to emerge from the backfield as Joseph had more runs of 10 or more yards (37) than Wisconsin did as a team (33) last season. *(p. 185)*
-- Somehow Wisconsin ranked 24th nationally in total defense being that they were on the field so often due to its anemic offense. *(p. 185)*
+- Joseph was Sun Belt Player of the Year with 4,251 passing yards and 32 touchdowns plus 1,654 rushing yards and 24 touchdowns over two seasons, and the guide sees him as a potential jolt for the worst scoring offense in the Power Four at 12.8 points per game, 133rd nationally. *(p. 184)*
+- It supplies the starkest single number: Wisconsin scored 81 points across nine Big Ten games in 2025. The defense was solid as usual, but wins will stay scarce unless the offense improves. *(p. 184)*
+- **Can anyone make plays at receiver?** Very little production returns, which the guide suggests may not be a bad thing given the leading receiver managed under 400 yards. Wisconsin will lean on transfers and young recruits: Chris Brooks Jr and Eugene Hilton return, joined by Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. Coordinator Jeff Grimes is expected to go run-heavy, especially with a mobile quarterback, but the guide insists some production from the position is still required. *(p. 185)*
+- **Aside from Joseph, who is the Badgers rushing threat?** Wisconsin's identity has always been power running, yet it ranked 115th nationally at 116.7 yards per game. Leading rusher Darrion Dupree (83 carries, 363 yards, two touchdowns) returns with Abu Sama III from Iowa State, who ran for 1,933 yards and 13 touchdowns across three seasons, and USC transfer Bryan Jackson II. Three offensive line starters are back. The guide's sharpest illustration of the problem: Joseph individually had more runs of 10-plus yards last season, 37, than Wisconsin managed as a team, 33. *(p. 185)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Huskies only averaged 9.3 points per game and 4.3 yards per play against Ohio State, Michigan, Wisconsin, and Oregon, who were the four best defenses they faced. *(p. 182)*
-- This season, ODU is one of those teams with very heavy losses, including QB Colton Joseph to Wisconsin after rushing for more than 1,000 yards and throwing for over 2,600 more. *(p. 330)*
+Referenced in the guide on **pp. 182, 330** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The defense was solid as usual, but this team will once again find wins hard to come by if these numbers do not improve. *(p. 184)*
-- Somehow Wisconsin ranked 24th nationally in total defense being that they were on the field so often due to its anemic offense. *(p. 185)*
-- Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) made major contributions as freshmen last season and now are the leaders of the unit, along with safety Matthew Jung (50 tackles). *(p. 185)*
-- Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). *(p. 185)*
-- The front also has solid homegrown talent with Nicolas Clayton and Jaylen Williams alongside Sebastian Cheeks (three sacks). *(p. 185)*
+- It supplies the starkest single number: Wisconsin scored 81 points across nine Big Ten games in 2025. The defense was solid as usual, but wins will stay scarce unless the offense improves. *(p. 184)*
+- **How much of a load will the defense have to carry?** Wisconsin somehow ranked 24th nationally in total defense despite being on the field constantly because of the offense. Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) contributed heavily as freshmen and now lead the unit with safety Matthew Jung (50 tackles). Apart from Jung the secondary is entirely portal additions — Marvin Burks Jr from Missouri, Javan Robinson from Arizona State, Cai Bates from Florida State and Eric Fletcher from East Carolina. The front has homegrown talent in Nicolas Clayton, Jaylen Williams and Sebastian Cheeks. The guide's conclusion turns on the offense: this could be solid again, but it depends on whether the unit can be kept off the field. *(p. 185)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
-- The Huskies only averaged 9.3 points per game and 4.3 yards per play against Ohio State, Michigan, Wisconsin, and Oregon, who were the four best defenses they faced. *(p. 182)*
+Referenced in the guide on **pp. 151, 182** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -213,9 +198,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- WISCONSIN There was a lot of excitement in Madison when Luke Fickell was hired as coach in 2023, but the thrill is long gone after back-to-back losing seasons. *(p. 20)*
+Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -244,22 +227,15 @@ Prices printed on the team page *(p. 185)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- Recommendation is Under 6.5 wins. After the Notre Dame opener at Lambeau Field the schedule eases, with three of the next four at home against Western Illinois, Eastern Michigan and Michigan State, and Wisconsin avoids Ohio State, Oregon and Indiana. *(p. 184)*
+- Its judgement is that Joseph certainly makes the offense better but the ceiling stays low with few proven playmakers, that the heavy portal reliance looks like a search for a quick fix, and that seven wins is a big ask for a team lacking talent at many positions despite the easier schedule. *(p. 184)*
 
 ## 22. Historical / Situational Trends
 
-- For the first time since 1978, the Badgers did not have a player get selected in the NFL Draft, a streak of 47 seasons. *(p. 184)*
-- Wisconsin has very little production returning at the position, but that might not be a bad thing considering its leading receiver last year had less than 400 yards. *(p. 185)*
-- Wisconsin’s identity has always been a power running game no matter who is the head coach, but last season they ranked just 115th nationally averaging just 116.7 yards per game. *(p. 185)*
-- Three starters are back on the offensive line to block for this group, but someone needs to emerge from the backfield as Joseph had more runs of 10 or more yards (37) than Wisconsin did as a team (33) last season. *(p. 185)*
-- Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) made major contributions as freshmen last season and now are the leaders of the unit, along with safety Matthew Jung (50 tackles). *(p. 185)*
+- Luke Fickell was expected to restore the Barry Alvarez era; instead he has gone 7-6, 5-7 and 4-8, and the guide says no Big Ten seat is hotter. *(p. 184)*
+- A telling marker: for the first time since 1978, ending a 47-season streak, Wisconsin had no player drafted. *(p. 184)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- WISCONSIN OVER 6.5 WINS (+100 - 3 UNITS) & ALT OVER 7.5 WINS (+230) This is undoubtedly a bit of a homer pick, and it’s one I believe I’ve lost every year since I started working for VSiN. *(p. 8)*
-- Things have been miserable since Luke Fickell took over the Wisconsin program, but they were trending in the wrong direction long before he was hired. *(p. 8)*
-- WISCONSIN There was a lot of excitement in Madison when Luke Fickell was hired as coach in 2023, but the thrill is long gone after back-to-back losing seasons. *(p. 20)*
-- Since then, he’s been at Maryland, Wisconsin, and now North Carolina, as he only started two games last season and didn’t really look the part before suffering a season-ending injury. *(p. 99)*
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
+Referenced in the guide on **pp. 8, 20, 99, 151** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -304,10 +280,9 @@ As printed on p. 185. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The defense was solid as usual, but this team will once again find wins hard to come by if these numbers do not improve. *(p. 184)*
-- Chris Brooks Jr. and Eugene Hilton return, along with the additions of Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. *(p. 185)*
-- Leading rusher Darrion Dupree (83-363-2) returns but he has some company in the backfield with Abu Sama III (Iowa State) who rushed for 1933 yards and 13 touchdowns across three seasons and USC transfer Bryan Jackson II. *(p. 185)*
-- The Huskies only averaged 9.3 points per game and 4.3 yards per play against Ohio State, Michigan, Wisconsin, and Oregon, who were the four best defenses they faced. *(p. 182)*
+- It supplies the starkest single number: Wisconsin scored 81 points across nine Big Ten games in 2025. The defense was solid as usual, but wins will stay scarce unless the offense improves. *(p. 184)*
+- Very little production returns, which the guide suggests may not be a bad thing given the leading receiver managed under 400 yards. Wisconsin will lean on transfers and young recruits: Chris Brooks Jr and Eugene Hilton return, joined by Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. Coordinator Jeff Grimes is expected to go run-heavy, especially with a mobile quarterback, but the guide insists some production from the position is still required. *(p. 185)*
+- Wisconsin's identity has always been power running, yet it ranked 115th nationally at 116.7 yards per game. Leading rusher Darrion Dupree (83 carries, 363 yards, two touchdowns) returns with Abu Sama III from Iowa State, who ran for 1,933 yards and 13 touchdowns across three seasons, and USC transfer Bryan Jackson II. Three offensive line starters are back. The guide's sharpest illustration of the problem: Joseph individually had more runs of 10-plus yards last season, 37, than Wisconsin managed as a team, 33. *(p. 185)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -315,29 +290,26 @@ As printed on p. 185. Each category carries a value and a national rank.
 
 - Makinen projects **6.1 wins** against a posted total of 6.5 — **-0.4** against this team.
 - The team page recommends **UNDER 6.5**.
-- WISCONSIN OVER 6.5 WINS (+100 - 3 UNITS) & ALT OVER 7.5 WINS (+230) This is undoubtedly a bit of a homer pick, and it’s one I believe I’ve lost every year since I started working for VSiN. *(p. 8)*
-- Since then, he’s been at Maryland, Wisconsin, and now North Carolina, as he only started two games last season and didn’t really look the part before suffering a season-ending injury. *(p. 99)*
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
-- This season, ODU is one of those teams with very heavy losses, including QB Colton Joseph to Wisconsin after rushing for more than 1,000 yards and throwing for over 2,600 more. *(p. 330)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 185)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 185)*. Its analysis, in reference form:
 
 ### Can anyone make plays at receiver?
 
-Wisconsin has very little production returning at the position, but that might not be a bad thing considering its leading receiver last year had less than 400 yards. The Badgers will need to rely on transfers and its young recruits. Chris Brooks Jr. and Eugene Hilton return, along with the additions of Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. Offensive coordinator Jeff Grimes is likely to go with a more run-heavy approach, especially with a mobile QB like Joseph, but they need at least some production from this position.
+Very little production returns, which the guide suggests may not be a bad thing given the leading receiver managed under 400 yards. Wisconsin will lean on transfers and young recruits: Chris Brooks Jr and Eugene Hilton return, joined by Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. Coordinator Jeff Grimes is expected to go run-heavy, especially with a mobile quarterback, but the guide insists some production from the position is still required. *(p. 185)*
 
 ### Aside from Joseph, who is the Badgers rushing threat?
 
-Wisconsin’s identity has always been a power running game no matter who is the head coach, but last season they ranked just 115th nationally averaging just 116.7 yards per game. Leading rusher Darrion Dupree (83-363-2) returns but he has some company in the backfield with Abu Sama III (Iowa State) who rushed for 1933 yards and 13 touchdowns across three seasons and USC transfer Bryan Jackson II. Three starters are back on the offensive line to block for this group, but someone needs to emerge from the backfield as Joseph had more runs of 10 or more yards (37) than Wisconsin did as a team (33) last season.
+Wisconsin's identity has always been power running, yet it ranked 115th nationally at 116.7 yards per game. Leading rusher Darrion Dupree (83 carries, 363 yards, two touchdowns) returns with Abu Sama III from Iowa State, who ran for 1,933 yards and 13 touchdowns across three seasons, and USC transfer Bryan Jackson II. Three offensive line starters are back. The guide's sharpest illustration of the problem: Joseph individually had more runs of 10-plus yards last season, 37, than Wisconsin managed as a team, 33. *(p. 185)*
 
 ### How much of a load will the defense have to carry?
 
-Somehow Wisconsin ranked 24th nationally in total defense being that they were on the field so often due to its anemic offense. Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) made major contributions as freshmen last season and now are the leaders of the unit, along with safety Matthew Jung (50 tackles). Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). The front also has solid homegrown talent with Nicolas Clayton and Jaylen Williams alongside Sebastian Cheeks (three sacks). This could be a solid group again, but it really depends on if they can be kept off the field.
+Wisconsin somehow ranked 24th nationally in total defense despite being on the field constantly because of the offense. Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) contributed heavily as freshmen and now lead the unit with safety Matthew Jung (50 tackles). Apart from Jung the secondary is entirely portal additions — Marvin Burks Jr from Missouri, Javan Robinson from Arizona State, Cai Bates from Florida State and Eric Fletcher from East Carolina. The front has homegrown talent in Nicolas Clayton, Jaylen Williams and Sebastian Cheeks. The guide's conclusion turns on the offense: this could be solid again, but it depends on whether the unit can be kept off the field. *(p. 185)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -355,6 +327,8 @@ No source conflict identified for this team.
 | 8, 17, 18, 20, 99, 151, 182, 212, 330 | Other pages naming this team |
 
 This team is named in **28 sentences across 11 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 17, 18, 20, 99, 151, 182, 212, 330.
 
 ## 29. Cross-Links
 

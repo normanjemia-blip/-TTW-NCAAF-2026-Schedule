@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 8.1–3.9 overall, 5.3–3.7 in conference |
 | **Schedule strength** | 44.91 (#45 toughest of 138) |
 
-### Season outlook as written in the guide (p. 154)
+### Season outlook — VSiN's analysis in reference form (p. 154)
 
-The 2025 season was the usual for Iowa football, as the Hawkeyes had yet another winning season (9-4) and have had 13 of them in a row under Kirk Ferentz, who enters his 28th season in Iowa City as the Big Ten’s longest-tenured coach. In fact, he passed Woody Hayes last season as the conference’s all-time winningest coach. Iowa is the model of consistency, but with the success of Indiana, the pressure is even greater from programs like theirs to get more. Last season, the Hawkeyes lost one-score games to Indiana, Oregon, and USC, so it is fair for them to wonder what might have been. This season, Iowa replaces 27 seniors (16 of them starters) and the roster has the largest turnover of the Ferentz era. The Hawkeyes have always relied on development, but you cannot exclusively rely on that today as they add a program-record 16 transfers this season. Over 7.5 With all the question marks on the roster, 7.5 wins is the correct total here, so there is not much of a true betting edge. The schedule begins with three non-conference home games, but two of them are against in-state rivals Iowa State and Northern Iowa. It gets more challenging with trips to Michigan and Washington and a home game vs. Ohio State sandwiched in between. The second half of the schedule is substantially more manageable. Ferentz has never won fewer than eight games in a season since 2015 save for the COVID season in 2020 and 2023 with two vacated wins due to tampering with former QB Cade McNamara before he officially entered the portal. He and his staff get the benefit of the doubt, even with an inexperienced QB and many new faces on defense and special teams.
+- A typical Iowa season: 9-4 and a 13th consecutive winning year under Kirk Ferentz, who enters his 28th season as the Big Ten's longest-tenured coach and passed Woody Hayes last season as the conference's all-time winningest coach. *(p. 154)*
+- The guide frames rising pressure: Indiana's success raises what programmes like Iowa are expected to achieve, and one-score losses to Indiana, Oregon and USC last season invite what-might-have-been. *(p. 154)*
+- Iowa replaces 27 seniors, 16 of them starters — the largest roster turnover of the Ferentz era — and responds with a programme-record 16 transfers, which the guide presents as an acknowledgement that development alone is no longer sufficient. *(p. 154)*
+- Recommendation is Over 7.5 wins, but the guide is candid that 7.5 is the correct number given the questions and that there is little true betting edge. *(p. 154)*
+- Schedule opens with three home non-conference games, two against in-state rivals Iowa State and Northern Iowa, then hardens with trips to Michigan and Washington around a home date with Ohio State. The second half is substantially more manageable. *(p. 154)*
+- The supporting argument is Ferentz's floor: never fewer than eight wins since 2015 apart from the COVID season of 2020 and 2023, when two wins were vacated over tampering with quarterback Cade McNamara before he entered the portal. The guide gives the staff the benefit of the doubt despite an inexperienced quarterback and many new faces on defense and special teams. *(p. 154)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,18 +85,12 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The 2025 season was the usual for Iowa football, as the Hawkeyes had yet another winning season (9-4) and have had 13 of them in a row under Kirk Ferentz, who enters his 28th season in Iowa City as the Big Ten’s longest-tenured coach. *(p. 154)*
-- In fact, he passed Woody Hayes last season as the conference’s all-time winningest coach. *(p. 154)*
-- He and his staff get the benefit of the doubt, even with an inexperienced QB and many new faces on defense and special teams. *(p. 154)*
-- Now Gronowski and his 58 career wins as a starter are gone and offensive coordinator Tim Lester has two candidates that were in the program last year – Hank Brown, who started one game for Auburn two years ago, or Jeremy Hecklinski, who has two passing attempts in his career. *(p. 155)*
-- The default answer is ‘yes’ as the long-time defensive coordinator is considered one of the best in the game. *(p. 155)*
-- Aside from the roster attrition, arguably the biggest loss for Iowa could be special teams coordinator LeVar Woods, who has been on Ferentz’s staff since 2008, and served in the coordinator role since 2018. *(p. 155)*
-- Woods is now in the same role and the assistant head coach for Pat Fitzgerald’s new staff at Michigan State. *(p. 155)*
+- A typical Iowa season: 9-4 and a 13th consecutive winning year under Kirk Ferentz, who enters his 28th season as the Big Ten's longest-tenured coach and passed Woody Hayes last season as the conference's all-time winningest coach. *(p. 154)*
+- The supporting argument is Ferentz's floor: never fewer than eight wins since 2015 apart from the COVID season of 2020 and 2023, when two wins were vacated over tampering with quarterback Cade McNamara before he entered the portal. The guide gives the staff the benefit of the doubt despite an inexperienced quarterback and many new faces on defense and special teams. *(p. 154)*
+- **Can Phil Parker rebuild the Iowa defense again?** The guide's default answer is yes, treating Parker as one of the best coordinators in the game. Iowa ranked top-10 nationally in scoring, passing and total defense with a 17th-ranked run defense. But only three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three interceptions) is the unit's star. The guide acknowledges the inexperience while noting Parker earned the benefit of the doubt long ago. *(p. 155)*
+- **Will Iowa's special teams remain special?** The guide argues the biggest single loss may be special teams coordinator LeVar Woods, on Ferentz's staff since 2008 and coordinator since 2018, who left for the same role and an assistant head coach title under Pat Fitzgerald at Michigan State. Chris Polizzi is promoted and must sustain an annually elite unit while replacing two-time All-Big Ten return specialist Kaden Wetjen plus both the kicker and punter. *(p. 155)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
-- Vincent went out and made an outside-the-box OC hire, picking up Iowa Central Community College head coach Jesse Montalto, whose offense was fifth in the NJCAA in PPG with 38.6 and fourth in yards per game with 445.8. *(p. 337)*
+Also referenced on **pp. 130, 337** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -97,16 +98,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 154)*.
 
-- Ferentz has never won fewer than eight games in a season since 2015 save for the COVID season in 2020 and 2023 with two vacated wins due to tampering with former QB Cade McNamara before he officially entered the portal. *(p. 154)*
-- He and his staff get the benefit of the doubt, even with an inexperienced QB and many new faces on defense and special teams. *(p. 154)*
-- Iowa has had to dip into the portal to find its starting QB for the last few seasons. *(p. 155)*
-- Now Gronowski and his 58 career wins as a starter are gone and offensive coordinator Tim Lester has two candidates that were in the program last year – Hank Brown, who started one game for Auburn two years ago, or Jeremy Hecklinski, who has two passing attempts in his career. *(p. 155)*
-- Whoever wins the job must provide a jolt to a passing offense that has rated 129th, 130th, and 130th in the FBS in the last three seasons. *(p. 155)*
-- The Hawkeyes stop unit ranked inside the top 10 nationally last season in scoring defense, passing defense, and total defense, plus the rush defense (17th) was not too shabby either. *(p. 155)*
+- **Who starts at quarterback?** Iowa has leaned on the portal for starters in recent seasons, most recently Mark Gronowski and his two FCS titles from North Dakota State. With Gronowski and his 58 career wins gone, coordinator Tim Lester chooses between Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide sets the bar by the problem: the passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. It expects Iowa to lean instead on a talented line and the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). *(p. 155)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- A big part of why I liked Iowa so much last year was I thought they finally had a QB, but even with Mark Gronowski coming up far short of my expectations, they still won all the games they were supposed to, and that’s my thought entering this season. *(p. 13)*
+Also referenced on **pp. 13** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -122,44 +116,27 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- The Hawkeyes have always relied on development, but you cannot exclusively rely on that today as they add a program-record 16 transfers this season. *(p. 154)*
-- Ferentz has never won fewer than eight games in a season since 2015 save for the COVID season in 2020 and 2023 with two vacated wins due to tampering with former QB Cade McNamara before he officially entered the portal. *(p. 154)*
-- Iowa has had to dip into the portal to find its starting QB for the last few seasons. *(p. 155)*
-- More than likely, Iowa relies on its running game behind a talented offensive line and its running back tandem of Kamari Moulton (878 yards, five TDs) and South Dakota transfer L.J. *(p. 155)*
+- Iowa replaces 27 seniors, 16 of them starters — the largest roster turnover of the Ferentz era — and responds with a programme-record 16 transfers, which the guide presents as an acknowledgement that development alone is no longer sufficient. *(p. 154)*
+- **Who starts at quarterback?** Iowa has leaned on the portal for starters in recent seasons, most recently Mark Gronowski and his two FCS titles from North Dakota State. With Gronowski and his 58 career wins gone, coordinator Tim Lester chooses between Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide sets the bar by the problem: the passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. It expects Iowa to lean instead on a talented line and the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). *(p. 155)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Some may shy away from Iowa seeing they are last in the Big Ten in returning production on defense, which made Ferentz, who had never had more than nine total transfers in a single season, grab eight players from the portal just on that side of the ball — but I trust Phil Parker to get the most out of those players. *(p. 13)*
+Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kohl was a four-star in the 2023 class out of Iowa and is a massive human being at 6-foot-7 and 245 pounds. *(p. 191)*
+Referenced in the guide on **pp. 191** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Now Gronowski and his 58 career wins as a starter are gone and offensive coordinator Tim Lester has two candidates that were in the program last year – Hank Brown, who started one game for Auburn two years ago, or Jeremy Hecklinski, who has two passing attempts in his career. *(p. 155)*
-- Whoever wins the job must provide a jolt to a passing offense that has rated 129th, 130th, and 130th in the FBS in the last three seasons. *(p. 155)*
-- More than likely, Iowa relies on its running game behind a talented offensive line and its running back tandem of Kamari Moulton (878 yards, five TDs) and South Dakota transfer L.J. *(p. 155)*
-- The Hawkeyes stop unit ranked inside the top 10 nationally last season in scoring defense, passing defense, and total defense, plus the rush defense (17th) was not too shabby either. *(p. 155)*
+- **Who starts at quarterback?** Iowa has leaned on the portal for starters in recent seasons, most recently Mark Gronowski and his two FCS titles from North Dakota State. With Gronowski and his 58 career wins gone, coordinator Tim Lester chooses between Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide sets the bar by the problem: the passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. It expects Iowa to lean instead on a talented line and the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). *(p. 155)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Vincent went out and made an outside-the-box OC hire, picking up Iowa Central Community College head coach Jesse Montalto, whose offense was fifth in the NJCAA in PPG with 38.6 and fourth in yards per game with 445.8. *(p. 337)*
+Referenced in the guide on **pp. 337** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- He and his staff get the benefit of the doubt, even with an inexperienced QB and many new faces on defense and special teams. *(p. 154)*
-- The default answer is ‘yes’ as the long-time defensive coordinator is considered one of the best in the game. *(p. 155)*
-- The Hawkeyes stop unit ranked inside the top 10 nationally last season in scoring defense, passing defense, and total defense, plus the rush defense (17th) was not too shabby either. *(p. 155)*
-- However, just three starters return and six of the top eight defensive linemen are gone. *(p. 155)*
-- Safety Zach Lutmer (71 tackles, three INTs) is the star of the unit. *(p. 155)*
+- **Can Phil Parker rebuild the Iowa defense again?** The guide's default answer is yes, treating Parker as one of the best coordinators in the game. Iowa ranked top-10 nationally in scoring, passing and total defense with a 17th-ranked run defense. But only three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three interceptions) is the unit's star. The guide acknowledges the inexperience while noting Parker earned the benefit of the doubt long ago. *(p. 155)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Some may shy away from Iowa seeing they are last in the Big Ten in returning production on defense, which made Ferentz, who had never had more than nine total transfers in a single season, grab eight players from the portal just on that side of the ball — but I trust Phil Parker to get the most out of those players. *(p. 13)*
+Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -241,27 +218,16 @@ Prices printed on the team page *(p. 155)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Over 7.5 With all the question marks on the roster, 7.5 wins is the correct total here, so there is not much of a true betting edge. *(p. 154)*
+- Recommendation is Over 7.5 wins, but the guide is candid that 7.5 is the correct number given the questions and that there is little true betting edge. *(p. 154)*
+- The supporting argument is Ferentz's floor: never fewer than eight wins since 2015 apart from the COVID season of 2020 and 2023, when two wins were vacated over tampering with quarterback Cade McNamara before he entered the portal. The guide gives the staff the benefit of the doubt despite an inexperienced quarterback and many new faces on defense and special teams. *(p. 154)*
 
 ## 22. Historical / Situational Trends
 
-- In fact, he passed Woody Hayes last season as the conference’s all-time winningest coach. *(p. 154)*
-- Last season, the Hawkeyes lost one-score games to Indiana, Oregon, and USC, so it is fair for them to wonder what might have been. *(p. 154)*
-- Ferentz has never won fewer than eight games in a season since 2015 save for the COVID season in 2020 and 2023 with two vacated wins due to tampering with former QB Cade McNamara before he officially entered the portal. *(p. 154)*
-- Last season, it was Mark Gronowski coming in from winning two FCS National Championships at North Dakota State. *(p. 155)*
-- Now Gronowski and his 58 career wins as a starter are gone and offensive coordinator Tim Lester has two candidates that were in the program last year – Hank Brown, who started one game for Auburn two years ago, or Jeremy Hecklinski, who has two passing attempts in his career. *(p. 155)*
-- Phillips (1920 yards, 19 TDs in 2025). *(p. 155)*
-- The Hawkeyes stop unit ranked inside the top 10 nationally last season in scoring defense, passing defense, and total defense, plus the rush defense (17th) was not too shabby either. *(p. 155)*
-- Aside from the roster attrition, arguably the biggest loss for Iowa could be special teams coordinator LeVar Woods, who has been on Ferentz’s staff since 2008, and served in the coordinator role since 2018. *(p. 155)*
+- A typical Iowa season: 9-4 and a 13th consecutive winning year under Kirk Ferentz, who enters his 28th season as the Big Ten's longest-tenured coach and passed Woody Hayes last season as the conference's all-time winningest coach. *(p. 154)*
+- The guide frames rising pressure: Indiana's success raises what programmes like Iowa are expected to achieve, and one-score losses to Indiana, Oregon and USC last season invite what-might-have-been. *(p. 154)*
+- The supporting argument is Ferentz's floor: never fewer than eight wins since 2015 apart from the COVID season of 2020 and 2023, when two wins were vacated over tampering with quarterback Cade McNamara before he entered the portal. The guide gives the staff the benefit of the doubt despite an inexperienced quarterback and many new faces on defense and special teams. *(p. 154)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- IOWA OVER 7.5 WINS (-120) This was a win total I wrote up in the guide last year that cashed, and I’m going back to the well with Kirk Ferentz in Year 28. *(p. 13)*
-- Iowa hasn’t gone a full non-Covid season with fewer than eight wins since 2014, averaging 8.7 wins per season over the last 12 years, though two of those seasons include bowl wins. *(p. 13)*
-- A big part of why I liked Iowa so much last year was I thought they finally had a QB, but even with Mark Gronowski coming up far short of my expectations, they still won all the games they were supposed to, and that’s my thought entering this season. *(p. 13)*
-- I have the Iowa trend of eight-win seasons paying us out again in 2026. *(p. 13)*
-- IOWA The Hawkeyes had Indiana on the ropes early last season and blew the game, 20-15, in Iowa City. *(p. 19)*
-- Plus, the Wildcats have games with Penn State, Iowa, and Illinois who were also bowl teams last season. *(p. 166)*
+Referenced in the guide on **pp. 13, 19, 166** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -308,46 +274,40 @@ As printed on p. 155. Each category carries a value and a national rank.
 
 - Makinen projects **8.1 wins** against a posted total of 7.5 — **+0.6** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- The 2025 season was the usual for Iowa football, as the Hawkeyes had yet another winning season (9-4) and have had 13 of them in a row under Kirk Ferentz, who enters his 28th season in Iowa City as the Big Ten’s longest-tenured coach. *(p. 154)*
-- Last season, it was Mark Gronowski coming in from winning two FCS National Championships at North Dakota State. *(p. 155)*
-- More than likely, Iowa relies on its running game behind a talented offensive line and its running back tandem of Kamari Moulton (878 yards, five TDs) and South Dakota transfer L.J. *(p. 155)*
-- The default answer is ‘yes’ as the long-time defensive coordinator is considered one of the best in the game. *(p. 155)*
-- However, just three starters return and six of the top eight defensive linemen are gone. *(p. 155)*
-- Chris Polizzi was promoted to the new role and has the task of keeping Iowa’s annually elite special teams at that level. *(p. 155)*
-- The first task is to find a replacement for two-time All-Big Ten return specialist Kaden Wetjen and replacing both his kicker and punter. *(p. 155)*
-- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
+- A typical Iowa season: 9-4 and a 13th consecutive winning year under Kirk Ferentz, who enters his 28th season as the Big Ten's longest-tenured coach and passed Woody Hayes last season as the conference's all-time winningest coach. *(p. 154)*
+- Iowa has leaned on the portal for starters in recent seasons, most recently Mark Gronowski and his two FCS titles from North Dakota State. With Gronowski and his 58 career wins gone, coordinator Tim Lester chooses between Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide sets the bar by the problem: the passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. It expects Iowa to lean instead on a talented line and the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). *(p. 155)*
+- The guide's default answer is yes, treating Parker as one of the best coordinators in the game. Iowa ranked top-10 nationally in scoring, passing and total defense with a 17th-ranked run defense. But only three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three interceptions) is the unit's star. The guide acknowledges the inexperience while noting Parker earned the benefit of the doubt long ago. *(p. 155)*
+- The guide argues the biggest single loss may be special teams coordinator LeVar Woods, on Ferentz's staff since 2008 and coordinator since 2018, who left for the same role and an assistant head coach title under Pat Fitzgerald at Michigan State. Chris Polizzi is promoted and must sustain an annually elite unit while replacing two-time All-Big Ten return specialist Kaden Wetjen plus both the kicker and punter. *(p. 155)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Last season, the Hawkeyes lost one-score games to Indiana, Oregon, and USC, so it is fair for them to wonder what might have been. *(p. 154)*
-- Over 7.5 With all the question marks on the roster, 7.5 wins is the correct total here, so there is not much of a true betting edge. *(p. 154)*
-- He and his staff get the benefit of the doubt, even with an inexperienced QB and many new faces on defense and special teams. *(p. 154)*
-- There is inexperience here, but Parker was rightfully given the benefit of the doubt long ago. *(p. 155)*
-- Aside from the roster attrition, arguably the biggest loss for Iowa could be special teams coordinator LeVar Woods, who has been on Ferentz’s staff since 2008, and served in the coordinator role since 2018. *(p. 155)*
-- Iowa also let one get away in an 18-16 loss to Oregon. *(p. 19)*
-- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
-- Oregon will be a likely home loss, and they do have three of the last four at home, but all in coin flip games – Nebraska, Iowa, and Northwestern – where they more than likely must win all three to get to eight victories. *(p. 150)*
+- The guide frames rising pressure: Indiana's success raises what programmes like Iowa are expected to achieve, and one-score losses to Indiana, Oregon and USC last season invite what-might-have-been. *(p. 154)*
+- Recommendation is Over 7.5 wins, but the guide is candid that 7.5 is the correct number given the questions and that there is little true betting edge. *(p. 154)*
+- The supporting argument is Ferentz's floor: never fewer than eight wins since 2015 apart from the COVID season of 2020 and 2023, when two wins were vacated over tampering with quarterback Cade McNamara before he entered the portal. The guide gives the staff the benefit of the doubt despite an inexperienced quarterback and many new faces on defense and special teams. *(p. 154)*
+- The guide's default answer is yes, treating Parker as one of the best coordinators in the game. Iowa ranked top-10 nationally in scoring, passing and total defense with a 17th-ranked run defense. But only three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three interceptions) is the unit's star. The guide acknowledges the inexperience while noting Parker earned the benefit of the doubt long ago. *(p. 155)*
+- The guide argues the biggest single loss may be special teams coordinator LeVar Woods, on Ferentz's staff since 2008 and coordinator since 2018, who left for the same role and an assistant head coach title under Pat Fitzgerald at Michigan State. Chris Polizzi is promoted and must sustain an annually elite unit while replacing two-time All-Big Ten return specialist Kaden Wetjen plus both the kicker and punter. *(p. 155)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 155)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 155)*. Its analysis, in reference form:
 
 ### Who starts at quarterback?
 
-Iowa has had to dip into the portal to find its starting QB for the last few seasons. Last season, it was Mark Gronowski coming in from winning two FCS National Championships at North Dakota State. Now Gronowski and his 58 career wins as a starter are gone and offensive coordinator Tim Lester has two candidates that were in the program last year – Hank Brown, who started one game for Auburn two years ago, or Jeremy Hecklinski, who has two passing attempts in his career. Whoever wins the job must provide a jolt to a passing offense that has rated 129th, 130th, and 130th in the FBS in the last three seasons. More than likely, Iowa relies on its running game behind a talented offensive line and its running back tandem of Kamari Moulton (878 yards, five TDs) and South Dakota transfer L.J. Phillips (1920 yards, 19 TDs in 2025).
+Iowa has leaned on the portal for starters in recent seasons, most recently Mark Gronowski and his two FCS titles from North Dakota State. With Gronowski and his 58 career wins gone, coordinator Tim Lester chooses between Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide sets the bar by the problem: the passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. It expects Iowa to lean instead on a talented line and the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). *(p. 155)*
 
 ### Can Phil Parker rebuild the Iowa defense again?
 
-The default answer is ‘yes’ as the long-time defensive coordinator is considered one of the best in the game. The Hawkeyes stop unit ranked inside the top 10 nationally last season in scoring defense, passing defense, and total defense, plus the rush defense (17th) was not too shabby either. However, just three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three INTs) is the star of the unit. There is inexperience here, but Parker was rightfully given the benefit of the doubt long ago.
+The guide's default answer is yes, treating Parker as one of the best coordinators in the game. Iowa ranked top-10 nationally in scoring, passing and total defense with a 17th-ranked run defense. But only three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three interceptions) is the unit's star. The guide acknowledges the inexperience while noting Parker earned the benefit of the doubt long ago. *(p. 155)*
 
-### Will Iowa’s special teams remain special?
+### Will Iowa's special teams remain special?
 
-Aside from the roster attrition, arguably the biggest loss for Iowa could be special teams coordinator LeVar Woods, who has been on Ferentz’s staff since 2008, and served in the coordinator role since 2018. Woods is now in the same role and the assistant head coach for Pat Fitzgerald’s new staff at Michigan State. Chris Polizzi was promoted to the new role and has the task of keeping Iowa’s annually elite special teams at that level. The first task is to find a replacement for two-time All-Big Ten return specialist Kaden Wetjen and replacing both his kicker and punter.
+The guide argues the biggest single loss may be special teams coordinator LeVar Woods, on Ferentz's staff since 2008 and coordinator since 2018, who left for the same role and an assistant head coach title under Pat Fitzgerald at Michigan State. Chris Polizzi is promoted and must sustain an annually elite unit while replacing two-time All-Big Ten return specialist Kaden Wetjen plus both the kicker and punter. *(p. 155)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -365,6 +325,8 @@ No source conflict identified for this team.
 | 5, 8, 12, 13, 19, 38, 130, 150, 166, 167, 168, 191, 254, 337 | Other pages naming this team |
 
 This team is named in **32 sentences across 16 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 8, 12, 13, 19, 38, 130, 150, 166, 167, 168, 191, 254, 337.
 
 ## 29. Cross-Links
 

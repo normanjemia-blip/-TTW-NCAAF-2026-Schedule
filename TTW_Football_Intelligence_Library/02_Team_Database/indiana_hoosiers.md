@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 10.2–1.8 overall, 7.2–1.8 in conference |
 | **Schedule strength** | 43.83 (#54 toughest of 138) |
 
-### Season outlook as written in the guide (p. 152)
+### Season outlook — VSiN's analysis in reference form (p. 152)
 
-Indiana football begins “Chapter 3” as Curt Cignetti calls it on the heels of becoming the first team in the modern era to go 16-0 and win the National Championship. Unfortunately for Cignetti’s program, there is already a famous movie titled “Hoosiers” because last season is certainly worthy of having its story told in a film as the longtime doormat of the Big Ten became a college football powerhouse. Despite the loss of Heisman Trophy Winner and No. 1 overall NFL Draft pick Fernando Mendoza, along with seven other draft picks (eight in all, the program record) and eight UFAs, the cupboard is not bare. Indiana is not going the way of a one-hit wonder, as they are priced at -350 to return to the CFP. Cignetti kept his staff intact plus returns 10 starters (six on defense for Broyles Award winning defensive coordinator Bryant Haines) and adds eight other Power Four starters by way of the portal, including TCU QB Josh Hoover, the current active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games (31 starts), who will start behind arguably the best offensive line in college football. Under 10.5 10.5 is the right number for Indiana’s win total when you look at another manageable schedule where the Hoosiers avoid a double revenge spot with Oregon (perhaps until the Big 10 Championship Game) and will be favored in every game apart from Ohio State (small home dog). Indiana is likely to return to the College Football Playoff for a third consecutive season under Cignetti (27-2 in two years), but there are a couple of tricky spots (at Nebraska, at Washington, vs. USC) where they can lose a close one. The Hoosiers are also +37 in turnover margin over the last two seasons and at some point, one would think that would regress to the mean at least a little bit. Going over 10.5 is buying at the top of the market, but all Cignetti does is win. Google him!
+- Indiana begins what Curt Cignetti calls Chapter 3 after going 16-0 and winning the national championship — the first team in the modern era to do so, turning a longtime Big Ten doormat into a powerhouse. *(p. 152)*
+- Losses are heavy: Heisman winner and No. 1 overall pick Fernando Mendoza, seven other draft picks (eight in all, a programme record) and eight undrafted free agents. The guide's judgement is that the cupboard is nonetheless not bare. *(p. 152)*
+- Market context given: Indiana is -350 to return to the playoff, which the guide reads as the market rejecting a one-hit-wonder view. *(p. 152)*
+- Cignetti kept his staff intact and returns 10 starters, six on defense for Broyles Award-winning coordinator Bryant Haines, and added eight further Power Four starters through the portal. *(p. 152)*
+- TCU transfer Josh Hoover arrives as the active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games and 31 starts, and will play behind what the guide calls arguably the best offensive line in college football. *(p. 152)*
+- Recommendation is Under 10.5 wins, with the guide explicitly calling 10.5 the right number rather than a mispriced one. Indiana avoids a double revenge spot with Oregon until a possible Big Ten Championship Game and should be favored in every game except Ohio State, where it is a small home dog. *(p. 152)*
+- It still expects a third straight playoff appearance under Cignetti, who is 27-2 in two years, while identifying tricky spots at Nebraska, at Washington and against USC where a close loss is plausible. *(p. 152)*
+- A regression argument is offered: Indiana is +37 in turnover margin over two seasons and the guide expects some reversion. Its closing view is that going over 10.5 means buying at the top of the market, tempered by the observation that all Cignetti does is win. *(p. 152)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -79,18 +88,10 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Cignetti kept his staff intact plus returns 10 starters (six on defense for Broyles Award winning defensive coordinator Bryant Haines) and adds eight other Power Four starters by way of the portal, including TCU QB Josh Hoover, the current active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games (31 starts), who will start behind arguably the best offensive line in college football. *(p. 152)*
-- Hoover does not have the size nor is he the athlete that Mendoza was, so Cignetti and offensive coordinator Mike Shanahan will likely run less RPO than the Hoosiers did last season. *(p. 153)*
-- One of the more notable Coach Cig-isms is his fondness for saying “production over potential”. *(p. 153)*
+- Cignetti kept his staff intact and returns 10 starters, six on defense for Broyles Award-winning coordinator Bryant Haines, and added eight further Power Four starters through the portal. *(p. 152)*
+- **How will the Hoosiers handle being the 'Hunted' instead of being the 'Hunter'?** Indiana was always a circled game, usually as an opponent's homecoming; now it is circled as defending national champion. The guide expects Cignetti to keep operating with a chip on his shoulder to prove 2025 was not a fluke, and expects doubters precisely because it is Indiana — which it suggests suits him. It leaves the underlying question open: whether the programme culture can sustain this or was lightning in a bottle. *(p. 153)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Obviously they lost Heisman Trophy winner Fernando Mendoza as the NFL’s No. 1 overall draft pick, but coach Curt Cignetti has to be given his due for one of the biggest turnarounds in not only CFB but sports history with the Indiana football program, and I’m confident he’ll have them in the running again. *(p. 6)*
-- Like Cignetti and the JMU crew from two years ago at Indiana, these players and coaches will have a chip on their shoulders to prove they can play against the step up in class against tougher competition. *(p. 12)*
-- The Michigan monkey, meaning a four-game losing streak, is finally off coach Ryan Day’s back, but now he’s got a Curt Cignetti problem and plays at Indiana in October. 4. *(p. 18)*
-- Third-year coach Jedd Fisch (9-4 last season) should carry playoff hopes into November, when the Huskies host Indiana and Penn State and finish at Oregon. 17. *(p. 19)*
-- Bob Chesney UCLA The hire of former James Madison head coach Curt Cignetti seemed to work out at Indiana, and now the Bruins’ athletic department is hoping for the same with Chesney, who was at Holy Cross prior to his two seasons with the Dukes. *(p. 32)*
-- A coach who waited several years for his first big shot finally gets it with the losingest program in college football history, and Indiana goes 16-0 to win the national championship in his second season. *(p. 38)*
+Also referenced on **pp. 6, 12, 18, 19, 32, 38, 85, 95, 172, 178** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -98,16 +99,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 152)*.
 
-- Cignetti kept his staff intact plus returns 10 starters (six on defense for Broyles Award winning defensive coordinator Bryant Haines) and adds eight other Power Four starters by way of the portal, including TCU QB Josh Hoover, the current active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games (31 starts), who will start behind arguably the best offensive line in college football. *(p. 152)*
+- TCU transfer Josh Hoover arrives as the active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games and 31 starts, and will play behind what the guide calls arguably the best offensive line in college football. *(p. 152)*
+- **Can Hoover handle it?** Hoover was 19-12 as a productive TCU starter and can throw, but ball security has been the weakness — 33 turnovers in 36 career games. The guide argues the environment should fix much of that, noting no FBS team has fewer giveaways over the last two seasons than Indiana's 17. It also flags a scheme consequence: Hoover lacks Mendoza's size and athleticism, so Cignetti and coordinator Mike Shanahan will likely run less RPO. *(p. 153)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Indiana QB Fernando Mendoza was 55-1 to win the Heisman before the season last year, and Colorado’s Travis Hunter was 50-1 two years ago. *(p. 15)*
-- TCU After Indiana swooped in to swipe quarterback Josh Hoover, the Horned Frogs looked to the Ivy League for an answer. *(p. 20)*
-- Mendoza managed to outplay several other overhyped quarterbacks en route to winning the Heisman Trophy, leading Indiana to the national championship and becoming the No. 1 pick in the NFL Draft. *(p. 45)*
-- Only 52 teams are returning their starting quarterbacks from last season, and several of the country’s most prominent teams from a year ago are not, most notably title game participants Indiana and Miami (FL). *(p. 46)*
-- Tayven Jackson originally went to Tennessee and got some starts for Indiana and also UCF, so he’s the clubhouse leader to be the QB. *(p. 63)*
-- Indiana (+250) will attempt to defend with heavy retention on the offensive line and defense to go along with a portal overhaul that includes TCU transfer QB Josh Hoover to replace Mendoza. *(p. 149)*
+Also referenced on **pp. 15, 20, 45, 46, 63, 149** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -123,17 +118,12 @@ The Stability Score table prints the same figure independently: **16 returning s
 
 ## 11. Transfer Portal
 
-- Cignetti kept his staff intact plus returns 10 starters (six on defense for Broyles Award winning defensive coordinator Bryant Haines) and adds eight other Power Four starters by way of the portal, including TCU QB Josh Hoover, the current active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games (31 starts), who will start behind arguably the best offensive line in college football. *(p. 152)*
-- There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). *(p. 153)*
+- Cignetti kept his staff intact and returns 10 starters, six on defense for Broyles Award-winning coordinator Bryant Haines, and added eight further Power Four starters through the portal. *(p. 152)*
+- TCU transfer Josh Hoover arrives as the active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games and 31 starts, and will play behind what the guide calls arguably the best offensive line in college football. *(p. 152)*
+- **Can Hoover handle it?** Hoover was 19-12 as a productive TCU starter and can throw, but ball security has been the weakness — 33 turnovers in 36 career games. The guide argues the environment should fix much of that, noting no FBS team has fewer giveaways over the last two seasons than Indiana's 17. It also flags a scheme consequence: Hoover lacks Mendoza's size and athleticism, so Cignetti and coordinator Mike Shanahan will likely run less RPO. *(p. 153)*
+- **Production AND potential?** Set against Cignetti's stated preference for production over potential, Indiana loses Mendoza, its top two receivers including first-rounder Omar Cooper Jr., and its top two rushers. Talent remains in Charlie Becker and Michigan State transfer Nick Marsh (1,311 yards and nine touchdowns over two years), with Khobie Martin (508 yards, six touchdowns) and Turbo Richard (1,027 yards, 11 touchdowns over two years at Boston College) at running back. The guide's reservation is not only talent but culture: many of the departures were the James Madison players who came with Cignetti. *(p. 153)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The brother of Heisman Trophy winner Fernando Mendoza transferred from Indiana, and running back Justice Haynes transferred from Michigan. *(p. 20)*
-- Dykes also did well in bringing in Harvard transfer Jaden Craig to replace Josh Hoover, who transferred to Indiana. *(p. 138)*
-- Indiana (+250) will attempt to defend with heavy retention on the offensive line and defense to go along with a portal overhaul that includes TCU transfer QB Josh Hoover to replace Mendoza. *(p. 149)*
-- The answer to that question in recent years is a definitive ‘no’ as the turtle has not needed to be feared on the ground since they had a 1000-yard rusher in 2022 (Roman Hemby, who later transferred to Indiana). *(p. 157)*
-- Michigan State’s top three receivers from last season, including one of the big gets in the portal Nick Marsh (Indiana), are now gone. *(p. 161)*
-- For comparison, Cignetti brought in 29 transfers, including 12 from his team at James Madison (22 were from the Group of Five or lower) during his first season at Indiana in 2024. *(p. 173)*
+Referenced in the guide on **pp. 20, 138, 149, 157, 161, 173, 197** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -141,31 +131,18 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Cignetti kept his staff intact plus returns 10 starters (six on defense for Broyles Award winning defensive coordinator Bryant Haines) and adds eight other Power Four starters by way of the portal, including TCU QB Josh Hoover, the current active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games (31 starts), who will start behind arguably the best offensive line in college football. *(p. 152)*
-- Hoover does not have the size nor is he the athlete that Mendoza was, so Cignetti and offensive coordinator Mike Shanahan will likely run less RPO than the Hoosiers did last season. *(p. 153)*
-- His team loses a lot of offensive production with not only Mendoza, but the top two receivers, including first-rounder Omar Cooper Jr., and the top two rushers. *(p. 153)*
-- There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). *(p. 153)*
+- Losses are heavy: Heisman winner and No. 1 overall pick Fernando Mendoza, seven other draft picks (eight in all, a programme record) and eight undrafted free agents. The guide's judgement is that the cupboard is nonetheless not bare. *(p. 152)*
+- TCU transfer Josh Hoover arrives as the active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games and 31 starts, and will play behind what the guide calls arguably the best offensive line in college football. *(p. 152)*
+- **Can Hoover handle it?** Hoover was 19-12 as a productive TCU starter and can throw, but ball security has been the weakness — 33 turnovers in 36 career games. The guide argues the environment should fix much of that, noting no FBS team has fewer giveaways over the last two seasons than Indiana's 17. It also flags a scheme consequence: Hoover lacks Mendoza's size and athleticism, so Cignetti and coordinator Mike Shanahan will likely run less RPO. *(p. 153)*
+- **Production AND potential?** Set against Cignetti's stated preference for production over potential, Indiana loses Mendoza, its top two receivers including first-rounder Omar Cooper Jr., and its top two rushers. Talent remains in Charlie Becker and Michigan State transfer Nick Marsh (1,311 yards and nine touchdowns over two years), with Khobie Martin (508 yards, six touchdowns) and Turbo Richard (1,027 yards, 11 touchdowns over two years at Boston College) at running back. The guide's reservation is not only talent but culture: many of the departures were the James Madison players who came with Cignetti. *(p. 153)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Indiana ranked No. 2 in scoring defense (11.7 ppg) but will be near the top again despite losing some key players. 7. *(p. 18)*
-- Indiana (+250) will attempt to defend with heavy retention on the offensive line and defense to go along with a portal overhaul that includes TCU transfer QB Josh Hoover to replace Mendoza. *(p. 149)*
-- Michigan State’s top three receivers from last season, including one of the big gets in the portal Nick Marsh (Indiana), are now gone. *(p. 161)*
-- He brings along 11 assistants (including offensive coordinator Taylor Mouser) and staff with him from Ames plus 24 players, perhaps looking to duplicate Curt Cignetti’s success of the last two years at Indiana. *(p. 172)*
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
+Referenced in the guide on **pp. 18, 149, 161, 172, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Cignetti kept his staff intact plus returns 10 starters (six on defense for Broyles Award winning defensive coordinator Bryant Haines) and adds eight other Power Four starters by way of the portal, including TCU QB Josh Hoover, the current active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games (31 starts), who will start behind arguably the best offensive line in college football. *(p. 152)*
+- Cignetti kept his staff intact and returns 10 starters, six on defense for Broyles Award-winning coordinator Bryant Haines, and added eight further Power Four starters through the portal. *(p. 152)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Indiana ranked No. 2 in scoring defense (11.7 ppg) but will be near the top again despite losing some key players. 7. *(p. 18)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- Indiana (+250) will attempt to defend with heavy retention on the offensive line and defense to go along with a portal overhaul that includes TCU transfer QB Josh Hoover to replace Mendoza. *(p. 149)*
-- Davis, last year’s group struggled to run the football consistently and looked overmatched against the better defensive lines they faced including Duke, Indiana, Ohio State, and Wisconsin as they gave up an average of five sacks to those units. *(p. 151)*
-- Then, they gave up five sacks against Indiana and five more against Miami. *(p. 169)*
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
+Referenced in the guide on **pp. 18, 95, 149, 151, 169, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -227,7 +204,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- It still expects a third straight playoff appearance under Cignetti, who is 27-2 in two years, while identifying tricky spots at Nebraska, at Washington and against USC where a close loss is plausible. *(p. 152)*
 
 ## 19. Win Total Discussion
 
@@ -257,32 +234,19 @@ Prices printed on the team page *(p. 153)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Indiana is not going the way of a one-hit wonder, as they are priced at -350 to return to the CFP. *(p. 152)*
-- Going over 10.5 is buying at the top of the market, but all Cignetti does is win. *(p. 152)*
+- Market context given: Indiana is -350 to return to the playoff, which the guide reads as the market rejecting a one-hit-wonder view. *(p. 152)*
+- Recommendation is Under 10.5 wins, with the guide explicitly calling 10.5 the right number rather than a mispriced one. Indiana avoids a double revenge spot with Oregon until a possible Big Ten Championship Game and should be favored in every game except Ohio State, where it is a small home dog. *(p. 152)*
+- A regression argument is offered: Indiana is +37 in turnover margin over two seasons and the guide expects some reversion. Its closing view is that going over 10.5 means buying at the top of the market, tempered by the observation that all Cignetti does is win. *(p. 152)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- INDIANA TO WIN BIG TEN (+245) Also last year, I wasn’t a believer in Indiana for most of the season, but fortunately grabbed the Hoosiers at +330 to win the College Football Playoff in the VSiN Bowl Betting Guide and rode them to the title. *(p. 6)*
-- It looks like a three-horse race in the Big Ten between Indiana, Ohio State and Oregon, so +245 is a fair price. *(p. 6)*
-- OREGON TO REACH BIG TEN CHAMPIONSHIP GAME (+100) DraftKings had Ohio State and Indiana as odds-on prices to make it to the Big Ten title game as of the Tuesday before the CFB Guide came out. *(p. 11)*
-- OREGON TO REACH BIG TEN TITLE GAME (+100) I personally view Oregon as the favorite in the Big Ten, so seeing them behind both Ohio State and Indiana just to make the title game — and with a plus sign in front of the price — felt like a must-play. *(p. 14)*
-- Indiana, the 16-0 national champion, has not been defeated since it was a 7-point underdog in a 27-17 loss at Notre Dame in the first round of the 2024 playoff. *(p. 17)*
-- “One could throw Texas, Georgia, Ohio State, Oregon, Indiana, Miami and Notre Dame into a hat and pull them out in any order and I’d probably say, ‘OK, I can buy that.’” Notre Dame will be favored in all 12 games and likely a double-digit favorite in 10 of those games. *(p. 17)*
+Also referenced on **pp. 6, 11, 14, 17, 38, 161, 206** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Unfortunately for Cignetti’s program, there is already a famous movie titled “Hoosiers” because last season is certainly worthy of having its story told in a film as the longtime doormat of the Big Ten became a college football powerhouse. *(p. 152)*
-- Hoover does not have the size nor is he the athlete that Mendoza was, so Cignetti and offensive coordinator Mike Shanahan will likely run less RPO than the Hoosiers did last season. *(p. 153)*
-- Cignetti will continue to operate with a bit of a chip on his shoulder to prove that last season was not a fluke. *(p. 153)*
+- Indiana begins what Curt Cignetti calls Chapter 3 after going 16-0 and winning the national championship — the first team in the modern era to do so, turning a longtime Big Ten doormat into a powerhouse. *(p. 152)*
+- A regression argument is offered: Indiana is +37 in turnover margin over two seasons and the guide expects some reversion. Its closing view is that going over 10.5 means buying at the top of the market, tempered by the observation that all Cignetti does is win. *(p. 152)*
+- **How will the Hoosiers handle being the 'Hunted' instead of being the 'Hunter'?** Indiana was always a circled game, usually as an opponent's homecoming; now it is circled as defending national champion. The guide expects Cignetti to keep operating with a chip on his shoulder to prove 2025 was not a fluke, and expects doubters precisely because it is Indiana — which it suggests suits him. It leaves the underlying question open: whether the programme culture can sustain this or was lightning in a bottle. *(p. 153)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- INDIANA TO WIN BIG TEN (+245) Also last year, I wasn’t a believer in Indiana for most of the season, but fortunately grabbed the Hoosiers at +330 to win the College Football Playoff in the VSiN Bowl Betting Guide and rode them to the title. *(p. 6)*
-- They avoid Indiana altogether, who appeared to be their Kryptonite last season; road trips to USC and Ohio State will be challenging, and they do welcome Michigan and Washington to Autzen Stadium, but my gut says they don’t lose more than one of those games. *(p. 14)*
-- Indiana QB Fernando Mendoza was 55-1 to win the Heisman before the season last year, and Colorado’s Travis Hunter was 50-1 two years ago. *(p. 15)*
-- At the end of last season, Notre Dame was No. 3 in my power rankings, behind only Ohio State and Indiana. *(p. 17)*
-- Indiana, the 16-0 national champion, has not been defeated since it was a 7-point underdog in a 27-17 loss at Notre Dame in the first round of the 2024 playoff. *(p. 17)*
-- The downside is the Ducks were blown out by eventual national champions Ohio State and Indiana in playoff games the past two years. *(p. 18)*
+Referenced in the guide on **pp. 6, 14, 15, 17, 18, 19, 20, 46, 90, 149, 151, 154, 157, 161, 166, 168, 170, 171, 172, 173, 215** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -327,16 +291,10 @@ As printed on p. 153. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Indiana is not going the way of a one-hit wonder, as they are priced at -350 to return to the CFP. *(p. 152)*
-- Cignetti kept his staff intact plus returns 10 starters (six on defense for Broyles Award winning defensive coordinator Bryant Haines) and adds eight other Power Four starters by way of the portal, including TCU QB Josh Hoover, the current active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games (31 starts), who will start behind arguably the best offensive line in college football. *(p. 152)*
-- Indiana is likely to return to the College Football Playoff for a third consecutive season under Cignetti (27-2 in two years), but there are a couple of tricky spots (at Nebraska, at Washington, vs. *(p. 152)*
-- The skill position talent could be better for Indiana, but the losses, primarily those who came with Cig from James Madison, were strong culture guys. *(p. 153)*
-- Is the program culture strong enough to sustain or was it just “lightning in a bottle”? *(p. 153)*
-- Texas and Georgia are the SEC’s best bets to break the Big Ten’s threeyear championship reign strung together by Michigan, Ohio State and Indiana. *(p. 38)*
-- I actually think 12 is a very practical number, and beyond 16 will include too many teams with no chance of winning the title.” Not long ago, before Cignetti showed up and changed everything, Indiana seemed to be a team with no shot of winning a championship. nobody believed then. nobody’s betting now. by Matt Youmans *(p. 38)*
-- Mendoza managed to outplay several other overhyped quarterbacks en route to winning the Heisman Trophy, leading Indiana to the national championship and becoming the No. 1 pick in the NFL Draft. *(p. 45)*
-- The only other double-digit win projections go to Ohio State and Georgia. • Assuming the projections play out accurately, besides Texas Tech, Oregon, Indiana, Miami (FL), and Ohio State the other Power Four conference teams that would be expected to contend for a spot in the College Football Playoff this year would be Georgia, Texas, Penn State, BYU, and perhaps SMU or Utah. *(p. 46)*
-- An eight-win improvement year over year was just incredible, especially with two Power Four teams to start the season in Wake Forest and Indiana. *(p. 195)*
+- Indiana begins what Curt Cignetti calls Chapter 3 after going 16-0 and winning the national championship — the first team in the modern era to do so, turning a longtime Big Ten doormat into a powerhouse. *(p. 152)*
+- Market context given: Indiana is -350 to return to the playoff, which the guide reads as the market rejecting a one-hit-wonder view. *(p. 152)*
+- Cignetti kept his staff intact and returns 10 starters, six on defense for Broyles Award-winning coordinator Bryant Haines, and added eight further Power Four starters through the portal. *(p. 152)*
+- TCU transfer Josh Hoover arrives as the active FBS passing leader with 9,629 yards and 71 touchdowns in 36 games and 31 starts, and will play behind what the guide calls arguably the best offensive line in college football. *(p. 152)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -344,35 +302,31 @@ As printed on p. 153. Each category carries a value and a national rank.
 
 - Makinen projects **10.2 wins** against a posted total of 10.5 — **-0.3** against this team.
 - The team page recommends **UNDER 10.5**.
-- Despite the loss of Heisman Trophy Winner and No. 1 overall NFL Draft pick Fernando Mendoza, along with seven other draft picks (eight in all, the program record) and eight UFAs, the cupboard is not bare. *(p. 152)*
-- The Hoosiers are also +37 in turnover margin over the last two seasons and at some point, one would think that would regress to the mean at least a little bit. *(p. 152)*
-- The skill position talent could be better for Indiana, but the losses, primarily those who came with Cig from James Madison, were strong culture guys. *(p. 153)*
-- Obviously they lost Heisman Trophy winner Fernando Mendoza as the NFL’s No. 1 overall draft pick, but coach Curt Cignetti has to be given his due for one of the biggest turnarounds in not only CFB but sports history with the Indiana football program, and I’m confident he’ll have them in the running again. *(p. 6)*
-- Indiana, the 16-0 national champion, has not been defeated since it was a 7-point underdog in a 27-17 loss at Notre Dame in the first round of the 2024 playoff. *(p. 17)*
-- Taking a look at the 2026 slate, it could be a difficult three-game start for Brown & Co. with a trip to defending champion Indiana first up. *(p. 26)*
-- I still don’t know how he did it.” Indiana lost its 2023 season finale at Purdue to finish 3-9. *(p. 38)*
-- “Whether the Irish are good enough to beat Texas and Ohio State is a different question.” Two years ago, the Irish eliminated Indiana and Cignetti in the first round of the CFP and fell to Ohio State in the national title game. *(p. 38)*
-- The Hurricanes were unable to finish the job and lost to Indiana, but Mario Cristobal was able to flip the proverbial bird to the doubters and haters with wins over Texas A&M, Ohio State, and Ole Miss before the 27-21 loss to the Hoosiers. *(p. 79)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
+- Losses are heavy: Heisman winner and No. 1 overall pick Fernando Mendoza, seven other draft picks (eight in all, a programme record) and eight undrafted free agents. The guide's judgement is that the cupboard is nonetheless not bare. *(p. 152)*
+- It still expects a third straight playoff appearance under Cignetti, who is 27-2 in two years, while identifying tricky spots at Nebraska, at Washington and against USC where a close loss is plausible. *(p. 152)*
+- A regression argument is offered: Indiana is +37 in turnover margin over two seasons and the guide expects some reversion. Its closing view is that going over 10.5 means buying at the top of the market, tempered by the observation that all Cignetti does is win. *(p. 152)*
+- Hoover was 19-12 as a productive TCU starter and can throw, but ball security has been the weakness — 33 turnovers in 36 career games. The guide argues the environment should fix much of that, noting no FBS team has fewer giveaways over the last two seasons than Indiana's 17. It also flags a scheme consequence: Hoover lacks Mendoza's size and athleticism, so Cignetti and coordinator Mike Shanahan will likely run less RPO. *(p. 153)*
+- Indiana was always a circled game, usually as an opponent's homecoming; now it is circled as defending national champion. The guide expects Cignetti to keep operating with a chip on his shoulder to prove 2025 was not a fluke, and expects doubters precisely because it is Indiana — which it suggests suits him. It leaves the underlying question open: whether the programme culture can sustain this or was lightning in a bottle. *(p. 153)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 153)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 153)*. Its analysis, in reference form:
 
 ### Can Hoover handle it?
 
-“Hoover can handle it” was the 1989 ad slogan for the Hoover appliance company. Josh Hoover was 19-12 as a productive starter at TCU and has shown that he can fling the football. What he has not always shown is the ability to take care of the football, having amassed 33 turnovers in 36 career games. Based on the last two seasons in Bloomington, that turnover habit has a good chance of being rectified, considering no team has fewer giveaways over the last two seasons in FBS than Indiana (17). Hoover does not have the size nor is he the athlete that Mendoza was, so Cignetti and offensive coordinator Mike Shanahan will likely run less RPO than the Hoosiers did last season.
+Hoover was 19-12 as a productive TCU starter and can throw, but ball security has been the weakness — 33 turnovers in 36 career games. The guide argues the environment should fix much of that, noting no FBS team has fewer giveaways over the last two seasons than Indiana's 17. It also flags a scheme consequence: Hoover lacks Mendoza's size and athleticism, so Cignetti and coordinator Mike Shanahan will likely run less RPO. *(p. 153)*
 
 ### Production AND potential?
 
-One of the more notable Coach Cig-isms is his fondness for saying “production over potential”. His team loses a lot of offensive production with not only Mendoza, but the top two receivers, including first-rounder Omar Cooper Jr., and the top two rushers. There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). The skill position talent could be better for Indiana, but the losses, primarily those who came with Cig from James Madison, were strong culture guys.
+Set against Cignetti's stated preference for production over potential, Indiana loses Mendoza, its top two receivers including first-rounder Omar Cooper Jr., and its top two rushers. Talent remains in Charlie Becker and Michigan State transfer Nick Marsh (1,311 yards and nine touchdowns over two years), with Khobie Martin (508 yards, six touchdowns) and Turbo Richard (1,027 yards, 11 touchdowns over two years at Boston College) at running back. The guide's reservation is not only talent but culture: many of the departures were the James Madison players who came with Cignetti. *(p. 153)*
 
-### How will the Hoosiers handle being the ‘Hunted’ instead of being the ‘Hunter’?
+### How will the Hoosiers handle being the 'Hunted' instead of being the 'Hunter'?
 
-Indiana has always been a game circled on opponents’ schedules typically because they always seemed to be the Homecoming game. Now, the Hoosiers are circled because everyone gets up for the defending National Champions. Cignetti will continue to operate with a bit of a chip on his shoulder to prove that last season was not a fluke. Because they are Indiana there will be a lot of doubters that they can make another run in the CFP, which is probably how Cignetti and the Hoosiers like it. Is the program culture strong enough to sustain or was it just “lightning in a bottle”?
+Indiana was always a circled game, usually as an opponent's homecoming; now it is circled as defending national champion. The guide expects Cignetti to keep operating with a chip on his shoulder to prove 2025 was not a fluke, and expects doubters precisely because it is Indiana — which it suggests suits him. It leaves the underlying question open: whether the programme culture can sustain this or was lightning in a bottle. *(p. 153)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -390,6 +344,8 @@ No source conflict identified for this team.
 | 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 26, 32, 38, 41, 45, 46, 62, 63, 79, 85, 90, 95, 138, 150, 151, 154, 156, 157, 161, 162, 164, 166, 168, 169, 170, 171, 172, 173, 174, 178, 181, 183, 184, 195, 197, 206, 215, 236, 241, 275, 326, 330 | Other pages naming this team |
 
 This team is named in **112 sentences across 59 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 26, 32, 38, 41, 45, 46, 62, 63, 79, 85, 90, 95, 138, 150, 151, 154, 156, 157, 161, 162, 164, 166, 168, 169, 170, 171, 172, 173, 174, 178, 181, 183, 184, 195, 197, 206, 215, 236, 241, 275, 326, 330.
 
 ## 29. Cross-Links
 

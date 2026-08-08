@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 4.9–7.1 overall, 2.4–6.6 in conference |
 | **Schedule strength** | 50.04 (#11 toughest of 138) |
 
-### Season outlook as written in the guide (p. 166)
+### Season outlook — VSiN's analysis in reference form (p. 166)
 
-A new era of Northwestern football begins on October 2, as the new, $862 million Ryan Field officially opens when the Wildcats host Penn State. This is now David Braun’s program as the Pat Fitzgerald chapter finally closed with a settled lawsuit and Fitzgerald returning to coaching at Michigan State (they play on October 17). While not an official trade, Michigan State now has Northwestern’s old coach, while the Wildcats have Michigan State’s old quarterback, as Aidan Chiles transfers into Evanston. Chiles had the plug pulled on him after nine games last season in East Lansing but gets a second chance in the Big Ten with new offensive coordinator Chip Kelly, who finally gives Northwestern a creative mind on offense, along with new QB coach Jerry Neuheisel, who recruited Chiles out of high school. Under 5.5 While there is a great deal of excitement surrounding Northwestern football with the opening of the new Ryan Field. That excitement gets a dose of reality though when you look at the Wildcats’ schedule. They face all three playoff teams from the Big Ten last season – Indiana, Oregon, and Ohio State. Not only that, but they also play all three of them on the road. The first game at Ryan Field vs. Penn State should be emotional and so should facing former coach Fitzgerald at Michigan State. Plus, the Wildcats have games with Penn State, Iowa, and Illinois who were also bowl teams last season. Chiles’ accuracy and ball security issues could also reappear. The defense can only carry this team so far against this bear of a schedule.
+- A new era begins on 2 October when the $862 million Ryan Field opens against Penn State. The guide marks the Fitzgerald chapter as finally closed following the settled lawsuit and his return to coaching at Michigan State — a team Northwestern plays on 17 October. *(p. 166)*
+- It notes the symmetry without overstating it: Michigan State has Northwestern's old coach and Northwestern has Michigan State's old quarterback in Aidan Chiles. *(p. 166)*
+- Chiles was benched after nine games in East Lansing and gets a second Big Ten chance with new coordinator Chip Kelly, who the guide says finally gives Northwestern a creative offensive mind, plus new quarterbacks coach Jerry Neuheisel, who recruited him out of high school. *(p. 166)*
+- Recommendation is Under 5.5 wins. The guide acknowledges genuine excitement around the new stadium before applying what it calls a dose of reality. *(p. 166)*
+- Northwestern faces all three of the Big Ten's playoff teams from last season — Indiana, Oregon and Ohio State — and plays all three on the road. It also meets Penn State, Iowa and Illinois, all bowl teams. *(p. 166)*
+- Two emotional spots are flagged: the first game at the new Ryan Field against Penn State and facing Fitzgerald at Michigan State. *(p. 166)*
+- Its closing reservations are Chiles' accuracy and ball security potentially reappearing, and a judgement that the defense can only carry the team so far against this schedule. *(p. 166)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,21 +86,13 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- This is now David Braun’s program as the Pat Fitzgerald chapter finally closed with a settled lawsuit and Fitzgerald returning to coaching at Michigan State (they play on October 17). *(p. 166)*
-- While not an official trade, Michigan State now has Northwestern’s old coach, while the Wildcats have Michigan State’s old quarterback, as Aidan Chiles transfers into Evanston. *(p. 166)*
-- Chiles had the plug pulled on him after nine games last season in East Lansing but gets a second chance in the Big Ten with new offensive coordinator Chip Kelly, who finally gives Northwestern a creative mind on offense, along with new QB coach Jerry Neuheisel, who recruited Chiles out of high school. *(p. 166)*
-- Penn State should be emotional and so should facing former coach Fitzgerald at Michigan State. *(p. 166)*
-- Chiles followed his old Oregon State coach Jonathan Smith to Michigan State two years ago. *(p. 167)*
-- The 2023 Big Ten Coach of the Year showed that he could do more with less and successfully navigated the difficult times surrounding Pat Fitzgerald’s termination. *(p. 167)*
-- Nevertheless, he will have to coach up some G6, FCS, and D-II programs that are in line to start for the Wildcats. *(p. 167)*
+- A new era begins on 2 October when the $862 million Ryan Field opens against Penn State. The guide marks the Fitzgerald chapter as finally closed following the settled lawsuit and his return to coaching at Michigan State — a team Northwestern plays on 17 October. *(p. 166)*
+- It notes the symmetry without overstating it: Michigan State has Northwestern's old coach and Northwestern has Michigan State's old quarterback in Aidan Chiles. *(p. 166)*
+- Chiles was benched after nine games in East Lansing and gets a second Big Ten chance with new coordinator Chip Kelly, who the guide says finally gives Northwestern a creative offensive mind, plus new quarterbacks coach Jerry Neuheisel, who recruited him out of high school. *(p. 166)*
+- **Can Chip Kelly rebuild Aidan Chiles?** Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
+- **Can David Braun get lower-level talent to play up in the Big Ten?** Braun's background is extensively FCS, at Northern Iowa and North Dakota State, and as 2023 Big Ten Coach of the Year he showed he could do more with less while navigating the fallout from Fitzgerald's termination. The guide's caveat is concrete rather than rhetorical: he will have to coach up players from Group of Six, FCS and Division II programmes who are in line to start. *(p. 167)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NORTHWESTERN A 19-19 record does not reflect how well David Braun has coached up the Wildcats in his three years. *(p. 20)*
-- Northwestern’s strength should be its defense, although the coaching staff is intriguing with Chip Kelly taking over as offensive coordinator. *(p. 20)*
-- Mike Jacobs Toledo Jacobs, a Maumee native from northwestern Ohio, worked his way up the hard way, serving as the head coach at Division II Notre Dame College (OH) and Lenoir-Rhyne before getting an opportunity in the FCS ranks at Mercer. *(p. 34)*
-- Aside from the Buckeyes, the rest of the road schedule is not all that arduous, going to Maryland and facing two teams with new coaches – Michigan State and Northwestern. *(p. 150)*
-- Dantonio’s teams at Michigan State were always defensefirst and built on toughness, so Michigan State looked to the days of Big Ten past to find a coach that shares that same mentality and may have found it with Northwestern’s all-time winningest coach Pat Fitzgerald. *(p. 160)*
+Also referenced on **pp. 20, 34, 150, 160** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -100,9 +100,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 166)*.
 
-- While not an official trade, Michigan State now has Northwestern’s old coach, while the Wildcats have Michigan State’s old quarterback, as Aidan Chiles transfers into Evanston. *(p. 166)*
-- Chiles had the plug pulled on him after nine games last season in East Lansing but gets a second chance in the Big Ten with new offensive coordinator Chip Kelly, who finally gives Northwestern a creative mind on offense, along with new QB coach Jerry Neuheisel, who recruited Chiles out of high school. *(p. 166)*
-- Chiles is the athletic and mobile quarterback that Kelly likes in his fast, no-huddle spread offense. *(p. 167)*
+- It notes the symmetry without overstating it: Michigan State has Northwestern's old coach and Northwestern has Michigan State's old quarterback in Aidan Chiles. *(p. 166)*
+- Chiles was benched after nine games in East Lansing and gets a second Big Ten chance with new coordinator Chip Kelly, who the guide says finally gives Northwestern a creative offensive mind, plus new quarterbacks coach Jerry Neuheisel, who recruited him out of high school. *(p. 166)*
+- Its closing reservations are Chiles' accuracy and ball security potentially reappearing, and a judgement that the defense can only carry the team so far against this schedule. *(p. 166)*
+- **Can Chip Kelly rebuild Aidan Chiles?** Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
 
 ## 10. Returning Production
 
@@ -118,38 +119,29 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- While not an official trade, Michigan State now has Northwestern’s old coach, while the Wildcats have Michigan State’s old quarterback, as Aidan Chiles transfers into Evanston. *(p. 166)*
+- It notes the symmetry without overstating it: Michigan State has Northwestern's old coach and Northwestern has Michigan State's old quarterback in Aidan Chiles. *(p. 166)*
+- **Can Chip Kelly rebuild Aidan Chiles?** Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
+- **Who can get after opposing passers?** Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Fitzgerald will turn to NC State transfer Kenny Soares, who was with him at Northwestern, to spark a pass rush. *(p. 161)*
+Referenced in the guide on **pp. 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Chiles had the plug pulled on him after nine games last season in East Lansing but gets a second chance in the Big Ten with new offensive coordinator Chip Kelly, who finally gives Northwestern a creative mind on offense, along with new QB coach Jerry Neuheisel, who recruited Chiles out of high school. *(p. 166)*
+
+Referenced in the guide on **pp. 166** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Chiles had the plug pulled on him after nine games last season in East Lansing but gets a second chance in the Big Ten with new offensive coordinator Chip Kelly, who finally gives Northwestern a creative mind on offense, along with new QB coach Jerry Neuheisel, who recruited Chiles out of high school. *(p. 166)*
-- Chiles is the athletic and mobile quarterback that Kelly likes in his fast, no-huddle spread offense. *(p. 167)*
-- One way to do that is to rely on a triple-threat rushing attack led by the returning Caleb Komolafe (941 yards, 11 TDs), speedy gadget back Joseph Hinton (486 yards), and Gavin Sawchuk (486 yards last year at Florida State). *(p. 167)*
+- **Can Chip Kelly rebuild Aidan Chiles?** Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Northwestern’s strength should be its defense, although the coaching staff is intriguing with Chip Kelly taking over as offensive coordinator. *(p. 20)*
+Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The defense can only carry this team so far against this bear of a schedule. *(p. 166)*
-- Northwestern was just 14th in the Big Ten with 23 sacks last season and nearly half of them came from the now departed Anto Saka and Aidan Hubbard. *(p. 167)*
-- Michael Kilbane (7.5 TFLs, 3.5 sacks) and defensive tackle Brendan Flakes cannot do it up front all by themselves, so much will be needed and expected from defensive end Jamaal Johnson (UCF) and linebacker Kobie McKinzie. *(p. 167)*
-- The secondary is the best unit on the team led by all-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell, and nickel Braden Turner (two INTs, two FF last season). *(p. 167)*
+- Its closing reservations are Chiles' accuracy and ball security potentially reappearing, and a judgement that the defense can only carry the team so far against this schedule. *(p. 166)*
+- **Who can get after opposing passers?** Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Northwestern’s strength should be its defense, although the coaching staff is intriguing with Chip Kelly taking over as offensive coordinator. *(p. 20)*
-- Dantonio’s teams at Michigan State were always defensefirst and built on toughness, so Michigan State looked to the days of Big Ten past to find a coach that shares that same mentality and may have found it with Northwestern’s all-time winningest coach Pat Fitzgerald. *(p. 160)*
-- Fitzgerald will turn to NC State transfer Kenny Soares, who was with him at Northwestern, to spark a pass rush. *(p. 161)*
+Referenced in the guide on **pp. 20, 160, 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -191,7 +183,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- Two emotional spots are flagged: the first game at the new Ryan Field against Penn State and facing Fitzgerald at Michigan State. *(p. 166)*
 
 ## 19. Win Total Discussion
 
@@ -212,25 +204,16 @@ Prices printed on the team page *(p. 167)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 5.5 wins. The guide acknowledges genuine excitement around the new stadium before applying what it calls a dose of reality. *(p. 166)*
+- Its closing reservations are Chiles' accuracy and ball security potentially reappearing, and a judgement that the defense can only carry the team so far against this schedule. *(p. 166)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- In fairness, the Warhawks have losses to Texas, Alabama, and Northwestern, and were an underdog in all but one of the other games that they lost. *(p. 336)*
+Also referenced on **pp. 336** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Chiles had the plug pulled on him after nine games last season in East Lansing but gets a second chance in the Big Ten with new offensive coordinator Chip Kelly, who finally gives Northwestern a creative mind on offense, along with new QB coach Jerry Neuheisel, who recruited Chiles out of high school. *(p. 166)*
-- They face all three playoff teams from the Big Ten last season – Indiana, Oregon, and Ohio State. *(p. 166)*
-- Plus, the Wildcats have games with Penn State, Iowa, and Illinois who were also bowl teams last season. *(p. 166)*
-- One way to do that is to rely on a triple-threat rushing attack led by the returning Caleb Komolafe (941 yards, 11 TDs), speedy gadget back Joseph Hinton (486 yards), and Gavin Sawchuk (486 yards last year at Florida State). *(p. 167)*
-- Five of last year’s top six pass catchers including Griffin Wilde (71-880-8) are also back for the Wildcats. *(p. 167)*
-- Chiles also got a nice gift with the return of Jackson Carsello at center, which allows the highly-talented Ezomo Orotokhai to stay at guard, plus Grant Seagren, who started 12 games at Oklahoma State last year, slots in at left tackle. *(p. 167)*
-- Northwestern was just 14th in the Big Ten with 23 sacks last season and nearly half of them came from the now departed Anto Saka and Aidan Hubbard. *(p. 167)*
-- The secondary is the best unit on the team led by all-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell, and nickel Braden Turner (two INTs, two FF last season). *(p. 167)*
+- A new era begins on 2 October when the $862 million Ryan Field opens against Penn State. The guide marks the Fitzgerald chapter as finally closed following the settled lawsuit and his return to coaching at Michigan State — a team Northwestern plays on 17 October. *(p. 166)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Fitzgerald was dismissed from Northwestern in 2023 following an investigation into hazing and sexual assault. *(p. 32)*
+Referenced in the guide on **pp. 32** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -275,9 +258,9 @@ As printed on p. 167. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Chiles also got a nice gift with the return of Jackson Carsello at center, which allows the highly-talented Ezomo Orotokhai to stay at guard, plus Grant Seagren, who started 12 games at Oklahoma State last year, slots in at left tackle. *(p. 167)*
-- The secondary is the best unit on the team led by all-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell, and nickel Braden Turner (two INTs, two FF last season). *(p. 167)*
-- Northwestern’s strength should be its defense, although the coaching staff is intriguing with Chip Kelly taking over as offensive coordinator. *(p. 20)*
+- A new era begins on 2 October when the $862 million Ryan Field opens against Penn State. The guide marks the Fitzgerald chapter as finally closed following the settled lawsuit and his return to coaching at Michigan State — a team Northwestern plays on 17 October. *(p. 166)*
+- Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
+- Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -285,28 +268,27 @@ As printed on p. 167. Each category carries a value and a national rank.
 
 - Makinen projects **4.9 wins** against a posted total of 5.5 — **-0.6** against this team.
 - The team page recommends **UNDER 5.5**.
-- The 2023 Big Ten Coach of the Year showed that he could do more with less and successfully navigated the difficult times surrounding Pat Fitzgerald’s termination. *(p. 167)*
-- Oregon will be a likely home loss, and they do have three of the last four at home, but all in coin flip games – Nebraska, Iowa, and Northwestern – where they more than likely must win all three to get to eight victories. *(p. 150)*
-- In fairness, the Warhawks have losses to Texas, Alabama, and Northwestern, and were an underdog in all but one of the other games that they lost. *(p. 336)*
+- Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 167)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 167)*. Its analysis, in reference form:
 
 ### Can Chip Kelly rebuild Aidan Chiles?
 
-Chiles followed his old Oregon State coach Jonathan Smith to Michigan State two years ago. The result was garnering an 8-12 record over two seasons as a starter and being benched after nine games. Chiles is the athletic and mobile quarterback that Kelly likes in his fast, no-huddle spread offense. However, Kelly must assist in restoring his confidence. One way to do that is to rely on a triple-threat rushing attack led by the returning Caleb Komolafe (941 yards, 11 TDs), speedy gadget back Joseph Hinton (486 yards), and Gavin Sawchuk (486 yards last year at Florida State). Five of last year’s top six pass catchers including Griffin Wilde (71-880-8) are also back for the Wildcats. Chiles also got a nice gift with the return of Jackson Carsello at center, which allows the highly-talented Ezomo Orotokhai to stay at guard, plus Grant Seagren, who started 12 games at Oklahoma State last year, slots in at left tackle.
+Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
 
 ### Who can get after opposing passers?
 
-Northwestern was just 14th in the Big Ten with 23 sacks last season and nearly half of them came from the now departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 TFLs, 3.5 sacks) and defensive tackle Brendan Flakes cannot do it up front all by themselves, so much will be needed and expected from defensive end Jamaal Johnson (UCF) and linebacker Kobie McKinzie. The secondary is the best unit on the team led by all-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell, and nickel Braden Turner (two INTs, two FF last season).
+Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
 
 ### Can David Braun get lower-level talent to play up in the Big Ten?
 
-Braun comes from an extensive FCS background with stints at Northern Iowa and North Dakota State. The 2023 Big Ten Coach of the Year showed that he could do more with less and successfully navigated the difficult times surrounding Pat Fitzgerald’s termination. Nevertheless, he will have to coach up some G6, FCS, and D-II programs that are in line to start for the Wildcats.
+Braun's background is extensively FCS, at Northern Iowa and North Dakota State, and as 2023 Big Ten Coach of the Year he showed he could do more with less while navigating the fallout from Fitzgerald's termination. The guide's caveat is concrete rather than rhetorical: he will have to coach up players from Group of Six, FCS and Division II programmes who are in line to start. *(p. 167)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -324,6 +306,8 @@ No source conflict identified for this team.
 | 11, 13, 20, 32, 34, 126, 150, 160, 161, 172, 336 | Other pages naming this team |
 
 This team is named in **21 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 13, 20, 32, 34, 126, 150, 160, 161, 172, 336.
 
 ## 29. Cross-Links
 

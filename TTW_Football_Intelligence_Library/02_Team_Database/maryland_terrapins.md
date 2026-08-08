@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 5.4–6.6 overall, 3.3–5.7 in conference |
 | **Schedule strength** | 45.81 (#39 toughest of 138) |
 
-### Season outlook as written in the guide (p. 156)
+### Season outlook — VSiN's analysis in reference form (p. 156)
 
-Mike Locksley certainly must be considered on the hot seat after consecutive 4-8 campaigns. After a promising 4-0 start last season, the Terps lost each of their next three games by four points or less and the young team could not recover as it ended the year on an eight-game losing streak. This year, Maryland returns 71% of its production (second nationally to Notre Dame per ESPN’s Bill Connelly). Quarterback Malik Washington did about all you can ask for a true freshman starting in the Big Ten. He threw for just under 3000 yards on a 17/9 TD/INT ratio and ran for 4 TDs. Leading rusher DeJuan Williams (501 yards, three TDs) also returns along with four offensive line starts. Eight starters are also back for second-year defensive coordinator Ted Monachino’s unit. Over 4.5 Locksley has always been a high-level recruiter, and he has brought big-time talent into the program and has kept DMV talent from leaving home, but he cannot live off the 23-16 three-season run (2021-2023) forever. This is a juicy price to lay at around -170 to -175, but the schedule is permissible early on with Hampton as the opener and then two games at UConn and vs. Virginia Tech, who both have new head coaches. The Terps do have trips to Ohio State and USC but also avoid Oregon, Indiana, and Michigan amongst the league’s top teams. If they can go 3-0 in the non-conference like last season, they have a few winnable conference games (UCLA, Rutgers, Wisconsin, at Purdue) where they could get bowl-eligible and play a postseason game for the first time since 2023.
+- The guide places Mike Locksley on the hot seat after consecutive 4-8 seasons. Maryland started 4-0 last year, lost each of the next three by four points or fewer, and never recovered, finishing on an eight-game losing streak. *(p. 156)*
+- Maryland returns 71% of its production, second nationally to Notre Dame per ESPN's Bill Connelly. *(p. 156)*
+- Quarterback Malik Washington is credited with about all you could ask of a true freshman starting in the Big Ten: just under 3,000 passing yards, a 17-to-9 touchdown-to-interception ratio and four rushing scores. Leading rusher DeJuan Williams (501 yards, three touchdowns) returns with four offensive line starters, and eight starters return for second-year coordinator Ted Monachino. *(p. 156)*
+- Recommendation is Over 4.5 wins. The guide credits Locksley as a high-level recruiter who has kept DMV talent home, while stating bluntly that he cannot live off the 23-16 run from 2021 to 2023 forever. *(p. 156)*
+- It flags the price honestly, calling roughly -170 to -175 a juicy amount to lay, then sets out the path: an opener against Hampton and games at UConn and against Virginia Tech, both with new head coaches. *(p. 156)*
+- Maryland travels to Ohio State and USC but avoids Oregon, Indiana and Michigan. If it repeats a 3-0 non-conference start, the guide identifies UCLA, Rutgers, Wisconsin and Purdue away as winnable routes to bowl eligibility and a first postseason game since 2023. *(p. 156)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,15 +85,12 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Eight starters are also back for second-year defensive coordinator Ted Monachino’s unit. *(p. 156)*
-- Virginia Tech, who both have new head coaches. *(p. 156)*
-- Pep Hamilton moves to an advisor role and Clint Trickett takes over as offensive coordinator after spending last season in the same role at Jacksonville State. *(p. 157)*
-- Monachino was on the Baltimore Ravens staff that won Super Bowl XLVII and he knows elite defensive talent, especially up front having coached Terrell Suggs and Elvis Dumervil. *(p. 157)*
+- The guide places Mike Locksley on the hot seat after consecutive 4-8 seasons. Maryland started 4-0 last year, lost each of the next three by four points or fewer, and never recovered, finishing on an eight-game losing streak. *(p. 156)*
+- Recommendation is Over 4.5 wins. The guide credits Locksley as a high-level recruiter who has kept DMV talent home, while stating bluntly that he cannot live off the 23-16 run from 2021 to 2023 forever. *(p. 156)*
+- **How will Malik Washington take to the new offense?** Pep Hamilton moves to an advisory role and Clint Trickett takes over as coordinator after a season in the same job at Jacksonville State. Trickett wants more RPO, more designed running from Washington, and increased tempo through more motion and more snaps. The guide balances the line's poor run-blocking against a genuine strength — only nine sacks allowed — and notes Washington can throw the ball anywhere but needs a receiving corps that was plagued by drops to become more reliable. *(p. 157)*
+- **Can the defense continue to progress under Monachino?** Monachino was on the Ravens staff that won Super Bowl XLVII and coached Terrell Suggs and Elvis Dumervil, so the guide credits him with knowing elite front-seven talent. Edge rushers Zahir Mathis and Sidney Stewart were freshman All-Americans and are joined by five-star Baltimore freshman Zion Elee. Senior linebacker Daniel Wingate (102 tackles, 6.5 tackles for loss) leads the linebackers, with strong safety Lavain Scruggs (64 tackles, two interceptions) heading the secondary and Messiah Delhomme (39 tackles) counted on to replace third-round pick Jalen Huskey. The guide's summary: Maryland can clearly rush the passer but has struggled to stop the run inside. *(p. 157)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Aside from the Buckeyes, the rest of the road schedule is not all that arduous, going to Maryland and facing two teams with new coaches – Michigan State and Northwestern. *(p. 150)*
-- Justus Savage and Khristian Lando are bigger backs and both holdovers from last season, though OC Clint Trickett now holds the same role at Maryland. *(p. 193)*
+Also referenced on **pp. 150, 193** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -94,13 +98,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 156)*.
 
-- Quarterback Malik Washington did about all you can ask for a true freshman starting in the Big Ten. *(p. 156)*
-- He threw for just under 3000 yards on a 17/9 TD/INT ratio and ran for 4 TDs. *(p. 156)*
-- The Terps can clearly get after the quarterback, but they have struggled in the middle at stopping the run. *(p. 157)*
+- Quarterback Malik Washington is credited with about all you could ask of a true freshman starting in the Big Ten: just under 3,000 passing yards, a 17-to-9 touchdown-to-interception ratio and four rushing scores. Leading rusher DeJuan Williams (501 yards, three touchdowns) returns with four offensive line starters, and eight starters return for second-year coordinator Ted Monachino. *(p. 156)*
+- **How will Malik Washington take to the new offense?** Pep Hamilton moves to an advisory role and Clint Trickett takes over as coordinator after a season in the same job at Jacksonville State. Trickett wants more RPO, more designed running from Washington, and increased tempo through more motion and more snaps. The guide balances the line's poor run-blocking against a genuine strength — only nine sacks allowed — and notes Washington can throw the ball anywhere but needs a receiving corps that was plagued by drops to become more reliable. *(p. 157)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- That team was limited by mediocre quarterback play, and Entz brought in Maryland transfer Khristian Martin, a dual-threat playmaker. *(p. 5)*
+Also referenced on **pp. 5** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -116,35 +117,27 @@ The Stability Score table prints the same figure independently: **16 returning s
 
 ## 11. Transfer Portal
 
-- The answer to that question in recent years is a definitive ‘no’ as the turtle has not needed to be feared on the ground since they had a 1000-yard rusher in 2022 (Roman Hemby, who later transferred to Indiana). *(p. 157)*
-- Harry Dalton III was highly touted out of high school and transferred from USC to help Washington and Williams. *(p. 157)*
+- **Can Maryland develop a running game?** The guide's answer is a definitive no in recent years: no 1,000-yard rusher since Roman Hemby in 2022, who later transferred to Indiana. Harry Dalton III, highly touted out of high school, transfers from USC to support Washington and Williams. Maryland ranked second-to-last in the Big Ten at 104.3 rushing yards per game, 122nd nationally. Its conclusion is conditional: Washington is a potential star, but the group needs more production for him to realize it. *(p. 157)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- That team was limited by mediocre quarterback play, and Entz brought in Maryland transfer Khristian Martin, a dual-threat playmaker. *(p. 5)*
-- Championship steve makinen power rating make the playoff RANK # CONFERENCE: NATIONAL: # RANK Will a Maryland transfer pass the test? *(p. 271)*
-- Entz brought in Maryland transfer Khristian Martin, who’s a dual-threat playmaker at 6-foot-4 and 230 pounds. *(p. 271)*
+Referenced in the guide on **pp. 5, 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Quarterback Malik Washington did about all you can ask for a true freshman starting in the Big Ten. *(p. 156)*
-- Over 4.5 Locksley has always been a high-level recruiter, and he has brought big-time talent into the program and has kept DMV talent from leaving home, but he cannot live off the 23-16 three-season run (2021-2023) forever. *(p. 156)*
-- Maryland edge rushers Zahir Mathis and Sidney Stewart were both named freshmen-All Americans and now they are joined by five-star freshman Zion Elee out of Baltimore. *(p. 157)*
+- Recommendation is Over 4.5 wins. The guide credits Locksley as a high-level recruiter who has kept DMV talent home, while stating bluntly that he cannot live off the 23-16 run from 2021 to 2023 forever. *(p. 156)*
+- **Can the defense continue to progress under Monachino?** Monachino was on the Ravens staff that won Super Bowl XLVII and coached Terrell Suggs and Elvis Dumervil, so the guide credits him with knowing elite front-seven talent. Edge rushers Zahir Mathis and Sidney Stewart were freshman All-Americans and are joined by five-star Baltimore freshman Zion Elee. Senior linebacker Daniel Wingate (102 tackles, 6.5 tackles for loss) leads the linebackers, with strong safety Lavain Scruggs (64 tackles, two interceptions) heading the secondary and Messiah Delhomme (39 tackles) counted on to replace third-round pick Jalen Huskey. The guide's summary: Maryland can clearly rush the passer but has struggled to stop the run inside. *(p. 157)*
 
 ## 13. Offensive Identity
 
-- Leading rusher DeJuan Williams (501 yards, three TDs) also returns along with four offensive line starts. *(p. 156)*
-- Pep Hamilton moves to an advisor role and Clint Trickett takes over as offensive coordinator after spending last season in the same role at Jacksonville State. *(p. 157)*
-- He will also look to increase the tempo with increased motion and more snaps. *(p. 157)*
-- While the offensive line did not create many holes up front running the ball, they did only allow nine sacks. *(p. 157)*
-- Washington can throw the ball all over the yard, but his receiving corps must be more reliable as they were plagued by drops all last season. *(p. 157)*
+- Maryland returns 71% of its production, second nationally to Notre Dame per ESPN's Bill Connelly. *(p. 156)*
+- Quarterback Malik Washington is credited with about all you could ask of a true freshman starting in the Big Ten: just under 3,000 passing yards, a 17-to-9 touchdown-to-interception ratio and four rushing scores. Leading rusher DeJuan Williams (501 yards, three touchdowns) returns with four offensive line starters, and eight starters return for second-year coordinator Ted Monachino. *(p. 156)*
+- **How will Malik Washington take to the new offense?** Pep Hamilton moves to an advisory role and Clint Trickett takes over as coordinator after a season in the same job at Jacksonville State. Trickett wants more RPO, more designed running from Washington, and increased tempo through more motion and more snaps. The guide balances the line's poor run-blocking against a genuine strength — only nine sacks allowed — and notes Washington can throw the ball anywhere but needs a receiving corps that was plagued by drops to become more reliable. *(p. 157)*
+- **Can Maryland develop a running game?** The guide's answer is a definitive no in recent years: no 1,000-yard rusher since Roman Hemby in 2022, who later transferred to Indiana. Harry Dalton III, highly touted out of high school, transfers from USC to support Washington and Williams. Maryland ranked second-to-last in the Big Ten at 104.3 rushing yards per game, 122nd nationally. Its conclusion is conditional: Washington is a potential star, but the group needs more production for him to realize it. *(p. 157)*
 
 ## 14. Defensive Identity
 
-- Eight starters are also back for second-year defensive coordinator Ted Monachino’s unit. *(p. 156)*
-- While the offensive line did not create many holes up front running the ball, they did only allow nine sacks. *(p. 157)*
-- Monachino was on the Baltimore Ravens staff that won Super Bowl XLVII and he knows elite defensive talent, especially up front having coached Terrell Suggs and Elvis Dumervil. *(p. 157)*
-- Senior linebacker Daniel Wingate (102 tackles, 6.5 TFLs) leads the linebacker corps, and the talented secondary is led by strong safety Lavain Scruggs (64 tackles, two INTs) and Messiah Delhomme (39 tackles) will be counted on to replace third-round pick Jalen Huskey. *(p. 157)*
+- Maryland returns 71% of its production, second nationally to Notre Dame per ESPN's Bill Connelly. *(p. 156)*
+- Quarterback Malik Washington is credited with about all you could ask of a true freshman starting in the Big Ten: just under 3,000 passing yards, a 17-to-9 touchdown-to-interception ratio and four rushing scores. Leading rusher DeJuan Williams (501 yards, three touchdowns) returns with four offensive line starters, and eight starters return for second-year coordinator Ted Monachino. *(p. 156)*
+- **Can the defense continue to progress under Monachino?** Monachino was on the Ravens staff that won Super Bowl XLVII and coached Terrell Suggs and Elvis Dumervil, so the guide credits him with knowing elite front-seven talent. Edge rushers Zahir Mathis and Sidney Stewart were freshman All-Americans and are joined by five-star Baltimore freshman Zion Elee. Senior linebacker Daniel Wingate (102 tackles, 6.5 tackles for loss) leads the linebackers, with strong safety Lavain Scruggs (64 tackles, two interceptions) heading the secondary and Messiah Delhomme (39 tackles) counted on to replace third-round pick Jalen Huskey. The guide's summary: Maryland can clearly rush the passer but has struggled to stop the run inside. *(p. 157)*
 
 ## 15. Key Strengths
 
@@ -212,22 +205,15 @@ Prices printed on the team page *(p. 157)*:
 
 ## 21. Betting Notes / Best Bets
 
-- This is a juicy price to lay at around -170 to -175, but the schedule is permissible early on with Hampton as the opener and then two games at UConn and vs. *(p. 156)*
+- Recommendation is Over 4.5 wins. The guide credits Locksley as a high-level recruiter who has kept DMV talent home, while stating bluntly that he cannot live off the 23-16 run from 2021 to 2023 forever. *(p. 156)*
+- It flags the price honestly, calling roughly -170 to -175 a juicy amount to lay, then sets out the path: an opener against Hampton and games at UConn and against Virginia Tech, both with new head coaches. *(p. 156)*
+- Maryland travels to Ohio State and USC but avoids Oregon, Indiana and Michigan. If it repeats a 3-0 non-conference start, the guide identifies UCLA, Rutgers, Wisconsin and Purdue away as winnable routes to bowl eligibility and a first postseason game since 2023. *(p. 156)*
 
 ## 22. Historical / Situational Trends
 
-- After a promising 4-0 start last season, the Terps lost each of their next three games by four points or less and the young team could not recover as it ended the year on an eight-game losing streak. *(p. 156)*
-- If they can go 3-0 in the non-conference like last season, they have a few winnable conference games (UCLA, Rutgers, Wisconsin, at Purdue) where they could get bowl-eligible and play a postseason game for the first time since 2023. *(p. 156)*
-- Pep Hamilton moves to an advisor role and Clint Trickett takes over as offensive coordinator after spending last season in the same role at Jacksonville State. *(p. 157)*
-- Washington can throw the ball all over the yard, but his receiving corps must be more reliable as they were plagued by drops all last season. *(p. 157)*
-- The answer to that question in recent years is a definitive ‘no’ as the turtle has not needed to be feared on the ground since they had a 1000-yard rusher in 2022 (Roman Hemby, who later transferred to Indiana). *(p. 157)*
-- Maryland ranked second-to-last in the Big Ten last year only averaging 104.3 yards per game (122nd nationally). *(p. 157)*
+- The guide places Mike Locksley on the hot seat after consecutive 4-8 seasons. Maryland started 4-0 last year, lost each of the next three by four points or fewer, and never recovered, finishing on an eight-game losing streak. *(p. 156)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Since then, he’s been at Maryland, Wisconsin, and now North Carolina, as he only started two games last season and didn’t really look the part before suffering a season-ending injury. *(p. 99)*
-- The Huskies are just 2-7 in Big Ten road games under Fisch with the two victories coming last year at Maryland and at UCLA. *(p. 183)*
-- Justus Savage and Khristian Lando are bigger backs and both holdovers from last season, though OC Clint Trickett now holds the same role at Maryland. *(p. 193)*
+Referenced in the guide on **pp. 99, 183, 193** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -273,39 +259,38 @@ As printed on p. 157. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- This year, Maryland returns 71% of its production (second nationally to Notre Dame per ESPN’s Bill Connelly). *(p. 156)*
-- Leading rusher DeJuan Williams (501 yards, three TDs) also returns along with four offensive line starts. *(p. 156)*
-- Monachino was on the Baltimore Ravens staff that won Super Bowl XLVII and he knows elite defensive talent, especially up front having coached Terrell Suggs and Elvis Dumervil. *(p. 157)*
-- Senior linebacker Daniel Wingate (102 tackles, 6.5 TFLs) leads the linebacker corps, and the talented secondary is led by strong safety Lavain Scruggs (64 tackles, two INTs) and Messiah Delhomme (39 tackles) will be counted on to replace third-round pick Jalen Huskey. *(p. 157)*
+- Maryland returns 71% of its production, second nationally to Notre Dame per ESPN's Bill Connelly. *(p. 156)*
+- Quarterback Malik Washington is credited with about all you could ask of a true freshman starting in the Big Ten: just under 3,000 passing yards, a 17-to-9 touchdown-to-interception ratio and four rushing scores. Leading rusher DeJuan Williams (501 yards, three touchdowns) returns with four offensive line starters, and eight starters return for second-year coordinator Ted Monachino. *(p. 156)*
+- Pep Hamilton moves to an advisory role and Clint Trickett takes over as coordinator after a season in the same job at Jacksonville State. Trickett wants more RPO, more designed running from Washington, and increased tempo through more motion and more snaps. The guide balances the line's poor run-blocking against a genuine strength — only nine sacks allowed — and notes Washington can throw the ball anywhere but needs a receiving corps that was plagued by drops to become more reliable. *(p. 157)*
+- Monachino was on the Ravens staff that won Super Bowl XLVII and coached Terrell Suggs and Elvis Dumervil, so the guide credits him with knowing elite front-seven talent. Edge rushers Zahir Mathis and Sidney Stewart were freshman All-Americans and are joined by five-star Baltimore freshman Zion Elee. Senior linebacker Daniel Wingate (102 tackles, 6.5 tackles for loss) leads the linebackers, with strong safety Lavain Scruggs (64 tackles, two interceptions) heading the secondary and Messiah Delhomme (39 tackles) counted on to replace third-round pick Jalen Huskey. The guide's summary: Maryland can clearly rush the passer but has struggled to stop the run inside. *(p. 157)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **5.4 wins** against a posted total of 5.5 — **-0.1** against this team.
-- After a promising 4-0 start last season, the Terps lost each of their next three games by four points or less and the young team could not recover as it ended the year on an eight-game losing streak. *(p. 156)*
-- The answer to that question in recent years is a definitive ‘no’ as the turtle has not needed to be feared on the ground since they had a 1000-yard rusher in 2022 (Roman Hemby, who later transferred to Indiana). *(p. 157)*
-- The Terps can clearly get after the quarterback, but they have struggled in the middle at stopping the run. *(p. 157)*
-- Since then, he’s been at Maryland, Wisconsin, and now North Carolina, as he only started two games last season and didn’t really look the part before suffering a season-ending injury. *(p. 99)*
+- The guide places Mike Locksley on the hot seat after consecutive 4-8 seasons. Maryland started 4-0 last year, lost each of the next three by four points or fewer, and never recovered, finishing on an eight-game losing streak. *(p. 156)*
+- Monachino was on the Ravens staff that won Super Bowl XLVII and coached Terrell Suggs and Elvis Dumervil, so the guide credits him with knowing elite front-seven talent. Edge rushers Zahir Mathis and Sidney Stewart were freshman All-Americans and are joined by five-star Baltimore freshman Zion Elee. Senior linebacker Daniel Wingate (102 tackles, 6.5 tackles for loss) leads the linebackers, with strong safety Lavain Scruggs (64 tackles, two interceptions) heading the secondary and Messiah Delhomme (39 tackles) counted on to replace third-round pick Jalen Huskey. The guide's summary: Maryland can clearly rush the passer but has struggled to stop the run inside. *(p. 157)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 157)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 157)*. Its analysis, in reference form:
 
 ### How will Malik Washington take to the new offense?
 
-Pep Hamilton moves to an advisor role and Clint Trickett takes over as offensive coordinator after spending last season in the same role at Jacksonville State. Trickett wants to implement more RPO and use Washington more as a runner. He will also look to increase the tempo with increased motion and more snaps. While the offensive line did not create many holes up front running the ball, they did only allow nine sacks. Washington can throw the ball all over the yard, but his receiving corps must be more reliable as they were plagued by drops all last season.
+Pep Hamilton moves to an advisory role and Clint Trickett takes over as coordinator after a season in the same job at Jacksonville State. Trickett wants more RPO, more designed running from Washington, and increased tempo through more motion and more snaps. The guide balances the line's poor run-blocking against a genuine strength — only nine sacks allowed — and notes Washington can throw the ball anywhere but needs a receiving corps that was plagued by drops to become more reliable. *(p. 157)*
 
 ### Can Maryland develop a running game?
 
-The answer to that question in recent years is a definitive ‘no’ as the turtle has not needed to be feared on the ground since they had a 1000-yard rusher in 2022 (Roman Hemby, who later transferred to Indiana). Harry Dalton III was highly touted out of high school and transferred from USC to help Washington and Williams. Maryland ranked second-to-last in the Big Ten last year only averaging 104.3 yards per game (122nd nationally). Washington is a potential star, but this group needs more production for him to truly realize his potential.
+The guide's answer is a definitive no in recent years: no 1,000-yard rusher since Roman Hemby in 2022, who later transferred to Indiana. Harry Dalton III, highly touted out of high school, transfers from USC to support Washington and Williams. Maryland ranked second-to-last in the Big Ten at 104.3 rushing yards per game, 122nd nationally. Its conclusion is conditional: Washington is a potential star, but the group needs more production for him to realize it. *(p. 157)*
 
 ### Can the defense continue to progress under Monachino?
 
-Monachino was on the Baltimore Ravens staff that won Super Bowl XLVII and he knows elite defensive talent, especially up front having coached Terrell Suggs and Elvis Dumervil. Maryland edge rushers Zahir Mathis and Sidney Stewart were both named freshmen-All Americans and now they are joined by five-star freshman Zion Elee out of Baltimore. Senior linebacker Daniel Wingate (102 tackles, 6.5 TFLs) leads the linebacker corps, and the talented secondary is led by strong safety Lavain Scruggs (64 tackles, two INTs) and Messiah Delhomme (39 tackles) will be counted on to replace third-round pick Jalen Huskey. The Terps can clearly get after the quarterback, but they have struggled in the middle at stopping the run.
+Monachino was on the Ravens staff that won Super Bowl XLVII and coached Terrell Suggs and Elvis Dumervil, so the guide credits him with knowing elite front-seven talent. Edge rushers Zahir Mathis and Sidney Stewart were freshman All-Americans and are joined by five-star Baltimore freshman Zion Elee. Senior linebacker Daniel Wingate (102 tackles, 6.5 tackles for loss) leads the linebackers, with strong safety Lavain Scruggs (64 tackles, two interceptions) heading the secondary and Messiah Delhomme (39 tackles) counted on to replace third-round pick Jalen Huskey. The guide's summary: Maryland can clearly rush the passer but has struggled to stop the run inside. *(p. 157)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -323,6 +308,8 @@ No source conflict identified for this team.
 | 5, 99, 150, 183, 193, 271 | Other pages naming this team |
 
 This team is named in **10 sentences across 8 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 99, 150, 183, 193, 271.
 
 ## 29. Cross-Links
 

@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 6.3–5.7 overall, 3.5–5.5 in conference |
 | **Schedule strength** | 49.2 (#17 toughest of 138) |
 
-### Season outlook as written in the guide (p. 164)
+### Season outlook — VSiN's analysis in reference form (p. 164)
 
-In 2023, Matt Rhule came to Lincoln with the reputation of a quick rebuilder of programs from what he did at Temple and then at Baylor. Three years later, Rhule is 19-19 at Nebraska and the natives are getting a bit restless. Dylan Raiola, a legacy player whose father Dominic and uncle Donovan played at Nebraska, was thought to be the savior at quarterback for which Nebraska has been searching. He posted a 13-9 record in two seasons as a starter but broke his leg vs. USC and was done for the season after a promising 6-2 start. Dylan transferred to Oregon after the season and uncle Donovan was fired as offensive line coach. Defensive coordinator John Butler and defensive line coach Terry Bradden were also let go. Winning can cure any dissension in the ranks and transfer QB Anthony Colandrea did a lot of that at UNLV last season, leading the Rebels to 10 victories. He is a playmaker who threw for 3,459 yards and accounted for 33 touchdowns while winning Mountain West Player of the Year, but will need to live up to the high expectations to cool Rhule’s hot seat. Under 6.5 After three likely non- conference wins at home, Nebraska’s schedule picks up in October, having to take on playoff teams in consecutive weeks, hosting Indiana and traveling to Oregon. The Huskers also draw Ohio State in the home finale. With a new defensive scheme and a difficult schedule, Nebraska looks like a middling team once again and the seat will only get hotter for Rhule.
+- Matt Rhule arrived in 2023 known for quick rebuilds at Temple and Baylor; three years on he is 19-19 and the guide says the natives are getting restless. *(p. 164)*
+- Dylan Raiola, a legacy recruit whose father Dominic and uncle Donovan played at Nebraska, was expected to be the answer at quarterback. He went 13-9 as a starter over two seasons but broke his leg against USC after a promising 6-2 start, then transferred to Oregon; uncle Donovan was fired as offensive line coach. *(p. 164)*
+- Defensive coordinator John Butler and defensive line coach Terry Bradden were also dismissed. *(p. 164)*
+- Transfer quarterback Anthony Colandrea arrives having led UNLV to ten wins, throwing for 3,459 yards and accounting for 33 touchdowns as Mountain West Player of the Year. The guide notes he must meet high expectations to cool Rhule's hot seat. *(p. 164)*
+- Recommendation is Under 6.5 wins. After three likely home non-conference wins the schedule sharpens in October with playoff teams in consecutive weeks — hosting Indiana then travelling to Oregon — and Ohio State in the home finale. *(p. 164)*
+- Conclusion: with a new defensive scheme and a difficult schedule, Nebraska looks middling again and Rhule's seat will only get hotter. *(p. 164)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,14 +85,13 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Dylan transferred to Oregon after the season and uncle Donovan was fired as offensive line coach. *(p. 164)*
-- Defensive coordinator John Butler and defensive line coach Terry Bradden were also let go. *(p. 164)*
-- Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
+- Matt Rhule arrived in 2023 known for quick rebuilds at Temple and Baylor; three years on he is 19-19 and the guide says the natives are getting restless. *(p. 164)*
+- Dylan Raiola, a legacy recruit whose father Dominic and uncle Donovan played at Nebraska, was expected to be the answer at quarterback. He went 13-9 as a starter over two seasons but broke his leg against USC after a promising 6-2 start, then transferred to Oregon; uncle Donovan was fired as offensive line coach. *(p. 164)*
+- Defensive coordinator John Butler and defensive line coach Terry Bradden were also dismissed. *(p. 164)*
+- Conclusion: with a new defensive scheme and a difficult schedule, Nebraska looks middling again and Rhule's seat will only get hotter. *(p. 164)*
+- **Can the transition from 3-3-5 to Rob Aurich's 4-2-5 scheme go smoothly?** Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NEBRASKA UNLV transfer quarterback Anthony Colandrea is the key to coach Matt Rhule’s success in his fourth season with the Cornhuskers. *(p. 20)*
-- NEBRASKA – UNDER 6.5 WINS Last year was supposed to be the year that head coach Matt Rhule and Nebraska took that elusive step forward. *(p. 25)*
+Also referenced on **pp. 20, 25** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -93,15 +99,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 164)*.
 
-- Dylan Raiola, a legacy player whose father Dominic and uncle Donovan played at Nebraska, was thought to be the savior at quarterback for which Nebraska has been searching. *(p. 164)*
-- Winning can cure any dissension in the ranks and transfer QB Anthony Colandrea did a lot of that at UNLV last season, leading the Rebels to 10 victories. *(p. 164)*
-- He is a playmaker who threw for 3,459 yards and accounted for 33 touchdowns while winning Mountain West Player of the Year, but will need to live up to the high expectations to cool Rhule’s hot seat. *(p. 164)*
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
-- With just 22 sacks in 13 games, Nebraska simply could not get to opposing quarterbacks. *(p. 165)*
+- Dylan Raiola, a legacy recruit whose father Dominic and uncle Donovan played at Nebraska, was expected to be the answer at quarterback. He went 13-9 as a starter over two seasons but broke his leg against USC after a promising 6-2 start, then transferred to Oregon; uncle Donovan was fired as offensive line coach. *(p. 164)*
+- Transfer quarterback Anthony Colandrea arrives having led UNLV to ten wins, throwing for 3,459 yards and accounting for 33 touchdowns as Mountain West Player of the Year. The guide notes he must meet high expectations to cool Rhule's hot seat. *(p. 164)*
+- **Is there a true QB competition?** The guide's own answer is qualified: Colandrea did not transfer in to sit, but TJ Lateef (904 yards, five touchdown passes) was highly touted, started five games as a true freshman and already knows Dana Holgorsen's Air Raid. It expects Colandrea to win as the more proven commodity, with returning starters Nyziah Hunter (43 catches, 617 yards, five touchdowns) and Jacory Barney Jr (45 catches, 484 yards, five touchdowns) plus Kwazi Gilmer, who started 19 games at UCLA. *(p. 165)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NEBRASKA UNLV transfer quarterback Anthony Colandrea is the key to coach Matt Rhule’s success in his fourth season with the Cornhuskers. *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -117,47 +119,30 @@ The Stability Score table prints the same figure independently: **15 returning s
 
 ## 11. Transfer Portal
 
-- Dylan transferred to Oregon after the season and uncle Donovan was fired as offensive line coach. *(p. 164)*
-- Winning can cure any dissension in the ranks and transfer QB Anthony Colandrea did a lot of that at UNLV last season, leading the Rebels to 10 victories. *(p. 164)*
-- Colandrea did not transfer to sit, but TJ Lateef (904 yards, five TD passes) was highly touted out of high school and did start five games as a true freshman last season, so he has familiarity with Dana Holgorsen’s Air Raid offense. *(p. 165)*
-- The Huskers did not elect to bring in a running back out of the portal instead they will look to the returning sophomore duo of Mekhi Nelson and Isaiah Mozee. *(p. 165)*
-- They went to the portal to add Owen Stoudmire (Boston College), Jahsear Whittington (Pitt), and Anthony Jones Jr (UCLA) up front. *(p. 165)*
-- To shore up the linebacker corps, Owen Chambliss follows Aurich in from San Diego State and Dexter Foster transfers in from Oregon State to go along with Vincent Shavers Jr (61 tackles, 7.5 TFLs). *(p. 165)*
+- Dylan Raiola, a legacy recruit whose father Dominic and uncle Donovan played at Nebraska, was expected to be the answer at quarterback. He went 13-9 as a starter over two seasons but broke his leg against USC after a promising 6-2 start, then transferred to Oregon; uncle Donovan was fired as offensive line coach. *(p. 164)*
+- Transfer quarterback Anthony Colandrea arrives having led UNLV to ten wins, throwing for 3,459 yards and accounting for 33 touchdowns as Mountain West Player of the Year. The guide notes he must meet high expectations to cool Rhule's hot seat. *(p. 164)*
+- **Is there a true QB competition?** The guide's own answer is qualified: Colandrea did not transfer in to sit, but TJ Lateef (904 yards, five touchdown passes) was highly touted, started five games as a true freshman and already knows Dana Holgorsen's Air Raid. It expects Colandrea to win as the more proven commodity, with returning starters Nyziah Hunter (43 catches, 617 yards, five touchdowns) and Jacory Barney Jr (45 catches, 484 yards, five touchdowns) plus Kwazi Gilmer, who started 19 games at UCLA. *(p. 165)*
+- **What happens to the running game without Emmett Johnson?** Johnson was a first-team All-American with 1,451 rushing yards and 15 total touchdowns. Nebraska chose not to replace him from the portal, turning to sophomores Mekhi Nelson and Isaiah Mozee. The guide reports that Nelson was arrested in late June on an aggravated battery charge and that the charges were dropped, while his fall camp availability remains undetermined, so true freshman Jamal Rule may be needed early. Up front Nebraska added guards Paul Mubenga from LSU and Brendan Black from Iowa State plus tackle Tree Babalade from South Carolina, giving a bigger and more agile group that must improve on 33 sacks allowed. *(p. 165)*
+- **Can the transition from 3-3-5 to Rob Aurich's 4-2-5 scheme go smoothly?** Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NEBRASKA UNLV transfer quarterback Anthony Colandrea is the key to coach Matt Rhule’s success in his fourth season with the Cornhuskers. *(p. 20)*
+Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Colandrea did not transfer to sit, but TJ Lateef (904 yards, five TD passes) was highly touted out of high school and did start five games as a true freshman last season, so he has familiarity with Dana Holgorsen’s Air Raid offense. *(p. 165)*
-- Nevertheless, his availability for fall camp has still yet to be determined, so true freshman Jamal Rule may have his number called early. *(p. 165)*
+
+Referenced in the guide on **pp. 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Dylan transferred to Oregon after the season and uncle Donovan was fired as offensive line coach. *(p. 164)*
-- Colandrea did not transfer to sit, but TJ Lateef (904 yards, five TD passes) was highly touted out of high school and did start five games as a true freshman last season, so he has familiarity with Dana Holgorsen’s Air Raid offense. *(p. 165)*
-- Colandrea should win the job as the more proven commodity and will have targets as starting receivers Nyziah Hunter (43-617-5) and Jacory Barney Jr (45-484-5) return and Kwazi Gilmer started 19 games at UCLA over the last two seasons. *(p. 165)*
-- Johnson was a first-team All-American last year, rushing for 1,451 yards and accounting for 15 touchdowns. *(p. 165)*
+- **What happens to the running game without Emmett Johnson?** Johnson was a first-team All-American with 1,451 rushing yards and 15 total touchdowns. Nebraska chose not to replace him from the portal, turning to sophomores Mekhi Nelson and Isaiah Mozee. The guide reports that Nelson was arrested in late June on an aggravated battery charge and that the charges were dropped, while his fall camp availability remains undetermined, so true freshman Jamal Rule may be needed early. Up front Nebraska added guards Paul Mubenga from LSU and Brendan Black from Iowa State plus tackle Tree Babalade from South Carolina, giving a bigger and more agile group that must improve on 33 sacks allowed. *(p. 165)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Dan Mullen took in Anthony Colandrea last season, made him Mountain West Offensive Player of the Year and then got him a payday at Nebraska. *(p. 259)*
+Referenced in the guide on **pp. 259** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Defensive coordinator John Butler and defensive line coach Terry Bradden were also let go. *(p. 164)*
-- With a new defensive scheme and a difficult schedule, Nebraska looks like a middling team once again and the seat will only get hotter for Rhule. *(p. 164)*
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
-- Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
-- The Huskers need to find a balance defensively, as they ranked third nationally in pass defense, but only 98th in rush defense. *(p. 165)*
-- With just 22 sacks in 13 games, Nebraska simply could not get to opposing quarterbacks. *(p. 165)*
-- To shore up the linebacker corps, Owen Chambliss follows Aurich in from San Diego State and Dexter Foster transfers in from Oregon State to go along with Vincent Shavers Jr (61 tackles, 7.5 TFLs). *(p. 165)*
-- The secondary is the best unit on the team with three starters back – Andrew Marshall (45 tackles), Rex Guthrie (63 tackles), and Donovan Jones (59 tackles). *(p. 165)*
+- **Can the transition from 3-3-5 to Rob Aurich's 4-2-5 scheme go smoothly?** Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- That game, and the 728 yards from Nebraska in a 68-0 loss, skewed the defensive numbers in a big way. *(p. 216)*
+Referenced in the guide on **pp. 216** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -203,9 +188,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+Referenced in the guide on **pp. 220** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -228,27 +211,16 @@ Prices printed on the team page *(p. 165)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 6.5 wins. After three likely home non-conference wins the schedule sharpens in October with playoff teams in consecutive weeks — hosting Indiana then travelling to Oregon — and Ohio State in the home finale. *(p. 164)*
+- Conclusion: with a new defensive scheme and a difficult schedule, Nebraska looks middling again and Rhule's seat will only get hotter. *(p. 164)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
-- In each of the last two years, Minnesota has defeated a ranked opponent as a home underdog – No. 25 Nebraska (2025) and No. 11 USC (2024). *(p. 162)*
+Also referenced on **pp. 161, 162** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- In 2023, Matt Rhule came to Lincoln with the reputation of a quick rebuilder of programs from what he did at Temple and then at Baylor. *(p. 164)*
-- Winning can cure any dissension in the ranks and transfer QB Anthony Colandrea did a lot of that at UNLV last season, leading the Rebels to 10 victories. *(p. 164)*
-- Colandrea did not transfer to sit, but TJ Lateef (904 yards, five TD passes) was highly touted out of high school and did start five games as a true freshman last season, so he has familiarity with Dana Holgorsen’s Air Raid offense. *(p. 165)*
-- Johnson was a first-team All-American last year, rushing for 1,451 yards and accounting for 15 touchdowns. *(p. 165)*
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
-- Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
+- Matt Rhule arrived in 2023 known for quick rebuilds at Temple and Baylor; three years on he is 19-19 and the guide says the natives are getting restless. *(p. 164)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Nebraska (7-6 last season) faces Ohio State, Oregon and Indiana but should have enough talent to go bowling again. 39. *(p. 20)*
-- NEBRASKA – UNDER 6.5 WINS Last year was supposed to be the year that head coach Matt Rhule and Nebraska took that elusive step forward. *(p. 25)*
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
-- Dan Mullen took in Anthony Colandrea last season, made him Mountain West Offensive Player of the Year and then got him a payday at Nebraska. *(p. 259)*
+Referenced in the guide on **pp. 20, 25, 161, 259** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -293,13 +265,8 @@ As printed on p. 165. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Winning can cure any dissension in the ranks and transfer QB Anthony Colandrea did a lot of that at UNLV last season, leading the Rebels to 10 victories. *(p. 164)*
-- He is a playmaker who threw for 3,459 yards and accounted for 33 touchdowns while winning Mountain West Player of the Year, but will need to live up to the high expectations to cool Rhule’s hot seat. *(p. 164)*
-- Colandrea should win the job as the more proven commodity and will have targets as starting receivers Nyziah Hunter (43-617-5) and Jacory Barney Jr (45-484-5) return and Kwazi Gilmer started 19 games at UCLA over the last two seasons. *(p. 165)*
-- Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
-- The secondary is the best unit on the team with three starters back – Andrew Marshall (45 tackles), Rex Guthrie (63 tackles), and Donovan Jones (59 tackles). *(p. 165)*
-- Indiana is likely to return to the College Football Playoff for a third consecutive season under Cignetti (27-2 in two years), but there are a couple of tricky spots (at Nebraska, at Washington, vs. *(p. 152)*
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+- Johnson was a first-team All-American with 1,451 rushing yards and 15 total touchdowns. Nebraska chose not to replace him from the portal, turning to sophomores Mekhi Nelson and Isaiah Mozee. The guide reports that Nelson was arrested in late June on an aggravated battery charge and that the charges were dropped, while his fall camp availability remains undetermined, so true freshman Jamal Rule may be needed early. Up front Nebraska added guards Paul Mubenga from LSU and Brendan Black from Iowa State plus tackle Tree Babalade from South Carolina, giving a bigger and more agile group that must improve on 33 sacks allowed. *(p. 165)*
+- Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -307,30 +274,28 @@ As printed on p. 165. Each category carries a value and a national rank.
 
 - Makinen projects **6.3 wins** against a posted total of 6.5 — **-0.2** against this team.
 - The team page recommends **UNDER 6.5**.
-- With a new defensive scheme and a difficult schedule, Nebraska looks like a middling team once again and the seat will only get hotter for Rhule. *(p. 164)*
-- Oregon will be a likely home loss, and they do have three of the last four at home, but all in coin flip games – Nebraska, Iowa, and Northwestern – where they more than likely must win all three to get to eight victories. *(p. 150)*
-- Backdoor Cover against Nebraska, Indiana, and Michigan last year, took over the starting job in the final four games of the season, as the Spartans went just 1-3, but two of the three losses were by three points. *(p. 161)*
-- That game, and the 728 yards from Nebraska in a 68-0 loss, skewed the defensive numbers in a big way. *(p. 216)*
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+- Conclusion: with a new defensive scheme and a difficult schedule, Nebraska looks middling again and Rhule's seat will only get hotter. *(p. 164)*
+- Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 165)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 165)*. Its analysis, in reference form:
 
 ### Is there a true QB competition?
 
-Colandrea did not transfer to sit, but TJ Lateef (904 yards, five TD passes) was highly touted out of high school and did start five games as a true freshman last season, so he has familiarity with Dana Holgorsen’s Air Raid offense. Colandrea should win the job as the more proven commodity and will have targets as starting receivers Nyziah Hunter (43-617-5) and Jacory Barney Jr (45-484-5) return and Kwazi Gilmer started 19 games at UCLA over the last two seasons.
+The guide's own answer is qualified: Colandrea did not transfer in to sit, but TJ Lateef (904 yards, five touchdown passes) was highly touted, started five games as a true freshman and already knows Dana Holgorsen's Air Raid. It expects Colandrea to win as the more proven commodity, with returning starters Nyziah Hunter (43 catches, 617 yards, five touchdowns) and Jacory Barney Jr (45 catches, 484 yards, five touchdowns) plus Kwazi Gilmer, who started 19 games at UCLA. *(p. 165)*
 
 ### What happens to the running game without Emmett Johnson?
 
-Johnson was a first-team All-American last year, rushing for 1,451 yards and accounting for 15 touchdowns. The Huskers did not elect to bring in a running back out of the portal instead they will look to the returning sophomore duo of Mekhi Nelson and Isaiah Mozee. Nelson was arrested in late June on an aggravated battery charge, but charges were dropped. Nevertheless, his availability for fall camp has still yet to be determined, so true freshman Jamal Rule may have his number called early. Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed).
+Johnson was a first-team All-American with 1,451 rushing yards and 15 total touchdowns. Nebraska chose not to replace him from the portal, turning to sophomores Mekhi Nelson and Isaiah Mozee. The guide reports that Nelson was arrested in late June on an aggravated battery charge and that the charges were dropped, while his fall camp availability remains undetermined, so true freshman Jamal Rule may be needed early. Up front Nebraska added guards Paul Mubenga from LSU and Brendan Black from Iowa State plus tackle Tree Babalade from South Carolina, giving a bigger and more agile group that must improve on 33 sacks allowed. *(p. 165)*
 
-### Can the transition from 3-3-5 to Rob Aurich’s 4-2-5 scheme go smoothly?
+### Can the transition from 3-3-5 to Rob Aurich's 4-2-5 scheme go smoothly?
 
-Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. The Huskers need to find a balance defensively, as they ranked third nationally in pass defense, but only 98th in rush defense. With just 22 sacks in 13 games, Nebraska simply could not get to opposing quarterbacks. They went to the portal to add Owen Stoudmire (Boston College), Jahsear Whittington (Pitt), and Anthony Jones Jr (UCLA) up front. To shore up the linebacker corps, Owen Chambliss follows Aurich in from San Diego State and Dexter Foster transfers in from Oregon State to go along with Vincent Shavers Jr (61 tackles, 7.5 TFLs). The secondary is the best unit on the team with three starters back – Andrew Marshall (45 tackles), Rex Guthrie (63 tackles), and Donovan Jones (59 tackles).
+Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -348,6 +313,8 @@ No source conflict identified for this team.
 | 11, 20, 25, 150, 152, 161, 162, 168, 183, 216, 220, 259, 295 | Other pages naming this team |
 
 This team is named in **21 sentences across 15 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 20, 25, 150, 152, 161, 162, 168, 183, 216, 220, 259, 295.
 
 ## 29. Cross-Links
 
