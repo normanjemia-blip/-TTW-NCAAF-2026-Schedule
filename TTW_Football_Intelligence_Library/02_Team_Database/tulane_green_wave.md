@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 8.0–4.0 overall, 5.7–2.3 in conference |
 | **Schedule strength** | 35.2 (#84 toughest of 138) |
 
-### Season outlook as written in the guide (p. 70)
+### Season outlook — VSiN's analysis in reference form (p. 70)
 
-Who knows what would have happened for Tulane last season if Jake Retzlaff hadn’t violated the Honor Code at BYU. The Green Wave were going to be a good team, but perhaps it was Retzlaff who elevated them into a great team, one that represented the Group of Five in the College Football Playoff. It didn’t go well for them when they got there, as an Ole Miss team that beat them 45-10 in the regular season beat them 41-10 in the CFP, but it was a good reward at the end of Jon Sumrall’s short tenure. Sumrall inherited a pretty strong foundation and brought over some of his talent from Troy, a luxury that Will Hall may not have. While there are a handful of holdovers, a lot of last season’s production is gone and it doesn’t look like Darian Mensah, Retzlaff, or all- time passing leader Michael Pratt are walking through that door. The schedule is pretty soft and the talent pipeline is still fairly strong, but this has all the makings of a transitional year for Tulane. Over 7.5 And yet, the schedule should help them out in a big way. The Green Wave are likely to split their non-conference games against Duke, South Alabama, Kansas State, and Southern Miss. They have a bye prior to playing Army’s triple-option. They don’t play Navy or East Carolina and get Memphis and UTSA at home in consecutive weeks. Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. My projection is 7.56 wins.
+- The guide raises a counterfactual: what would have happened had Jake Retzlaff not violated BYU's Honor Code. Tulane was going to be good, but it suggests Retzlaff may have made them great enough to be the Group of Five playoff representative. *(p. 70)*
+- The playoff itself went badly — Ole Miss, who had won 45-10 in the regular season, won 41-10 — though it was a good reward at the end of Jon Sumrall's short tenure. *(p. 70)*
+- It notes Sumrall inherited a strong foundation and brought talent from Troy, a luxury Will Hall may not have. *(p. 70)*
+- With a handful of holdovers but much production gone, the guide observes that neither Darian Mensah, Retzlaff nor all-time passing leader Michael Pratt is walking through the door. *(p. 70)*
+- It expects a transitional year despite a soft schedule and a still fairly strong talent pipeline. *(p. 70)*
+- Recommendation is Over 7.5 wins, with the guide explicitly noting the tension — and yet the schedule should help in a big way. *(p. 70)*
+- Schedule detail: Tulane likely splits non-conference games against Duke, South Alabama, Kansas State and Southern Miss, has a bye before facing Army's triple option, avoids Navy and East Carolina, and hosts Memphis and UTSA in consecutive weeks. *(p. 70)*
+- It revises its own view of the coach openly: Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure — which included a conference change — had earned him. Projection is 7.56 wins. *(p. 70)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,18 +89,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Some of that may have been Sumrall and his late-game coaching in close contests. *(p. 71)*
-- But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
-- Promoting Tayler Polk to full-fledged DC as opposed to co-DC may have helped keep leading tacklers Jack Tchienchou and Chris Rodgers around. *(p. 71)*
+- It notes Sumrall inherited a strong foundation and brought talent from Troy, a luxury Will Hall may not have. *(p. 70)*
+- It revises its own view of the coach openly: Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure — which included a conference change — had earned him. Projection is 7.56 wins. *(p. 70)*
+- **Will Hall experience the regression Sumrall did not?** The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- FLORIDA Jon Sumrall arrives from Tulane as the new coach and should be a breath of fresh air in Gainesville after fans suffered through the ill-fated “Sun Belt” Billy Napier era. *(p. 19)*
-- Instead, Tulane promoted pass game coordinator Will Hall, who had a miserable tenure at Southern Miss, going 14-30 over three seasons and seven games. *(p. 29)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- From there, he moved up the ranks, eventually serving as the co-DC at Kentucky before two seasons as the head coach at Troy and two at Tulane. *(p. 36)*
-- It’s not hard to understand why when you realize that new head coach Neal Brown is taking over virtually a brand-new team, one with no starter back from the 2025 group that went 12-2 and scored 45.1 PPG. • Other big drops belong with James Madison (-12.5) and Tulane (-11.5), two other complete rebuilds for new coaches. *(p. 46)*
-- Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
+Also referenced on **pp. 19, 29, 36, 46, 58, 128** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -99,13 +101,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 70)*.
 
-- While there are a handful of holdovers, a lot of last season’s production is gone and it doesn’t look like Darian Mensah, Retzlaff, or all- time passing leader Michael Pratt are walking through that door. *(p. 70)*
-- That said, this was a defense that struggled against the pass last season, giving up 262 yards per game and a 67.6% completion rate. *(p. 71)*
+- The guide raises a counterfactual: what would have happened had Jake Retzlaff not violated BYU's Honor Code. Tulane was going to be good, but it suggests Retzlaff may have made them great enough to be the Group of Five playoff representative. *(p. 70)*
+- With a handful of holdovers but much production gone, the guide observes that neither Darian Mensah, Retzlaff nor all-time passing leader Michael Pratt is walking through the door. *(p. 70)*
+- **Who are the impact players on offense?** The guide argues Retzlaff's availability was a gift because Tulane was poorly set at running back after Makhi Hughes transferred: Jamauri McClure averaged 6.5 yards per carry on 83 attempts while Javin Gordon managed 4.0 on 128. Leading receiver Shazz Preston is gone, leaving Anthony Brown-Stevenson, who had only two fewer catches. It is dryly candid about the quarterbacks, noting Zeon Chriss-Gremillion has played a very long time in college with a hyphenated name the most notable development, and that Kadin Semonza redshirted without playing after starting at Ball State. Its answer to its own question is simply that we do not know. *(p. 71)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- After spending one season each at Tulane and Duke, Mensah (56 career passing TDs) steps into the South Beach spotlight as he attempts to guide the Hurricanes back to the playoff. 11. *(p. 45)*
-- Mensah was really good for Duke after transferring in from Tulane and now he’s leveled up again as the expected starting QB for, ironically, Miami. *(p. 87)*
+Also referenced on **pp. 45, 87** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -121,29 +121,24 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 ## 11. Transfer Portal
 
-- The fact that Retzlaff was available was truly a gift for Tulane because they were not set up well at the running back position with Makhi Hughes’ transfer. *(p. 71)*
-- Tulane’s portal class ranks seventh in the 14-team American Conference, so that’s not terribly impressive given that they’ve had three seasons of 11+ wins and another 9-5 campaign over the last four years. *(p. 71)*
+- It notes Sumrall inherited a strong foundation and brought talent from Troy, a luxury Will Hall may not have. *(p. 70)*
+- **Who are the impact players on offense?** The guide argues Retzlaff's availability was a gift because Tulane was poorly set at running back after Makhi Hughes transferred: Jamauri McClure averaged 6.5 yards per carry on 83 attempts while Javin Gordon managed 4.0 on 128. Leading receiver Shazz Preston is gone, leaving Anthony Brown-Stevenson, who had only two fewer catches. It is dryly candid about the quarterbacks, noting Zeon Chriss-Gremillion has played a very long time in college with a hyphenated name the most notable development, and that Kadin Semonza redshirted without playing after starting at Ball State. Its answer to its own question is simply that we do not know. *(p. 71)*
+- **Is the defense going to bail out the offense?** Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits promoting Tayler Polk from co-coordinator to full coordinator with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. But the unit struggled against the pass, allowing 262 yards per game and a 67.6% completion rate, and most of last season's 25 takeaways are gone. Its conclusion is that concerns run deep on both sides. *(p. 71)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Mensah was really good for Duke after transferring in from Tulane and now he’s leveled up again as the expected starting QB for, ironically, Miami. *(p. 87)*
-- One of the big wins in the portal was Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). *(p. 287)*
+Referenced in the guide on **pp. 87, 287** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-Not addressed in guide.
+- It expects a transitional year despite a soft schedule and a still fairly strong talent pipeline. *(p. 70)*
 
 ## 13. Offensive Identity
 
-- Some of that may have been Retzlaff, who led the team in rushing and had 16 rushing scores. *(p. 71)*
-- But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
-- Shazz Preston was the leading receiver by 200 yards and he’s gone, leaving behind second-leading WR Anthony Brown-Stevenson, who only had two fewer catches than Preston. *(p. 71)*
+- With a handful of holdovers but much production gone, the guide observes that neither Darian Mensah, Retzlaff nor all-time passing leader Michael Pratt is walking through the door. *(p. 70)*
+- **Who are the impact players on offense?** The guide argues Retzlaff's availability was a gift because Tulane was poorly set at running back after Makhi Hughes transferred: Jamauri McClure averaged 6.5 yards per carry on 83 attempts while Javin Gordon managed 4.0 on 128. Leading receiver Shazz Preston is gone, leaving Anthony Brown-Stevenson, who had only two fewer catches. It is dryly candid about the quarterbacks, noting Zeon Chriss-Gremillion has played a very long time in college with a hyphenated name the most notable development, and that Kadin Semonza redshirted without playing after starting at Ball State. Its answer to its own question is simply that we do not know. *(p. 71)*
 
 ## 14. Defensive Identity
 
-- The Green Wave only outscored opponents 27.7-23.9 and only outgained them by a half-yard per play, with that discrepancy largely coming from a +24 sack differential. *(p. 71)*
-- Promoting Tayler Polk to full-fledged DC as opposed to co-DC may have helped keep leading tacklers Jack Tchienchou and Chris Rodgers around. *(p. 71)*
-- That said, this was a defense that struggled against the pass last season, giving up 262 yards per game and a 67.6% completion rate. *(p. 71)*
+- **Is the defense going to bail out the offense?** Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits promoting Tayler Polk from co-coordinator to full coordinator with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. But the unit struggled against the pass, allowing 262 yards per game and a 67.6% completion rate, and most of last season's 25 takeaways are gone. Its conclusion is that concerns run deep on both sides. *(p. 71)*
 
 ## 15. Key Strengths
 
@@ -209,26 +204,17 @@ Prices printed on the team page *(p. 71)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Over 7.5 wins, with the guide explicitly noting the tension — and yet the schedule should help in a big way. *(p. 70)*
+- It revises its own view of the coach openly: Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure — which included a conference change — had earned him. Projection is 7.56 wins. *(p. 70)*
+- **Will Hall experience the regression Sumrall did not?** The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
 
 ## 22. Historical / Situational Trends
 
-- Who knows what would have happened for Tulane last season if Jake Retzlaff hadn’t violated the Honor Code at BYU. *(p. 70)*
-- While there are a handful of holdovers, a lot of last season’s production is gone and it doesn’t look like Darian Mensah, Retzlaff, or all- time passing leader Michael Pratt are walking through that door. *(p. 70)*
-- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
-- But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
-- Kadin Semonza was there last year, but redshirted and didn’t play at all after starting for Ball State. *(p. 71)*
-- That said, this was a defense that struggled against the pass last season, giving up 262 yards per game and a 67.6% completion rate. *(p. 71)*
-- Most of the 25 takeaways from last season are gone. *(p. 71)*
+- The guide raises a counterfactual: what would have happened had Jake Retzlaff not violated BYU's Honor Code. Tulane was going to be good, but it suggests Retzlaff may have made them great enough to be the Group of Five playoff representative. *(p. 70)*
+- The playoff itself went badly — Ole Miss, who had won 45-10 in the regular season, won 41-10 — though it was a good reward at the end of Jon Sumrall's short tenure. *(p. 70)*
+- **Will Hall experience the regression Sumrall did not?** The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- I like the Cougars to go into Salt Lake City and come away with the outright victory in “The Holy War.” NORTH TEXAS UNDER 5.5 WINS (+100) Last season, North Texas won 12 games and finished in a three-way tie for first place in the American Conference before falling to Tulane, 34-21, in the league title game. *(p. 7)*
-- The Cougars added former Tulane RB Makhi Hughes, who couldn’t crack the rotation in Oregon last year despite a 2024 in which he ran for 1,400 yards and had 17 total touchdowns. *(p. 11)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- Having immediate success adds commas to your bank account in CFB and that’s the case for Sumrall, who made the CFP with Tulane in 2024 and has won at least 11 games in three of his four seasons as a HC. *(p. 36)*
-- However, East Carolina also doesn’t face UTSA or Tulane, two of the four teams that beat the Pirates last season. *(p. 54)*
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
+Referenced in the guide on **pp. 7, 11, 29, 36, 54, 68, 95, 128** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -275,50 +261,44 @@ As printed on p. 71. Each category carries a value and a national rank.
 
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- The Green Wave were going to be a good team, but perhaps it was Retzlaff who elevated them into a great team, one that represented the Group of Five in the College Football Playoff. *(p. 70)*
-- It didn’t go well for them when they got there, as an Ole Miss team that beat them 45-10 in the regular season beat them 41-10 in the CFP, but it was a good reward at the end of Jon Sumrall’s short tenure. *(p. 70)*
-- Sumrall inherited a pretty strong foundation and brought over some of his talent from Troy, a luxury that Will Hall may not have. *(p. 70)*
-- The schedule is pretty soft and the talent pipeline is still fairly strong, but this has all the makings of a transitional year for Tulane. *(p. 70)*
-- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
-- But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
-- Tulane’s portal class ranks seventh in the 14-team American Conference, so that’s not terribly impressive given that they’ve had three seasons of 11+ wins and another 9-5 campaign over the last four years. *(p. 71)*
-- Concerns run really deep on both sides of the ball. *(p. 71)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- Having immediate success adds commas to your bank account in CFB and that’s the case for Sumrall, who made the CFP with Tulane in 2024 and has won at least 11 games in three of his four seasons as a HC. *(p. 36)*
+- The guide raises a counterfactual: what would have happened had Jake Retzlaff not violated BYU's Honor Code. Tulane was going to be good, but it suggests Retzlaff may have made them great enough to be the Group of Five playoff representative. *(p. 70)*
+- The playoff itself went badly — Ole Miss, who had won 45-10 in the regular season, won 41-10 — though it was a good reward at the end of Jon Sumrall's short tenure. *(p. 70)*
+- It notes Sumrall inherited a strong foundation and brought talent from Troy, a luxury Will Hall may not have. *(p. 70)*
+- It expects a transitional year despite a soft schedule and a still fairly strong talent pipeline. *(p. 70)*
+- It revises its own view of the coach openly: Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure — which included a conference change — had earned him. Projection is 7.56 wins. *(p. 70)*
+- The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
+- Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits promoting Tayler Polk from co-coordinator to full coordinator with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. But the unit struggled against the pass, allowing 262 yards per game and a 67.6% completion rate, and most of last season's 25 takeaways are gone. Its conclusion is that concerns run deep on both sides. *(p. 71)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- It didn’t go well for them when they got there, as an Ole Miss team that beat them 45-10 in the regular season beat them 41-10 in the CFP, but it was a good reward at the end of Jon Sumrall’s short tenure. *(p. 70)*
-- The Green Wave are likely to split their non-conference games against Duke, South Alabama, Kansas State, and Southern Miss. *(p. 70)*
-- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
-- But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
-- So the answer to that question is that we don’t know. *(p. 71)*
-- That said, this was a defense that struggled against the pass last season, giving up 262 yards per game and a 67.6% completion rate. *(p. 71)*
-- Concerns run really deep on both sides of the ball. *(p. 71)*
-- Will Hall Tulane Losing Willie Fritz and then Jon Sumrall would be tough for any program, but not taking a third swing at a rising name feels like a miss. *(p. 29)*
-- Instead, Tulane promoted pass game coordinator Will Hall, who had a miserable tenure at Southern Miss, going 14-30 over three seasons and seven games. *(p. 29)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
+- The playoff itself went badly — Ole Miss, who had won 45-10 in the regular season, won 41-10 — though it was a good reward at the end of Jon Sumrall's short tenure. *(p. 70)*
+- Schedule detail: Tulane likely splits non-conference games against Duke, South Alabama, Kansas State and Southern Miss, has a bye before facing Army's triple option, avoids Navy and East Carolina, and hosts Memphis and UTSA in consecutive weeks. *(p. 70)*
+- It revises its own view of the coach openly: Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure — which included a conference change — had earned him. Projection is 7.56 wins. *(p. 70)*
+- The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
+- The guide argues Retzlaff's availability was a gift because Tulane was poorly set at running back after Makhi Hughes transferred: Jamauri McClure averaged 6.5 yards per carry on 83 attempts while Javin Gordon managed 4.0 on 128. Leading receiver Shazz Preston is gone, leaving Anthony Brown-Stevenson, who had only two fewer catches. It is dryly candid about the quarterbacks, noting Zeon Chriss-Gremillion has played a very long time in college with a hyphenated name the most notable development, and that Kadin Semonza redshirted without playing after starting at Ball State. Its answer to its own question is simply that we do not know. *(p. 71)*
+- Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits promoting Tayler Polk from co-coordinator to full coordinator with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. But the unit struggled against the pass, allowing 262 yards per game and a 67.6% completion rate, and most of last season's 25 takeaways are gone. Its conclusion is that concerns run deep on both sides. *(p. 71)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 71)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 71)*. Its analysis, in reference form:
 
 ### Will Hall experience the regression Sumrall did not?
 
-Tulane’s 11-3 record certainly stands out, but let’s look deeper, shall we? The Green Wave only outscored opponents 27.7-23.9 and only outgained them by a half-yard per play, with that discrepancy largely coming from a +24 sack differential. Tulane won four games in which they were outgained and five games by one score. Some of that may have been Sumrall and his late-game coaching in close contests. Some of that may have been luck. Some of that may have been Retzlaff, who led the team in rushing and had 16 rushing scores. But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad.
+The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
 
 ### Who are the impact players on offense?
 
-The fact that Retzlaff was available was truly a gift for Tulane because they were not set up well at the running back position with Makhi Hughes’ transfer. Jamauri McClure had 6.5 yards per carry on just 83 attempts and Javin Gordon only had 4.0 YPC on 128 attempts. Shazz Preston was the leading receiver by 200 yards and he’s gone, leaving behind second-leading WR Anthony Brown-Stevenson, who only had two fewer catches than Preston. Zeon Chriss-Gremillion has played like 12 years of college football and the only notable thing is that he’s got a hyphenated last name now. Kadin Semonza was there last year, but redshirted and didn’t play at all after starting for Ball State. So the answer to that question is that we don’t know.
+The guide argues Retzlaff's availability was a gift because Tulane was poorly set at running back after Makhi Hughes transferred: Jamauri McClure averaged 6.5 yards per carry on 83 attempts while Javin Gordon managed 4.0 on 128. Leading receiver Shazz Preston is gone, leaving Anthony Brown-Stevenson, who had only two fewer catches. It is dryly candid about the quarterbacks, noting Zeon Chriss-Gremillion has played a very long time in college with a hyphenated name the most notable development, and that Kadin Semonza redshirted without playing after starting at Ball State. Its answer to its own question is simply that we do not know. *(p. 71)*
 
 ### Is the defense going to bail out the offense?
 
-Tulane’s portal class ranks seventh in the 14-team American Conference, so that’s not terribly impressive given that they’ve had three seasons of 11+ wins and another 9-5 campaign over the last four years. Promoting Tayler Polk to full-fledged DC as opposed to co-DC may have helped keep leading tacklers Jack Tchienchou and Chris Rodgers around. That said, this was a defense that struggled against the pass last season, giving up 262 yards per game and a 67.6% completion rate. Most of the 25 takeaways from last season are gone. Concerns run really deep on both sides of the ball.
+Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits promoting Tayler Polk from co-coordinator to full coordinator with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. But the unit struggled against the pass, allowing 262 yards per game and a 67.6% completion rate, and most of last season's 25 takeaways are gone. Its conclusion is that concerns run deep on both sides. *(p. 71)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

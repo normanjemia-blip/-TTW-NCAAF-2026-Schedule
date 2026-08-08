@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 3.6–8.4 overall, 1.7–6.3 in conference |
 | **Schedule strength** | 34.78 (#89 toughest of 138) |
 
-### Season outlook as written in the guide (p. 74)
+### Season outlook — VSiN's analysis in reference form (p. 74)
 
-At the end of the 2022 season, players rallied in support of interim head coach Bryant Vincent, who had served as the OC under predecessor Bill Clark before he stepped aside to focus on his health. The athletic department had other ideas and hired Trent Dilfer, who went just 9-21 over two-and-a-half seasons. Alex Mortensen, son of late ESPN analyst Chris, led an upset win over Memphis in his first game, but then the Blazers lost the next three games before finishing the season with a win over Tulsa. Apparently that was enough for the penny-pinching AD to keep Mortensen around, as he’ll get his first crack without the interim tag. Last season was disastrous for the Blazers, including a pregame stabbing incident in the locker room prior to the loss against USF, so it’s probably unfair to judge Mortensen based on his six-game sample. Virtually everybody on defense is gone and most of the offense, a development that was in motion before the regular season even ended last year. Under 3.5 Even though UAB got to four wins last season in the midst of all sorts of turmoil, the schedule is pretty rough. The game against ULM should be a win, but as the second game of the season with a ton of new players and schemes, that could be a high-variance one both ways. It seems like UAB has to get that one because Samford and maybe Charlotte look like the other best chances, leaving the need for at least one upset somewhere along the line. Because I expect UAB’s pass game to become less important, their game state worries me because they project to trail a lot. My projection is 3.63 wins.
+- The guide recounts the background: players rallied behind interim coach Bryant Vincent after 2022, but the athletic department hired Trent Dilfer, who went 9-21 over two and a half seasons. *(p. 74)*
+- Alex Mortensen, son of the late ESPN analyst Chris Mortensen, won an upset over Memphis in his first game, lost the next three, then closed with a win over Tulsa — enough for what the guide calls a penny-pinching athletic director to keep him without the interim tag. *(p. 74)*
+- It records that last season was disastrous, including a pregame stabbing incident in the locker room before the South Florida loss, and argues it is probably unfair to judge Mortensen on a six-game sample. *(p. 74)*
+- Virtually everybody on defense and most of the offense is gone, a development already in motion before last season ended. *(p. 74)*
+- Recommendation is Under 3.5 wins. The guide acknowledges UAB reached four wins amid all that turmoil while calling the schedule pretty rough. *(p. 74)*
+- It reasons through the specific games: ULM should be a win but comes second with many new players and schemes, making it high-variance either way; UAB probably must have it, since Samford and perhaps Charlotte look like the other best chances, leaving a need for at least one upset. *(p. 74)*
+- A game-state argument closes it: because the guide expects the pass game to become less important, it worries UAB projects to trail often. Projection is 3.63 wins. *(p. 74)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,17 +88,12 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 33)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- At the end of the 2022 season, players rallied in support of interim head coach Bryant Vincent, who had served as the OC under predecessor Bill Clark before he stepped aside to focus on his health. *(p. 74)*
-- The athletic department had other ideas and hired Trent Dilfer, who went just 9-21 over two-and-a-half seasons. *(p. 74)*
-- Veteran DC Todd Grantham is a nice start, as he’s coached for some premier college teams and was also an NFL DC. *(p. 75)*
-- Mortensen was the OC when he got promoted and kept running the offense when he took over as the interim head coach. *(p. 75)*
-- Russ is a longtime linebackers coach and had some seasons as the DC in Colorado Springs, but plotting a defensive course on a triple-option team is far different than what he experienced in Birmingham. *(p. 75)*
-- Grantham has been a lot of places and, while his scheme might be kind of complex, he’s certainly the best DC that the Blazers have had in a long time. *(p. 75)*
+- The guide recounts the background: players rallied behind interim coach Bryant Vincent after 2022, but the athletic department hired Trent Dilfer, who went 9-21 over two and a half seasons. *(p. 74)*
+- Alex Mortensen, son of the late ESPN analyst Chris Mortensen, won an upset over Memphis in his first game, lost the next three, then closed with a win over Tulsa — enough for what the guide calls a penny-pinching athletic director to keep him without the interim tag. *(p. 74)*
+- **Should Mortensen call his own offense?** Mortensen was coordinator when promoted, kept calling plays as interim and will continue while overseeing the whole programme. The guide finds a mitigating factor in Grantham, who has been around long enough not to need supervision. On substance it notes little changed for the offense late in the season beyond running more often, even in blowout losses to UConn, North Texas and South Florida — which makes Georgia transfer Rod Robinson and ULM transfer Bam McReynolds focal points. *(p. 75)*
+- **Is Grantham just what the Blazers defense needs?** The guide reviews the recent history: Steve Russ and Sione Ta'ufo'ou were coordinators under Dilfer, Ta'ufo'ou returned to Cal and Russ came from Air Force. It makes a specific scheme point — plotting a defense for a triple-option team is very different from Birmingham — and notes UAB was unsurprisingly better against the run under Russ while conceding many more explosive pass plays. It rates Grantham the best coordinator UAB has had in a long time despite a possibly complex scheme, and uses salary as evidence of institutional commitment: Grantham earned $1.3 million at Oklahoma State before being fired four games in, while Mortensen makes $1 million, so bringing him in is a large investment that says something. *(p. 75)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Alex Mortensen UAB Mortensen isn’t a new head coach, per se, as he took over when Trent Dilfer was booted from Birmingham, but he’s the full-time guy now. *(p. 33)*
-- Russ most recently served in the same role at UAB, but was defensive coordinator here from 2014-2017. *(p. 245)*
+Also referenced on **pp. 33, 245** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -98,7 +101,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 74)*.
 
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
+- **How does the rebuild look?** Veteran coordinator Todd Grantham is called a nice start, having coached at premier college programmes and in the NFL. With UAB returning one player with more than 20 tackles, the guide says he has as blank a slate as possible. Portal additions from all over make up that unit and most of the offense, with quarterback Ryder Burton — who arrived via BYU and West Virginia — at least a starting point. It is frank that many offensive players are multi-time transfers who have not latched on anywhere, including a patchwork line, and concludes that while some impact players will emerge on both sides, nobody on the two-deep is proven. *(p. 75)*
 
 ## 10. Returning Production
 
@@ -114,13 +117,11 @@ The Stability Score table prints the same figure independently: **4 returning st
 
 ## 11. Transfer Portal
 
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
-- A lot of the guys on offense are multi-time transfers that haven’t latched on anywhere, including the patchwork offensive line. *(p. 75)*
-- That means Georgia transfer Rod Robinson and ULM transfer Bam McReynolds will be focal points in the gameplan. *(p. 75)*
+- Virtually everybody on defense and most of the offense is gone, a development already in motion before last season ended. *(p. 74)*
+- **How does the rebuild look?** Veteran coordinator Todd Grantham is called a nice start, having coached at premier college programmes and in the NFL. With UAB returning one player with more than 20 tackles, the guide says he has as blank a slate as possible. Portal additions from all over make up that unit and most of the offense, with quarterback Ryder Burton — who arrived via BYU and West Virginia — at least a starting point. It is frank that many offensive players are multi-time transfers who have not latched on anywhere, including a patchwork line, and concludes that while some impact players will emerge on both sides, nobody on the two-deep is proven. *(p. 75)*
+- **Should Mortensen call his own offense?** Mortensen was coordinator when promoted, kept calling plays as interim and will continue while overseeing the whole programme. The guide finds a mitigating factor in Grantham, who has been around long enough not to need supervision. On substance it notes little changed for the offense late in the season beyond running more often, even in blowout losses to UConn, North Texas and South Florida — which makes Georgia transfer Rod Robinson and ULM transfer Bam McReynolds focal points. *(p. 75)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- LSU transfer Nic Anderson (6’4”, 205 lbs.) had almost 800 yards and 10 TDs at Oklahoma in 2023, Southern Utah transfer Shane Carr (6’2”, 185 lbs.) went for over 1,300 yards and 10 TDs over the last two seasons, plus Arkansas transfer Ja’Kayden Ferguson (6’2”, 184 lbs.) and UAB transfer Xavier Daisy (6’3”, 212 lbs.) join the fold as well. *(p. 10)*
+Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -128,20 +129,17 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Virtually everybody on defense is gone and most of the offense, a development that was in motion before the regular season even ended last year. *(p. 74)*
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
-- A lot of the guys on offense are multi-time transfers that haven’t latched on anywhere, including the patchwork offensive line. *(p. 75)*
-- Mortensen was the OC when he got promoted and kept running the offense when he took over as the interim head coach. *(p. 75)*
-- Not much seemed to change for the offense late in the season besides a higher frequency of running the football, even in blowout losses to UConn, North Texas, and South Florida. *(p. 75)*
+- Virtually everybody on defense and most of the offense is gone, a development already in motion before last season ended. *(p. 74)*
+- A game-state argument closes it: because the guide expects the pass game to become less important, it worries UAB projects to trail often. Projection is 3.63 wins. *(p. 74)*
+- **Should Mortensen call his own offense?** Mortensen was coordinator when promoted, kept calling plays as interim and will continue while overseeing the whole programme. The guide finds a mitigating factor in Grantham, who has been around long enough not to need supervision. On substance it notes little changed for the offense late in the season beyond running more often, even in blowout losses to UConn, North Texas and South Florida — which makes Georgia transfer Rod Robinson and ULM transfer Bam McReynolds focal points. *(p. 75)*
 
 ## 14. Defensive Identity
 
-- Virtually everybody on defense is gone and most of the offense, a development that was in motion before the regular season even ended last year. *(p. 74)*
-- Russ is a longtime linebackers coach and had some seasons as the DC in Colorado Springs, but plotting a defensive course on a triple-option team is far different than what he experienced in Birmingham. *(p. 75)*
+- Virtually everybody on defense and most of the offense is gone, a development already in motion before last season ended. *(p. 74)*
+- **How does the rebuild look?** Veteran coordinator Todd Grantham is called a nice start, having coached at premier college programmes and in the NFL. With UAB returning one player with more than 20 tackles, the guide says he has as blank a slate as possible. Portal additions from all over make up that unit and most of the offense, with quarterback Ryder Burton — who arrived via BYU and West Virginia — at least a starting point. It is frank that many offensive players are multi-time transfers who have not latched on anywhere, including a patchwork line, and concludes that while some impact players will emerge on both sides, nobody on the two-deep is proven. *(p. 75)*
+- **Is Grantham just what the Blazers defense needs?** The guide reviews the recent history: Steve Russ and Sione Ta'ufo'ou were coordinators under Dilfer, Ta'ufo'ou returned to Cal and Russ came from Air Force. It makes a specific scheme point — plotting a defense for a triple-option team is very different from Birmingham — and notes UAB was unsurprisingly better against the run under Russ while conceding many more explosive pass plays. It rates Grantham the best coordinator UAB has had in a long time despite a possibly complex scheme, and uses salary as evidence of institutional commitment: Grantham earned $1.3 million at Oklahoma State before being fired four games in, while Mortensen makes $1 million, so bringing him in is a large investment that says something. *(p. 75)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Russ most recently served in the same role at UAB, but was defensive coordinator here from 2014-2017. *(p. 245)*
+Referenced in the guide on **pp. 245** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -213,21 +211,16 @@ Prices printed on the team page *(p. 75)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 3.5 wins. The guide acknowledges UAB reached four wins amid all that turmoil while calling the schedule pretty rough. *(p. 74)*
+- It reasons through the specific games: ULM should be a win but comes second with many new players and schemes, making it high-variance either way; UAB probably must have it, since Samford and perhaps Charlotte look like the other best chances, leaving a need for at least one upset. *(p. 74)*
+- A game-state argument closes it: because the guide expects the pass game to become less important, it worries UAB projects to trail often. Projection is 3.63 wins. *(p. 74)*
 
 ## 22. Historical / Situational Trends
 
-- Last season was disastrous for the Blazers, including a pregame stabbing incident in the locker room prior to the loss against USF, so it’s probably unfair to judge Mortensen based on his six-game sample. *(p. 74)*
-- Virtually everybody on defense is gone and most of the offense, a development that was in motion before the regular season even ended last year. *(p. 74)*
-- Under 3.5 Even though UAB got to four wins last season in the midst of all sorts of turmoil, the schedule is pretty rough. *(p. 74)*
-- Steve Russ and Sione Ta’ufo’ou were the two DCs during the Dilfer era, as Ta’ufo’ou went back to Cal prior to last season and Russ was brought over from Air Force. *(p. 75)*
-- Grantham was making $1.3 million last season at Oklahoma State, but was fired just four games into the season. *(p. 75)*
+- The guide recounts the background: players rallied behind interim coach Bryant Vincent after 2022, but the athletic department hired Trent Dilfer, who went 9-21 over two and a half seasons. *(p. 74)*
+- It records that last season was disastrous, including a pregame stabbing incident in the locker room before the South Florida loss, and argues it is probably unfair to judge Mortensen on a six-game sample. *(p. 74)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- LSU transfer Nic Anderson (6’4”, 205 lbs.) had almost 800 yards and 10 TDs at Oklahoma in 2023, Southern Utah transfer Shane Carr (6’2”, 185 lbs.) went for over 1,300 yards and 10 TDs over the last two seasons, plus Arkansas transfer Ja’Kayden Ferguson (6’2”, 184 lbs.) and UAB transfer Xavier Daisy (6’3”, 212 lbs.) join the fold as well. *(p. 10)*
-- Outside of Navy, they face all of the teams that project to be average or better and they do not face Charlotte or UAB, their only two conference wins last season. *(p. 64)*
-- Bryant Vincent brought some instant legitimacy to the Warhawks in 2024, getting off to a 5-1 start that included upset wins over UAB, Troy, and James Madison. *(p. 336)*
+Referenced in the guide on **pp. 10, 64, 336** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -273,41 +266,38 @@ As printed on p. 75. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **3.6 wins** against a posted total of 3.5 — **+0.1** in this team's favour.
-- It seems like UAB has to get that one because Samford and maybe Charlotte look like the other best chances, leaving the need for at least one upset somewhere along the line. *(p. 74)*
-- Given that UAB returns one guy with more than 20 tackles, Grantham truly has as blank a slate as you can get. *(p. 75)*
-- Some impact guys will emerge on both sides of the ball, but nobody on the two-deep is “proven”. *(p. 75)*
-- Russ is a longtime linebackers coach and had some seasons as the DC in Colorado Springs, but plotting a defensive course on a triple-option team is far different than what he experienced in Birmingham. *(p. 75)*
-- Grantham has been a lot of places and, while his scheme might be kind of complex, he’s certainly the best DC that the Blazers have had in a long time. *(p. 75)*
-- Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. *(p. 52)*
-- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
+- It reasons through the specific games: ULM should be a win but comes second with many new players and schemes, making it high-variance either way; UAB probably must have it, since Samford and perhaps Charlotte look like the other best chances, leaving a need for at least one upset. *(p. 74)*
+- Veteran coordinator Todd Grantham is called a nice start, having coached at premier college programmes and in the NFL. With UAB returning one player with more than 20 tackles, the guide says he has as blank a slate as possible. Portal additions from all over make up that unit and most of the offense, with quarterback Ryder Burton — who arrived via BYU and West Virginia — at least a starting point. It is frank that many offensive players are multi-time transfers who have not latched on anywhere, including a patchwork line, and concludes that while some impact players will emerge on both sides, nobody on the two-deep is proven. *(p. 75)*
+- The guide reviews the recent history: Steve Russ and Sione Ta'ufo'ou were coordinators under Dilfer, Ta'ufo'ou returned to Cal and Russ came from Air Force. It makes a specific scheme point — plotting a defense for a triple-option team is very different from Birmingham — and notes UAB was unsurprisingly better against the run under Russ while conceding many more explosive pass plays. It rates Grantham the best coordinator UAB has had in a long time despite a possibly complex scheme, and uses salary as evidence of institutional commitment: Grantham earned $1.3 million at Oklahoma State before being fired four games in, while Mortensen makes $1 million, so bringing him in is a large investment that says something. *(p. 75)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 3.5**.
-- Alex Mortensen, son of late ESPN analyst Chris, led an upset win over Memphis in his first game, but then the Blazers lost the next three games before finishing the season with a win over Tulsa. *(p. 74)*
-- Last season was disastrous for the Blazers, including a pregame stabbing incident in the locker room prior to the loss against USF, so it’s probably unfair to judge Mortensen based on his six-game sample. *(p. 74)*
-- Not much seemed to change for the offense late in the season besides a higher frequency of running the football, even in blowout losses to UConn, North Texas, and South Florida. *(p. 75)*
+- Alex Mortensen, son of the late ESPN analyst Chris Mortensen, won an upset over Memphis in his first game, lost the next three, then closed with a win over Tulsa — enough for what the guide calls a penny-pinching athletic director to keep him without the interim tag. *(p. 74)*
+- It records that last season was disastrous, including a pregame stabbing incident in the locker room before the South Florida loss, and argues it is probably unfair to judge Mortensen on a six-game sample. *(p. 74)*
+- Mortensen was coordinator when promoted, kept calling plays as interim and will continue while overseeing the whole programme. The guide finds a mitigating factor in Grantham, who has been around long enough not to need supervision. On substance it notes little changed for the offense late in the season beyond running more often, even in blowout losses to UConn, North Texas and South Florida — which makes Georgia transfer Rod Robinson and ULM transfer Bam McReynolds focal points. *(p. 75)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 75)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 75)*. Its analysis, in reference form:
 
 ### How does the rebuild look?
 
-Veteran DC Todd Grantham is a nice start, as he’s coached for some premier college teams and was also an NFL DC. Given that UAB returns one guy with more than 20 tackles, Grantham truly has as blank a slate as you can get. Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. A lot of the guys on offense are multi-time transfers that haven’t latched on anywhere, including the patchwork offensive line. Some impact guys will emerge on both sides of the ball, but nobody on the two-deep is “proven”.
+Veteran coordinator Todd Grantham is called a nice start, having coached at premier college programmes and in the NFL. With UAB returning one player with more than 20 tackles, the guide says he has as blank a slate as possible. Portal additions from all over make up that unit and most of the offense, with quarterback Ryder Burton — who arrived via BYU and West Virginia — at least a starting point. It is frank that many offensive players are multi-time transfers who have not latched on anywhere, including a patchwork line, and concludes that while some impact players will emerge on both sides, nobody on the two-deep is proven. *(p. 75)*
 
 ### Should Mortensen call his own offense?
 
-Mortensen was the OC when he got promoted and kept running the offense when he took over as the interim head coach. He’s going to keep doing that this season, even though he’s overseeing the entire program now. At least the presence of somebody like Grantham helps in the sense that he’s been around forever and doesn’t need anybody looking over his shoulder. Not much seemed to change for the offense late in the season besides a higher frequency of running the football, even in blowout losses to UConn, North Texas, and South Florida. That means Georgia transfer Rod Robinson and ULM transfer Bam McReynolds will be focal points in the gameplan.
+Mortensen was coordinator when promoted, kept calling plays as interim and will continue while overseeing the whole programme. The guide finds a mitigating factor in Grantham, who has been around long enough not to need supervision. On substance it notes little changed for the offense late in the season beyond running more often, even in blowout losses to UConn, North Texas and South Florida — which makes Georgia transfer Rod Robinson and ULM transfer Bam McReynolds focal points. *(p. 75)*
 
 ### Is Grantham just what the Blazers defense needs?
 
-Steve Russ and Sione Ta’ufo’ou were the two DCs during the Dilfer era, as Ta’ufo’ou went back to Cal prior to last season and Russ was brought over from Air Force. Russ is a longtime linebackers coach and had some seasons as the DC in Colorado Springs, but plotting a defensive course on a triple-option team is far different than what he experienced in Birmingham. Not surprisingly, UAB was better against the run on his watch, but also gave up a lot more explosive pass plays. Grantham has been a lot of places and, while his scheme might be kind of complex, he’s certainly the best DC that the Blazers have had in a long time. Grantham was making $1.3 million last season at Oklahoma State, but was fired just four games into the season. Mortensen is only making $1 million, so this is likely a large investment to bring in Grantham and that says something.
+The guide reviews the recent history: Steve Russ and Sione Ta'ufo'ou were coordinators under Dilfer, Ta'ufo'ou returned to Cal and Russ came from Air Force. It makes a specific scheme point — plotting a defense for a triple-option team is very different from Birmingham — and notes UAB was unsurprisingly better against the run under Russ while conceding many more explosive pass plays. It rates Grantham the best coordinator UAB has had in a long time despite a possibly complex scheme, and uses salary as evidence of institutional commitment: Grantham earned $1.3 million at Oklahoma State before being fired four games in, while Mortensen makes $1 million, so bringing him in is a large investment that says something. *(p. 75)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

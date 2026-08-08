@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 5.3–6.7 overall, 3.1–4.9 in conference |
 | **Schedule strength** | 34.23 (#91 toughest of 138) |
 
-### Season outlook as written in the guide (p. 72)
+### Season outlook — VSiN's analysis in reference form (p. 72)
 
-As expected, the Golden Hurricane looked better, but it didn’t translate into that much better of a record. Tulsa went 4-8, a modest one-game improvement over the previous season, but Tre Lamb’s team is moving in the right direction. This was arguably the worst defense in the nation in 2024 with 42.5 PPG and 7.1 YPP allowed. The secondary got torched left and right, as opponents averaged well over 300 passing yards per game. While Lamb’s team didn’t make many strides on offense, they gave up nearly 14 fewer points per game and 1.5 fewer yards per play, including more than a 100-yard improvement in terms of passing yards against. Now we see if Lamb and new OC Kevin Barbay can inject some life into that side of the ball. Like most G6 teams, a lot of players moved on, but QB Baylor Hayes was not one of them and that could make a major difference. He’ll have a new group of skill players, but the 36-year-old Lamb was a QB at Tennessee Tech and then the OC there as a rapid riser in the coaching ranks. Over 5.5 I’ll give Lamb and his staff the benefit of the doubt here, in spite of a challenging schedule. While Tulsa avoids East Carolina and Memphis, road games at Navy, Tulane, and UTSA make for a very tough conference schedule. That said, all four American home games are very winnable, along with East Texas A&M. If the Golden Hurricane can beat Sam Houston State on the road in Week 2, this one should get there and the team should go bowling for the first time since 2021. My projection is 5.43 wins.
+- Tulsa looked better without the record following: 4-8, a one-game improvement, though the guide judges Tre Lamb's team is moving in the right direction. *(p. 72)*
+- It establishes the baseline being improved from — arguably the nation's worst defense in 2024 at 42.5 points and 7.1 yards per play allowed, with a secondary torched for well over 300 passing yards per game. *(p. 72)*
+- The gains were real: nearly 14 fewer points and 1.5 fewer yards per play allowed, including more than a 100-yard improvement against the pass, even though the offense made few strides. *(p. 72)*
+- The open question is whether Lamb and new coordinator Kevin Barbay can inject life into the offense. *(p. 72)*
+- Like most Group of Six teams many players left, but quarterback Baylor Hayes did not, which the guide says could make a major difference despite an entirely new skill group. *(p. 72)*
+- It adds coaching background: the 36-year-old Lamb was a quarterback at Tennessee Tech then its coordinator, a rapid riser. *(p. 72)*
+- Recommendation is Over 5.5 wins, framed as giving Lamb and his staff the benefit of the doubt despite a challenging schedule. *(p. 72)*
+- Tulsa avoids East Carolina and Memphis but travels to Navy, Tulane and UTSA, making the conference slate very tough. All four American home games are described as very winnable along with East Texas A&M, and the guide identifies the hinge: beating Sam Houston State on the road in Week 2 should get this home and produce a first bowl since 2021. Projection is 5.43 wins. *(p. 72)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -79,14 +88,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Now we see if Lamb and new OC Kevin Barbay can inject some life into that side of the ball. *(p. 72)*
-- He’ll have a new group of skill players, but the 36-year-old Lamb was a QB at Tennessee Tech and then the OC there as a rapid riser in the coaching ranks. *(p. 72)*
-- Over 5.5 I’ll give Lamb and his staff the benefit of the doubt here, in spite of a challenging schedule. *(p. 72)*
-- While the team’s top two tacklers are gone, the team’s top defensive backs have returned and Year 2 of DC Josh Reardon’s scheme not only features players who know it, but also transfers who are likely better fits. *(p. 73)*
+- Tulsa looked better without the record following: 4-8, a one-game improvement, though the guide judges Tre Lamb's team is moving in the right direction. *(p. 72)*
+- The open question is whether Lamb and new coordinator Kevin Barbay can inject life into the offense. *(p. 72)*
+- It adds coaching background: the 36-year-old Lamb was a quarterback at Tennessee Tech then its coordinator, a rapid riser. *(p. 72)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He played at Michigan, was a grad assistant there, actually coached at Ohio State, and also had stops at Nevada and Tulsa. *(p. 343)*
+Also referenced on **pp. 343** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -94,14 +100,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 72)*.
 
-- The secondary got torched left and right, as opponents averaged well over 300 passing yards per game. *(p. 72)*
-- While Lamb’s team didn’t make many strides on offense, they gave up nearly 14 fewer points per game and 1.5 fewer yards per play, including more than a 100-yard improvement in terms of passing yards against. *(p. 72)*
-- Like most G6 teams, a lot of players moved on, but QB Baylor Hayes was not one of them and that could make a major difference. *(p. 72)*
-- He’ll have a new group of skill players, but the 36-year-old Lamb was a QB at Tennessee Tech and then the OC there as a rapid riser in the coaching ranks. *(p. 72)*
+- Like most Group of Six teams many players left, but quarterback Baylor Hayes did not, which the guide says could make a major difference despite an entirely new skill group. *(p. 72)*
+- **Will Hayes have a sophomore slump?** Hayes did not post eye-popping numbers but led the offense to 424 yards in the upset of Oklahoma State that changed perceptions of the programme's direction. The guide is careful to give the full sequence: Tulsa followed with three straight blowout losses to conference top dogs, then was largely competitive against comparable or lesser opponents. He loses 1,000-yard rusher Dominic Richardson and his top three pass catchers, but the guide makes a structural point — with the programme showing more stability, transfers are now more willing to come. It expects heavy running with more designed runs for Hayes plus productive Auburn and Old Dominion transfers at running back. *(p. 73)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kinne was a big-time passer at Tulsa, finishing his career with 9,472 yards and 81 touchdowns, but his playing career stalled at numerous pro stops. *(p. 277)*
+Also referenced on **pp. 277** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -117,15 +119,12 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- Hayes will be without 1,000-yard rusher Dominic Richardson and his top three pass-catchers, but now that the program has shown a bit more stability, transfers are more willing to come in. *(p. 73)*
-- Expect Tulsa to run the rock a lot, with some more designed runs for Hayes, but also with productive Auburn and Old Dominion transfers at RB. *(p. 73)*
-- Tulsa should get some sort of steak or fast food restaurant NIL deal because they have some beef on the offensive line. *(p. 73)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
-- While the team’s top two tacklers are gone, the team’s top defensive backs have returned and Year 2 of DC Josh Reardon’s scheme not only features players who know it, but also transfers who are likely better fits. *(p. 73)*
+- Like most Group of Six teams many players left, but quarterback Baylor Hayes did not, which the guide says could make a major difference despite an entirely new skill group. *(p. 72)*
+- **Will Hayes have a sophomore slump?** Hayes did not post eye-popping numbers but led the offense to 424 yards in the upset of Oklahoma State that changed perceptions of the programme's direction. The guide is careful to give the full sequence: Tulsa followed with three straight blowout losses to conference top dogs, then was largely competitive against comparable or lesser opponents. He loses 1,000-yard rusher Dominic Richardson and his top three pass catchers, but the guide makes a structural point — with the programme showing more stability, transfers are now more willing to come. It expects heavy running with more designed runs for Hayes plus productive Auburn and Old Dominion transfers at running back. *(p. 73)*
+- **What will be Tulsa's biggest area of improvement?** The offensive line. The guide jokes Tulsa should get a steak or fast food NIL deal given the beef up front, then gives the substance: Lamb brought transfers from Texas A&M and Ole Miss last season and added South Alabama's starting center Malachi Preciado, originally at Purdue. Every starter and two-deep player is at or above 300 pounds, which it reads as exactly what Lamb wants. With nearly 500 rushing attempts last season it expects an even higher figure. *(p. 73)*
+- **Can the Golden Hurricane turn Tulsa into "TOlsa"?** Despite improving in several areas the defense did not take the ball away, managing 11 takeaways for a -9 turnover margin, and the guide notes it has been a long time since Tulsa was positive in that battle. It sets the condition plainly: provided a run-first offense does not fumble, more defensive turnovers should help. The top two tacklers are gone but the top defensive backs return, and year two of coordinator Josh Reardon's scheme features both players who know it and transfers who are likely better fits. *(p. 73)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Tulsa transfer Ajay Allen will likely lead the by-committee approach at RB that had decent returns last season. *(p. 207)*
+Referenced in the guide on **pp. 207** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -133,20 +132,16 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- While Lamb’s team didn’t make many strides on offense, they gave up nearly 14 fewer points per game and 1.5 fewer yards per play, including more than a 100-yard improvement in terms of passing yards against. *(p. 72)*
-- Hayes didn’t put up eye-popping numbers, but did help lead the offense to 424 yards in the upset win over Oklahoma State that really opened some eyes about the direction of this program. *(p. 73)*
-- The offensive line is what looks like the group to push this team forward. *(p. 73)*
-- Tulsa should get some sort of steak or fast food restaurant NIL deal because they have some beef on the offensive line. *(p. 73)*
-- As long as they don’t fumble the ball with a run-first offense, more turnovers on defense should help the cause. *(p. 73)*
+- The gains were real: nearly 14 fewer points and 1.5 fewer yards per play allowed, including more than a 100-yard improvement against the pass, even though the offense made few strides. *(p. 72)*
+- The open question is whether Lamb and new coordinator Kevin Barbay can inject life into the offense. *(p. 72)*
+- **Will Hayes have a sophomore slump?** Hayes did not post eye-popping numbers but led the offense to 424 yards in the upset of Oklahoma State that changed perceptions of the programme's direction. The guide is careful to give the full sequence: Tulsa followed with three straight blowout losses to conference top dogs, then was largely competitive against comparable or lesser opponents. He loses 1,000-yard rusher Dominic Richardson and his top three pass catchers, but the guide makes a structural point — with the programme showing more stability, transfers are now more willing to come. It expects heavy running with more designed runs for Hayes plus productive Auburn and Old Dominion transfers at running back. *(p. 73)*
+- **What will be Tulsa's biggest area of improvement?** The offensive line. The guide jokes Tulsa should get a steak or fast food NIL deal given the beef up front, then gives the substance: Lamb brought transfers from Texas A&M and Ole Miss last season and added South Alabama's starting center Malachi Preciado, originally at Purdue. Every starter and two-deep player is at or above 300 pounds, which it reads as exactly what Lamb wants. With nearly 500 rushing attempts last season it expects an even higher figure. *(p. 73)*
 
 ## 14. Defensive Identity
 
-- This was arguably the worst defense in the nation in 2024 with 42.5 PPG and 7.1 YPP allowed. *(p. 72)*
-- The secondary got torched left and right, as opponents averaged well over 300 passing yards per game. *(p. 72)*
-- While the defense improved in several key areas, taking the football away from the other team was not one of them. *(p. 73)*
-- Tulsa’s defense mustered just 11 takeaways last season, leading to a -9 TO margin. *(p. 73)*
-- As long as they don’t fumble the ball with a run-first offense, more turnovers on defense should help the cause. *(p. 73)*
-- While the team’s top two tacklers are gone, the team’s top defensive backs have returned and Year 2 of DC Josh Reardon’s scheme not only features players who know it, but also transfers who are likely better fits. *(p. 73)*
+- It establishes the baseline being improved from — arguably the nation's worst defense in 2024 at 42.5 points and 7.1 yards per play allowed, with a secondary torched for well over 300 passing yards per game. *(p. 72)*
+- The gains were real: nearly 14 fewer points and 1.5 fewer yards per play allowed, including more than a 100-yard improvement against the pass, even though the offense made few strides. *(p. 72)*
+- **Can the Golden Hurricane turn Tulsa into "TOlsa"?** Despite improving in several areas the defense did not take the ball away, managing 11 takeaways for a -9 turnover margin, and the guide notes it has been a long time since Tulsa was positive in that battle. It sets the condition plainly: provided a run-first offense does not fumble, more defensive turnovers should help. The top two tacklers are gone but the top defensive backs return, and year two of coordinator Josh Reardon's scheme features both players who know it and transfers who are likely better fits. *(p. 73)*
 
 ## 15. Key Strengths
 
@@ -190,9 +185,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Tulsa on September 26th feels like a win, but it’s a dreaded lookahead spot with a trip to Texas A&M looming the following week. *(p. 10)*
+Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -214,24 +207,18 @@ Prices printed on the team page *(p. 73)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Over 5.5 wins, framed as giving Lamb and his staff the benefit of the doubt despite a challenging schedule. *(p. 72)*
+- Tulsa avoids East Carolina and Memphis but travels to Navy, Tulane and UTSA, making the conference slate very tough. All four American home games are described as very winnable along with East Texas A&M, and the guide identifies the hinge: beating Sam Houston State on the road in Week 2 should get this home and produce a first bowl since 2021. Projection is 5.43 wins. *(p. 72)*
+- **Can the Golden Hurricane turn Tulsa into "TOlsa"?** Despite improving in several areas the defense did not take the ball away, managing 11 takeaways for a -9 turnover margin, and the guide notes it has been a long time since Tulsa was positive in that battle. It sets the condition plainly: provided a run-first offense does not fumble, more defensive turnovers should help. The top two tacklers are gone but the top defensive backs return, and year two of coordinator Josh Reardon's scheme features both players who know it and transfers who are likely better fits. *(p. 73)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- In 2024, the Roadrunners lost to Rice and Tulsa in favorite roles. *(p. 77)*
+Also referenced on **pp. 77** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- This was arguably the worst defense in the nation in 2024 with 42.5 PPG and 7.1 YPP allowed. *(p. 72)*
-- If the Golden Hurricane can beat Sam Houston State on the road in Week 2, this one should get there and the team should go bowling for the first time since 2021. *(p. 72)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
-- Tulsa had nearly 500 rush attempts last season and I’d expect an even higher amount this season. *(p. 73)*
-- Tulsa’s defense mustered just 11 takeaways last season, leading to a -9 TO margin. *(p. 73)*
-- It has been a long time since this program was on the positive side of the TO battle, but this might be the year. *(p. 73)*
+- Tulsa looked better without the record following: 4-8, a one-game improvement, though the guide judges Tre Lamb's team is moving in the right direction. *(p. 72)*
+- It establishes the baseline being improved from — arguably the nation's worst defense in 2024 at 42.5 points and 7.1 yards per play allowed, with a secondary torched for well over 300 passing yards per game. *(p. 72)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- In 2024, the Roadrunners lost to Rice and Tulsa in favorite roles. *(p. 77)*
-- Tulsa transfer Ajay Allen will likely lead the by-committee approach at RB that had decent returns last season. *(p. 207)*
+Referenced in the guide on **pp. 77, 207** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -277,45 +264,42 @@ As printed on p. 73. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 5.5**.
-- Tulsa went 4-8, a modest one-game improvement over the previous season, but Tre Lamb’s team is moving in the right direction. *(p. 72)*
-- While Lamb’s team didn’t make many strides on offense, they gave up nearly 14 fewer points per game and 1.5 fewer yards per play, including more than a 100-yard improvement in terms of passing yards against. *(p. 72)*
-- That said, all four American home games are very winnable, along with East Texas A&M. *(p. 72)*
-- All of the starters and the guys on the two-deep are at or above three bills on the scales and I think that’s exactly what he wants. *(p. 73)*
-- While the defense improved in several key areas, taking the football away from the other team was not one of them. *(p. 73)*
-- Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. *(p. 52)*
-- But, the Middies come to San Antonio, along with USF and Tulsa, who I think will be much improved this season. *(p. 76)*
-- Oklahoma State should beat Tulsa and Murray State easily, and home games against UCF, Colorado, and Kansas should be winnable. *(p. 136)*
-- Tulsa transfer Ajay Allen will likely lead the by-committee approach at RB that had decent returns last season. *(p. 207)*
+- Tulsa looked better without the record following: 4-8, a one-game improvement, though the guide judges Tre Lamb's team is moving in the right direction. *(p. 72)*
+- It establishes the baseline being improved from — arguably the nation's worst defense in 2024 at 42.5 points and 7.1 yards per play allowed, with a secondary torched for well over 300 passing yards per game. *(p. 72)*
+- The gains were real: nearly 14 fewer points and 1.5 fewer yards per play allowed, including more than a 100-yard improvement against the pass, even though the offense made few strides. *(p. 72)*
+- Tulsa avoids East Carolina and Memphis but travels to Navy, Tulane and UTSA, making the conference slate very tough. All four American home games are described as very winnable along with East Texas A&M, and the guide identifies the hinge: beating Sam Houston State on the road in Week 2 should get this home and produce a first bowl since 2021. Projection is 5.43 wins. *(p. 72)*
+- The offensive line. The guide jokes Tulsa should get a steak or fast food NIL deal given the beef up front, then gives the substance: Lamb brought transfers from Texas A&M and Ole Miss last season and added South Alabama's starting center Malachi Preciado, originally at Purdue. Every starter and two-deep player is at or above 300 pounds, which it reads as exactly what Lamb wants. With nearly 500 rushing attempts last season it expects an even higher figure. *(p. 73)*
+- Despite improving in several areas the defense did not take the ball away, managing 11 takeaways for a -9 turnover margin, and the guide notes it has been a long time since Tulsa was positive in that battle. It sets the condition plainly: provided a run-first offense does not fumble, more defensive turnovers should help. The top two tacklers are gone but the top defensive backs return, and year two of coordinator Josh Reardon's scheme features both players who know it and transfers who are likely better fits. *(p. 73)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **5.3 wins** against a posted total of 5.5 — **-0.2** against this team.
-- While Tulsa avoids East Carolina and Memphis, road games at Navy, Tulane, and UTSA make for a very tough conference schedule. *(p. 72)*
-- Unfortunately, Tulsa followed that up with three straight blowout losses to conference top dogs, but they were competitive for the most part from that point forward against comparable or lesser foes. *(p. 73)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
-- Alex Mortensen, son of late ESPN analyst Chris, led an upset win over Memphis in his first game, but then the Blazers lost the next three games before finishing the season with a win over Tulsa. *(p. 74)*
-- In 2024, the Roadrunners lost to Rice and Tulsa in favorite roles. *(p. 77)*
+- The open question is whether Lamb and new coordinator Kevin Barbay can inject life into the offense. *(p. 72)*
+- Tulsa avoids East Carolina and Memphis but travels to Navy, Tulane and UTSA, making the conference slate very tough. All four American home games are described as very winnable along with East Texas A&M, and the guide identifies the hinge: beating Sam Houston State on the road in Week 2 should get this home and produce a first bowl since 2021. Projection is 5.43 wins. *(p. 72)*
+- Hayes did not post eye-popping numbers but led the offense to 424 yards in the upset of Oklahoma State that changed perceptions of the programme's direction. The guide is careful to give the full sequence: Tulsa followed with three straight blowout losses to conference top dogs, then was largely competitive against comparable or lesser opponents. He loses 1,000-yard rusher Dominic Richardson and his top three pass catchers, but the guide makes a structural point — with the programme showing more stability, transfers are now more willing to come. It expects heavy running with more designed runs for Hayes plus productive Auburn and Old Dominion transfers at running back. *(p. 73)*
+- The offensive line. The guide jokes Tulsa should get a steak or fast food NIL deal given the beef up front, then gives the substance: Lamb brought transfers from Texas A&M and Ole Miss last season and added South Alabama's starting center Malachi Preciado, originally at Purdue. Every starter and two-deep player is at or above 300 pounds, which it reads as exactly what Lamb wants. With nearly 500 rushing attempts last season it expects an even higher figure. *(p. 73)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 73)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 73)*. Its analysis, in reference form:
 
 ### Will Hayes have a sophomore slump?
 
-Hayes didn’t put up eye-popping numbers, but did help lead the offense to 424 yards in the upset win over Oklahoma State that really opened some eyes about the direction of this program. Unfortunately, Tulsa followed that up with three straight blowout losses to conference top dogs, but they were competitive for the most part from that point forward against comparable or lesser foes. Hayes will be without 1,000-yard rusher Dominic Richardson and his top three pass-catchers, but now that the program has shown a bit more stability, transfers are more willing to come in. Expect Tulsa to run the rock a lot, with some more designed runs for Hayes, but also with productive Auburn and Old Dominion transfers at RB.
+Hayes did not post eye-popping numbers but led the offense to 424 yards in the upset of Oklahoma State that changed perceptions of the programme's direction. The guide is careful to give the full sequence: Tulsa followed with three straight blowout losses to conference top dogs, then was largely competitive against comparable or lesser opponents. He loses 1,000-yard rusher Dominic Richardson and his top three pass catchers, but the guide makes a structural point — with the programme showing more stability, transfers are now more willing to come. It expects heavy running with more designed runs for Hayes plus productive Auburn and Old Dominion transfers at running back. *(p. 73)*
 
-### What will be Tulsa’s biggest area of improvement?
+### What will be Tulsa's biggest area of improvement?
 
-The offensive line is what looks like the group to push this team forward. Tulsa should get some sort of steak or fast food restaurant NIL deal because they have some beef on the offensive line. Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. All of the starters and the guys on the two-deep are at or above three bills on the scales and I think that’s exactly what he wants. Tulsa had nearly 500 rush attempts last season and I’d expect an even higher amount this season.
+The offensive line. The guide jokes Tulsa should get a steak or fast food NIL deal given the beef up front, then gives the substance: Lamb brought transfers from Texas A&M and Ole Miss last season and added South Alabama's starting center Malachi Preciado, originally at Purdue. Every starter and two-deep player is at or above 300 pounds, which it reads as exactly what Lamb wants. With nearly 500 rushing attempts last season it expects an even higher figure. *(p. 73)*
 
-### Can the Golden Hurricane turn Tulsa into “TOlsa”?
+### Can the Golden Hurricane turn Tulsa into "TOlsa"?
 
-While the defense improved in several key areas, taking the football away from the other team was not one of them. Tulsa’s defense mustered just 11 takeaways last season, leading to a -9 TO margin. It has been a long time since this program was on the positive side of the TO battle, but this might be the year. As long as they don’t fumble the ball with a run-first offense, more turnovers on defense should help the cause. While the team’s top two tacklers are gone, the team’s top defensive backs have returned and Year 2 of DC Josh Reardon’s scheme not only features players who know it, but also transfers who are likely better fits.
+Despite improving in several areas the defense did not take the ball away, managing 11 takeaways for a -9 turnover margin, and the guide notes it has been a long time since Tulsa was positive in that battle. It sets the condition plainly: provided a run-first offense does not fumble, more defensive turnovers should help. The top two tacklers are gone but the top defensive backs return, and year two of coordinator Josh Reardon's scheme features both players who know it and transfers who are likely better fits. *(p. 73)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

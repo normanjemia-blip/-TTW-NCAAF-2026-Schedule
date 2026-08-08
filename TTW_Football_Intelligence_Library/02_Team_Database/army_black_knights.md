@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 7.5–4.5 overall, 4.8–3.2 in conference |
 | **Schedule strength** | 34.11 (#92 toughest of 138) |
 
-### Season outlook as written in the guide (p. 50)
+### Season outlook — VSiN's analysis in reference form (p. 50)
 
-Rival Navy had the upper hand on Army heading into last season because QB Blake Horvath still had eligibility left, whereas Bryson Daily had exhausted his. The loss of Daily was exacerbated by the loss of star RB Kanye Udoh. Replicating their 12-2 record from 2024 was going to be an insurmountable challenge, and the fact that the Black Knights still did well enough to have a winning record at 7-6 thanks to a bowl game blowout of a severely- undermanned UConn squad was another example of how solid Jeff Monken has been in West Point. Monken is starting off his 13th year here. If we take UTSA’s Jeff Traylor out of the mix, Monken’s 12 years are nearly what the rest of the conference’s head coaches have combined. The Black Knights have had one losing season since 2015 and have a high floor once again. Under 7.5 A Hellums injury would be brutal for Army, as they have no game experience behind him. Furthermore, Woody is a big loss on the defensive side. As it is, Army was outgained by nearly a full yard per play in conference action. Yes, that’s expected to a certain degree because of how much they run the football relative to their opponents, but that was absolutely not the case in 2024 when they outgained conference foes by nearly 1.2 YPP. The conference members adjusted and it took a long time for Navy to adjust back when it happened to them. The Black Knights play at a rest disadvantage in each of their first three October games and UTSA is the only team projected in the top-half of the conference that they avoid. My projection is 6.92 wins.
+- Navy held the advantage entering last season because Blake Horvath still had eligibility while Bryson Daily did not, and the guide notes Daily's loss was compounded by star running back Kanye Udoh leaving. *(p. 50)*
+- Repeating 12-2 was always going to be insurmountable, and the guide reads a 7-6 winning record — helped by a bowl blowout of a severely undermanned UConn — as further evidence of how solid Jeff Monken has been. *(p. 50)*
+- Monken begins his 13th year. The guide makes the tenure point vividly: setting aside UTSA's Jeff Traylor, his 12 years nearly equal the rest of the conference's head coaches combined. *(p. 50)*
+- Army has had one losing season since 2015 and again has a high floor. *(p. 50)*
+- Recommendation is Under 7.5 wins. A Hellums injury would be brutal since there is no game experience behind him, and losing Woody hurts the defense. *(p. 50)*
+- The core statistical argument is a reversal: Army was outgained by nearly a full yard per play in conference play. The guide concedes some of that is expected given how much they run relative to opponents, but stresses it was not the case in 2024, when Army outgained conference foes by nearly 1.2 yards per play. *(p. 50)*
+- It reads that as the conference adjusting, noting it took Navy a long time to adjust back when the same happened to them. *(p. 50)*
+- Situationally, Army plays at a rest disadvantage in each of its first three October games, and UTSA is the only projected top-half conference team it avoids. Projection is 6.92 wins. *(p. 50)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -79,15 +88,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- If we take UTSA’s Jeff Traylor out of the mix, Monken’s 12 years are nearly what the rest of the conference’s head coaches have combined. *(p. 50)*
-- It’s entirely possible that Monken and OC Cody Worley found something in converted QB and all-name-team member Godspower Nwawuihe, who ran for 171 yards in the Fenway Bowl. *(p. 51)*
-- DC Nate Woody is now in Cincinnati, so pass game coordinator Daryl Dixon, not to be confused with The Walking Dead character of the same name, has that role. *(p. 51)*
-- Dixon, who has mostly coached defensive backs, needs to find more negative plays, as the Black Knights only had 15 sacks. *(p. 51)*
+- Repeating 12-2 was always going to be insurmountable, and the guide reads a 7-6 winning record — helped by a bowl blowout of a severely undermanned UConn — as further evidence of how solid Jeff Monken has been. *(p. 50)*
+- Monken begins his 13th year. The guide makes the tenure point vividly: setting aside UTSA's Jeff Traylor, his 12 years nearly equal the rest of the conference's head coaches combined. *(p. 50)*
+- **Who is going to step up on defense?** With coordinator Nate Woody now at Cincinnati, pass game coordinator Daryl Dixon takes the role. The guide notes Dixon has been with the programme for ten seasons so he knows the scheme and the player types. Army is almost always undersized in the trenches but usually experienced — and this season is an exception: despite many seniors on the two-deep, the top seven tacklers are gone, including Andon Thomas and his team-leading 113 tackles. Dixon, mostly a defensive backs coach, needs more negative plays after Army managed 15 sacks. *(p. 51)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- On top of that, new defensive coordinator Nate Woody largely did a good job in that role at Army. *(p. 125)*
-- The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. *(p. 224)*
+Also referenced on **pp. 125, 224** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -95,14 +100,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 50)*.
 
-- Rival Navy had the upper hand on Army heading into last season because QB Blake Horvath still had eligibility left, whereas Bryson Daily had exhausted his. *(p. 50)*
-- That’s Cale Hellums, Army’s starting QB, who split time last season to a degree with Dewayne Coleman. *(p. 51)*
-- He added four passing TDs and 694 yards as well. *(p. 51)*
-- It’s entirely possible that Monken and OC Cody Worley found something in converted QB and all-name-team member Godspower Nwawuihe, who ran for 171 yards in the Fenway Bowl. *(p. 51)*
+- Navy held the advantage entering last season because Blake Horvath still had eligibility while Bryson Daily did not, and the guide notes Daily's loss was compounded by star running back Kanye Udoh leaving. *(p. 50)*
+- Recommendation is Under 7.5 wins. A Hellums injury would be brutal since there is no game experience behind him, and losing Woody hurts the defense. *(p. 50)*
+- **Can Cale complete the season?** Cale Hellums, who split time to a degree with Dewayne Coleman, carried 304 times for 1,223 yards and 18 touchdowns while adding four passing scores and 694 yards. The guide's concern is workload: that is a brutal load for a 5-foot-10 player and must be factored into any long-term position on Army. It allows Monken and coordinator Cody Worley may have found something in converted quarterback Godspower Nwawuihe, who ran for 171 yards in the Fenway Bowl. With Noah Short, Hayden Reed, Coleman and Briggs Bartosh all gone, it stresses somebody must take carries off Hellums, who had nearly 41% of them. *(p. 51)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- That said, Henicle was recruited to some FCS schools with good rushing attacks and also Army, so he was clearly viewed as an impact QB in the ground game. *(p. 331)*
+Also referenced on **pp. 331** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -123,28 +125,23 @@ Not addressed in guide.
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- That said, Henicle was recruited to some FCS schools with good rushing attacks and also Army, so he was clearly viewed as an impact QB in the ground game. *(p. 331)*
+Referenced in the guide on **pp. 331** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
+- The core statistical argument is a reversal: Army was outgained by nearly a full yard per play in conference play. The guide concedes some of that is expected given how much they run relative to opponents, but stresses it was not the case in 2024, when Army outgained conference foes by nearly 1.2 yards per play. *(p. 50)*
+- **Can Cale complete the season?** Cale Hellums, who split time to a degree with Dewayne Coleman, carried 304 times for 1,223 yards and 18 touchdowns while adding four passing scores and 694 yards. The guide's concern is workload: that is a brutal load for a 5-foot-10 player and must be factored into any long-term position on Army. It allows Monken and coordinator Cody Worley may have found something in converted quarterback Godspower Nwawuihe, who ran for 171 yards in the Fenway Bowl. With Noah Short, Hayden Reed, Coleman and Briggs Bartosh all gone, it stresses somebody must take carries off Hellums, who had nearly 41% of them. *(p. 51)*
+- **Will the conference adjust to Army in Year 3?** Army is 12-4 in American play, but the guide breaks that into 8-0 in year one and 4-4 in year two. Its historical parallel is precise: when Navy joined the AAC in 2015 it went 7-1 in league play in each of its first two seasons before falling to 4-4 in year three and 2-6 in year four. It acknowledges the absences of Daily and Udoh played a role while citing the underlying decline from 5.7 yards per carry in 2024 conference games to 4.38 in 2025. It also notes Army is +12 in turnover margin across two years of conference play, granting that its style limits turnover volume while calling it something to think about. *(p. 51)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. *(p. 224)*
-- That said, Henicle was recruited to some FCS schools with good rushing attacks and also Army, so he was clearly viewed as an impact QB in the ground game. *(p. 331)*
+Referenced in the guide on **pp. 224, 331** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Furthermore, Woody is a big loss on the defensive side. *(p. 50)*
-- Dixon has been with the program for the last 10 seasons, so he’s very familiar with the scheme and the types of players that Army has on defense. *(p. 51)*
-- While there are a lot of seniors on the two-deep, the top seven tacklers are all gone, including Andon Thomas, who led the team with 113 tackles. *(p. 51)*
-- Dixon, who has mostly coached defensive backs, needs to find more negative plays, as the Black Knights only had 15 sacks. *(p. 51)*
+- Recommendation is Under 7.5 wins. A Hellums injury would be brutal since there is no game experience behind him, and losing Woody hurts the defense. *(p. 50)*
+- The core statistical argument is a reversal: Army was outgained by nearly a full yard per play in conference play. The guide concedes some of that is expected given how much they run relative to opponents, but stresses it was not the case in 2024, when Army outgained conference foes by nearly 1.2 yards per play. *(p. 50)*
+- **Who is going to step up on defense?** With coordinator Nate Woody now at Cincinnati, pass game coordinator Daryl Dixon takes the role. The guide notes Dixon has been with the programme for ten seasons so he knows the scheme and the player types. Army is almost always undersized in the trenches but usually experienced — and this season is an exception: despite many seniors on the two-deep, the top seven tacklers are gone, including Andon Thomas and his team-leading 113 tackles. Dixon, mostly a defensive backs coach, needs more negative plays after Army managed 15 sacks. *(p. 51)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- On top of that, new defensive coordinator Nate Woody largely did a good job in that role at Army. *(p. 125)*
+Referenced in the guide on **pp. 125** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -195,13 +192,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Under 7.5 A Hellums injury would be brutal for Army, as they have no game experience behind him. *(p. 50)*
-- The Black Knights play at a rest disadvantage in each of their first three October games and UTSA is the only team projected in the top-half of the conference that they avoid. *(p. 50)*
-- But, that’s a really brutal workload for a smaller-statured guy and something that obviously has to be considered with any long-term position on Army. *(p. 51)*
+- Situationally, Army plays at a rest disadvantage in each of its first three October games, and UTSA is the only projected top-half conference team it avoids. Projection is 6.92 wins. *(p. 50)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Opening the season with Alabama in Tuscaloosa isn’t ideal, not to mention they play three weeknight games, including two road Thursday games, and face Temple and Army with rest disadvantages, as both of those teams will be coming off of the bye. *(p. 54)*
+Referenced in the guide on **pp. 54** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -223,28 +216,21 @@ Prices printed on the team page *(p. 51)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 7.5 wins. A Hellums injury would be brutal since there is no game experience behind him, and losing Woody hurts the defense. *(p. 50)*
+- The core statistical argument is a reversal: Army was outgained by nearly a full yard per play in conference play. The guide concedes some of that is expected given how much they run relative to opponents, but stresses it was not the case in 2024, when Army outgained conference foes by nearly 1.2 yards per play. *(p. 50)*
+- Situationally, Army plays at a rest disadvantage in each of its first three October games, and UTSA is the only projected top-half conference team it avoids. Projection is 6.92 wins. *(p. 50)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- It probably isn’t a coincidence that UTSA (+480) and Army (6-1) are the second and third favorites, respectively, behind Navy (+310). *(p. 49)*
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
+Also referenced on **pp. 49, 77** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Rival Navy had the upper hand on Army heading into last season because QB Blake Horvath still had eligibility left, whereas Bryson Daily had exhausted his. *(p. 50)*
-- The Black Knights have had one losing season since 2015 and have a high floor once again. *(p. 50)*
-- Yes, that’s expected to a certain degree because of how much they run the football relative to their opponents, but that was absolutely not the case in 2024 when they outgained conference foes by nearly 1.2 YPP. *(p. 50)*
-- That’s Cale Hellums, Army’s starting QB, who split time last season to a degree with Dewayne Coleman. *(p. 51)*
-- The 5-foot-10 Hellums had 304 carries last season for 1,223 yards and 18 TDs. *(p. 51)*
-- When Navy joined the AAC in 2015, they went 7-1 in league play in each of their first two seasons before dropping to 4-4 in Year 3 and then 2-6 in Year 4. *(p. 51)*
-- The absences of Daily and Udoh absolutely played a role, but the Black Knights had 5.7 YPC in 2024 and 4.38 YPC in 2025 in conference games. *(p. 51)*
+- Navy held the advantage entering last season because Blake Horvath still had eligibility while Bryson Daily did not, and the guide notes Daily's loss was compounded by star running back Kanye Udoh leaving. *(p. 50)*
+- Repeating 12-2 was always going to be insurmountable, and the guide reads a 7-6 winning record — helped by a bowl blowout of a severely undermanned UConn — as further evidence of how solid Jeff Monken has been. *(p. 50)*
+- Army has had one losing season since 2015 and again has a high floor. *(p. 50)*
+- It reads that as the conference adjusting, noting it took Navy a long time to adjust back when the same happened to them. *(p. 50)*
+- **Will the conference adjust to Army in Year 3?** Army is 12-4 in American play, but the guide breaks that into 8-0 in year one and 4-4 in year two. Its historical parallel is precise: when Navy joined the AAC in 2015 it went 7-1 in league play in each of its first two seasons before falling to 4-4 in year three and 2-6 in year four. It acknowledges the absences of Daily and Udoh played a role while citing the underlying decline from 5.7 yards per carry in 2024 conference games to 4.38 in 2025. It also notes Army is +12 in turnover margin across two years of conference play, granting that its style limits turnover volume while calling it something to think about. *(p. 51)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Rice didn’t face Army last season, but will this season. *(p. 65)*
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
-- They started 2-0 in 2023, including an outright upset win over Army, and then lost 10 in a row. *(p. 337)*
+Referenced in the guide on **pp. 65, 68, 77, 337** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -289,47 +275,38 @@ As printed on p. 51. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Replicating their 12-2 record from 2024 was going to be an insurmountable challenge, and the fact that the Black Knights still did well enough to have a winning record at 7-6 thanks to a bowl game blowout of a severely- undermanned UConn squad was another example of how solid Jeff Monken has been in West Point. *(p. 50)*
-- The Black Knights have had one losing season since 2015 and have a high floor once again. *(p. 50)*
-- It’s almost always an undersized unit in the trenches, but often an experienced crew. *(p. 51)*
-- While there are a lot of seniors on the two-deep, the top seven tacklers are all gone, including Andon Thomas, who led the team with 113 tackles. *(p. 51)*
-- On top of that, new defensive coordinator Nate Woody largely did a good job in that role at Army. *(p. 125)*
-- The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. *(p. 224)*
-- That said, Henicle was recruited to some FCS schools with good rushing attacks and also Army, so he was clearly viewed as an impact QB in the ground game. *(p. 331)*
+- Repeating 12-2 was always going to be insurmountable, and the guide reads a 7-6 winning record — helped by a bowl blowout of a severely undermanned UConn — as further evidence of how solid Jeff Monken has been. *(p. 50)*
+- Army has had one losing season since 2015 and again has a high floor. *(p. 50)*
+- With coordinator Nate Woody now at Cincinnati, pass game coordinator Daryl Dixon takes the role. The guide notes Dixon has been with the programme for ten seasons so he knows the scheme and the player types. Army is almost always undersized in the trenches but usually experienced — and this season is an exception: despite many seniors on the two-deep, the top seven tacklers are gone, including Andon Thomas and his team-leading 113 tackles. Dixon, mostly a defensive backs coach, needs more negative plays after Army managed 15 sacks. *(p. 51)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- The loss of Daily was exacerbated by the loss of star RB Kanye Udoh. *(p. 50)*
-- Under 7.5 A Hellums injury would be brutal for Army, as they have no game experience behind him. *(p. 50)*
-- Furthermore, Woody is a big loss on the defensive side. *(p. 50)*
-- But, that’s a really brutal workload for a smaller-statured guy and something that obviously has to be considered with any long-term position on Army. *(p. 51)*
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
-- They lost to Army and Navy by one point in each of those games. *(p. 68)*
-- Over 7.5 The Roadrunners have lost to Army in all three seasons with the AAC/American, but avoid them this season. *(p. 76)*
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
-- They started 2-0 in 2023, including an outright upset win over Army, and then lost 10 in a row. *(p. 337)*
+- Navy held the advantage entering last season because Blake Horvath still had eligibility while Bryson Daily did not, and the guide notes Daily's loss was compounded by star running back Kanye Udoh leaving. *(p. 50)*
+- Recommendation is Under 7.5 wins. A Hellums injury would be brutal since there is no game experience behind him, and losing Woody hurts the defense. *(p. 50)*
+- Cale Hellums, who split time to a degree with Dewayne Coleman, carried 304 times for 1,223 yards and 18 touchdowns while adding four passing scores and 694 yards. The guide's concern is workload: that is a brutal load for a 5-foot-10 player and must be factored into any long-term position on Army. It allows Monken and coordinator Cody Worley may have found something in converted quarterback Godspower Nwawuihe, who ran for 171 yards in the Fenway Bowl. With Noah Short, Hayden Reed, Coleman and Briggs Bartosh all gone, it stresses somebody must take carries off Hellums, who had nearly 41% of them. *(p. 51)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 51)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 51)*. Its analysis, in reference form:
 
 ### Can Cale complete the season?
 
-That’s Cale Hellums, Army’s starting QB, who split time last season to a degree with Dewayne Coleman. The 5-foot-10 Hellums had 304 carries last season for 1,223 yards and 18 TDs. He added four passing TDs and 694 yards as well. But, that’s a really brutal workload for a smaller-statured guy and something that obviously has to be considered with any long-term position on Army. It’s entirely possible that Monken and OC Cody Worley found something in converted QB and all-name-team member Godspower Nwawuihe, who ran for 171 yards in the Fenway Bowl. Considering Noah Short, Hayden Reed, Coleman, and Briggs Bartosh are all gone, somebody has to help Hellums with rush attempts, as he had nearly 41% of the carries.
+Cale Hellums, who split time to a degree with Dewayne Coleman, carried 304 times for 1,223 yards and 18 touchdowns while adding four passing scores and 694 yards. The guide's concern is workload: that is a brutal load for a 5-foot-10 player and must be factored into any long-term position on Army. It allows Monken and coordinator Cody Worley may have found something in converted quarterback Godspower Nwawuihe, who ran for 171 yards in the Fenway Bowl. With Noah Short, Hayden Reed, Coleman and Briggs Bartosh all gone, it stresses somebody must take carries off Hellums, who had nearly 41% of them. *(p. 51)*
 
 ### Will the conference adjust to Army in Year 3?
 
-This will be Army’s third year in the American. So far, they are 12-4 in league play, but that mark is a tale of two seasons with an 8-0 record in Year 1 and a 4-4 record in Year 2. When Navy joined the AAC in 2015, they went 7-1 in league play in each of their first two seasons before dropping to 4-4 in Year 3 and then 2-6 in Year 4. The absences of Daily and Udoh absolutely played a role, but the Black Knights had 5.7 YPC in 2024 and 4.38 YPC in 2025 in conference games. Army is also +12 in TO margin in two years of conference play. Obviously their style of play limits the potential for turnovers, but it’s still something to think about.
+Army is 12-4 in American play, but the guide breaks that into 8-0 in year one and 4-4 in year two. Its historical parallel is precise: when Navy joined the AAC in 2015 it went 7-1 in league play in each of its first two seasons before falling to 4-4 in year three and 2-6 in year four. It acknowledges the absences of Daily and Udoh played a role while citing the underlying decline from 5.7 yards per carry in 2024 conference games to 4.38 in 2025. It also notes Army is +12 in turnover margin across two years of conference play, granting that its style limits turnover volume while calling it something to think about. *(p. 51)*
 
 ### Who is going to step up on defense?
 
-DC Nate Woody is now in Cincinnati, so pass game coordinator Daryl Dixon, not to be confused with The Walking Dead character of the same name, has that role. Dixon has been with the program for the last 10 seasons, so he’s very familiar with the scheme and the types of players that Army has on defense. It’s almost always an undersized unit in the trenches, but often an experienced crew. This season is a bit of an exception. While there are a lot of seniors on the two-deep, the top seven tacklers are all gone, including Andon Thomas, who led the team with 113 tackles. Dixon, who has mostly coached defensive backs, needs to find more negative plays, as the Black Knights only had 15 sacks.
+With coordinator Nate Woody now at Cincinnati, pass game coordinator Daryl Dixon takes the role. The guide notes Dixon has been with the programme for ten seasons so he knows the scheme and the player types. Army is almost always undersized in the trenches but usually experienced — and this season is an exception: despite many seniors on the two-deep, the top seven tacklers are gone, including Andon Thomas and his team-leading 113 tackles. Dixon, mostly a defensive backs coach, needs more negative plays after Army managed 15 sacks. *(p. 51)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

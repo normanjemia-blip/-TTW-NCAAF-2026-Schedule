@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 5.3–6.7 overall, 0.0–0.0 in conference |
 | **Schedule strength** | 32.83 (#100 toughest of 138) |
 
-### Season outlook as written in the guide (p. 210)
+### Season outlook — VSiN's analysis in reference form (p. 210)
 
-Jim Mora Jr. won 27 games in his four seasons at the helm with UConn. From 2012-21, the program had 26 wins. With Jason Candle taking over, the program ranks 138th in Phil Steele’s Experience chart. With North Dakota State and Sacramento State now in FBS, 138th is officially dead last. That being said, while there’s no returning talent from last year’s Huskies team, Candle did bring some Toledo talent with him, so he’s not walking into the facility with zero familiar faces. The problem, at least on the surface, is that Candle wasn’t able to bring any of his extremely productive players with him on offense and only a couple followed him on defense. This has all the makings of a transitional, rebuilding year for the Huskies and Candle himself, as his only other coaching stop outside of Toledo was D-III Mount Union from 2003-08. With no clear- cut starting QB and a ton of position battles elsewhere, it’s sure to be an interesting first year. Under 5.5 This does look like a transitional year, but that’s not the whole reason why I’m down on UConn. While the degree of difficulty with the teams on the schedule isn’t all that daunting, the team has trips to Air Force and Wyoming on Halloween and Thanksgiving weekend, respectively, so those are two elevation games late in the year. They also face Syracuse and Old Dominion at The Rent with those two teams off of byes, adding an extra challenge to two winnable home games. While the Huskies do only play five road games, I believe they fall short of bowl eligibility and my projection is 5.39 wins.
+- Jim Mora Jr won 27 games in four seasons, which the guide contrasts with the programme's 26 wins across 2012-21. *(p. 210)*
+- Under Jason Candle, UConn ranks 138th in Phil Steele's Experience chart — and with North Dakota State and Sacramento State now in FBS, the guide notes 138th is officially dead last. *(p. 210)*
+- Candle brought some Toledo players so he is not starting with zero familiar faces, but the guide identifies the specific shortfall: none of his extremely productive offensive players followed, and only a couple on defense. *(p. 210)*
+- It calls this a transitional, rebuilding year for both team and coach, noting Candle's only stop outside Toledo was Division III Mount Union from 2003 to 2008, with no clear starting quarterback and many position battles. *(p. 210)*
+- Recommendation is Under 5.5 wins. The guide is explicit that the transition is not its whole reason. *(p. 210)*
+- Its situational case is specific: while the schedule's difficulty is not daunting, UConn travels to Air Force on Halloween and Wyoming on Thanksgiving weekend — two late elevation games — and faces Syracuse and Old Dominion at home with both coming off byes, making two winnable home games harder. *(p. 210)*
+- Despite only five road games it expects UConn to fall short of bowl eligibility, projecting 5.39 wins. *(p. 210)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,24 +88,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- This has all the makings of a transitional, rebuilding year for the Huskies and Candle himself, as his only other coaching stop outside of Toledo was D-III Mount Union from 2003-08. *(p. 210)*
-- Normally new head coaches bring a collection of assistants with them. *(p. 211)*
-- Well, Candle’s OC is Nunzio Campanile, who was at Syracuse from 2023-25 and at Rutgers prior to that. *(p. 211)*
-- His DC is Ryan Manalac, a fellow Ohio native who served as Pitt’s linebackers coach and has never been a defensive coordinator at the FBS level. *(p. 211)*
-- The special teams coordinator was at Washington State. *(p. 211)*
-- His co-OC and QB coach was at South Carolina. *(p. 211)*
-- I do applaud Candle for putting together a diverse staff with recruiting connections all over the country, but for a guy who was at Toledo for a decade as head coach, it is surprising to see how many new colleagues he has on the staff. *(p. 211)*
-- It is impossible to quantify what it might mean for Candle to be away from Toledo after coaching there for 16 years. *(p. 211)*
-- His staff is a smorgasbord of coaches from other schools and that could end up being a positive in the present and the future. *(p. 211)*
+- Jim Mora Jr won 27 games in four seasons, which the guide contrasts with the programme's 26 wins across 2012-21. *(p. 210)*
+- It calls this a transitional, rebuilding year for both team and coach, noting Candle's only stop outside Toledo was Division III Mount Union from 2003 to 2008, with no clear starting quarterback and many position battles. *(p. 210)*
+- **Was it something I said?** The guide observes that new head coaches normally bring assistants who know the scheme and the player types that fit it, then documents how little of that applies here. Candle's coordinator Nunzio Campanile was at Syracuse from 2023-25 and Rutgers before; defensive coordinator Ryan Manalac, a fellow Ohio native, was Pitt's linebackers coach and has never been an FBS coordinator; the special teams coordinator came from Washington State; the co-coordinator and quarterbacks coach from South Carolina. It applauds the diversity and nationwide recruiting connections while calling it surprising that a decade-long Toledo head coach has so many new colleagues. *(p. 211)*
+- **Is keeping expectations low a good thing?** The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- CONNECTICUT – UNDER 5.5 WINS New head coach Jason Candle spent a decade at Toledo, and it was a very successful run, as he went 81-44 and the Rockets finished at least .500 in every season. *(p. 24)*
-- The eight teams that added a new head coach plummeted by 29% and -4.4 wins per season, and UConn fits the bill. *(p. 25)*
-- Jason Candle UConn On the surface, this looks like a great hire. *(p. 33)*
-- Jim Mora Colorado State Let’s all take a second and come to terms with the fact that Colorado State is now in the Pac-12…Alright, now let’s think about Mora, who got a second kick at the college coaching can at UConn and did extremely well with it. *(p. 35)*
-- Sammis is coming off a very successful stint as UConn’s OC. *(p. 139)*
-- The Falcons (16-1) may not be much of a factor, but their archrival Toledo (4-1) is getting some market love, even with former head coach Jason Candle at UConn. *(p. 215)*
+Also referenced on **pp. 24, 25, 33, 35, 139, 215, 230, 238, 265, 268** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -105,13 +101,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 210)*.
 
-- With no clear- cut starting QB and a ton of position battles elsewhere, it’s sure to be an interesting first year. *(p. 210)*
-- His co-OC and QB coach was at South Carolina. *(p. 211)*
-- Kalieb Osborne is one of the Rockets that came with Candle and he’ll battle with Jake Merklinger from Tennessee and a couple of in-house options at QB. *(p. 211)*
+- It calls this a transitional, rebuilding year for both team and coach, noting Candle's only stop outside Toledo was Division III Mount Union from 2003 to 2008, with no clear starting quarterback and many position battles. *(p. 210)*
+- **Can you tell us one interesting fact about yourself?** The guide uses the icebreaker framing to make a roster point: even the transfers are largely not recognizable names, the exception being K'Von Sherman, who had 93 tackles at Toledo. Kalieb Osborne is another Rocket who followed and will compete with Tennessee's Jake Merklinger and in-house options at quarterback. Running back Kenji Christian is at his fourth school, most recently Toledo. Three potential offensive line starters were together at Toledo without playing much. It closes with the bar UConn is falling from — 31.9 and 35.3 points per game the last two seasons and 6.7 yards per play last year — and says the fan base probably will not see those numbers. *(p. 211)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Surrounding the QB will be senior running back Mel Brown, a UConn transfer, and Durell Robinson, an Auburn transfer. *(p. 269)*
+Also referenced on **pp. 269** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -127,46 +120,30 @@ The Stability Score table prints the same figure independently: **5 returning st
 
 ## 11. Transfer Portal
 
+- Under Jason Candle, UConn ranks 138th in Phil Steele's Experience chart — and with North Dakota State and Sacramento State now in FBS, the guide notes 138th is officially dead last. *(p. 210)*
+- Candle brought some Toledo players so he is not starting with zero familiar faces, but the guide identifies the specific shortfall: none of his extremely productive offensive players followed, and only a couple on defense. *(p. 210)*
+- **Can you tell us one interesting fact about yourself?** The guide uses the icebreaker framing to make a roster point: even the transfers are largely not recognizable names, the exception being K'Von Sherman, who had 93 tackles at Toledo. Kalieb Osborne is another Rocket who followed and will compete with Tennessee's Jake Merklinger and in-house options at quarterback. Running back Kenji Christian is at his fourth school, most recently Toledo. Three potential offensive line starters were together at Toledo without playing much. It closes with the bar UConn is falling from — 31.9 and 35.3 points per game the last two seasons and 6.7 yards per play last year — and says the fan base probably will not see those numbers. *(p. 211)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Nevertheless, the running game led by UConn transfer Cam Edwards (1240 yards in 2025) will need to carry a heavier load. *(p. 161)*
-- UConn transfer K’saan Farrar might figure to have the inside track due to his history with Mora. *(p. 269)*
-- Surrounding the QB will be senior running back Mel Brown, a UConn transfer, and Durell Robinson, an Auburn transfer. *(p. 269)*
-- The top returning receiver is Tommy Maher, who had 32 receptions last year, but another key receiver is likely to be UConn transfer Jackson Harper. *(p. 269)*
-- The go-to tight end probably will be (you guessed it) a UConn transfer, Juice Vereen. *(p. 269)*
-- This might be hard to believe, but a UConn transfer is expected to lead the unit. *(p. 269)*
+Referenced in the guide on **pp. 161, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- I do applaud Candle for putting together a diverse staff with recruiting connections all over the country, but for a guy who was at Toledo for a decade as head coach, it is surprising to see how many new colleagues he has on the staff. *(p. 211)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Personally, I think we see true freshman Qur’an McNeill sooner rather than later, as he had offers from Arkansas, Cincinnati, UConn, Syracuse, and Boston College, but opted for Buffalo. *(p. 223)*
+Referenced in the guide on **pp. 211, 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The problem, at least on the surface, is that Candle wasn’t able to bring any of his extremely productive players with him on offense and only a couple followed him on defense. *(p. 210)*
-- Also, while the offense has major question marks on paper, the defense has a good chance at being solid, as Manalac is a Pat Narduzzi disciple and that guy knows a thing or two about defense. *(p. 211)*
-- Furthermore, Toledo was second in yards against per game last season and third in yards per play against. *(p. 211)*
+- Candle brought some Toledo players so he is not starting with zero familiar faces, but the guide identifies the specific shortfall: none of his extremely productive offensive players followed, and only a couple on defense. *(p. 210)*
+- **Can you tell us one interesting fact about yourself?** The guide uses the icebreaker framing to make a roster point: even the transfers are largely not recognizable names, the exception being K'Von Sherman, who had 93 tackles at Toledo. Kalieb Osborne is another Rocket who followed and will compete with Tennessee's Jake Merklinger and in-house options at quarterback. Running back Kenji Christian is at his fourth school, most recently Toledo. Three potential offensive line starters were together at Toledo without playing much. It closes with the bar UConn is falling from — 31.9 and 35.3 points per game the last two seasons and 6.7 yards per play last year — and says the fan base probably will not see those numbers. *(p. 211)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Not much seemed to change for the offense late in the season besides a higher frequency of running the football, even in blowout losses to UConn, North Texas, and South Florida. *(p. 75)*
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
-- Mora brought several players and coaches with him from UConn, including offensive coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. *(p. 268)*
-- The top returning receiver is Tommy Maher, who had 32 receptions last year, but another key receiver is likely to be UConn transfer Jackson Harper. *(p. 269)*
+Referenced in the guide on **pp. 75, 230, 268, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The problem, at least on the surface, is that Candle wasn’t able to bring any of his extremely productive players with him on offense and only a couple followed him on defense. *(p. 210)*
-- His DC is Ryan Manalac, a fellow Ohio native who served as Pitt’s linebackers coach and has never been a defensive coordinator at the FBS level. *(p. 211)*
-- Also, while the offense has major question marks on paper, the defense has a good chance at being solid, as Manalac is a Pat Narduzzi disciple and that guy knows a thing or two about defense. *(p. 211)*
+- Candle brought some Toledo players so he is not starting with zero familiar faces, but the guide identifies the specific shortfall: none of his extremely productive offensive players followed, and only a couple on defense. *(p. 210)*
+- **Is keeping expectations low a good thing?** The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Mora brought several players and coaches with him from UConn, including offensive coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. *(p. 268)*
+Referenced in the guide on **pp. 268** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -218,10 +195,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+- Its situational case is specific: while the schedule's difficulty is not daunting, UConn travels to Air Force on Halloween and Wyoming on Thanksgiving weekend — two late elevation games — and faces Syracuse and Old Dominion at home with both coming off byes, making two winnable home games harder. *(p. 210)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While UConn never has CFP aspirations, the Huskies were at least worthy of being mentioned in the same breath as the Fighting Irish with back-to-back 9-4 seasons. *(p. 209)*
+Referenced in the guide on **pp. 209** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -244,26 +220,17 @@ Prices printed on the team page *(p. 211)*:
 
 ## 21. Betting Notes / Best Bets
 
-- From 2021-25, Candle lost 10 times as a touchdown or more favorite. *(p. 211)*
+- Recommendation is Under 5.5 wins. The guide is explicit that the transition is not its whole reason. *(p. 210)*
+- Despite only five road games it expects UConn to fall short of bowl eligibility, projecting 5.39 wins. *(p. 210)*
+- **Is keeping expectations low a good thing?** The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- This is a juicy price to lay at around -170 to -175, but the schedule is permissible early on with Hampton as the opener and then two games at UConn and vs. *(p. 156)*
-- The Falcons (16-1) may not be much of a factor, but their archrival Toledo (4-1) is getting some market love, even with former head coach Jason Candle at UConn. *(p. 215)*
+Also referenced on **pp. 156, 215** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- That being said, while there’s no returning talent from last year’s Huskies team, Candle did bring some Toledo talent with him, so he’s not walking into the facility with zero familiar faces. *(p. 210)*
-- Even the players who have come from other schools are not really players that have stood out and would be recognizable, except for K’Von Sherman, who had 93 tackles last season for Toledo. *(p. 211)*
-- The Huskies averaged 31.9 PPG and 35.3 PPG the last two seasons and 6.7 YPP last season. *(p. 211)*
-- Furthermore, Toledo was second in yards against per game last season and third in yards per play against. *(p. 211)*
+- Jim Mora Jr won 27 games in four seasons, which the guide contrasts with the programme's 26 wins across 2012-21. *(p. 210)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Nevertheless, the running game led by UConn transfer Cam Edwards (1240 yards in 2025) will need to carry a heavier load. *(p. 161)*
-- Since their last FBS win, the Minutemen have beaten Merrimack, Central Connecticut State, and Wagner. *(p. 230)*
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
-- The top returning receiver is Tommy Maher, who had 32 receptions last year, but another key receiver is likely to be UConn transfer Jackson Harper. *(p. 269)*
+Referenced in the guide on **pp. 161, 230, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -308,16 +275,8 @@ As printed on p. 211. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- They also face Syracuse and Old Dominion at The Rent with those two teams off of byes, adding an extra challenge to two winnable home games. *(p. 210)*
-- Also, while the offense has major question marks on paper, the defense has a good chance at being solid, as Manalac is a Pat Narduzzi disciple and that guy knows a thing or two about defense. *(p. 211)*
-- CONNECTICUT – UNDER 5.5 WINS New head coach Jason Candle spent a decade at Toledo, and it was a very successful run, as he went 81-44 and the Rockets finished at least .500 in every season. *(p. 24)*
-- Candle’s experience and past successes alone might not be enough this season, as he will have one of the most inexperienced rosters in the country and the schedule is a bit tougher than we’ve been accustomed to with UConn under Mora. *(p. 24)*
-- Oddsmakers are, in fact, expecting a pretty sharp drop-off this season in Storrs, as UConn’s win total is set at a mere 5.5 after the recent run of success. *(p. 24)*
-- Replicating their 12-2 record from 2024 was going to be an insurmountable challenge, and the fact that the Black Knights still did well enough to have a winning record at 7-6 thanks to a bowl game blowout of a severelyundermanned UConn squad was another example of how solid Jeff Monken has been in West Point. *(p. 50)*
-- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
-- Sammis is coming off a very successful stint as UConn’s OC. *(p. 139)*
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
-- Duquesne, UConn, SJSU and UTEP make up the other winnable opportunities at home. *(p. 244)*
+- Its situational case is specific: while the schedule's difficulty is not daunting, UConn travels to Air Force on Halloween and Wyoming on Thanksgiving weekend — two late elevation games — and faces Syracuse and Old Dominion at home with both coming off byes, making two winnable home games harder. *(p. 210)*
+- The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -325,32 +284,28 @@ As printed on p. 211. Each category carries a value and a national rank.
 
 - Makinen projects **5.3 wins** against a posted total of 5.5 — **-0.2** against this team.
 - The team page recommends **UNDER 5.5**.
-- While the degree of difficulty with the teams on the schedule isn’t all that daunting, the team has trips to Air Force and Wyoming on Halloween and Thanksgiving weekend, respectively, so those are two elevation games late in the year. *(p. 210)*
-- For spring practices and other team events, it must have felt like asking icebreaker questions in a new class. *(p. 211)*
-- From 2021-25, Candle lost 10 times as a touchdown or more favorite. *(p. 211)*
-- Also, while the offense has major question marks on paper, the defense has a good chance at being solid, as Manalac is a Pat Narduzzi disciple and that guy knows a thing or two about defense. *(p. 211)*
-- Candle’s experience and past successes alone might not be enough this season, as he will have one of the most inexperienced rosters in the country and the schedule is a bit tougher than we’ve been accustomed to with UConn under Mora. *(p. 24)*
-- Not much seemed to change for the offense late in the season besides a higher frequency of running the football, even in blowout losses to UConn, North Texas, and South Florida. *(p. 75)*
-- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
+- Its situational case is specific: while the schedule's difficulty is not daunting, UConn travels to Air Force on Halloween and Wyoming on Thanksgiving weekend — two late elevation games — and faces Syracuse and Old Dominion at home with both coming off byes, making two winnable home games harder. *(p. 210)*
+- The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 211)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 211)*. Its analysis, in reference form:
 
 ### Was it something I said?
 
-Normally new head coaches bring a collection of assistants with them. There’s familiarity there, not only in terms of understanding the scheme and the playbook, but also the types of players that fit in that system. Well, Candle’s OC is Nunzio Campanile, who was at Syracuse from 2023-25 and at Rutgers prior to that. His DC is Ryan Manalac, a fellow Ohio native who served as Pitt’s linebackers coach and has never been a defensive coordinator at the FBS level. The special teams coordinator was at Washington State. His co-OC and QB coach was at South Carolina. I do applaud Candle for putting together a diverse staff with recruiting connections all over the country, but for a guy who was at Toledo for a decade as head coach, it is surprising to see how many new colleagues he has on the staff.
+The guide observes that new head coaches normally bring assistants who know the scheme and the player types that fit it, then documents how little of that applies here. Candle's coordinator Nunzio Campanile was at Syracuse from 2023-25 and Rutgers before; defensive coordinator Ryan Manalac, a fellow Ohio native, was Pitt's linebackers coach and has never been an FBS coordinator; the special teams coordinator came from Washington State; the co-coordinator and quarterbacks coach from South Carolina. It applauds the diversity and nationwide recruiting connections while calling it surprising that a decade-long Toledo head coach has so many new colleagues. *(p. 211)*
 
 ### Can you tell us one interesting fact about yourself?
 
-For spring practices and other team events, it must have felt like asking icebreaker questions in a new class. Even the players who have come from other schools are not really players that have stood out and would be recognizable, except for K’Von Sherman, who had 93 tackles last season for Toledo. Kalieb Osborne is one of the Rockets that came with Candle and he’ll battle with Jake Merklinger from Tennessee and a couple of in-house options at QB. RB Kenji Christian is at his fourth school, with Toledo his most recent one. Three potential starters on the OL were together at Toledo, but didn’t play much. The Huskies averaged 31.9 PPG and 35.3 PPG the last two seasons and 6.7 YPP last season. Suffice it to say that the fan base probably won’t see those numbers.
+The guide uses the icebreaker framing to make a roster point: even the transfers are largely not recognizable names, the exception being K'Von Sherman, who had 93 tackles at Toledo. Kalieb Osborne is another Rocket who followed and will compete with Tennessee's Jake Merklinger and in-house options at quarterback. Running back Kenji Christian is at his fourth school, most recently Toledo. Three potential offensive line starters were together at Toledo without playing much. It closes with the bar UConn is falling from — 31.9 and 35.3 points per game the last two seasons and 6.7 yards per play last year — and says the fan base probably will not see those numbers. *(p. 211)*
 
 ### Is keeping expectations low a good thing?
 
-From 2021-25, Candle lost 10 times as a touchdown or more favorite. Aim low and shoot high might be the right approach here as a result, given that UConn won’t be favored very much this season with a completely new roster. It is impossible to quantify what it might mean for Candle to be away from Toledo after coaching there for 16 years. His staff is a smorgasbord of coaches from other schools and that could end up being a positive in the present and the future. It might not be. Also, while the offense has major question marks on paper, the defense has a good chance at being solid, as Manalac is a Pat Narduzzi disciple and that guy knows a thing or two about defense. Furthermore, Toledo was second in yards against per game last season and third in yards per play against.
+The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

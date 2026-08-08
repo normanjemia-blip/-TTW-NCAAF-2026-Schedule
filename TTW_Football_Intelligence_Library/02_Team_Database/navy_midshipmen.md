@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 8.5–3.5 overall, 6.2–1.8 in conference |
 | **Schedule strength** | 35.19 (#86 toughest of 138) |
 
-### Season outlook as written in the guide (p. 60)
+### Season outlook — VSiN's analysis in reference form (p. 60)
 
-When they zig, you zag. Credit to Navy head coach Brian Newberry for bringing in OC Drew Cronic, as the wrinkles in the Middies offense have given them a new life in the American Conference. The team was 14-2 in conference play over the first two seasons in the AAC, but then it went downhill as teams adjusted. In fact, under Ken Niumatalolo, the Middies only had one other winning season in conference after that 14-2 start. Under Newberry, Navy is 18-7. Cronic’s Wing-T, modified triple-option has given teams a lot of things to worry about when scouting. The Middles scored 17.7 PPG in 2023. In two seasons under Cronic, they’ve scored 31.3 and 31.5 PPG with 6.3 and 6.5 yards per play. However, now Blake Horvath, Alex Tecza, and all-time leading receiver Eli Heidenreich are gone. Was it Cronic or was it just a generational run of offensive leaders? Under 7.5 The conference schedule is not too demanding for Navy and they should be better than both service academies again. They do play at UTSA and at what should be an improved FAU team. Notre Dame is on the slate, as well as a home game against Memphis, but no Tulane or East Carolina. Both North Texas and Notre Dame are off of byes when they face Navy. With two years worth of film on the Cronic offense and some massive personnel losses, heavy regression is possible. My projection, though, is for 7.56 wins.
+- The guide credits Brian Newberry for hiring coordinator Drew Cronic, whose wrinkles gave Navy new life in the American. *(p. 60)*
+- It sets the pattern that makes this year risky: Navy went 14-2 in conference play in its first two AAC seasons before declining as teams adjusted, and under Ken Niumatalolo had only one further winning conference season after that start. Under Newberry Navy is 18-7. *(p. 60)*
+- Cronic's Wing-T modified triple option gives opponents much to prepare for. The production shift is stark: 17.7 points per game in 2023, then 31.3 and 31.5 with 6.3 and 6.5 yards per play in two seasons under him. *(p. 60)*
+- The guide then poses the central question — whether that was Cronic or a generational run of offensive leaders — with Blake Horvath, Alex Tecza and all-time leading receiver Eli Heidenreich all gone. *(p. 60)*
+- Recommendation is Under 7.5 wins. The conference schedule is not too demanding and Navy should again be better than both service academies. *(p. 60)*
+- Schedule detail: road games at UTSA and an improved Florida Atlantic, plus Notre Dame and a home game with Memphis, but no Tulane or East Carolina. Both North Texas and Notre Dame face Navy off byes. *(p. 60)*
+- Its conclusion is that with two years of film on the Cronic offense and massive personnel losses, heavy regression is possible — while candidly noting its own projection is 7.56 wins. *(p. 60)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +86,10 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Credit to Navy head coach Brian Newberry for bringing in OC Drew Cronic, as the wrinkles in the Middies offense have given them a new life in the American Conference. *(p. 60)*
-- Volker back to safeties coach and promoted Eric Lewis to DC. *(p. 61)*
+- The guide credits Brian Newberry for hiring coordinator Drew Cronic, whose wrinkles gave Navy new life in the American. *(p. 60)*
+- **What does that mean for the defense?** The guide calls this the million-dollar question. Sensing urgency, Newberry is returning to his roots as his own defensive play-caller, having demoted P.J. Volker to safeties coach and promoted Eric Lewis to coordinator. Losses are far lighter here with five of the top seven tacklers back, but the 5.9 yards per play and 25 points per game allowed were the most since 2021. It adds an important methodological caution: Navy's defensive numbers must be read in the context of an offensive scheme that limits possessions — and with offensive production expected to fall, the defense could bear the brunt. *(p. 61)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- It seems that Niumatalolo’s coaching magic from his years at Navy has worn off. *(p. 27)*
-- Navy is the tepid favorite here with one of the more tenured coaches in the conference, as Brian Newberry begins his fourth season at the helm. *(p. 49)*
+Also referenced on **pp. 27, 49** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,18 +97,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 60)*.
 
-- Every few years, it seems like a stud QB comes around in Annapolis and Horvath will be held in that light. *(p. 61)*
-- He threw for over 3,000 yards and ran for over 2,600 yards. *(p. 61)*
-- Only Reynolds and Bill Byrne have thrown more passing TDs in Navy history. *(p. 61)*
-- But, Horvath (58.8%) only trailed Roger Staubach in completion percentage with at least 120 pass attempts. *(p. 61)*
-- Woodson is not that kind of thrower with a 46.3% completion rate. *(p. 61)*
-- This scheme creates productive players, but Navy is missing 93.5% of their passing yards, over 83% of their rushing yards, and over 84% of their receiving yards from last season. *(p. 61)*
+- The guide then poses the central question — whether that was Cronic or a generational run of offensive leaders — with Blake Horvath, Alex Tecza and all-time leading receiver Eli Heidenreich all gone. *(p. 60)*
+- **How can Navy replicate the wrath of Horvath?** The guide places Horvath alongside Keenan Reynolds and Malcolm Perry among Navy greats: over 3,000 passing yards and over 2,600 rushing yards, with only Reynolds and Bill Byrne throwing more passing touchdowns in programme history — and it notes Reynolds played four years to Horvath's three. Braxton Woodson has enormous shoes to fill but knows the scheme, having started games in each of the last two seasons when Horvath was banged up, and averaged 9.4 yards per carry on 44 attempts. The guide identifies the specific gap precisely: Horvath's 58.8% completion rate trailed only Roger Staubach among Navy passers with at least 120 attempts, while Woodson is at 46.3%. *(p. 61)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NAVY After an 11-2 season, with the losses to Notre Dame and North Texas, the Midshipmen must replace star quarterback Blake Horvath. *(p. 20)*
-- But, that doesn’t mean they are immune to big personnel losses, especially in Navy’s case with QB Blake Horvath. *(p. 49)*
-- Rival Navy had the upper hand on Army heading into last season because QB Blake Horvath still had eligibility left, whereas Bryson Daily had exhausted his. *(p. 50)*
+Also referenced on **pp. 20, 49, 50** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -127,33 +124,19 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Credit to Navy head coach Brian Newberry for bringing in OC Drew Cronic, as the wrinkles in the Middies offense have given them a new life in the American Conference. *(p. 60)*
-- In two seasons under Cronic, they’ve scored 31.3 and 31.5 PPG with 6.3 and 6.5 yards per play. *(p. 60)*
-- However, now Blake Horvath, Alex Tecza, and all-time leading receiver Eli Heidenreich are gone. *(p. 60)*
-- Was it Cronic or was it just a generational run of offensive leaders? *(p. 60)*
-- With two years worth of film on the Cronic offense and some massive personnel losses, heavy regression is possible. *(p. 60)*
-- Tecza ran for 902 yards on 5.7 yards per carry with 10 rushing TD last season and ended his Navy career 12th in rushing yards with 2,236. *(p. 61)*
-- Tecza is seventh all-time among running backs in rushing yards. *(p. 61)*
-- He passed Rob Taylor for the program’s lead in receiving yards and finished his career fifth in scrimmage yards. *(p. 61)*
-- Oh, and fourth-leading rusher and second-leading receiver Brandon Chatman also exhausted his eligibility. *(p. 61)*
-- This scheme creates productive players, but Navy is missing 93.5% of their passing yards, over 83% of their rushing yards, and over 84% of their receiving yards from last season. *(p. 61)*
-- Navy’s defensive numbers need to be put in the proper context because of their offensive scheme, which limits possessions. *(p. 61)*
-- With a decline in offensive production expected, the defense could feel the brunt. *(p. 61)*
+- The guide credits Brian Newberry for hiring coordinator Drew Cronic, whose wrinkles gave Navy new life in the American. *(p. 60)*
+- Cronic's Wing-T modified triple option gives opponents much to prepare for. The production shift is stark: 17.7 points per game in 2023, then 31.3 and 31.5 with 6.3 and 6.5 yards per play in two seasons under him. *(p. 60)*
+- The guide then poses the central question — whether that was Cronic or a generational run of offensive leaders — with Blake Horvath, Alex Tecza and all-time leading receiver Eli Heidenreich all gone. *(p. 60)*
+- **How can Navy replicate the wrath of Horvath?** The guide places Horvath alongside Keenan Reynolds and Malcolm Perry among Navy greats: over 3,000 passing yards and over 2,600 rushing yards, with only Reynolds and Bill Byrne throwing more passing touchdowns in programme history — and it notes Reynolds played four years to Horvath's three. Braxton Woodson has enormous shoes to fill but knows the scheme, having started games in each of the last two seasons when Horvath was banged up, and averaged 9.4 yards per carry on 44 attempts. The guide identifies the specific gap precisely: Horvath's 58.8% completion rate trailed only Roger Staubach among Navy passers with at least 120 attempts, while Woodson is at 46.3%. *(p. 61)*
+- **What about the other losses?** Tecza and Heidenreich, a seventh-round Steelers pick, are described as monumental losses. Tecza ran for 902 yards at 5.7 per carry with 10 touchdowns and finished 12th in Navy rushing yards at 2,236, seventh all-time among running backs. Heidenreich had over 500 rushing yards and 941 receiving yards on 51 catches, passing Rob Taylor for the programme receiving record and finishing fifth in career scrimmage yards. Fourth-leading rusher and second-leading receiver Brandon Chatman also exhausted eligibility. The guide grants the scheme creates productive players, then quantifies the hole: Navy is missing 93.5% of its passing yards, over 83% of its rushing yards and over 84% of its receiving yards. *(p. 61)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Navy has a physical offensive line and a solid defense, but the key to the season will be Woodson, who’s fast and skilled but has not played much. 33. *(p. 20)*
+Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Perhaps sensing the urgency, Newberry is going back to his roots to serve as his own defensive play-caller, even though he demoted P.J. *(p. 61)*
-- The losses are nowhere near as heavy on this side, as five of the top seven tacklers are back, but the 5.9 YPP allowed by the Middies last season was the most they’ve surrendered since 2021, as were the 25 PPG. *(p. 61)*
-- Navy’s defensive numbers need to be put in the proper context because of their offensive scheme, which limits possessions. *(p. 61)*
-- With a decline in offensive production expected, the defense could feel the brunt. *(p. 61)*
+- **What does that mean for the defense?** The guide calls this the million-dollar question. Sensing urgency, Newberry is returning to his roots as his own defensive play-caller, having demoted P.J. Volker to safeties coach and promoted Eric Lewis to coordinator. Losses are far lighter here with five of the top seven tacklers back, but the 5.9 yards per play and 25 points per game allowed were the most since 2021. It adds an important methodological caution: Navy's defensive numbers must be read in the context of an offensive scheme that limits possessions — and with offensive production expected to fall, the defense could bear the brunt. *(p. 61)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Navy has a physical offensive line and a solid defense, but the key to the season will be Woodson, who’s fast and skilled but has not played much. 33. *(p. 20)*
+Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -203,7 +186,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- Schedule detail: road games at UTSA and an improved Florida Atlantic, plus Notre Dame and a home game with Memphis, but no Tulane or East Carolina. Both North Texas and Notre Dame face Navy off byes. *(p. 60)*
 
 ## 19. Win Total Discussion
 
@@ -230,25 +213,17 @@ Prices printed on the team page *(p. 61)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 7.5 wins. The conference schedule is not too demanding and Navy should again be better than both service academies. *(p. 60)*
+- Its conclusion is that with two years of film on the Cronic offense and massive personnel losses, heavy regression is possible — while candidly noting its own projection is 7.56 wins. *(p. 60)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Navy is the tepid favorite here with one of the more tenured coaches in the conference, as Brian Newberry begins his fourth season at the helm. *(p. 49)*
-- It probably isn’t a coincidence that UTSA (+480) and Army (6-1) are the second and third favorites, respectively, behind Navy (+310). *(p. 49)*
+Also referenced on **pp. 49** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- The Middles scored 17.7 PPG in 2023. *(p. 60)*
-- In fact, Woodson had 9.4 yards per carry on his 44 attempts last season. *(p. 61)*
-- Tecza ran for 902 yards on 5.7 yards per carry with 10 rushing TD last season and ended his Navy career 12th in rushing yards with 2,236. *(p. 61)*
-- This scheme creates productive players, but Navy is missing 93.5% of their passing yards, over 83% of their rushing yards, and over 84% of their receiving yards from last season. *(p. 61)*
-- The losses are nowhere near as heavy on this side, as five of the top seven tacklers are back, but the 5.9 YPP allowed by the Middies last season was the most they’ve surrendered since 2021, as were the 25 PPG. *(p. 61)*
+- It sets the pattern that makes this year risky: Navy went 14-2 in conference play in its first two AAC seasons before declining as teams adjusted, and under Ken Niumatalolo had only one further winning conference season after that start. Under Newberry Navy is 18-7. *(p. 60)*
+- **How can Navy replicate the wrath of Horvath?** The guide places Horvath alongside Keenan Reynolds and Malcolm Perry among Navy greats: over 3,000 passing yards and over 2,600 rushing yards, with only Reynolds and Bill Byrne throwing more passing touchdowns in programme history — and it notes Reynolds played four years to Horvath's three. Braxton Woodson has enormous shoes to fill but knows the scheme, having started games in each of the last two seasons when Horvath was banged up, and averaged 9.4 yards per carry on 44 attempts. The guide identifies the specific gap precisely: Horvath's 58.8% completion rate trailed only Roger Staubach among Navy passers with at least 120 attempts, while Woodson is at 46.3%. *(p. 61)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Rival Navy had the upper hand on Army heading into last season because QB Blake Horvath still had eligibility left, whereas Bryson Daily had exhausted his. *(p. 50)*
-- When Navy joined the AAC in 2015, they went 7-1 in league play in each of their first two seasons before dropping to 4-4 in Year 3 and then 2-6 in Year 4. *(p. 51)*
-- Outside of Navy, they face all of the teams that project to be average or better and they do not face Charlotte or UAB, their only two conference wins last season. *(p. 64)*
+Referenced in the guide on **pp. 50, 51, 64** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -294,46 +269,39 @@ As printed on p. 61. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **8.5 wins** against a posted total of 7.5 — **+1.0** in this team's favour.
-- Credit to Navy head coach Brian Newberry for bringing in OC Drew Cronic, as the wrinkles in the Middies offense have given them a new life in the American Conference. *(p. 60)*
-- In fact, under Ken Niumatalolo, the Middies only had one other winning season in conference after that 14-2 start. *(p. 60)*
-- They do play at UTSA and at what should be an improved FAU team. *(p. 60)*
-- Navy has a physical offensive line and a solid defense, but the key to the season will be Woodson, who’s fast and skilled but has not played much. 33. *(p. 20)*
-- Over 5.5 The season might start rather slowly with Florida and Navy on the docket, but the three games before the bye are very, very winnable. *(p. 56)*
+- The guide credits Brian Newberry for hiring coordinator Drew Cronic, whose wrinkles gave Navy new life in the American. *(p. 60)*
+- It sets the pattern that makes this year risky: Navy went 14-2 in conference play in its first two AAC seasons before declining as teams adjusted, and under Ken Niumatalolo had only one further winning conference season after that start. Under Newberry Navy is 18-7. *(p. 60)*
+- Schedule detail: road games at UTSA and an improved Florida Atlantic, plus Notre Dame and a home game with Memphis, but no Tulane or East Carolina. Both North Texas and Notre Dame face Navy off byes. *(p. 60)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- Cronic’s Wing-T, modified triple-option has given teams a lot of things to worry about when scouting. *(p. 60)*
-- With two years worth of film on the Cronic offense and some massive personnel losses, heavy regression is possible. *(p. 60)*
-- Tecza and Heidenreich, who was drafted in the seventh round by the Steelers, are monumental losses of production as well. *(p. 61)*
-- This scheme creates productive players, but Navy is missing 93.5% of their passing yards, over 83% of their rushing yards, and over 84% of their receiving yards from last season. *(p. 61)*
-- That is the million-dollar question here. *(p. 61)*
-- The losses are nowhere near as heavy on this side, as five of the top seven tacklers are back, but the 5.9 YPP allowed by the Middies last season was the most they’ve surrendered since 2021, as were the 25 PPG. *(p. 61)*
-- NAVY After an 11-2 season, with the losses to Notre Dame and North Texas, the Midshipmen must replace star quarterback Blake Horvath. *(p. 20)*
-- But, that doesn’t mean they are immune to big personnel losses, especially in Navy’s case with QB Blake Horvath. *(p. 49)*
-- They’ll go to Navy, UTSA, and Tulane, so the road games are very difficult. *(p. 62)*
-- They lost to Army and Navy by one point in each of those games. *(p. 68)*
+- The guide then poses the central question — whether that was Cronic or a generational run of offensive leaders — with Blake Horvath, Alex Tecza and all-time leading receiver Eli Heidenreich all gone. *(p. 60)*
+- Its conclusion is that with two years of film on the Cronic offense and massive personnel losses, heavy regression is possible — while candidly noting its own projection is 7.56 wins. *(p. 60)*
+- Tecza and Heidenreich, a seventh-round Steelers pick, are described as monumental losses. Tecza ran for 902 yards at 5.7 per carry with 10 touchdowns and finished 12th in Navy rushing yards at 2,236, seventh all-time among running backs. Heidenreich had over 500 rushing yards and 941 receiving yards on 51 catches, passing Rob Taylor for the programme receiving record and finishing fifth in career scrimmage yards. Fourth-leading rusher and second-leading receiver Brandon Chatman also exhausted eligibility. The guide grants the scheme creates productive players, then quantifies the hole: Navy is missing 93.5% of its passing yards, over 83% of its rushing yards and over 84% of its receiving yards. *(p. 61)*
+- The guide calls this the million-dollar question. Sensing urgency, Newberry is returning to his roots as his own defensive play-caller, having demoted P.J. Volker to safeties coach and promoted Eric Lewis to coordinator. Losses are far lighter here with five of the top seven tacklers back, but the 5.9 yards per play and 25 points per game allowed were the most since 2021. It adds an important methodological caution: Navy's defensive numbers must be read in the context of an offensive scheme that limits possessions — and with offensive production expected to fall, the defense could bear the brunt. *(p. 61)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 61)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 61)*. Its analysis, in reference form:
 
 ### How can Navy replicate the wrath of Horvath?
 
-Horvath will be talked about in the same breath as Keenan Reynolds and Malcolm Perry. Every few years, it seems like a stud QB comes around in Annapolis and Horvath will be held in that light. He threw for over 3,000 yards and ran for over 2,600 yards. Only Reynolds and Bill Byrne have thrown more passing TDs in Navy history. It should also be noted that Reynolds played four years, while Horvath played three. Braxton Woodson has some enormous shoes to fill. He’s plenty familiar with the scheme, having started games the last two seasons and being used when Horvath was banged up. In fact, Woodson had 9.4 yards per carry on his 44 attempts last season. But, Horvath (58.8%) only trailed Roger Staubach in completion percentage with at least 120 pass attempts. Woodson is not that kind of thrower with a 46.3% completion rate.
+The guide places Horvath alongside Keenan Reynolds and Malcolm Perry among Navy greats: over 3,000 passing yards and over 2,600 rushing yards, with only Reynolds and Bill Byrne throwing more passing touchdowns in programme history — and it notes Reynolds played four years to Horvath's three. Braxton Woodson has enormous shoes to fill but knows the scheme, having started games in each of the last two seasons when Horvath was banged up, and averaged 9.4 yards per carry on 44 attempts. The guide identifies the specific gap precisely: Horvath's 58.8% completion rate trailed only Roger Staubach among Navy passers with at least 120 attempts, while Woodson is at 46.3%. *(p. 61)*
 
 ### What about the other losses?
 
-Tecza and Heidenreich, who was drafted in the seventh round by the Steelers, are monumental losses of production as well. Tecza ran for 902 yards on 5.7 yards per carry with 10 rushing TD last season and ended his Navy career 12th in rushing yards with 2,236. Tecza is seventh all-time among running backs in rushing yards. Heidenreich had over 500 yards on the ground and 941 yards on 51 catches. He passed Rob Taylor for the program’s lead in receiving yards and finished his career fifth in scrimmage yards. Oh, and fourth-leading rusher and second-leading receiver Brandon Chatman also exhausted his eligibility. This scheme creates productive players, but Navy is missing 93.5% of their passing yards, over 83% of their rushing yards, and over 84% of their receiving yards from last season.
+Tecza and Heidenreich, a seventh-round Steelers pick, are described as monumental losses. Tecza ran for 902 yards at 5.7 per carry with 10 touchdowns and finished 12th in Navy rushing yards at 2,236, seventh all-time among running backs. Heidenreich had over 500 rushing yards and 941 receiving yards on 51 catches, passing Rob Taylor for the programme receiving record and finishing fifth in career scrimmage yards. Fourth-leading rusher and second-leading receiver Brandon Chatman also exhausted eligibility. The guide grants the scheme creates productive players, then quantifies the hole: Navy is missing 93.5% of its passing yards, over 83% of its rushing yards and over 84% of its receiving yards. *(p. 61)*
 
 ### What does that mean for the defense?
 
-That is the million-dollar question here. Perhaps sensing the urgency, Newberry is going back to his roots to serve as his own defensive play-caller, even though he demoted P.J. Volker back to safeties coach and promoted Eric Lewis to DC. The losses are nowhere near as heavy on this side, as five of the top seven tacklers are back, but the 5.9 YPP allowed by the Middies last season was the most they’ve surrendered since 2021, as were the 25 PPG. Navy’s defensive numbers need to be put in the proper context because of their offensive scheme, which limits possessions. With a decline in offensive production expected, the defense could feel the brunt.
+The guide calls this the million-dollar question. Sensing urgency, Newberry is returning to his roots as his own defensive play-caller, having demoted P.J. Volker to safeties coach and promoted Eric Lewis to coordinator. Losses are far lighter here with five of the top seven tacklers back, but the 5.9 yards per play and 25 points per game allowed were the most since 2021. It adds an important methodological caution: Navy's defensive numbers must be read in the context of an offensive scheme that limits possessions — and with offensive production expected to fall, the defense could bear the brunt. *(p. 61)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

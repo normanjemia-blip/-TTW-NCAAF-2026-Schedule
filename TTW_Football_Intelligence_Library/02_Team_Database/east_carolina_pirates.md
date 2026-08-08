@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 8.0–4.0 overall, 5.6–2.4 in conference |
 | **Schedule strength** | 33.46 (#96 toughest of 138) |
 
-### Season outlook as written in the guide (p. 54)
+### Season outlook — VSiN's analysis in reference form (p. 54)
 
-It is often bittersweet for a Group of Six program when a head coach is having a lot of success. Blake Harrell is 14-5 as the head coach at East Carolina, as he led the team to five wins in their final six games in 2024 and then a 9-4 record this past season. Harrell also owns upset wins over two ACC programs in bowl games, including in-state rival NC State, who did get revenge in the season opener last year, but in a very competitive 24-17 game. We’ll see if this will be Harrell’s last season with the program or not, as the 46-year-old could either take a big-time defensive coordinator job or level up as a head coach. If he has similar success this season, it will be a thoroughly impressive coaching job with virtually none of last season’s major contributors back in the fold. Not only that, but Harrell is working alongside two new coordinators as his previous ones are now at Ole Miss and South Florida. Over 7.5 For ECU to get to 8-4 or better, they’ll really have to earn it. Opening the season with Alabama in Tuscaloosa isn’t ideal, not to mention they play three weeknight games, including two road Thursday games, and face Temple and Army with rest disadvantages, as both of those teams will be coming off of the bye. However, East Carolina also doesn’t face UTSA or Tulane, two of the four teams that beat the Pirates last season. My projection is 7.72 wins.
+- The guide frames Group of Six success as bittersweet. Blake Harrell is 14-5, having won five of the final six in 2024 and gone 9-4 last season. *(p. 54)*
+- He owns bowl upsets over two ACC programmes including in-state rival NC State, who got revenge in last year's opener but only in a competitive 24-17 game. *(p. 54)*
+- It openly wonders whether this is his last season, with the 46-year-old able to take a big defensive coordinator job or a bigger head coaching role. *(p. 54)*
+- Repeating would be thoroughly impressive with virtually none of last season's major contributors back, and Harrell also works with two new coordinators after his previous ones left for Ole Miss and South Florida. *(p. 54)*
+- Recommendation is Over 7.5 wins, with the guide stressing East Carolina will have to earn 8-4 or better. *(p. 54)*
+- The obstacles are specific: opening at Alabama, three weeknight games including two road Thursdays, and facing Temple and Army at rest disadvantages since both come off byes. *(p. 54)*
+- The offsetting factor is that East Carolina avoids UTSA and Tulane, two of the four teams that beat it last season. Projection is 7.72 wins. *(p. 54)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,20 +86,13 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- It is often bittersweet for a Group of Six program when a head coach is having a lot of success. *(p. 54)*
-- Blake Harrell is 14-5 as the head coach at East Carolina, as he led the team to five wins in their final six games in 2024 and then a 9-4 record this past season. *(p. 54)*
-- We’ll see if this will be Harrell’s last season with the program or not, as the 46-year-old could either take a big-time defensive coordinator job or level up as a head coach. *(p. 54)*
-- If he has similar success this season, it will be a thoroughly impressive coaching job with virtually none of last season’s major contributors back in the fold. *(p. 54)*
-- Not only that, but Harrell is working alongside two new coordinators as his previous ones are now at Ole Miss and South Florida. *(p. 54)*
-- The new OC is Jordan Davis and that means a scheme change in Greenville. *(p. 55)*
-- With two returning starters back on defense, Harrell and DC Josh Aldridge did a masterful job. *(p. 55)*
-- He’s basically starting from scratch in terms of returning starters and has a new DC this time around. *(p. 55)*
+- The guide frames Group of Six success as bittersweet. Blake Harrell is 14-5, having won five of the final six in 2024 and gone 9-4 last season. *(p. 54)*
+- It openly wonders whether this is his last season, with the 46-year-old able to take a big defensive coordinator job or a bigger head coaching role. *(p. 54)*
+- Repeating would be thoroughly impressive with virtually none of last season's major contributors back, and Harrell also works with two new coordinators after his previous ones left for Ole Miss and South Florida. *(p. 54)*
+- **More run or more shoot?** New coordinator Jordan Davis brings a scheme change, having worked under Eric Morris at North Texas — an offense that led the nation in scoring at over 45 points and in yards at just over 512 per game while ranking third in yards per play. The guide corrects a likely assumption with data: a Morris offense is not merely a chuck-it attack, since Drew Mestemaker threw 463 times for nearly 4,400 yards while Caleb Hawkins carried 231 times for 1,434 yards on 517 team rushing attempts. Davis brought backup back Ashton Gray and receiver Landon Sides, so some players know the scheme, and with East Carolina's run game having fallen from 4.8 to 4.1 yards per carry it sees a good chance of recovery. *(p. 55)*
+- **Can Harrell work his magic again?** With only two returning starters, Harrell and coordinator Josh Aldridge produced 20.1 points and just over 5.1 yards per play allowed, improving against the run, generating more sacks and forcing 24 takeaways for a +10 turnover margin. The guide then supplies an important caveat of its own: East Carolina allowed just 390 yards combined in wins over Campbell and Coastal Carolina, and 71 rushing yards on 53 carries, so the conference numbers were not as strong as the full-season figures suggest. It balances that by noting the Pirates still outgained American opponents by 0.65 yards per play as the offense strengthened through the season — and that Harrell is starting from scratch again with a new coordinator. *(p. 55)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS Senior quarterback Katin Houser, a transfer from East Carolina, replaces Luke Altmyer in coach Bret Bielema’s run-oriented offense. *(p. 20)*
-- Aldridge has been working at conference rival East Carolina under head coach Blake Harrell, who has proven to be an outstanding defensive mind and a pretty darn good HC. *(p. 67)*
-- In comes John David Baker — the offensive coordinator at East Carolina in 2025 — to replace Weis, and to some extent, Kiffin. *(p. 305)*
+Also referenced on **pp. 20, 67, 305** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -99,11 +100,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 54)*.
 
-- Drew Mestemaker threw for nearly 4,400 yards and had 463 pass attempts, but RB Caleb Hawkins had 231 carries for 1,434 yards and the team had 517 rush attempts. *(p. 55)*
+- **Who will run the show?** The guide calls this the biggest personnel question. Miami transfer Emory Williams and four-time transfer Mitch Griffis, at Texas Tech last season, are the main options: Williams bigger and more athletic, Griffis closer to Mestemaker's skill set though lacking his size. It notes Katin Houser, another Harrell portal find, was very solid last season and credits Harrell with a finger on the pulse of free agency. It expects good numbers either way, while flagging that a possibly shaky offensive line early may favour Williams. *(p. 55)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS Senior quarterback Katin Houser, a transfer from East Carolina, replaces Luke Altmyer in coach Bret Bielema’s run-oriented offense. *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -119,15 +118,11 @@ The Stability Score table prints the same figure independently: **7 returning st
 
 ## 11. Transfer Portal
 
-- Davis got backup RB Ashton Gray to transfer and also WR Landon Sides, so he has skill guys who know the scheme. *(p. 55)*
-- Miami transfer Emory Williams and now four-time transfer Mitch Griffis, who was at Texas Tech last season, are the main options. *(p. 55)*
-- Katin Houser, another portal find by Harrell, who really seems to have his finger on the pulse of free agency, was very solid last season. *(p. 55)*
+- Repeating would be thoroughly impressive with virtually none of last season's major contributors back, and Harrell also works with two new coordinators after his previous ones left for Ole Miss and South Florida. *(p. 54)*
+- **More run or more shoot?** New coordinator Jordan Davis brings a scheme change, having worked under Eric Morris at North Texas — an offense that led the nation in scoring at over 45 points and in yards at just over 512 per game while ranking third in yards per play. The guide corrects a likely assumption with data: a Morris offense is not merely a chuck-it attack, since Drew Mestemaker threw 463 times for nearly 4,400 yards while Caleb Hawkins carried 231 times for 1,434 yards on 517 team rushing attempts. Davis brought backup back Ashton Gray and receiver Landon Sides, so some players know the scheme, and with East Carolina's run game having fallen from 4.8 to 4.1 yards per carry it sees a good chance of recovery. *(p. 55)*
+- **Who will run the show?** The guide calls this the biggest personnel question. Miami transfer Emory Williams and four-time transfer Mitch Griffis, at Texas Tech last season, are the main options: Williams bigger and more athletic, Griffis closer to Mestemaker's skill set though lacking his size. It notes Katin Houser, another Harrell portal find, was very solid last season and credits Harrell with a finger on the pulse of free agency. It expects good numbers either way, while flagging that a possibly shaky offensive line early may favour Williams. *(p. 55)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS Senior quarterback Katin Houser, a transfer from East Carolina, replaces Luke Altmyer in coach Bret Bielema’s run-oriented offense. *(p. 20)*
-- After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. *(p. 151)*
-- Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). *(p. 185)*
+Referenced in the guide on **pp. 20, 151, 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -135,28 +130,15 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Davis was working under Eric Morris at North Texas, an offense that led the nation in points per game with over 45, yards per game with just over 512, and ranked third in yards per play. *(p. 55)*
-- While the prevailing thought would be that a Morris-led offense would just chuck the ball around the field, that wasn’t the case. *(p. 55)*
-- The ECU run game actually fell from 4.8 yards per carry to 4.1, so that has a good chance to go back up. *(p. 55)*
-- The offensive line could be shaky at the outset, which perhaps puts Williams in the driver’s seat for the job. *(p. 55)*
-- It does need to be said that the Pirates allowed just 390 yards in their wins over Campbell and Coastal Carolina and 71 rushing yards on 53 carries, so their conference numbers weren’t nearly as strong as the full body of work suggests. *(p. 55)*
-- That said, ECU still outgained American foes by 0.65 YPP, as the offense got stronger as the season went along. *(p. 55)*
+- **More run or more shoot?** New coordinator Jordan Davis brings a scheme change, having worked under Eric Morris at North Texas — an offense that led the nation in scoring at over 45 points and in yards at just over 512 per game while ranking third in yards per play. The guide corrects a likely assumption with data: a Morris offense is not merely a chuck-it attack, since Drew Mestemaker threw 463 times for nearly 4,400 yards while Caleb Hawkins carried 231 times for 1,434 yards on 517 team rushing attempts. Davis brought backup back Ashton Gray and receiver Landon Sides, so some players know the scheme, and with East Carolina's run game having fallen from 4.8 to 4.1 yards per carry it sees a good chance of recovery. *(p. 55)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ILLINOIS Senior quarterback Katin Houser, a transfer from East Carolina, replaces Luke Altmyer in coach Bret Bielema’s run-oriented offense. *(p. 20)*
-- In comes John David Baker — the offensive coordinator at East Carolina in 2025 — to replace Weis, and to some extent, Kiffin. *(p. 305)*
+Referenced in the guide on **pp. 20, 305** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- We’ll see if this will be Harrell’s last season with the program or not, as the 46-year-old could either take a big-time defensive coordinator job or level up as a head coach. *(p. 54)*
-- With two returning starters back on defense, Harrell and DC Josh Aldridge did a masterful job. *(p. 55)*
-- The team was better against the run, generated more sacks, and the defense had 24 takeaways leading to a +10 TO margin. *(p. 55)*
+- **Can Harrell work his magic again?** With only two returning starters, Harrell and coordinator Josh Aldridge produced 20.1 points and just over 5.1 yards per play allowed, improving against the run, generating more sacks and forcing 24 takeaways for a +10 turnover margin. The guide then supplies an important caveat of its own: East Carolina allowed just 390 yards combined in wins over Campbell and Coastal Carolina, and 71 rushing yards on 53 carries, so the conference numbers were not as strong as the full-season figures suggest. It balances that by noting the Pirates still outgained American opponents by 0.65 yards per play as the offense strengthened through the season — and that Harrell is starting from scratch again with a new coordinator. *(p. 55)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Aldridge has been working at conference rival East Carolina under head coach Blake Harrell, who has proven to be an outstanding defensive mind and a pretty darn good HC. *(p. 67)*
-- Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). *(p. 185)*
+Referenced in the guide on **pp. 67, 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -204,7 +186,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Opening the season with Alabama in Tuscaloosa isn’t ideal, not to mention they play three weeknight games, including two road Thursday games, and face Temple and Army with rest disadvantages, as both of those teams will be coming off of the bye. *(p. 54)*
+- The obstacles are specific: opening at Alabama, three weeknight games including two road Thursdays, and facing Temple and Army at rest disadvantages since both come off byes. *(p. 54)*
 
 ## 19. Win Total Discussion
 
@@ -232,23 +214,15 @@ Prices printed on the team page *(p. 55)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Over 7.5 wins, with the guide stressing East Carolina will have to earn 8-4 or better. *(p. 54)*
+- The offsetting factor is that East Carolina avoids UTSA and Tulane, two of the four teams that beat it last season. Projection is 7.72 wins. *(p. 54)*
 
 ## 22. Historical / Situational Trends
 
-- Blake Harrell is 14-5 as the head coach at East Carolina, as he led the team to five wins in their final six games in 2024 and then a 9-4 record this past season. *(p. 54)*
-- Harrell also owns upset wins over two ACC programs in bowl games, including in-state rival NC State, who did get revenge in the season opener last year, but in a very competitive 24-17 game. *(p. 54)*
-- We’ll see if this will be Harrell’s last season with the program or not, as the 46-year-old could either take a big-time defensive coordinator job or level up as a head coach. *(p. 54)*
-- If he has similar success this season, it will be a thoroughly impressive coaching job with virtually none of last season’s major contributors back in the fold. *(p. 54)*
-- However, East Carolina also doesn’t face UTSA or Tulane, two of the four teams that beat the Pirates last season. *(p. 54)*
-- Miami transfer Emory Williams and now four-time transfer Mitch Griffis, who was at Texas Tech last season, are the main options. *(p. 55)*
-- Katin Houser, another portal find by Harrell, who really seems to have his finger on the pulse of free agency, was very solid last season. *(p. 55)*
+- The guide frames Group of Six success as bittersweet. Blake Harrell is 14-5, having won five of the final six in 2024 and gone 9-4 last season. *(p. 54)*
+- He owns bowl upsets over two ACC programmes including in-state rival NC State, who got revenge in last year's opener but only in a competitive 24-17 game. *(p. 54)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
-- After a redshirt year in 2022, Katin Houser could not win the starting job at Michigan State over Noah Kim, who later transferred to Coastal Carolina and finished last year at Eastern Michigan, so he transferred to East Carolina. *(p. 151)*
-- In comes John David Baker — the offensive coordinator at East Carolina in 2025 — to replace Weis, and to some extent, Kiffin. *(p. 305)*
+Referenced in the guide on **pp. 68, 151, 305** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -295,43 +269,38 @@ As printed on p. 55. Each category carries a value and a national rank.
 
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- It is often bittersweet for a Group of Six program when a head coach is having a lot of success. *(p. 54)*
-- If he has similar success this season, it will be a thoroughly impressive coaching job with virtually none of last season’s major contributors back in the fold. *(p. 54)*
-- The ECU run game actually fell from 4.8 yards per carry to 4.1, so that has a good chance to go back up. *(p. 55)*
-- Katin Houser, another portal find by Harrell, who really seems to have his finger on the pulse of free agency, was very solid last season. *(p. 55)*
-- Whether it’s Williams or Griffis, good numbers should come again. *(p. 55)*
-- It does need to be said that the Pirates allowed just 390 yards in their wins over Campbell and Coastal Carolina and 71 rushing yards on 53 carries, so their conference numbers weren’t nearly as strong as the full body of work suggests. *(p. 55)*
-- Aldridge has been working at conference rival East Carolina under head coach Blake Harrell, who has proven to be an outstanding defensive mind and a pretty darn good HC. *(p. 67)*
-- Katin Houser returns to the Big Ten (Michigan State) after starting for the better part of two seasons at East Carolina, where he went 13-6 as a starter. *(p. 150)*
+- The guide frames Group of Six success as bittersweet. Blake Harrell is 14-5, having won five of the final six in 2024 and gone 9-4 last season. *(p. 54)*
+- Repeating would be thoroughly impressive with virtually none of last season's major contributors back, and Harrell also works with two new coordinators after his previous ones left for Ole Miss and South Florida. *(p. 54)*
+- New coordinator Jordan Davis brings a scheme change, having worked under Eric Morris at North Texas — an offense that led the nation in scoring at over 45 points and in yards at just over 512 per game while ranking third in yards per play. The guide corrects a likely assumption with data: a Morris offense is not merely a chuck-it attack, since Drew Mestemaker threw 463 times for nearly 4,400 yards while Caleb Hawkins carried 231 times for 1,434 yards on 517 team rushing attempts. Davis brought backup back Ashton Gray and receiver Landon Sides, so some players know the scheme, and with East Carolina's run game having fallen from 4.8 to 4.1 yards per carry it sees a good chance of recovery. *(p. 55)*
+- The guide calls this the biggest personnel question. Miami transfer Emory Williams and four-time transfer Mitch Griffis, at Texas Tech last season, are the main options: Williams bigger and more athletic, Griffis closer to Mestemaker's skill set though lacking his size. It notes Katin Houser, another Harrell portal find, was very solid last season and credits Harrell with a finger on the pulse of free agency. It expects good numbers either way, while flagging that a possibly shaky offensive line early may favour Williams. *(p. 55)*
+- With only two returning starters, Harrell and coordinator Josh Aldridge produced 20.1 points and just over 5.1 yards per play allowed, improving against the run, generating more sacks and forcing 24 takeaways for a +10 turnover margin. The guide then supplies an important caveat of its own: East Carolina allowed just 390 yards combined in wins over Campbell and Coastal Carolina, and 71 rushing yards on 53 carries, so the conference numbers were not as strong as the full-season figures suggest. It balances that by noting the Pirates still outgained American opponents by 0.65 yards per play as the offense strengthened through the season — and that Harrell is starting from scratch again with a new coordinator. *(p. 55)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Not only that, but Harrell is working alongside two new coordinators as his previous ones are now at Ole Miss and South Florida. *(p. 54)*
-- Well, that’s the biggest question for ECU from a personnel standpoint. *(p. 55)*
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
-- While Tulsa avoids East Carolina and Memphis, road games at Navy, Tulane, and UTSA make for a very tough conference schedule. *(p. 72)*
-- Drawing Southern Miss and LA Tech from the West Division isn’t bad at all and the East Carolina game can be had at home. *(p. 330)*
+- Repeating would be thoroughly impressive with virtually none of last season's major contributors back, and Harrell also works with two new coordinators after his previous ones left for Ole Miss and South Florida. *(p. 54)*
+- The guide calls this the biggest personnel question. Miami transfer Emory Williams and four-time transfer Mitch Griffis, at Texas Tech last season, are the main options: Williams bigger and more athletic, Griffis closer to Mestemaker's skill set though lacking his size. It notes Katin Houser, another Harrell portal find, was very solid last season and credits Harrell with a finger on the pulse of free agency. It expects good numbers either way, while flagging that a possibly shaky offensive line early may favour Williams. *(p. 55)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 55)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 55)*. Its analysis, in reference form:
 
 ### More run or more shoot?
 
-The new OC is Jordan Davis and that means a scheme change in Greenville. Davis was working under Eric Morris at North Texas, an offense that led the nation in points per game with over 45, yards per game with just over 512, and ranked third in yards per play. While the prevailing thought would be that a Morris-led offense would just chuck the ball around the field, that wasn’t the case. Drew Mestemaker threw for nearly 4,400 yards and had 463 pass attempts, but RB Caleb Hawkins had 231 carries for 1,434 yards and the team had 517 rush attempts. Davis got backup RB Ashton Gray to transfer and also WR Landon Sides, so he has skill guys who know the scheme. The ECU run game actually fell from 4.8 yards per carry to 4.1, so that has a good chance to go back up.
+New coordinator Jordan Davis brings a scheme change, having worked under Eric Morris at North Texas — an offense that led the nation in scoring at over 45 points and in yards at just over 512 per game while ranking third in yards per play. The guide corrects a likely assumption with data: a Morris offense is not merely a chuck-it attack, since Drew Mestemaker threw 463 times for nearly 4,400 yards while Caleb Hawkins carried 231 times for 1,434 yards on 517 team rushing attempts. Davis brought backup back Ashton Gray and receiver Landon Sides, so some players know the scheme, and with East Carolina's run game having fallen from 4.8 to 4.1 yards per carry it sees a good chance of recovery. *(p. 55)*
 
 ### Who will run the show?
 
-Well, that’s the biggest question for ECU from a personnel standpoint. Miami transfer Emory Williams and now four-time transfer Mitch Griffis, who was at Texas Tech last season, are the main options. Williams is the bigger, more athletic option, but Griffis may more closely resemble Mestemaker’s skill set, though he doesn’t have the size. Katin Houser, another portal find by Harrell, who really seems to have his finger on the pulse of free agency, was very solid last season. Whether it’s Williams or Griffis, good numbers should come again. The offensive line could be shaky at the outset, which perhaps puts Williams in the driver’s seat for the job.
+The guide calls this the biggest personnel question. Miami transfer Emory Williams and four-time transfer Mitch Griffis, at Texas Tech last season, are the main options: Williams bigger and more athletic, Griffis closer to Mestemaker's skill set though lacking his size. It notes Katin Houser, another Harrell portal find, was very solid last season and credits Harrell with a finger on the pulse of free agency. It expects good numbers either way, while flagging that a possibly shaky offensive line early may favour Williams. *(p. 55)*
 
 ### Can Harrell work his magic again?
 
-With two returning starters back on defense, Harrell and DC Josh Aldridge did a masterful job. The Pirates allowed just 20.1 PPG and just over 5.1 YPP. Statistically, everything got better. The team was better against the run, generated more sacks, and the defense had 24 takeaways leading to a +10 TO margin. It does need to be said that the Pirates allowed just 390 yards in their wins over Campbell and Coastal Carolina and 71 rushing yards on 53 carries, so their conference numbers weren’t nearly as strong as the full body of work suggests. That said, ECU still outgained American foes by 0.65 YPP, as the offense got stronger as the season went along. He’s basically starting from scratch in terms of returning starters and has a new DC this time around.
+With only two returning starters, Harrell and coordinator Josh Aldridge produced 20.1 points and just over 5.1 yards per play allowed, improving against the run, generating more sacks and forcing 24 takeaways for a +10 turnover margin. The guide then supplies an important caveat of its own: East Carolina allowed just 390 yards combined in wins over Campbell and Coastal Carolina, and 71 rushing yards on 53 carries, so the conference numbers were not as strong as the full-season figures suggest. It balances that by noting the Pirates still outgained American opponents by 0.65 yards per play as the offense strengthened through the season — and that Harrell is starting from scratch again with a new coordinator. *(p. 55)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

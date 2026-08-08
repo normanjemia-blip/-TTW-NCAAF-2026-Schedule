@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 2.1–9.9 overall, 0.9–7.1 in conference |
 | **Schedule strength** | 36.78 (#77 toughest of 138) |
 
-### Season outlook as written in the guide (p. 52)
+### Season outlook — VSiN's analysis in reference form (p. 52)
 
-Apparently Tim Albin felt like Charlotte Green was a brighter shade than Bobcat Green, as he gave up a pretty good gig at Ohio to take on arguably the biggest challenge in the American Conference. Charlotte is probably the second-toughest job behind Rice, where the academic standards are a hindrance, but the results point towards this as the toughest job given that the 49ers were 1-11 overall, 0-8 in conference play, and only beat FCS Monmouth. Albin had three straight double-digit winning seasons at Ohio before suffering through his first season in the Queen City. And “suffer” is the accurate description because the team only scored 14.3 PPG, gave up more than 36, got outgained by nearly two yards per play, and the closest conference loss was by 11 points. Other than that, Mrs. Lincoln, how was the play? Under 2.5 The product on the field should look better, but finding two more wins on the schedule than last season is a chore. Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. Depth is still an issue here and probably the best QB on the roster (Harrell) will be out until mid-October or so. My projection is 1.81 wins.
+- Tim Albin left a good job at Ohio for what the guide calls arguably the biggest challenge in the American, rating Charlotte probably the second-toughest job behind Rice, where academic standards are a hindrance — though results point to Charlotte as the toughest. *(p. 52)*
+- The evidence: 1-11 overall, 0-8 in conference play, with the only win over FCS Monmouth. *(p. 52)*
+- Albin had three straight double-digit winning seasons at Ohio before this. The guide details the collapse: 14.3 points per game scored, more than 36 allowed, outgained by nearly two yards per play, and a closest conference loss of 11 points. *(p. 52)*
+- Recommendation is Under 2.5 wins. The guide expects the on-field product to improve while judging two additional wins a chore. *(p. 52)*
+- It maps the schedule: Charlotte should start 1-0 against The Citadel, but its other most winnable games — Temple, Tulsa and UAB — are all on the road. *(p. 52)*
+- Depth remains an issue and probably the best quarterback on the roster, Harrell, will be out until around mid-October. Projection is 1.81 wins. *(p. 52)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +85,10 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Prior to becoming the OC at Ohio, Albin primarily coached offensive linemen and running backs. *(p. 53)*
-- Clearly the athletic department felt the same way when they hired Biff Poggi in terms of the team’s lack of toughness in the trenches. *(p. 53)*
+- Tim Albin left a good job at Ohio for what the guide calls arguably the biggest challenge in the American, rating Charlotte probably the second-toughest job behind Rice, where academic standards are a hindrance — though results point to Charlotte as the toughest. *(p. 52)*
+- **Where's the beef?** The guide identifies a multi-year structural problem: Charlotte is not big or strong enough up front. Last year's team was -2.3 in yards-per-carry differential and the one before -1.6, while the 2019 team that went bowling had a positive differential. Charlotte has not exceeded 20 sacks in a season since that 2019 campaign. It notes Albin primarily coached offensive linemen and running backs before becoming Ohio's coordinator, and that the athletic department showed the same instinct when hiring Biff Poggi over trench toughness. Its conclusion is conditional: improving there is how Albin finds momentum. *(p. 53)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kurt Mattix is back to be the DC after shacking up in Charlotte with Albin last season. *(p. 235)*
-- Former Charlotte head coach Brad Lambert is back for his third go-round after coaching up the defense here in 2019-20. *(p. 329)*
+Also referenced on **pp. 235, 329** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,9 +96,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 52)*.
 
-- Depth is still an issue here and probably the best QB on the roster (Harrell) will be out until mid-October or so. *(p. 52)*
-- Charlotte’s boosters and supporters did open their wallets to try and get Albin a real QB last season, picking up Grayson Loftis from Duke and Conner Harrell from North Carolina. *(p. 53)*
-- Harrell suffered a season- ending injury after emerging as the better option with a 66.7% completion rate and a 4/2 TD/INT ratio, leaving it in the hands of Loftis, who had an 8/8 TD/INT ratio with just a 55% completion rate. *(p. 53)*
+- Depth remains an issue and probably the best quarterback on the roster, Harrell, will be out until around mid-October. Projection is 1.81 wins. *(p. 52)*
+- **Is there a starting QB on the roster?** Charlotte's boosters did fund a real attempt last season, adding Grayson Loftis from Duke and Conner Harrell from North Carolina. Harrell emerged as the better option with 66.7% completions and a 4-to-2 ratio before a season-ending injury, leaving Loftis and his 8-to-8 ratio on 55% completions; Zach Wilcke also took reps and has moved on. This season the job may fall to Western Carolina transfer Cole Gonzales until Harrell returns. The guide's verdict is blunt — none of the options are particularly good — with the consolation that almost all the backs and receivers are new, which can only help after 4.6 yards per play. *(p. 53)*
 
 ## 10. Returning Production
 
@@ -110,37 +113,28 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- Neither the incoming class nor the portal class graded all that highly for 247Sports relative to the rest of the conference, but there are a lot more warm bodies and some of them are probably better at football than the ones that were there. *(p. 53)*
-- This season, the starting gig may fall on the shoulders of Western Carolina transfer Cole Gonzales, at least until Harrell returns. *(p. 53)*
+- **At least there's nowhere to go but up, right?!** The guide says the bar is now so low it doubts a toddler could crawl under it. Charlotte has one bowl appearance since joining FBS over a decade ago, and last season was close to rock bottom: 14 sacks, 2.7 yards per carry, much of it down to how painfully thin the roster was when Albin arrived. Its assessment of the reinforcements is deliberately modest — neither the incoming class nor the portal class graded highly for 247Sports relative to the conference, but there are many more bodies and some are probably better at football than what was there. *(p. 53)*
+- **Is there a starting QB on the roster?** Charlotte's boosters did fund a real attempt last season, adding Grayson Loftis from Duke and Conner Harrell from North Carolina. Harrell emerged as the better option with 66.7% completions and a 4-to-2 ratio before a season-ending injury, leaving Loftis and his 8-to-8 ratio on 55% completions; Zach Wilcke also took reps and has moved on. This season the job may fall to Western Carolina transfer Cole Gonzales until Harrell returns. The guide's verdict is blunt — none of the options are particularly good — with the consolation that almost all the backs and receivers are new, which can only help after 4.6 yards per play. *(p. 53)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While Eget or Mahan have an intriguing transfer in Penn’s 1,000-yard WR Jared Richardson, their other two primary receivers for this season look like 5-foot-8 Jayden Moore and 5-foot-9 Javen Nicholas, a Charlotte transfer. *(p. 87)*
+Referenced in the guide on **pp. 87** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-Not addressed in guide.
+- **At least there's nowhere to go but up, right?!** The guide says the bar is now so low it doubts a toddler could crawl under it. Charlotte has one bowl appearance since joining FBS over a decade ago, and last season was close to rock bottom: 14 sacks, 2.7 yards per carry, much of it down to how painfully thin the roster was when Albin arrived. Its assessment of the reinforcements is deliberately modest — neither the incoming class nor the portal class graded highly for 247Sports relative to the conference, but there are many more bodies and some are probably better at football than what was there. *(p. 53)*
 
 ## 13. Offensive Identity
 
-- And “suffer” is the accurate description because the team only scored 14.3 PPG, gave up more than 36, got outgained by nearly two yards per play, and the closest conference loss was by 11 points. *(p. 52)*
-- The defense managed just 14 sacks, the offense had just 2.7 yards per carry, and a lot of it had to do with how painfully thin the roster was when Albin took the job. *(p. 53)*
-- On the plus side, almost all the backs and receivers are new, which can only help after last season’s 4.6 YPP. *(p. 53)*
-- Prior to becoming the OC at Ohio, Albin primarily coached offensive linemen and running backs. *(p. 53)*
+- Albin had three straight double-digit winning seasons at Ohio before this. The guide details the collapse: 14.3 points per game scored, more than 36 allowed, outgained by nearly two yards per play, and a closest conference loss of 11 points. *(p. 52)*
+- **Where's the beef?** The guide identifies a multi-year structural problem: Charlotte is not big or strong enough up front. Last year's team was -2.3 in yards-per-carry differential and the one before -1.6, while the 2019 team that went bowling had a positive differential. Charlotte has not exceeded 20 sacks in a season since that 2019 campaign. It notes Albin primarily coached offensive linemen and running backs before becoming Ohio's coordinator, and that the athletic department showed the same instinct when hiring Biff Poggi over trench toughness. Its conclusion is conditional: improving there is how Albin finds momentum. *(p. 53)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While Eget or Mahan have an intriguing transfer in Penn’s 1,000-yard WR Jared Richardson, their other two primary receivers for this season look like 5-foot-8 Jayden Moore and 5-foot-9 Javen Nicholas, a Charlotte transfer. *(p. 87)*
+Referenced in the guide on **pp. 87** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The defense managed just 14 sacks, the offense had just 2.7 yards per carry, and a lot of it had to do with how painfully thin the roster was when Albin took the job. *(p. 53)*
-- Not to mention, the 49ers haven’t had more than 20 sacks in a season since that ‘19 campaign. *(p. 53)*
+- Albin had three straight double-digit winning seasons at Ohio before this. The guide details the collapse: 14.3 points per game scored, more than 36 allowed, outgained by nearly two yards per play, and a closest conference loss of 11 points. *(p. 52)*
+- **Where's the beef?** The guide identifies a multi-year structural problem: Charlotte is not big or strong enough up front. Last year's team was -2.3 in yards-per-carry differential and the one before -1.6, while the 2019 team that went bowling had a positive differential. Charlotte has not exceeded 20 sacks in a season since that 2019 campaign. It notes Albin primarily coached offensive linemen and running backs before becoming Ohio's coordinator, and that the athletic department showed the same instinct when hiring Biff Poggi over trench toughness. Its conclusion is conditional: improving there is how Albin finds momentum. *(p. 53)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Despite some extremely heavy personnel losses, especially on defense, the Hurricanes (-136) still seem to have the inside track in the conference as a very clear odds-on favorite to celebrate in Charlotte on December 5. *(p. 79)*
-- Former Charlotte head coach Brad Lambert is back for his third go-round after coaching up the defense here in 2019-20. *(p. 329)*
+Referenced in the guide on **pp. 79, 329** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -219,28 +213,18 @@ Prices printed on the team page *(p. 53)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 2.5 wins. The guide expects the on-field product to improve while judging two additional wins a chore. *(p. 52)*
+- Depth remains an issue and probably the best quarterback on the roster, Harrell, will be out until around mid-October. Projection is 1.81 wins. *(p. 52)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Despite some extremely heavy personnel losses, especially on defense, the Hurricanes (-136) still seem to have the inside track in the conference as a very clear odds-on favorite to celebrate in Charlotte on December 5. *(p. 79)*
+Also referenced on **pp. 79** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Under 2.5 The product on the field should look better, but finding two more wins on the schedule than last season is a chore. *(p. 52)*
-- Since joining the FBS ranks over a decade ago, Charlotte has one bowl game appearance. *(p. 53)*
-- Last season was probably as close to rock bottom as it has gotten. *(p. 53)*
-- Charlotte’s boosters and supporters did open their wallets to try and get Albin a real QB last season, picking up Grayson Loftis from Duke and Conner Harrell from North Carolina. *(p. 53)*
-- Even Zach Wilcke got some reps, though he’s since moved on. *(p. 53)*
-- On the plus side, almost all the backs and receivers are new, which can only help after last season’s 4.6 YPP. *(p. 53)*
-- One of the problems that plagued Charlotte last season, and has clearly been a thing for several years now, is that they are not big enough or strong enough up front. *(p. 53)*
-- Last year’s team was -2.3 in yards per carry differential. *(p. 53)*
-- Not to mention, the 49ers haven’t had more than 20 sacks in a season since that ‘19 campaign. *(p. 53)*
+- The evidence: 1-11 overall, 0-8 in conference play, with the only win over FCS Monmouth. *(p. 52)*
+- Albin had three straight double-digit winning seasons at Ohio before this. The guide details the collapse: 14.3 points per game scored, more than 36 allowed, outgained by nearly two yards per play, and a closest conference loss of 11 points. *(p. 52)*
+- **At least there's nowhere to go but up, right?!** The guide says the bar is now so low it doubts a toddler could crawl under it. Charlotte has one bowl appearance since joining FBS over a decade ago, and last season was close to rock bottom: 14 sacks, 2.7 yards per carry, much of it down to how painfully thin the roster was when Albin arrived. Its assessment of the reinforcements is deliberately modest — neither the incoming class nor the portal class graded highly for 247Sports relative to the conference, but there are many more bodies and some are probably better at football than what was there. *(p. 53)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Outside of Navy, they face all of the teams that project to be average or better and they do not face Charlotte or UAB, their only two conference wins last season. *(p. 64)*
-- Kurt Mattix is back to be the DC after shacking up in Charlotte with Albin last season. *(p. 235)*
-- Former Charlotte head coach Brad Lambert is back for his third go-round after coaching up the defense here in 2019-20. *(p. 329)*
+Referenced in the guide on **pp. 64, 235, 329** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -285,16 +269,13 @@ As printed on p. 53. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Apparently Tim Albin felt like Charlotte Green was a brighter shade than Bobcat Green, as he gave up a pretty good gig at Ohio to take on arguably the biggest challenge in the American Conference. *(p. 52)*
-- Albin had three straight double-digit winning seasons at Ohio before suffering through his first season in the Queen City. *(p. 52)*
-- Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. *(p. 52)*
-- Depth is still an issue here and probably the best QB on the roster (Harrell) will be out until mid-October or so. *(p. 52)*
-- This season, the starting gig may fall on the shoulders of Western Carolina transfer Cole Gonzales, at least until Harrell returns. *(p. 53)*
-- None of the options are particularly good. *(p. 53)*
-- One of the problems that plagued Charlotte last season, and has clearly been a thing for several years now, is that they are not big enough or strong enough up front. *(p. 53)*
-- If Albin can improve that, he can find some momentum. *(p. 53)*
-- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
-- It seems like UAB has to get that one because Samford and maybe Charlotte look like the other best chances, leaving the need for at least one upset somewhere along the line. *(p. 74)*
+- Tim Albin left a good job at Ohio for what the guide calls arguably the biggest challenge in the American, rating Charlotte probably the second-toughest job behind Rice, where academic standards are a hindrance — though results point to Charlotte as the toughest. *(p. 52)*
+- Albin had three straight double-digit winning seasons at Ohio before this. The guide details the collapse: 14.3 points per game scored, more than 36 allowed, outgained by nearly two yards per play, and a closest conference loss of 11 points. *(p. 52)*
+- Recommendation is Under 2.5 wins. The guide expects the on-field product to improve while judging two additional wins a chore. *(p. 52)*
+- It maps the schedule: Charlotte should start 1-0 against The Citadel, but its other most winnable games — Temple, Tulsa and UAB — are all on the road. *(p. 52)*
+- Depth remains an issue and probably the best quarterback on the roster, Harrell, will be out until around mid-October. Projection is 1.81 wins. *(p. 52)*
+- Charlotte's boosters did fund a real attempt last season, adding Grayson Loftis from Duke and Conner Harrell from North Carolina. Harrell emerged as the better option with 66.7% completions and a 4-to-2 ratio before a season-ending injury, leaving Loftis and his 8-to-8 ratio on 55% completions; Zach Wilcke also took reps and has moved on. This season the job may fall to Western Carolina transfer Cole Gonzales until Harrell returns. The guide's verdict is blunt — none of the options are particularly good — with the consolation that almost all the backs and receivers are new, which can only help after 4.6 yards per play. *(p. 53)*
+- The guide identifies a multi-year structural problem: Charlotte is not big or strong enough up front. Last year's team was -2.3 in yards-per-carry differential and the one before -1.6, while the 2019 team that went bowling had a positive differential. Charlotte has not exceeded 20 sacks in a season since that 2019 campaign. It notes Albin primarily coached offensive linemen and running backs before becoming Ohio's coordinator, and that the athletic department showed the same instinct when hiring Biff Poggi over trench toughness. Its conclusion is conditional: improving there is how Albin finds momentum. *(p. 53)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -302,29 +283,29 @@ As printed on p. 53. Each category carries a value and a national rank.
 
 - Makinen projects **2.1 wins** against a posted total of 2.5 — **-0.4** against this team.
 - The team page recommends **UNDER 2.5**.
-- And “suffer” is the accurate description because the team only scored 14.3 PPG, gave up more than 36, got outgained by nearly two yards per play, and the closest conference loss was by 11 points. *(p. 52)*
-- The defense managed just 14 sacks, the offense had just 2.7 yards per carry, and a lot of it had to do with how painfully thin the roster was when Albin took the job. *(p. 53)*
-- Harrell suffered a season- ending injury after emerging as the better option with a 66.7% completion rate and a 4/2 TD/INT ratio, leaving it in the hands of Loftis, who had an 8/8 TD/INT ratio with just a 55% completion rate. *(p. 53)*
-- Despite some extremely heavy personnel losses, especially on defense, the Hurricanes (-136) still seem to have the inside track in the conference as a very clear odds-on favorite to celebrate in Charlotte on December 5. *(p. 79)*
+- Albin had three straight double-digit winning seasons at Ohio before this. The guide details the collapse: 14.3 points per game scored, more than 36 allowed, outgained by nearly two yards per play, and a closest conference loss of 11 points. *(p. 52)*
+- The guide says the bar is now so low it doubts a toddler could crawl under it. Charlotte has one bowl appearance since joining FBS over a decade ago, and last season was close to rock bottom: 14 sacks, 2.7 yards per carry, much of it down to how painfully thin the roster was when Albin arrived. Its assessment of the reinforcements is deliberately modest — neither the incoming class nor the portal class graded highly for 247Sports relative to the conference, but there are many more bodies and some are probably better at football than what was there. *(p. 53)*
+- Charlotte's boosters did fund a real attempt last season, adding Grayson Loftis from Duke and Conner Harrell from North Carolina. Harrell emerged as the better option with 66.7% completions and a 4-to-2 ratio before a season-ending injury, leaving Loftis and his 8-to-8 ratio on 55% completions; Zach Wilcke also took reps and has moved on. This season the job may fall to Western Carolina transfer Cole Gonzales until Harrell returns. The guide's verdict is blunt — none of the options are particularly good — with the consolation that almost all the backs and receivers are new, which can only help after 4.6 yards per play. *(p. 53)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 53)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 53)*. Its analysis, in reference form:
 
-### At least there’s nowhere to go but up, right?!
+### At least there's nowhere to go but up, right?!
 
-The bar has been set so low at Charlotte now that I’m not even sure a toddler could crawl under it. Since joining the FBS ranks over a decade ago, Charlotte has one bowl game appearance. Last season was probably as close to rock bottom as it has gotten. The defense managed just 14 sacks, the offense had just 2.7 yards per carry, and a lot of it had to do with how painfully thin the roster was when Albin took the job. Neither the incoming class nor the portal class graded all that highly for 247Sports relative to the rest of the conference, but there are a lot more warm bodies and some of them are probably better at football than the ones that were there.
+The guide says the bar is now so low it doubts a toddler could crawl under it. Charlotte has one bowl appearance since joining FBS over a decade ago, and last season was close to rock bottom: 14 sacks, 2.7 yards per carry, much of it down to how painfully thin the roster was when Albin arrived. Its assessment of the reinforcements is deliberately modest — neither the incoming class nor the portal class graded highly for 247Sports relative to the conference, but there are many more bodies and some are probably better at football than what was there. *(p. 53)*
 
 ### Is there a starting QB on the roster?
 
-Charlotte’s boosters and supporters did open their wallets to try and get Albin a real QB last season, picking up Grayson Loftis from Duke and Conner Harrell from North Carolina. Harrell suffered a season- ending injury after emerging as the better option with a 66.7% completion rate and a 4/2 TD/INT ratio, leaving it in the hands of Loftis, who had an 8/8 TD/INT ratio with just a 55% completion rate. Even Zach Wilcke got some reps, though he’s since moved on. This season, the starting gig may fall on the shoulders of Western Carolina transfer Cole Gonzales, at least until Harrell returns. None of the options are particularly good. On the plus side, almost all the backs and receivers are new, which can only help after last season’s 4.6 YPP.
+Charlotte's boosters did fund a real attempt last season, adding Grayson Loftis from Duke and Conner Harrell from North Carolina. Harrell emerged as the better option with 66.7% completions and a 4-to-2 ratio before a season-ending injury, leaving Loftis and his 8-to-8 ratio on 55% completions; Zach Wilcke also took reps and has moved on. This season the job may fall to Western Carolina transfer Cole Gonzales until Harrell returns. The guide's verdict is blunt — none of the options are particularly good — with the consolation that almost all the backs and receivers are new, which can only help after 4.6 yards per play. *(p. 53)*
 
-### Where’s the beef?
+### Where's the beef?
 
-One of the problems that plagued Charlotte last season, and has clearly been a thing for several years now, is that they are not big enough or strong enough up front. Last year’s team was -2.3 in yards per carry differential. The team before that was -1.6 YPC. The 2019 Charlotte team had a positive YPC differential and that’s the one that went bowling. Not to mention, the 49ers haven’t had more than 20 sacks in a season since that ‘19 campaign. Prior to becoming the OC at Ohio, Albin primarily coached offensive linemen and running backs. Clearly the athletic department felt the same way when they hired Biff Poggi in terms of the team’s lack of toughness in the trenches. If Albin can improve that, he can find some momentum.
+The guide identifies a multi-year structural problem: Charlotte is not big or strong enough up front. Last year's team was -2.3 in yards-per-carry differential and the one before -1.6, while the 2019 team that went bowling had a positive differential. Charlotte has not exceeded 20 sacks in a season since that 2019 campaign. It notes Albin primarily coached offensive linemen and running backs before becoming Ohio's coordinator, and that the athletic department showed the same instinct when hiring Biff Poggi over trench toughness. Its conclusion is conditional: improving there is how Albin finds momentum. *(p. 53)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 5.4–6.6 overall, 2.9–5.1 in conference |
 | **Schedule strength** | 34.81 (#88 toughest of 138) |
 
-### Season outlook as written in the guide (p. 56)
+### Season outlook — VSiN's analysis in reference form (p. 56)
 
-The makings of a good football team were present in Boca Raton last season. Even though Florida Atlantic finished 4-8, failing to reach six wins for the sixth straight season, you could see Zach Kittley’s plan in motion. The youngest coach in FBS, and big proponent of the Air Raid offense, had plenty of growing pains. One stat stood out well above the rest - the Owls were -21 in TO margin. Clean that up and we might have something here. It will be up to Caden Veltkamp to do that, after he threw 17 interceptions, but the burden is also shared by DC Brett Dewhurst, whose defense forced a paltry eight turnovers. In a conference desperately lacking returning starters, Kittley has a couple handfuls of them and brought in 30 more players via the portal, including some defenders capable of creating negative plays. This will be a high-variance team again with their high volume of pass attempts and a defense asked to survive in that environment, but Kittley has been a rapid riser up the coaching ranks for a reason. Over 5.5 The season might start rather slowly with Florida and Navy on the docket, but the three games before the bye are very, very winnable. The back half of the schedule is a bit of a challenge, but this was a 4-8 team with a -21 TO margin that definitely has more talent in Year 2 of this new system. This isn’t a super strong opinion and more of a lean, but Kittley is a sharp football mind and he’s had a lot more time to evaluate the guys that fit and don’t fit what he’s aiming to achieve. Last season was also his first as a head coach and he did double duty as the OC. Surely he learned a lot. My projection is 5.64 wins.
+- The guide sees the makings of a good team despite a 4-8 finish and a sixth straight season short of six wins, with Zach Kittley's plan visibly in motion. *(p. 56)*
+- Kittley is the youngest head coach in FBS and a big Air Raid proponent who had plenty of growing pains. *(p. 56)*
+- One statistic stands above the rest: Florida Atlantic was -21 in turnover margin, and the guide argues cleaning that up could change everything. *(p. 56)*
+- It divides responsibility rather than blaming one player — Caden Veltkamp threw 17 interceptions, but coordinator Brett Dewhurst's defense forced only eight turnovers. *(p. 56)*
+- In a conference badly short of returning starters, Kittley has a couple of handfuls plus 30 portal additions including defenders capable of creating negative plays. *(p. 56)*
+- It expects another high-variance team given heavy pass volume and a defense asked to survive in that environment, while noting Kittley has risen rapidly for a reason. *(p. 56)*
+- Recommendation is Over 5.5 wins. The start may be slow with Florida and Navy, but the three games before the bye are described as very winnable and the back half more challenging. *(p. 56)*
+- The guide is unusually explicit about conviction, calling this not a strong opinion but a lean: a 4-8 team with a -21 turnover margin now has more talent in year two of the system, and Kittley — who also did double duty as coordinator in his first head-coaching year — has had far more time to evaluate fits. Projection is 5.64 wins. *(p. 56)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,17 +87,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The youngest coach in FBS, and big proponent of the Air Raid offense, had plenty of growing pains. *(p. 56)*
-- It will be up to Caden Veltkamp to do that, after he threw 17 interceptions, but the burden is also shared by DC Brett Dewhurst, whose defense forced a paltry eight turnovers. *(p. 56)*
-- This will be a high-variance team again with their high volume of pass attempts and a defense asked to survive in that environment, but Kittley has been a rapid riser up the coaching ranks for a reason. *(p. 56)*
-- Last season was also his first as a head coach and he did double duty as the OC. *(p. 56)*
-- While the offense needs work, and the offensive line is very light on experience, Kittley and his staff really hammered the defensive side of the ball in the portal. *(p. 57)*
+- The guide sees the makings of a good team despite a 4-8 finish and a sixth straight season short of six wins, with Zach Kittley's plan visibly in motion. *(p. 56)*
+- Kittley is the youngest head coach in FBS and a big Air Raid proponent who had plenty of growing pains. *(p. 56)*
+- The guide is unusually explicit about conviction, calling this not a strong opinion but a lean: a 4-8 team with a -21 turnover margin now has more talent in year two of the system, and Kittley — who also did double duty as coordinator in his first head-coaching year — has had far more time to evaluate fits. Projection is 5.64 wins. *(p. 56)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- FLORIDA ATLANTIC – OVER 5.5 WINS Second-year head coach Zach Kittley’s first team at Florida Atlantic was, if nothing else, fun to watch. *(p. 22)*
-- This will be just his third year at the FBS level, having served as a GA at Florida Atlantic in 2012 under Carl Pelini and then as the head coach of Wazzu last season. *(p. 31)*
-- Cam Fancher has 28 starts over the last four years combined at Marshall, Florida Atlantic, and UCF and he will push Milivojevic, but the incumbent (986 yards in four starts) should hold the job for Fitzgerald and new offensive coordinator Nick Sheridan, who comes in from the same role at Alabama. *(p. 161)*
+Also referenced on **pp. 22, 31, 161** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -96,10 +99,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 56)*.
 
-- It will be up to Caden Veltkamp to do that, after he threw 17 interceptions, but the burden is also shared by DC Brett Dewhurst, whose defense forced a paltry eight turnovers. *(p. 56)*
-- Veltkamp is really the only starting QB for FAU and he needs to be better. *(p. 57)*
-- Drew Devillier transferred in from Rice and redshirt freshman Jordan Magwood threw nine passes last season. *(p. 57)*
-- Veltkamp threw seven picks over the first three games and six over the last three games, so he did show he could take care of the ball in the middle of the season. *(p. 57)*
+- It divides responsibility rather than blaming one player — Caden Veltkamp threw 17 interceptions, but coordinator Brett Dewhurst's defense forced only eight turnovers. *(p. 56)*
+- **Are we in the Caden Veltkamp camp?** Veltkamp is effectively the only starting option, with Rice transfer Drew Devillier and redshirt freshman Jordan Magwood, who threw nine passes, behind him. The guide defends him partially: he was asked to throw a lot and Florida Atlantic trailed often, so the 17 interceptions may not all be his, especially given he had only 11 in three seasons at Western Kentucky. Easton Messer caught 104 balls for 1,052 yards with others including returnee Dominique Henry involved, but it identifies the structural problem — Messer is still the only true go-to target, which could keep holding Veltkamp and the team back. It ends on a genuine silver lining: seven interceptions came in the first three games and six in the last three, so he protected the ball through the middle of the season. *(p. 57)*
 
 ## 10. Returning Production
 
@@ -115,40 +116,31 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- In a conference desperately lacking returning starters, Kittley has a couple handfuls of them and brought in 30 more players via the portal, including some defenders capable of creating negative plays. *(p. 56)*
-- Drew Devillier transferred in from Rice and redshirt freshman Jordan Magwood threw nine passes last season. *(p. 57)*
-- While the offense needs work, and the offensive line is very light on experience, Kittley and his staff really hammered the defensive side of the ball in the portal. *(p. 57)*
+- In a conference badly short of returning starters, Kittley has a couple of handfuls plus 30 portal additions including defenders capable of creating negative plays. *(p. 56)*
+- **Can Kittley find some balance on offense?** The guide calls the rushing numbers laughable: 105 yards per game at 3.5 per carry, falling to 82 yards and 2.9 in American play. It notes this is not a conference known for physical defenses, so there were no holes at all, and offers a possible explanation in the line shifting to a very pass-heavy blocking scheme. With many new faces and players in new positions up front, it finds the running back room more intriguing — Kaden Shields-Dutton averaged 5.5 yards per carry and Kittley went the junior college route for Leonard Farrow, who averaged over seven at Fairmont State. Its conclusion links the phases: a run game and more ball control would help the defense tremendously. *(p. 57)*
+- **Will the Owls stop the run?** The guide calls the defensive line objectively terrible, with American opponents averaging 232 rushing yards per game — a figure that even includes a 68-yard performance by UAB. While acknowledging the offense needs work and the line is light on experience, it notes Kittley and his staff hammered the defensive side in the portal, mixing year-two scheme players with newcomers, and that the line and front seven generally were clear focal points. It ends on the scale of the problem: Florida Atlantic averaged a 150-yard rushing differential across its eight conference games, which simply cannot recur. *(p. 57)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Boilers also added three receivers – Bisi Owens (Penn), Assad Wassem (Florida Atlantic), Xavier Townsend (Iowa State) – from the portal who are all expected to start. *(p. 175)*
-- The projected starting corners are from Duke and FAU, while the player replacing Clark’s role is a multi-time transfer, most recently from Oklahoma State. *(p. 191)*
-- He only played one game at Florida State and transferred to FAU. *(p. 321)*
+Referenced in the guide on **pp. 175, 191, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Drew Devillier transferred in from Rice and redshirt freshman Jordan Magwood threw nine passes last season. *(p. 57)*
+
+Referenced in the guide on **pp. 57** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The youngest coach in FBS, and big proponent of the Air Raid offense, had plenty of growing pains. *(p. 56)*
-- The rushing numbers were downright laughable for the Owls. *(p. 57)*
-- While the offense needs work, and the offensive line is very light on experience, Kittley and his staff really hammered the defensive side of the ball in the portal. *(p. 57)*
-- It is wild to think that FAU averaged a 150-yard differential in rushing yards over their eight conference games. *(p. 57)*
+- Kittley is the youngest head coach in FBS and a big Air Raid proponent who had plenty of growing pains. *(p. 56)*
+- One statistic stands above the rest: Florida Atlantic was -21 in turnover margin, and the guide argues cleaning that up could change everything. *(p. 56)*
+- It expects another high-variance team given heavy pass volume and a defense asked to survive in that environment, while noting Kittley has risen rapidly for a reason. *(p. 56)*
+- **Are we in the Caden Veltkamp camp?** Veltkamp is effectively the only starting option, with Rice transfer Drew Devillier and redshirt freshman Jordan Magwood, who threw nine passes, behind him. The guide defends him partially: he was asked to throw a lot and Florida Atlantic trailed often, so the 17 interceptions may not all be his, especially given he had only 11 in three seasons at Western Kentucky. Easton Messer caught 104 balls for 1,052 yards with others including returnee Dominique Henry involved, but it identifies the structural problem — Messer is still the only true go-to target, which could keep holding Veltkamp and the team back. It ends on a genuine silver lining: seven interceptions came in the first three games and six in the last three, so he protected the ball through the middle of the season. *(p. 57)*
+- **Can Kittley find some balance on offense?** The guide calls the rushing numbers laughable: 105 yards per game at 3.5 per carry, falling to 82 yards and 2.9 in American play. It notes this is not a conference known for physical defenses, so there were no holes at all, and offers a possible explanation in the line shifting to a very pass-heavy blocking scheme. With many new faces and players in new positions up front, it finds the running back room more intriguing — Kaden Shields-Dutton averaged 5.5 yards per carry and Kittley went the junior college route for Leonard Farrow, who averaged over seven at Fairmont State. Its conclusion links the phases: a run game and more ball control would help the defense tremendously. *(p. 57)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Cam Fancher has 28 starts over the last four years combined at Marshall, Florida Atlantic, and UCF and he will push Milivojevic, but the incumbent (986 yards in four starts) should hold the job for Fitzgerald and new offensive coordinator Nick Sheridan, who comes in from the same role at Alabama. *(p. 161)*
-- The Boilers also added three receivers – Bisi Owens (Penn), Assad Wassem (Florida Atlantic), Xavier Townsend (Iowa State) – from the portal who are all expected to start. *(p. 175)*
+Referenced in the guide on **pp. 161, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- It will be up to Caden Veltkamp to do that, after he threw 17 interceptions, but the burden is also shared by DC Brett Dewhurst, whose defense forced a paltry eight turnovers. *(p. 56)*
-- This will be a high-variance team again with their high volume of pass attempts and a defense asked to survive in that environment, but Kittley has been a rapid riser up the coaching ranks for a reason. *(p. 56)*
-- This is not exactly a conference known for a lot of physical, stalwart defenses, but there were no holes on the ground whatsoever. *(p. 57)*
-- If a running game and more ball control are attainable, that will help the defense tremendously. *(p. 57)*
-- The FAU defensive line was objectively terrible last season. *(p. 57)*
-- While the offense needs work, and the offensive line is very light on experience, Kittley and his staff really hammered the defensive side of the ball in the portal. *(p. 57)*
+- It divides responsibility rather than blaming one player — Caden Veltkamp threw 17 interceptions, but coordinator Brett Dewhurst's defense forced only eight turnovers. *(p. 56)*
+- **Will the Owls stop the run?** The guide calls the defensive line objectively terrible, with American opponents averaging 232 rushing yards per game — a figure that even includes a 68-yard performance by UAB. While acknowledging the offense needs work and the line is light on experience, it notes Kittley and his staff hammered the defensive side in the portal, mixing year-two scheme players with newcomers, and that the line and front seven generally were clear focal points. It ends on the scale of the problem: Florida Atlantic averaged a 150-yard rushing differential across its eight conference games, which simply cannot recur. *(p. 57)*
 
 ## 15. Key Strengths
 
@@ -227,20 +219,15 @@ Prices printed on the team page *(p. 57)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- One statistic stands above the rest: Florida Atlantic was -21 in turnover margin, and the guide argues cleaning that up could change everything. *(p. 56)*
+- It expects another high-variance team given heavy pass volume and a defense asked to survive in that environment, while noting Kittley has risen rapidly for a reason. *(p. 56)*
+- Recommendation is Over 5.5 wins. The start may be slow with Florida and Navy, but the three games before the bye are described as very winnable and the back half more challenging. *(p. 56)*
+- The guide is unusually explicit about conviction, calling this not a strong opinion but a lean: a 4-8 team with a -21 turnover margin now has more talent in year two of the system, and Kittley — who also did double duty as coordinator in his first head-coaching year — has had far more time to evaluate fits. Projection is 5.64 wins. *(p. 56)*
 
 ## 22. Historical / Situational Trends
 
-- The makings of a good football team were present in Boca Raton last season. *(p. 56)*
-- Last season was also his first as a head coach and he did double duty as the OC. *(p. 56)*
-- Drew Devillier transferred in from Rice and redshirt freshman Jordan Magwood threw nine passes last season. *(p. 57)*
-- The FAU defensive line was objectively terrible last season. *(p. 57)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With a lot of American Conference teams facing questions this season, I think this has the chance to be FAU’s best football year since the Lane Kiffin days. *(p. 22)*
-- This will be just his third year at the FBS level, having served as a GA at Florida Atlantic in 2012 under Carl Pelini and then as the head coach of Wazzu last season. *(p. 31)*
-- Roadies at USF and Florida Atlantic are tricky, especially in a revenge spot for the Owls, who lost in Miami last season. *(p. 190)*
+Referenced in the guide on **pp. 22, 31, 56, 57, 190** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -286,39 +273,35 @@ As printed on p. 57. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 5.5**.
-- The makings of a good football team were present in Boca Raton last season. *(p. 56)*
-- Over 5.5 The season might start rather slowly with Florida and Navy on the docket, but the three games before the bye are very, very winnable. *(p. 56)*
-- This isn’t a super strong opinion and more of a lean, but Kittley is a sharp football mind and he’s had a lot more time to evaluate the guys that fit and don’t fit what he’s aiming to achieve. *(p. 56)*
-- With a lot of American Conference teams facing questions this season, I think this has the chance to be FAU’s best football year since the Lane Kiffin days. *(p. 22)*
-- They do play at UTSA and at what should be an improved FAU team. *(p. 60)*
-- Rice and FAU seemed to make some progress towards the future, but Temple may have done the best in the present. *(p. 68)*
+- The guide sees the makings of a good team despite a 4-8 finish and a sixth straight season short of six wins, with Zach Kittley's plan visibly in motion. *(p. 56)*
+- Recommendation is Over 5.5 wins. The start may be slow with Florida and Navy, but the three games before the bye are described as very winnable and the back half more challenging. *(p. 56)*
+- The guide is unusually explicit about conviction, calling this not a strong opinion but a lean: a 4-8 team with a -21 turnover margin now has more talent in year two of the system, and Kittley — who also did double duty as coordinator in his first head-coaching year — has had far more time to evaluate fits. Projection is 5.64 wins. *(p. 56)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **5.4 wins** against a posted total of 5.5 — **-0.1** against this team.
-- With a lot of American Conference teams facing questions this season, I think this has the chance to be FAU’s best football year since the Lane Kiffin days. *(p. 22)*
-- Roadies at USF and Florida Atlantic are tricky, especially in a revenge spot for the Owls, who lost in Miami last season. *(p. 190)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 57)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 57)*. Its analysis, in reference form:
 
 ### Are we in the Caden Veltkamp camp?
 
-Veltkamp is really the only starting QB for FAU and he needs to be better. Drew Devillier transferred in from Rice and redshirt freshman Jordan Magwood threw nine passes last season. Veltkamp was asked to throw a lot and FAU did trail a lot, so the 17 interceptions may not all be on him, especially considering he had just 11 of them in three seasons at Western Kentucky. Easton Messer caught 104 balls for 1,052 yards and several others saw work in this scheme, including returnee Dominique Henry. Guys will put up numbers, but Messer is still the only true go-to guy and that could continue to hold Veltkamp back and the rest of the team by extension. Veltkamp threw seven picks over the first three games and six over the last three games, so he did show he could take care of the ball in the middle of the season. A silver lining, perhaps.
+Veltkamp is effectively the only starting option, with Rice transfer Drew Devillier and redshirt freshman Jordan Magwood, who threw nine passes, behind him. The guide defends him partially: he was asked to throw a lot and Florida Atlantic trailed often, so the 17 interceptions may not all be his, especially given he had only 11 in three seasons at Western Kentucky. Easton Messer caught 104 balls for 1,052 yards with others including returnee Dominique Henry involved, but it identifies the structural problem — Messer is still the only true go-to target, which could keep holding Veltkamp and the team back. It ends on a genuine silver lining: seven interceptions came in the first three games and six in the last three, so he protected the ball through the middle of the season. *(p. 57)*
 
 ### Can Kittley find some balance on offense?
 
-The rushing numbers were downright laughable for the Owls. They averaged 105 yards on 3.5 yards per carry and even mustered just 82 yards and 2.9 yards per carry in American Conference play. This is not exactly a conference known for a lot of physical, stalwart defenses, but there were no holes on the ground whatsoever. The OL was shifting to a very pass-heavy blocking scheme, so maybe that had something to do with it. While the OL has a lot of new faces and some guys playing new positions, the running back room looks more intriguing. Kaden Shields-Dutton had 5.5 yards per carry and Kittley went the JUCO route to get Leonard Farrow, who averaged over seven yards per carry at Fairmont State. If a running game and more ball control are attainable, that will help the defense tremendously.
+The guide calls the rushing numbers laughable: 105 yards per game at 3.5 per carry, falling to 82 yards and 2.9 in American play. It notes this is not a conference known for physical defenses, so there were no holes at all, and offers a possible explanation in the line shifting to a very pass-heavy blocking scheme. With many new faces and players in new positions up front, it finds the running back room more intriguing — Kaden Shields-Dutton averaged 5.5 yards per carry and Kittley went the junior college route for Leonard Farrow, who averaged over seven at Fairmont State. Its conclusion links the phases: a run game and more ball control would help the defense tremendously. *(p. 57)*
 
 ### Will the Owls stop the run?
 
-The FAU defensive line was objectively terrible last season. American Conference foes ran for an average of 232 yards per game and that even includes a 68-yard performance from UAB. While the offense needs work, and the offensive line is very light on experience, Kittley and his staff really hammered the defensive side of the ball in the portal. Some guys are in Year 2 of the scheme and others are newcomers to the roster, but you can tell that the DL and really the front seven in general were focal points. It is wild to think that FAU averaged a 150-yard differential in rushing yards over their eight conference games. That simply cannot happen again.
+The guide calls the defensive line objectively terrible, with American opponents averaging 232 rushing yards per game — a figure that even includes a 68-yard performance by UAB. While acknowledging the offense needs work and the line is light on experience, it notes Kittley and his staff hammered the defensive side in the portal, mixing year-two scheme players with newcomers, and that the line and front seven generally were clear focal points. It ends on the scale of the problem: Florida Atlantic averaged a 150-yard rushing differential across its eight conference games, which simply cannot recur. *(p. 57)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

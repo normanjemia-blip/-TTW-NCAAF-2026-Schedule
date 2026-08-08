@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 5.9–6.1 overall, 4.3–3.7 in conference |
 | **Schedule strength** | 34.04 (#93 toughest of 138) |
 
-### Season outlook as written in the guide (p. 62)
+### Season outlook — VSiN's analysis in reference form (p. 62)
 
-The motto for North Texas football this season might be, “Don’t cry because it’s over; smile because it happened”. Eric Morris is now at Oklahoma State after leading the Mean Green to probably the best season in program history. UNT went 12-2, scoring over 45 PPG, and won a bowl game for the first time since 2013. It will be up to Neal Brown to keep the program on the map, as Morris and pretty much every player of consequence has left Denton. Things like this are possible in the transfer portal era, but this may very well be the most stripped-down program we’ve ever seen. The top returning running back had 95 yards on 21 carries. The top returning pass-catcher had seven grabs for 80 yards. The top returning tackler had 32 stops and 1.5 sacks. The top returning DB had four pass breakups. Even the kicker and the punter are gone. With new schemes and new coordinators, having some leftover players may not have really made that big of a difference anyway, but this team is guys who played sparingly last season and a collection of transfers from every corner of the country. Under 5.5 UNT opens at Indiana and then hosts UNLV before visiting Texas State to open the season. They’ll go to Navy, UTSA, and Tulane, so the road games are very difficult. The home games are all attainable, but UNT might lose every road game, leaving no margin for error at home. While Jackson is stepping down in class with his first non- Power Four team, he hasn’t taken great care of the football. To call it a rebuilding year in Denton is an understatement. My projection is 5.81 wins, but I still like the Under.
+- The guide suggests the season's motto might be to smile that it happened rather than cry that it is over. Eric Morris left for Oklahoma State after probably the best season in programme history: 12-2, over 45 points per game, and a first bowl win since 2013. *(p. 62)*
+- Neal Brown must keep the programme relevant with Morris and essentially every player of consequence gone. *(p. 62)*
+- It calls this possibly the most stripped-down programme it has seen, and proves it with returning production: the top returning rusher had 95 yards on 21 carries, the top pass catcher seven grabs for 80 yards, the top tackler 32 stops and 1.5 sacks, the top defensive back four pass breakups — and even the kicker and punter are gone. *(p. 62)*
+- It concedes new schemes and coordinators may have limited the value of holdovers anyway, describing the roster as players who barely featured plus transfers from every corner of the country. *(p. 62)*
+- Recommendation is Under 5.5 wins. The schedule opens at Indiana, then hosts UNLV before a trip to Texas State, with further road games at Navy, UTSA and Tulane. *(p. 62)*
+- Its structural read is that the home games are all attainable but North Texas might lose every road game, leaving no margin for error at home. *(p. 62)*
+- On the quarterback it notes Tayven Jackson steps down in class with his first non-Power Four team but has not taken great care of the football. Its projection is 5.81 wins, and it states plainly that it still likes the Under. *(p. 62)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,19 +88,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- With new schemes and new coordinators, having some leftover players may not have really made that big of a difference anyway, but this team is guys who played sparingly last season and a collection of transfers from every corner of the country. *(p. 62)*
-- Brown is going to be his own OC, which may work out great or may not work out at all. *(p. 63)*
-- It was his work as an OC at Troy, Texas Tech, and Kentucky that got him his first head coaching job. *(p. 63)*
-- Skyler Cassity was a stellar DC hire by Morris, but who would have thought it would lead to the best defense the program has seen in forever? *(p. 63)*
+- The guide suggests the season's motto might be to smile that it happened rather than cry that it is over. Eric Morris left for Oklahoma State after probably the best season in programme history: 12-2, over 45 points per game, and a first bowl win since 2013. *(p. 62)*
+- Neal Brown must keep the programme relevant with Morris and essentially every player of consequence gone. *(p. 62)*
+- **Is this a better fit for Neal Brown?** Brown will call his own plays, which the guide says may work well or not at all. It notes his coordinator work at Troy, Texas Tech and Kentucky earned him his first head job, while qualifying the record: Troy did not play with much tempo or light up scoreboards, though it scored 30-plus in each of his last three seasons, and West Virginia averaged 30-plus in only two of six. It adds a real tension — expectations are low given the bare cupboard, but the athletic department had been willing to go high-octane and up-tempo with Morris — before allowing Brown might reinvent himself or return to his Texas Tech approach. *(p. 63)*
+- **What is the state of the North Texas program?** The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OKLAHOMA STATE Mike Gundy is out after two decades, and new coach Eric Morris brings a big offensive reputation with him from North Texas. *(p. 20)*
-- NORTH TEXAS – UNDER 5.5 WINS North Texas scored the most points in the country last year, and new head coach Neal Brown was only able to bring in better recruit/ transfer classes than four other programs across the country. *(p. 26)*
-- Neal Brown North Texas I wouldn’t call myself a glass-half-full person by nature, but when it comes to new coaching hires, I’m often optimistic. *(p. 29)*
-- I can’t say that about North Texas’s hire of Brown, who was let go from West Virginia in 2024 and served as Steve Sarkisian’s assistant in 2025. *(p. 29)*
-- Enter Eric Morris, who played and coached under Mike Leach and Kliff Kingsbury, and who led North Texas to the program’s first AP ranking in over 65 years and a chance at being the G5 CFP representative. *(p. 31)*
-- He then decided to follow head coach Eric Morris from North Texas to Oklahoma State, where he’ll be playing alongside several of his former teammates. *(p. 39)*
+Also referenced on **pp. 20, 26, 29, 31, 39, 345** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -100,12 +101,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 62)*.
 
-- Tayven Jackson originally went to Tennessee and got some starts for Indiana and also UCF, so he’s the clubhouse leader to be the QB. *(p. 63)*
-- UNT got very fortunate that Mestemaker, who had barely played QB in high school, was a stud. *(p. 63)*
+- On the quarterback it notes Tayven Jackson steps down in class with his first non-Power Four team but has not taken great care of the football. Its projection is 5.81 wins, and it states plainly that it still likes the Under. *(p. 62)*
+- **Who are these f*#%ing guys?** The guide frames the roster turnover through the Major League scene of a fan reading an unrecognizable roster, then identifies the exceptions honestly. Tayven Jackson originally went to Tennessee and started games for Indiana and UCF, making him the clubhouse leader at quarterback. Jahiem White averaged 6.5 yards per carry at West Virginia and rejoins Brown. Aaron Alexander had 91 tackles at Arkansas State. Beyond those few, it says most of these players simply did not latch on at their previous schools. *(p. 63)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NAVY After an 11-2 season, with the losses to Notre Dame and North Texas, the Midshipmen must replace star quarterback Blake Horvath. *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -121,45 +120,31 @@ The Stability Score table prints the same figure independently: **5 returning st
 
 ## 11. Transfer Portal
 
-- Things like this are possible in the transfer portal era, but this may very well be the most stripped-down program we’ve ever seen. *(p. 62)*
-- With new schemes and new coordinators, having some leftover players may not have really made that big of a difference anyway, but this team is guys who played sparingly last season and a collection of transfers from every corner of the country. *(p. 62)*
+- Neal Brown must keep the programme relevant with Morris and essentially every player of consequence gone. *(p. 62)*
+- It calls this possibly the most stripped-down programme it has seen, and proves it with returning production: the top returning rusher had 95 yards on 21 carries, the top pass catcher seven grabs for 80 yards, the top tackler 32 stops and 1.5 sacks, the top defensive back four pass breakups — and even the kicker and punter are gone. *(p. 62)*
+- It concedes new schemes and coordinators may have limited the value of holdovers anyway, describing the roster as players who barely featured plus transfers from every corner of the country. *(p. 62)*
+- **Who are these f*#%ing guys?** The guide frames the roster turnover through the Major League scene of a fan reading an unrecognizable roster, then identifies the exceptions honestly. Tayven Jackson originally went to Tennessee and started games for Indiana and UCF, making him the clubhouse leader at quarterback. Jahiem White averaged 6.5 yards per carry at West Virginia and rejoins Brown. Aaron Alexander had 91 tackles at Arkansas State. Beyond those few, it says most of these players simply did not latch on at their previous schools. *(p. 63)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NORTH TEXAS – UNDER 5.5 WINS North Texas scored the most points in the country last year, and new head coach Neal Brown was only able to bring in better recruit/ transfer classes than four other programs across the country. *(p. 26)*
+Referenced in the guide on **pp. 26** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+- **What is the state of the North Texas program?** The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NORTH TEXAS – UNDER 5.5 WINS North Texas scored the most points in the country last year, and new head coach Neal Brown was only able to bring in better recruit/ transfer classes than four other programs across the country. *(p. 26)*
+Referenced in the guide on **pp. 26** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- UNT went 12-2, scoring over 45 PPG, and won a bowl game for the first time since 2013. *(p. 62)*
-- Troy didn’t play with a ton of tempo or light up the scoreboard while he was there, but did score 30+ PPG in each of his last three seasons. *(p. 63)*
-- Not only are expectations exceedingly low with how bare the cupboard is, but the North Texas athletic department was willing to go high-octane, up-tempo, run-and-shoot style with Morris and his assistants. *(p. 63)*
-- He had 25 rushing TDs and over 1,400 yards. *(p. 63)*
+- It calls this possibly the most stripped-down programme it has seen, and proves it with returning production: the top returning rusher had 95 yards on 21 carries, the top pass catcher seven grabs for 80 yards, the top tackler 32 stops and 1.5 sacks, the top defensive back four pass breakups — and even the kicker and punter are gone. *(p. 62)*
+- **Is this a better fit for Neal Brown?** Brown will call his own plays, which the guide says may work well or not at all. It notes his coordinator work at Troy, Texas Tech and Kentucky earned him his first head job, while qualifying the record: Troy did not play with much tempo or light up scoreboards, though it scored 30-plus in each of his last three seasons, and West Virginia averaged 30-plus in only two of six. It adds a real tension — expectations are low given the bare cupboard, but the athletic department had been willing to go high-octane and up-tempo with Morris — before allowing Brown might reinvent himself or return to his Texas Tech approach. *(p. 63)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OKLAHOMA STATE Mike Gundy is out after two decades, and new coach Eric Morris brings a big offensive reputation with him from North Texas. *(p. 20)*
-- Davis was working under Eric Morris at North Texas, an offense that led the nation in points per game with over 45, yards per game with just over 512, and ranked third in yards per play. *(p. 55)*
-- Not much seemed to change for the offense late in the season besides a higher frequency of running the football, even in blowout losses to UConn, North Texas, and South Florida. *(p. 75)*
-- North Texas went 12-2 last season — with Morris on the sidelines for 11 of the wins — and had the most explosive offense in college football. *(p. 136)*
-- New OC Adam Austin led a Tarleton offense that had five 50-burgers last season and was the highest PPG team at the FCS level and second to North Texas in all of Division I. *(p. 345)*
+Referenced in the guide on **pp. 20, 55, 75, 136, 345** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The top returning tackler had 32 stops and 1.5 sacks. *(p. 62)*
-- Skyler Cassity was a stellar DC hire by Morris, but who would have thought it would lead to the best defense the program has seen in forever? *(p. 63)*
+- It calls this possibly the most stripped-down programme it has seen, and proves it with returning production: the top returning rusher had 95 yards on 21 carries, the top pass catcher seven grabs for 80 yards, the top tackler 32 stops and 1.5 sacks, the top defensive back four pass breakups — and even the kicker and punter are gone. *(p. 62)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- North Texas’ 0.06 Adjusted EPA/Play Allowed mark was pretty miserable last year, but the Mean Green were good enough defensively to allow Mestemaker to win games with his arm. *(p. 137)*
-- Skyler Cassity was praised for the job he did in turning North Texas into a high-turnover defense last year, and he’ll be hoping an aggressive style pays off again in the Big 12. *(p. 137)*
-- Blowout losses to North Texas and Washington aside, Washington State was mostly outstanding on defense a year ago while allowing 20.2 PPG to rank 27th in the nation. *(p. 281)*
+Referenced in the guide on **pp. 137, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -247,24 +232,16 @@ Prices printed on the team page *(p. 63)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Being a Clevelander, of course one of my favorite movies is Major League and the clip of the construction worker looking at the roster in the newspaper and asking, “Who are these effing guys?!” after the conniving owner cleared out the roster is among the most quotable lines. *(p. 63)*
+- Recommendation is Under 5.5 wins. The schedule opens at Indiana, then hosts UNLV before a trip to Texas State, with further road games at Navy, UTSA and Tulane. *(p. 62)*
+- Its structural read is that the home games are all attainable but North Texas might lose every road game, leaving no margin for error at home. *(p. 62)*
+- On the quarterback it notes Tayven Jackson steps down in class with his first non-Power Four team but has not taken great care of the football. Its projection is 5.81 wins, and it states plainly that it still likes the Under. *(p. 62)*
 
 ## 22. Historical / Situational Trends
 
-- UNT went 12-2, scoring over 45 PPG, and won a bowl game for the first time since 2013. *(p. 62)*
-- Things like this are possible in the transfer portal era, but this may very well be the most stripped-down program we’ve ever seen. *(p. 62)*
-- With new schemes and new coordinators, having some leftover players may not have really made that big of a difference anyway, but this team is guys who played sparingly last season and a collection of transfers from every corner of the country. *(p. 62)*
-- Aaron Alexander racked up 91 tackles last season at Arkansas State. *(p. 63)*
-- Even last season, there wasn’t a ton of investment in the program. *(p. 63)*
+- The guide suggests the season's motto might be to smile that it happened rather than cry that it is over. Eric Morris left for Oklahoma State after probably the best season in programme history: 12-2, over 45 points per game, and a first bowl win since 2013. *(p. 62)*
+- **What is the state of the North Texas program?** The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- I like the Cougars to go into Salt Lake City and come away with the outright victory in “The Holy War.” NORTH TEXAS UNDER 5.5 WINS (+100) Last season, North Texas won 12 games and finished in a three-way tie for first place in the American Conference before falling to Tulane, 34-21, in the league title game. *(p. 7)*
-- NORTH TEXAS – UNDER 5.5 WINS North Texas scored the most points in the country last year, and new head coach Neal Brown was only able to bring in better recruit/ transfer classes than four other programs across the country. *(p. 26)*
-- I can’t say that about North Texas’s hire of Brown, who was let go from West Virginia in 2024 and served as Steve Sarkisian’s assistant in 2025. *(p. 29)*
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
-- North Texas went 12-2 last season — with Morris on the sidelines for 11 of the wins — and had the most explosive offense in college football. *(p. 136)*
-- North Texas’ 0.06 Adjusted EPA/Play Allowed mark was pretty miserable last year, but the Mean Green were good enough defensively to allow Mestemaker to win games with his arm. *(p. 137)*
+Referenced in the guide on **pp. 7, 26, 29, 68, 136, 137, 217, 261, 345** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -310,43 +287,36 @@ As printed on p. 63. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.9 wins** against a posted total of 5.5 — **+0.4** in this team's favour.
-- Eric Morris is now at Oklahoma State after leading the Mean Green to probably the best season in program history. *(p. 62)*
-- Skyler Cassity was a stellar DC hire by Morris, but who would have thought it would lead to the best defense the program has seen in forever? *(p. 63)*
-- NORTH TEXAS UNDER 6.5 WINS (-200) They return zero starters with Morris leaving town. *(p. 7)*
-- Neal Brown North Texas I wouldn’t call myself a glass-half-full person by nature, but when it comes to new coaching hires, I’m often optimistic. *(p. 29)*
-- North Texas’ 0.06 Adjusted EPA/Play Allowed mark was pretty miserable last year, but the Mean Green were good enough defensively to allow Mestemaker to win games with his arm. *(p. 137)*
-- Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, but he has a minimal path of resistance at best here at Akron. *(p. 217)*
+- The guide suggests the season's motto might be to smile that it happened rather than cry that it is over. Eric Morris left for Oklahoma State after probably the best season in programme history: 12-2, over 45 points per game, and a first bowl win since 2013. *(p. 62)*
+- Brown will call his own plays, which the guide says may work well or not at all. It notes his coordinator work at Troy, Texas Tech and Kentucky earned him his first head job, while qualifying the record: Troy did not play with much tempo or light up scoreboards, though it scored 30-plus in each of his last three seasons, and West Virginia averaged 30-plus in only two of six. It adds a real tension — expectations are low given the bare cupboard, but the athletic department had been willing to go high-octane and up-tempo with Morris — before allowing Brown might reinvent himself or return to his Texas Tech approach. *(p. 63)*
+- The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- They’ll go to Navy, UTSA, and Tulane, so the road games are very difficult. *(p. 62)*
-- Sometimes things from above can trickle down to the team and create a difficult situation. *(p. 63)*
-- NAVY After an 11-2 season, with the losses to Notre Dame and North Texas, the Midshipmen must replace star quarterback Blake Horvath. *(p. 20)*
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
-- Not much seemed to change for the offense late in the season besides a higher frequency of running the football, even in blowout losses to UConn, North Texas, and South Florida. *(p. 75)*
-- Blowout losses to North Texas and Washington aside, Washington State was mostly outstanding on defense a year ago while allowing 20.2 PPG to rank 27th in the nation. *(p. 281)*
+- The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 63)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 63)*. Its analysis, in reference form:
 
 ### Who are these f*#%ing guys?
 
-Being a Clevelander, of course one of my favorite movies is Major League and the clip of the construction worker looking at the roster in the newspaper and asking, “Who are these effing guys?!” after the conniving owner cleared out the roster is among the most quotable lines. I will say, while all of these guys are new to Denton, there are a few notable names. Tayven Jackson originally went to Tennessee and got some starts for Indiana and also UCF, so he’s the clubhouse leader to be the QB. Jahiem White had 6.5 yards per carry at West Virginia, as he rejoined Brown in the Lone Star State. Aaron Alexander racked up 91 tackles last season at Arkansas State. But, other than those few guys, most of these guys simply didn’t latch on at their previous schools.
+The guide frames the roster turnover through the Major League scene of a fan reading an unrecognizable roster, then identifies the exceptions honestly. Tayven Jackson originally went to Tennessee and started games for Indiana and UCF, making him the clubhouse leader at quarterback. Jahiem White averaged 6.5 yards per carry at West Virginia and rejoins Brown. Aaron Alexander had 91 tackles at Arkansas State. Beyond those few, it says most of these players simply did not latch on at their previous schools. *(p. 63)*
 
 ### Is this a better fit for Neal Brown?
 
-Brown is going to be his own OC, which may work out great or may not work out at all. It was his work as an OC at Troy, Texas Tech, and Kentucky that got him his first head coaching job. Troy didn’t play with a ton of tempo or light up the scoreboard while he was there, but did score 30+ PPG in each of his last three seasons. West Virginia only averaged 30+ PPG in two of his six seasons. Not only are expectations exceedingly low with how bare the cupboard is, but the North Texas athletic department was willing to go high-octane, up-tempo, run-and-shoot style with Morris and his assistants. He might be able to reinvent himself, or at least go back to his Texas Tech days.
+Brown will call his own plays, which the guide says may work well or not at all. It notes his coordinator work at Troy, Texas Tech and Kentucky earned him his first head job, while qualifying the record: Troy did not play with much tempo or light up scoreboards, though it scored 30-plus in each of his last three seasons, and West Virginia averaged 30-plus in only two of six. It adds a real tension — expectations are low given the bare cupboard, but the athletic department had been willing to go high-octane and up-tempo with Morris — before allowing Brown might reinvent himself or return to his Texas Tech approach. *(p. 63)*
 
 ### What is the state of the North Texas program?
 
-Sometimes things from above can trickle down to the team and create a difficult situation. Even last season, there wasn’t a ton of investment in the program. UNT got very fortunate that Mestemaker, who had barely played QB in high school, was a stud. RB Caleb Hawkins had one Division I offer and it was North Texas. He had 25 rushing TDs and over 1,400 yards. Skyler Cassity was a stellar DC hire by Morris, but who would have thought it would lead to the best defense the program has seen in forever? Will the students show up to support a team that has been stripped to the studs? Will the athletic department invest more in the roster?
+The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

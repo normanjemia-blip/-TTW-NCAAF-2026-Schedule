@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 5.6–6.4 overall, 3.7–4.3 in conference |
 | **Schedule strength** | 35.45 (#82 toughest of 138) |
 
-### Season outlook as written in the guide (p. 68)
+### Season outlook — VSiN's analysis in reference form (p. 68)
 
-All three Owls in the American Conference got new coaches last season. Rice and FAU seemed to make some progress towards the future, but Temple may have done the best in the present. K.C. Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. In fairness, it was when the schedule really ramped up. In a lot of ways, Temple’s season worked out the way it should have. They were favored four times and won all four of those, plus a home upset of UTSA. They lost to Army and Navy by one point in each of those games. With Keeler and former Montana State OC Tyler Walker, the offense improved by more than a touchdown per game. Unfortunately, even with a +11 TO margin, Temple couldn’t pull off enough upsets to end the bowl drought. Without their QBs from last season, is a regression to the mean in play? Under 5.5 Keeler certainly has the chance to get his team to a bowl game for the first time in the 2020s, but where will the wins come from? Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. If Temple does what they did last year and wins when they’re supposed to win, that’s five and they’d only need one more to go Over the total. Only playing five road games is a plus, especially with no long travel. However, Keeler couldn’t get to six wins with a +11 TO margin last season and this year’s group looks worse at the most important position. My projection is 5.33 wins.
+- All three American Owls got new coaches last season; the guide judges Rice and Florida Atlantic made progress toward the future while Temple may have done best in the present. *(p. 68)*
+- K.C. Keeler's team fell painfully short, reaching 5-3 with four chances at a first bowl since 2019 before losing to East Carolina, Army, Tulane and North Texas — fairly noting that was when the schedule ramped up. *(p. 68)*
+- It argues the season worked out roughly as it should: Temple was favored four times and won all four, added a home upset of UTSA, and lost to Army and Navy by one point each. *(p. 68)*
+- With Keeler and former Montana State coordinator Tyler Walker the offense improved by more than a touchdown per game, yet even a +11 turnover margin could not produce enough upsets to end the bowl drought. *(p. 68)*
+- Recommendation is Under 5.5 wins, with the guide asking directly where the wins come from. *(p. 68)*
+- It maps the path: apart from Penn State every home game is extremely winnable, naming Rhode Island, UConn, Charlotte, UAB and Rice. Repeating last year's pattern of winning when supposed to gets Temple five, needing one more to clear the total, helped by only five road games with no long travel. *(p. 68)*
+- Its decisive argument is that Keeler could not reach six wins with a +11 turnover margin last season, and this group looks worse at the most important position. Projection is 5.33 wins. *(p. 68)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -79,10 +87,8 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- All three Owls in the American Conference got new coaches last season. *(p. 68)*
-- With Keeler and former Montana State OC Tyler Walker, the offense improved by more than a touchdown per game. *(p. 68)*
-- While the defense shaved off nearly six PPG, it was really all about the turnover margin, as most of the per-play and rate stats weren’t really that much better under DC Brian Smith. *(p. 69)*
-- That speaks to a major depth issue late in the season, something that Keeler and his staff have possibly addressed. *(p. 69)*
+- All three American Owls got new coaches last season; the guide judges Rice and Florida Atlantic made progress toward the future while Temple may have done best in the present. *(p. 68)*
+- **Where will the negative plays come from?** Temple managed 16 sacks and still allowed over six yards per play. The guide's key analytical point is that the defensive improvement was almost entirely turnover-driven, since most per-play and rate stats were not much better under coordinator Brian Smith: one of the nation's worst red zone defenses, below average on third down, and 30 plays of 30-plus yards allowed. With more returnees on offense than defense, Smith has a lot of work, and while three of the top four tacklers return, the leaders in pass breakups and sacks do not. *(p. 69)*
 
 ## 9. Quarterback Situation
 
@@ -90,7 +96,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 68)*.
 
-- With Simon and backup Gevani McCoy gone, there is virtually no experience on the roster, with Penn State’s Jaxon Smolik, who played in four games over three years at Penn State, and Ajani Sheppard, who played five games at Rutgers and zero last season at Washington State, as the primary QB options. *(p. 69)*
+- Its decisive argument is that Keeler could not reach six wins with a +11 turnover margin last season, and this group looks worse at the most important position. Projection is 5.33 wins. *(p. 68)*
+- **Who will lead Temple in 2026?** Evan Simon was a calming, productive presence with a 25-to-2 touchdown-to-interception ratio, leading Temple to its first positive turnover margin in some time — the guide supplies the contrast, with Temple at -10, -20 and -11 under Stan Drayton. It characterizes his value precisely: safe, reliable throws that did not generate much yardage, only 19 touchdown passes after six in the opener against UMass, but which protected the ball and gave an undermanned defense a better chance. With Simon and backup Gevani McCoy gone there is virtually no experience, leaving Penn State's Jaxon Smolik, who played four games in three years, and Ajani Sheppard, who played five games at Rutgers and none at Washington State. Its conclusion is that a huge downturn looks likely. *(p. 69)*
 
 ## 10. Returning Production
 
@@ -106,7 +113,7 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-Not addressed in guide.
+- **Who will lead Temple in 2026?** Evan Simon was a calming, productive presence with a 25-to-2 touchdown-to-interception ratio, leading Temple to its first positive turnover margin in some time — the guide supplies the contrast, with Temple at -10, -20 and -11 under Stan Drayton. It characterizes his value precisely: safe, reliable throws that did not generate much yardage, only 19 touchdown passes after six in the opener against UMass, but which protected the ball and gave an undermanned defense a better chance. With Simon and backup Gevani McCoy gone there is virtually no experience, leaving Penn State's Jaxon Smolik, who played four games in three years, and Ajani Sheppard, who played five games at Rutgers and none at Washington State. Its conclusion is that a huge downturn looks likely. *(p. 69)*
 
 ## 12. Recruiting / Roster Notes
 
@@ -114,18 +121,11 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- With Keeler and former Montana State OC Tyler Walker, the offense improved by more than a touchdown per game. *(p. 68)*
-- Temple only had 16 sacks last season and still allowed over six yards per play. *(p. 69)*
-- There are more returnees on offense than defense, so Smith has a lot of work to do. *(p. 69)*
+- With Keeler and former Montana State coordinator Tyler Walker the offense improved by more than a touchdown per game, yet even a +11 turnover margin could not produce enough upsets to end the bowl drought. *(p. 68)*
 
 ## 14. Defensive Identity
 
-- Simon’s safe, reliable throws didn’t produce a ton of yardage, and he only had 19 TD passes after throwing six in the first game against UMass, but he protected the ball and gave the undermanned defense a better chance than his predecessors. *(p. 69)*
-- Temple only had 16 sacks last season and still allowed over six yards per play. *(p. 69)*
-- While the defense shaved off nearly six PPG, it was really all about the turnover margin, as most of the per-play and rate stats weren’t really that much better under DC Brian Smith. *(p. 69)*
-- The Owls had one of the worst red-zone defenses in the nation, were below the national average in third-down defense, and allowed 30 plays of 30+ yards. *(p. 69)*
-- There are more returnees on offense than defense, so Smith has a lot of work to do. *(p. 69)*
-- While three of the top four tacklers are back, the team’s leaders in pass breakups and sacks are not among them. *(p. 69)*
+- **Where will the negative plays come from?** Temple managed 16 sacks and still allowed over six yards per play. The guide's key analytical point is that the defensive improvement was almost entirely turnover-driven, since most per-play and rate stats were not much better under coordinator Brian Smith: one of the nation's worst red zone defenses, below average on third down, and 30 plays of 30-plus yards allowed. With more returnees on offense than defense, Smith has a lot of work, and while three of the top four tacklers return, the leaders in pass breakups and sacks do not. *(p. 69)*
 
 ## 15. Key Strengths
 
@@ -173,9 +173,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Opening the season with Alabama in Tuscaloosa isn’t ideal, not to mention they play three weeknight games, including two road Thursday games, and face Temple and Army with rest disadvantages, as both of those teams will be coming off of the bye. *(p. 54)*
+Referenced in the guide on **pp. 54** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -197,27 +195,22 @@ Prices printed on the team page *(p. 69)*:
 
 ## 21. Betting Notes / Best Bets
 
+- It argues the season worked out roughly as it should: Temple was favored four times and won all four, added a home upset of UTSA, and lost to Army and Navy by one point each. *(p. 68)*
+- With Keeler and former Montana State coordinator Tyler Walker the offense improved by more than a touchdown per game, yet even a +11 turnover margin could not produce enough upsets to end the bowl drought. *(p. 68)*
+- Recommendation is Under 5.5 wins, with the guide asking directly where the wins come from. *(p. 68)*
+- It maps the path: apart from Penn State every home game is extremely winnable, naming Rhode Island, UConn, Charlotte, UAB and Rice. Repeating last year's pattern of winning when supposed to gets Temple five, needing one more to clear the total, helped by only five road games with no long travel. *(p. 68)*
+- Its decisive argument is that Keeler could not reach six wins with a +11 turnover margin last season, and this group looks worse at the most important position. Projection is 5.33 wins. *(p. 68)*
+- **Will the real Temple Owls please stand up?** Temple finished -624 in yards with wild swings: outgaining UMass by 165, Howard by 439 and Navy by 134, while being outgained by 411 against Oklahoma, 140 by Georgia Tech, 381 by East Carolina, 202 by Tulane and 289 by North Texas. The guide draws out the pattern that matters — across the last four games, even while outgaining Army, Temple was -854 yards despite being +1 in turnover margin — and reads that as a major late-season depth problem the staff has possibly addressed. It closes with a conference-level judgement: the top of the American looks weaker but the league as a whole looks better, so Temple may face closer games. *(p. 69)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
+Also referenced on **pp. 77** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- All three Owls in the American Conference got new coaches last season. *(p. 68)*
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
-- Without their QBs from last season, is a regression to the mean in play? *(p. 68)*
-- If Temple does what they did last year and wins when they’re supposed to win, that’s five and they’d only need one more to go Over the total. *(p. 68)*
-- However, Keeler couldn’t get to six wins with a +11 TO margin last season and this year’s group looks worse at the most important position. *(p. 68)*
-- With Simon and backup Gevani McCoy gone, there is virtually no experience on the roster, with Penn State’s Jaxon Smolik, who played in four games over three years at Penn State, and Ajani Sheppard, who played five games at Rutgers and zero last season at Washington State, as the primary QB options. *(p. 69)*
-- Temple only had 16 sacks last season and still allowed over six yards per play. *(p. 69)*
-- The top of the American doesn’t seem as strong this season, but the conference as a whole seems better than it was last year, so Temple may have closer games to navigate. *(p. 69)*
+- K.C. Keeler's team fell painfully short, reaching 5-3 with four chances at a first bowl since 2019 before losing to East Carolina, Army, Tulane and North Texas — fairly noting that was when the schedule ramped up. *(p. 68)*
+- It argues the season worked out roughly as it should: Temple was favored four times and won all four, added a home upset of UTSA, and lost to Army and Navy by one point each. *(p. 68)*
+- **Will the real Temple Owls please stand up?** Temple finished -624 in yards with wild swings: outgaining UMass by 165, Howard by 439 and Navy by 134, while being outgained by 411 against Oklahoma, 140 by Georgia Tech, 381 by East Carolina, 202 by Tulane and 289 by North Texas. The guide draws out the pattern that matters — across the last four games, even while outgaining Army, Temple was -854 yards despite being +1 in turnover margin — and reads that as a major late-season depth problem the staff has possibly addressed. It closes with a conference-level judgement: the top of the American looks weaker but the league as a whole looks better, so Temple may face closer games. *(p. 69)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
-- In 2023, Matt Rhule came to Lincoln with the reputation of a quick rebuilder of programs from what he did at Temple and then at Baylor. *(p. 164)*
-- KC Keeler returned home to southeastern Pennsylvania to take over at Temple following a 10-3 season in 2024. *(p. 205)*
+Referenced in the guide on **pp. 77, 164, 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -263,40 +256,38 @@ As printed on p. 69. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.6 wins** against a posted total of 5.5 — **+0.1** in this team's favour.
-- Rice and FAU seemed to make some progress towards the future, but Temple may have done the best in the present. *(p. 68)*
-- With Keeler and former Montana State OC Tyler Walker, the offense improved by more than a touchdown per game. *(p. 68)*
-- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
-- The top of the American doesn’t seem as strong this season, but the conference as a whole seems better than it was last year, so Temple may have closer games to navigate. *(p. 69)*
-- Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. *(p. 52)*
+- All three American Owls got new coaches last season; the guide judges Rice and Florida Atlantic made progress toward the future while Temple may have done best in the present. *(p. 68)*
+- With Keeler and former Montana State coordinator Tyler Walker the offense improved by more than a touchdown per game, yet even a +11 turnover margin could not produce enough upsets to end the bowl drought. *(p. 68)*
+- It maps the path: apart from Penn State every home game is extremely winnable, naming Rhode Island, UConn, Charlotte, UAB and Rice. Repeating last year's pattern of winning when supposed to gets Temple five, needing one more to clear the total, helped by only five road games with no long travel. *(p. 68)*
+- Temple managed 16 sacks and still allowed over six yards per play. The guide's key analytical point is that the defensive improvement was almost entirely turnover-driven, since most per-play and rate stats were not much better under coordinator Brian Smith: one of the nation's worst red zone defenses, below average on third down, and 30 plays of 30-plus yards allowed. With more returnees on offense than defense, Smith has a lot of work, and while three of the top four tacklers return, the leaders in pass breakups and sacks do not. *(p. 69)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- Keeler’s team fell painfully short of a bowl game, as they were 5-3 with four shots to get it done for the first time since 2019, but lost to East Carolina, Army, Tulane, and North Texas to miss out. *(p. 68)*
-- They lost to Army and Navy by one point in each of those games. *(p. 68)*
-- Without their QBs from last season, is a regression to the mean in play? *(p. 68)*
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
+- It argues the season worked out roughly as it should: Temple was favored four times and won all four, added a home upset of UTSA, and lost to Army and Navy by one point each. *(p. 68)*
+- Temple finished -624 in yards with wild swings: outgaining UMass by 165, Howard by 439 and Navy by 134, while being outgained by 411 against Oklahoma, 140 by Georgia Tech, 381 by East Carolina, 202 by Tulane and 289 by North Texas. The guide draws out the pattern that matters — across the last four games, even while outgaining Army, Temple was -854 yards despite being +1 in turnover margin — and reads that as a major late-season depth problem the staff has possibly addressed. It closes with a conference-level judgement: the top of the American looks weaker but the league as a whole looks better, so Temple may face closer games. *(p. 69)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 69)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 69)*. Its analysis, in reference form:
 
 ### Who will lead Temple in 2026?
 
-Evan Simon was a calming presence and a productive one for Temple, as he posted a 25/2 TD/INT ratio, leading the team to its first positive TO margin in quite some time. Before Keeler took over, Temple was -10, -20, and -11 in TO margin under Stan Drayton. Simon’s safe, reliable throws didn’t produce a ton of yardage, and he only had 19 TD passes after throwing six in the first game against UMass, but he protected the ball and gave the undermanned defense a better chance than his predecessors. With Simon and backup Gevani McCoy gone, there is virtually no experience on the roster, with Penn State’s Jaxon Smolik, who played in four games over three years at Penn State, and Ajani Sheppard, who played five games at Rutgers and zero last season at Washington State, as the primary QB options. It looks like a huge downturn is coming.
+Evan Simon was a calming, productive presence with a 25-to-2 touchdown-to-interception ratio, leading Temple to its first positive turnover margin in some time — the guide supplies the contrast, with Temple at -10, -20 and -11 under Stan Drayton. It characterizes his value precisely: safe, reliable throws that did not generate much yardage, only 19 touchdown passes after six in the opener against UMass, but which protected the ball and gave an undermanned defense a better chance. With Simon and backup Gevani McCoy gone there is virtually no experience, leaving Penn State's Jaxon Smolik, who played four games in three years, and Ajani Sheppard, who played five games at Rutgers and none at Washington State. Its conclusion is that a huge downturn looks likely. *(p. 69)*
 
 ### Where will the negative plays come from?
 
-Temple only had 16 sacks last season and still allowed over six yards per play. While the defense shaved off nearly six PPG, it was really all about the turnover margin, as most of the per-play and rate stats weren’t really that much better under DC Brian Smith. The Owls had one of the worst red-zone defenses in the nation, were below the national average in third-down defense, and allowed 30 plays of 30+ yards. There are more returnees on offense than defense, so Smith has a lot of work to do. While three of the top four tacklers are back, the team’s leaders in pass breakups and sacks are not among them.
+Temple managed 16 sacks and still allowed over six yards per play. The guide's key analytical point is that the defensive improvement was almost entirely turnover-driven, since most per-play and rate stats were not much better under coordinator Brian Smith: one of the nation's worst red zone defenses, below average on third down, and 30 plays of 30-plus yards allowed. With more returnees on offense than defense, Smith has a lot of work, and while three of the top four tacklers return, the leaders in pass breakups and sacks do not. *(p. 69)*
 
 ### Will the real Temple Owls please stand up?
 
-Temple finished the season -624 in yards, but they had some wild swings. The Owls outgained UMass by 165 yards, Howard by 439, and Navy by 134. On the flip side, they were outgained by 411 yards by Oklahoma, 140 by Georgia Tech, 381 by East Carolina, 202 by Tulane, and 289 by North Texas. In other words, over their last four games, even outgaining Army, they were -854 yards (while being +1 in TO margin!). That speaks to a major depth issue late in the season, something that Keeler and his staff have possibly addressed. The top of the American doesn’t seem as strong this season, but the conference as a whole seems better than it was last year, so Temple may have closer games to navigate.
+Temple finished -624 in yards with wild swings: outgaining UMass by 165, Howard by 439 and Navy by 134, while being outgained by 411 against Oklahoma, 140 by Georgia Tech, 381 by East Carolina, 202 by Tulane and 289 by North Texas. The guide draws out the pattern that matters — across the last four games, even while outgaining Army, Temple was -854 yards despite being +1 in turnover margin — and reads that as a major late-season depth problem the staff has possibly addressed. It closes with a conference-level judgement: the top of the American looks weaker but the league as a whole looks better, so Temple may face closer games. *(p. 69)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

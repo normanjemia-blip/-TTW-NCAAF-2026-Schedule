@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 7.7–4.3 overall, 5.3–2.7 in conference |
 | **Schedule strength** | 36.05 (#80 toughest of 138) |
 
-### Season outlook as written in the guide (p. 76)
+### Season outlook — VSiN's analysis in reference form (p. 76)
 
-If not now, when? That is the main question for UTSA this season, as they are staring an 11-1 season in the face and a chance to be the G6 representative in the College Football Playoff. This season, you don’t have to be a conference champion, you just have to be the highest- ranked team in the CFP rankings, though winning your conference probably helps. If UTSA were to upset Texas, things would get really interesting. For now, they just have to avoid any slip-ups on paper, as they should be favored in nine or 10 games. This is one of the most experienced offenses in the American Conference and Rick Bowie is a very intriguing fit as the new OC. The defense does have to get better for UTSA and it’s fair to wonder if Jess Loepp, who has been the DC since 2020, makes it through the season. Regardless, this is a team that should come into 2026 with enormous expectations and the chance to actually reach them. Over 7.5 The Roadrunners have lost to Army in all three seasons with the AAC/American, but avoid them this season. That said, they do get Navy. But, the Middies come to San Antonio, along with USF and Tulsa, who I think will be much improved this season. The toughest conference test is a trip to Tulane in late October. A good chunk of money was earmarked to improve this roster for 2026 and it should help. Again, Traylor has to avoid the bad losses, but this may very well be the best team in the conference. My projection is 7.77 wins.
+- The guide opens with the stakes — if not now, when — noting UTSA faces a possible 11-1 season and a chance to be the Group of Six playoff representative. *(p. 76)*
+- It explains the qualification mechanics: a team no longer needs to be conference champion, only the highest-ranked in the playoff rankings, though winning the conference probably helps. *(p. 76)*
+- An upset of Texas would make things really interesting; otherwise UTSA must avoid slip-ups, as it should be favored in nine or ten games. *(p. 76)*
+- This is one of the American's most experienced offenses, with Rick Bowie a very intriguing fit as new coordinator. *(p. 76)*
+- The guide flags a real vulnerability: the defense must improve, and it wonders openly whether coordinator Jess Loepp, in the role since 2020, makes it through the season. *(p. 76)*
+- Recommendation is Over 7.5 wins. UTSA has lost to Army in all three American seasons but avoids them this year, while drawing Navy — who comes to San Antonio, along with South Florida and a Tulsa side the guide expects to be much improved. *(p. 76)*
+- The toughest conference test is a late-October trip to Tulane. A good chunk of money was earmarked to improve the roster, and the guide's conclusion is that Jeff Traylor must avoid bad losses but this may well be the best team in the conference. Projection is 7.77 wins. *(p. 76)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,15 +86,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- This is one of the most experienced offenses in the American Conference and Rick Bowie is a very intriguing fit as the new OC. *(p. 76)*
-- The defense does have to get better for UTSA and it’s fair to wonder if Jess Loepp, who has been the DC since 2020, makes it through the season. *(p. 76)*
-- One notable thing about the transfer class is that Jeff Traylor and the defensive staff focused on pass rushers. *(p. 77)*
-- As mentioned, Bowie is an interesting hire as OC. *(p. 77)*
+- This is one of the American's most experienced offenses, with Rick Bowie a very intriguing fit as new coordinator. *(p. 76)*
+- The guide flags a real vulnerability: the defense must improve, and it wonders openly whether coordinator Jess Loepp, in the role since 2020, makes it through the season. *(p. 76)*
+- **Will Owen McCown be the best QB in the conference?** The guide ties UTSA's ceiling to McCown, the programme's third-leading passer, who will pass Eric Soza for second in Week 1 against UTRGV but will not catch Frank Harris, whose job he took over fully in 2024. He fell just short of 3,000 passing yards with 30 touchdown passes. Top receiver Devin McCuin was taken by Ohio State — and the guide notes drily that they know something about receivers — but McCown has rapport with David Amador and AJ Wilson plus longer-tenured players. It rates Bowie an interesting coordinator hire after Western Kentucky last season, Abilene Christian in 2024 and Valdosta State in 2022-23, having led prolific passing offenses, and expects him to unlock more. *(p. 77)*
+- **Can Traylor avoid the devastating loss?** UTSA won Conference USA titles in 2021 and 2022, but the guide catalogues forgettable American games since: losses to Temple and Army as a favorite last season plus a non-conference loss as favorite to Texas State, and losses to Rice and Tulsa in favorite roles in 2024. It notes UTSA has not even reached the conference title game to this point. Its conclusion is conditional — that should change with this schedule, but Traylor must take care of business when expected to, something he has struggled with. *(p. 77)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Golding has also worked under now-Browns head coach Todd Monken at Southern Miss, new Arkansas DC Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin. *(p. 36)*
-- If we take UTSA’s Jeff Traylor out of the mix, Monken’s 12 years are nearly what the rest of the conference’s head coaches have combined. *(p. 50)*
+Also referenced on **pp. 36, 50** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -94,10 +99,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 76)*.
 
-- G6 players who can get to the quarterback are often the most sought-after by bigger schools with bigger NIL budgets. *(p. 77)*
-- For UTSA to get where they want to go, it is up to McCown, the program’s third-leading passer. *(p. 77)*
-- McCown fell just shy of 3,000 passing yards last season, but did have 30 TD passes. *(p. 77)*
-- He’s led some prolific passing offenses and should be able to unlock more from McCown. *(p. 77)*
+- **Will Owen McCown be the best QB in the conference?** The guide ties UTSA's ceiling to McCown, the programme's third-leading passer, who will pass Eric Soza for second in Week 1 against UTRGV but will not catch Frank Harris, whose job he took over fully in 2024. He fell just short of 3,000 passing yards with 30 touchdown passes. Top receiver Devin McCuin was taken by Ohio State — and the guide notes drily that they know something about receivers — but McCown has rapport with David Amador and AJ Wilson plus longer-tenured players. It rates Bowie an interesting coordinator hire after Western Kentucky last season, Abilene Christian in 2024 and Valdosta State in 2022-23, having led prolific passing offenses, and expects him to unlock more. *(p. 77)*
 
 ## 10. Returning Production
 
@@ -113,36 +115,23 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 ## 11. Transfer Portal
 
-- Per 247Sports, UTSA brought in 21 transfers. *(p. 77)*
-- Out of the 12 teams in the American with the transfer portal available to them, 247 ranks their class 11th, so we’ll see if the right pieces and parts were purchased in free agency. *(p. 77)*
-- One notable thing about the transfer class is that Jeff Traylor and the defensive staff focused on pass rushers. *(p. 77)*
-- G6 players who can get to the quarterback are often the most sought-after by bigger schools with bigger NIL budgets. *(p. 77)*
+- **Can the pass rush bounce back?** Per 247Sports UTSA brought in 21 transfers, 12 on defense, though its class ranks 11th of the 12 American teams with portal access — so the guide reserves judgement on whether the right pieces were bought. It highlights the deliberate focus on pass rushers and quantifies the need: 46 sacks in 2023 and 42 in 2024 fell to 24 last season. It then explains the structural cause, noting Group of Six players who can reach the quarterback are the most sought-after by schools with bigger NIL budgets, citing Jimmori Robinson, who had 10.5 sacks in 2024 before West Virginia, and Trey Moore, who had 14 sacks in 2023 before finishing at Texas. The plan is to rotate linemen and keep fresh rushers on the field, and depth looks much stronger. *(p. 77)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Another huge transfer was UTSA TE Patrick Overmyer, who will fill the void left by Tanner Koziol. *(p. 11)*
-- Transfer Devin McCuin had 726 yards and eight touchdowns at UTSA last season. *(p. 169)*
+Referenced in the guide on **pp. 11, 169** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-Not addressed in guide.
+- The toughest conference test is a late-October trip to Tulane. A good chunk of money was earmarked to improve the roster, and the guide's conclusion is that Jeff Traylor must avoid bad losses but this may well be the best team in the conference. Projection is 7.77 wins. *(p. 76)*
 
 ## 13. Offensive Identity
 
-- This is one of the most experienced offenses in the American Conference and Rick Bowie is a very intriguing fit as the new OC. *(p. 76)*
-- His top WR, Devin McCuin, was picked up by Ohio State (and they know a thing or two about wide receivers), but he has some rapport with David Amador and AJ Wilson, plus there are others who have been on the roster for a while. *(p. 77)*
-- He’s led some prolific passing offenses and should be able to unlock more from McCown. *(p. 77)*
+- This is one of the American's most experienced offenses, with Rick Bowie a very intriguing fit as new coordinator. *(p. 76)*
+- **Will Owen McCown be the best QB in the conference?** The guide ties UTSA's ceiling to McCown, the programme's third-leading passer, who will pass Eric Soza for second in Week 1 against UTRGV but will not catch Frank Harris, whose job he took over fully in 2024. He fell just short of 3,000 passing yards with 30 touchdown passes. Top receiver Devin McCuin was taken by Ohio State — and the guide notes drily that they know something about receivers — but McCown has rapport with David Amador and AJ Wilson plus longer-tenured players. It rates Bowie an interesting coordinator hire after Western Kentucky last season, Abilene Christian in 2024 and Valdosta State in 2022-23, having led prolific passing offenses, and expects him to unlock more. *(p. 77)*
 
 ## 14. Defensive Identity
 
-- The defense does have to get better for UTSA and it’s fair to wonder if Jess Loepp, who has been the DC since 2020, makes it through the season. *(p. 76)*
-- Twelve of them are on the defensive side. *(p. 77)*
-- One notable thing about the transfer class is that Jeff Traylor and the defensive staff focused on pass rushers. *(p. 77)*
-- UTSA had 46 sacks in 2023 and 42 sacks in 2024. *(p. 77)*
-- They had just 24 sacks last season. *(p. 77)*
-- For example, Jimmori Robinson had 10.5 sacks in 2024 and played at West Virginia last season. *(p. 77)*
-- Trey Moore, who had 14 sacks in 2023, finished his collegiate career at Texas. *(p. 77)*
-- The goal is to rotate a lot of d-linemen and get fresh pass rushers out there. *(p. 77)*
+- The guide flags a real vulnerability: the defense must improve, and it wonders openly whether coordinator Jess Loepp, in the role since 2020, makes it through the season. *(p. 76)*
+- **Can the pass rush bounce back?** Per 247Sports UTSA brought in 21 transfers, 12 on defense, though its class ranks 11th of the 12 American teams with portal access — so the guide reserves judgement on whether the right pieces were bought. It highlights the deliberate focus on pass rushers and quantifies the need: 46 sacks in 2023 and 42 in 2024 fell to 24 last season. It then explains the structural cause, noting Group of Six players who can reach the quarterback are the most sought-after by schools with bigger NIL budgets, citing Jimmori Robinson, who had 10.5 sacks in 2024 before West Virginia, and Trey Moore, who had 14 sacks in 2023 before finishing at Texas. The plan is to rotate linemen and keep fresh rushers on the field, and depth looks much stronger. *(p. 77)*
 
 ## 15. Key Strengths
 
@@ -189,10 +178,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Black Knights play at a rest disadvantage in each of their first three October games and UTSA is the only team projected in the top-half of the conference that they avoid. *(p. 50)*
-- While the non-conference slate is substantially easier this time around, the Bulls play Memphis and UTSA on short weeks, with Memphis coming off of the bye for that game. *(p. 66)*
+Referenced in the guide on **pp. 50, 66** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -222,31 +208,18 @@ Prices printed on the team page *(p. 77)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
-- In 2024, the Roadrunners lost to Rice and Tulsa in favorite roles. *(p. 77)*
+- An upset of Texas would make things really interesting; otherwise UTSA must avoid slip-ups, as it should be favored in nine or ten games. *(p. 76)*
+- Recommendation is Over 7.5 wins. UTSA has lost to Army in all three American seasons but avoids them this year, while drawing Navy — who comes to San Antonio, along with South Florida and a Tulsa side the guide expects to be much improved. *(p. 76)*
+- The toughest conference test is a late-October trip to Tulane. A good chunk of money was earmarked to improve the roster, and the guide's conclusion is that Jeff Traylor must avoid bad losses but this may well be the best team in the conference. Projection is 7.77 wins. *(p. 76)*
+- **Can Traylor avoid the devastating loss?** UTSA won Conference USA titles in 2021 and 2022, but the guide catalogues forgettable American games since: losses to Temple and Army as a favorite last season plus a non-conference loss as favorite to Texas State, and losses to Rice and Tulsa in favorite roles in 2024. It notes UTSA has not even reached the conference title game to this point. Its conclusion is conditional — that should change with this schedule, but Traylor must take care of business when expected to, something he has struggled with. *(p. 77)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- It probably isn’t a coincidence that UTSA (+480) and Army (6-1) are the second and third favorites, respectively, behind Navy (+310). *(p. 49)*
+Also referenced on **pp. 49** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- The defense does have to get better for UTSA and it’s fair to wonder if Jess Loepp, who has been the DC since 2020, makes it through the season. *(p. 76)*
-- UTSA had 46 sacks in 2023 and 42 sacks in 2024. *(p. 77)*
-- They had just 24 sacks last season. *(p. 77)*
-- For example, Jimmori Robinson had 10.5 sacks in 2024 and played at West Virginia last season. *(p. 77)*
-- Trey Moore, who had 14 sacks in 2023, finished his collegiate career at Texas. *(p. 77)*
-- McCown fell just shy of 3,000 passing yards last season, but did have 30 TD passes. *(p. 77)*
-- He was at Western Kentucky last season after serving in the same role at Abilene Christian in 2024 and at Valdosta State in 2022-23. *(p. 77)*
-- UTSA won the Conference USA title in 2021 and 2022, but since joining the American, he’s had some forgettable conference games. *(p. 77)*
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
-- In 2024, the Roadrunners lost to Rice and Tulsa in favorite roles. *(p. 77)*
+- **Can Traylor avoid the devastating loss?** UTSA won Conference USA titles in 2021 and 2022, but the guide catalogues forgettable American games since: losses to Temple and Army as a favorite last season plus a non-conference loss as favorite to Texas State, and losses to Rice and Tulsa in favorite roles in 2024. It notes UTSA has not even reached the conference title game to this point. Its conclusion is conditional — that should change with this schedule, but Traylor must take care of business when expected to, something he has struggled with. *(p. 77)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, East Carolina also doesn’t face UTSA or Tulane, two of the four teams that beat the Pirates last season. *(p. 54)*
-- Transfer Devin McCuin had 726 yards and eight touchdowns at UTSA last season. *(p. 169)*
-- It got a little bit dicey last season, as FIU won four straight games to finish the regular season 7-5, otherwise the bowl blowout at the hands of UTSA could’ve ended that streak. *(p. 190)*
+Referenced in the guide on **pp. 54, 169, 190** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -293,45 +266,39 @@ As printed on p. 77. Each category carries a value and a national rank.
 
 - Makinen projects **7.7 wins** against a posted total of 7.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- This season, you don’t have to be a conference champion, you just have to be the highest- ranked team in the CFP rankings, though winning your conference probably helps. *(p. 76)*
-- This is one of the most experienced offenses in the American Conference and Rick Bowie is a very intriguing fit as the new OC. *(p. 76)*
-- But, the Middies come to San Antonio, along with USF and Tulsa, who I think will be much improved this season. *(p. 76)*
-- A good chunk of money was earmarked to improve this roster for 2026 and it should help. *(p. 76)*
-- Again, Traylor has to avoid the bad losses, but this may very well be the best team in the conference. *(p. 76)*
-- They do play at UTSA and at what should be an improved FAU team. *(p. 60)*
+- It explains the qualification mechanics: a team no longer needs to be conference champion, only the highest-ranked in the playoff rankings, though winning the conference probably helps. *(p. 76)*
+- This is one of the American's most experienced offenses, with Rick Bowie a very intriguing fit as new coordinator. *(p. 76)*
+- The guide flags a real vulnerability: the defense must improve, and it wonders openly whether coordinator Jess Loepp, in the role since 2020, makes it through the season. *(p. 76)*
+- Recommendation is Over 7.5 wins. UTSA has lost to Army in all three American seasons but avoids them this year, while drawing Navy — who comes to San Antonio, along with South Florida and a Tulsa side the guide expects to be much improved. *(p. 76)*
+- The toughest conference test is a late-October trip to Tulane. A good chunk of money was earmarked to improve the roster, and the guide's conclusion is that Jeff Traylor must avoid bad losses but this may well be the best team in the conference. Projection is 7.77 wins. *(p. 76)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- That is the main question for UTSA this season, as they are staring an 11-1 season in the face and a chance to be the G6 representative in the College Football Playoff. *(p. 76)*
-- Over 7.5 The Roadrunners have lost to Army in all three seasons with the AAC/American, but avoid them this season. *(p. 76)*
-- Again, Traylor has to avoid the bad losses, but this may very well be the best team in the conference. *(p. 76)*
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
-- In 2024, the Roadrunners lost to Rice and Tulsa in favorite roles. *(p. 77)*
-- That should change with this year’s schedule, but Traylor also needs to take care of his affairs when he’s expected to, something that he’s struggled to do previously. *(p. 77)*
-- Golding has also worked under now-Browns head coach Todd Monken at Southern Miss, new Arkansas DC Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin. *(p. 36)*
-- They’ll go to Navy, UTSA, and Tulane, so the road games are very difficult. *(p. 62)*
-- While Tulsa avoids East Carolina and Memphis, road games at Navy, Tulane, and UTSA make for a very tough conference schedule. *(p. 72)*
+- Recommendation is Over 7.5 wins. UTSA has lost to Army in all three American seasons but avoids them this year, while drawing Navy — who comes to San Antonio, along with South Florida and a Tulsa side the guide expects to be much improved. *(p. 76)*
+- The toughest conference test is a late-October trip to Tulane. A good chunk of money was earmarked to improve the roster, and the guide's conclusion is that Jeff Traylor must avoid bad losses but this may well be the best team in the conference. Projection is 7.77 wins. *(p. 76)*
+- UTSA won Conference USA titles in 2021 and 2022, but the guide catalogues forgettable American games since: losses to Temple and Army as a favorite last season plus a non-conference loss as favorite to Texas State, and losses to Rice and Tulsa in favorite roles in 2024. It notes UTSA has not even reached the conference title game to this point. Its conclusion is conditional — that should change with this schedule, but Traylor must take care of business when expected to, something he has struggled with. *(p. 77)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 77)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 77)*. Its analysis, in reference form:
 
 ### Can the pass rush bounce back?
 
-Per 247Sports, UTSA brought in 21 transfers. Twelve of them are on the defensive side. Out of the 12 teams in the American with the transfer portal available to them, 247 ranks their class 11th, so we’ll see if the right pieces and parts were purchased in free agency. One notable thing about the transfer class is that Jeff Traylor and the defensive staff focused on pass rushers. UTSA had 46 sacks in 2023 and 42 sacks in 2024. They had just 24 sacks last season. G6 players who can get to the quarterback are often the most sought-after by bigger schools with bigger NIL budgets. For example, Jimmori Robinson had 10.5 sacks in 2024 and played at West Virginia last season. Trey Moore, who had 14 sacks in 2023, finished his collegiate career at Texas. The goal is to rotate a lot of d-linemen and get fresh pass rushers out there. It sure seems like the depth is a lot stronger this year.
+Per 247Sports UTSA brought in 21 transfers, 12 on defense, though its class ranks 11th of the 12 American teams with portal access — so the guide reserves judgement on whether the right pieces were bought. It highlights the deliberate focus on pass rushers and quantifies the need: 46 sacks in 2023 and 42 in 2024 fell to 24 last season. It then explains the structural cause, noting Group of Six players who can reach the quarterback are the most sought-after by schools with bigger NIL budgets, citing Jimmori Robinson, who had 10.5 sacks in 2024 before West Virginia, and Trey Moore, who had 14 sacks in 2023 before finishing at Texas. The plan is to rotate linemen and keep fresh rushers on the field, and depth looks much stronger. *(p. 77)*
 
 ### Will Owen McCown be the best QB in the conference?
 
-For UTSA to get where they want to go, it is up to McCown, the program’s third-leading passer. He’ll pass Eric Soza for second in Week 1 against UTRGV, but he won’t make it to Frank Harris, whose throne he took over full-time with the 2024 season. McCown fell just shy of 3,000 passing yards last season, but did have 30 TD passes. His top WR, Devin McCuin, was picked up by Ohio State (and they know a thing or two about wide receivers), but he has some rapport with David Amador and AJ Wilson, plus there are others who have been on the roster for a while. As mentioned, Bowie is an interesting hire as OC. He was at Western Kentucky last season after serving in the same role at Abilene Christian in 2024 and at Valdosta State in 2022-23. He’s led some prolific passing offenses and should be able to unlock more from McCown.
+The guide ties UTSA's ceiling to McCown, the programme's third-leading passer, who will pass Eric Soza for second in Week 1 against UTRGV but will not catch Frank Harris, whose job he took over fully in 2024. He fell just short of 3,000 passing yards with 30 touchdown passes. Top receiver Devin McCuin was taken by Ohio State — and the guide notes drily that they know something about receivers — but McCown has rapport with David Amador and AJ Wilson plus longer-tenured players. It rates Bowie an interesting coordinator hire after Western Kentucky last season, Abilene Christian in 2024 and Valdosta State in 2022-23, having led prolific passing offenses, and expects him to unlock more. *(p. 77)*
 
 ### Can Traylor avoid the devastating loss?
 
-UTSA won the Conference USA title in 2021 and 2022, but since joining the American, he’s had some forgettable conference games. Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. In 2024, the Roadrunners lost to Rice and Tulsa in favorite roles. To this point, the Roadrunners haven’t even played in the conference title game. That should change with this year’s schedule, but Traylor also needs to take care of his affairs when he’s expected to, something that he’s struggled to do previously.
+UTSA won Conference USA titles in 2021 and 2022, but the guide catalogues forgettable American games since: losses to Temple and Army as a favorite last season plus a non-conference loss as favorite to Texas State, and losses to Rice and Tulsa in favorite roles in 2024. It notes UTSA has not even reached the conference title game to this point. Its conclusion is conditional — that should change with this schedule, but Traylor must take care of business when expected to, something he has struggled with. *(p. 77)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 7.3–4.7 overall, 5.0–3.0 in conference |
 | **Schedule strength** | 35.48 (#81 toughest of 138) |
 
-### Season outlook as written in the guide (p. 58)
+### Season outlook — VSiN's analysis in reference form (p. 58)
 
-Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. This is basically a brand-new roster for head coach Charles Huff, who spent one year at Southern Miss after Marshall inexplicably let him walk as the reigning Sun Belt champion HC. This is a great spot for Huff, who has a lot of NIL money to play with and a pretty solid program that hasn’t had a losing season since 2013. A winning record in 2014 ended six straight seasons of futility and the program has been strong ever since, including four double-digit winning seasons since 2017. It may take a year with new schemes and a ton of transfers, but Huff seems to be an outstanding coach based on the returns we’ve seen thus far. Over 7.5 In Huff I trust. These are two good coordinator hires and it sure feels like Huff’s done a good job of motivating players that were either discarded by their own schools or castoffs from another. The non-conference schedule is tough with UNLV and Boise State, but the conference schedule isn’t all that bad for the Tigers. They do play at Tulane, USF, and Navy, but Huff has plenty of time over the first six games prior to the visit to NOLA to get his team in shape. Huff has worked under James Franklin and Nick Saban. He knows how to identify talent. My projection is 7.38 wins.
+- Memphis went from Group of Five playoff contender to afterthought quickly, losing at home to Tulane then dropping three straight including the Gasparilla Bowl after Ryan Silverfield left for Arkansas and many players departed. *(p. 58)*
+- This is essentially a brand-new roster for Charles Huff, who spent one year at Southern Miss after Marshall — as the guide puts it, inexplicably — let him leave as reigning Sun Belt champion. *(p. 58)*
+- It rates this a great spot: plenty of NIL money and a solid programme with no losing season since 2013, four double-digit winning seasons since 2017, after a 2014 winning record ended six years of futility. *(p. 58)*
+- It concedes new schemes and heavy transfer volume may take a year, while judging Huff an outstanding coach on the evidence so far. *(p. 58)*
+- Recommendation is Over 7.5 wins, stated as a bet on the coach — two good coordinator hires, and a sense Huff has motivated players discarded or cast off elsewhere. *(p. 58)*
+- The non-conference schedule is tough with UNLV and Boise State, but the conference slate is not bad. Memphis plays at Tulane, South Florida and Navy, and the guide notes Huff has six games before the New Orleans trip to get the team in shape. *(p. 58)*
+- It closes on pedigree — Huff has worked under James Franklin and Nick Saban and knows how to identify talent — with a projection of 7.38 wins. *(p. 58)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,21 +88,15 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
-- This is basically a brand-new roster for head coach Charles Huff, who spent one year at Southern Miss after Marshall inexplicably let him walk as the reigning Sun Belt champion HC. *(p. 58)*
-- It may take a year with new schemes and a ton of transfers, but Huff seems to be an outstanding coach based on the returns we’ve seen thus far. *(p. 58)*
-- These are two good coordinator hires and it sure feels like Huff’s done a good job of motivating players that were either discarded by their own schools or castoffs from another. *(p. 58)*
-- Huff went back to the Sun Belt for his OC, as Kevin Decker was at Old Dominion the last few years. *(p. 59)*
-- Huff made a really, really good DC hire in Lance Guidry, who he worked with at Marshall and has been a DC at many different places. *(p. 59)*
+- Memphis went from Group of Five playoff contender to afterthought quickly, losing at home to Tulane then dropping three straight including the Gasparilla Bowl after Ryan Silverfield left for Arkansas and many players departed. *(p. 58)*
+- This is essentially a brand-new roster for Charles Huff, who spent one year at Southern Miss after Marshall — as the guide puts it, inexplicably — let him leave as reigning Sun Belt champion. *(p. 58)*
+- It concedes new schemes and heavy transfer volume may take a year, while judging Huff an outstanding coach on the evidence so far. *(p. 58)*
+- Recommendation is Over 7.5 wins, stated as a bet on the coach — two good coordinator hires, and a sense Huff has motivated players discarded or cast off elsewhere. *(p. 58)*
+- It closes on pedigree — Huff has worked under James Franklin and Nick Saban and knows how to identify talent — with a projection of 7.38 wins. *(p. 58)*
+- **What will this offense look like?** Huff returned to the Sun Belt for coordinator Kevin Decker, whose Old Dominion offense ranked top-20 in yards per play at 32 points per game, and whose 2021 Fordham offense averaged over 600 yards per game. The guide characterizes his philosophy precisely: high-octane and explosive, but starting with the ground game with the pass coming off it — Old Dominion averaged 5.6 yards per carry and nearly 240 rushing yards. It calls the fit of all the transfer pieces fascinating to watch, noting Marcus Stokes was a multi-year West Florida starter and Air Noland a highly touted recruit who never played at Ohio State before transferring to South Carolina. *(p. 59)*
+- **Will the defense suffer as a result of the offense?** The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- Blake Anderson Southern Miss Anderson’s second stint at Southern Miss was to serve as the OC and QB coach, but Charles Huff left for Memphis and the Golden Eagles opted to keep it in-house with Anderson. *(p. 37)*
-- Jim Turner, most recently the interim head coach of the UFL’s Memphis Showboats before the franchise was eliminated, replaces Pat Flaherty as offensive line coach. *(p. 177)*
-- He’s hardly the only loss, as OC Kevin Decker now holds the same role at Memphis, but Rahne has a favorable schedule to work with. *(p. 330)*
-- Unfortunately, Huff didn’t last long in Hattiesburg, as he is now coaching Memphis. *(p. 342)*
+Also referenced on **pp. 6, 25, 37, 177, 330, 342** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -103,10 +105,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 58)*.
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- AJ Hill played in two games for Memphis last year, going 19 for 32, 223 passing yards, one TD and one INT. *(p. 10)*
-- Blake Anderson Southern Miss Anderson’s second stint at Southern Miss was to serve as the OC and QB coach, but Charles Huff left for Memphis and the Golden Eagles opted to keep it in-house with Anderson. *(p. 37)*
+Also referenced on **pp. 10, 37** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -122,54 +121,32 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- This is a great spot for Huff, who has a lot of NIL money to play with and a pretty solid program that hasn’t had a losing season since 2013. *(p. 58)*
-- It may take a year with new schemes and a ton of transfers, but Huff seems to be an outstanding coach based on the returns we’ve seen thus far. *(p. 58)*
-- How all the transfer pieces and parts fit in will be fascinating to see. *(p. 59)*
-- Marcus Stokes was a multi-year starter at West Florida and Air Noland was a very highly-touted recruit who never saw the field at Ohio State and transferred to South Carolina. *(p. 59)*
-- Like the offense, virtually nobody who played for the Tigers last season is on the roster, so this unit has been revamped via the portal as well. *(p. 59)*
+- Memphis went from Group of Five playoff contender to afterthought quickly, losing at home to Tulane then dropping three straight including the Gasparilla Bowl after Ryan Silverfield left for Arkansas and many players departed. *(p. 58)*
+- This is essentially a brand-new roster for Charles Huff, who spent one year at Southern Miss after Marshall — as the guide puts it, inexplicably — let him leave as reigning Sun Belt champion. *(p. 58)*
+- **What will this offense look like?** Huff returned to the Sun Belt for coordinator Kevin Decker, whose Old Dominion offense ranked top-20 in yards per play at 32 points per game, and whose 2021 Fordham offense averaged over 600 yards per game. The guide characterizes his philosophy precisely: high-octane and explosive, but starting with the ground game with the pass coming off it — Old Dominion averaged 5.6 yards per carry and nearly 240 rushing yards. It calls the fit of all the transfer pieces fascinating to watch, noting Marcus Stokes was a multi-year West Florida starter and Air Noland a highly touted recruit who never played at Ohio State before transferring to South Carolina. *(p. 59)*
+- **Who are the impact players on offense?** The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
+- **Will the defense suffer as a result of the offense?** The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- As mentioned above with Silverfield, Memphis has a pretty robust NIL budget thanks to FedEx and Huff, who has connections all over the country from his different stops, could find immediate and prolonged success with resources he didn’t have at his two previous stops. *(p. 29)*
-- He inherited a good program and a NIL budget filled by FedEx at Memphis and never won the conference. *(p. 36)*
-- Jackson is allegedly in a battle for the starting job with Memphis transfer AJ Hill when fall camp begins, but it is assumed the sophomore will be under center when Arkansas hosts North Alabama in Week 1. *(p. 287)*
-- Wide receiver Jamari Hawkins (38 receptions, 623 yards) transfers in from Memphis as well. *(p. 287)*
+Referenced in the guide on **pp. 29, 36, 287** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Marcus Stokes was a multi-year starter at West Florida and Air Noland was a very highly-touted recruit who never saw the field at Ohio State and transferred to South Carolina. *(p. 59)*
-- Whether it’s Stokes, Noland, or maybe even Huff recruit Denzel Gardner, there still aren’t any truly experienced or established skill- position guys. *(p. 59)*
-- This is basically a bunch of noteworthy recruits who couldn’t crack the lineup at their previous schools, so all of them have chips on their shoulders. *(p. 59)*
-- There aren’t as many noteworthy recruits on defense, so the upside of the defense might be lower than that of the offense, but the collection of Southern Miss players should help. *(p. 59)*
+- It rates this a great spot: plenty of NIL money and a solid programme with no losing season since 2013, four double-digit winning seasons since 2017, after a 2014 winning record ended six years of futility. *(p. 58)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Expect this team to keep the ball on the ground with a deep stable of RBs: Braylen Russell is a bruiser, Sutton Smith ran for 669 yards and seven TDs at Memphis, and Jasper Parker was a fourstar recruit at Michigan. *(p. 10)*
+Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Decker led an ODU offense that ranked in the top 20 in yards per play and averaged 32 PPG. *(p. 59)*
-- He had a Fordham offense that averaged over 600 yards per game back in 2021. *(p. 59)*
-- This is a guy who believes in a high-octane, explosive offense that starts with the ground game and the pass comes off of it. *(p. 59)*
-- The Monarchs averaged 5.6 yards per carry and nearly 240 rushing yards per game. *(p. 59)*
-- The wide receivers are all in a similar boat, as some of them have impressive yards per reception numbers, but not many receptions. *(p. 59)*
-- That could make for a fun offense, especially if Decker can play with tempo. *(p. 59)*
-- Like the offense, virtually nobody who played for the Tigers last season is on the roster, so this unit has been revamped via the portal as well. *(p. 59)*
-- There aren’t as many noteworthy recruits on defense, so the upside of the defense might be lower than that of the offense, but the collection of Southern Miss players should help. *(p. 59)*
+- **What will this offense look like?** Huff returned to the Sun Belt for coordinator Kevin Decker, whose Old Dominion offense ranked top-20 in yards per play at 32 points per game, and whose 2021 Fordham offense averaged over 600 yards per game. The guide characterizes his philosophy precisely: high-octane and explosive, but starting with the ground game with the pass coming off it — Old Dominion averaged 5.6 yards per carry and nearly 240 rushing yards. It calls the fit of all the transfer pieces fascinating to watch, noting Marcus Stokes was a multi-year West Florida starter and Air Noland a highly touted recruit who never played at Ohio State before transferring to South Carolina. *(p. 59)*
+- **Who are the impact players on offense?** The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Jim Turner, most recently the interim head coach of the UFL’s Memphis Showboats before the franchise was eliminated, replaces Pat Flaherty as offensive line coach. *(p. 177)*
-- Wide receiver Jamari Hawkins (38 receptions, 623 yards) transfers in from Memphis as well. *(p. 287)*
+Referenced in the guide on **pp. 177, 287** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Huff did bring several Golden Eagles with him, including J’Mond Tapp, who had 7.5 sacks, and Ian Foster and Anthony Richard, who both had 10 pass breakups. *(p. 59)*
-- There aren’t as many noteworthy recruits on defense, so the upside of the defense might be lower than that of the offense, but the collection of Southern Miss players should help. *(p. 59)*
+- **Will the defense suffer as a result of the offense?** The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The secondary has a lot of talent with the return of starting corners Zeke Berry and Jyaire Hill, Rod Moore at safety, and the additions of nickel Smith Snowden (two INTs, nine PBU), who was All-Big 12 at Utah and Chris Bracy (81 tackles) from Memphis. *(p. 159)*
+Referenced in the guide on **pp. 159** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -211,9 +188,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While the non-conference slate is substantially easier this time around, the Bulls play Memphis and UTSA on short weeks, with Memphis coming off of the bye for that game. *(p. 66)*
+Referenced in the guide on **pp. 66** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -241,23 +216,16 @@ Prices printed on the team page *(p. 59)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Over 7.5 wins, stated as a bet on the coach — two good coordinator hires, and a sense Huff has motivated players discarded or cast off elsewhere. *(p. 58)*
+- The non-conference schedule is tough with UNLV and Boise State, but the conference slate is not bad. Memphis plays at Tulane, South Florida and Navy, and the guide notes Huff has six games before the New Orleans trip to get the team in shape. *(p. 58)*
+- It closes on pedigree — Huff has worked under James Franklin and Nick Saban and knows how to identify talent — with a projection of 7.38 wins. *(p. 58)*
 
 ## 22. Historical / Situational Trends
 
-- This is a great spot for Huff, who has a lot of NIL money to play with and a pretty solid program that hasn’t had a losing season since 2013. *(p. 58)*
-- A winning record in 2014 ended six straight seasons of futility and the program has been strong ever since, including four double-digit winning seasons since 2017. *(p. 58)*
-- He had a Fordham offense that averaged over 600 yards per game back in 2021. *(p. 59)*
-- Jaylin Carter only had 166 yards last season at Southern Miss and Manny Covey had under 300 yards in three seasons at Cincinnati. *(p. 59)*
-- Like the offense, virtually nobody who played for the Tigers last season is on the roster, so this unit has been revamped via the portal as well. *(p. 59)*
+- Memphis went from Group of Five playoff contender to afterthought quickly, losing at home to Tulane then dropping three straight including the Gasparilla Bowl after Ryan Silverfield left for Arkansas and many players departed. *(p. 58)*
+- It rates this a great spot: plenty of NIL money and a solid programme with no losing season since 2013, four double-digit winning seasons since 2017, after a 2014 winning record ended six years of futility. *(p. 58)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
-- AJ Hill played in two games for Memphis last year, going 19 for 32, 223 passing yards, one TD and one INT. *(p. 10)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- His name has become synonymous with instability, and unlike recent seasons, Memphis is not picked among the elite teams in the American Conference in 2026, sixth in fact by Phil Steele. *(p. 25)*
-- Ryan Silverfield Arkansas After a decade at Memphis, Silverfield packed up the family and took I-40 to I-49 for probably the only SEC opportunity he was ever going to get. *(p. 36)*
+Referenced in the guide on **pp. 6, 10, 25, 36** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -303,51 +271,41 @@ As printed on p. 59. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 7.5**.
-- Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
-- This is a great spot for Huff, who has a lot of NIL money to play with and a pretty solid program that hasn’t had a losing season since 2013. *(p. 58)*
-- A winning record in 2014 ended six straight seasons of futility and the program has been strong ever since, including four double-digit winning seasons since 2017. *(p. 58)*
-- It may take a year with new schemes and a ton of transfers, but Huff seems to be an outstanding coach based on the returns we’ve seen thus far. *(p. 58)*
-- These are two good coordinator hires and it sure feels like Huff’s done a good job of motivating players that were either discarded by their own schools or castoffs from another. *(p. 58)*
-- Whether it’s Stokes, Noland, or maybe even Huff recruit Denzel Gardner, there still aren’t any truly experienced or established skill- position guys. *(p. 59)*
-- The wide receivers are all in a similar boat, as some of them have impressive yards per reception numbers, but not many receptions. *(p. 59)*
-- Huff made a really, really good DC hire in Lance Guidry, who he worked with at Marshall and has been a DC at many different places. *(p. 59)*
-- There aren’t as many noteworthy recruits on defense, so the upside of the defense might be lower than that of the offense, but the collection of Southern Miss players should help. *(p. 59)*
-- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
+- Memphis went from Group of Five playoff contender to afterthought quickly, losing at home to Tulane then dropping three straight including the Gasparilla Bowl after Ryan Silverfield left for Arkansas and many players departed. *(p. 58)*
+- It rates this a great spot: plenty of NIL money and a solid programme with no losing season since 2013, four double-digit winning seasons since 2017, after a 2014 winning record ended six years of futility. *(p. 58)*
+- Recommendation is Over 7.5 wins, stated as a bet on the coach — two good coordinator hires, and a sense Huff has motivated players discarded or cast off elsewhere. *(p. 58)*
+- The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
+- The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **7.3 wins** against a posted total of 7.5 — **-0.2** against this team.
-- Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
-- This is basically a brand-new roster for head coach Charles Huff, who spent one year at Southern Miss after Marshall inexplicably let him walk as the reigning Sun Belt champion HC. *(p. 58)*
-- The non-conference schedule is tough with UNLV and Boise State, but the conference schedule isn’t all that bad for the Tigers. *(p. 58)*
-- Jaylin Carter only had 166 yards last season at Southern Miss and Manny Covey had under 300 yards in three seasons at Cincinnati. *(p. 59)*
-- There aren’t as many noteworthy recruits on defense, so the upside of the defense might be lower than that of the offense, but the collection of Southern Miss players should help. *(p. 59)*
-- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- He took a big chunk of his roster to Southern Miss and went 7-5 before leveling up to Memphis. *(p. 29)*
-- Blake Anderson Southern Miss Anderson’s second stint at Southern Miss was to serve as the OC and QB coach, but Charles Huff left for Memphis and the Golden Eagles opted to keep it in-house with Anderson. *(p. 37)*
-- While Tulsa avoids East Carolina and Memphis, road games at Navy, Tulane, and UTSA make for a very tough conference schedule. *(p. 72)*
+- This is essentially a brand-new roster for Charles Huff, who spent one year at Southern Miss after Marshall — as the guide puts it, inexplicably — let him leave as reigning Sun Belt champion. *(p. 58)*
+- The non-conference schedule is tough with UNLV and Boise State, but the conference slate is not bad. Memphis plays at Tulane, South Florida and Navy, and the guide notes Huff has six games before the New Orleans trip to get the team in shape. *(p. 58)*
+- The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
+- The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 59)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 59)*. Its analysis, in reference form:
 
 ### What will this offense look like?
 
-Huff went back to the Sun Belt for his OC, as Kevin Decker was at Old Dominion the last few years. Decker led an ODU offense that ranked in the top 20 in yards per play and averaged 32 PPG. He had a Fordham offense that averaged over 600 yards per game back in 2021. This is a guy who believes in a high-octane, explosive offense that starts with the ground game and the pass comes off of it. The Monarchs averaged 5.6 yards per carry and nearly 240 rushing yards per game. How all the transfer pieces and parts fit in will be fascinating to see. Marcus Stokes was a multi-year starter at West Florida and Air Noland was a very highly-touted recruit who never saw the field at Ohio State and transferred to South Carolina.
+Huff returned to the Sun Belt for coordinator Kevin Decker, whose Old Dominion offense ranked top-20 in yards per play at 32 points per game, and whose 2021 Fordham offense averaged over 600 yards per game. The guide characterizes his philosophy precisely: high-octane and explosive, but starting with the ground game with the pass coming off it — Old Dominion averaged 5.6 yards per carry and nearly 240 rushing yards. It calls the fit of all the transfer pieces fascinating to watch, noting Marcus Stokes was a multi-year West Florida starter and Air Noland a highly touted recruit who never played at Ohio State before transferring to South Carolina. *(p. 59)*
 
 ### Who are the impact players on offense?
 
-Whether it’s Stokes, Noland, or maybe even Huff recruit Denzel Gardner, there still aren’t any truly experienced or established skill- position guys. Dallan Hayden had over five yards per carry at Ohio State, but was ineffective at Colorado. Jaylin Carter only had 166 yards last season at Southern Miss and Manny Covey had under 300 yards in three seasons at Cincinnati. The wide receivers are all in a similar boat, as some of them have impressive yards per reception numbers, but not many receptions. This is basically a bunch of noteworthy recruits who couldn’t crack the lineup at their previous schools, so all of them have chips on their shoulders. That could make for a fun offense, especially if Decker can play with tempo.
+The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
 
 ### Will the defense suffer as a result of the offense?
 
-Huff made a really, really good DC hire in Lance Guidry, who he worked with at Marshall and has been a DC at many different places. Like the offense, virtually nobody who played for the Tigers last season is on the roster, so this unit has been revamped via the portal as well. Huff did bring several Golden Eagles with him, including J’Mond Tapp, who had 7.5 sacks, and Ian Foster and Anthony Richard, who both had 10 pass breakups. There aren’t as many noteworthy recruits on defense, so the upside of the defense might be lower than that of the offense, but the collection of Southern Miss players should help.
+The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
