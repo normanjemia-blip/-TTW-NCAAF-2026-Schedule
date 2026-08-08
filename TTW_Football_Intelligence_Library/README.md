@@ -1,6 +1,6 @@
 # TTW Football Intelligence Library
 
-**Version 1.0 — Phase 1 (Master Index) complete**
+**Version 1.1 — Phases 1–2 complete**
 
 TTW's permanent football research encyclopedia, built from the 2026 VSiN College
 Football Betting Guide. The goal is that the 345-page guide never has to be
@@ -25,8 +25,8 @@ That file is the navigation system for everything else.
 | Phase | Deliverable | Directory | Status |
 | --- | --- | --- | --- |
 | 1 | Master Index | `00_Master_Index` | ✅ **Complete** |
-| 2 | Conference Database | `01_Conference_Database` | ⏸ Awaiting approval |
-| 3 | Team Database | `02_Team_Database` | ⏸ Pending |
+| 2 | Conference Database | `01_Conference_Database` | ✅ **Complete** |
+| 3 | Team Database | `02_Team_Database` | ⏸ Awaiting approval |
 | 4 | Quarterback Database | `04_Quarterback_Database` | ⏸ Pending |
 | 5 | Coaching Database | `03_Coaching_Database` | ⏸ Pending |
 | 6 | Power Ratings | `05_Power_Ratings` | ⏸ Pending |
@@ -35,16 +35,30 @@ That file is the navigation system for everything else.
 | 9 | Betting Concepts | `11_Betting_Concepts` | ⏸ Pending |
 | 10 | Historical Trends | `12_Historical_Trends` | ⏸ Pending |
 | 11 | Search Optimization | `99_Search_Index` | ⏸ Pending |
-| — | Returning Production | `08_Returning_Production` | ⚠️ No phase assigned |
-| — | Transfer Portal | `09_Transfer_Portal` | ⚠️ No phase assigned |
-| — | Schedule Intelligence | `10_Schedule_Intelligence` | ⚠️ No phase assigned |
-| — | Situational Angles | `13_Situational_Angles` | ⚠️ No phase assigned |
-| — | Statistics Reference | `14_Statistics_Reference` | ⚠️ No phase assigned |
 
-Phase numbers and directory numbers **do not correspond**. Five directories have
-no phase in the workflow — see
-[13 — Open Questions and Gaps](00_Master_Index/13_Open_Questions_And_Gaps.md),
-item 3, which needs a Director decision.
+### Folded directories (Director decision, 2026-08-08)
+
+No Phases 12–16 are created. These five directories are filled by existing
+phases rather than getting phases of their own:
+
+| Directory | Filled by |
+| --- | --- |
+| `08_Returning_Production` | Phase 3, with conference-level summaries in Phase 2 |
+| `09_Transfer_Portal` | Phase 3, with conference-level summaries in Phase 2 |
+| `10_Schedule_Intelligence` | Phase 2 and Phase 3 |
+| `13_Situational_Angles` | Phase 9 if conceptual, Phase 10 if historical or system-based |
+| `14_Statistics_Reference` | Phase 9 / reference material, preserving every guide-specific statistic and definition |
+
+Phase numbers and directory numbers deliberately differ (`05_Power_Ratings` is
+Phase 6, `07_Futures` is Phase 8), so this library refers to **directory names,
+never bare phase numbers**, wherever ambiguity is possible.
+
+### Team file schema (Director decision, 2026-08-08)
+
+Every FBS team file in Phase 3 carries the **full standardised 24-heading
+schema**. Where the guide does not address a heading, the file states
+`Not addressed in guide.` Headings are never dropped for source silence, so all
+138 files stay structurally identical and searchable.
 
 ---
 
@@ -70,6 +84,7 @@ item 3, which needs a Director decision.
 ```
 TTW_Football_Intelligence_Library/
 ├── 00_Master_Index/          14 index files — the navigation layer (Phase 1)
+├── 01_Conference_Database/   11 conference files + index (Phase 2)
 ├── 01_…14_                   phase databases, each with a README stating scope
 ├── 99_Search_Index/          cross-reference layer (Phase 11)
 ├── _source/
@@ -78,7 +93,10 @@ TTW_Football_Intelligence_Library/
 │   └── data/                 machine-readable entity tables (JSON)
 └── _tools/
     ├── extract_guide.py      PDF → JSON + text, with validation
-    └── build_index.py        JSON → the Master Index
+    ├── build_index.py        JSON → the Master Index
+    ├── extract_conferences.py  conference previews + projected standings
+    ├── extract_phase2.py     predictions, win totals, best bets, new coaches
+    └── build_conferences.py  JSON → the Conference Database
 ```
 
 ## Rebuilding
@@ -90,6 +108,9 @@ The index is generated, never hand-edited. Extraction fixes are made once in
 pip install pymupdf
 python3 _tools/extract_guide.py _source/2026-VSiN-CFB-Betting-Guide.pdf _source
 python3 _tools/build_index.py
+python3 _tools/extract_conferences.py
+python3 _tools/extract_phase2.py
+python3 _tools/build_conferences.py
 ```
 
 The guide PDF is committed under `_source/`, so this runs with no external

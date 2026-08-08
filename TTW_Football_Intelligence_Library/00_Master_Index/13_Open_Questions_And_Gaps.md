@@ -7,9 +7,12 @@
 Items requiring a Director decision, and honest statements of what the source
 does **not** contain. Nothing here is filled by guessing.
 
-## Decisions needed before Phase 2
+## Owner decisions on record
 
-**1. Returning-starters field ordering.** Every team header prints three
+All Phase 1 open questions were resolved by the Director on 2026-08-08. They are
+retained here with their resolutions so the reasoning stays visible.
+
+**1. Returning-starters field ordering.** ✅ **DEFERRED, APPROVED 2026-08-08.** Every team header prints three
 returning-starter numbers under the labels `total / offense / defense`, but the
 PDF's text layer emits labels and values in different orders, so the mapping
 cannot be read reliably from text alone. Army shows `3, 8*, 11`; Northern
@@ -17,42 +20,40 @@ Illinois shows `0, 6, 6`. Resolving this needs coordinate-based extraction
 (matching each value to its label by x/y position). It is **deferred to
 `08_Returning_Production`**, where returning production is the subject. No
 returning-starters figures appear anywhere in Phase 1 output, because a wrong
-mapping would be worse than none. *Confirm you are happy for this to wait.*
+mapping would be worse than none. The Director has approved deferral, with the standing instruction: do not guess
+these values, do not infer them from malformed text extraction, and do not
+fabricate missing figures.
 
-**2. Futures price labelling.** Each team's right page carries three futures
+**2. Futures price labelling.** ✅ **DEFERRED, APPROVED 2026-08-08.** Each team's right page carries three futures
 prices near the labels `CFP Championship`, `make the playoff` and a conference
 line. Text order does not reliably pair price to label. Same fix, same method,
 **deferred to Phase 8 (Futures)**.
 
-**3. Phase numbering does not match directory numbering.** The brief defines a
-**16-directory structure** but an **11-phase workflow**, and the two number
-differently — `05_Power_Ratings` is built in Phase 6, `07_Futures` in Phase 8.
-More importantly, five directories are never assigned a phase at all:
+**3. Phase numbering does not match directory numbering.** ✅ **DECIDED
+2026-08-08 — no Phases 12–16.** The five unassigned directories fold into the
+approved phase structure as follows:
 
-| Directory | Assigned phase |
+| Directory | Folded into |
 | --- | --- |
-| `08_Returning_Production` | none |
-| `09_Transfer_Portal` | none |
-| `10_Schedule_Intelligence` | none |
-| `13_Situational_Angles` | none |
-| `14_Statistics_Reference` | none |
+| `08_Returning_Production` | **Phase 3** (Team Database), with conference-level summaries in **Phase 2** where relevant |
+| `09_Transfer_Portal` | **Phase 3** (Team Database), with conference-level summaries in **Phase 2** where relevant |
+| `10_Schedule_Intelligence` | **Phase 2** (Conference Database) and **Phase 3** (Team Database) |
+| `13_Situational_Angles` | **Phase 9** (Betting Concepts) if conceptual, **Phase 10** (Historical Trends) if historical or system-based |
+| `14_Statistics_Reference` | **Phase 9** (Betting Concepts) / reference material, preserving every guide-specific statistic and definition |
 
-Several brief questions depend on exactly these — *"find every portal-heavy
-roster"*, *"list every trap game"*, *"show every slow-tempo offense"*. This
-library uses **directory names, never bare phase numbers**, to avoid ambiguity.
-*Decision needed: add phases 12–16 for the unassigned directories, or fold them
-into existing phases (portal and returning production into Phase 3, schedule and
-situational into Phase 10, statistics into Phase 11)?* **Recommendation: fold
-them in** — the underlying content lives on the team pages and would otherwise
-be read twice.
+Note that phase numbers and directory numbers still differ by design
+(`05_Power_Ratings` is Phase 6, `07_Futures` is Phase 8). This library therefore
+uses **directory names, never bare phase numbers**, wherever ambiguity is
+possible.
 
-**4. Depth of the Phase 3 team files.** The brief lists 24 sections per team.
-Several — Recruiting Notes, Offensive Identity, Defensive Identity — are not
-discrete fields in the guide; they exist only as prose that must be read and
-attributed. Options: (a) keep all 24 headings and mark unsupported ones
-*Not addressed in guide*, or (b) carry only headings the source actually
-supports. **Recommendation: (a)** — a visible empty heading is a research
-prompt, and it keeps all 138 files structurally identical. *Your call.*
+**4. Depth of the Phase 3 team files.** ✅ **DECIDED 2026-08-08 — option (a).**
+Every FBS team file carries the **full standardised 24-heading schema**. Where
+the guide does not address a heading, the file states exactly:
+
+> Not addressed in guide.
+
+Headings are never omitted merely because the source is silent, so all 138 team
+files share one searchable structure.
 
 ## Known source limitations
 
@@ -91,7 +92,9 @@ extracted**, by design, because each belongs to a later phase:
 
 ## Post-publication updates outstanding
 
-None recorded. The guide's publication date has not been established from the
-source, and no outside research has been performed. Coaching changes, portal
+None recorded, and **none authorised**. The Director's standing instruction as of
+2026-08-08 is that outside updating has not begun and requires explicit
+authorisation. The guide's publication date has not been established from the
+source, so the cut-off for "post-publication" remains undefined. Coaching changes, portal
 movement, injuries and suspensions occurring after publication must be filed
 under POST-PUBLICATION UPDATE and are **not** part of Phase 1.

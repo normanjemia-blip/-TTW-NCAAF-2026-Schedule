@@ -1,0 +1,247 @@
+[
+ {
+  "coach": "Charles Huff",
+  "page": 29,
+  "team": "Memphis Tigers",
+  "conference": "American",
+  "hc_season": 1
+ },
+ {
+  "coach": "Neal Brown",
+  "page": 29,
+  "team": "North Texas Eagles",
+  "conference": "American",
+  "hc_season": 1
+ },
+ {
+  "coach": "Will Hall",
+  "page": 29,
+  "team": "Tulane Green Wave",
+  "conference": "American",
+  "hc_season": 1
+ },
+ {
+  "coach": "Brian Hartline",
+  "page": 29,
+  "team": "South Florida Bulls",
+  "conference": "American",
+  "hc_season": 1
+ },
+ {
+  "coach": "Tosh Lupoi",
+  "page": 30,
+  "team": "California Golden Bears",
+  "conference": "ACC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Tavita Pritchard",
+  "page": 30,
+  "team": "Stanford Cardinal",
+  "conference": "ACC",
+  "hc_season": 1
+ },
+ {
+  "coach": "James Franklin",
+  "page": 30,
+  "team": "Virginia Tech Hokies",
+  "conference": "ACC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Jimmy Rogers",
+  "page": 31,
+  "team": "Iowa State Cyclones",
+  "conference": "Big 12",
+  "hc_season": 1
+ },
+ {
+  "coach": "Collin Klein",
+  "page": 31,
+  "team": "Kansas State Wildcats",
+  "conference": "Big 12",
+  "hc_season": 1
+ },
+ {
+  "coach": "Eric Morris",
+  "page": 31,
+  "team": "Oklahoma State Cowboys",
+  "conference": "Big 12",
+  "hc_season": 1
+ },
+ {
+  "coach": "Morgan Scalley",
+  "page": 31,
+  "team": "Utah Utes",
+  "conference": "Big 12",
+  "hc_season": 1
+ },
+ {
+  "coach": "Kyle Whittingham",
+  "page": 32,
+  "team": "Michigan Wolverines",
+  "conference": "Big Ten",
+  "hc_season": 1
+ },
+ {
+  "coach": "Pat Fitzgerald",
+  "page": 32,
+  "team": "Michigan State Spartans",
+  "conference": "Big Ten",
+  "hc_season": 1
+ },
+ {
+  "coach": "Matt Campbell",
+  "page": 32,
+  "team": "Penn State Nittany Lions",
+  "conference": "Big Ten",
+  "hc_season": 1
+ },
+ {
+  "coach": "Bob Chesney",
+  "page": 32,
+  "team": "UCLA Bruins",
+  "conference": "Big Ten",
+  "hc_season": 1
+ },
+ {
+  "coach": "Casey Woods",
+  "page": 33,
+  "team": "Missouri State Bears",
+  "conference": "Conference USA",
+  "hc_season": 1
+ },
+ {
+  "coach": "Alex Mortensen",
+  "page": 33,
+  "team": "UAB Blazers",
+  "conference": "American",
+  "hc_season": 1
+ },
+ {
+  "coach": "Jason Candle",
+  "page": 33,
+  "team": "Connecticut Huskies",
+  "conference": "Independents",
+  "hc_season": 1
+ },
+ {
+  "coach": "Mark Carney",
+  "page": 34,
+  "team": "Kent State Golden Flashes",
+  "conference": "MAC",
+  "hc_season": 2
+ },
+ {
+  "coach": "John Hauser",
+  "page": 34,
+  "team": "Ohio U Bobcats",
+  "conference": "MAC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Alonzo Carter",
+  "page": 34,
+  "team": "Sacramento State Hornets",
+  "conference": "MAC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Mike Jacobs",
+  "page": 34,
+  "team": "Toledo Rockets",
+  "conference": "MAC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Rob Harley",
+  "page": 35,
+  "team": "Northern Illinois Huskies",
+  "conference": "Mountain West",
+  "hc_season": 1
+ },
+ {
+  "coach": "Jim Mora",
+  "page": 35,
+  "team": "Colorado State Rams",
+  "conference": "Pac-12",
+  "hc_season": 1
+ },
+ {
+  "coach": "JaMarcus Shephard",
+  "page": 35,
+  "team": "Oregon State Beavers",
+  "conference": "Pac-12",
+  "hc_season": 1
+ },
+ {
+  "coach": "Kirby Moore",
+  "page": 35,
+  "team": "Washington State Cougars",
+  "conference": "Pac-12",
+  "hc_season": 1
+ },
+ {
+  "coach": "Ryan Silverfield",
+  "page": 36,
+  "team": "Arkansas Razorbacks",
+  "conference": "SEC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Alex Golesh",
+  "page": 36,
+  "team": "Auburn Tigers",
+  "conference": "SEC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Jon Sumrall",
+  "page": 36,
+  "team": "Florida Gators",
+  "conference": "SEC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Will Stein",
+  "page": 36,
+  "team": "Kentucky Wildcats",
+  "conference": "SEC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Lane Kiffin",
+  "page": 36,
+  "team": "LSU Tigers",
+  "conference": "SEC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Pete Golding",
+  "page": 36,
+  "team": "Ole Miss Rebels",
+  "conference": "SEC",
+  "hc_season": 1
+ },
+ {
+  "coach": "Ryan Beard",
+  "page": 37,
+  "team": "Coastal Carolina Chanticleers",
+  "conference": "Sun Belt",
+  "hc_season": 1
+ },
+ {
+  "coach": "Billy Napier",
+  "page": 37,
+  "team": "James Madison Dukes",
+  "conference": "Sun Belt",
+  "hc_season": 1
+ },
+ {
+  "coach": "Blake Anderson",
+  "page": 37,
+  "team": "Southern Miss Golden Eagles",
+  "conference": "Sun Belt",
+  "hc_season": 1
+ }
+]

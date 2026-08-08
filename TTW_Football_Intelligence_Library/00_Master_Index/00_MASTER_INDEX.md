@@ -16,8 +16,15 @@
 | **Coordinators named** | 115 |
 | **Ranked quarterbacks** | 15 |
 | **Abbreviations defined** | 45 |
-| **Library status** | Phase 1 complete; Phases 2–11 pending approval |
+| **Library status** | Phases 1–2 complete; Phase 3 awaiting approval |
 
+
+## Built databases
+
+
+| Phase | Database | Entry point |
+| --- | --- | --- |
+| 2 | Conference Database | [01_Conference_Database/00_CONFERENCE_INDEX.md](../01_Conference_Database/00_CONFERENCE_INDEX.md) |
 
 ## Index files
 
@@ -45,6 +52,7 @@ Every question in the project brief maps to a starting file:
 | Question | Start here |
 | --- | --- |
 | *Everything about Georgia* | [03 — Team Index](03_Team_Index.md) → pp. 292–293, then Phase 3 team file |
+| *Everything about the SEC* | [SEC conference file](../01_Conference_Database/sec.md) |
 | *Every coach entering Year 1* | [04 — Coaching Index](04_Coaching_Index.md) → Year 1 ⭐ |
 | *Every quarterback competition* | [06 — Quarterback Index](06_Quarterback_Index.md) → Phase 4 |
 | *Compare Makinen's rating with TTW* | [09 — Power Rating Index](09_Power_Rating_Index.md) → Phase 6 |

@@ -1,20 +1,27 @@
 # 01 Conference Database
 
-**Status:** Not yet built — **Phase 2**
+**Status:** ✅ Built — Phase 2, complete 2026-08-08.
 
-## Scope
+**Start here: [00_CONFERENCE_INDEX.md](00_CONFERENCE_INDEX.md)**
 
-One file per conference: Makinen's projected standings, the preview essay, conference-wide betting themes, championship futures, and cross-links to every member team.
+One intelligence file per conference, generated from the eleven preview pages
+and every cross-cutting section of the guide that touches a conference.
 
-## Source pages
+## Rebuilding
 
-pp. 49, 79, 115, 149, 187, 209, 215, 243, 265, 283, 317 — plus p. 4 (2026 Season Predictions)
+```bash
+python3 _tools/extract_conferences.py   # previews + projected standings
+python3 _tools/extract_phase2.py        # predictions, win totals, best bets
+python3 _tools/build_conferences.py     # → this directory
+```
+
+Both extraction scripts exit non-zero on validation failure, so a bad parse
+cannot silently become a conference file.
 
 ## Rules
 
 Content here follows the standing rules in the [library README](../README.md):
 GUIDE CONTENT, POST-PUBLICATION UPDATE and PERSONAL INFERENCE are labelled and
 never mixed; gaps are recorded as gaps; page references accompany every claim.
-
-This directory is intentionally empty until its phase is approved. Nothing is
-drafted ahead of approval.
+Thematic sections quote the guide verbatim rather than paraphrasing it, and a
+section reading *Not addressed in guide* means the source is silent.
