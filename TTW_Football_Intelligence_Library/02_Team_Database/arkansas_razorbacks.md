@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 3.8–8.2 overall, 1.7–7.3 in conference |
 | **Schedule strength** | 51.48 (#5 toughest of 138) |
 
-### Season outlook as written in the guide (p. 286)
+### Season outlook — VSiN's analysis in reference form (p. 286)
 
-After a 2–0 start to the season, the wheels came off for Arkansas. Sam Pittman lost his job in September, the Razorbacks lost the final 10 games of the season, and the program fell into the cellar of the SEC. In order to right the ship, the athletic department brought in Ryan Silverfield from Memphis. Silverfield never won the AAC in his time at Memphis. In fact, he never made it to the conference title game. But he did win 50 games and four bowls. He is the program builder Arkansas needs. Arkansas has won nine games just once since its last double- digit win season, which was in 2011. Just getting back to bowl season would be a win for Silverfield in his first season, but the challenge is immense with a new roster and a brutal schedule. Under 4.5 Silverfield has a good offensive background, which should lead to positive development of Jackson at quarterback and decent production from this offense. However, there is a steep mountain to climb for this defense, and the challenge of an SEC schedule will likely do the Razorbacks in. Arkansas must travel to Utah, Texas A&M and Texas. It hosts Georgia and LSU. There are some spots on this schedule in which the Razorbacks could steal some victories — home games against Tulsa, Missouri and South Carolina are potential wins. So too are road games at Vanderbilt and Auburn. But at best, those are all coin-flip spots that an Over bettor would need to consistently land on the right side of..
+- Arkansas started 2-0 and then lost its last ten games. Sam Pittman was dismissed in September and the programme finished bottom of the SEC. *(p. 286)*
+- Ryan Silverfield arrives from Memphis. The guide notes he never won the AAC or even reached its title game, but won 50 games and four bowls, and casts him as the programme builder Arkansas needs. *(p. 286)*
+- Historical context given: Arkansas has won nine games only once since its last double-digit season in 2011. Simply reaching a bowl would count as a successful first year. *(p. 286)*
+- Recommendation is Under 4.5 wins. Silverfield's offensive background should help quarterback KJ Jackson develop and yield decent offensive production, but the guide expects the defense and the SEC schedule to sink the season. *(p. 286)*
+- Schedule detail: road trips to Utah, Texas A&M and Texas; home games against Georgia and LSU. Winnable spots are home games with Tulsa, Missouri and South Carolina, plus road games at Vanderbilt and Auburn — but the guide rates all of those coin flips an Over bettor would have to keep winning. *(p. 286)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,14 +86,11 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 36)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- As is usually the case when a coaching staff gets fired, there was an exodus of production from Fayetteville this offseason. *(p. 287)*
-- It’s likely this group won’t be among the best in the country, but it has the pieces to creep back toward average under new defensive coordinator Rob Roberts. *(p. 287)*
+- Arkansas started 2-0 and then lost its last ten games. Sam Pittman was dismissed in September and the programme finished bottom of the SEC. *(p. 286)*
+- Ryan Silverfield arrives from Memphis. The guide notes he never won the AAC or even reached its title game, but won 50 games and four bowls, and casts him as the programme builder Arkansas needs. *(p. 286)*
+- **How much can this defense improve?** 2025 was ugly: 33.8 points allowed per game, 6.3 yards per play, 4.7 yards per carry, 134th in adjusted opponent EPA per play and 120th in defensive success rate. Defensive end Quincy Rhodes (44 tackles, 8 sacks) returned, joined by a wave of transfers including an almost rebuilt linebacker group and Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). The guide's measured conclusion is that this will not be among the nation's best units but has the pieces to climb back toward average under new coordinator Rob Roberts. *(p. 287)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ARKANSAS UNDER 4.5 WINS (-166) Ryan Silverfield was a weird hire for Arkansas. *(p. 10)*
-- Golding has also worked under now-Browns head coach Todd Monken at Southern Miss, new Arkansas DC Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin. *(p. 36)*
-- Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
+Also referenced on **pp. 10, 36, 58** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -95,8 +98,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 286)*.
 
-- Under 4.5 Silverfield has a good offensive background, which should lead to positive development of Jackson at quarterback and decent production from this offense. *(p. 286)*
-- The southpaw showed an ability to be a pocket passer with decent touch in his limited time on the field last season. *(p. 287)*
+- **What can KJ Jackson provide as the starting quarterback?** Jackson is nominally in a battle with Memphis transfer AJ Hill, but the guide assumes the sophomore starts against North Alabama in Week 1. He appeared in five games in 2025 and played extensively in the last two, going 27-of-46 (58.7%) for 332 yards and two touchdowns with 41 rushing yards and a rushing score. The left-hander showed pocket-passing touch in limited work; whether his upside arrives is left open. *(p. 287)*
 
 ## 10. Returning Production
 
@@ -112,41 +114,26 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 ## 11. Transfer Portal
 
-- Jackson is allegedly in a battle for the starting job with Memphis transfer AJ Hill when fall camp begins, but it is assumed the sophomore will be under center when Arkansas hosts North Alabama in Week 1. *(p. 287)*
-- Wide receiver Jamari Hawkins (38 receptions, 623 yards) transfers in from Memphis as well. *(p. 287)*
-- With him are a litany of transfers, including a nearly rebuilt linebacker group. *(p. 287)*
-- One of the big wins in the portal was Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). *(p. 287)*
+- **What can KJ Jackson provide as the starting quarterback?** Jackson is nominally in a battle with Memphis transfer AJ Hill, but the guide assumes the sophomore starts against North Alabama in Week 1. He appeared in five games in 2025 and played extensively in the last two, going 27-of-46 (58.7%) for 332 yards and two touchdowns with 41 rushing yards and a rushing score. The left-hander showed pocket-passing touch in limited work; whether his upside arrives is left open. *(p. 287)*
+- **How does the coaching staff replace all the production at the skill positions?** As usually follows a firing, production drained out of Fayetteville. Arkansas lost its leading rusher and top three receivers. Braylen Russell (55 carries, 291 yards) is the top returning back and CJ Brown (28 receptions, 319 yards) the top returning receiver. Sutton Smith followed Silverfield from Memphis, Jasper Parker arrived from Michigan, and Memphis receiver Jamari Hawkins (38 receptions, 623 yards) transferred in. The pecking order is unknown and the guide expects heavy reliance on new faces. *(p. 287)*
+- **How much can this defense improve?** 2025 was ugly: 33.8 points allowed per game, 6.3 yards per play, 4.7 yards per carry, 134th in adjusted opponent EPA per play and 120th in defensive success rate. Defensive end Quincy Rhodes (44 tackles, 8 sacks) returned, joined by a wave of transfers including an almost rebuilt linebacker group and Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). The guide's measured conclusion is that this will not be among the nation's best units but has the pieces to climb back toward average under new coordinator Rob Roberts. *(p. 287)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- LSU transfer Nic Anderson (6’4”, 205 lbs.) had almost 800 yards and 10 TDs at Oklahoma in 2023, Southern Utah transfer Shane Carr (6’2”, 185 lbs.) went for over 1,300 yards and 10 TDs over the last two seasons, plus Arkansas transfer Ja’Kayden Ferguson (6’2”, 184 lbs.) and UAB transfer Xavier Daisy (6’3”, 212 lbs.) join the fold as well. *(p. 10)*
-- Trever Jackson from Arkansas and JUCO transfer Tre Guerra, who also had offers from Texas Tech, Kentucky, Florida State, LSU, and Virginia, are other options. *(p. 321)*
+Referenced in the guide on **pp. 10, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The former four-star recruit is not a greenhorn by any stretch after starting the 2024 Liberty Bowl against Arkansas and then two games last season in relief of an injured Behren Morton. *(p. 6)*
-- Personally, I think we see true freshman Qur’an McNeill sooner rather than later, as he had offers from Arkansas, Cincinnati, UConn, Syracuse, and Boston College, but opted for Buffalo. *(p. 223)*
+Referenced in the guide on **pp. 6, 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Under 4.5 Silverfield has a good offensive background, which should lead to positive development of Jackson at quarterback and decent production from this offense. *(p. 286)*
-- He added 41 rushing yards and a touchdown on the ground. *(p. 287)*
-- The Razorbacks lost their leading rusher and top three receivers. *(p. 287)*
-- CJ Brown (28 receptions, 319 yards) is the top returning receiver. *(p. 287)*
-- Wide receiver Jamari Hawkins (38 receptions, 623 yards) transfers in from Memphis as well. *(p. 287)*
-- Arkansas gave up 33.8 points per game, 6.3 yards per play and 4.7 yards per carry. *(p. 287)*
+- Recommendation is Under 4.5 wins. Silverfield's offensive background should help quarterback KJ Jackson develop and yield decent offensive production, but the guide expects the defense and the SEC schedule to sink the season. *(p. 286)*
+- **How does the coaching staff replace all the production at the skill positions?** As usually follows a firing, production drained out of Fayetteville. Arkansas lost its leading rusher and top three receivers. Braylen Russell (55 carries, 291 yards) is the top returning back and CJ Brown (28 receptions, 319 yards) the top returning receiver. Sutton Smith followed Silverfield from Memphis, Jasper Parker arrived from Michigan, and Memphis receiver Jamari Hawkins (38 receptions, 623 yards) transferred in. The pecking order is unknown and the guide expects heavy reliance on new faces. *(p. 287)*
 
 ## 14. Defensive Identity
 
-- However, there is a steep mountain to climb for this defense, and the challenge of an SEC schedule will likely do the Razorbacks in. *(p. 286)*
-- The Razorbacks were 134th in adjusted opponent EPA per play and 120th in defensive success rate. *(p. 287)*
-- Defensive end Quincy Rhodes (44 tackles, 8 sacks) elected to return. *(p. 287)*
-- With him are a litany of transfers, including a nearly rebuilt linebacker group. *(p. 287)*
-- Rhodes and Johnson are strong cornerstones for this defense. *(p. 287)*
-- It’s likely this group won’t be among the best in the country, but it has the pieces to creep back toward average under new defensive coordinator Rob Roberts. *(p. 287)*
+- Recommendation is Under 4.5 wins. Silverfield's offensive background should help quarterback KJ Jackson develop and yield decent offensive production, but the guide expects the defense and the SEC schedule to sink the season. *(p. 286)*
+- **How much can this defense improve?** 2025 was ugly: 33.8 points allowed per game, 6.3 yards per play, 4.7 yards per carry, 134th in adjusted opponent EPA per play and 120th in defensive success rate. Defensive end Quincy Rhodes (44 tackles, 8 sacks) returned, joined by a wave of transfers including an almost rebuilt linebacker group and Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). The guide's measured conclusion is that this will not be among the nation's best units but has the pieces to climb back toward average under new coordinator Rob Roberts. *(p. 287)*
 
 ## 15. Key Strengths
 
@@ -200,11 +187,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Just getting back to bowl season would be a win for Silverfield in his first season, but the challenge is immense with a new roster and a brutal schedule. *(p. 286)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The former four-star recruit is not a greenhorn by any stretch after starting the 2024 Liberty Bowl against Arkansas and then two games last season in relief of an injured Behren Morton. *(p. 6)*
+Referenced in the guide on **pp. 6, 286** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -234,18 +218,15 @@ Prices printed on the team page *(p. 287)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- Recommendation is Under 4.5 wins. Silverfield's offensive background should help quarterback KJ Jackson develop and yield decent offensive production, but the guide expects the defense and the SEC schedule to sink the season. *(p. 286)*
+- Schedule detail: road trips to Utah, Texas A&M and Texas; home games against Georgia and LSU. Winnable spots are home games with Tulsa, Missouri and South Carolina, plus road games at Vanderbilt and Auburn — but the guide rates all of those coin flips an Over bettor would have to keep winning. *(p. 286)*
 
 ## 22. Historical / Situational Trends
 
-- Arkansas has won nine games just once since its last double- digit win season, which was in 2011. *(p. 286)*
-- Jackson appeared in five games last season but played at length in the final two against Texas and Missouri. *(p. 287)*
-- The southpaw showed an ability to be a pocket passer with decent touch in his limited time on the field last season. *(p. 287)*
+- Arkansas started 2-0 and then lost its last ten games. Sam Pittman was dismissed in September and the programme finished bottom of the SEC. *(p. 286)*
+- Historical context given: Arkansas has won nine games only once since its last double-digit season in 2011. Simply reaching a bowl would count as a successful first year. *(p. 286)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The former four-star recruit is not a greenhorn by any stretch after starting the 2024 Liberty Bowl against Arkansas and then two games last season in relief of an injured Behren Morton. *(p. 6)*
-- LSU transfer Nic Anderson (6’4”, 205 lbs.) had almost 800 yards and 10 TDs at Oklahoma in 2023, Southern Utah transfer Shane Carr (6’2”, 185 lbs.) went for over 1,300 yards and 10 TDs over the last two seasons, plus Arkansas transfer Ja’Kayden Ferguson (6’2”, 184 lbs.) and UAB transfer Xavier Daisy (6’3”, 212 lbs.) join the fold as well. *(p. 10)*
-- Ryan Silverfield Arkansas After a decade at Memphis, Silverfield packed up the family and took I-40 to I-49 for probably the only SEC opportunity he was ever going to get. *(p. 36)*
+Referenced in the guide on **pp. 6, 10, 36** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -290,12 +271,9 @@ As printed on p. 287. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- But at best, those are all coin-flip spots that an Over bettor would need to consistently land on the right side of.. *(p. 286)*
-- Bettors should expect him to emerge from camp as the starter, but time will tell if his upside hits. *(p. 287)*
-- Defensive end Quincy Rhodes (44 tackles, 8 sacks) elected to return. *(p. 287)*
-- Rhodes and Johnson are strong cornerstones for this defense. *(p. 287)*
-- It’s likely this group won’t be among the best in the country, but it has the pieces to creep back toward average under new defensive coordinator Rob Roberts. *(p. 287)*
-- Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
+- Schedule detail: road trips to Utah, Texas A&M and Texas; home games against Georgia and LSU. Winnable spots are home games with Tulsa, Missouri and South Carolina, plus road games at Vanderbilt and Auburn — but the guide rates all of those coin flips an Over bettor would have to keep winning. *(p. 286)*
+- Jackson is nominally in a battle with Memphis transfer AJ Hill, but the guide assumes the sophomore starts against North Alabama in Week 1. He appeared in five games in 2025 and played extensively in the last two, going 27-of-46 (58.7%) for 332 yards and two touchdowns with 41 rushing yards and a rushing score. The left-hander showed pocket-passing touch in limited work; whether his upside arrives is left open. *(p. 287)*
+- 2025 was ugly: 33.8 points allowed per game, 6.3 yards per play, 4.7 yards per carry, 134th in adjusted opponent EPA per play and 120th in defensive success rate. Defensive end Quincy Rhodes (44 tackles, 8 sacks) returned, joined by a wave of transfers including an almost rebuilt linebacker group and Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). The guide's measured conclusion is that this will not be among the nation's best units but has the pieces to climb back toward average under new coordinator Rob Roberts. *(p. 287)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -303,31 +281,28 @@ As printed on p. 287. Each category carries a value and a national rank.
 
 - Makinen projects **3.8 wins** against a posted total of 4.5 — **-0.7** against this team.
 - The team page recommends **UNDER 4.5**.
-- Sam Pittman lost his job in September, the Razorbacks lost the final 10 games of the season, and the program fell into the cellar of the SEC. *(p. 286)*
-- Just getting back to bowl season would be a win for Silverfield in his first season, but the challenge is immense with a new roster and a brutal schedule. *(p. 286)*
-- The Razorbacks lost their leading rusher and top three receivers. *(p. 287)*
-- The former four-star recruit is not a greenhorn by any stretch after starting the 2024 Liberty Bowl against Arkansas and then two games last season in relief of an injured Behren Morton. *(p. 6)*
-- Golding has also worked under now-Browns head coach Todd Monken at Southern Miss, new Arkansas DC Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin. *(p. 36)*
-- Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
+- Arkansas started 2-0 and then lost its last ten games. Sam Pittman was dismissed in September and the programme finished bottom of the SEC. *(p. 286)*
+- As usually follows a firing, production drained out of Fayetteville. Arkansas lost its leading rusher and top three receivers. Braylen Russell (55 carries, 291 yards) is the top returning back and CJ Brown (28 receptions, 319 yards) the top returning receiver. Sutton Smith followed Silverfield from Memphis, Jasper Parker arrived from Michigan, and Memphis receiver Jamari Hawkins (38 receptions, 623 yards) transferred in. The pecking order is unknown and the guide expects heavy reliance on new faces. *(p. 287)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 287)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 287)*. Its analysis, in reference form:
 
 ### What can KJ Jackson provide as the starting quarterback?
 
-Jackson is allegedly in a battle for the starting job with Memphis transfer AJ Hill when fall camp begins, but it is assumed the sophomore will be under center when Arkansas hosts North Alabama in Week 1. Jackson appeared in five games last season but played at length in the final two against Texas and Missouri. In those contests, he went 27-of-46 (58.7%) for 332 yards and two touchdowns. He added 41 rushing yards and a touchdown on the ground. The southpaw showed an ability to be a pocket passer with decent touch in his limited time on the field last season. Bettors should expect him to emerge from camp as the starter, but time will tell if his upside hits.
+Jackson is nominally in a battle with Memphis transfer AJ Hill, but the guide assumes the sophomore starts against North Alabama in Week 1. He appeared in five games in 2025 and played extensively in the last two, going 27-of-46 (58.7%) for 332 yards and two touchdowns with 41 rushing yards and a rushing score. The left-hander showed pocket-passing touch in limited work; whether his upside arrives is left open. *(p. 287)*
 
 ### How does the coaching staff replace all the production at the skill positions?
 
-As is usually the case when a coaching staff gets fired, there was an exodus of production from Fayetteville this offseason. The Razorbacks lost their leading rusher and top three receivers. At running back, Braylen Russell (55 attempts, 291 yards) is the lead returnee. CJ Brown (28 receptions, 319 yards) is the top returning receiver. Sutton Smith followed Silverfield from Memphis, and they nabbed Jasper Parker from Michigan to fill out the running back rotation. Wide receiver Jamari Hawkins (38 receptions, 623 yards) transfers in from Memphis as well. It’s unknown how the pecking order will shake out, but Arkansas will be relying on a lot of new faces at the skill positions this season.
+As usually follows a firing, production drained out of Fayetteville. Arkansas lost its leading rusher and top three receivers. Braylen Russell (55 carries, 291 yards) is the top returning back and CJ Brown (28 receptions, 319 yards) the top returning receiver. Sutton Smith followed Silverfield from Memphis, Jasper Parker arrived from Michigan, and Memphis receiver Jamari Hawkins (38 receptions, 623 yards) transferred in. The pecking order is unknown and the guide expects heavy reliance on new faces. *(p. 287)*
 
 ### How much can this defense improve?
 
-The 2025 season was ugly for this unit. Arkansas gave up 33.8 points per game, 6.3 yards per play and 4.7 yards per carry. The Razorbacks were 134th in adjusted opponent EPA per play and 120th in defensive success rate. There is plenty of hope this group has a better season in it this time around. Defensive end Quincy Rhodes (44 tackles, 8 sacks) elected to return. With him are a litany of transfers, including a nearly rebuilt linebacker group. One of the big wins in the portal was Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). Rhodes and Johnson are strong cornerstones for this defense. It’s likely this group won’t be among the best in the country, but it has the pieces to creep back toward average under new defensive coordinator Rob Roberts.
+2025 was ugly: 33.8 points allowed per game, 6.3 yards per play, 4.7 yards per carry, 134th in adjusted opponent EPA per play and 120th in defensive success rate. Defensive end Quincy Rhodes (44 tackles, 8 sacks) returned, joined by a wave of transfers including an almost rebuilt linebacker group and Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). The guide's measured conclusion is that this will not be among the nation's best units but has the pieces to climb back toward average under new coordinator Rob Roberts. *(p. 287)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -345,6 +320,8 @@ No source conflict identified for this team.
 | 6, 10, 25, 36, 41, 46, 58, 81, 223, 308, 312, 321 | Other pages naming this team |
 
 This team is named in **26 sentences across 14 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 10, 25, 36, 41, 46, 58, 81, 223, 308, 312, 321.
 
 ## 29. Cross-Links
 

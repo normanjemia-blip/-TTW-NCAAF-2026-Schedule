@@ -77,6 +77,24 @@ def load(name):
         return json.load(fh)
 
 
+def load_paraphrases():
+    """TTW-authored reference notes, one file per batch, merged on load.
+
+    A team present here is rendered from notes written in TTW's own words. A
+    team absent from here still renders from guide prose, so a part-finished
+    Phase 3A leaves a coherent database rather than a broken one.
+    """
+    store = {}
+    folder = "_source/paraphrase"
+    if not os.path.isdir(folder):
+        return store
+    for name in sorted(os.listdir(folder)):
+        if name.endswith(".json"):
+            with open(os.path.join(folder, name)) as fh:
+                store.update(json.load(fh))
+    return store
+
+
 def slug(name):
     return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
 
@@ -111,6 +129,23 @@ class TeamFileBuilder:
             own += [(s, detail["pages"][1]) for s in sentences(q["answer"])]
         off = [(m["sentence"], m["page"]) for m in mentions["off_page"]]
         return own, off
+
+    def notes_for(self, team):
+        return self.d["paraphrases"].get(team["team"])
+
+    def themed_notes(self, team, key):
+        """Theme lines drawn from TTW's paraphrase notes rather than guide prose."""
+        notes = self.notes_for(team)
+        if not notes:
+            return None
+        rows = []
+        for item in notes.get("outlook", []):
+            if key in item.get("t", []):
+                rows.append(f"- {item['n']} *(p. {item['p']})*")
+        for item in notes.get("questions", []):
+            if key in item.get("t", []):
+                rows.append(f"- **{item['q']}** {item['n']} *(p. {item['p']})*")
+        return rows
 
     def themed(self, own, off, key, own_limit=12, off_limit=6):
         """Theme evidence, kept split by where in the guide it came from.
@@ -166,22 +201,22 @@ class TeamFileBuilder:
         S["Coaching Continuity / Changes"] = self.continuity(team, own, off)
         S["Quarterback Situation"] = self.quarterback(team, detail, own, off)
         S["Returning Production"] = self.returning(detail, left)
-        S["Transfer Portal"] = bullets(self.themed(own, off, "portal"))
-        S["Recruiting / Roster Notes"] = bullets(self.themed(own, off, "recruiting"))
-        S["Offensive Identity"] = bullets(self.themed(own, off, "offense"))
-        S["Defensive Identity"] = bullets(self.themed(own, off, "defense"))
+        S["Transfer Portal"] = self.theme_section(team, own, off, "portal")
+        S["Recruiting / Roster Notes"] = self.theme_section(team, own, off, "recruiting")
+        S["Offensive Identity"] = self.theme_section(team, own, off, "offense")
+        S["Defensive Identity"] = self.theme_section(team, own, off, "defense")
         S["Key Strengths"] = self.extremes(detail, right, best=True)
         S["Key Weaknesses"] = self.extremes(detail, right, best=False)
         S["Schedule Overview"] = self.schedule(detail, ref, left)
-        S["Difficult Stretches / Trap Spots"] = bullets(self.themed(own, off, "trap"))
+        S["Difficult Stretches / Trap Spots"] = self.theme_section(team, own, off, "trap")
         S["Win Total Discussion"] = self.win_total(team, detail, ref, left)
         S["Futures / Conference / Playoff Discussion"] = self.futures(team, detail, right)
         S["Betting Notes / Best Bets"] = self.best_bets(team, own, off)
-        S["Historical / Situational Trends"] = bullets(self.themed(own, off, "historical"))
+        S["Historical / Situational Trends"] = self.theme_section(team, own, off, "historical")
         S["Important Statistics"] = self.statistics(detail, right)
         S["Bull Case"] = self.case(team, detail, ref, own, off, bull=True)
         S["Bear Case"] = self.case(team, detail, ref, own, off, bull=False)
-        S["Open Questions / Risks"] = self.questions(detail, right)
+        S["Open Questions / Risks"] = self.questions(team, detail, right)
         S["Source Conflicts"] = self.conflicts(team, detail)
         S["Relevant Page References"] = self.pages(team, detail, ref)
         S["Cross-Links"] = self.links(team)
@@ -197,6 +232,38 @@ class TeamFileBuilder:
             lines.append(f"\n## {i}. {heading}\n")
             lines.append(S[heading])
         return "\n".join(lines) + "\n"
+
+    def elsewhere_pages(self, team, off, key):
+        """Pages outside this team's spread that discuss it on a given theme.
+
+        Once a file is paraphrased it no longer reproduces those sentences, so
+        the pages are cited instead. That keeps the provenance a reader needs
+        to go and check the guide, without carrying its prose.
+        """
+        pattern = THEMES[key]
+        pages = sorted({page for sentence, page in off
+                        if re.search(pattern, sentence, re.I)})
+        return pages
+
+    def theme_section(self, team, own, off, key):
+        notes = self.themed_notes(team, key)
+        if notes is None:
+            return bullets(self.themed(own, off, key))
+        parts = list(notes)
+        pages = self.elsewhere_pages(team, off, key)
+        if not parts:
+            # No note carries this theme, so the pointer must also cover the
+            # team's own spread — otherwise a topic the guide does address
+            # would silently read as "Not addressed in guide."
+            pages = sorted(set(pages) | set(self.elsewhere_pages(team, own, key)))
+        if pages:
+            parts.append(
+                f"\nReferenced in the guide on "
+                f"**pp. {', '.join(str(p) for p in pages)}** — those passages are "
+                f"not reproduced here; see the pages for VSiN's own wording.")
+        if not parts:
+            return NOT_ADDRESSED
+        return "\n".join(parts)
 
     def snapshot(self, team, detail, ref, left, right):
         rows = [
@@ -220,10 +287,20 @@ class TeamFileBuilder:
         ]
         table = "| | |\n| --- | --- |\n" + "\n".join(
             f"| **{k}** | {v} |" for k, v in rows)
-        outlook = detail["text"].strip()
-        if outlook:
-            table += (f"\n\n### Season outlook as written in the guide (p. {left})\n\n"
-                      f"{outlook}\n")
+        notes = self.notes_for(team)
+        if notes and notes.get("outlook"):
+            table += (f"\n\n### Season outlook — VSiN's analysis in reference form "
+                      f"(p. {left})\n\n")
+            table += "\n".join(f"- {i['n']} *(p. {i['p']})*"
+                                for i in notes["outlook"])
+            table += ("\n\n*TTW reference notes summarising VSiN's analysis. "
+                      "GUIDE CONTENT — facts, conclusions and reasoning are the "
+                      "guide's; the wording is TTW's.*\n")
+        else:
+            outlook = detail["text"].strip()
+            if outlook:
+                table += (f"\n\n### Season outlook as written in the guide (p. {left})\n\n"
+                          f"{outlook}\n")
         return table
 
     def conference(self, team, ref):
@@ -299,8 +376,20 @@ class TeamFileBuilder:
                 f"defensive coordinator 3, starting quarterback 4, plus points for "
                 f"returning starters. A returning transfer quarterback counts as a "
                 f"**new** quarterback in this system *(p. 41)*.\n")
-        themed = self.themed(own, off, "coaching")
-        parts.append(bullets(themed) if themed else NOT_ADDRESSED)
+        notes = self.themed_notes(team, "coaching")
+        if notes is not None:
+            themed = list(notes)
+            pages = self.elsewhere_pages(team, off, "coaching")
+            if pages:
+                themed.append(
+                    f"\nAlso referenced on **pp. {', '.join(str(p) for p in pages)}** "
+                    f"— not reproduced here.")
+        else:
+            themed = self.themed(own, off, "coaching")
+        if themed:
+            parts.append(bullets(themed))
+        elif not row:
+            parts.append(NOT_ADDRESSED)
         return "\n".join(parts)
 
     def coordinators(self, team):
@@ -336,8 +425,16 @@ class TeamFileBuilder:
                 f"{'yes' if flag else 'no'} — the guide marks returning "
                 f"quarterbacks with an asterisk on the returning-starters line "
                 f"*(p. {detail['pages'][0]})*.\n")
-        themed = self.themed(own, off, "quarterback")
-        parts.append(bullets(themed))
+        notes = self.themed_notes(team, "quarterback")
+        if notes is not None:
+            pages = self.elsewhere_pages(team, off, "quarterback")
+            if pages:
+                notes = list(notes) + [
+                    f"\nAlso referenced on **pp. {', '.join(str(p) for p in pages)}** "
+                    f"— not reproduced here."]
+            parts.append(bullets(notes))
+        else:
+            parts.append(bullets(self.themed(own, off, "quarterback")))
         return "\n".join(parts)
 
     def returning(self, detail, left):
@@ -464,7 +561,16 @@ class TeamFileBuilder:
                 parts.append(f"| {b['contributor']} | {b['pick']} | {b['page']} |")
             parts.append("\nWhere contributors disagree, every position is kept "
                          "separately and none is reconciled.\n")
-        themed = self.themed(own, off, "betting")
+        notes = self.themed_notes(team, "betting")
+        if notes is not None:
+            pages = self.elsewhere_pages(team, off, "betting")
+            themed = list(notes)
+            if pages:
+                themed.append(
+                    f"\nAlso referenced on **pp. {', '.join(str(p) for p in pages)}** "
+                    f"— not reproduced here.")
+        else:
+            themed = self.themed(own, off, "betting")
         parts.append(bullets(themed) if themed else
                      (NOT_ADDRESSED if not rows else ""))
         return "\n".join(p for p in parts if p)
@@ -491,7 +597,13 @@ class TeamFileBuilder:
     def case(self, team, detail, ref, own, off, bull=True):
         pattern = POSITIVE if bull else NEGATIVE
         rows, seen = [], set()
-        for sentence, page in own + off:
+        notes = self.notes_for(team)
+        if notes:
+            pool = [(i["n"], i["p"]) for i in notes.get("outlook", [])]
+            pool += [(i["n"], i["p"]) for i in notes.get("questions", [])]
+        else:
+            pool = own + off
+        for sentence, page in pool:
             if re.search(pattern, sentence, re.I) and sentence not in seen:
                 seen.add(sentence)
                 rows.append(cite(sentence, page))
@@ -520,7 +632,16 @@ class TeamFileBuilder:
                 "selection of which ones argue this side is PERSONAL INFERENCE.*")
         return "\n".join(body) + note
 
-    def questions(self, detail, right):
+    def questions(self, team, detail, right):
+        notes = self.notes_for(team)
+        if notes and notes.get("questions"):
+            out = [f"VSiN poses *Three Burning Questions for the 2026 Season* "
+                   f"*(p. {right})*. Its analysis, in reference form:\n"]
+            for item in notes["questions"]:
+                out.append(f"### {item['q']}\n\n{item['n']} *(p. {item['p']})*\n")
+            out.append("*TTW reference notes. The questions are VSiN's; the "
+                       "answers summarise VSiN's reasoning in TTW's wording.*")
+            return "\n".join(out)
         if not detail["questions"]:
             return NOT_ADDRESSED
         out = [f"The guide's *Three Burning Questions for the 2026 Season* "
@@ -560,9 +681,13 @@ class TeamFileBuilder:
         if others:
             rows.append(f"| {', '.join(str(p) for p in others)} | "
                         f"Other pages naming this team |")
-        return ("| Pages | Content |\n| --- | --- |\n" + "\n".join(rows) +
-                f"\n\nThis team is named in **{mentions['total']} sentences across "
-                f"{len(mentions['pages'])} pages** of the guide.")
+        table = ("| Pages | Content |\n| --- | --- |\n" + "\n".join(rows) +
+                 f"\n\nThis team is named in **{mentions['total']} sentences across "
+                 f"{len(mentions['pages'])} pages** of the guide.")
+        if others:
+            table += ("\n\nEvery page naming this team outside its own spread: "
+                      f"pp. {', '.join(str(p) for p in others)}.")
+        return table
 
     def links(self, team):
         conf = slug(team["conference"])
@@ -662,6 +787,7 @@ def main():
         "best_bets": load("phase2_best_bets"),
         "qb_top15": load("quarterbacks_top15"), "top50": load("youmans_top50"),
         "prediction_hits": prediction_hits, "resolve": resolve,
+        "paraphrases": load_paraphrases(),
         "stability": {r["team"]: r for r in load("stability_scores") if r.get("team")},
         "stability_conflicts": load("stability_conflicts"),
         "global_conflicts": global_conflicts,

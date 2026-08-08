@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 7.7–4.3 overall, 5.0–4.0 in conference |
 | **Schedule strength** | 48.36 (#26 toughest of 138) |
 
-### Season outlook as written in the guide (p. 308)
+### Season outlook — VSiN's analysis in reference form (p. 308)
 
-Two years ago, Josh Heupel and the Volunteers were mercilessly bounced by Ohio State in the College Football Playoff. It was clear Tennessee needed to build to get to the level of national contention, but it was a high point in Heupel’s tenure. The program has not experienced any true lows in the Heupel era, and this year is shaping up to be a perfectly adequate season once again. Tennessee will be one of the better offenses in the SEC, and the country, once again. The question of who will start at quarterback lingers, but this system is extremely user- friendly. Could the Vols surprise some folks and find themselves in the mix for a spot in the SEC title game? Unlikely, but if the true freshman quarterback hits, this could be a sneaky team with higher upside than most expect. Over 7.5 Heupel has been remarkably consistent in his time as head coach of Tennessee. He’s won at least eight games in four straight years, and the lone season he failed to reach that mark, the Volunteers still went 7-5 in the regular season. The offensive talent this season is immense, so even with the questions at quarterback there seems to be a firm floor. Tennessee gets some high- probability wins on the schedule in the shape of Furman, Kennesaw State and Arkansas. They get to go to a rebuilding Vanderbilt team in conference play as well. The Vols will need to get some coinflips — at Georgia Tech, home dates against Auburn and Kentucky — to go their way, but they are more than capable. It will be a sweat, but eight wins is in the cards again for Tennessee.
+- The guide's frame is steadiness rather than peaks: the 2024 playoff exit to Ohio State was a high point, the Heupel era has had no true lows, and 2026 shapes as another perfectly adequate season. *(p. 308)*
+- Tennessee is expected to field one of the better offenses in the SEC and the country again. Quarterback is unsettled, but the guide stresses the system is user-friendly. *(p. 308)*
+- On upside the guide is deliberately measured: an SEC title-game push is called unlikely, but if the true freshman quarterback hits it rates Tennessee a sneaky team with more upside than most expect. *(p. 308)*
+- Recommendation is Over 7.5 wins, resting on Heupel's consistency — at least eight wins in four straight years, and 7-5 in the regular season in the one year he missed that mark — plus immense offensive talent giving a firm floor despite the quarterback question. *(p. 308)*
+- Schedule offers high-probability wins against Furman, Kennesaw State and Arkansas plus a trip to a rebuilding Vanderbilt. The guide identifies the coin flips Tennessee must win — at Georgia Tech, home against Auburn and Kentucky — and calls eight wins likely but a sweat. *(p. 308)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,17 +84,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Over 7.5 Heupel has been remarkably consistent in his time as head coach of Tennessee. *(p. 308)*
-- Jim Knowles was hired as well to lead this unit, so it does have an elite play-caller at the controls. *(p. 309)*
+- The guide's frame is steadiness rather than peaks: the 2024 playoff exit to Ohio State was a high point, the Heupel era has had no true lows, and 2026 shapes as another perfectly adequate season. *(p. 308)*
+- Recommendation is Over 7.5 wins, resting on Heupel's consistency — at least eight wins in four straight years, and 7-5 in the regular season in the one year he missed that mark — plus immense offensive talent giving a firm floor despite the quarterback question. *(p. 308)*
+- **What becomes of the defense?** The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TENNESSEE Volunteers coach Josh Heupel finds ways to create offense and he needs to develop highly-touted freshman quarterback Faizon Brandon in a hurry. *(p. 19)*
-- He’ll have a new group of skill players, but the 36-year-old Lamb was a QB at Tennessee Tech and then the OC there as a rapid riser in the coaching ranks. *(p. 72)*
-- I felt like the Falcons were one of the more interesting teams that I wrote up last season because they hired former Ohio State standout and Tennessee State miracle worker Eddie George as the head coach. *(p. 220)*
-- Linebackers coach Joe Bowden, who played with George as a member of the Tennessee Titans, is now the DC of a group that allowed just 24.3 PPG, but 5.6 YPP. *(p. 221)*
-- Keep in mind, when George took over at Tennessee State, he hadn’t really coached anywhere else. *(p. 221)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
+Also referenced on **pp. 19, 72, 220, 221, 327, 331** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -96,20 +96,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 308)*.
 
-- The question of who will start at quarterback lingers, but this system is extremely user- friendly. *(p. 308)*
-- Unlikely, but if the true freshman quarterback hits, this could be a sneaky team with higher upside than most expect. *(p. 308)*
-- The offensive talent this season is immense, so even with the questions at quarterback there seems to be a firm floor. *(p. 308)*
-- Heupel has had a new starting quarterback Week 1 of each season in his time at Knoxville. *(p. 309)*
-- This season will be no different, but the hope is that it will be the first of many seasons for quarterback Faizon Brandon. *(p. 309)*
-- The musical chairs at quarterback each season has not stalled an offensive system that seems to come with a high floor. *(p. 309)*
-- A true freshman starting at quarterback threatens to derail that streak, but the pieces on offense might be too good for that to happen. *(p. 309)*
+- Tennessee is expected to field one of the better offenses in the SEC and the country again. Quarterback is unsettled, but the guide stresses the system is user-friendly. *(p. 308)*
+- On upside the guide is deliberately measured: an SEC title-game push is called unlikely, but if the true freshman quarterback hits it rates Tennessee a sneaky team with more upside than most expect. *(p. 308)*
+- **Do the Volunteers finally have a long-term answer at quarterback?** Heupel has started a different quarterback in Week 1 of every season at Knoxville, and 2026 is no exception — but the hope is Faizon Brandon is the first of several years. A five-star and the third-ranked member of the 2026 class, Brandon threw one interception per 98 attempts in high school. The guide records that Heupel insists Brandon is in a genuine battle with redshirt freshman George McIntyre, while noting the expectation is Brandon takes over full-time after the Furman opener, in which both are likely to play. It anticipates freshman growing pains and frames the move as about the programme's future. *(p. 309)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TENNESSEE Volunteers coach Josh Heupel finds ways to create offense and he needs to develop highly-touted freshman quarterback Faizon Brandon in a hurry. *(p. 19)*
-- Tayven Jackson originally went to Tennessee and got some starts for Indiana and also UCF, so he’s the clubhouse leader to be the QB. *(p. 63)*
-- He’ll have a new group of skill players, but the 36-year-old Lamb was a QB at Tennessee Tech and then the OC there as a rapid riser in the coaching ranks. *(p. 72)*
-- Kalieb Osborne is one of the Rockets that came with Candle and he’ll battle with Jake Merklinger from Tennessee and a couple of in-house options at QB. *(p. 211)*
+Also referenced on **pp. 19, 63, 72, 211** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -125,56 +116,28 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
+- **What becomes of the defense?** The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). *(p. 153)*
-- Lindsey should continue to progress, but it is all on the offensive line, which returns three starters and adds transfer right tackle Bennett Warren from Tennessee. *(p. 163)*
-- After all the drama surrounding his transfer from Tennessee, Iamaleava had a disappointing inaugural campaign in Westwood, throwing for just 1,929 yards in 11 starts. *(p. 179)*
-- Some of the expected starters were with George at Tennessee State two seasons ago, but either didn’t start at BG or had transferred elsewhere. *(p. 221)*
+Referenced in the guide on **pp. 10, 153, 163, 179, 221** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Unlikely, but if the true freshman quarterback hits, this could be a sneaky team with higher upside than most expect. *(p. 308)*
-- The true freshman was a five-star prospect and third-best member of the 2026 class. *(p. 309)*
-- It should be noted that Heupel swears up and down that Brandon is locked in a battle with redshirt freshman George McIntyre for the job. *(p. 309)*
-- A true freshman will likely have some growing pains, but this is about the future of the program. *(p. 309)*
-- A true freshman starting at quarterback threatens to derail that streak, but the pieces on offense might be too good for that to happen. *(p. 309)*
+- **Do the Volunteers finally have a long-term answer at quarterback?** Heupel has started a different quarterback in Week 1 of every season at Knoxville, and 2026 is no exception — but the hope is Faizon Brandon is the first of several years. A five-star and the third-ranked member of the 2026 class, Brandon threw one interception per 98 attempts in high school. The guide records that Heupel insists Brandon is in a genuine battle with redshirt freshman George McIntyre, while noting the expectation is Brandon takes over full-time after the Furman opener, in which both are likely to play. It anticipates freshman growing pains and frames the move as about the programme's future. *(p. 309)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- TENNESSEE Volunteers coach Josh Heupel finds ways to create offense and he needs to develop highly-touted freshman quarterback Faizon Brandon in a hurry. *(p. 19)*
+Referenced in the guide on **pp. 10, 19** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Tennessee will be one of the better offenses in the SEC, and the country, once again. *(p. 308)*
-- The offensive talent this season is immense, so even with the questions at quarterback there seems to be a firm floor. *(p. 308)*
-- The musical chairs at quarterback each season has not stalled an offensive system that seems to come with a high floor. *(p. 309)*
-- A true freshman starting at quarterback threatens to derail that streak, but the pieces on offense might be too good for that to happen. *(p. 309)*
-- Whoever wins the job will line up behind an offensive line that lost just one starter and will be in contention for the Joe Moore Award. *(p. 309)*
-- Outside of leading receiver Chris Brazzell, three of the top four receivers from last season are back. *(p. 309)*
+- Tennessee is expected to field one of the better offenses in the SEC and the country again. Quarterback is unsettled, but the guide stresses the system is user-friendly. *(p. 308)*
+- **Can the offense continue its scoring run?** Tennessee has averaged at least 31.8 points per game every season under Heupel, and annual quarterback churn has not disrupted a system with a high floor. A true freshman starter threatens the streak, but the guide judges the surrounding pieces good enough to protect it: an offensive line that lost one starter and is a Joe Moore Award contender, three of the top four receivers back outside leading receiver Chris Brazzell, and leading rusher DeSean Bishop returning. With Heupel rated an elite play-caller, it expects another 30-point season. *(p. 309)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- TENNESSEE Volunteers coach Josh Heupel finds ways to create offense and he needs to develop highly-touted freshman quarterback Faizon Brandon in a hurry. *(p. 19)*
-- There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). *(p. 153)*
-- Lindsey should continue to progress, but it is all on the offensive line, which returns three starters and adds transfer right tackle Bennett Warren from Tennessee. *(p. 163)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
+Referenced in the guide on **pp. 10, 19, 153, 163, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The defense took some big hits in the offseason. *(p. 309)*
-- Tennessee’s defensive line must be completely rebuilt after all four starters and three rotation linemen departed in some form or fashion. *(p. 309)*
-- In the secondary, the Volunteers lost a pair of starters, one of which was an NFL draft selection. *(p. 309)*
-- Linebacker is a position of strength on paper, with the return of leading tacklers Edwin Spillman and Arion Carter. *(p. 309)*
-- Plus, they added Amare Campbell from Penn State, the Nittany Lions’ leading tackler in 2025. *(p. 309)*
+- **What becomes of the defense?** The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Linebackers coach Joe Bowden, who played with George as a member of the Tennessee Titans, is now the DC of a group that allowed just 24.3 PPG, but 5.6 YPP. *(p. 221)*
+Referenced in the guide on **pp. 221** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -226,9 +189,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The schedule is favorable, considering the Tigers will avoid Georgia, so they’ll need to take advantage of winnable early conference matchups before a gauntlet in November (Alabama, Texas, Tennessee). *(p. 8)*
+Referenced in the guide on **pp. 8** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -249,24 +210,17 @@ Prices printed on the team page *(p. 309)*:
 
 ## 21. Betting Notes / Best Bets
 
+- On upside the guide is deliberately measured: an SEC title-game push is called unlikely, but if the true freshman quarterback hits it rates Tennessee a sneaky team with more upside than most expect. *(p. 308)*
+- Recommendation is Over 7.5 wins, resting on Heupel's consistency — at least eight wins in four straight years, and 7-5 in the regular season in the one year he missed that mark — plus immense offensive talent giving a firm floor despite the quarterback question. *(p. 308)*
+- Schedule offers high-probability wins against Furman, Kennesaw State and Arkansas plus a trip to a rebuilding Vanderbilt. The guide identifies the coin flips Tennessee must win — at Georgia Tech, home against Auburn and Kentucky — and calls eight wins likely but a sweat. *(p. 308)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- Miss State is a 29.5-point favorite over ULM in Week 1 and should romp Tennessee Tech when they play in November. *(p. 298)*
+Also referenced on **pp. 10, 298** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Since Heupel took the job, Tennessee has averaged at least 31.8 points per game in every season. *(p. 309)*
-- A true freshman starting at quarterback threatens to derail that streak, but the pieces on offense might be too good for that to happen. *(p. 309)*
-- Outside of leading receiver Chris Brazzell, three of the top four receivers from last season are back. *(p. 309)*
-- Plus, they added Amare Campbell from Penn State, the Nittany Lions’ leading tackler in 2025. *(p. 309)*
+- The guide's frame is steadiness rather than peaks: the 2024 playoff exit to Ohio State was a high point, the Heupel era has had no true lows, and 2026 shapes as another perfectly adequate season. *(p. 308)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Georgia Tech should enter the season believing that they can be in contention for the College Football Playoff, since the ACC is the weakest of the Power Four conferences and the schedule, with Tennessee at home early in the season, gives them a chance to be in that discussion as the first CFP rankings come out. *(p. 91)*
-- I felt like the Falcons were one of the more interesting teams that I wrote up last season because they hired former Ohio State standout and Tennessee State miracle worker Eddie George as the head coach. *(p. 220)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
+Referenced in the guide on **pp. 91, 220, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -313,47 +267,37 @@ As printed on p. 309. Each category carries a value and a national rank.
 
 - Makinen projects **7.7 wins** against a posted total of 7.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- The program has not experienced any true lows in the Heupel era, and this year is shaping up to be a perfectly adequate season once again. *(p. 308)*
-- Unlikely, but if the true freshman quarterback hits, this could be a sneaky team with higher upside than most expect. *(p. 308)*
-- The true freshman was a five-star prospect and third-best member of the 2026 class. *(p. 309)*
-- Heupel is an elite play-caller, and he’s got a deep cupboard of talent. *(p. 309)*
-- Linebacker is a position of strength on paper, with the return of leading tacklers Edwin Spillman and Arion Carter. *(p. 309)*
-- Jim Knowles was hired as well to lead this unit, so it does have an elite play-caller at the controls. *(p. 309)*
-- Lindsey should continue to progress, but it is all on the offensive line, which returns three starters and adds transfer right tackle Bennett Warren from Tennessee. *(p. 163)*
+- On upside the guide is deliberately measured: an SEC title-game push is called unlikely, but if the true freshman quarterback hits it rates Tennessee a sneaky team with more upside than most expect. *(p. 308)*
+- Tennessee has averaged at least 31.8 points per game every season under Heupel, and annual quarterback churn has not disrupted a system with a high floor. A true freshman starter threatens the streak, but the guide judges the surrounding pieces good enough to protect it: an offensive line that lost one starter and is a Joe Moore Award contender, three of the top four receivers back outside leading receiver Chris Brazzell, and leading rusher DeSean Bishop returning. With Heupel rated an elite play-caller, it expects another 30-point season. *(p. 309)*
+- The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The question of who will start at quarterback lingers, but this system is extremely user- friendly. *(p. 308)*
-- The offensive talent this season is immense, so even with the questions at quarterback there seems to be a firm floor. *(p. 308)*
-- Whoever wins the job will line up behind an offensive line that lost just one starter and will be in contention for the Joe Moore Award. *(p. 309)*
-- In the secondary, the Volunteers lost a pair of starters, one of which was an NFL draft selection. *(p. 309)*
-- But this is a team with some big questions up front and behind. *(p. 309)*
-- Games in Baton Rouge, Tuscaloosa and Norman will be tough, as will hosting Texas and Tennessee. *(p. 15)*
-- Georgia Tech should enter the season believing that they can be in contention for the College Football Playoff, since the ACC is the weakest of the Power Four conferences and the schedule, with Tennessee at home early in the season, gives them a chance to be in that discussion as the first CFP rankings come out. *(p. 91)*
-- The Tigers must go to Tennessee, Georgia, Ole Miss and Alabama. *(p. 289)*
-- Miss State is a 29.5-point favorite over ULM in Week 1 and should romp Tennessee Tech when they play in November. *(p. 298)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
+- Recommendation is Over 7.5 wins, resting on Heupel's consistency — at least eight wins in four straight years, and 7-5 in the regular season in the one year he missed that mark — plus immense offensive talent giving a firm floor despite the quarterback question. *(p. 308)*
+- Tennessee has averaged at least 31.8 points per game every season under Heupel, and annual quarterback churn has not disrupted a system with a high floor. A true freshman starter threatens the streak, but the guide judges the surrounding pieces good enough to protect it: an offensive line that lost one starter and is a Joe Moore Award contender, three of the top four receivers back outside leading receiver Chris Brazzell, and leading rusher DeSean Bishop returning. With Heupel rated an elite play-caller, it expects another 30-point season. *(p. 309)*
+- The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 309)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 309)*. Its analysis, in reference form:
 
 ### Do the Volunteers finally have a long-term answer at quarterback?
 
-Heupel has had a new starting quarterback Week 1 of each season in his time at Knoxville. This season will be no different, but the hope is that it will be the first of many seasons for quarterback Faizon Brandon. The true freshman was a five-star prospect and third-best member of the 2026 class. In high school, Brandon took care of the football, throwing an interception once in every 98 attempts. It should be noted that Heupel swears up and down that Brandon is locked in a battle with redshirt freshman George McIntyre for the job. But every expectation is that Brandon will be the full-time starter once Tennessee emerges from the game against Fuman in Week 1 — in which both will more than likely see time. A true freshman will likely have some growing pains, but this is about the future of the program.
+Heupel has started a different quarterback in Week 1 of every season at Knoxville, and 2026 is no exception — but the hope is Faizon Brandon is the first of several years. A five-star and the third-ranked member of the 2026 class, Brandon threw one interception per 98 attempts in high school. The guide records that Heupel insists Brandon is in a genuine battle with redshirt freshman George McIntyre, while noting the expectation is Brandon takes over full-time after the Furman opener, in which both are likely to play. It anticipates freshman growing pains and frames the move as about the programme's future. *(p. 309)*
 
 ### Can the offense continue its scoring run?
 
-Since Heupel took the job, Tennessee has averaged at least 31.8 points per game in every season. The musical chairs at quarterback each season has not stalled an offensive system that seems to come with a high floor. A true freshman starting at quarterback threatens to derail that streak, but the pieces on offense might be too good for that to happen. Whoever wins the job will line up behind an offensive line that lost just one starter and will be in contention for the Joe Moore Award. Outside of leading receiver Chris Brazzell, three of the top four receivers from last season are back. So too is leading rusher DeSean Bishop. Heupel is an elite play-caller, and he’s got a deep cupboard of talent. This team is more than capable of surpassing 30+ points per game again.
+Tennessee has averaged at least 31.8 points per game every season under Heupel, and annual quarterback churn has not disrupted a system with a high floor. A true freshman starter threatens the streak, but the guide judges the surrounding pieces good enough to protect it: an offensive line that lost one starter and is a Joe Moore Award contender, three of the top four receivers back outside leading receiver Chris Brazzell, and leading rusher DeSean Bishop returning. With Heupel rated an elite play-caller, it expects another 30-point season. *(p. 309)*
 
 ### What becomes of the defense?
 
-The defense took some big hits in the offseason. Tennessee’s defensive line must be completely rebuilt after all four starters and three rotation linemen departed in some form or fashion. In the secondary, the Volunteers lost a pair of starters, one of which was an NFL draft selection. Linebacker is a position of strength on paper, with the return of leading tacklers Edwin Spillman and Arion Carter. Plus, they added Amare Campbell from Penn State, the Nittany Lions’ leading tackler in 2025. Jim Knowles was hired as well to lead this unit, so it does have an elite play-caller at the controls. But this is a team with some big questions up front and behind.
+The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -371,6 +315,8 @@ No source conflict identified for this team.
 | 8, 10, 15, 19, 63, 72, 91, 146, 153, 163, 179, 211, 220, 221, 280, 289, 292, 296, 298, 310, 327, 331 | Other pages naming this team |
 
 This team is named in **35 sentences across 24 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 10, 15, 19, 63, 72, 91, 146, 153, 163, 179, 211, 220, 221, 280, 289, 292, 296, 298, 310, 327, 331.
 
 ## 29. Cross-Links
 

@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 4.3–7.7 overall, 2.1–6.9 in conference |
 | **Schedule strength** | 51.68 (#4 toughest of 138) |
 
-### Season outlook as written in the guide (p. 298)
+### Season outlook — VSiN's analysis in reference form (p. 298)
 
-Mississippi State got off to a promising 4-0 SU and ATS start to the season in 2025, but once the Bulldogs made it to SEC play, the wheels came off. Mississippi State ended the season on a 1-7 SU/4-4 ATS slide, losing the last three contests by a combined 61 points. Head coach Jeff Lebby enters a new era in his tenure at Starkville. Former four-star prospect KaMario Taylor is taking over at quarterback. Eleven starters are back between offense and defense, and Lebby is looking for just his second SEC win as head coach of the program despite entering his third year. It would seem this is a make-or- break season for the offensive minded coach. Over 4.5 Can Mississippi State win multiple SEC games this season? If it can, then five wins is something that is likely to occur for the Bulldogs. Miss State is a 29.5-point favorite over ULM in Week 1 and should romp Tennessee Tech when they play in November. Can the Bulldogs steal a non- conference road game against Minnesota? Can it beat two of its SEC opponents? The bet here says Mississippi State can do just that, or some version of it. Taylor truly is an electric threat on the ground. Lebby should be able to craft an offense that leans on that explosiveness at quarterback. The defense needs to be better than the 30.4 points per game it allowed, and Lebby addressed that by bringing back Zach Arnett as defensive coordinator. It’s a low bar, but achievable.
+- Mississippi State opened 2025 at 4-0 both straight up and against the spread, then collapsed once SEC play began, finishing 1-7 SU and 4-4 ATS and losing its final three games by a combined 61 points. *(p. 298)*
+- Former four-star KaMario Taylor takes over at quarterback, with eleven starters back across offense and defense. *(p. 298)*
+- Jeff Lebby enters year three still seeking a second SEC win as head coach, which the guide frames as making this a make-or-break season. *(p. 298)*
+- Recommendation is Over 4.5 wins, and the guide lays out the arithmetic it depends on: a 29.5-point favorite over ULM in Week 1, an expected rout of Tennessee Tech in November, and then stealing a non-conference road game at Minnesota or beating two SEC opponents. *(p. 298)*
+- The bull case rests on Taylor's running ability and Lebby building an offense around that explosiveness; the defense must improve on 30.4 points allowed per game, which Lebby addressed by bringing back Zach Arnett as coordinator. The guide calls the bar low but achievable. *(p. 298)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,14 +84,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Head coach Jeff Lebby enters a new era in his tenure at Starkville. *(p. 298)*
-- Eleven starters are back between offense and defense, and Lebby is looking for just his second SEC win as head coach of the program despite entering his third year. *(p. 298)*
-- It would seem this is a make-or- break season for the offensive minded coach. *(p. 298)*
-- The defense needs to be better than the 30.4 points per game it allowed, and Lebby addressed that by bringing back Zach Arnett as defensive coordinator. *(p. 298)*
+- Jeff Lebby enters year three still seeking a second SEC win as head coach, which the guide frames as making this a make-or-break season. *(p. 298)*
+- The bull case rests on Taylor's running ability and Lebby building an offense around that explosiveness; the defense must improve on 30.4 points allowed per game, which Lebby addressed by bringing back Zach Arnett as coordinator. The guide calls the bar low but achievable. *(p. 298)*
+- **Can Lebby's year-to-year improvement finally translate to the SEC?** Mississippi State went from two wins to five, but conference results have not followed: Lebby is 1-15 straight up in the SEC. The guide is careful to note he is 9-7 against the spread in those games, so he beats market expectations even while losing. It is blunt that he needs actual wins to keep his job. The schedule misses Georgia and Texas A&M but includes Alabama, LSU, Oklahoma, Texas and Ole Miss, so any SEC wins would come as major upsets. *(p. 299)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- At USF, most of those players are quarterbacks, as Hartline and OC Tim Beck got Michael Van Buren by way of Mississippi State and LSU and Luke Kromenhoek by way of Florida State and Mississippi State. *(p. 67)*
+Also referenced on **pp. 67** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -93,12 +96,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 298)*.
 
-- Former four-star prospect KaMario Taylor is taking over at quarterback. *(p. 298)*
-- Lebby should be able to craft an offense that leans on that explosiveness at quarterback. *(p. 298)*
+- Former four-star KaMario Taylor takes over at quarterback, with eleven starters back across offense and defense. *(p. 298)*
+- **What does the KaMario Taylor era look like?** Hype has built for years and peaked late in 2025. Taylor appeared in several games and started the last two, completing 28 of 53 for 419 yards with a touchdown and an interception against Ole Miss and Wake Forest, while adding 264 rushing yards and three scores. The guide rates him a true dual threat with explosive running ability, a dimension Blake Shapen did not offer, and expects that to unlock more for Lebby's offense. *(p. 299)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- At USF, most of those players are quarterbacks, as Hartline and OC Tim Beck got Michael Van Buren by way of Mississippi State and LSU and Luke Kromenhoek by way of Florida State and Mississippi State. *(p. 67)*
+Also referenced on **pp. 67** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -115,32 +116,26 @@ The Stability Score table prints the same figure independently: **11 returning s
 ## 11. Transfer Portal
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Bobcats could be bad defensively, yet there is hope if a few key players — most notably senior end DonTerry Russell, a former Mississippi State transfer — step up to make an impact. *(p. 277)*
+Referenced in the guide on **pp. 277** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Former four-star prospect KaMario Taylor is taking over at quarterback. *(p. 298)*
+
+Referenced in the guide on **pp. 298** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Eleven starters are back between offense and defense, and Lebby is looking for just his second SEC win as head coach of the program despite entering his third year. *(p. 298)*
-- It would seem this is a make-or- break season for the offensive minded coach. *(p. 298)*
-- Lebby should be able to craft an offense that leans on that explosiveness at quarterback. *(p. 298)*
-- He dazzled on the ground, adding 264 yards in the starts and three rushing touchdowns. *(p. 299)*
-- Taylor gives this offense a dynamic it did not have last year, which could unlock a lot more for Lebby’s offense. *(p. 299)*
-- Mississippi State was a largely average rush offense in 2025. *(p. 299)*
-- Fluff Bothwell is back after rushing for 677 yards on 4.8 yards per carry. *(p. 299)*
+- Former four-star KaMario Taylor takes over at quarterback, with eleven starters back across offense and defense. *(p. 298)*
+- The bull case rests on Taylor's running ability and Lebby building an offense around that explosiveness; the defense must improve on 30.4 points allowed per game, which Lebby addressed by bringing back Zach Arnett as coordinator. The guide calls the bar low but achievable. *(p. 298)*
+- **What does the KaMario Taylor era look like?** Hype has built for years and peaked late in 2025. Taylor appeared in several games and started the last two, completing 28 of 53 for 419 yards with a touchdown and an interception against Ole Miss and Wake Forest, while adding 264 rushing yards and three scores. The guide rates him a true dual threat with explosive running ability, a dimension Blake Shapen did not offer, and expects that to unlock more for Lebby's offense. *(p. 299)*
+- **Can the running game be better this season?** The 2025 run game was average — 3.7 yards per carry, 158 yards per game. The guide expects improvement with Taylor, but stresses it does not rest on him alone: Fluff Bothwell returns after 677 yards at 4.8 per carry, and was far better early, with ten of his 17 explosive runs in the first five weeks at 5.9 yards per carry and 3.75 after contact. Paired with Taylor, the guide rates Bothwell a strong bet to reach 1,000 yards. *(p. 299)*
 
 ## 14. Defensive Identity
 
-- Eleven starters are back between offense and defense, and Lebby is looking for just his second SEC win as head coach of the program despite entering his third year. *(p. 298)*
-- The defense needs to be better than the 30.4 points per game it allowed, and Lebby addressed that by bringing back Zach Arnett as defensive coordinator. *(p. 298)*
+- Former four-star KaMario Taylor takes over at quarterback, with eleven starters back across offense and defense. *(p. 298)*
+- The bull case rests on Taylor's running ability and Lebby building an offense around that explosiveness; the defense must improve on 30.4 points allowed per game, which Lebby addressed by bringing back Zach Arnett as coordinator. The guide calls the bar low but achievable. *(p. 298)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Bobcats could be bad defensively, yet there is hope if a few key players — most notably senior end DonTerry Russell, a former Mississippi State transfer — step up to make an impact. *(p. 277)*
+Referenced in the guide on **pp. 277** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -206,21 +201,14 @@ Prices printed on the team page *(p. 299)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Mississippi State got off to a promising 4-0 SU and ATS start to the season in 2025, but once the Bulldogs made it to SEC play, the wheels came off. *(p. 298)*
-- Mississippi State ended the season on a 1-7 SU/4-4 ATS slide, losing the last three contests by a combined 61 points. *(p. 298)*
-- Miss State is a 29.5-point favorite over ULM in Week 1 and should romp Tennessee Tech when they play in November. *(p. 298)*
-- The bet here says Mississippi State can do just that, or some version of it. *(p. 298)*
-- With a deadly athlete like Taylor lining up with him, Bothwell could get back to that explosive style and could be a strong bet to become a 1,000-yard rusher for the Bulldogs. *(p. 299)*
-- Bettors should know that he is 9-7 ATS in those games, so he is at least beating market expectations. *(p. 299)*
+- Recommendation is Over 4.5 wins, and the guide lays out the arithmetic it depends on: a 29.5-point favorite over ULM in Week 1, an expected rout of Tennessee Tech in November, and then stealing a non-conference road game at Minnesota or beating two SEC opponents. *(p. 298)*
+- The bull case rests on Taylor's running ability and Lebby building an offense around that explosiveness; the defense must improve on 30.4 points allowed per game, which Lebby addressed by bringing back Zach Arnett as coordinator. The guide calls the bar low but achievable. *(p. 298)*
+- **Can Lebby's year-to-year improvement finally translate to the SEC?** Mississippi State went from two wins to five, but conference results have not followed: Lebby is 1-15 straight up in the SEC. The guide is careful to note he is 9-7 against the spread in those games, so he beats market expectations even while losing. It is blunt that he needs actual wins to keep his job. The schedule misses Georgia and Texas A&M but includes Alabama, LSU, Oklahoma, Texas and Ole Miss, so any SEC wins would come as major upsets. *(p. 299)*
 
 ## 22. Historical / Situational Trends
 
-- Mississippi State got off to a promising 4-0 SU and ATS start to the season in 2025, but once the Bulldogs made it to SEC play, the wheels came off. *(p. 298)*
-- It reached a fever pitch at the end of last year. *(p. 299)*
-- Taylor had appeared in numerous games last season, but got the start in the last two. *(p. 299)*
-- Taylor gives this offense a dynamic it did not have last year, which could unlock a lot more for Lebby’s offense. *(p. 299)*
-- Mississippi State was a largely average rush offense in 2025. *(p. 299)*
-- The Bulldogs improved from two wins in Lebby’s first season to five last year. *(p. 299)*
+- Mississippi State opened 2025 at 4-0 both straight up and against the spread, then collapsed once SEC play began, finishing 1-7 SU and 4-4 ATS and losing its final three games by a combined 61 points. *(p. 298)*
+- **Can Lebby's year-to-year improvement finally translate to the SEC?** Mississippi State went from two wins to five, but conference results have not followed: Lebby is 1-15 straight up in the SEC. The guide is careful to note he is 9-7 against the spread in those games, so he beats market expectations even while losing. It is blunt that he needs actual wins to keep his job. The schedule misses Georgia and Texas A&M but includes Alabama, LSU, Oklahoma, Texas and Ole Miss, so any SEC wins would come as major upsets. *(p. 299)*
 
 ## 23. Important Statistics
 
@@ -266,39 +254,36 @@ As printed on p. 299. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- With Taylor now taking the reins, bettors should expect this running game to improve, but it’s not just on him. *(p. 299)*
-- With a deadly athlete like Taylor lining up with him, Bothwell could get back to that explosive style and could be a strong bet to become a 1,000-yard rusher for the Bulldogs. *(p. 299)*
-- The Bulldogs improved from two wins in Lebby’s first season to five last year. *(p. 299)*
-- Still, this is about winning football games, and Lebby needs to start doing that in order to keep his job in Starkville. *(p. 299)*
-- If Lebby can start winning SEC games, he would score some major upsets in the process. *(p. 299)*
+- The bull case rests on Taylor's running ability and Lebby building an offense around that explosiveness; the defense must improve on 30.4 points allowed per game, which Lebby addressed by bringing back Zach Arnett as coordinator. The guide calls the bar low but achievable. *(p. 298)*
+- The 2025 run game was average — 3.7 yards per carry, 158 yards per game. The guide expects improvement with Taylor, but stresses it does not rest on him alone: Fluff Bothwell returns after 677 yards at 4.8 per carry, and was far better early, with ten of his 17 explosive runs in the first five weeks at 5.9 yards per carry and 3.75 after contact. Paired with Taylor, the guide rates Bothwell a strong bet to reach 1,000 yards. *(p. 299)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.3 wins** against a posted total of 4.5 — **-0.2** against this team.
-- Miss State is a 29.5-point favorite over ULM in Week 1 and should romp Tennessee Tech when they play in November. *(p. 298)*
-- Against Ole Miss and Wake Forest, he completed 28-of-53 passes for 419 yards with a touchdown and an interception. *(p. 299)*
-- The Bulldogs don’t have Georgia or Texas A&M on the schedule, but they do face Alabama, LSU, Oklahoma, Texas and Ole Miss. *(p. 299)*
+- Hype has built for years and peaked late in 2025. Taylor appeared in several games and started the last two, completing 28 of 53 for 419 yards with a touchdown and an interception against Ole Miss and Wake Forest, while adding 264 rushing yards and three scores. The guide rates him a true dual threat with explosive running ability, a dimension Blake Shapen did not offer, and expects that to unlock more for Lebby's offense. *(p. 299)*
+- Mississippi State went from two wins to five, but conference results have not followed: Lebby is 1-15 straight up in the SEC. The guide is careful to note he is 9-7 against the spread in those games, so he beats market expectations even while losing. It is blunt that he needs actual wins to keep his job. The schedule misses Georgia and Texas A&M but includes Alabama, LSU, Oklahoma, Texas and Ole Miss, so any SEC wins would come as major upsets. *(p. 299)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 299)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 299)*. Its analysis, in reference form:
 
 ### What does the KaMario Taylor era look like?
 
-The hype around Taylor has been building for years. It reached a fever pitch at the end of last year. Taylor had appeared in numerous games last season, but got the start in the last two. Against Ole Miss and Wake Forest, he completed 28-of-53 passes for 419 yards with a touchdown and an interception. He dazzled on the ground, adding 264 yards in the starts and three rushing touchdowns. Taylor is a true dual-threat with an explosive running ability. Blake Shapen could run some, but he was nowhere near the athlete Taylor is. Taylor gives this offense a dynamic it did not have last year, which could unlock a lot more for Lebby’s offense.
+Hype has built for years and peaked late in 2025. Taylor appeared in several games and started the last two, completing 28 of 53 for 419 yards with a touchdown and an interception against Ole Miss and Wake Forest, while adding 264 rushing yards and three scores. The guide rates him a true dual threat with explosive running ability, a dimension Blake Shapen did not offer, and expects that to unlock more for Lebby's offense. *(p. 299)*
 
 ### Can the running game be better this season?
 
-Mississippi State was a largely average rush offense in 2025. It averaged just 3.7 yards per carry and 158 yards per game. With Taylor now taking the reins, bettors should expect this running game to improve, but it’s not just on him. Fluff Bothwell is back after rushing for 677 yards on 4.8 yards per carry. He was especially effective at the beginning of the season. Ten of his 17 explosive runs came in the first five weeks, he averaged 5.9 yards per carry and 3.75 yards per carry after contact. With a deadly athlete like Taylor lining up with him, Bothwell could get back to that explosive style and could be a strong bet to become a 1,000-yard rusher for the Bulldogs.
+The 2025 run game was average — 3.7 yards per carry, 158 yards per game. The guide expects improvement with Taylor, but stresses it does not rest on him alone: Fluff Bothwell returns after 677 yards at 4.8 per carry, and was far better early, with ten of his 17 explosive runs in the first five weeks at 5.9 yards per carry and 3.75 after contact. Paired with Taylor, the guide rates Bothwell a strong bet to reach 1,000 yards. *(p. 299)*
 
-### Can Lebby’s year-to-year improvement finally translate to the SEC?
+### Can Lebby's year-to-year improvement finally translate to the SEC?
 
-The Bulldogs improved from two wins in Lebby’s first season to five last year. However, Mississippi State has yet to be anywhere near successful in conference play. Lebby is 1-15 SU in the SEC in his time at the helm. Bettors should know that he is 9-7 ATS in those games, so he is at least beating market expectations. Still, this is about winning football games, and Lebby needs to start doing that in order to keep his job in Starkville. The Bulldogs don’t have Georgia or Texas A&M on the schedule, but they do face Alabama, LSU, Oklahoma, Texas and Ole Miss. If Lebby can start winning SEC games, he would score some major upsets in the process.
+Mississippi State went from two wins to five, but conference results have not followed: Lebby is 1-15 straight up in the SEC. The guide is careful to note he is 9-7 against the spread in those games, so he beats market expectations even while losing. It is blunt that he needs actual wins to keep his job. The schedule misses Georgia and Texas A&M but includes Alabama, LSU, Oklahoma, Texas and Ole Miss, so any SEC wins would come as major upsets. *(p. 299)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -316,6 +301,8 @@ No source conflict identified for this team.
 | 46, 67, 277 | Other pages naming this team |
 
 This team is named in **14 sentences across 5 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 46, 67, 277.
 
 ## 29. Cross-Links
 

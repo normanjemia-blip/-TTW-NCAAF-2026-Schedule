@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 10.0–2.0 overall, 7.1–1.9 in conference |
 | **Schedule strength** | 48.81 (#22 toughest of 138) |
 
-### Season outlook as written in the guide (p. 292)
+### Season outlook — VSiN's analysis in reference form (p. 292)
 
-Since 2017, Georgia has participated in every SEC Championship Game but one, which took place in 2020. The Bulldogs have won the last two and three of the last four. To say an SEC title is the expectation in Athens is an understatement. Georgia has dominated the SEC over the last 10 years. The internal expectation remains the same: Do it again. The Bulldogs have the horses to get it done for a third consecutive year. Fourteen starters are back from a 12- win team. Gunner Stockton is one of the early expected contenders for the Heisman Trophy, and he has a retooled offensive line in front of him. Kirby Smart has some work to do on a defense that disappointed last season, but his track record tells us he will get that unit right. Over 9.5 The pricing on Georgia’s win total makes it somewhat difficult to select a best wager. One could lay 180 on the Over 9.5 wins or lay 190 on Under 10.5 wins. Ten wins seems to be the sweet spot for the Bulldogs, but 10 or more should be the likelier outcome. Georgia does not have to face Texas or Texas A&M this season. Its toughest road trip is to Tuscaloosa, and the team must also go to Ole Miss, the team that ousted them from the CFP a season ago. Five of their conference foes have win totals of 6.5 or less. The non- conference slate of Tennessee State and Western Kentucky lacks a real challenge. Everything is in place for another dominant regular season for Georgia.
+- Georgia has reached every SEC Championship Game since 2017 except 2020, winning the last two and three of the last four. The guide treats a conference title as the baseline expectation in Athens. *(p. 292)*
+- Fourteen starters return from a 12-win team, which the guide reads as enough to go for a third straight SEC title. *(p. 292)*
+- Gunner Stockton is named an early Heisman contender, working behind a retooled offensive line. *(p. 292)*
+- Kirby Smart has work to do on a defense that disappointed in 2025, but the guide leans on his track record to expect it fixed. *(p. 292)*
+- Recommendation is Over 9.5 wins, with the guide openly noting the pricing makes the best wager hard to isolate: Over 9.5 lays 180, Under 10.5 lays 190. It reads ten wins as the sweet spot but rates ten or more the likelier outcome. *(p. 292)*
+- Schedule is favorable: Georgia avoids Texas and Texas A&M, its toughest trip is Tuscaloosa, and it visits Ole Miss, the team that knocked it out of the CFP. Five conference opponents carry win totals of 6.5 or lower, and the non-conference slate of Tennessee State and Western Kentucky offers no real test. *(p. 292)*
+- Conclusion: everything is in place for another dominant regular season. *(p. 292)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,11 +86,9 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
+- Kirby Smart has work to do on a defense that disappointed in 2025, but the guide leans on his track record to expect it fixed. *(p. 292)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- McGee was an imaginative hire by the athletic department, as he’s spent a lot of time in Georgia, including several seasons with the Bulldogs as a running backs coach/run game coordinator. *(p. 324)*
+Also referenced on **pp. 29, 324** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,14 +98,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 292)*.
 
-- The Bulldogs totaled just 20 sacks last season, and they regularly struggled to pressure opposing quarterbacks. *(p. 293)*
+- Gunner Stockton is named an early Heisman contender, working behind a retooled offensive line. *(p. 292)*
+- **Do the Bulldogs have a Heisman contender at quarterback?** Stockton was highly clutch in 2025 — 83.6% completions in fourth quarters at 8.5 yards per attempt with nine touchdowns — and Georgia's 79th-percentile late-down success rate, despite only 56th-percentile average third-down distance, is credited largely to him. He returns just one of his top five receivers but has a strong line and a deep running back group. Georgia is the SEC favorite at one book and second choice at another, and among the highest power-rated teams in the country. The 20th-ranked schedule gives him a platform to build a Heisman resume, and the guide judges 20-1 a defensible price. *(p. 293)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- QB Gunner Stockton is back for another season after leading Georgia to a conference championship last year. *(p. 15)*
-- GEORGIA In the so-called ‘year of the quarterback’ in college football, Georgia senior Gunner Stockton is often overlooked because he’s not a top NFL prospect. *(p. 18)*
-- GEORGIA TECH Dual-threat quarterback Haynes King led the Yellow Jackets to nine wins and put a scare into Georgia, but he’s gone and replaced by Alberto Mendoza. *(p. 20)*
-- The talent should be there, and Brohm does have a more experienced option in twoyear West Georgia starter Davin Wydner, but getting the QB position right would be a huge start for the Cardinals. *(p. 93)*
+Also referenced on **pp. 15, 18, 20, 93** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -115,46 +117,30 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
-- Smart tried to address the issue by bringing in Auburn transfer Amaris Williams, but he tore his ACL in the spring. *(p. 293)*
+- **Can the pass defense bounce back?** Georgia finished 48th in opponent EPA per play and 80th through the air, the latter only 40th percentile. The guide argues the front seven, not the secondary, was the likelier culprit: just 20 sacks and persistent trouble pressuring quarterbacks. Smart signed Auburn transfer Amaris Williams to address it, but Williams tore an ACL in spring, putting weight on freshman Khamari Brooks. Improvement on 20 sacks is expected; the guide insists it must be dramatic for national success. *(p. 293)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- “The Longhorns predictably did well in the transfer portal and Manning played at a much higher level over the second half of the season.” The Longhorns went 7-1 to finish last season, with Georgia dealing the loss, 35-10. *(p. 17)*
-- GUNNER STOCKTON, GEORGIA Despite an NIL deal reportedly north of $1 million, Stockton drives a hand-me-down 1984 Ford F-150 pickup gifted by his grandfather with over 300,000 miles. *(p. 45)*
-- That means Georgia transfer Rod Robinson and ULM transfer Bam McReynolds will be focal points in the gameplan. *(p. 75)*
+Referenced in the guide on **pp. 17, 45, 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- The offensive line is projected to have two sophomores and a freshman starting this season, along with Bobo. *(p. 293)*
-- A lot of pressure will be on freshman Khamari Brooks to provide a spark for this pass-rush. *(p. 293)*
+
+Referenced in the guide on **pp. 293** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Gunner Stockton is one of the early expected contenders for the Heisman Trophy, and he has a retooled offensive line in front of him. *(p. 292)*
-- The redshirt senior has only one of his top five receivers from last season back, but he has a strong offensive line and a great stable of running backs behind him. *(p. 293)*
-- On paper, the Georgia run game is set up to have a strong season. *(p. 293)*
-- Three starters are back along the offensive line, one of them being Fourth Team All-American center Drew Bobo. *(p. 293)*
-- Stockton was largely forced to bail the offense out on long third downs, which is not sustainable. *(p. 293)*
-- The offensive line is projected to have two sophomores and a freshman starting this season, along with Bobo. *(p. 293)*
+- Fourteen starters return from a 12-win team, which the guide reads as enough to go for a third straight SEC title. *(p. 292)*
+- Gunner Stockton is named an early Heisman contender, working behind a retooled offensive line. *(p. 292)*
+- **Will the returning production unlock Georgia's rushing attack?** On paper yes: three offensive line starters return including Fourth Team All-American center Drew Bobo, and the top three rushers behind Stockton are back, with Nate Frazier (958 yards, 5.5 per carry) projected to pass 1,000. The guide's caution is that this same production ran an inefficient offense — 32nd percentile in explosive run rate, 54th percentile in early-down success — leaving Stockton to rescue long third downs, which it calls unsustainable. The line is projected to start two sophomores and a freshman alongside Bobo, and the guide allows that new blood may find a gear the unit lacked. *(p. 293)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- “Georgia’s offense might lack the firepower of some of the other contenders, but the Dawgs can run the ball and play sound defense,” Stone said. 5. *(p. 18)*
-- McGee was an imaginative hire by the athletic department, as he’s spent a lot of time in Georgia, including several seasons with the Bulldogs as a running backs coach/run game coordinator. *(p. 324)*
+Referenced in the guide on **pp. 18, 324** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Kirby Smart has some work to do on a defense that disappointed last season, but his track record tells us he will get that unit right. *(p. 292)*
-- While the secondary could be pointed to as the issue, one could make the argument the front seven was the biggest culprit. *(p. 293)*
-- The Bulldogs totaled just 20 sacks last season, and they regularly struggled to pressure opposing quarterbacks. *(p. 293)*
-- Georgia should be able to improve on the 20 sacks from last season, but it must be exponentially better if it wants to achieve national success. *(p. 293)*
+- Fourteen starters return from a 12-win team, which the guide reads as enough to go for a third straight SEC title. *(p. 292)*
+- Kirby Smart has work to do on a defense that disappointed in 2025, but the guide leans on his track record to expect it fixed. *(p. 292)*
+- **Can the pass defense bounce back?** Georgia finished 48th in opponent EPA per play and 80th through the air, the latter only 40th percentile. The guide argues the front seven, not the secondary, was the likelier culprit: just 20 sacks and persistent trouble pressuring quarterbacks. Smart signed Auburn transfer Amaris Williams to address it, but Williams tore an ACL in spring, putting weight on freshman Khamari Brooks. Improvement on 20 sacks is expected; the guide insists it must be dramatic for national success. *(p. 293)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And the secondary adds Georgia CB Ondre Evans and Penn State safety King Mack (58 tackles, 3 passes defended) to go with second-year starting CB Brian Nelson. *(p. 10)*
-- Per Bill Connelly’s SP+, Georgia is eighth nationally in returning production (68%) and No. 5 in returning production on defense. *(p. 15)*
-- Georgia will have an elite defense this year, and it would be surprising if they are not back in Atlanta for the SEC Championship. *(p. 15)*
-- “Georgia’s offense might lack the firepower of some of the other contenders, but the Dawgs can run the ball and play sound defense,” Stone said. 5. *(p. 18)*
+Referenced in the guide on **pp. 10, 15, 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -206,9 +192,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The schedule is favorable, considering the Tigers will avoid Georgia, so they’ll need to take advantage of winnable early conference matchups before a gauntlet in November (Alabama, Texas, Tennessee). *(p. 8)*
+Referenced in the guide on **pp. 8** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -250,34 +234,17 @@ Prices printed on the team page *(p. 293)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Georgia is the favorite at one shop and the second choice at another to win the SEC, and they are one of the highest power-rated teams in the country. *(p. 293)*
+- Recommendation is Over 9.5 wins, with the guide openly noting the pricing makes the best wager hard to isolate: Over 9.5 lays 180, Under 10.5 lays 190. It reads ten wins as the sweet spot but rates ten or more the likelier outcome. *(p. 292)*
+- Conclusion: everything is in place for another dominant regular season. *(p. 292)*
+- **Do the Bulldogs have a Heisman contender at quarterback?** Stockton was highly clutch in 2025 — 83.6% completions in fourth quarters at 8.5 yards per attempt with nine touchdowns — and Georgia's 79th-percentile late-down success rate, despite only 56th-percentile average third-down distance, is credited largely to him. He returns just one of his top five receivers but has a strong line and a deep running back group. Georgia is the SEC favorite at one book and second choice at another, and among the highest power-rated teams in the country. The 20th-ranked schedule gives him a platform to build a Heisman resume, and the guide judges 20-1 a defensible price. *(p. 293)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Texas is the second-betting choice in the SEC behind Georgia, and obviously we’re hoping they win the conference on the way to the CFB Playoff and natty. *(p. 5)*
-- Georgia is projected to be a favorite in all 12 games, with road trips to Alabama and Ole Miss as the shortest spreads. *(p. 15)*
-- “One could throw Texas, Georgia, Ohio State, Oregon, Indiana, Miami and Notre Dame into a hat and pull them out in any order and I’d probably say, ‘OK, I can buy that.’” Notre Dame will be favored in all 12 games and likely a double-digit favorite in 10 of those games. *(p. 17)*
-- Texas is the +650 favorites at Circa, followed by Ohio State (+700), Notre Dame (+725), Oregon (+730) and Georgia (+950). *(p. 38)*
-- The tough part about this bet is that WKU may very well start 0-3, as they open the season a long way from home against Nevada before getting pummeled by Indiana and Georgia. *(p. 206)*
+Also referenced on **pp. 5, 15, 17, 38, 206** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Since 2017, Georgia has participated in every SEC Championship Game but one, which took place in 2020. *(p. 292)*
-- Kirby Smart has some work to do on a defense that disappointed last season, but his track record tells us he will get that unit right. *(p. 292)*
-- Stockton was as clutch as they came last season for Georgia. *(p. 293)*
-- The redshirt senior has only one of his top five receivers from last season back, but he has a strong offensive line and a great stable of running backs behind him. *(p. 293)*
-- However, all of this production is back from an inefficient running game last season. *(p. 293)*
-- The Bulldogs totaled just 20 sacks last season, and they regularly struggled to pressure opposing quarterbacks. *(p. 293)*
-- Georgia should be able to improve on the 20 sacks from last season, but it must be exponentially better if it wants to achieve national success. *(p. 293)*
+- Georgia has reached every SEC Championship Game since 2017 except 2020, winning the last two and three of the last four. The guide treats a conference title as the baseline expectation in Athens. *(p. 292)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- QB Gunner Stockton is back for another season after leading Georgia to a conference championship last year. *(p. 15)*
-- “The Longhorns predictably did well in the transfer portal and Manning played at a much higher level over the second half of the season.” The Longhorns went 7-1 to finish last season, with Georgia dealing the loss, 35-10. *(p. 17)*
-- Since getting crushed 65-7 by Georgia in the 2022 national championship game, TCU has posted records of 5-7, 9-4 and 9-4. *(p. 20)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- TRINIDAD CHAMBLISS, OLE MISS Was there a better single-game performance in 2025 than the masterpiece turned in by Chambliss in the Rebels’ 39-34 CFP quarterfinal win over Georgia? *(p. 45)*
-- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
+Referenced in the guide on **pp. 15, 17, 20, 29, 45, 70** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -324,50 +291,39 @@ As printed on p. 293. Each category carries a value and a national rank.
 
 - Makinen projects **10.0 wins** against a posted total of 9.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 9.5**.
-- Gunner Stockton is one of the early expected contenders for the Heisman Trophy, and he has a retooled offensive line in front of him. *(p. 292)*
-- Over 9.5 The pricing on Georgia’s win total makes it somewhat difficult to select a best wager. *(p. 292)*
-- The redshirt senior has only one of his top five receivers from last season back, but he has a strong offensive line and a great stable of running backs behind him. *(p. 293)*
-- The team has the 20th-ranked schedule in terms of strength, but that means Stockton has the opportunity to put forth a strong resume for Heisman voters. *(p. 293)*
-- On paper, the Georgia run game is set up to have a strong season. *(p. 293)*
-- The Bulldogs also return their top three rushers outside of Stockton. *(p. 293)*
-- Georgia should be able to improve on the 20 sacks from last season, but it must be exponentially better if it wants to achieve national success. *(p. 293)*
-- Georgia will have an elite defense this year, and it would be surprising if they are not back in Atlanta for the SEC Championship. *(p. 15)*
-- “Georgia’s offense might lack the firepower of some of the other contenders, but the Dawgs can run the ball and play sound defense,” Stone said. 5. *(p. 18)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
+- Georgia has reached every SEC Championship Game since 2017 except 2020, winning the last two and three of the last four. The guide treats a conference title as the baseline expectation in Athens. *(p. 292)*
+- Fourteen starters return from a 12-win team, which the guide reads as enough to go for a third straight SEC title. *(p. 292)*
+- Gunner Stockton is named an early Heisman contender, working behind a retooled offensive line. *(p. 292)*
+- Recommendation is Over 9.5 wins, with the guide openly noting the pricing makes the best wager hard to isolate: Over 9.5 lays 180, Under 10.5 lays 190. It reads ten wins as the sweet spot but rates ten or more the likelier outcome. *(p. 292)*
+- Stockton was highly clutch in 2025 — 83.6% completions in fourth quarters at 8.5 yards per attempt with nine touchdowns — and Georgia's 79th-percentile late-down success rate, despite only 56th-percentile average third-down distance, is credited largely to him. He returns just one of his top five receivers but has a strong line and a deep running back group. Georgia is the SEC favorite at one book and second choice at another, and among the highest power-rated teams in the country. The 20th-ranked schedule gives him a platform to build a Heisman resume, and the guide judges 20-1 a defensible price. *(p. 293)*
+- On paper yes: three offensive line starters return including Fourth Team All-American center Drew Bobo, and the top three rushers behind Stockton are back, with Nate Frazier (958 yards, 5.5 per carry) projected to pass 1,000. The guide's caution is that this same production ran an inefficient offense — 32nd percentile in explosive run rate, 54th percentile in early-down success — leaving Stockton to rescue long third downs, which it calls unsustainable. The line is projected to start two sophomores and a freshman alongside Bobo, and the guide allows that new blood may find a gear the unit lacked. *(p. 293)*
+- Georgia finished 48th in opponent EPA per play and 80th through the air, the latter only 40th percentile. The guide argues the front seven, not the secondary, was the likelier culprit: just 20 sacks and persistent trouble pressuring quarterbacks. Smart signed Auburn transfer Amaris Williams to address it, but Williams tore an ACL in spring, putting weight on freshman Khamari Brooks. Improvement on 20 sacks is expected; the guide insists it must be dramatic for national success. *(p. 293)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Over 9.5 The pricing on Georgia’s win total makes it somewhat difficult to select a best wager. *(p. 292)*
-- Its toughest road trip is to Tuscaloosa, and the team must also go to Ole Miss, the team that ousted them from the CFP a season ago. *(p. 292)*
-- The Bulldogs totaled just 20 sacks last season, and they regularly struggled to pressure opposing quarterbacks. *(p. 293)*
-- Georgia is projected to be a favorite in all 12 games, with road trips to Alabama and Ole Miss as the shortest spreads. *(p. 15)*
-- “The Longhorns predictably did well in the transfer portal and Manning played at a much higher level over the second half of the season.” The Longhorns went 7-1 to finish last season, with Georgia dealing the loss, 35-10. *(p. 17)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- TRINIDAD CHAMBLISS, OLE MISS Was there a better single-game performance in 2025 than the masterpiece turned in by Chambliss in the Rebels’ 39-34 CFP quarterfinal win over Georgia? *(p. 45)*
-- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
-- The tough part about this bet is that WKU may very well start 0-3, as they open the season a long way from home against Nevada before getting pummeled by Indiana and Georgia. *(p. 206)*
-- They have to go to Georgia, Ole Miss and Alabama in conference play. *(p. 288)*
+- Schedule is favorable: Georgia avoids Texas and Texas A&M, its toughest trip is Tuscaloosa, and it visits Ole Miss, the team that knocked it out of the CFP. Five conference opponents carry win totals of 6.5 or lower, and the non-conference slate of Tennessee State and Western Kentucky offers no real test. *(p. 292)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 293)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 293)*. Its analysis, in reference form:
 
 ### Do the Bulldogs have a Heisman contender at quarterback?
 
-Stockton was as clutch as they came last season for Georgia. In the fourth quarter, he completed 83.6% of his passes for 8.5 yards per attempt and totaled nine touchdowns. The Bulldogs also finished in the 79th percentile in late-down success rate despite placing in the 56th percentile in average third-down distance. That was all in large part due to Stockton’s heroics. The redshirt senior has only one of his top five receivers from last season back, but he has a strong offensive line and a great stable of running backs behind him. Georgia is the favorite at one shop and the second choice at another to win the SEC, and they are one of the highest power-rated teams in the country. The team has the 20th-ranked schedule in terms of strength, but that means Stockton has the opportunity to put forth a strong resume for Heisman voters. At 20-1, there are worse bets to be made.
+Stockton was highly clutch in 2025 — 83.6% completions in fourth quarters at 8.5 yards per attempt with nine touchdowns — and Georgia's 79th-percentile late-down success rate, despite only 56th-percentile average third-down distance, is credited largely to him. He returns just one of his top five receivers but has a strong line and a deep running back group. Georgia is the SEC favorite at one book and second choice at another, and among the highest power-rated teams in the country. The 20th-ranked schedule gives him a platform to build a Heisman resume, and the guide judges 20-1 a defensible price. *(p. 293)*
 
-### Will the returning production unlock Georgia’s rushing attack?
+### Will the returning production unlock Georgia's rushing attack?
 
-On paper, the Georgia run game is set up to have a strong season. Three starters are back along the offensive line, one of them being Fourth Team All-American center Drew Bobo. The Bulldogs also return their top three rushers outside of Stockton. Nate Frazier (958 yards, 5.5 yards per carry) should be a 1,000-yard rusher. However, all of this production is back from an inefficient running game last season. Georgia finished 2025 in the 32nd percentile in explosive run rate and the 54th percentile in early-down success rate. Stockton was largely forced to bail the offense out on long third downs, which is not sustainable. The offensive line is projected to have two sophomores and a freshman starting this season, along with Bobo. Perhaps some new blood will allow this running game to find a gear it could not a season ago.
+On paper yes: three offensive line starters return including Fourth Team All-American center Drew Bobo, and the top three rushers behind Stockton are back, with Nate Frazier (958 yards, 5.5 per carry) projected to pass 1,000. The guide's caution is that this same production ran an inefficient offense — 32nd percentile in explosive run rate, 54th percentile in early-down success — leaving Stockton to rescue long third downs, which it calls unsustainable. The line is projected to start two sophomores and a freshman alongside Bobo, and the guide allows that new blood may find a gear the unit lacked. *(p. 293)*
 
 ### Can the pass defense bounce back?
 
-Georgia ended the season 48th in opponent EPA per play and 80th in EPA per play through the air. That second mark was good for the 40th percentile. While the secondary could be pointed to as the issue, one could make the argument the front seven was the biggest culprit. The Bulldogs totaled just 20 sacks last season, and they regularly struggled to pressure opposing quarterbacks. Smart tried to address the issue by bringing in Auburn transfer Amaris Williams, but he tore his ACL in the spring. A lot of pressure will be on freshman Khamari Brooks to provide a spark for this pass-rush. Georgia should be able to improve on the 20 sacks from last season, but it must be exponentially better if it wants to achieve national success.
+Georgia finished 48th in opponent EPA per play and 80th through the air, the latter only 40th percentile. The guide argues the front seven, not the secondary, was the likelier culprit: just 20 sacks and persistent trouble pressuring quarterbacks. Smart signed Auburn transfer Amaris Williams to address it, but Williams tore an ACL in spring, putting weight on freshman Khamari Brooks. Improvement on 20 sacks is expected; the guide insists it must be dramatic for national success. *(p. 293)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -385,6 +341,8 @@ No source conflict identified for this team.
 | 5, 8, 10, 15, 17, 18, 20, 29, 36, 38, 39, 45, 46, 70, 75, 90, 91, 93, 206, 284, 288, 289, 290, 294, 296, 299, 300, 301, 302, 304, 306, 314, 324, 325 | Other pages naming this team |
 
 This team is named in **65 sentences across 37 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 8, 10, 15, 17, 18, 20, 29, 36, 38, 39, 45, 46, 70, 75, 90, 91, 93, 206, 284, 288, 289, 290, 294, 296, 299, 300, 301, 302, 304, 306, 314, 324, 325.
 
 ## 29. Cross-Links
 

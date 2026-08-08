@@ -27,6 +27,7 @@ That file is the navigation system for everything else.
 | 1 | Master Index | `00_Master_Index` | ✅ **Complete** |
 | 2 | Conference Database | `01_Conference_Database` | ✅ **Complete** |
 | 3 | Team Database | `02_Team_Database` | ✅ **Complete** |
+| 3A | Team Database paraphrase pass | `02_Team_Database` | 🟡 **In progress — 16/138** |
 | 4 | Quarterback Database | `04_Quarterback_Database` | ⏸ Awaiting approval |
 | 5 | Coaching Database | `03_Coaching_Database` | ⏸ Pending |
 | 6 | Power Ratings | `05_Power_Ratings` | ⏸ Pending |
@@ -61,6 +62,29 @@ schema**. Where the guide does not address a heading, the file states
 138 files stay structurally identical and searchable.
 
 ---
+
+## Phase 3A — paraphrase pass
+
+Phase 3 built the team files by reproducing VSiN's prose. Phase 3A rewrites that
+prose into TTW reference notes so the library carries the guide's **information
+and reasoning** without reproducing substantial portions of its text.
+
+**Status: 16 of 138 teams converted (SEC complete).** The remaining 122 still
+render from guide prose; the renderer falls back automatically, so a
+part-finished pass leaves a coherent database rather than a broken one.
+
+Converted files are recognisable by the heading *"Season outlook — VSiN's
+analysis in reference form"*. Files not yet converted read *"Season outlook as
+written in the guide"*.
+
+Paraphrases live in `_source/paraphrase/*.json`, one file per batch, and are
+authored rather than generated. Numbers, tables, page references, source
+conflicts and cross-links are never touched by this pass — a machine
+comparison enforces that:
+
+```bash
+python3 _tools/snapshot_fields.py _source/data/fields_before.json --compare
+```
 
 ## Standing rules
 

@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 7.9–4.1 overall, 5.5–3.5 in conference |
 | **Schedule strength** | 52.63 (#2 toughest of 138) |
 
-### Season outlook as written in the guide (p. 302)
+### Season outlook — VSiN's analysis in reference form (p. 302)
 
-Brent Venables’ time in Norman has been consistently inconsistent. The Sooners have two 10-win seasons under Venables’ watch, and they have two 6-7 seasons as well. Oklahoma will look for consistency in 2026, coming off a year in which they made the College Football Playoff for the fifth time. Everything lies on the shoulders of John Mateer and this offense. Mateer’s season was derailed with injury. This season, he’s looking to regain some of the magic he had two seasons ago in Pullman and lead the Sooners to their first CFP win in program history. Over 7.5 If the defense is anywhere close to what it was a season ago — which it looks like it will be — Oklahoma’s win total floor is extremely high. Can the offense pull its weight? Mateer showed up to the Manning Passing Academy looking bulkier, but told the media he didn’t gain weight, but rather got in better shape. Either way, he needs to be better in both facets of his game if this team is to get back to the College Football Playoff. The schedule provides challenges, like any SEC slate does, but that extends into the non-conference portion as well. The Sooners have road games against Michigan and Georgia. They must host Ole Miss and Texas A&M while also having the usual dalliance with Texas in October. Oklahoma will have to take one, if not two, of those contests to get Over this number, but the team is good enough to do that and more.
+- Brent Venables is described as consistently inconsistent: two 10-win seasons and two 6-7 seasons in Norman, with 2025 producing a fifth playoff appearance. *(p. 302)*
+- The season is framed as resting on John Mateer and the offense. His 2025 was derailed by injury and he is trying to recover the form he had at Washington State and deliver Oklahoma's first-ever CFP win. *(p. 302)*
+- Recommendation is Over 7.5 wins. The guide's logic is that if the defense is close to its 2025 level — which it expects — the win floor is very high, leaving the offense as the open question. *(p. 302)*
+- On Mateer's conditioning the guide reports only what he said: he appeared bulkier at the Manning Passing Academy and told media he had not gained weight but gotten in better shape. Either way it insists he must improve in both passing and running. *(p. 302)*
+- Schedule is hard in and out of conference: road games at Michigan and Georgia, home games with Ole Miss and Texas A&M, plus the annual Texas meeting in October. The guide says Oklahoma must win one or two of those to clear the number, and rates the team good enough to do so. *(p. 302)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,11 +84,10 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Offensive coordinator Ben Arbuckle — Mateer’s offensive coordinator at Washington State — has to find a way to get his quarterback and this running attack back to being effective. *(p. 303)*
+- Brent Venables is described as consistently inconsistent: two 10-win seasons and two 6-7 seasons in Norman, with 2025 producing a fifth playoff appearance. *(p. 302)*
+- **Can the Sooners run the football?** Mateer was far less effective running than in his final Washington State season, when he gained 1,008 yards and 15 touchdowns at 6.8 per attempt; in 2025 he managed 565 yards on only 15 fewer carries. The problem was team-wide: 3.5 yards per carry overall, Tory Blaylock leading with 480 yards on 120 attempts, and finishes of 127th in rushing EPA per play and 128th in success rate. Coordinator Ben Arbuckle, Mateer's coordinator at Washington State, has to fix both. The guide credits new offensive linemen but says better play-calling is needed too. *(p. 303)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, former head coach Eric Morris and many of that team’s key pieces have migrated northward to Stillwater, Oklahoma, where they will suit up for the Oklahoma State Cowboys in 2026. *(p. 7)*
+Also referenced on **pp. 7** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,14 +97,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 302)*.
 
-- Mateer showed up to the Manning Passing Academy looking bulkier, but told the media he didn’t gain weight, but rather got in better shape. *(p. 302)*
-- In the following eight games, Mateer completed only 58.8% of his passes, averaged 6.4 yards per attempt and threw eight touchdowns to eight interceptions. *(p. 303)*
-- His 16 turnover-worthy plays over those eight games were third-most among SEC quarterbacks. *(p. 303)*
-- Offensive coordinator Ben Arbuckle — Mateer’s offensive coordinator at Washington State — has to find a way to get his quarterback and this running attack back to being effective. *(p. 303)*
+- The season is framed as resting on John Mateer and the offense. His 2025 was derailed by injury and he is trying to recover the form he had at Washington State and deliver Oklahoma's first-ever CFP win. *(p. 302)*
+- On Mateer's conditioning the guide reports only what he said: he appeared bulkier at the Manning Passing Academy and told media he had not gained weight but gotten in better shape. Either way it insists he must improve in both passing and running. *(p. 302)*
+- **Is a healthy John Mateer going to be better?** The guide draws a sharp before-and-after line. In the first four games Mateer completed 67.6% at 8.5 yards per attempt with six touchdowns to three interceptions at an 8.5-yard average depth of target. He then broke his throwing hand against Auburn, and over the next eight games completed 58.8% at 6.4 yards per attempt with eight touchdowns and eight interceptions. It refuses to attribute the decline solely to the injury: his 16 turnover-worthy plays across those eight games were third-most among SEC quarterbacks. Conclusion: he needs to be healthy and also better with the ball. *(p. 303)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OKLAHOMA Senior quarterback John Mateer had a hot hand to start last season, but he never was the same after a hand injury. *(p. 18)*
+Also referenced on **pp. 18** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -116,10 +118,7 @@ The Stability Score table prints the same figure independently: **16 returning s
 ## 11. Transfer Portal
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- LSU transfer Nic Anderson (6’4”, 205 lbs.) had almost 800 yards and 10 TDs at Oklahoma in 2023, Southern Utah transfer Shane Carr (6’2”, 185 lbs.) went for over 1,300 yards and 10 TDs over the last two seasons, plus Arkansas transfer Ja’Kayden Ferguson (6’2”, 184 lbs.) and UAB transfer Xavier Daisy (6’3”, 212 lbs.) join the fold as well. *(p. 10)*
-- Oklahoma transfer linebacker Samuel Omosigho (50 tackles, two sacks). *(p. 179)*
+Referenced in the guide on **pp. 10, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -127,26 +126,15 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Everything lies on the shoulders of John Mateer and this offense. *(p. 302)*
-- Can the offense pull its weight? *(p. 302)*
-- The Sooners ended the year 127th in EPA per play rushing and 128th in success rate. *(p. 303)*
-- Offensive coordinator Ben Arbuckle — Mateer’s offensive coordinator at Washington State — has to find a way to get his quarterback and this running attack back to being effective. *(p. 303)*
-- A couple of new offensive linemen will help, but better play-calling will too. *(p. 303)*
-- In all, Oklahoma allowed just 15.5 points per game and 4.3 yards per play in 2025. *(p. 303)*
+- The season is framed as resting on John Mateer and the offense. His 2025 was derailed by injury and he is trying to recover the form he had at Washington State and deliver Oklahoma's first-ever CFP win. *(p. 302)*
+- **Can the Sooners run the football?** Mateer was far less effective running than in his final Washington State season, when he gained 1,008 yards and 15 touchdowns at 6.8 per attempt; in 2025 he managed 565 yards on only 15 fewer carries. The problem was team-wide: 3.5 yards per carry overall, Tory Blaylock leading with 480 yards on 120 attempts, and finishes of 127th in rushing EPA per play and 128th in success rate. Coordinator Ben Arbuckle, Mateer's coordinator at Washington State, has to fix both. The guide credits new offensive linemen but says better play-calling is needed too. *(p. 303)*
 
 ## 14. Defensive Identity
 
-- Over 7.5 If the defense is anywhere close to what it was a season ago — which it looks like it will be — Oklahoma’s win total floor is extremely high. *(p. 302)*
-- Seven starters are back for Oklahoma on defense. *(p. 303)*
-- The Sooners’ top two tacklers — Kip Lewis and Owen Heinecke — are among them. *(p. 303)*
-- Defensive lineman Taylor Wein (7 sacks, 8 tackles for loss) and defensive tackle David Stone lead a defensive line which had a hand in limiting opponents to 2.4 yards per carry last year. *(p. 303)*
-- The defensive line is experienced, the linebackers remain in good shape with the presence of Heinecke at middle linebacker and the secondary is largely intact. *(p. 303)*
-- The Sooners were the third-most efficient defense by EPA standards last season and led the country in success rate. *(p. 303)*
+- Recommendation is Over 7.5 wins. The guide's logic is that if the defense is close to its 2025 level — which it expects — the win floor is very high, leaving the offense as the open question. *(p. 302)*
+- **Will the Sooners be as dominant on defense as they were last year?** Probably. Seven starters return including top tacklers Kip Lewis and Owen Heinecke, with lineman Taylor Wein (7 sacks, 8 tackles for loss) and tackle David Stone anchoring a front that held opponents to 2.4 yards per carry. Oklahoma allowed 15.5 points and 4.3 yards per play, finished third in defensive efficiency by EPA and led the country in success rate. With the line experienced, Heinecke at middle linebacker and the secondary largely intact, the guide expects another elite unit. *(p. 303)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Oklahoma transfer linebacker Samuel Omosigho (50 tackles, two sacks). *(p. 179)*
-- Let’s not forget Ole Miss, which finished a drive short of a berth in the final, or Oklahoma, which returns most of the best defense in the country. *(p. 283)*
+Referenced in the guide on **pp. 179, 283** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -192,9 +180,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Sure, the threeweek stretch of Oklahoma, Florida and Ole Miss is difficult, but the Longhorns have a bye prior to the Red River Shootout, and the other two will be at home. *(p. 310)*
+Referenced in the guide on **pp. 310** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -215,24 +201,14 @@ Prices printed on the team page *(p. 303)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Over 7.5 wins. The guide's logic is that if the defense is close to its 2025 level — which it expects — the win floor is very high, leaving the offense as the open question. *(p. 302)*
+- Schedule is hard in and out of conference: road games at Michigan and Georgia, home games with Ole Miss and Texas A&M, plus the annual Texas meeting in October. The guide says Oklahoma must win one or two of those to clear the number, and rates the team good enough to do so. *(p. 302)*
 
 ## 22. Historical / Situational Trends
 
-- Oklahoma will look for consistency in 2026, coming off a year in which they made the College Football Playoff for the fifth time. *(p. 302)*
-- In 2024, he ran for 1,008 yards and 15 touchdowns while averaging 6.8 yards per attempt. *(p. 303)*
-- Last year, he managed just 565 yards on only 15 fewer attempts. *(p. 303)*
-- Defensive lineman Taylor Wein (7 sacks, 8 tackles for loss) and defensive tackle David Stone lead a defensive line which had a hand in limiting opponents to 2.4 yards per carry last year. *(p. 303)*
-- In all, Oklahoma allowed just 15.5 points per game and 4.3 yards per play in 2025. *(p. 303)*
-- The Sooners were the third-most efficient defense by EPA standards last season and led the country in success rate. *(p. 303)*
+- Brent Venables is described as consistently inconsistent: two 10-win seasons and two 6-7 seasons in Norman, with 2025 producing a fifth playoff appearance. *(p. 302)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, former head coach Eric Morris and many of that team’s key pieces have migrated northward to Stillwater, Oklahoma, where they will suit up for the Oklahoma State Cowboys in 2026. *(p. 7)*
-- LSU transfer Nic Anderson (6’4”, 205 lbs.) had almost 800 yards and 10 TDs at Oklahoma in 2023, Southern Utah transfer Shane Carr (6’2”, 185 lbs.) went for over 1,300 yards and 10 TDs over the last two seasons, plus Arkansas transfer Ja’Kayden Ferguson (6’2”, 184 lbs.) and UAB transfer Xavier Daisy (6’3”, 212 lbs.) join the fold as well. *(p. 10)*
-- Yes, they’re at Oklahoma in Week 3 and have a tough road trip to Hawaii, but they host UNLV, who they beat in Vegas last year, host Air Force, who they beat in Colorado Springs, and host newcomer NDSU. *(p. 14)*
-- OKLAHOMA Senior quarterback John Mateer had a hot hand to start last season, but he never was the same after a hand injury. *(p. 18)*
-- Also, Taylor missed all of last year after starting four games at Oklahoma, so it’s not like we’ve seen him recently. *(p. 131)*
+Referenced in the guide on **pp. 7, 10, 14, 18, 131** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -279,45 +255,38 @@ As printed on p. 303. Each category carries a value and a national rank.
 
 - Makinen projects **7.9 wins** against a posted total of 7.5 — **+0.4** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- The defensive line is experienced, the linebackers remain in good shape with the presence of Heinecke at middle linebacker and the secondary is largely intact. *(p. 303)*
-- With all of the returning production, Venables will have one of the best units in the country again. *(p. 303)*
-- He undoubtedly has room to improve as a thrower, but he’s an electric runner and made some big plays at Oklahoma. *(p. 147)*
-- Let’s not forget Ole Miss, which finished a drive short of a berth in the final, or Oklahoma, which returns most of the best defense in the country. *(p. 283)*
-- The Gators will host Ole Miss and Oklahoma, which is obviously beneficial against foes that some believe can contend for the conference title. *(p. 290)*
+- On Mateer's conditioning the guide reports only what he said: he appeared bulkier at the Manning Passing Academy and told media he had not gained weight but gotten in better shape. Either way it insists he must improve in both passing and running. *(p. 302)*
+- Probably. Seven starters return including top tacklers Kip Lewis and Owen Heinecke, with lineman Taylor Wein (7 sacks, 8 tackles for loss) and tackle David Stone anchoring a front that held opponents to 2.4 yards per carry. Oklahoma allowed 15.5 points and 4.3 yards per play, finished third in defensive efficiency by EPA and led the country in success rate. With the line experienced, Heinecke at middle linebacker and the secondary largely intact, the guide expects another elite unit. *(p. 303)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Mateer’s season was derailed with injury. *(p. 302)*
-- They must host Ole Miss and Texas A&M while also having the usual dalliance with Texas in October. *(p. 302)*
-- It would be short-sighted to dismiss the injury to his throwing hand and subsequent decline in play. *(p. 303)*
-- But his struggles on the ground were hardly the only ones. *(p. 303)*
-- Defensive lineman Taylor Wein (7 sacks, 8 tackles for loss) and defensive tackle David Stone lead a defensive line which had a hand in limiting opponents to 2.4 yards per carry last year. *(p. 303)*
-- Yes, they’re at Oklahoma in Week 3 and have a tough road trip to Hawaii, but they host UNLV, who they beat in Vegas last year, host Air Force, who they beat in Colorado Springs, and host newcomer NDSU. *(p. 14)*
-- OKLAHOMA Senior quarterback John Mateer had a hot hand to start last season, but he never was the same after a hand injury. *(p. 18)*
-- The overall numbers look a lot worse given losses of 62-14, 66-10, and 44-0 to Texas Tech, Florida State, and Oklahoma in non-conference play. *(p. 34)*
-- That means he should hit the ground running, even with Oklahoma playing a difficult schedule. *(p. 39)*
-- Also, Taylor missed all of last year after starting four games at Oklahoma, so it’s not like we’ve seen him recently. *(p. 131)*
+- The season is framed as resting on John Mateer and the offense. His 2025 was derailed by injury and he is trying to recover the form he had at Washington State and deliver Oklahoma's first-ever CFP win. *(p. 302)*
+- Recommendation is Over 7.5 wins. The guide's logic is that if the defense is close to its 2025 level — which it expects — the win floor is very high, leaving the offense as the open question. *(p. 302)*
+- Schedule is hard in and out of conference: road games at Michigan and Georgia, home games with Ole Miss and Texas A&M, plus the annual Texas meeting in October. The guide says Oklahoma must win one or two of those to clear the number, and rates the team good enough to do so. *(p. 302)*
+- The guide draws a sharp before-and-after line. In the first four games Mateer completed 67.6% at 8.5 yards per attempt with six touchdowns to three interceptions at an 8.5-yard average depth of target. He then broke his throwing hand against Auburn, and over the next eight games completed 58.8% at 6.4 yards per attempt with eight touchdowns and eight interceptions. It refuses to attribute the decline solely to the injury: his 16 turnover-worthy plays across those eight games were third-most among SEC quarterbacks. Conclusion: he needs to be healthy and also better with the ball. *(p. 303)*
+- Probably. Seven starters return including top tacklers Kip Lewis and Owen Heinecke, with lineman Taylor Wein (7 sacks, 8 tackles for loss) and tackle David Stone anchoring a front that held opponents to 2.4 yards per carry. Oklahoma allowed 15.5 points and 4.3 yards per play, finished third in defensive efficiency by EPA and led the country in success rate. With the line experienced, Heinecke at middle linebacker and the secondary largely intact, the guide expects another elite unit. *(p. 303)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 303)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 303)*. Its analysis, in reference form:
 
 ### Is a healthy John Mateer going to be better?
 
-There is a clear line of demarcation for Mateer’s 2025 season. Through the first four games of the season, Mateer completed 67.6% of his passes, averaged 8.5 yards per attempt and had thrown six touchdowns to three interceptions on an average depth of target 8.5 yards downfield. Then, he broke his throwing hand in the win over Auburn. In the following eight games, Mateer completed only 58.8% of his passes, averaged 6.4 yards per attempt and threw eight touchdowns to eight interceptions. Which Mateer shows up in 2026? It would be short-sighted to dismiss the injury to his throwing hand and subsequent decline in play. However, Mateer could have been a better decision-maker. His 16 turnover-worthy plays over those eight games were third-most among SEC quarterbacks. Mateer needs to be healthy, but he needs to be better with the football too.
+The guide draws a sharp before-and-after line. In the first four games Mateer completed 67.6% at 8.5 yards per attempt with six touchdowns to three interceptions at an 8.5-yard average depth of target. He then broke his throwing hand against Auburn, and over the next eight games completed 58.8% at 6.4 yards per attempt with eight touchdowns and eight interceptions. It refuses to attribute the decline solely to the injury: his 16 turnover-worthy plays across those eight games were third-most among SEC quarterbacks. Conclusion: he needs to be healthy and also better with the ball. *(p. 303)*
 
 ### Can the Sooners run the football?
 
-Mateer was also nowhere near the runner he was in his final season at Washington State. In 2024, he ran for 1,008 yards and 15 touchdowns while averaging 6.8 yards per attempt. Last year, he managed just 565 yards on only 15 fewer attempts. But his struggles on the ground were hardly the only ones. Oklahoma as a whole averaged only 3.5 yards per carry for the season. Tory Blaylock led the team with 480 yards on 120 attempts. The Sooners ended the year 127th in EPA per play rushing and 128th in success rate. Offensive coordinator Ben Arbuckle — Mateer’s offensive coordinator at Washington State — has to find a way to get his quarterback and this running attack back to being effective. A couple of new offensive linemen will help, but better play-calling will too.
+Mateer was far less effective running than in his final Washington State season, when he gained 1,008 yards and 15 touchdowns at 6.8 per attempt; in 2025 he managed 565 yards on only 15 fewer carries. The problem was team-wide: 3.5 yards per carry overall, Tory Blaylock leading with 480 yards on 120 attempts, and finishes of 127th in rushing EPA per play and 128th in success rate. Coordinator Ben Arbuckle, Mateer's coordinator at Washington State, has to fix both. The guide credits new offensive linemen but says better play-calling is needed too. *(p. 303)*
 
 ### Will the Sooners be as dominant on defense as they were last year?
 
-The short answer is probably. Seven starters are back for Oklahoma on defense. The Sooners’ top two tacklers — Kip Lewis and Owen Heinecke — are among them. Defensive lineman Taylor Wein (7 sacks, 8 tackles for loss) and defensive tackle David Stone lead a defensive line which had a hand in limiting opponents to 2.4 yards per carry last year. In all, Oklahoma allowed just 15.5 points per game and 4.3 yards per play in 2025. The defensive line is experienced, the linebackers remain in good shape with the presence of Heinecke at middle linebacker and the secondary is largely intact. The Sooners were the third-most efficient defense by EPA standards last season and led the country in success rate. With all of the returning production, Venables will have one of the best units in the country again.
+Probably. Seven starters return including top tacklers Kip Lewis and Owen Heinecke, with lineman Taylor Wein (7 sacks, 8 tackles for loss) and tackle David Stone anchoring a front that held opponents to 2.4 yards per carry. Oklahoma allowed 15.5 points and 4.3 yards per play, finished third in defensive efficiency by EPA and led the country in success rate. With the line experienced, Heinecke at middle linebacker and the secondary largely intact, the guide expects another elite unit. *(p. 303)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -335,6 +304,8 @@ No source conflict identified for this team.
 | 5, 7, 8, 9, 10, 14, 15, 17, 18, 34, 39, 45, 46, 69, 131, 147, 179, 180, 228, 250, 260, 290, 294, 299, 304, 306, 310, 312 | Other pages naming this team |
 
 This team is named in **46 sentences across 31 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 7, 8, 9, 10, 14, 15, 17, 18, 34, 39, 45, 46, 69, 131, 147, 179, 180, 228, 250, 260, 290, 294, 299, 304, 306, 310, 312.
 
 ## 29. Cross-Links
 

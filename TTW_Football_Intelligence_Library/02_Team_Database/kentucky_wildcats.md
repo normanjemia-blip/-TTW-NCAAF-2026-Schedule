@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 4.3–7.7 overall, 2.0–7.0 in conference |
 | **Schedule strength** | 51.93 (#3 toughest of 138) |
 
-### Season outlook as written in the guide (p. 294)
+### Season outlook — VSiN's analysis in reference form (p. 294)
 
-Mark Stoops was the college football equivalent of your favorite pair of jeans: consistent but unremarkable. In 13 seasons, Stoops won 82 games, four bowls and achieved two double-digit win seasons. However, his record had been getting consistently worse, bottoming out last season with a paltry two wins. So, the powers that be ditched the jeans and started rocking some slick chinos. Thirty-six year old Will Stein comes in from Oregon with a deep offensive background. He is the opposite of Stoops in almost every way. It also seems that Kentucky is reaching into its pockets a bit more and providing Stein with the financial backing needed to make a jump in the SEC. Over 4.5 A bet on the Over is a statement of belief in Stein and his offensive prowess. Minchey should thrive learning under him, and Stein brought in a decent amount of talent to supplement the skill positions and give his new QB a good stable of weapons. If Bateman can get this defense to replicate its production from 2025, then the Wildcats have some potential. The schedule is not overtly daunting for Kentucky. Yes, it gets Texas A&M and Oklahoma on the road. But, it does not face Georgia, Texas or Ole Miss this season. The Wildcats also get to host Alabama, and have plenty of winnable games against mid-tier SEC foes like Vanderbilt, Tennessee, South Carolina and Missouri.
+- Mark Stoops is characterized as consistent but unremarkable — 82 wins, four bowls and two double-digit seasons in 13 years — with results steadily declining to a two-win floor in 2025. *(p. 294)*
+- Will Stein arrives at 36 from Oregon with a deep offensive background, described as the opposite of Stoops in almost every way. The guide also notes Kentucky appears to be spending more to back him. *(p. 294)*
+- Recommendation is Over 4.5 wins, framed explicitly as a statement of belief in Stein's offensive ability. Quarterback Kenny Minchey should benefit from him, and Stein imported decent skill-position talent. *(p. 294)*
+- The Over also depends on coordinator Jay Bateman getting the defense to repeat its 2025 production. *(p. 294)*
+- Schedule is not daunting: road games at Texas A&M and Oklahoma, but no Georgia, Texas or Ole Miss, a home game with Alabama, and winnable fixtures against mid-tier SEC opposition in Vanderbilt, Tennessee, South Carolina and Missouri. *(p. 294)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,18 +86,13 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The confidence was refreshing, and it begs the question, is the first-time head coach ready for the job? *(p. 295)*
-- Stein is the second-youngest Power Four coach in the country. *(p. 295)*
-- How does that all translate to being the head coach at Kentucky? *(p. 295)*
+- Mark Stoops is characterized as consistent but unremarkable — 82 wins, four bowls and two double-digit seasons in 13 years — with results steadily declining to a two-win floor in 2025. *(p. 294)*
+- Will Stein arrives at 36 from Oregon with a deep offensive background, described as the opposite of Stoops in almost every way. The guide also notes Kentucky appears to be spending more to back him. *(p. 294)*
+- Recommendation is Over 4.5 wins, framed explicitly as a statement of belief in Stein's offensive ability. Quarterback Kenny Minchey should benefit from him, and Stein imported decent skill-position talent. *(p. 294)*
+- **Speaking of Stein, is he Him?** Stein told SEC media days he would be the reason Kentucky succeeds, and the guide finds the confidence refreshing while treating the underlying question as open. He is the second-youngest Power Four head coach, spent three seasons under Dan Lanning, had a hand in developing Bo Nix, Dillon Gabriel and Dante Moore, and called plays for an offense that never finished below 13th nationally in scoring. The guide lists the real unknowns plainly: whether he can keep developing quarterbacks with head-coaching duties, and whether he can run an efficient SEC offense with less talent than at Oregon. Its answer rests on his confidence rather than evidence. *(p. 295)*
+- **What happens to the defense?** With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- KENTUCKY OVER 4.5 WINS (-148) When asked at SEC Media Days why he believes he can win in Lexington, new head coach Will Stein responded, “Because of me, honestly.” And I trust Stein. *(p. 9)*
-- OREGON Ducks coach Dan Lanning lost his defensive coordinator (Tosh Lupoi, California) and offensive coordinator (Will Stein, Kentucky) to head coaching jobs, but he doesn’t lose often. *(p. 18)*
-- From there, he moved up the ranks, eventually serving as the co-DC at Kentucky before two seasons as the head coach at Troy and two at Tulane. *(p. 36)*
-- Will Stein Kentucky Personally, I really like this hire, especially when paired with a strong DC grab in Jay Bateman. *(p. 36)*
-- It was his work as an OC at Troy, Texas Tech, and Kentucky that got him his first head coaching job. *(p. 63)*
-- This year Oregon starts out as a bit of a victim of its own success as both offensive coordinator Will Stein (Kentucky) and Tosh Lupoi (Cal) depart for head coaching jobs. *(p. 170)*
+Also referenced on **pp. 9, 18, 36, 63, 170, 291, 329** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -99,13 +100,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 294)*.
 
-- Minchey should thrive learning under him, and Stein brought in a decent amount of talent to supplement the skill positions and give his new QB a good stable of weapons. *(p. 294)*
-- He joins Stein, who has a long track record of developing quarterbacks in his time at Oregon. *(p. 295)*
-- Can he continue to develop signal-callers when he has so many other duties now? *(p. 295)*
+- Recommendation is Over 4.5 wins, framed explicitly as a statement of belief in Stein's offensive ability. Quarterback Kenny Minchey should benefit from him, and Stein imported decent skill-position talent. *(p. 294)*
+- **Will Kenny Minchey be everything he was expected to be?** Flipping Minchey from a Nebraska commitment in a single day is presented as the clearest signal of a new era, with the guide gesturing at NIL as the likely mechanism. He arrives from Notre Dame, where he genuinely pushed CJ Carr in camp. A former four-star, he completed 20 of 26 passes for 196 yards and rushed for 84 yards and a touchdown in spot duty. Paired with Stein, who developed quarterbacks at Oregon, the guide rates the fit very highly. *(p. 295)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With quarterback Sam Leavitt transferring to LSU, the Sun Devils turn to Kentucky transfer Cutter Boley. *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -121,52 +119,26 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- In the era of NIL, we can guess how the program managed it. *(p. 295)*
-- The defensive line is mostly intact, and it adds six more transfers to a group that had a hand in limiting opponents to 3.7 yards per carry. *(p. 295)*
+- **Will Kenny Minchey be everything he was expected to be?** Flipping Minchey from a Nebraska commitment in a single day is presented as the clearest signal of a new era, with the guide gesturing at NIL as the likely mechanism. He arrives from Notre Dame, where he genuinely pushed CJ Carr in camp. A former four-star, he completed 20 of 26 passes for 196 yards and rushed for 84 yards and a touchdown in spot duty. Paired with Stein, who developed quarterbacks at Oregon, the guide rates the fit very highly. *(p. 295)*
+- **What happens to the defense?** With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With quarterback Sam Leavitt transferring to LSU, the Sun Devils turn to Kentucky transfer Cutter Boley. *(p. 20)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
-- This was a much more efficient offense with Creel at the helm as opposed to Rutgers/Kentucky transfer Gavin Wimsatt and that means there’s a lot of hope for this group, even if a new stud running back needs to emerge. *(p. 192)*
-- Trever Jackson from Arkansas and JUCO transfer Tre Guerra, who also had offers from Texas Tech, Kentucky, Florida State, LSU, and Virginia, are other options. *(p. 321)*
+Referenced in the guide on **pp. 20, 135, 192, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Minchey is a former four-star prospect who completed 20-of-26 passes for 196 yards while rushing for 84 yards and a touchdown in spot duty for the Irish. *(p. 295)*
+- **Will Kenny Minchey be everything he was expected to be?** Flipping Minchey from a Nebraska commitment in a single day is presented as the clearest signal of a new era, with the guide gesturing at NIL as the likely mechanism. He arrives from Notre Dame, where he genuinely pushed CJ Carr in camp. A former four-star, he completed 20 of 26 passes for 196 yards and rushed for 84 yards and a touchdown in spot duty. Paired with Stein, who developed quarterbacks at Oregon, the guide rates the fit very highly. *(p. 295)*
 
 ## 13. Offensive Identity
 
-- Thirty-six year old Will Stein comes in from Oregon with a deep offensive background. *(p. 294)*
-- Over 4.5 A bet on the Over is a statement of belief in Stein and his offensive prowess. *(p. 294)*
-- Minchey is a former four-star prospect who completed 20-of-26 passes for 196 yards while rushing for 84 yards and a touchdown in spot duty for the Irish. *(p. 295)*
-- He’s a great offensive mind who spent the last three seasons working under Dan Lanning, and he’s had a hand in developing Bo Nix, Dillon Gabriel and Dante Moore. *(p. 295)*
-- Stein called plays for an offense that finished no lower than 13th in the country in scoring. *(p. 295)*
-- Will he be able to lead an efficient offense in the SEC with less talent than what he had in Eugene? *(p. 295)*
-- With him out the door, and an offensive mind in Stein at the helm, what does that mean for this side of the ball? *(p. 295)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OREGON Ducks coach Dan Lanning lost his defensive coordinator (Tosh Lupoi, California) and offensive coordinator (Will Stein, Kentucky) to head coaching jobs, but he doesn’t lose often. *(p. 18)*
-- Props to the Kentucky athletic department for realizing that the program needs to modernize offensively. *(p. 36)*
-- What Mark Stoops did, including eight straight bowl game appearances from 2016-23, was very impressive with the team’s tenacious defense and ball-control offense, but for Kentucky to take the leap into being a legitimate contender, a more dynamic offense will be required, especially in the SEC. *(p. 36)*
-- This year Oregon starts out as a bit of a victim of its own success as both offensive coordinator Will Stein (Kentucky) and Tosh Lupoi (Cal) depart for head coaching jobs. *(p. 170)*
-- This was a much more efficient offense with Creel at the helm as opposed to Rutgers/Kentucky transfer Gavin Wimsatt and that means there’s a lot of hope for this group, even if a new stud running back needs to emerge. *(p. 192)*
+Referenced in the guide on **pp. 18, 36, 170, 192, 294, 295** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- If Bateman can get this defense to replicate its production from 2025, then the Wildcats have some potential. *(p. 294)*
-- Jay Bateman comes in to run the defense from Texas A&M. *(p. 295)*
-- A defensive mind from the tree of Mike Elko should be a positive addition. *(p. 295)*
-- The defensive line is mostly intact, and it adds six more transfers to a group that had a hand in limiting opponents to 3.7 yards per carry. *(p. 295)*
+- The Over also depends on coordinator Jay Bateman getting the defense to repeat its 2025 production. *(p. 294)*
+- **What happens to the defense?** With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OREGON Ducks coach Dan Lanning lost his defensive coordinator (Tosh Lupoi, California) and offensive coordinator (Will Stein, Kentucky) to head coaching jobs, but he doesn’t lose often. *(p. 18)*
-- What Mark Stoops did, including eight straight bowl game appearances from 2016-23, was very impressive with the team’s tenacious defense and ball-control offense, but for Kentucky to take the leap into being a legitimate contender, a more dynamic offense will be required, especially in the SEC. *(p. 36)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
-- Six starters from last season are back, and Sumrall brought in defensive coordinator Brad White, who served under Mike Stoops at Kentucky in the same role. *(p. 291)*
-- He was the DC at Wake Forest prior to Jake Dickert’s arrival and then a defensive assistant at Kentucky. *(p. 329)*
+Referenced in the guide on **pp. 18, 36, 135, 291, 329** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -242,18 +214,14 @@ Prices printed on the team page *(p. 295)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Mark Stoops was the college football equivalent of your favorite pair of jeans: consistent but unremarkable. *(p. 294)*
-- Over 4.5 A bet on the Over is a statement of belief in Stein and his offensive prowess. *(p. 294)*
+- Recommendation is Over 4.5 wins, framed explicitly as a statement of belief in Stein's offensive ability. Quarterback Kenny Minchey should benefit from him, and Stein imported decent skill-position talent. *(p. 294)*
+- The Over also depends on coordinator Jay Bateman getting the defense to repeat its 2025 production. *(p. 294)*
 
 ## 22. Historical / Situational Trends
 
-- However, his record had been getting consistently worse, bottoming out last season with a paltry two wins. *(p. 294)*
-- The Wildcats also retained six starters from last season’s team, including the team leader in tackles (76) and interceptions (4), Ty Bryant. *(p. 295)*
+- Mark Stoops is characterized as consistent but unremarkable — 82 wins, four bowls and two double-digit seasons in 13 years — with results steadily declining to a two-win floor in 2025. *(p. 294)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Boley had an up-and-down year as Kentucky’s starter last season, throwing for 2,160 yards with 15 touchdowns and 12 interceptions. *(p. 119)*
-- Six starters from last season are back, and Sumrall brought in defensive coordinator Brad White, who served under Mike Stoops at Kentucky in the same role. *(p. 291)*
+Referenced in the guide on **pp. 119, 291** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -299,39 +267,36 @@ As printed on p. 295. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- Thirty-six year old Will Stein comes in from Oregon with a deep offensive background. *(p. 294)*
-- Minchey is very talented, but his match with Stein could be the equivalent of peanut butter and jelly: an elite combination. *(p. 295)*
-- Will Stein Kentucky Personally, I really like this hire, especially when paired with a strong DC grab in Jay Bateman. *(p. 36)*
-- What Mark Stoops did, including eight straight bowl game appearances from 2016-23, was very impressive with the team’s tenacious defense and ball-control offense, but for Kentucky to take the leap into being a legitimate contender, a more dynamic offense will be required, especially in the SEC. *(p. 36)*
+- Will Stein arrives at 36 from Oregon with a deep offensive background, described as the opposite of Stoops in almost every way. The guide also notes Kentucky appears to be spending more to back him. *(p. 294)*
+- With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.3 wins** against a posted total of 4.5 — **-0.2** against this team.
-- But, it does not face Georgia, Texas or Ole Miss this season. *(p. 294)*
-- The confidence was refreshing, and it begs the question, is the first-time head coach ready for the job? *(p. 295)*
-- OREGON Ducks coach Dan Lanning lost his defensive coordinator (Tosh Lupoi, California) and offensive coordinator (Will Stein, Kentucky) to head coaching jobs, but he doesn’t lose often. *(p. 18)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
+- Schedule is not daunting: road games at Texas A&M and Oklahoma, but no Georgia, Texas or Ole Miss, a home game with Alabama, and winnable fixtures against mid-tier SEC opposition in Vanderbilt, Tennessee, South Carolina and Missouri. *(p. 294)*
+- Stein told SEC media days he would be the reason Kentucky succeeds, and the guide finds the confidence refreshing while treating the underlying question as open. He is the second-youngest Power Four head coach, spent three seasons under Dan Lanning, had a hand in developing Bo Nix, Dillon Gabriel and Dante Moore, and called plays for an offense that never finished below 13th nationally in scoring. The guide lists the real unknowns plainly: whether he can keep developing quarterbacks with head-coaching duties, and whether he can run an efficient SEC offense with less talent than at Oregon. Its answer rests on his confidence rather than evidence. *(p. 295)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 295)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 295)*. Its analysis, in reference form:
 
 ### Will Kenny Minchey be everything he was expected to be?
 
-There was no bigger signal that Kentucky was entering a new era than when it managed to flip Minchey from his commitment to Nebraska in a single day. In the era of NIL, we can guess how the program managed it. The win was huge. Minchey comes in from Notre Dame after competing with CJ Carr for the starting gig, and by all accounts he legitimately pushed Carr in camp. Minchey is a former four-star prospect who completed 20-of-26 passes for 196 yards while rushing for 84 yards and a touchdown in spot duty for the Irish. He joins Stein, who has a long track record of developing quarterbacks in his time at Oregon. Minchey is very talented, but his match with Stein could be the equivalent of peanut butter and jelly: an elite combination.
+Flipping Minchey from a Nebraska commitment in a single day is presented as the clearest signal of a new era, with the guide gesturing at NIL as the likely mechanism. He arrives from Notre Dame, where he genuinely pushed CJ Carr in camp. A former four-star, he completed 20 of 26 passes for 196 yards and rushed for 84 yards and a touchdown in spot duty. Paired with Stein, who developed quarterbacks at Oregon, the guide rates the fit very highly. *(p. 295)*
 
 ### Speaking of Stein, is he Him?
 
-Stein made headlines when he told the press at SEC media days that he would be the reason why Kentucky succeeds. The confidence was refreshing, and it begs the question, is the first-time head coach ready for the job? Stein is the second-youngest Power Four coach in the country. He’s a great offensive mind who spent the last three seasons working under Dan Lanning, and he’s had a hand in developing Bo Nix, Dillon Gabriel and Dante Moore. Stein called plays for an offense that finished no lower than 13th in the country in scoring. How does that all translate to being the head coach at Kentucky? Can he continue to develop signal-callers when he has so many other duties now? Will he be able to lead an efficient offense in the SEC with less talent than what he had in Eugene? If his confidence is any indicator, the answer is yes.
+Stein told SEC media days he would be the reason Kentucky succeeds, and the guide finds the confidence refreshing while treating the underlying question as open. He is the second-youngest Power Four head coach, spent three seasons under Dan Lanning, had a hand in developing Bo Nix, Dillon Gabriel and Dante Moore, and called plays for an offense that never finished below 13th nationally in scoring. The guide lists the real unknowns plainly: whether he can keep developing quarterbacks with head-coaching duties, and whether he can run an efficient SEC offense with less talent than at Oregon. Its answer rests on his confidence rather than evidence. *(p. 295)*
 
 ### What happens to the defense?
 
-Kentucky had always been steady and consistent under Stoops. With him out the door, and an offensive mind in Stein at the helm, what does that mean for this side of the ball? Jay Bateman comes in to run the defense from Texas A&M. A defensive mind from the tree of Mike Elko should be a positive addition. The Wildcats also retained six starters from last season’s team, including the team leader in tackles (76) and interceptions (4), Ty Bryant. The defensive line is mostly intact, and it adds six more transfers to a group that had a hand in limiting opponents to 3.7 yards per carry. If Bateman can show some Elko-esque qualities as a play-caller, this group should be able to at least mimic the production from 2025.
+With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -349,6 +314,8 @@ No source conflict identified for this team.
 | 9, 10, 18, 20, 25, 36, 46, 63, 119, 135, 170, 192, 291, 296, 308, 312, 321, 329 | Other pages naming this team |
 
 This team is named in **33 sentences across 20 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 9, 10, 18, 20, 25, 36, 46, 63, 119, 135, 170, 192, 291, 296, 308, 312, 321, 329.
 
 ## 29. Cross-Links
 

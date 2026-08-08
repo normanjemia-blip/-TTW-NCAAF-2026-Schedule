@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 6.6–5.4 overall, 4.2–4.8 in conference |
 | **Schedule strength** | 48.96 (#21 toughest of 138) |
 
-### Season outlook as written in the guide (p. 306)
+### Season outlook — VSiN's analysis in reference form (p. 306)
 
-Intriguing is the word that most closely associates with the South Carolina football program. The Gamecocks have a talented quarterback in LaNorris Sellers. They have a football coach who has shown the ability to get the most out of a roster. But can it all come together in 2026? Shane Beamer has nine starters back on offense and a new offensive play-caller. The defense needs to be rebuilt to an extent, but that group has been consistent under Beamer. The sixth-year coach has expectations due to his success here, but whether he can meet those with this roster is a big question in a brutal conference. Under 6.5 Six wins still gets South Carolina to a bowl game this season, and that seems to be one of the best outcomes for the program this year. The schedule is a bear for the Gamecocks. Road games against Alabama, Florida, Oklahoma and Clemson will be extremely challenging. They host Texas A&M — which will be coming off a bye week — and Georgia. It leaves little margin of error for the team. What if the regression of Sellers is legitimate? What if Briles cannot help him reclaim the magic from two years ago? Even if he can, how does this offense truly stack up against a slate of opposing defenses which will rank among the best in the country, let alone the SEC? At least a six-win season is an improvement for South Carolina.
+- The guide's summary word is intriguing: a talented quarterback in LaNorris Sellers and a coach who has shown he can get the most from a roster, with the open question whether it comes together in 2026. *(p. 306)*
+- Shane Beamer has nine offensive starters back and a new play-caller; the defense needs some rebuilding but has been consistent under him. In his sixth year expectations exist, and the guide questions whether this roster can meet them in a brutal conference. *(p. 306)*
+- Recommendation is Under 6.5 wins, with the guide noting six wins still reaches a bowl and calling that one of the better realistic outcomes. *(p. 306)*
+- Schedule is described as a bear: road games at Alabama, Florida, Oklahoma and Clemson, home games against Georgia and a Texas A&M side coming off a bye. Little margin for error. *(p. 306)*
+- The guide stacks its doubts as explicit questions: whether Sellers' regression is real, whether Kendal Briles can restore his 2024 form, and how the offense measures up against a slate of defenses ranking among the nation's best. It closes by noting even six wins would be an improvement. *(p. 306)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,16 +84,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- They have a football coach who has shown the ability to get the most out of a roster. *(p. 306)*
-- The sixth-year coach has expectations due to his success here, but whether he can meet those with this roster is a big question in a brutal conference. *(p. 306)*
-- Sellers’ decline not only derailed the season for South Carolina, but it also cost Mike Shula his job as offensive coordinator just nine games into the year. *(p. 307)*
-- The program has not won a bowl game since his first season as head coach, and an extremely talented quarterback in Sellers has seemingly regressed under his watch. *(p. 307)*
-- It might sound foolish to sound the alarm on a coach just barely into a contract extension which locks him in through 2030, but crazier things have happened. *(p. 307)*
+- The guide's summary word is intriguing: a talented quarterback in LaNorris Sellers and a coach who has shown he can get the most from a roster, with the open question whether it comes together in 2026. *(p. 306)*
+- Shane Beamer has nine offensive starters back and a new play-caller; the defense needs some rebuilding but has been consistent under him. In his sixth year expectations exist, and the guide questions whether this roster can meet them in a brutal conference. *(p. 306)*
+- **What does the addition of Kendal Briles do for this offense?** Sellers' decline also cost Mike Shula his job nine games in, and Beamer hired Briles, who has a long record of good offenses and of maximizing quarterbacks. The guide is genuinely curious how he uses Sellers, noting the running element fell away: 49 designed carries against 79 in 2024, even though the underlying quality held — 4.64 yards after contact, 25 runs of 10-plus yards and 5.3 yards per attempt, all in line with the prior year. Briles must fix the passing and use the skill set better. *(p. 307)*
+- **How sturdy is the ground on which Shane Beamer walks?** Beamer signed an extension in January 2025 after a nine-win season, then went 4-8 — a second losing season in three years. The programme has not won a bowl since his first season, and a very talented quarterback appears to have regressed under him. The guide acknowledges it may seem premature to raise the alarm on a coach locked in through 2030, but asks whether another poor season heats his seat enough to leave South Carolina rudderless by year's end. *(p. 307)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Dowell Loggains, who was the OC at South Carolina in 2023-24, including LaNorris Sellers’ spectacular redshirt freshman season in ‘24 with 674 rushing yards (4.1 YPC) and 2,534 passing yards (18/7 TD/INT ratio), now has more dual-threat options in Boone than he previously had. *(p. 11)*
-- His co-OC and QB coach was at South Carolina. *(p. 211)*
+Also referenced on **pp. 11, 211** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -97,22 +99,12 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 306)*.
 
-- The Gamecocks have a talented quarterback in LaNorris Sellers. *(p. 306)*
-- He went from completing 64.8% of his passes in 2024 to a 59.8% completion percentage. *(p. 307)*
-- Sellers threw five fewer touchdown passes on just five fewer attempts. *(p. 307)*
-- The season prior, his stat line was 71.0% completion, 8.7 yards per attempt, 14 touchdowns and two interceptions. *(p. 307)*
-- The decline from Sellers as a passer was stark. *(p. 307)*
-- One facet of the quarterback’s game that fell off in 2025 was running the football. *(p. 307)*
-- Briles has to fix Sellers as a passer, but he must also utilize his skill set much more efficiently. *(p. 307)*
-- The program has not won a bowl game since his first season as head coach, and an extremely talented quarterback in Sellers has seemingly regressed under his watch. *(p. 307)*
+- The guide's summary word is intriguing: a talented quarterback in LaNorris Sellers and a coach who has shown he can get the most from a roster, with the open question whether it comes together in 2026. *(p. 306)*
+- The guide stacks its doubts as explicit questions: whether Sellers' regression is real, whether Kendal Briles can restore his 2024 form, and how the offense measures up against a slate of defenses ranking among the nation's best. It closes by noting even six wins would be an improvement. *(p. 306)*
+- **Is LaNorris Sellers going to revert back to form as a passer?** Sellers is identified as a main reason the offense declined: completions fell from 64.8% in 2024 to 59.8%, with five fewer touchdown passes on only five fewer attempts. The guide finds the clean-pocket numbers most telling — 67.3% for 9.3 yards per attempt with eight touchdowns and five interceptions, against 71.0% for 8.7 yards with 14 touchdowns and two interceptions the year before. It calls the decline stark and says he must return to 2024 form to justify the hype. *(p. 307)*
+- **What does the addition of Kendal Briles do for this offense?** Sellers' decline also cost Mike Shula his job nine games in, and Beamer hired Briles, who has a long record of good offenses and of maximizing quarterbacks. The guide is genuinely curious how he uses Sellers, noting the running element fell away: 49 designed carries against 79 in 2024, even though the underlying quality held — 4.64 yards after contact, 25 runs of 10-plus yards and 5.3 yards per attempt, all in line with the prior year. Briles must fix the passing and use the skill set better. *(p. 307)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Dowell Loggains, who was the OC at South Carolina in 2023-24, including LaNorris Sellers’ spectacular redshirt freshman season in ‘24 with 674 rushing yards (4.1 YPC) and 2,534 passing yards (18/7 TD/INT ratio), now has more dual-threat options in Boone than he previously had. *(p. 11)*
-- SOUTH CAROLINA Overhyped as a top NFL prospect a year ago, quarterback LaNorris Sellers slumped as a passer as the Gamecocks slipped from 9-4 to 4-8. *(p. 19)*
-- LANORRIS SELLERS, SOUTH CAROLINA Gamecock quarterbacks have been sacked more than 40 times in each of the past three seasons. *(p. 45)*
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
-- His co-OC and QB coach was at South Carolina. *(p. 211)*
+Also referenced on **pp. 11, 19, 45, 165, 211** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -129,41 +121,25 @@ The Stability Score table prints the same figure independently: **14 returning s
 ## 11. Transfer Portal
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Hurricanes also added WR transfer Cam Vaughn, who had 800 yards and five TDs two seasons ago at Jacksonville State, and former South Carolina WR Vandrevius Jacobs, who was productive with 548 yards and four touchdowns a season ago. *(p. 10)*
-- Marcus Stokes was a multi-year starter at West Florida and Air Noland was a very highly-touted recruit who never saw the field at Ohio State and transferred to South Carolina. *(p. 59)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
+Referenced in the guide on **pp. 10, 59, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Dowell Loggains, who was the OC at South Carolina in 2023-24, including LaNorris Sellers’ spectacular redshirt freshman season in ‘24 with 674 rushing yards (4.1 YPC) and 2,534 passing yards (18/7 TD/INT ratio), now has more dual-threat options in Boone than he previously had. *(p. 11)*
-- Marcus Stokes was a multi-year starter at West Florida and Air Noland was a very highly-touted recruit who never saw the field at Ohio State and transferred to South Carolina. *(p. 59)*
+Referenced in the guide on **pp. 11, 59** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Shane Beamer has nine starters back on offense and a new offensive play-caller. *(p. 306)*
-- Even if he can, how does this offense truly stack up against a slate of opposing defenses which will rank among the best in the country, let alone the SEC? *(p. 306)*
-- Sellers was one of the reasons this offense declined in 2025. *(p. 307)*
-- Sellers’ decline not only derailed the season for South Carolina, but it also cost Mike Shula his job as offensive coordinator just nine games into the year. *(p. 307)*
-- Briles has a long track record of good offense under his watch, and he has experience in maximizing signal- callers. *(p. 307)*
+- Shane Beamer has nine offensive starters back and a new play-caller; the defense needs some rebuilding but has been consistent under him. In his sixth year expectations exist, and the guide questions whether this roster can meet them in a brutal conference. *(p. 306)*
+- **What does the addition of Kendal Briles do for this offense?** Sellers' decline also cost Mike Shula his job nine games in, and Beamer hired Briles, who has a long record of good offenses and of maximizing quarterbacks. The guide is genuinely curious how he uses Sellers, noting the running element fell away: 49 designed carries against 79 in 2024, even though the underlying quality held — 4.64 yards after contact, 25 runs of 10-plus yards and 5.3 yards per attempt, all in line with the prior year. Briles must fix the passing and use the skill set better. *(p. 307)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Dowell Loggains, who was the OC at South Carolina in 2023-24, including LaNorris Sellers’ spectacular redshirt freshman season in ‘24 with 674 rushing yards (4.1 YPC) and 2,534 passing yards (18/7 TD/INT ratio), now has more dual-threat options in Boone than he previously had. *(p. 11)*
-- Essentially a brand-new receiving corps joins holdover Mikey Matthews (33-3482) with Landon Ellis (James Madison), Leland Smith (San Jose State), Brian Rowe (South Carolina), Aidan Mizell (Florida), and Semaj Morgan (Michigan) entering the fold. *(p. 179)*
+Referenced in the guide on **pp. 11, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The defense needs to be rebuilt to an extent, but that group has been consistent under Beamer. *(p. 306)*
-- Even if he can, how does this offense truly stack up against a slate of opposing defenses which will rank among the best in the country, let alone the SEC? *(p. 306)*
+- Shane Beamer has nine offensive starters back and a new play-caller; the defense needs some rebuilding but has been consistent under him. In his sixth year expectations exist, and the guide questions whether this roster can meet them in a brutal conference. *(p. 306)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
+Referenced in the guide on **pp. 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -207,7 +183,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- The sixth-year coach has expectations due to his success here, but whether he can meet those with this roster is a big question in a brutal conference. *(p. 306)*
+
+Referenced in the guide on **pp. 306** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -230,24 +207,14 @@ Prices printed on the team page *(p. 307)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 6.5 wins, with the guide noting six wins still reaches a bowl and calling that one of the better realistic outcomes. *(p. 306)*
+- The guide stacks its doubts as explicit questions: whether Sellers' regression is real, whether Kendal Briles can restore his 2024 form, and how the offense measures up against a slate of defenses ranking among the nation's best. It closes by noting even six wins would be an improvement. *(p. 306)*
 
 ## 22. Historical / Situational Trends
 
-- But can it all come together in 2026? *(p. 306)*
-- Sellers was one of the reasons this offense declined in 2025. *(p. 307)*
-- He went from completing 64.8% of his passes in 2024 to a 59.8% completion percentage. *(p. 307)*
-- One facet of the quarterback’s game that fell off in 2025 was running the football. *(p. 307)*
-- He had just 49 designed rush attempts compared to 79 in 2024. *(p. 307)*
-- The program has not won a bowl game since his first season as head coach, and an extremely talented quarterback in Sellers has seemingly regressed under his watch. *(p. 307)*
+- **How sturdy is the ground on which Shane Beamer walks?** Beamer signed an extension in January 2025 after a nine-win season, then went 4-8 — a second losing season in three years. The programme has not won a bowl since his first season, and a very talented quarterback appears to have regressed under him. The guide acknowledges it may seem premature to raise the alarm on a coach locked in through 2030, but asks whether another poor season heats his seat enough to leave South Carolina rudderless by year's end. *(p. 307)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Dowell Loggains, who was the OC at South Carolina in 2023-24, including LaNorris Sellers’ spectacular redshirt freshman season in ‘24 with 674 rushing yards (4.1 YPC) and 2,534 passing yards (18/7 TD/INT ratio), now has more dual-threat options in Boone than he previously had. *(p. 11)*
-- SOUTH CAROLINA – OVER 6.5 WINS South Carolina dropped by five wins in the regular season last year, and quite honestly, it was unexpected. *(p. 23)*
-- LANORRIS SELLERS, SOUTH CAROLINA Gamecock quarterbacks have been sacked more than 40 times in each of the past three seasons. *(p. 45)*
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
+Referenced in the guide on **pp. 11, 23, 45, 165, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -293,43 +260,40 @@ As printed on p. 307. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **6.6 wins** against a posted total of 6.5 — **+0.1** in this team's favour.
-- The Gamecocks have a talented quarterback in LaNorris Sellers. *(p. 306)*
-- Under 6.5 Six wins still gets South Carolina to a bowl game this season, and that seems to be one of the best outcomes for the program this year. *(p. 306)*
-- Even if he can, how does this offense truly stack up against a slate of opposing defenses which will rank among the best in the country, let alone the SEC? *(p. 306)*
-- At least a six-win season is an improvement for South Carolina. *(p. 306)*
-- He must return to 2024 form if he’s to make good on the hype. *(p. 307)*
-- The program has not won a bowl game since his first season as head coach, and an extremely talented quarterback in Sellers has seemingly regressed under his watch. *(p. 307)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
-- Rowe, from South Carolina, is the most talented of the group. *(p. 179)*
+- The guide's summary word is intriguing: a talented quarterback in LaNorris Sellers and a coach who has shown he can get the most from a roster, with the open question whether it comes together in 2026. *(p. 306)*
+- The guide stacks its doubts as explicit questions: whether Sellers' regression is real, whether Kendal Briles can restore his 2024 form, and how the offense measures up against a slate of defenses ranking among the nation's best. It closes by noting even six wins would be an improvement. *(p. 306)*
+- Sellers is identified as a main reason the offense declined: completions fell from 64.8% in 2024 to 59.8%, with five fewer touchdown passes on only five fewer attempts. The guide finds the clean-pocket numbers most telling — 67.3% for 9.3 yards per attempt with eight touchdowns and five interceptions, against 71.0% for 8.7 yards with 14 touchdowns and two interceptions the year before. It calls the decline stark and says he must return to 2024 form to justify the hype. *(p. 307)*
+- Beamer signed an extension in January 2025 after a nine-win season, then went 4-8 — a second losing season in three years. The programme has not won a bowl since his first season, and a very talented quarterback appears to have regressed under him. The guide acknowledges it may seem premature to raise the alarm on a coach locked in through 2030, but asks whether another poor season heats his seat enough to leave South Carolina rudderless by year's end. *(p. 307)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 6.5**.
-- The sixth-year coach has expectations due to his success here, but whether he can meet those with this roster is a big question in a brutal conference. *(p. 306)*
-- What if the regression of Sellers is legitimate? *(p. 306)*
-- The program has not won a bowl game since his first season as head coach, and an extremely talented quarterback in Sellers has seemingly regressed under his watch. *(p. 307)*
-- If South Carolina struggles again, will Beamer’s seat heat to the point that the Gamecocks become a rudderless ship by season’s end? *(p. 307)*
+- The guide's summary word is intriguing: a talented quarterback in LaNorris Sellers and a coach who has shown he can get the most from a roster, with the open question whether it comes together in 2026. *(p. 306)*
+- Shane Beamer has nine offensive starters back and a new play-caller; the defense needs some rebuilding but has been consistent under him. In his sixth year expectations exist, and the guide questions whether this roster can meet them in a brutal conference. *(p. 306)*
+- The guide stacks its doubts as explicit questions: whether Sellers' regression is real, whether Kendal Briles can restore his 2024 form, and how the offense measures up against a slate of defenses ranking among the nation's best. It closes by noting even six wins would be an improvement. *(p. 306)*
+- Beamer signed an extension in January 2025 after a nine-win season, then went 4-8 — a second losing season in three years. The programme has not won a bowl since his first season, and a very talented quarterback appears to have regressed under him. The guide acknowledges it may seem premature to raise the alarm on a coach locked in through 2030, but asks whether another poor season heats his seat enough to leave South Carolina rudderless by year's end. *(p. 307)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 307)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 307)*. Its analysis, in reference form:
 
 ### Is LaNorris Sellers going to revert back to form as a passer?
 
-Sellers was one of the reasons this offense declined in 2025. He went from completing 64.8% of his passes in 2024 to a 59.8% completion percentage. Sellers threw five fewer touchdown passes on just five fewer attempts. Shockingly, his play from a clean pocket declined as well. On the dropbacks in which he was kept clean, Sellers completed only 67.3% of attempts for 9.3 yards per attempt, eight touchdowns and five interceptions. The season prior, his stat line was 71.0% completion, 8.7 yards per attempt, 14 touchdowns and two interceptions. The decline from Sellers as a passer was stark. He must return to 2024 form if he’s to make good on the hype.
+Sellers is identified as a main reason the offense declined: completions fell from 64.8% in 2024 to 59.8%, with five fewer touchdown passes on only five fewer attempts. The guide finds the clean-pocket numbers most telling — 67.3% for 9.3 yards per attempt with eight touchdowns and five interceptions, against 71.0% for 8.7 yards with 14 touchdowns and two interceptions the year before. It calls the decline stark and says he must return to 2024 form to justify the hype. *(p. 307)*
 
 ### What does the addition of Kendal Briles do for this offense?
 
-Sellers’ decline not only derailed the season for South Carolina, but it also cost Mike Shula his job as offensive coordinator just nine games into the year. In the offseason, Beamer brought in Kendal Briles to fill the void. Briles has a long track record of good offense under his watch, and he has experience in maximizing signal- callers. How he uses Sellers is going to be fascinating. One facet of the quarterback’s game that fell off in 2025 was running the football. He had just 49 designed rush attempts compared to 79 in 2024. But he averaged 4.64 yards per carry after contact, generated 25 runs of 10 or more yards and averaged 5.3 yards per attempt overall, all of which were on par with his previous season. Briles has to fix Sellers as a passer, but he must also utilize his skill set much more efficiently.
+Sellers' decline also cost Mike Shula his job nine games in, and Beamer hired Briles, who has a long record of good offenses and of maximizing quarterbacks. The guide is genuinely curious how he uses Sellers, noting the running element fell away: 49 designed carries against 79 in 2024, even though the underlying quality held — 4.64 yards after contact, 25 runs of 10-plus yards and 5.3 yards per attempt, all in line with the prior year. Briles must fix the passing and use the skill set better. *(p. 307)*
 
 ### How sturdy is the ground on which Shane Beamer walks?
 
-Beamer signed a contract extension of January 2025 after a nine- win season for South Carolina. However, the Gamecocks followed that up with a 4-8 campaign, the second losing season in three years for Beamer. The program has not won a bowl game since his first season as head coach, and an extremely talented quarterback in Sellers has seemingly regressed under his watch. It might sound foolish to sound the alarm on a coach just barely into a contract extension which locks him in through 2030, but crazier things have happened. If South Carolina struggles again, will Beamer’s seat heat to the point that the Gamecocks become a rudderless ship by season’s end?
+Beamer signed an extension in January 2025 after a nine-win season, then went 4-8 — a second losing season in three years. The programme has not won a bowl since his first season, and a very talented quarterback appears to have regressed under him. The guide acknowledges it may seem premature to raise the alarm on a coach locked in through 2030, but asks whether another poor season heats his seat enough to leave South Carolina rudderless by year's end. *(p. 307)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -347,6 +311,8 @@ No source conflict identified for this team.
 | 10, 11, 19, 23, 45, 59, 113, 165, 175, 179, 211, 286, 312 | Other pages naming this team |
 
 This team is named in **21 sentences across 15 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 11, 19, 23, 45, 59, 113, 165, 175, 179, 211, 286, 312.
 
 ## 29. Cross-Links
 

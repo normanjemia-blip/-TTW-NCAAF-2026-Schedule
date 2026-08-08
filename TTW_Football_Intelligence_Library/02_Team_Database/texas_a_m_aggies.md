@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 8.5–3.5 overall, 5.6–3.4 in conference |
 | **Schedule strength** | 49.67 (#12 toughest of 138) |
 
-### Season outlook as written in the guide (p. 312)
+### Season outlook — VSiN's analysis in reference form (p. 312)
 
-Mike Elko has done a tremendous job as a head coach at both Duke and Texas A&M. At College Station, he’s improved the Aggies’ record each year. This season, he has the 13th-most experienced roster in the country. The retention of talent is huge, but so too is the task at hand. The Aggies have an extremely difficult schedule. They are breaking in a new offensive play-caller. Elko must manage all of that while trying to get Texas A&M to its first SEC championship, and perhaps, its first national title in the modern era. Under 8.5 Potential is one thing, but reality is another. The reality is that Reed has not shown true progress in his areas of weakness. The defense is a good unit, but in comparison with some of its contemporaries in the SEC is not one of the elite defenses in the country. That isn’t to say the sum of those parts is a terrible team. The Aggies can be very good, but it will be a challenge to win nine or more games. Texas A&M has three extremely high-probability wins against Missouri State, Arkansas and the Citadel. After that, they will likely be favored against Arizona State, Kentucky and even South Carolina, the latter of which is on the road, making it more of a challenge than it initially looks. The Aggies will then have to deal with LSU, Missouri, Alabama, Oklahoma and Texas. Of those, they get to host just the Longhorns. It’s a brutal schedule for a team looking to build on an 11-win season and berth in the CFP.
+- Mike Elko is credited with a strong record at both Duke and Texas A&M, improving the Aggies' record every year, and now has the 13th-most experienced roster in the country. *(p. 312)*
+- Against that, the guide sets the size of the task: a very difficult schedule, a new offensive play-caller, and the goal of a first SEC championship and possibly a first modern national title. *(p. 312)*
+- Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
+- The guide is careful not to overstate the bear case — it calls the Aggies capable of being very good while judging nine or more wins a challenge. *(p. 312)*
+- Schedule detail: three very likely wins over Missouri State, Arkansas and the Citadel, then probable favorite status against Arizona State, Kentucky and South Carolina, the last on the road and harder than it looks. LSU, Missouri, Alabama, Oklahoma and Texas follow, with only Texas at home — a brutal slate for a team coming off 11 wins and a playoff berth. *(p. 312)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,17 +84,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Mike Elko has done a tremendous job as a head coach at both Duke and Texas A&M. *(p. 312)*
-- Elko is known as a defensive mastermind, and almost every one of his teams — either as a coordinator or head coach — have been well above average defensively. *(p. 313)*
+- Mike Elko is credited with a strong record at both Duke and Texas A&M, improving the Aggies' record every year, and now has the 13th-most experienced roster in the country. *(p. 312)*
+- Against that, the guide sets the size of the task: a very difficult schedule, a new offensive play-caller, and the goal of a first SEC championship and possibly a first modern national title. *(p. 312)*
+- **Can Marcel Reed improve enough as a passer?** Reed completed 61.6% at 8.3 yards per attempt with 25 touchdowns to 12 interceptions — solid, but the guide argues insufficient for the next step. He ranked 12th among SEC passers by PFF grade, posted the third-highest turnover-worthy play rate at 4.7% and led the conference with 22 such plays. On throws of 10-19 yards between the numbers he completed 50.8% with six touchdowns and five interceptions, and nine of his 22 turnover-worthy plays came on those attempts. New play-caller Holmon Wiggins arrives, and the guide leaves open whether that aids his development. *(p. 313)*
+- **Can the defense move into the elite stratosphere?** Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TEXAS A&M In two years in College Station, coach Mike Elko has won 19 games. *(p. 18)*
-- In Klieman’s place steps Collin Klein, who gets his first head coaching gig after spending seven seasons in Manhattan as an offensive assistant before serving as Texas A&M’s OC the last two years. *(p. 23)*
-- One of the more stable teams prepping for 2026 across the country is head coach Mike Elko’s Texas A&M squad, a team that reached the CFP last year but was stymied by Miami at home. *(p. 23)*
-- Beard, who is Bobby Petrino’s son-in-law, was at Missouri State for six seasons, first as the DC under Petrino and then as the head coach when Petrino went to be the OC at Texas A&M. *(p. 37)*
-- Texas A&M will have a new offensive coordinator in Holmon Wiggins, but he was the wide receivers coach and co-offensive coordinator last season. *(p. 39)*
-- Key and the coaches had success with Texas A&M transfer Haynes King and they’ve turned to the portal again for Alberto Mendoza, the younger brother of Fernando Mendoza, the reigning National Championship QB and No. 1 overall pick. *(p. 90)*
+Also referenced on **pp. 18, 23, 37, 39, 90, 95** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -98,17 +99,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 312)*.
 
-- In 2025, Reed completed 61.6% of his passes, averaged 8.3 yards per attempt and threw 25 touchdowns to 12 interceptions. *(p. 313)*
-- Reed ranked 12th among SEC passers in PFF passing grade in 2025. *(p. 313)*
-- On throws of 10-19 yards downfield, between the numbers, he completed just 50.8% of passes and threw six touchdowns to five interceptions. *(p. 313)*
-- Reed is a good quarterback, but has limitations as a passer. *(p. 313)*
-- But what if Reed takes that step forward as a passer? *(p. 313)*
+- Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
+- **Can Marcel Reed improve enough as a passer?** Reed completed 61.6% at 8.3 yards per attempt with 25 touchdowns to 12 interceptions — solid, but the guide argues insufficient for the next step. He ranked 12th among SEC passers by PFF grade, posted the third-highest turnover-worthy play rate at 4.7% and led the conference with 22 such plays. On throws of 10-19 yards between the numbers he completed 50.8% with six touchdowns and five interceptions, and nine of his 22 turnover-worthy plays came on those attempts. New play-caller Holmon Wiggins arrives, and the guide leaves open whether that aids his development. *(p. 313)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- MARCEL REED, TEXAS A&M At his best, Reed can beat opponents with his arm (more than 5,000 yards passing across the past two seasons) and legs (more than 1,000 yards rushing during the same term). *(p. 45)*
-- Key and the coaches had success with Texas A&M transfer Haynes King and they’ve turned to the portal again for Alberto Mendoza, the younger brother of Fernando Mendoza, the reigning National Championship QB and No. 1 overall pick. *(p. 90)*
-- O’Neill was a Petrino recruit to Texas A&M and Burgess is a dual-threat four-star and the No. 9 QB in the class for 247. *(p. 99)*
+Also referenced on **pp. 45, 90, 99** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -124,48 +118,26 @@ The Stability Score table prints the same figure independently: **18 returning s
 
 ## 11. Transfer Portal
 
+- **Can the defense move into the elite stratosphere?** Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
-- Key and the coaches had success with Texas A&M transfer Haynes King and they’ve turned to the portal again for Alberto Mendoza, the younger brother of Fernando Mendoza, the reigning National Championship QB and No. 1 overall pick. *(p. 90)*
-- It certainly helps that the Aztecs’ top two receivers, Jordan Napier and Donovan Brown, are returning and Texas A&M transfer Jacob Bostick has been added. *(p. 275)*
+Referenced in the guide on **pp. 73, 90, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- O’Neill was a Petrino recruit to Texas A&M and Burgess is a dual-threat four-star and the No. 9 QB in the class for 247. *(p. 99)*
+Referenced in the guide on **pp. 99** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- They are breaking in a new offensive play-caller. *(p. 312)*
-- Texas A&M only allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play. *(p. 313)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- In Klieman’s place steps Collin Klein, who gets his first head coaching gig after spending seven seasons in Manhattan as an offensive assistant before serving as Texas A&M’s OC the last two years. *(p. 23)*
-- MARCEL REED TEXAS A&M (30-1) Reed didn’t receive any votes for this award last season, but he wasn’t far off from having a seat at the table. *(p. 39)*
-- Texas A&M will have a new offensive coordinator in Holmon Wiggins, but he was the wide receivers coach and co-offensive coordinator last season. *(p. 39)*
-- MARCEL REED, TEXAS A&M At his best, Reed can beat opponents with his arm (more than 5,000 yards passing across the past two seasons) and legs (more than 1,000 yards rushing during the same term). *(p. 45)*
-- It certainly helps that the Aztecs’ top two receivers, Jordan Napier and Donovan Brown, are returning and Texas A&M transfer Jacob Bostick has been added. *(p. 275)*
+Referenced in the guide on **pp. 23, 39, 45, 275, 312, 313** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The defense is a good unit, but in comparison with some of its contemporaries in the SEC is not one of the elite defenses in the country. *(p. 312)*
-- Elko is known as a defensive mastermind, and almost every one of his teams — either as a coordinator or head coach — have been well above average defensively. *(p. 313)*
-- The defensive line lost three players to the NFL, which is obviously a massive blow. *(p. 313)*
-- Their leading tackler departed, but Elko added First Team All-AAC linebacker Ray Coney. *(p. 313)*
-- The secondary remains largely intact as well. *(p. 313)*
-- Elko always maximizes his defensive talent, but he will have to do more than that to get this defense to a national championship level. *(p. 313)*
-- The defense is good but not elite, and it needs to retool a defensive line which lost some talent. *(p. 313)*
-- What if Elko turns the corner with this defense and it joins the table of the elite units in college football? *(p. 313)*
+- Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
+- **Can the defense move into the elite stratosphere?** Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- Jay Bateman comes in to run the defense from Texas A&M. *(p. 295)*
+Referenced in the guide on **pp. 95, 295** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -212,11 +184,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- It’s a brutal schedule for a team looking to build on an 11-win season and berth in the CFP. *(p. 312)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Tulsa on September 26th feels like a win, but it’s a dreaded lookahead spot with a trip to Texas A&M looming the following week. *(p. 10)*
+Referenced in the guide on **pp. 10, 312** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -264,21 +233,16 @@ Prices printed on the team page *(p. 313)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- In a season that looks to be loaded with parity, maybe the market is sleeping on what Texas A&M can become. *(p. 313)*
+- Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
+- The guide is careful not to overstate the bear case — it calls the Aggies capable of being very good while judging nine or more wins a challenge. *(p. 312)*
+- Schedule detail: three very likely wins over Missouri State, Arkansas and the Citadel, then probable favorite status against Arizona State, Kentucky and South Carolina, the last on the road and harder than it looks. LSU, Missouri, Alabama, Oklahoma and Texas follow, with only Texas at home — a brutal slate for a team coming off 11 wins and a playoff berth. *(p. 312)*
+- **Are we sleeping on Texas A&M's place in the conference and the country?** The guide sets out the market position: tied with Alabama at DraftKings to win the SEC at +850, and 20-1 for the national championship behind eight other teams, three of them in the SEC. It restates the limitations — Reed good but limited as a passer, a defense that is good rather than elite and rebuilding its line — and then poses the upside directly: if Reed improves and Elko lifts the defense into the elite tier in a season loaded with parity, the market may be underrating what Texas A&M could become. *(p. 313)*
 
 ## 22. Historical / Situational Trends
 
-- In 2025, Reed completed 61.6% of his passes, averaged 8.3 yards per attempt and threw 25 touchdowns to 12 interceptions. *(p. 313)*
-- Reed ranked 12th among SEC passers in PFF passing grade in 2025. *(p. 313)*
+- Mike Elko is credited with a strong record at both Duke and Texas A&M, improving the Aggies' record every year, and now has the 13th-most experienced roster in the country. *(p. 312)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TEXAS A&M UNDER 8.5 WINS (-120) There’s some regression headed for College Station after things broke the Aggies’ way time and again in 2025. *(p. 15)*
-- One of the more stable teams prepping for 2026 across the country is head coach Mike Elko’s Texas A&M squad, a team that reached the CFP last year but was stymied by Miami at home. *(p. 23)*
-- Notre Dame started last season 0-2, losing games to Miami and Texas A&M by a total of four points, and finished 10-2. *(p. 38)*
-- MARCEL REED TEXAS A&M (30-1) Reed didn’t receive any votes for this award last season, but he wasn’t far off from having a seat at the table. *(p. 39)*
-- Texas A&M will have a new offensive coordinator in Holmon Wiggins, but he was the wide receivers coach and co-offensive coordinator last season. *(p. 39)*
-- MARCEL REED, TEXAS A&M At his best, Reed can beat opponents with his arm (more than 5,000 yards passing across the past two seasons) and legs (more than 1,000 yards rushing during the same term). *(p. 45)*
+Referenced in the guide on **pp. 15, 23, 38, 39, 45, 73, 209, 237, 279, 283** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -323,50 +287,40 @@ As printed on p. 313. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- At College Station, he’s improved the Aggies’ record each year. *(p. 312)*
-- This season, he has the 13th-most experienced roster in the country. *(p. 312)*
-- The defense is a good unit, but in comparison with some of its contemporaries in the SEC is not one of the elite defenses in the country. *(p. 312)*
-- Those are all solid numbers, but if Texas A&M is going to move forward he has to improve. *(p. 313)*
-- This season, Elko has eight starters back, so can they become elite? *(p. 313)*
-- The defense is good but not elite, and it needs to retool a defensive line which lost some talent. *(p. 313)*
-- What if Elko turns the corner with this defense and it joins the table of the elite units in college football? *(p. 313)*
-- MARCEL REED, TEXAS A&M At his best, Reed can beat opponents with his arm (more than 5,000 yards passing across the past two seasons) and legs (more than 1,000 yards rushing during the same term). *(p. 45)*
-- Texas and Georgia are primed to get to Atlanta, and there are strong contenders on the fringes like Alabama, Ole Miss and Texas A&M. *(p. 301)*
+- Mike Elko is credited with a strong record at both Duke and Texas A&M, improving the Aggies' record every year, and now has the 13th-most experienced roster in the country. *(p. 312)*
+- Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
+- Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
+- The guide sets out the market position: tied with Alabama at DraftKings to win the SEC at +850, and 20-1 for the national championship behind eight other teams, three of them in the SEC. It restates the limitations — Reed good but limited as a passer, a defense that is good rather than elite and rebuilding its line — and then poses the upside directly: if Reed improves and Elko lifts the defense into the elite tier in a season loaded with parity, the market may be underrating what Texas A&M could become. *(p. 313)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- The Aggies have an extremely difficult schedule. *(p. 312)*
-- The reality is that Reed has not shown true progress in his areas of weakness. *(p. 312)*
-- It’s a brutal schedule for a team looking to build on an 11-win season and berth in the CFP. *(p. 312)*
-- The defensive line lost three players to the NFL, which is obviously a massive blow. *(p. 313)*
-- All of this begs the question, where does Texas A&M truly stack up in both the SEC and national picture? *(p. 313)*
-- The defense is good but not elite, and it needs to retool a defensive line which lost some talent. *(p. 313)*
-- The rest of my futures are as follows: LSU OVER 8.5 WINS (-104 - 3 UNITS) & TO MAKE COLLEGE FOOTBALL PLAYOFF (+240) The Tigers have some very tough games on the schedule, but they’ll play Clemson, Texas A&M, Alabama, and Texas in Death Valley. *(p. 8)*
-- TEXAS A&M UNDER 8.5 WINS (-120) There’s some regression headed for College Station after things broke the Aggies’ way time and again in 2025. *(p. 15)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
-- The Hurricanes were unable to finish the job and lost to Indiana, but Mario Cristobal was able to flip the proverbial bird to the doubters and haters with wins over Texas A&M, Ohio State, and Ole Miss before the 27-21 loss to the Hoosiers. *(p. 79)*
+- Against that, the guide sets the size of the task: a very difficult schedule, a new offensive play-caller, and the goal of a first SEC championship and possibly a first modern national title. *(p. 312)*
+- Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
+- Schedule detail: three very likely wins over Missouri State, Arkansas and the Citadel, then probable favorite status against Arizona State, Kentucky and South Carolina, the last on the road and harder than it looks. LSU, Missouri, Alabama, Oklahoma and Texas follow, with only Texas at home — a brutal slate for a team coming off 11 wins and a playoff berth. *(p. 312)*
+- Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 313)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 313)*. Its analysis, in reference form:
 
 ### Can Marcel Reed improve enough as a passer?
 
-In 2025, Reed completed 61.6% of his passes, averaged 8.3 yards per attempt and threw 25 touchdowns to 12 interceptions. Those are all solid numbers, but if Texas A&M is going to move forward he has to improve. Reed ranked 12th among SEC passers in PFF passing grade in 2025. He posted the third-highest turnover-worthy play rate (4.7%) and led the conference in total turnover-worthy plays (22). On throws of 10-19 yards downfield, between the numbers, he completed just 50.8% of passes and threw six touchdowns to five interceptions. He committed nine of his 22 turnover-worthy plays on such attempts. Reed has a new play-caller in Holmon Wiggins this season. Will the change help his development, or will it be more of the same?
+Reed completed 61.6% at 8.3 yards per attempt with 25 touchdowns to 12 interceptions — solid, but the guide argues insufficient for the next step. He ranked 12th among SEC passers by PFF grade, posted the third-highest turnover-worthy play rate at 4.7% and led the conference with 22 such plays. On throws of 10-19 yards between the numbers he completed 50.8% with six touchdowns and five interceptions, and nine of his 22 turnover-worthy plays came on those attempts. New play-caller Holmon Wiggins arrives, and the guide leaves open whether that aids his development. *(p. 313)*
 
 ### Can the defense move into the elite stratosphere?
 
-Elko is known as a defensive mastermind, and almost every one of his teams — either as a coordinator or head coach — have been well above average defensively. This season, Elko has eight starters back, so can they become elite? Texas A&M only allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play. Those are all marks placing them inside the top 25 of the country statistically, but what will it take to get the Aggies into the top 10? The defensive line lost three players to the NFL, which is obviously a massive blow. Still, there is talent here. Their leading tackler departed, but Elko added First Team All-AAC linebacker Ray Coney. The secondary remains largely intact as well. Elko always maximizes his defensive talent, but he will have to do more than that to get this defense to a national championship level.
+Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
 
-### Are we sleeping on Texas A&M’s place in the conference and the country?
+### Are we sleeping on Texas A&M's place in the conference and the country?
 
-All of this begs the question, where does Texas A&M truly stack up in both the SEC and national picture? The Aggies are tied with Alabama at DraftKings in odds to win the SEC (+850). They are 20-1 to win the National Championship, behind eight other teams, three of which are in the SEC. Reed is a good quarterback, but has limitations as a passer. The defense is good but not elite, and it needs to retool a defensive line which lost some talent. But what if Reed takes that step forward as a passer? What if Elko turns the corner with this defense and it joins the table of the elite units in college football? In a season that looks to be loaded with parity, maybe the market is sleeping on what Texas A&M can become.
+The guide sets out the market position: tied with Alabama at DraftKings to win the SEC at +850, and 20-1 for the national championship behind eight other teams, three of them in the SEC. It restates the limitations — Reed good but limited as a passer, a defense that is good rather than elite and rebuilding its line — and then poses the upside directly: if Reed improves and Elko lifts the defense into the elite tier in a season loaded with parity, the market may be underrating what Texas A&M could become. *(p. 313)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -384,6 +338,8 @@ No source conflict identified for this team.
 | 8, 10, 15, 18, 23, 37, 38, 39, 41, 45, 72, 73, 79, 89, 90, 95, 99, 209, 237, 275, 279, 284, 286, 292, 294, 295, 296, 299, 301, 302, 306, 310, 323 | Other pages naming this team |
 
 This team is named in **53 sentences across 36 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 10, 15, 18, 23, 37, 38, 39, 41, 45, 72, 73, 79, 89, 90, 95, 99, 209, 237, 275, 279, 284, 286, 292, 294, 295, 296, 299, 301, 302, 306, 310, 323.
 
 ## 29. Cross-Links
 

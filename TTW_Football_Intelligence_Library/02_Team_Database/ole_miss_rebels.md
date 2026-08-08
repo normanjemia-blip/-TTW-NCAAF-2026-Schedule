@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 8.0–4.0 overall, 5.3–3.7 in conference |
 | **Schedule strength** | 49.66 (#13 toughest of 138) |
 
-### Season outlook as written in the guide (p. 304)
+### Season outlook — VSiN's analysis in reference form (p. 304)
 
-Narratively, Ole Miss might be the best team to follow in the SEC this season. The Rebels went on a magical run to the College Football Playoff semifinals, and led Miami with three minutes remaining before folding. But now that the excitement of that run has worn off, it’s time to deal with reality. Pete Golding is a first-time head coach in charge of maintaining what he achieved in the interim last season. Golding had to replace his offensive staff, retool the skill positions and now has a full offseason as the man. He’s got the quarterback, but does he have the ability to be a successful head coach? Or did he benefit from taking Lane Kiffin’s team on a run? Under 7.5 Ole Miss is an experienced group. The Rebels return 16 starters from a team that was just one drive away from making it to the national championship game. But those that don’t return will have a major impact. The architects of one of the better offenses in the country. Key pieces both on the offensive and defensive lines. All of those absences will likely be felt. Then there’s the challenge of the schedule. The Rebels have road trips to Florida, Texas and Oklahoma. They must also host LSU in an emotionally charged contest in Week 3, as well as Missouri and Georgia. The season even opens with a challenge against a good Louisville squad in Nashville. Honestly, there is some doubt in Golding as the head ball coach. That, coupled with a taxing schedule, could mean a disappointing season in Oxford.
+- The guide calls Ole Miss the SEC's most compelling narrative: a run to the playoff semifinals where the Rebels led Miami with three minutes left before folding. *(p. 304)*
+- Pete Golding is now a first-time head coach charged with sustaining what he achieved on an interim basis, having replaced his offensive staff and retooled the skill positions. The guide poses the question directly — does he have head-coaching ability, or did he benefit from inheriting Lane Kiffin's team mid-run? *(p. 304)*
+- Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
+- Schedule adds to the case: road trips to Florida, Texas and Oklahoma; home games against LSU in an emotionally charged Week 3, Missouri and Georgia; and an opener against a good Louisville side in Nashville. *(p. 304)*
+- The guide states its doubt about Golding plainly, and concludes that combined with a taxing schedule it could mean a disappointing season in Oxford. *(p. 304)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,25 +86,12 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 36)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Pete Golding is a first-time head coach in charge of maintaining what he achieved in the interim last season. *(p. 304)*
-- Golding had to replace his offensive staff, retool the skill positions and now has a full offseason as the man. *(p. 304)*
-- He’s got the quarterback, but does he have the ability to be a successful head coach? *(p. 304)*
-- Honestly, there is some doubt in Golding as the head ball coach. *(p. 304)*
-- Kiffin left before the CFP run for Ole Miss, but the staff members he chose to take stuck around for the postseason last year. *(p. 305)*
-- Then offensive coordinator Charlie Weis Jr. was massive in helping lead the Rebels’ offense, but he is officially out the door and on to Baton Rouge. *(p. 305)*
-- In comes John David Baker — the offensive coordinator at East Carolina in 2025 — to replace Weis, and to some extent, Kiffin. *(p. 305)*
-- Golding had to find a new offensive coordinator, help rebuild position groups like wide receiver and is now in charge of all facets of the program. *(p. 305)*
-- Golding has never been a head coach before, and must now guide a program with national championship aspirations through a massive season in a brutal conference. *(p. 305)*
-- He is a defensive mind, but his decision at offensive coordinator will loom over the season, especially if the Rebels’ offense struggles out of the gates. *(p. 305)*
+- Pete Golding is now a first-time head coach charged with sustaining what he achieved on an interim basis, having replaced his offensive staff and retooled the skill positions. The guide poses the question directly — does he have head-coaching ability, or did he benefit from inheriting Lane Kiffin's team mid-run? *(p. 304)*
+- The guide states its doubt about Golding plainly, and concludes that combined with a taxing schedule it could mean a disappointing season in Oxford. *(p. 304)*
+- **How much will the offense differ after an offseason of change?** Kiffin left before the playoff run but the staff he had chosen stayed through the postseason. Offensive coordinator Charlie Weis Jr., described as central to the offense, has now gone to Baton Rouge. John David Baker, East Carolina's coordinator in 2025, replaces him and to some degree replaces Kiffin. The guide flags the practical consequences: new terminology and unknown play structure and flow. All four top receivers from 2025 are gone via draft, portal or otherwise. Kewan Lacy remains a major piece in the backfield, but the guide warns of a possible large shift in the unit's efficiency. *(p. 305)*
+- **Can Pete Golding prove that he can do it on his own?** The guide treats this as the season's crux. Golding had Weis calling plays in the postseason and now does not; he has had to hire a coordinator, rebuild groups such as receiver, and take charge of every facet. It does not dispute the success under him last season but insists the situation is now materially different — a first-time head coach steering a programme with national title ambitions through a brutal conference. As a defensive coach, his coordinator choice is expected to hang over the season if the offense starts slowly. *(p. 305)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- There is a ton to like about the 2026 version of Ole Miss despite losing Lane Kiffin as head coach. *(p. 11)*
-- MISSISSIPPI Pete Golding won two of three playoff games after taking over for Kiffin, and his job as head coach was made much easier when dual-threat quarterback Trinidad Chambliss (4,464 total yards and 30 touchdowns) was granted an extra year of eligibility and running back Kewan Lacy (1,567 rushing yards, 24 TDs) returned. *(p. 18)*
-- Aside from Cignetti, the coach who’s probably talked about the most in the media is Lane Kiffin, who ditched Mississippi prior to the CFP and took the LSU job. *(p. 38)*
-- Not only that, but Harrell is working alongside two new coordinators as his previous ones are now at Ole Miss and South Florida. *(p. 54)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- The Tigers brought in the best transfer class in the country, and brought key staff members in from Ole Miss. *(p. 296)*
+Also referenced on **pp. 11, 18, 38, 54, 95, 296, 327** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -108,18 +101,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 304)*.
 
-- He’s got the quarterback, but does he have the ability to be a successful head coach? *(p. 304)*
-- Chambliss ended up as the third-highest graded passer by PFF in the SEC. *(p. 305)*
-- For the season, he completed 65.6% of his passes, averaged 8.8 yards per attempt and threw 22 touchdowns to just three interceptions. *(p. 305)*
+- **What can Trinidad Chambliss do for an encore?** Chambliss only got the job through Austin Simmons' injury but never gave it back, finishing as PFF's third-highest graded SEC passer: 65.6% completions, 8.8 yards per attempt, 22 touchdowns to three interceptions. The guide highlights ball security as the contrast with Simmons — a 2.5% turnover-worthy play rate, third-best among SEC starters. He enters 2026 as the unquestioned starter and a Heisman candidate, with the open question being whether he can repeat it amid heavy turnover in the receiver room. *(p. 305)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- MISSISSIPPI Pete Golding won two of three playoff games after taking over for Kiffin, and his job as head coach was made much easier when dual-threat quarterback Trinidad Chambliss (4,464 total yards and 30 touchdowns) was granted an extra year of eligibility and running back Kewan Lacy (1,567 rushing yards, 24 TDs) returned. *(p. 18)*
-- Ole Miss transfer Austin Simmons is the new quarterback. *(p. 19)*
-- Simmons was named the starting quarterback for Ole Miss last season and started the first two games of the year before being injured. *(p. 301)*
-- There are also quite a few players from East Mississippi CC on this roster now, including 6-foot-5 QB Rodge Waldrop. *(p. 345)*
+Also referenced on **pp. 8, 18, 19, 301, 345** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -135,58 +119,27 @@ The Stability Score table prints the same figure independently: **16 returning s
 
 ## 11. Transfer Portal
 
-- Either through the draft, transfer portal or other means, the top four receivers from last year are gone. *(p. 305)*
+- **How much will the offense differ after an offseason of change?** Kiffin left before the playoff run but the staff he had chosen stayed through the postseason. Offensive coordinator Charlie Weis Jr., described as central to the offense, has now gone to Baton Rouge. John David Baker, East Carolina's coordinator in 2025, replaces him and to some degree replaces Kiffin. The guide flags the practical consequences: new terminology and unknown play structure and flow. All four top receivers from 2025 are gone via draft, portal or otherwise. Kewan Lacy remains a major piece in the backfield, but the guide warns of a possible large shift in the unit's efficiency. *(p. 305)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- While Oregon DE transfer Ashton Porter, Oklahoma State DE De’Marion Thomas and Ole Miss LB Jaden Yates came to Houston to get more playing time. *(p. 11)*
-- Kiffin poached key players on that unit to tag along to LSU, but Ole Miss signed eight four-star transfers on that side of the ball. *(p. 11)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- Senior linebacker Whit Weeks and transfer end Princewill Umanmielen (Ole Miss) lead the defense. 9. *(p. 18)*
+Referenced in the guide on **pp. 8, 11, 18, 19, 73, 195, 296, 297, 331** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kiffin poached key players on that unit to tag along to LSU, but Ole Miss signed eight four-star transfers on that side of the ball. *(p. 11)*
+Referenced in the guide on **pp. 11** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Golding had to replace his offensive staff, retool the skill positions and now has a full offseason as the man. *(p. 304)*
-- The architects of one of the better offenses in the country. *(p. 304)*
-- Key pieces both on the offensive and defensive lines. *(p. 304)*
-- Can he replicate the success he had last season with so much change around so much change in the receiver room? *(p. 305)*
-- Then offensive coordinator Charlie Weis Jr. was massive in helping lead the Rebels’ offense, but he is officially out the door and on to Baton Rouge. *(p. 305)*
-- In comes John David Baker — the offensive coordinator at East Carolina in 2025 — to replace Weis, and to some extent, Kiffin. *(p. 305)*
-- Chambliss will also have a whole new group of receivers this season. *(p. 305)*
-- Either through the draft, transfer portal or other means, the top four receivers from last year are gone. *(p. 305)*
-- Golding had Weis to call plays for the offense in the postseason last year. *(p. 305)*
-- Golding had to find a new offensive coordinator, help rebuild position groups like wide receiver and is now in charge of all facets of the program. *(p. 305)*
-- He is a defensive mind, but his decision at offensive coordinator will loom over the season, especially if the Rebels’ offense struggles out of the gates. *(p. 305)*
+- Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
+- **How much will the offense differ after an offseason of change?** Kiffin left before the playoff run but the staff he had chosen stayed through the postseason. Offensive coordinator Charlie Weis Jr., described as central to the offense, has now gone to Baton Rouge. John David Baker, East Carolina's coordinator in 2025, replaces him and to some degree replaces Kiffin. The guide flags the practical consequences: new terminology and unknown play structure and flow. All four top receivers from 2025 are gone via draft, portal or otherwise. Kewan Lacy remains a major piece in the backfield, but the guide warns of a possible large shift in the unit's efficiency. *(p. 305)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- MISSISSIPPI Pete Golding won two of three playoff games after taking over for Kiffin, and his job as head coach was made much easier when dual-threat quarterback Trinidad Chambliss (4,464 total yards and 30 touchdowns) was granted an extra year of eligibility and running back Kewan Lacy (1,567 rushing yards, 24 TDs) returned. *(p. 18)*
-- If Simmons shows the qualities that won him the job over Chambliss at Ole Miss and cuts down on the mistakes, this is one of the offenses in the country. *(p. 300)*
-- App State plays at the highest elevation east of the Mississippi River in FBS and using that to their advantage makes a ton of sense, if Loggains and the new-look offense are able to achieve that. *(p. 318)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
+Referenced in the guide on **pp. 8, 18, 300, 318, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Key pieces both on the offensive and defensive lines. *(p. 304)*
-- He is a defensive mind, but his decision at offensive coordinator will loom over the season, especially if the Rebels’ offense struggles out of the gates. *(p. 305)*
+- Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Senior linebacker Whit Weeks and transfer end Princewill Umanmielen (Ole Miss) lead the defense. 9. *(p. 18)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- Let’s not forget Ole Miss, which finished a drive short of a berth in the final, or Oklahoma, which returns most of the best defense in the country. *(p. 283)*
-- Umanmielen totaled 51 pressures and 11 sacks for Ole Miss last year. *(p. 297)*
+Referenced in the guide on **pp. 18, 95, 283, 297** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -230,11 +183,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Golding has never been a head coach before, and must now guide a program with national championship aspirations through a massive season in a brutal conference. *(p. 305)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Sure, the threeweek stretch of Oklahoma, Florida and Ole Miss is difficult, but the Longhorns have a bye prior to the Red River Shootout, and the other two will be at home. *(p. 310)*
+Referenced in the guide on **pp. 305, 310** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -263,29 +213,16 @@ Prices printed on the team page *(p. 305)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
+- The guide states its doubt about Golding plainly, and concludes that combined with a taxing schedule it could mean a disappointing season in Oxford. *(p. 304)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Georgia is projected to be a favorite in all 12 games, with road trips to Alabama and Ole Miss as the shortest spreads. *(p. 15)*
+Also referenced on **pp. 15** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Pete Golding is a first-time head coach in charge of maintaining what he achieved in the interim last season. *(p. 304)*
-- Can he replicate the success he had last season with so much change around so much change in the receiver room? *(p. 305)*
-- Kiffin left before the CFP run for Ole Miss, but the staff members he chose to take stuck around for the postseason last year. *(p. 305)*
-- In comes John David Baker — the offensive coordinator at East Carolina in 2025 — to replace Weis, and to some extent, Kiffin. *(p. 305)*
-- Either through the draft, transfer portal or other means, the top four receivers from last year are gone. *(p. 305)*
-- Golding had Weis to call plays for the offense in the postseason last year. *(p. 305)*
-- There is no denying the success Ole Miss had under Golding when he stepped in last season, but this is now extremely different. *(p. 305)*
+- The guide calls Ole Miss the SEC's most compelling narrative: a run to the playoff semifinals where the Rebels led Miami with three minutes left before folding. *(p. 304)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TRINIDAD CHAMBLISS, OLE MISS Was there a better single-game performance in 2025 than the masterpiece turned in by Chambliss in the Rebels’ 39-34 CFP quarterfinal win over Georgia? *(p. 45)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
-- The season opener against Mississippi in Nashville will be a good litmus test for both teams, especially since the Rebels bid a not-so-fond farewell to Lane Kiffin prior to last year’s CFP. *(p. 92)*
-- Rickie Collins transferred in from Syracuse and Landon Varnes was a JUCO starter with 31 TD passes against 14 picks last season at Mississippi Gulf Coast. *(p. 195)*
-- Lane Kiffin had a LeBron James-esque winter in 2025 when dragged out the drama of leaving Ole Miss in the midst of a playoff chase in order to take the job at LSU. *(p. 296)*
-- Umanmielen totaled 51 pressures and 11 sacks for Ole Miss last year. *(p. 297)*
+Referenced in the guide on **pp. 45, 73, 92, 195, 296, 297, 301, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -331,51 +268,39 @@ As printed on p. 305. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
-- Narratively, Ole Miss might be the best team to follow in the SEC this season. *(p. 304)*
-- Under 7.5 Ole Miss is an experienced group. *(p. 304)*
-- The Rebels return 16 starters from a team that was just one drive away from making it to the national championship game. *(p. 304)*
-- But those that don’t return will have a major impact. *(p. 304)*
-- Chambliss’ 2.5% turnover-worthy play rate was the third-best among SEC starters. *(p. 305)*
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- Under 4.5 Mississippi Valley State and UMass look like the best (and maybe only) hopes for wins from the Hornets this season. *(p. 236)*
-- Let’s not forget Ole Miss, which finished a drive short of a berth in the final, or Oklahoma, which returns most of the best defense in the country. *(p. 283)*
-- The Gators will host Ole Miss and Oklahoma, which is obviously beneficial against foes that some believe can contend for the conference title. *(p. 290)*
-- The Tigers brought in the best transfer class in the country, and brought key staff members in from Ole Miss. *(p. 296)*
+- Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
+- Chambliss only got the job through Austin Simmons' injury but never gave it back, finishing as PFF's third-highest graded SEC passer: 65.6% completions, 8.8 yards per attempt, 22 touchdowns to three interceptions. The guide highlights ball security as the contrast with Simmons — a 2.5% turnover-worthy play rate, third-best among SEC starters. He enters 2026 as the unquestioned starter and a Heisman candidate, with the open question being whether he can repeat it amid heavy turnover in the receiver room. *(p. 305)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- Narratively, Ole Miss might be the best team to follow in the SEC this season. *(p. 304)*
-- Under 7.5 Ole Miss is an experienced group. *(p. 304)*
-- Chambliss did not get the starting job until an injury to Austin Simmons, but when he got on the field he did not look back. *(p. 305)*
-- Kiffin left before the CFP run for Ole Miss, but the staff members he chose to take stuck around for the postseason last year. *(p. 305)*
-- There is no denying the success Ole Miss had under Golding when he stepped in last season, but this is now extremely different. *(p. 305)*
-- Golding has never been a head coach before, and must now guide a program with national championship aspirations through a massive season in a brutal conference. *(p. 305)*
-- He is a defensive mind, but his decision at offensive coordinator will loom over the season, especially if the Rebels’ offense struggles out of the gates. *(p. 305)*
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- While Oregon DE transfer Ashton Porter, Oklahoma State DE De’Marion Thomas and Ole Miss LB Jaden Yates came to Houston to get more playing time. *(p. 11)*
+- The guide calls Ole Miss the SEC's most compelling narrative: a run to the playoff semifinals where the Rebels led Miami with three minutes left before folding. *(p. 304)*
+- Pete Golding is now a first-time head coach charged with sustaining what he achieved on an interim basis, having replaced his offensive staff and retooled the skill positions. The guide poses the question directly — does he have head-coaching ability, or did he benefit from inheriting Lane Kiffin's team mid-run? *(p. 304)*
+- Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
+- Chambliss only got the job through Austin Simmons' injury but never gave it back, finishing as PFF's third-highest graded SEC passer: 65.6% completions, 8.8 yards per attempt, 22 touchdowns to three interceptions. The guide highlights ball security as the contrast with Simmons — a 2.5% turnover-worthy play rate, third-best among SEC starters. He enters 2026 as the unquestioned starter and a Heisman candidate, with the open question being whether he can repeat it amid heavy turnover in the receiver room. *(p. 305)*
+- The guide treats this as the season's crux. Golding had Weis calling plays in the postseason and now does not; he has had to hire a coordinator, rebuild groups such as receiver, and take charge of every facet. It does not dispute the success under him last season but insists the situation is now materially different — a first-time head coach steering a programme with national title ambitions through a brutal conference. As a defensive coach, his coordinator choice is expected to hang over the season if the offense starts slowly. *(p. 305)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 305)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 305)*. Its analysis, in reference form:
 
 ### What can Trinidad Chambliss do for an encore?
 
-Chambliss did not get the starting job until an injury to Austin Simmons, but when he got on the field he did not look back. Chambliss ended up as the third-highest graded passer by PFF in the SEC. For the season, he completed 65.6% of his passes, averaged 8.8 yards per attempt and threw 22 touchdowns to just three interceptions. The stark contrast between him and Simmons’ limited time as the starter was protecting the football. Chambliss’ 2.5% turnover-worthy play rate was the third-best among SEC starters. Now, he enters 2026 as the unquestioned starter and a Heisman candidate. Can he replicate the success he had last season with so much change around so much change in the receiver room?
+Chambliss only got the job through Austin Simmons' injury but never gave it back, finishing as PFF's third-highest graded SEC passer: 65.6% completions, 8.8 yards per attempt, 22 touchdowns to three interceptions. The guide highlights ball security as the contrast with Simmons — a 2.5% turnover-worthy play rate, third-best among SEC starters. He enters 2026 as the unquestioned starter and a Heisman candidate, with the open question being whether he can repeat it amid heavy turnover in the receiver room. *(p. 305)*
 
 ### How much will the offense differ after an offseason of change?
 
-Kiffin left before the CFP run for Ole Miss, but the staff members he chose to take stuck around for the postseason last year. Then offensive coordinator Charlie Weis Jr. was massive in helping lead the Rebels’ offense, but he is officially out the door and on to Baton Rouge. In comes John David Baker — the offensive coordinator at East Carolina in 2025 — to replace Weis, and to some extent, Kiffin. Having a new play-caller means new terminology, and an unknown when it comes to play structure and flow. Chambliss will also have a whole new group of receivers this season. Either through the draft, transfer portal or other means, the top four receivers from last year are gone. Kewan Lacy is a massive piece in the backfield, but the other changes could possibly lead to a huge shift in this unit’s efficiency.
+Kiffin left before the playoff run but the staff he had chosen stayed through the postseason. Offensive coordinator Charlie Weis Jr., described as central to the offense, has now gone to Baton Rouge. John David Baker, East Carolina's coordinator in 2025, replaces him and to some degree replaces Kiffin. The guide flags the practical consequences: new terminology and unknown play structure and flow. All four top receivers from 2025 are gone via draft, portal or otherwise. Kewan Lacy remains a major piece in the backfield, but the guide warns of a possible large shift in the unit's efficiency. *(p. 305)*
 
 ### Can Pete Golding prove that he can do it on his own?
 
-It all boils down to this. Golding had Weis to call plays for the offense in the postseason last year. He is gone. Golding had to find a new offensive coordinator, help rebuild position groups like wide receiver and is now in charge of all facets of the program. There is no denying the success Ole Miss had under Golding when he stepped in last season, but this is now extremely different. Golding has never been a head coach before, and must now guide a program with national championship aspirations through a massive season in a brutal conference. He is a defensive mind, but his decision at offensive coordinator will loom over the season, especially if the Rebels’ offense struggles out of the gates.
+The guide treats this as the season's crux. Golding had Weis calling plays in the postseason and now does not; he has had to hire a coordinator, rebuild groups such as receiver, and take charge of every facet. It does not dispute the success under him last season but insists the situation is now materially different — a first-time head coach steering a programme with national title ambitions through a brutal conference. As a defensive coach, his coordinator choice is expected to hang over the season if the offense starts slowly. *(p. 305)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -393,6 +318,8 @@ No source conflict identified for this team.
 | 8, 11, 15, 18, 19, 36, 38, 45, 54, 70, 73, 79, 92, 95, 143, 195, 236, 288, 289, 290, 292, 294, 296, 297, 299, 300, 301, 302, 310, 318, 327, 331, 345 | Other pages naming this team |
 
 This team is named in **55 sentences across 36 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 11, 15, 18, 19, 36, 38, 45, 54, 70, 73, 79, 92, 95, 143, 195, 236, 288, 289, 290, 292, 294, 296, 297, 299, 300, 301, 302, 310, 318, 327, 331, 345.
 
 ## 29. Cross-Links
 

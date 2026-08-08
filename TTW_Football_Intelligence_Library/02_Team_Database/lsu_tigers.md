@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 8.5–3.5 overall, 5.7–3.3 in conference |
 | **Schedule strength** | 48.72 (#23 toughest of 138) |
 
-### Season outlook as written in the guide (p. 296)
+### Season outlook — VSiN's analysis in reference form (p. 296)
 
-Lane Kiffin had a LeBron James-esque winter in 2025 when dragged out the drama of leaving Ole Miss in the midst of a playoff chase in order to take the job at LSU. While Pete Golding has no ill-will for Kiffin, plenty both in and out of Oxford do. Winning silences all of those voices, and Kiffin did his part in the offseason to win early and often in Baton Rouge. The Tigers brought in the best transfer class in the country, and brought key staff members in from Ole Miss. Kiffin is an elite coach, but success on the biggest stage has eluded him. He’s got the resources to get it done at LSU. Now, it’s all on him. Under 8.5 The schedule is going to prove to be a challenge for LSU. While it avoids Georgia, the team gets Alabama, Texas and Texas A&M. All three of those teams make the trip to Death Valley, which is beneficial to the Tigers. LSU must also head to Oxford and face Ole Miss, and it gets Clemson at home to open the season. Conference road trips to Kentucky, Auburn and Tennessee will not be circle wins either. Perhaps the most talented transfer class is enough to push Kiffin to the top of the SEC, but a challenging schedule and a quarterback coming off a serious foot injury are cause for pause. Eight wins is a good season, and that seems to be the most likely outcome here.
+- Lane Kiffin's drawn-out departure from Ole Miss during a playoff chase left ill-feeling in Oxford, though the guide notes Pete Golding holds none. Its view is that winning silences it. *(p. 296)*
+- Kiffin moved aggressively in the offseason, landing the best transfer class in the country and bringing key staff from Ole Miss. *(p. 296)*
+- The guide rates Kiffin an elite coach for whom success on the biggest stage has been elusive, and says LSU gives him the resources — leaving the outcome on him. *(p. 296)*
+- Recommendation is Under 8.5 wins. The schedule is the core reason: LSU avoids Georgia but draws Alabama, Texas and Texas A&M, all three at home, visits Ole Miss, and opens at home with Clemson. Road trips to Kentucky, Auburn and Tennessee are not treated as certain wins. *(p. 296)*
+- The guide allows the transfer class might be enough to lift Kiffin to the top of the SEC, but flags a hard schedule and a quarterback returning from a serious foot injury as reasons for caution. It calls eight wins a good season and the likeliest outcome. *(p. 296)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,17 +86,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The Tigers brought in the best transfer class in the country, and brought key staff members in from Ole Miss. *(p. 296)*
-- Kiffin is an elite coach, but success on the biggest stage has eluded him. *(p. 296)*
-- Kiffin’s $91 million contract was the big headline in the offseason, but do not ignore the more than $3 million annually that was handed to the defensive coordinator. *(p. 297)*
+- Lane Kiffin's drawn-out departure from Ole Miss during a playoff chase left ill-feeling in Oxford, though the guide notes Pete Golding holds none. Its view is that winning silences it. *(p. 296)*
+- Kiffin moved aggressively in the offseason, landing the best transfer class in the country and bringing key staff from Ole Miss. *(p. 296)*
+- The guide rates Kiffin an elite coach for whom success on the biggest stage has been elusive, and says LSU gives him the resources — leaving the outcome on him. *(p. 296)*
+- **Will Blake Baker continue to work his magic with this defense?** Kiffin's $91 million contract drew the headlines, but the guide points to the more than $3 million a year paid to Baker, entering his third season. Before he arrived LSU allowed 28 points and 417 yards per game; in 2025 it gave up 19.8 points, 3.7 yards per rush and 5.0 yards per play, finishing eighth in adjusted opponent EPA per play. Six starters return alongside Umanmielen, who produced 51 pressures and 11 sacks at Ole Miss, and TJ Dottery, another Ole Miss transfer who tied for the sixth-most tackles in the SEC. The guide expects the trend to continue. *(p. 297)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- LSU will no longer be weighed down by the poor coaching of Brian Kelly. *(p. 8)*
-- LSU New coach Lane Kiffin used LSU’s resources to hit the transfer portal and the haul was huge. *(p. 18)*
-- Aside from Cignetti, the coach who’s probably talked about the most in the media is Lane Kiffin, who ditched Mississippi prior to the CFP and took the LSU job. *(p. 38)*
-- At USF, most of those players are quarterbacks, as Hartline and OC Tim Beck got Michael Van Buren by way of Mississippi State and LSU and Luke Kromenhoek by way of Florida State and Mississippi State. *(p. 67)*
-- Over 7.5 We’ll find out very quickly how Clemson looks for this season with the opener against LSU, but I have to think Swinney is beyond relieved to have Morris back, his OC from 2011-14. *(p. 84)*
+Also referenced on **pp. 8, 18, 38, 67, 84** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -100,16 +101,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 296)*.
 
-- Perhaps the most talented transfer class is enough to push Kiffin to the top of the SEC, but a challenging schedule and a quarterback coming off a serious foot injury are cause for pause. *(p. 296)*
-- Leavitt — the top-ranked transfer quarterback, according to 247 — burst onto the scene in his time at Arizona State. *(p. 297)*
-- In 20 games, Leavitt completed 61.3% of his passes, threw 34 touchdowns to nine interceptions and in 2024 led the Sun Devils to the College Football Playoff. *(p. 297)*
+- The guide allows the transfer class might be enough to lift Kiffin to the top of the SEC, but flags a hard schedule and a quarterback returning from a serious foot injury as reasons for caution. It calls eight wins a good season and the likeliest outcome. *(p. 296)*
+- **Will Sam Leavitt be healthy and effective?** Landing Leavitt is rated a win comparable to hiring Kiffin. The top-ranked transfer quarterback per 247, he completed 61.3% over 20 games at Arizona State with 34 touchdowns against nine interceptions and led the Sun Devils to the 2024 playoff. A Lisfranc injury ended his 2025 season and his recovery cost him spring practice. Kiffin told ESPN his concern was Leavitt's transition into the offense rather than his health. With only fall camp to get reps, the guide warns of a possible slow start and tells bettors to monitor how effective he is coming off that injury. *(p. 297)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With quarterback Sam Leavitt transferring to LSU, the Sun Devils turn to Kentucky transfer Cutter Boley. *(p. 20)*
-- At USF, most of those players are quarterbacks, as Hartline and OC Tim Beck got Michael Van Buren by way of Mississippi State and LSU and Luke Kromenhoek by way of Florida State and Mississippi State. *(p. 67)*
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
-- Then, days after signing a $4 million NIL deal to return to Washington, quarterback Demond Williams Jr. announced he was entering the transfer portal and was reportedly about to sign for more money with LSU. *(p. 182)*
+Also referenced on **pp. 20, 67, 165, 182** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -125,59 +120,29 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
-- The Tigers brought in the best transfer class in the country, and brought key staff members in from Ole Miss. *(p. 296)*
-- Perhaps the most talented transfer class is enough to push Kiffin to the top of the SEC, but a challenging schedule and a quarterback coming off a serious foot injury are cause for pause. *(p. 296)*
-- Landing Leavitt in the transfer portal was a win on par with signing Kiffin for LSU. *(p. 297)*
-- Leavitt — the top-ranked transfer quarterback, according to 247 — burst onto the scene in his time at Arizona State. *(p. 297)*
-- Kiffin hit the portal hard for his first season at Baton Rouge. *(p. 297)*
-- He brought in 41 commits in the portal alone, the sixth-most in the country. *(p. 297)*
-- Outside of Leavitt, two other five-star transfers made it to Baton Rouge: defensive end Princewill Umanmielen and offensive tackle Jordan Seaton. *(p. 297)*
-- In total, Kiffin added 107 starts from the portal, according to Phil Steele. *(p. 297)*
-- For example, Kiffin brought in nine wide receiver transfers alone. *(p. 297)*
-- TJ Dottery — also an Ole Miss transfer — tied for the sixth-most tackles in the SEC last season. *(p. 297)*
+- Kiffin moved aggressively in the offseason, landing the best transfer class in the country and bringing key staff from Ole Miss. *(p. 296)*
+- The guide allows the transfer class might be enough to lift Kiffin to the top of the SEC, but flags a hard schedule and a quarterback returning from a serious foot injury as reasons for caution. It calls eight wins a good season and the likeliest outcome. *(p. 296)*
+- **Will Sam Leavitt be healthy and effective?** Landing Leavitt is rated a win comparable to hiring Kiffin. The top-ranked transfer quarterback per 247, he completed 61.3% over 20 games at Arizona State with 34 touchdowns against nine interceptions and led the Sun Devils to the 2024 playoff. A Lisfranc injury ended his 2025 season and his recovery cost him spring practice. Kiffin told ESPN his concern was Leavitt's transition into the offense rather than his health. With only fall camp to get reps, the guide warns of a possible slow start and tells bettors to monitor how effective he is coming off that injury. *(p. 297)*
+- **Does landing the best transfer class of 2026 pay off?** Kiffin took 41 portal commits, sixth-most nationally. Beyond Leavitt, five-star transfers defensive end Princewill Umanmielen and offensive tackle Jordan Seaton arrived, and per Phil Steele the class brought 107 career starts. The guide keeps the question genuinely open: entire position groups are being rebuilt — nine receiver transfers, five more defensive linemen — and it notes others have been burned building the plane while flying it, while allowing Kiffin may be good enough to finish the build. *(p. 297)*
+- **Will Blake Baker continue to work his magic with this defense?** Kiffin's $91 million contract drew the headlines, but the guide points to the more than $3 million a year paid to Baker, entering his third season. Before he arrived LSU allowed 28 points and 417 yards per game; in 2025 it gave up 19.8 points, 3.7 yards per rush and 5.0 yards per play, finishing eighth in adjusted opponent EPA per play. Six starters return alongside Umanmielen, who produced 51 pressures and 11 sacks at Ole Miss, and TJ Dottery, another Ole Miss transfer who tied for the sixth-most tackles in the SEC. The guide expects the trend to continue. *(p. 297)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- LSU transfer Nic Anderson (6’4”, 205 lbs.) had almost 800 yards and 10 TDs at Oklahoma in 2023, Southern Utah transfer Shane Carr (6’2”, 185 lbs.) went for over 1,300 yards and 10 TDs over the last two seasons, plus Arkansas transfer Ja’Kayden Ferguson (6’2”, 184 lbs.) and UAB transfer Xavier Daisy (6’3”, 212 lbs.) join the fold as well. *(p. 10)*
-- Kiffin poached key players on that unit to tag along to LSU, but Ole Miss signed eight four-star transfers on that side of the ball. *(p. 11)*
-- LSU New coach Lane Kiffin used LSU’s resources to hit the transfer portal and the haul was huge. *(p. 18)*
-- With quarterback Sam Leavitt transferring to LSU, the Sun Devils turn to Kentucky transfer Cutter Boley. *(p. 20)*
-- LSU transfer Ashton Stamps was a good addition at corner, and ASU looks to have some impressive safeties. *(p. 119)*
-- Then, days after signing a $4 million NIL deal to return to Washington, quarterback Demond Williams Jr. announced he was entering the transfer portal and was reportedly about to sign for more money with LSU. *(p. 182)*
+Referenced in the guide on **pp. 10, 11, 18, 20, 119, 182, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Outside of Leavitt, two other five-star transfers made it to Baton Rouge: defensive end Princewill Umanmielen and offensive tackle Jordan Seaton. *(p. 297)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kiffin poached key players on that unit to tag along to LSU, but Ole Miss signed eight four-star transfers on that side of the ball. *(p. 11)*
-- The 2024 Big 12 Offensive Freshman of the Year and second-team All-Big 12 performer is off to play for Lane Kiffin and LSU. *(p. 118)*
+Referenced in the guide on **pp. 11, 118, 297** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Kiffin told ESPN that he was not concerned about Leavitt’s health, but about his transition into the offense. *(p. 297)*
-- Leavitt has just the fall camp to get reps in with this offense, which could lead to a slow start for the unit this season. *(p. 297)*
-- Outside of Leavitt, two other five-star transfers made it to Baton Rouge: defensive end Princewill Umanmielen and offensive tackle Jordan Seaton. *(p. 297)*
-- For example, Kiffin brought in nine wide receiver transfers alone. *(p. 297)*
-- Last season, LSU allowed only 19.8 points per contest, 3.7 yards per rush and 5.0 yards per play. *(p. 297)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The 2024 Big 12 Offensive Freshman of the Year and second-team All-Big 12 performer is off to play for Lane Kiffin and LSU. *(p. 118)*
+Referenced in the guide on **pp. 118, 297** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Outside of Leavitt, two other five-star transfers made it to Baton Rouge: defensive end Princewill Umanmielen and offensive tackle Jordan Seaton. *(p. 297)*
-- Five other defensive linemen join Umanmielen in the class. *(p. 297)*
-- Kiffin’s $91 million contract was the big headline in the offseason, but do not ignore the more than $3 million annually that was handed to the defensive coordinator. *(p. 297)*
-- Umanmielen totaled 51 pressures and 11 sacks for Ole Miss last year. *(p. 297)*
-- Baker has been brilliant since taking up the defensive play-calling, and with some new talent he will likely continue that trend. *(p. 297)*
+- **Will Blake Baker continue to work his magic with this defense?** Kiffin's $91 million contract drew the headlines, but the guide points to the more than $3 million a year paid to Baker, entering his third season. Before he arrived LSU allowed 28 points and 417 yards per game; in 2025 it gave up 19.8 points, 3.7 yards per rush and 5.0 yards per play, finishing eighth in adjusted opponent EPA per play. Six starters return alongside Umanmielen, who produced 51 pressures and 11 sacks at Ole Miss, and TJ Dottery, another Ole Miss transfer who tied for the sixth-most tackles in the SEC. The guide expects the trend to continue. *(p. 297)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Golding lost two defensive starters to LSU, but the defense will be strong. *(p. 18)*
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
+Referenced in the guide on **pp. 18, 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -258,30 +223,17 @@ Prices printed on the team page *(p. 297)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- Recommendation is Under 8.5 wins. The schedule is the core reason: LSU avoids Georgia but draws Alabama, Texas and Texas A&M, all three at home, visits Ole Miss, and opens at home with Clemson. Road trips to Kentucky, Auburn and Tennessee are not treated as certain wins. *(p. 296)*
+- The guide allows the transfer class might be enough to lift Kiffin to the top of the SEC, but flags a hard schedule and a quarterback returning from a serious foot injury as reasons for caution. It calls eight wins a good season and the likeliest outcome. *(p. 296)*
+- **Will Sam Leavitt be healthy and effective?** Landing Leavitt is rated a win comparable to hiring Kiffin. The top-ranked transfer quarterback per 247, he completed 61.3% over 20 games at Arizona State with 34 touchdowns against nine interceptions and led the Sun Devils to the 2024 playoff. A Lisfranc injury ended his 2025 season and his recovery cost him spring practice. Kiffin told ESPN his concern was Leavitt's transition into the offense rather than his health. With only fall camp to get reps, the guide warns of a possible slow start and tells bettors to monitor how effective he is coming off that injury. *(p. 297)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- “We’ve seen sharp interest in LSU, and USC has been bet from 50-1 down to 30-1,” Palm said. *(p. 38)*
-- The most action the Boomer’s book has seen in the Yes/No playoff market, Bogdanovich said, is on LSU to miss the playoffs at -125. *(p. 38)*
+Also referenced on **pp. 38** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Lane Kiffin had a LeBron James-esque winter in 2025 when dragged out the drama of leaving Ole Miss in the midst of a playoff chase in order to take the job at LSU. *(p. 296)*
-- In 20 games, Leavitt completed 61.3% of his passes, threw 34 touchdowns to nine interceptions and in 2024 led the Sun Devils to the College Football Playoff. *(p. 297)*
-- However, his season was cut short in 2025 due to a Lisfranc injury, and his recovery from that injury caused him to miss spring practices for LSU. *(p. 297)*
-- Last season, LSU allowed only 19.8 points per contest, 3.7 yards per rush and 5.0 yards per play. *(p. 297)*
-- Umanmielen totaled 51 pressures and 11 sacks for Ole Miss last year. *(p. 297)*
-- TJ Dottery — also an Ole Miss transfer — tied for the sixth-most tackles in the SEC last season. *(p. 297)*
-- Baker has been brilliant since taking up the defensive play-calling, and with some new talent he will likely continue that trend. *(p. 297)*
+- Lane Kiffin's drawn-out departure from Ole Miss during a playoff chase left ill-feeling in Oxford, though the guide notes Pete Golding holds none. Its view is that winning silences it. *(p. 296)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- LSU transfer Nic Anderson (6’4”, 205 lbs.) had almost 800 yards and 10 TDs at Oklahoma in 2023, Southern Utah transfer Shane Carr (6’2”, 185 lbs.) went for over 1,300 yards and 10 TDs over the last two seasons, plus Arkansas transfer Ja’Kayden Ferguson (6’2”, 184 lbs.) and UAB transfer Xavier Daisy (6’3”, 212 lbs.) join the fold as well. *(p. 10)*
-- Last season, this team won nine games in the regular season and then beat LSU in a thrilling Texas Bowl game. *(p. 22)*
-- SAM LEAVITT, LSU After guiding Arizona State to the first-ever 12-team CFP in 2024, Leavitt’s production dipped last season, primarily because of a foot injury which shortened his season by five games. *(p. 45)*
-- MVB did have some success at those two stops, including an 8/2 TD/INT ratio at LSU last season with four starts and some relief efforts. *(p. 67)*
-- Fritz only needed two years to turn Houston into a 10-win team, as last year’s group won nine games and then added a 10th with a victory over LSU in the Texas Bowl. *(p. 128)*
-- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
+Referenced in the guide on **pp. 10, 22, 45, 67, 128, 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -326,49 +278,43 @@ As printed on p. 297. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Winning silences all of those voices, and Kiffin did his part in the offseason to win early and often in Baton Rouge. *(p. 296)*
-- The Tigers brought in the best transfer class in the country, and brought key staff members in from Ole Miss. *(p. 296)*
-- Kiffin is an elite coach, but success on the biggest stage has eluded him. *(p. 296)*
-- Perhaps the most talented transfer class is enough to push Kiffin to the top of the SEC, but a challenging schedule and a quarterback coming off a serious foot injury are cause for pause. *(p. 296)*
-- The rankings say that the talent level is elite, but others have been burned by trying to build the plane while it is flying. *(p. 297)*
-- Six starters are back for Baker, and he also gets some elite new toys. *(p. 297)*
-- Golding lost two defensive starters to LSU, but the defense will be strong. *(p. 18)*
-- Then, days after signing a $4 million NIL deal to return to Washington, quarterback Demond Williams Jr. announced he was entering the transfer portal and was reportedly about to sign for more money with LSU. *(p. 182)*
+- Lane Kiffin's drawn-out departure from Ole Miss during a playoff chase left ill-feeling in Oxford, though the guide notes Pete Golding holds none. Its view is that winning silences it. *(p. 296)*
+- Kiffin moved aggressively in the offseason, landing the best transfer class in the country and bringing key staff from Ole Miss. *(p. 296)*
+- The guide rates Kiffin an elite coach for whom success on the biggest stage has been elusive, and says LSU gives him the resources — leaving the outcome on him. *(p. 296)*
+- Kiffin's $91 million contract drew the headlines, but the guide points to the more than $3 million a year paid to Baker, entering his third season. Before he arrived LSU allowed 28 points and 417 yards per game; in 2025 it gave up 19.8 points, 3.7 yards per rush and 5.0 yards per play, finishing eighth in adjusted opponent EPA per play. Six starters return alongside Umanmielen, who produced 51 pressures and 11 sacks at Ole Miss, and TJ Dottery, another Ole Miss transfer who tied for the sixth-most tackles in the SEC. The guide expects the trend to continue. *(p. 297)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- Lane Kiffin had a LeBron James-esque winter in 2025 when dragged out the drama of leaving Ole Miss in the midst of a playoff chase in order to take the job at LSU. *(p. 296)*
-- The Tigers brought in the best transfer class in the country, and brought key staff members in from Ole Miss. *(p. 296)*
-- LSU must also head to Oxford and face Ole Miss, and it gets Clemson at home to open the season. *(p. 296)*
-- Perhaps the most talented transfer class is enough to push Kiffin to the top of the SEC, but a challenging schedule and a quarterback coming off a serious foot injury are cause for pause. *(p. 296)*
-- However, his season was cut short in 2025 due to a Lisfranc injury, and his recovery from that injury caused him to miss spring practices for LSU. *(p. 297)*
-- Kiffin told ESPN that he was not concerned about Leavitt’s health, but about his transition into the offense. *(p. 297)*
-- Bettors should also monitor how effective Leavitt will be coming off an injury like this. *(p. 297)*
-- Umanmielen totaled 51 pressures and 11 sacks for Ole Miss last year. *(p. 297)*
-- TJ Dottery — also an Ole Miss transfer — tied for the sixth-most tackles in the SEC last season. *(p. 297)*
-- The rest of my futures are as follows: LSU OVER 8.5 WINS (-104 - 3 UNITS) & TO MAKE COLLEGE FOOTBALL PLAYOFF (+240) The Tigers have some very tough games on the schedule, but they’ll play Clemson, Texas A&M, Alabama, and Texas in Death Valley. *(p. 8)*
+- Lane Kiffin's drawn-out departure from Ole Miss during a playoff chase left ill-feeling in Oxford, though the guide notes Pete Golding holds none. Its view is that winning silences it. *(p. 296)*
+- Kiffin moved aggressively in the offseason, landing the best transfer class in the country and bringing key staff from Ole Miss. *(p. 296)*
+- Recommendation is Under 8.5 wins. The schedule is the core reason: LSU avoids Georgia but draws Alabama, Texas and Texas A&M, all three at home, visits Ole Miss, and opens at home with Clemson. Road trips to Kentucky, Auburn and Tennessee are not treated as certain wins. *(p. 296)*
+- The guide allows the transfer class might be enough to lift Kiffin to the top of the SEC, but flags a hard schedule and a quarterback returning from a serious foot injury as reasons for caution. It calls eight wins a good season and the likeliest outcome. *(p. 296)*
+- Landing Leavitt is rated a win comparable to hiring Kiffin. The top-ranked transfer quarterback per 247, he completed 61.3% over 20 games at Arizona State with 34 touchdowns against nine interceptions and led the Sun Devils to the 2024 playoff. A Lisfranc injury ended his 2025 season and his recovery cost him spring practice. Kiffin told ESPN his concern was Leavitt's transition into the offense rather than his health. With only fall camp to get reps, the guide warns of a possible slow start and tells bettors to monitor how effective he is coming off that injury. *(p. 297)*
+- Kiffin took 41 portal commits, sixth-most nationally. Beyond Leavitt, five-star transfers defensive end Princewill Umanmielen and offensive tackle Jordan Seaton arrived, and per Phil Steele the class brought 107 career starts. The guide keeps the question genuinely open: entire position groups are being rebuilt — nine receiver transfers, five more defensive linemen — and it notes others have been burned building the plane while flying it, while allowing Kiffin may be good enough to finish the build. *(p. 297)*
+- Kiffin's $91 million contract drew the headlines, but the guide points to the more than $3 million a year paid to Baker, entering his third season. Before he arrived LSU allowed 28 points and 417 yards per game; in 2025 it gave up 19.8 points, 3.7 yards per rush and 5.0 yards per play, finishing eighth in adjusted opponent EPA per play. Six starters return alongside Umanmielen, who produced 51 pressures and 11 sacks at Ole Miss, and TJ Dottery, another Ole Miss transfer who tied for the sixth-most tackles in the SEC. The guide expects the trend to continue. *(p. 297)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 297)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 297)*. Its analysis, in reference form:
 
 ### Will Sam Leavitt be healthy and effective?
 
-Landing Leavitt in the transfer portal was a win on par with signing Kiffin for LSU. Leavitt — the top-ranked transfer quarterback, according to 247 — burst onto the scene in his time at Arizona State. In 20 games, Leavitt completed 61.3% of his passes, threw 34 touchdowns to nine interceptions and in 2024 led the Sun Devils to the College Football Playoff. However, his season was cut short in 2025 due to a Lisfranc injury, and his recovery from that injury caused him to miss spring practices for LSU. Kiffin told ESPN that he was not concerned about Leavitt’s health, but about his transition into the offense. Leavitt has just the fall camp to get reps in with this offense, which could lead to a slow start for the unit this season. Bettors should also monitor how effective Leavitt will be coming off an injury like this.
+Landing Leavitt is rated a win comparable to hiring Kiffin. The top-ranked transfer quarterback per 247, he completed 61.3% over 20 games at Arizona State with 34 touchdowns against nine interceptions and led the Sun Devils to the 2024 playoff. A Lisfranc injury ended his 2025 season and his recovery cost him spring practice. Kiffin told ESPN his concern was Leavitt's transition into the offense rather than his health. With only fall camp to get reps, the guide warns of a possible slow start and tells bettors to monitor how effective he is coming off that injury. *(p. 297)*
 
 ### Does landing the best transfer class of 2026 pay off?
 
-Kiffin hit the portal hard for his first season at Baton Rouge. He brought in 41 commits in the portal alone, the sixth-most in the country. Outside of Leavitt, two other five-star transfers made it to Baton Rouge: defensive end Princewill Umanmielen and offensive tackle Jordan Seaton. In total, Kiffin added 107 starts from the portal, according to Phil Steele. Kiffin is clearly trying to jumpstart his time with LSU, but will the quick-fix work? Some of the position groups are being almost entirely rebuilt. For example, Kiffin brought in nine wide receiver transfers alone. Five other defensive linemen join Umanmielen in the class. The rankings say that the talent level is elite, but others have been burned by trying to build the plane while it is flying. Kiffin might be good enough to finish the build, though.
+Kiffin took 41 portal commits, sixth-most nationally. Beyond Leavitt, five-star transfers defensive end Princewill Umanmielen and offensive tackle Jordan Seaton arrived, and per Phil Steele the class brought 107 career starts. The guide keeps the question genuinely open: entire position groups are being rebuilt — nine receiver transfers, five more defensive linemen — and it notes others have been burned building the plane while flying it, while allowing Kiffin may be good enough to finish the build. *(p. 297)*
 
 ### Will Blake Baker continue to work his magic with this defense?
 
-Kiffin’s $91 million contract was the big headline in the offseason, but do not ignore the more than $3 million annually that was handed to the defensive coordinator. Baker enters his third season with the program, now under Kiffin. He has been brilliant in his role. When Baker took over, the Tigers were coming off a season in which they had allowed 28 points and 417 yards per game. Last season, LSU allowed only 19.8 points per contest, 3.7 yards per rush and 5.0 yards per play. It finished eighth in adjusted opponent EPA per play. Six starters are back for Baker, and he also gets some elite new toys. Umanmielen totaled 51 pressures and 11 sacks for Ole Miss last year. TJ Dottery — also an Ole Miss transfer — tied for the sixth-most tackles in the SEC last season. Baker has been brilliant since taking up the defensive play-calling, and with some new talent he will likely continue that trend.
+Kiffin's $91 million contract drew the headlines, but the guide points to the more than $3 million a year paid to Baker, entering his third season. Before he arrived LSU allowed 28 points and 417 yards per game; in 2025 it gave up 19.8 points, 3.7 yards per rush and 5.0 yards per play, finishing eighth in adjusted opponent EPA per play. Six starters return alongside Umanmielen, who produced 51 pressures and 11 sacks at Ole Miss, and TJ Dottery, another Ole Miss transfer who tied for the sixth-most tackles in the SEC. The guide expects the trend to continue. *(p. 297)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -386,6 +332,8 @@ No source conflict identified for this team.
 | 8, 9, 10, 11, 15, 18, 20, 22, 36, 38, 39, 41, 45, 67, 84, 118, 119, 128, 165, 182, 284, 299, 304, 310, 312, 321, 323, 338 | Other pages naming this team |
 
 This team is named in **48 sentences across 30 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 9, 10, 11, 15, 18, 20, 22, 36, 38, 39, 41, 45, 67, 84, 118, 119, 128, 165, 182, 284, 299, 304, 310, 312, 321, 323, 338.
 
 ## 29. Cross-Links
 
