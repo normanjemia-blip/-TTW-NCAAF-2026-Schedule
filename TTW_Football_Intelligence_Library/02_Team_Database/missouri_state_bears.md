@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 4.2–7.8 overall, 3.0–5.0 in conference |
 | **Schedule strength** | 33.83 (#95 toughest of 138) |
 
-### Season outlook as written in the guide (p. 200)
+### Season outlook — VSiN's analysis in reference form (p. 200)
 
-Missouri State is starting over in more ways than one this season. Former SMU OC Casey Woods is now the head coach and returning production is hard to find on the depth chart, as a lot of players followed head coach Ryan Beard to Coastal Carolina or found homes elsewhere. It’s no surprise that Beard was scooped up, as he took the Bears to a bowl game in their first FBS season and outgained Arkansas State in a losing effort to finish 7-6. Year 2 is always an interesting one for teams that recently transitioned, as they have more scholarships available, but also can’t really sneak up on opponents anymore. Also, you often bid adieu to productive players who wanted to see the transition through and then either ran out of eligibility or got some more looks and better offers. The 43-year-old Woods has worked under Gus Malzahn, Eli Drinkwitz, Rhett Lashlee, and his dad Sparky has been a ball coach since 1976. Under 4.5 The juice is heavy on this one, but it’s really the only way to look. Perhaps Woods turns Belin or Locklear into a quality starting QB, but this is a team with major questions in the trenches and that is a lot to overlook given the uncertainty at the most important position on the field. This seems like a transitional year to get a feel for things and then Woods will find himself a more suitable QB in Year 2. They play all of the conference’s top teams, including Western Kentucky, Delaware, and Jacksonville State on the road, so it could be a long year. My projection is 4.12 wins.
+- The guide says Missouri State is starting over in more ways than one: former SMU coordinator Casey Woods is the new head coach, and returning production is hard to find on the depth chart. *(p. 200)*
+- It explains the exodus — many players followed head coach Ryan Beard to Coastal Carolina or found homes elsewhere — and treats Beard being hired away as no surprise, since he took the Bears to a bowl in their first FBS season and out-gained Arkansas State in a losing effort to finish 7-6. *(p. 200)*
+- It generalises the situation into a rule about recent transitions: Year 2 is always interesting, because a programme has more scholarships available but can no longer sneak up on opponents. *(p. 200)*
+- It adds the roster consequence of that same rule — productive players who wanted to see the transition through then either run out of eligibility or attract better offers. *(p. 200)*
+- Woods' background is given: 43 years old, with time under Gus Malzahn, Eli Drinkwitz and Rhett Lashlee, and a father, Sparky, who has been a coach since 1976. *(p. 200)*
+- Recommendation is Under 4.5 wins, with the guide noting the juice is heavy but calling it really the only way to look at the number. *(p. 200)*
+- Its reasoning combines two unknowns: Woods might turn Belin or Locklear into a quality starter, but there are major questions in the trenches, which is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
+- It reads this as a transitional year to get a feel for things, after which Woods finds a more suitable quarterback in Year 2. *(p. 200)*
+- The schedule closes the case: Missouri State plays all of the conference's top teams, including Western Kentucky, Delaware and Jacksonville State on the road, so it could be a long year. Projection is 4.12 wins. *(p. 200)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -81,20 +91,14 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 33)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Former SMU OC Casey Woods is now the head coach and returning production is hard to find on the depth chart, as a lot of players followed head coach Ryan Beard to Coastal Carolina or found homes elsewhere. *(p. 200)*
-- The 43-year-old Woods has worked under Gus Malzahn, Eli Drinkwitz, Rhett Lashlee, and his dad Sparky has been a ball coach since 1976. *(p. 200)*
-- Locklear’s QB coach from last season, Mark Cala, is the new OC, so we’ll see how that dynamic plays out. *(p. 201)*
-- Woods brought Hussam Ouri with him from SMU to serve as the offensive line coach and he might be the most important guy on that sideline this season. *(p. 201)*
-- New DC Jack Curtis has over a decade’s worth of experience in that role, but, much like the offense, the trenches are a focal point. *(p. 201)*
-- Auburn had 30 sacks last season and held opponents to under three yards per carry with Curtis as a defensive analyst and assistant DL coach Brett Kulka, who will coach defensive ends for Missouri State. *(p. 201)*
+- The guide says Missouri State is starting over in more ways than one: former SMU coordinator Casey Woods is the new head coach, and returning production is hard to find on the depth chart. *(p. 200)*
+- It explains the exodus — many players followed head coach Ryan Beard to Coastal Carolina or found homes elsewhere — and treats Beard being hired away as no surprise, since he took the Bears to a bowl in their first FBS season and out-gained Arkansas State in a losing effort to finish 7-6. *(p. 200)*
+- Woods' background is given: 43 years old, with time under Gus Malzahn, Eli Drinkwitz and Rhett Lashlee, and a father, Sparky, who has been a coach since 1976. *(p. 200)*
+- **Who will fill the large cleats of Jacob Clark?** Clark left as the programme's all-time second-leading passer and signed with the Raiders as an undrafted free agent, having posted a 28/11 touchdown-to-interception ratio in a final season played through injuries that also cost him a start. The guide says his absence is made worse by losing Shomari Lawrence, who ran for 1,021 yards and seven touchdowns, with the next leading rusher Ramone Green at just 52 carries for 278 yards. The portal replacements are Duke transfer Henry Belin, who spent four years with the Blue Devils and basically never played, and UTEP transfer Skyler Locklear, who had turnover issues for the Miners, alongside holdovers Cole Feuerbacher and Elijah Leonard. It flags one relationship worth watching: Locklear's quarterbacks coach from last season, Mark Cala, is the new offensive coordinator. *(p. 201)*
+- **Will whoever plays QB even have a chance?** The guide notes King Large is an all-name team member and the projected left tackle, and that he — like most of the line — is unproven, then argues that may not be a bad thing. Its evidence is last season: 52 sacks allowed and just 3.5 yards per carry even with Lawrence's success, because when Clark was not sacked he was running for his life, finishing with 94 carries for -16 yards. The problem is shown to be chronic rather than recent — Missouri State has allowed 40 or more sacks in five of the last six seasons since 2020. With virtually no FBS experience in the group, it identifies the offensive line coach Woods brought from SMU, Hussam Ouri, as possibly the most important person on that sideline this season. *(p. 201)*
+- **Is the picture on defense any better?** A little, the guide says, with leading tackler Jared Lloyd back alongside starters Christian Ford and Dylan Dixson. It is careful not to overrate the baseline: this was not a great defense anyway at 5.9 yards per play allowed, including 388 rushing yards conceded to a bad Louisiana Tech team in the finale — though it allows that the players probably knew Beard was leaving. New coordinator Jack Curtis brings over a decade of experience in the role, and here too the trenches are the focus. Its supporting evidence comes from Auburn, where Curtis was a defensive analyst and Brett Kulka — now Missouri State's defensive ends coach — was assistant defensive line coach on a unit with 30 sacks that held opponents under three yards per carry. *(p. 201)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Beard, who is Bobby Petrino’s son-in-law, was at Missouri State for six seasons, first as the DC under Petrino and then as the head coach when Petrino went to be the OC at Texas A&M. *(p. 37)*
-- Lashlee is his own OC, but did lose right-hand man Casey Woods to the HC job at Missouri State. *(p. 103)*
-- The 37-year-old son-in-law of Bobby Petrino is moving up the coaching ranks quickly, but he was at Missouri State for six seasons, three as the DC and three as the head coach. *(p. 320)*
-- LD Scott was the DC at Missouri State and followed Beard here to take over a unit that allowed 33.1 PPG. *(p. 321)*
-- Coastal Carolina is now coached by Ryan Beard, who dropped 474 yards on the Herd when they played Missouri State last season. *(p. 328)*
+Also referenced on **pp. 37, 103, 320, 321, 328** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -102,12 +106,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 200)*.
 
-- Perhaps Woods turns Belin or Locklear into a quality starting QB, but this is a team with major questions in the trenches and that is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
-- This seems like a transitional year to get a feel for things and then Woods will find himself a more suitable QB in Year 2. *(p. 200)*
-- Clark was signed as an undrafted free agent by the Raiders, leaving Missouri State as the program’s all-time second-leading passer. *(p. 201)*
-- Duke transfer Henry Belin and UTEP transfer Skyler Locklear are the two QB newcomers via the portal, along with holdovers Cole Feuerbacher and Elijah Leonard. *(p. 201)*
-- Locklear’s QB coach from last season, Mark Cala, is the new OC, so we’ll see how that dynamic plays out. *(p. 201)*
-- There is virtually no FBS experience with this group, but this is a program that has had problems protecting the QB since 2020, allowing 40+ sacks in five of those six seasons. *(p. 201)*
+- Its reasoning combines two unknowns: Woods might turn Belin or Locklear into a quality starter, but there are major questions in the trenches, which is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
+- It reads this as a transitional year to get a feel for things, after which Woods finds a more suitable quarterback in Year 2. *(p. 200)*
+- **Who will fill the large cleats of Jacob Clark?** Clark left as the programme's all-time second-leading passer and signed with the Raiders as an undrafted free agent, having posted a 28/11 touchdown-to-interception ratio in a final season played through injuries that also cost him a start. The guide says his absence is made worse by losing Shomari Lawrence, who ran for 1,021 yards and seven touchdowns, with the next leading rusher Ramone Green at just 52 carries for 278 yards. The portal replacements are Duke transfer Henry Belin, who spent four years with the Blue Devils and basically never played, and UTEP transfer Skyler Locklear, who had turnover issues for the Miners, alongside holdovers Cole Feuerbacher and Elijah Leonard. It flags one relationship worth watching: Locklear's quarterbacks coach from last season, Mark Cala, is the new offensive coordinator. *(p. 201)*
+- **Will whoever plays QB even have a chance?** The guide notes King Large is an all-name team member and the projected left tackle, and that he — like most of the line — is unproven, then argues that may not be a bad thing. Its evidence is last season: 52 sacks allowed and just 3.5 yards per carry even with Lawrence's success, because when Clark was not sacked he was running for his life, finishing with 94 carries for -16 yards. The problem is shown to be chronic rather than recent — Missouri State has allowed 40 or more sacks in five of the last six seasons since 2020. With virtually no FBS experience in the group, it identifies the offensive line coach Woods brought from SMU, Hussam Ouri, as possibly the most important person on that sideline this season. *(p. 201)*
 
 ## 10. Returning Production
 
@@ -123,7 +125,10 @@ The Stability Score table prints the same figure independently: **5 returning st
 
 ## 11. Transfer Portal
 
-- Duke transfer Henry Belin and UTEP transfer Skyler Locklear are the two QB newcomers via the portal, along with holdovers Cole Feuerbacher and Elijah Leonard. *(p. 201)*
+- The guide says Missouri State is starting over in more ways than one: former SMU coordinator Casey Woods is the new head coach, and returning production is hard to find on the depth chart. *(p. 200)*
+- It explains the exodus — many players followed head coach Ryan Beard to Coastal Carolina or found homes elsewhere — and treats Beard being hired away as no surprise, since he took the Bears to a bowl in their first FBS season and out-gained Arkansas State in a losing effort to finish 7-6. *(p. 200)*
+- It adds the roster consequence of that same rule — productive players who wanted to see the transition through then either run out of eligibility or attract better offers. *(p. 200)*
+- **Who will fill the large cleats of Jacob Clark?** Clark left as the programme's all-time second-leading passer and signed with the Raiders as an undrafted free agent, having posted a 28/11 touchdown-to-interception ratio in a final season played through injuries that also cost him a start. The guide says his absence is made worse by losing Shomari Lawrence, who ran for 1,021 yards and seven touchdowns, with the next leading rusher Ramone Green at just 52 carries for 278 yards. The portal replacements are Duke transfer Henry Belin, who spent four years with the Blue Devils and basically never played, and UTEP transfer Skyler Locklear, who had turnover issues for the Miners, alongside holdovers Cole Feuerbacher and Elijah Leonard. It flags one relationship worth watching: Locklear's quarterbacks coach from last season, Mark Cala, is the new offensive coordinator. *(p. 201)*
 
 ## 12. Recruiting / Roster Notes
 
@@ -131,22 +136,14 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Woods brought Hussam Ouri with him from SMU to serve as the offensive line coach and he might be the most important guy on that sideline this season. *(p. 201)*
-- This wasn’t a great defense last season anyway, as they allowed 5.9 YPP, including 388 rushing yards to a bad Louisiana Tech team in the season finale, though the players probably knew that Beard was on his way out. *(p. 201)*
-- New DC Jack Curtis has over a decade’s worth of experience in that role, but, much like the offense, the trenches are a focal point. *(p. 201)*
+- Its reasoning combines two unknowns: Woods might turn Belin or Locklear into a quality starter, but there are major questions in the trenches, which is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
+- **Will whoever plays QB even have a chance?** The guide notes King Large is an all-name team member and the projected left tackle, and that he — like most of the line — is unproven, then argues that may not be a bad thing. Its evidence is last season: 52 sacks allowed and just 3.5 yards per carry even with Lawrence's success, because when Clark was not sacked he was running for his life, finishing with 94 carries for -16 yards. The problem is shown to be chronic rather than recent — Missouri State has allowed 40 or more sacks in five of the last six seasons since 2020. With virtually no FBS experience in the group, it identifies the offensive line coach Woods brought from SMU, Hussam Ouri, as possibly the most important person on that sideline this season. *(p. 201)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- MISSOURI STATE – UNDER 4.5 WINS It was a solid first season at the FBS level and in Conference USA for Missouri State as the Bears won seven games and received a bowl bid, a game they would eventually lose to Arkansas State. *(p. 25)*
-- That would be 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty, and 388 against Missouri State. *(p. 339)*
+Referenced in the guide on **pp. 25, 339** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The Bears allowed 52 sacks last season and mustered just 3.5 yards per carry, even with Lawrence’s success. *(p. 201)*
-- There is virtually no FBS experience with this group, but this is a program that has had problems protecting the QB since 2020, allowing 40+ sacks in five of those six seasons. *(p. 201)*
-- A little bit, as leading tackler Jared Lloyd is back, along with two other starters in Christian Ford and Dylan Dixson. *(p. 201)*
-- This wasn’t a great defense last season anyway, as they allowed 5.9 YPP, including 388 rushing yards to a bad Louisiana Tech team in the season finale, though the players probably knew that Beard was on his way out. *(p. 201)*
-- Auburn had 30 sacks last season and held opponents to under three yards per carry with Curtis as a defensive analyst and assistant DL coach Brett Kulka, who will coach defensive ends for Missouri State. *(p. 201)*
+- **Is the picture on defense any better?** A little, the guide says, with leading tackler Jared Lloyd back alongside starters Christian Ford and Dylan Dixson. It is careful not to overrate the baseline: this was not a great defense anyway at 5.9 yards per play allowed, including 388 rushing yards conceded to a bad Louisiana Tech team in the finale — though it allows that the players probably knew Beard was leaving. New coordinator Jack Curtis brings over a decade of experience in the role, and here too the trenches are the focus. Its supporting evidence comes from Auburn, where Curtis was a defensive analyst and Brett Kulka — now Missouri State's defensive ends coach — was assistant defensive line coach on a unit with 30 sacks that held opponents under three yards per carry. *(p. 201)*
 
 ## 15. Key Strengths
 
@@ -213,22 +210,16 @@ Prices printed on the team page *(p. 201)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 4.5 wins, with the guide noting the juice is heavy but calling it really the only way to look at the number. *(p. 200)*
+- Its reasoning combines two unknowns: Woods might turn Belin or Locklear into a quality starter, but there are major questions in the trenches, which is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
+- It reads this as a transitional year to get a feel for things, after which Woods finds a more suitable quarterback in Year 2. *(p. 200)*
+- The schedule closes the case: Missouri State plays all of the conference's top teams, including Western Kentucky, Delaware and Jacksonville State on the road, so it could be a long year. Projection is 4.12 wins. *(p. 200)*
 
 ## 22. Historical / Situational Trends
 
-- The 43-year-old Woods has worked under Gus Malzahn, Eli Drinkwitz, Rhett Lashlee, and his dad Sparky has been a ball coach since 1976. *(p. 200)*
-- Locklear’s QB coach from last season, Mark Cala, is the new OC, so we’ll see how that dynamic plays out. *(p. 201)*
-- The Bears allowed 52 sacks last season and mustered just 3.5 yards per carry, even with Lawrence’s success. *(p. 201)*
-- There is virtually no FBS experience with this group, but this is a program that has had problems protecting the QB since 2020, allowing 40+ sacks in five of those six seasons. *(p. 201)*
-- This wasn’t a great defense last season anyway, as they allowed 5.9 YPP, including 388 rushing yards to a bad Louisiana Tech team in the season finale, though the players probably knew that Beard was on his way out. *(p. 201)*
-- Auburn had 30 sacks last season and held opponents to under three yards per carry with Curtis as a defensive analyst and assistant DL coach Brett Kulka, who will coach defensive ends for Missouri State. *(p. 201)*
+- It explains the exodus — many players followed head coach Ryan Beard to Coastal Carolina or found homes elsewhere — and treats Beard being hired away as no surprise, since he took the Bears to a bowl in their first FBS season and out-gained Arkansas State in a losing effort to finish 7-6. *(p. 200)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They did not play Kennesaw State, Missouri State, or New Mexico State last season, but they will this season, with the NMSU game all the way out in Las Cruces on November 21. *(p. 189)*
-- Beard oversaw Missouri State’s transition from FCS to FBS and got the Bears to a bowl game last season, though he got to work in Conway before that game was played. *(p. 320)*
-- Coastal Carolina is now coached by Ryan Beard, who dropped 474 yards on the Herd when they played Missouri State last season. *(p. 328)*
+Referenced in the guide on **pp. 189, 320, 328** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -273,8 +264,7 @@ As printed on p. 201. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The Bears allowed 52 sacks last season and mustered just 3.5 yards per carry, even with Lawrence’s success. *(p. 201)*
-- MISSOURI STATE – UNDER 4.5 WINS It was a solid first season at the FBS level and in Conference USA for Missouri State as the Bears won seven games and received a bowl bid, a game they would eventually lose to Arkansas State. *(p. 25)*
+- The guide notes King Large is an all-name team member and the projected left tackle, and that he — like most of the line — is unproven, then argues that may not be a bad thing. Its evidence is last season: 52 sacks allowed and just 3.5 yards per carry even with Lawrence's success, because when Clark was not sacked he was running for his life, finishing with 94 carries for -16 yards. The problem is shown to be chronic rather than recent — Missouri State has allowed 40 or more sacks in five of the last six seasons since 2020. With virtually no FBS experience in the group, it identifies the offensive line coach Woods brought from SMU, Hussam Ouri, as possibly the most important person on that sideline this season. *(p. 201)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -282,29 +272,28 @@ As printed on p. 201. Each category carries a value and a national rank.
 
 - Makinen projects **4.2 wins** against a posted total of 4.5 — **-0.3** against this team.
 - The team page recommends **UNDER 4.5**.
-- Perhaps Woods turns Belin or Locklear into a quality starting QB, but this is a team with major questions in the trenches and that is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
-- He posted a 28/11 TD/INT ratio in his final season, a year in which he played through some injuries and even missed a start. *(p. 201)*
-- He’s a notable loss and his absence is exacerbated by the loss of Shomari Lawrence, who ran for 1,021 yards and seven touchdowns. *(p. 201)*
-- The Deuce in question is Deuce Bailey, who backed up Jacob Clark at Missouri State. *(p. 321)*
+- Its reasoning combines two unknowns: Woods might turn Belin or Locklear into a quality starter, but there are major questions in the trenches, which is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
+- Clark left as the programme's all-time second-leading passer and signed with the Raiders as an undrafted free agent, having posted a 28/11 touchdown-to-interception ratio in a final season played through injuries that also cost him a start. The guide says his absence is made worse by losing Shomari Lawrence, who ran for 1,021 yards and seven touchdowns, with the next leading rusher Ramone Green at just 52 carries for 278 yards. The portal replacements are Duke transfer Henry Belin, who spent four years with the Blue Devils and basically never played, and UTEP transfer Skyler Locklear, who had turnover issues for the Miners, alongside holdovers Cole Feuerbacher and Elijah Leonard. It flags one relationship worth watching: Locklear's quarterbacks coach from last season, Mark Cala, is the new offensive coordinator. *(p. 201)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 201)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 201)*. Its analysis, in reference form:
 
 ### Who will fill the large cleats of Jacob Clark?
 
-Clark was signed as an undrafted free agent by the Raiders, leaving Missouri State as the program’s all-time second-leading passer. He posted a 28/11 TD/INT ratio in his final season, a year in which he played through some injuries and even missed a start. He’s a notable loss and his absence is exacerbated by the loss of Shomari Lawrence, who ran for 1,021 yards and seven touchdowns. The next leading rusher was Ramone Green with just 52 carries for 278 yards. Duke transfer Henry Belin and UTEP transfer Skyler Locklear are the two QB newcomers via the portal, along with holdovers Cole Feuerbacher and Elijah Leonard. Belin spent four years with the Blue Devils and basically never saw the field. Locklear had turnover issues for the Miners. Locklear’s QB coach from last season, Mark Cala, is the new OC, so we’ll see how that dynamic plays out.
+Clark left as the programme's all-time second-leading passer and signed with the Raiders as an undrafted free agent, having posted a 28/11 touchdown-to-interception ratio in a final season played through injuries that also cost him a start. The guide says his absence is made worse by losing Shomari Lawrence, who ran for 1,021 yards and seven touchdowns, with the next leading rusher Ramone Green at just 52 carries for 278 yards. The portal replacements are Duke transfer Henry Belin, who spent four years with the Blue Devils and basically never played, and UTEP transfer Skyler Locklear, who had turnover issues for the Miners, alongside holdovers Cole Feuerbacher and Elijah Leonard. It flags one relationship worth watching: Locklear's quarterbacks coach from last season, Mark Cala, is the new offensive coordinator. *(p. 201)*
 
 ### Will whoever plays QB even have a chance?
 
-While King Large is an all-name team member and the projected starter at left tackle, he, like so many others on the line, is unproven. On one hand, that may not be a bad thing. The Bears allowed 52 sacks last season and mustered just 3.5 yards per carry, even with Lawrence’s success. That’s because when Clark wasn’t sacked, he was busy running for his life with 94 carries for -16 yards. There is virtually no FBS experience with this group, but this is a program that has had problems protecting the QB since 2020, allowing 40+ sacks in five of those six seasons. Woods brought Hussam Ouri with him from SMU to serve as the offensive line coach and he might be the most important guy on that sideline this season.
+The guide notes King Large is an all-name team member and the projected left tackle, and that he — like most of the line — is unproven, then argues that may not be a bad thing. Its evidence is last season: 52 sacks allowed and just 3.5 yards per carry even with Lawrence's success, because when Clark was not sacked he was running for his life, finishing with 94 carries for -16 yards. The problem is shown to be chronic rather than recent — Missouri State has allowed 40 or more sacks in five of the last six seasons since 2020. With virtually no FBS experience in the group, it identifies the offensive line coach Woods brought from SMU, Hussam Ouri, as possibly the most important person on that sideline this season. *(p. 201)*
 
 ### Is the picture on defense any better?
 
-A little bit, as leading tackler Jared Lloyd is back, along with two other starters in Christian Ford and Dylan Dixson. This wasn’t a great defense last season anyway, as they allowed 5.9 YPP, including 388 rushing yards to a bad Louisiana Tech team in the season finale, though the players probably knew that Beard was on his way out. New DC Jack Curtis has over a decade’s worth of experience in that role, but, much like the offense, the trenches are a focal point. Auburn had 30 sacks last season and held opponents to under three yards per carry with Curtis as a defensive analyst and assistant DL coach Brett Kulka, who will coach defensive ends for Missouri State.
+A little, the guide says, with leading tackler Jared Lloyd back alongside starters Christian Ford and Dylan Dixson. It is careful not to overrate the baseline: this was not a great defense anyway at 5.9 yards per play allowed, including 388 rushing yards conceded to a bad Louisiana Tech team in the finale — though it allows that the players probably knew Beard was leaving. New coordinator Jack Curtis brings over a decade of experience in the role, and here too the trenches are the focus. Its supporting evidence comes from Auburn, where Curtis was a defensive analyst and Brett Kulka — now Missouri State's defensive ends coach — was assistant defensive line coach on a unit with 30 sacks that held opponents under three yards per carry. *(p. 201)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 6.5–5.5 overall, 4.5–3.5 in conference |
 | **Schedule strength** | 30.78 (#121 toughest of 138) |
 
-### Season outlook as written in the guide (p. 194)
+### Season outlook — VSiN's analysis in reference form (p. 194)
 
-The best story in the Group of Five may very well have been Kennesaw State and there were not enough people talking about it. This was a team that went 2-10 as a first-year FBS member in 2024. They went 10-4, won the conference, and did so with a first-year head coach and a lot of new personnel. The 2024 season was supposed to be a celebration for the program, finally graduating to FBS status with the wheels set in motion when they won 11+ games in four straight full seasons from 2017-21. But, as the team got closer, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023. He was fired nine games into the 2024 season, even after an incredible upset of Liberty a few weeks earlier. A lot of players left in light of Bohannon’s departure, but Jerry Mack got to work, quickly rebuilding the roster and he hit a home run with QB Amari Odom, who stabilized the offense and gave them a dual- threat component. With Odom gone, and the standards for the program reestablished, Mack’s encore performance is going to be one to follow. Under 6.5 From conference champs to maybe not even making a bowl game? There are a lot of signs that point in that direction. Even though there is only one clear loss on the schedule in non-conference as opposed to what we all assumed was two last season (only lost 10-9 to Wake Forest), the conference schedule is tough and it does seem like the teams in some of the toss-up games may have improved more than the Owls. My projection is 6.34 wins.
+- The guide argues Kennesaw State may have been the best story in the Group of Five and that not enough people were talking about it. *(p. 194)*
+- The scale of the turnaround: 2-10 as a first-year FBS member in 2024, then 10-4 and a conference title with a first-year head coach and a lot of new personnel. *(p. 194)*
+- It explains what 2024 was supposed to be — a celebration of graduating to FBS, with the move set in motion by four straight full seasons of 11-plus wins from 2017-21. *(p. 194)*
+- But as that move approached, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023, and was fired nine games into 2024 — even after an incredible upset of Liberty a few weeks earlier. *(p. 194)*
+- Many players left in the wake of that departure, but Jerry Mack rebuilt the roster quickly and, in the guide's phrase, hit a home run with quarterback Amari Odom, who stabilised the offense and supplied a dual-threat component. *(p. 194)*
+- With Odom gone and the programme's standards re-established, it says Mack's encore is one to follow. *(p. 194)*
+- Recommendation is Under 6.5 wins, framed starkly — from conference champions to possibly missing a bowl — with many signs pointing that way. *(p. 194)*
+- On the schedule it notes only one clear non-conference loss this time, against what everyone assumed would be two last season, recalling that Kennesaw State only lost 10-9 to Wake Forest. *(p. 194)*
+- Its decisive reason is comparative: the conference schedule is tough and the opponents in some of the toss-up games appear to have improved more than the Owls. Projection is 6.34 wins. *(p. 194)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,12 +88,14 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- They went 10-4, won the conference, and did so with a first-year head coach and a lot of new personnel. *(p. 194)*
-- OC Mitch Militello is a branch of the Josh Heupel tree and you wonder if maybe he has the personnel now to play faster. *(p. 195)*
+- The scale of the turnaround: 2-10 as a first-year FBS member in 2024, then 10-4 and a conference title with a first-year head coach and a lot of new personnel. *(p. 194)*
+- But as that move approached, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023, and was fired nine games into 2024 — even after an incredible upset of Liberty a few weeks earlier. *(p. 194)*
+- Many players left in the wake of that departure, but Jerry Mack rebuilt the roster quickly and, in the guide's phrase, hit a home run with quarterback Amari Odom, who stabilised the offense and supplied a dual-threat component. *(p. 194)*
+- With Odom gone and the programme's standards re-established, it says Mack's encore is one to follow. *(p. 194)*
+- **Where’s the offense?** The guide calls this a complete rebuild. Odom is at Syracuse and Dexter Williams is also gone; incoming are Rickie Collins from Syracuse and Landon Varnes, a JUCO starter who threw 31 touchdowns against 14 interceptions at Mississippi Gulf Coast and chose the Owls over Arkansas State and Eastern Michigan, leaving open whether he beats out Collins. Beyond quarterback, all of last season's running backs are gone and all but two receivers are elsewhere. Its scheme note is forward-looking: coordinator Mitch Militello comes from the Josh Heupel tree, and it wonders whether he now has the personnel to play faster — Kennesaw State averaged 69 plays per game last season, and it would not be surprising to see that rise. *(p. 195)*
+- **Is more Mack magic on the horizon?** The guide restates the churn: virtually a brand-new team last season and another full of new faces now, with Mack having brought in more than 60 players via the portal last year, and 247Sports listing 29 graded transfers this cycle in a class ranked third in the conference behind Sam Houston and Liberty. It calls the eight-win year-over-year improvement incredible, especially with Power Four openers against Wake Forest and Indiana. Then it sets out both sides plainly: it is fair to be excited that transfers who did not feature prominently now get their chance in Year 2 of the system, but there is basically zero returning production on offense — and it asks what the chances are of lightning striking twice. *(p. 195)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kennesaw State’s eight-win improvement was a shocker, but so was Liberty’s complete reversal of fortunes, going from 8-4 to 4-8, as head coach Jamey Chadwell posted his worst record since 2017 when he was the interim HC at Coastal Carolina while Joe Moglia tended to health issues and the Chanticleers went 3-9. *(p. 196)*
+Also referenced on **pp. 196** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -91,8 +103,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 194)*.
 
-- A lot of players left in light of Bohannon’s departure, but Jerry Mack got to work, quickly rebuilding the roster and he hit a home run with QB Amari Odom, who stabilized the offense and gave them a dual- threat component. *(p. 194)*
-- While they did outgain the opposition on a per-play basis thanks to some explosives in the passing game, this was a defense that allowed nearly 6.5 yards per play in the month of November when the schedule ramped up. *(p. 195)*
+- Many players left in the wake of that departure, but Jerry Mack rebuilt the roster quickly and, in the guide's phrase, hit a home run with quarterback Amari Odom, who stabilised the offense and supplied a dual-threat component. *(p. 194)*
+- With Odom gone and the programme's standards re-established, it says Mack's encore is one to follow. *(p. 194)*
+- **Where’s the offense?** The guide calls this a complete rebuild. Odom is at Syracuse and Dexter Williams is also gone; incoming are Rickie Collins from Syracuse and Landon Varnes, a JUCO starter who threw 31 touchdowns against 14 interceptions at Mississippi Gulf Coast and chose the Owls over Arkansas State and Eastern Michigan, leaving open whether he beats out Collins. Beyond quarterback, all of last season's running backs are gone and all but two receivers are elsewhere. Its scheme note is forward-looking: coordinator Mitch Militello comes from the Josh Heupel tree, and it wonders whether he now has the personnel to play faster — Kennesaw State averaged 69 plays per game last season, and it would not be surprising to see that rise. *(p. 195)*
 
 ## 10. Returning Production
 
@@ -108,30 +121,23 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- Rickie Collins transferred in from Syracuse and Landon Varnes was a JUCO starter with 31 TD passes against 14 picks last season at Mississippi Gulf Coast. *(p. 195)*
-- Mack brought in more than 60 players via the portal last season. 247Sports has 29 graded transfers for the Owls and their class ranks third in the conference behind Sam Houston and Liberty. *(p. 195)*
-- On one hand, it’s fair to be excited that some of the transfers that didn’t feature prominently last season will have the chance now in Year 2 in the system. *(p. 195)*
+- Many players left in the wake of that departure, but Jerry Mack rebuilt the roster quickly and, in the guide's phrase, hit a home run with quarterback Amari Odom, who stabilised the offense and supplied a dual-threat component. *(p. 194)*
+- **Where’s the offense?** The guide calls this a complete rebuild. Odom is at Syracuse and Dexter Williams is also gone; incoming are Rickie Collins from Syracuse and Landon Varnes, a JUCO starter who threw 31 touchdowns against 14 interceptions at Mississippi Gulf Coast and chose the Owls over Arkansas State and Eastern Michigan, leaving open whether he beats out Collins. Beyond quarterback, all of last season's running backs are gone and all but two receivers are elsewhere. Its scheme note is forward-looking: coordinator Mitch Militello comes from the Josh Heupel tree, and it wonders whether he now has the personnel to play faster — Kennesaw State averaged 69 plays per game last season, and it would not be surprising to see that rise. *(p. 195)*
+- **Is more Mack magic on the horizon?** The guide restates the churn: virtually a brand-new team last season and another full of new faces now, with Mack having brought in more than 60 players via the portal last year, and 247Sports listing 29 graded transfers this cycle in a class ranked third in the conference behind Sam Houston and Liberty. It calls the eight-win year-over-year improvement incredible, especially with Power Four openers against Wake Forest and Indiana. Then it sets out both sides plainly: it is fair to be excited that transfers who did not feature prominently now get their chance in Year 2 of the system, but there is basically zero returning production on offense — and it asks what the chances are of lightning striking twice. *(p. 195)*
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- If the clock strikes midnight and he turns into a pumpkin, Amari Odom started at Kennesaw State and Malachi Nelson is on his fourth team after being one of the top recruits in his class several years ago. *(p. 107)*
+Referenced in the guide on **pp. 107** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- A lot of players left in light of Bohannon’s departure, but Jerry Mack got to work, quickly rebuilding the roster and he hit a home run with QB Amari Odom, who stabilized the offense and gave them a dual- threat component. *(p. 194)*
-- This is a complete rebuild on offense. *(p. 195)*
-- Regardless of who barks out the signals, all of last season’s running backs are gone and all but two wide receivers are elsewhere. *(p. 195)*
-- This is not a good offensive conference, but the Owls gave up more than 400 yards per game and were outgained by 0.5 yards per carry. *(p. 195)*
-- While they did outgain the opposition on a per-play basis thanks to some explosives in the passing game, this was a defense that allowed nearly 6.5 yards per play in the month of November when the schedule ramped up. *(p. 195)*
-- On the other hand, there is basically zero returning production on offense and what are the chances lightning strikes again? *(p. 195)*
+- **Where’s the offense?** The guide calls this a complete rebuild. Odom is at Syracuse and Dexter Williams is also gone; incoming are Rickie Collins from Syracuse and Landon Varnes, a JUCO starter who threw 31 touchdowns against 14 interceptions at Mississippi Gulf Coast and chose the Owls over Arkansas State and Eastern Michigan, leaving open whether he beats out Collins. Beyond quarterback, all of last season's running backs are gone and all but two receivers are elsewhere. Its scheme note is forward-looking: coordinator Mitch Militello comes from the Josh Heupel tree, and it wonders whether he now has the personnel to play faster — Kennesaw State averaged 69 plays per game last season, and it would not be surprising to see that rise. *(p. 195)*
+- **Is more Mack magic on the horizon?** The guide restates the churn: virtually a brand-new team last season and another full of new faces now, with Mack having brought in more than 60 players via the portal last year, and 247Sports listing 29 graded transfers this cycle in a class ranked third in the conference behind Sam Houston and Liberty. It calls the eight-win year-over-year improvement incredible, especially with Power Four openers against Wake Forest and Indiana. Then it sets out both sides plainly: it is fair to be excited that transfers who did not feature prominently now get their chance in Year 2 of the system, but there is basically zero returning production on offense — and it asks what the chances are of lightning striking twice. *(p. 195)*
 
 ## 14. Defensive Identity
 
-- While they did outgain the opposition on a per-play basis thanks to some explosives in the passing game, this was a defense that allowed nearly 6.5 yards per play in the month of November when the schedule ramped up. *(p. 195)*
-- The top three tacklers are back, but will this defense take a step forward? *(p. 195)*
+- **Can the Owls find more defensive consistency?** The guide grades the defense against a low bar and still finds it wanting: this is not a good offensive conference, yet the Owls allowed more than 400 yards per game and were out-gained by 0.5 yards per carry. It grants they out-gained opponents per play thanks to explosives in the passing game, then isolates the schedule-strength effect — nearly 6.5 yards per play allowed in November as the slate ramped up. Its examples are a 41-34 win over Missouri State, a 48-42 double-overtime win over Liberty, and being completely smacked by Western Michigan in the Myrtle Beach Bowl. The summary statistic is that Kennesaw State was out-gained in four of its eight conference wins. The top three tacklers return, leaving its question open. *(p. 195)*
 
 ## 15. Key Strengths
 
@@ -194,28 +200,20 @@ Prices printed on the team page *(p. 195)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 6.5 wins, framed starkly — from conference champions to possibly missing a bowl — with many signs pointing that way. *(p. 194)*
+- Its decisive reason is comparative: the conference schedule is tough and the opponents in some of the toss-up games appear to have improved more than the Owls. Projection is 6.34 wins. *(p. 194)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, their road games are at Jacksonville State, Liberty, Delaware, and Kennesaw State, who have three of the four shortest prices to win the conference. *(p. 190)*
+Also referenced on **pp. 190** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- This was a team that went 2-10 as a first-year FBS member in 2024. *(p. 194)*
-- But, as the team got closer, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023. *(p. 194)*
-- Even though there is only one clear loss on the schedule in non-conference as opposed to what we all assumed was two last season (only lost 10-9 to Wake Forest), the conference schedule is tough and it does seem like the teams in some of the toss-up games may have improved more than the Owls. *(p. 194)*
-- Rickie Collins transferred in from Syracuse and Landon Varnes was a JUCO starter with 31 TD passes against 14 picks last season at Mississippi Gulf Coast. *(p. 195)*
-- Regardless of who barks out the signals, all of last season’s running backs are gone and all but two wide receivers are elsewhere. *(p. 195)*
-- The Owls averaged 69 plays per game last season, but it wouldn’t be surprising to see that number go up. *(p. 195)*
-- As mentioned, this was virtually a brand-new team last season and it will be full of new faces again this season. *(p. 195)*
-- Mack brought in more than 60 players via the portal last season. 247Sports has 29 graded transfers for the Owls and their class ranks third in the conference behind Sam Houston and Liberty. *(p. 195)*
-- On one hand, it’s fair to be excited that some of the transfers that didn’t feature prominently last season will have the chance now in Year 2 in the system. *(p. 195)*
+- The guide argues Kennesaw State may have been the best story in the Group of Five and that not enough people were talking about it. *(p. 194)*
+- The scale of the turnaround: 2-10 as a first-year FBS member in 2024, then 10-4 and a conference title with a first-year head coach and a lot of new personnel. *(p. 194)*
+- It explains what 2024 was supposed to be — a celebration of graduating to FBS, with the move set in motion by four straight full seasons of 11-plus wins from 2017-21. *(p. 194)*
+- But as that move approached, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023, and was fired nine games into 2024 — even after an incredible upset of Liberty a few weeks earlier. *(p. 194)*
+- On the schedule it notes only one clear non-conference loss this time, against what everyone assumed would be two last season, recalling that Kennesaw State only lost 10-9 to Wake Forest. *(p. 194)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Add the long trek to the Land of Enchantment, reigning champ Kennesaw State, two road games against better P4 opponents than last season, and this year’s schedule feels a bit trickier. *(p. 188)*
-- They did not play Kennesaw State, Missouri State, or New Mexico State last season, but they will this season, with the NMSU game all the way out in Las Cruces on November 21. *(p. 189)*
-- Kennesaw State’s eight-win improvement was a shocker, but so was Liberty’s complete reversal of fortunes, going from 8-4 to 4-8, as head coach Jamey Chadwell posted his worst record since 2017 when he was the interim HC at Coastal Carolina while Joe Moglia tended to health issues and the Chanticleers went 3-9. *(p. 196)*
+Referenced in the guide on **pp. 188, 189, 196** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -260,40 +258,41 @@ As printed on p. 195. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The best story in the Group of Five may very well have been Kennesaw State and there were not enough people talking about it. *(p. 194)*
-- But, as the team got closer, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023. *(p. 194)*
-- Even though there is only one clear loss on the schedule in non-conference as opposed to what we all assumed was two last season (only lost 10-9 to Wake Forest), the conference schedule is tough and it does seem like the teams in some of the toss-up games may have improved more than the Owls. *(p. 194)*
-- This is not a good offensive conference, but the Owls gave up more than 400 yards per game and were outgained by 0.5 yards per carry. *(p. 195)*
-- An eight-win improvement year over year was just incredible, especially with two Power Four teams to start the season in Wake Forest and Indiana. *(p. 195)*
-- It was a truly impressive season for Kennesaw State. *(p. 187)*
-- Kennesaw State’s eight-win improvement was a shocker, but so was Liberty’s complete reversal of fortunes, going from 8-4 to 4-8, as head coach Jamey Chadwell posted his worst record since 2017 when he was the interim HC at Coastal Carolina while Joe Moglia tended to health issues and the Chanticleers went 3-9. *(p. 196)*
+- The guide argues Kennesaw State may have been the best story in the Group of Five and that not enough people were talking about it. *(p. 194)*
+- But as that move approached, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023, and was fired nine games into 2024 — even after an incredible upset of Liberty a few weeks earlier. *(p. 194)*
+- Its decisive reason is comparative: the conference schedule is tough and the opponents in some of the toss-up games appear to have improved more than the Owls. Projection is 6.34 wins. *(p. 194)*
+- The guide grades the defense against a low bar and still finds it wanting: this is not a good offensive conference, yet the Owls allowed more than 400 yards per game and were out-gained by 0.5 yards per carry. It grants they out-gained opponents per play thanks to explosives in the passing game, then isolates the schedule-strength effect — nearly 6.5 yards per play allowed in November as the slate ramped up. Its examples are a 41-34 win over Missouri State, a 48-42 double-overtime win over Liberty, and being completely smacked by Western Michigan in the Myrtle Beach Bowl. The summary statistic is that Kennesaw State was out-gained in four of its eight conference wins. The top three tacklers return, leaving its question open. *(p. 195)*
+- The guide restates the churn: virtually a brand-new team last season and another full of new faces now, with Mack having brought in more than 60 players via the portal last year, and 247Sports listing 29 graded transfers this cycle in a class ranked third in the conference behind Sam Houston and Liberty. It calls the eight-win year-over-year improvement incredible, especially with Power Four openers against Wake Forest and Indiana. Then it sets out both sides plainly: it is fair to be excited that transfers who did not feature prominently now get their chance in Year 2 of the system, but there is basically zero returning production on offense — and it asks what the chances are of lightning striking twice. *(p. 195)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 6.5**.
-- Even though there is only one clear loss on the schedule in non-conference as opposed to what we all assumed was two last season (only lost 10-9 to Wake Forest), the conference schedule is tough and it does seem like the teams in some of the toss-up games may have improved more than the Owls. *(p. 194)*
-- Kennesaw State got revenge for their ninepoint loss with a four-point win in the C-USA Title Game. *(p. 193)*
+- Recommendation is Under 6.5 wins, framed starkly — from conference champions to possibly missing a bowl — with many signs pointing that way. *(p. 194)*
+- On the schedule it notes only one clear non-conference loss this time, against what everyone assumed would be two last season, recalling that Kennesaw State only lost 10-9 to Wake Forest. *(p. 194)*
+- Its decisive reason is comparative: the conference schedule is tough and the opponents in some of the toss-up games appear to have improved more than the Owls. Projection is 6.34 wins. *(p. 194)*
+- The guide grades the defense against a low bar and still finds it wanting: this is not a good offensive conference, yet the Owls allowed more than 400 yards per game and were out-gained by 0.5 yards per carry. It grants they out-gained opponents per play thanks to explosives in the passing game, then isolates the schedule-strength effect — nearly 6.5 yards per play allowed in November as the slate ramped up. Its examples are a 41-34 win over Missouri State, a 48-42 double-overtime win over Liberty, and being completely smacked by Western Michigan in the Myrtle Beach Bowl. The summary statistic is that Kennesaw State was out-gained in four of its eight conference wins. The top three tacklers return, leaving its question open. *(p. 195)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 195)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 195)*. Its analysis, in reference form:
 
 ### Where’s the offense?
 
-This is a complete rebuild on offense. Odom is now at Syracuse and Dexter Williams is also gone. Rickie Collins transferred in from Syracuse and Landon Varnes was a JUCO starter with 31 TD passes against 14 picks last season at Mississippi Gulf Coast. Varnes picked the Owls over Arkansas State and Eastern Michigan, so we’ll see if he ends up beating out Collins. Regardless of who barks out the signals, all of last season’s running backs are gone and all but two wide receivers are elsewhere. OC Mitch Militello is a branch of the Josh Heupel tree and you wonder if maybe he has the personnel now to play faster. The Owls averaged 69 plays per game last season, but it wouldn’t be surprising to see that number go up.
+The guide calls this a complete rebuild. Odom is at Syracuse and Dexter Williams is also gone; incoming are Rickie Collins from Syracuse and Landon Varnes, a JUCO starter who threw 31 touchdowns against 14 interceptions at Mississippi Gulf Coast and chose the Owls over Arkansas State and Eastern Michigan, leaving open whether he beats out Collins. Beyond quarterback, all of last season's running backs are gone and all but two receivers are elsewhere. Its scheme note is forward-looking: coordinator Mitch Militello comes from the Josh Heupel tree, and it wonders whether he now has the personnel to play faster — Kennesaw State averaged 69 plays per game last season, and it would not be surprising to see that rise. *(p. 195)*
 
 ### Can the Owls find more defensive consistency?
 
-This is not a good offensive conference, but the Owls gave up more than 400 yards per game and were outgained by 0.5 yards per carry. While they did outgain the opposition on a per-play basis thanks to some explosives in the passing game, this was a defense that allowed nearly 6.5 yards per play in the month of November when the schedule ramped up. They had a 41-34 win over Missouri State and a 48-42 win over Liberty in a double-overtime tilt. They also got completely smacked by Western Michigan in the Myrtle Beach Bowl. The Owls were outgained in four of their eight conference wins. The top three tacklers are back, but will this defense take a step forward?
+The guide grades the defense against a low bar and still finds it wanting: this is not a good offensive conference, yet the Owls allowed more than 400 yards per game and were out-gained by 0.5 yards per carry. It grants they out-gained opponents per play thanks to explosives in the passing game, then isolates the schedule-strength effect — nearly 6.5 yards per play allowed in November as the slate ramped up. Its examples are a 41-34 win over Missouri State, a 48-42 double-overtime win over Liberty, and being completely smacked by Western Michigan in the Myrtle Beach Bowl. The summary statistic is that Kennesaw State was out-gained in four of its eight conference wins. The top three tacklers return, leaving its question open. *(p. 195)*
 
 ### Is more Mack magic on the horizon?
 
-As mentioned, this was virtually a brand-new team last season and it will be full of new faces again this season. Mack brought in more than 60 players via the portal last season. 247Sports has 29 graded transfers for the Owls and their class ranks third in the conference behind Sam Houston and Liberty. An eight-win improvement year over year was just incredible, especially with two Power Four teams to start the season in Wake Forest and Indiana. On one hand, it’s fair to be excited that some of the transfers that didn’t feature prominently last season will have the chance now in Year 2 in the system. On the other hand, there is basically zero returning production on offense and what are the chances lightning strikes again?
+The guide restates the churn: virtually a brand-new team last season and another full of new faces now, with Mack having brought in more than 60 players via the portal last year, and 247Sports listing 29 graded transfers this cycle in a class ranked third in the conference behind Sam Houston and Liberty. It calls the eight-win year-over-year improvement incredible, especially with Power Four openers against Wake Forest and Indiana. Then it sets out both sides plainly: it is fair to be excited that transfers who did not feature prominently now get their chance in Year 2 of the system, but there is basically zero returning production on offense — and it asks what the chances are of lightning striking twice. *(p. 195)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -24,9 +24,20 @@
 | **Makinen projected wins** | 7.9–4.1 overall, 5.5–2.5 in conference |
 | **Schedule strength** | 26.97 (#134 toughest of 138) |
 
-### Season outlook as written in the guide (p. 192)
+### Season outlook — VSiN's analysis in reference form (p. 192)
 
-It has been quite a ride thus far for Jacksonville State, as the Gamecocks have won nine games in four consecutive seasons, three of them as a FBS member. In that span, Jacksonville State is +24 in TO margin and that has made a huge difference, but they’ve also been good for two different head coaches in Rich Rodriguez and Charles Kelly. With Rich Rod back at West Virginia where it all started, the Gamecocks made what turned out to be a savvy hire of Kelly, who was an assistant here way back in the mid-90s. This is his first crack at being the head man in charge and Year 1 was a success. We’ll see what Year 2 has in store, as the Gamecocks will be without Cam Cook, who ran for 1,659 yards, but will fully turn the keys of the offense over to QB Caden Creel, a 1,000-yard rusher himself who also threw for over 1,500 yards. This was a much more efficient offense with Creel at the helm as opposed to Rutgers/Kentucky transfer Gavin Wimsatt and that means there’s a lot of hope for this group, even if a new stud running back needs to emerge. Over 7.5 This is not a bet, but I am cautiously optimistic that the Gamecocks can go 8-4 during the regular season. While they do go to Western Kentucky and Delaware, they avoid Liberty and should be comfortably favored in their four conference home tilts. This is an established program and even if there are some mild downturns, they can run the ball and might have the best QB in the conference. My projection is 7.47 wins.
+- The guide's headline fact is consistency: nine wins in four consecutive seasons, three of them as an FBS member. *(p. 192)*
+- It identifies the mechanism it will later question — Jacksonville State is +24 in turnover margin across that span, which has made a huge difference. *(p. 192)*
+- It credits the programme rather than one coach, noting the run has continued under both Rich Rodriguez and Charles Kelly. *(p. 192)*
+- With Rodriguez back at West Virginia where it all started, it calls the Kelly hire savvy — an assistant here back in the mid-1990s, in his first head-coaching job, with a successful Year 1. *(p. 192)*
+- The Year 2 question begins with a loss: Cam Cook and his 1,659 rushing yards are gone. *(p. 192)*
+- The offense now turns fully to quarterback Caden Creel, himself a 1,000-yard rusher who also threw for over 1,500 yards. *(p. 192)*
+- Its stated reason for hope is efficiency: the offense was much better with Creel at the helm than with Rutgers and Kentucky transfer Gavin Wimsatt — even if a new stud running back must emerge. *(p. 192)*
+- Recommendation is Over 7.5 wins, explicitly not a bet, with cautious optimism about an 8-4 regular season. *(p. 192)*
+- The schedule supports it: road games at Western Kentucky and Delaware, but Liberty avoided, and comfortable favouritism expected in all four conference home games. *(p. 192)*
+- Its summary is an established programme that, even through mild downturns, can run the ball and might have the best quarterback in the conference. Projection is 7.47 wins. *(p. 192)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,14 +89,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- In that span, Jacksonville State is +24 in TO margin and that has made a huge difference, but they’ve also been good for two different head coaches in Rich Rodriguez and Charles Kelly. *(p. 192)*
-- With Rich Rod back at West Virginia where it all started, the Gamecocks made what turned out to be a savvy hire of Kelly, who was an assistant here way back in the mid-90s. *(p. 192)*
-- Justus Savage and Khristian Lando are bigger backs and both holdovers from last season, though OC Clint Trickett now holds the same role at Maryland. *(p. 193)*
-- TE coach Taylor Housewright is the new OC and he has experience, having held the same role for two years at Montana State. *(p. 193)*
+- It credits the programme rather than one coach, noting the run has continued under both Rich Rodriguez and Charles Kelly. *(p. 192)*
+- With Rodriguez back at West Virginia where it all started, it calls the Kelly hire savvy — an assistant here back in the mid-1990s, in his first head-coaching job, with a successful Year 1. *(p. 192)*
+- **Will the running back by committee approach work?** The guide contrasts the workload being replaced — Cook as a bell cow with 295 carries and 16 rushing touchdowns, with Creel and Wimsatt next in rushing — against a group of candidates. Jalen Likely had only seven carries in eight games but averaged 7.4 yards, though at 5-foot-8 the guide rules out him absorbing Cook's abuse; Justus Savage and Khristian Lando are bigger backs and both holdovers. It flags a staff change too: coordinator Clint Trickett now holds the same role at Maryland, with tight ends coach Taylor Housewright promoted, bringing experience from two years as coordinator at Montana State. Its expectation is a little more throwing from Creel while the staff waits for a back to step forward. *(p. 193)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Pep Hamilton moves to an advisor role and Clint Trickett takes over as offensive coordinator after spending last season in the same role at Jacksonville State. *(p. 157)*
+Also referenced on **pp. 157** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -93,8 +101,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 192)*.
 
-- We’ll see what Year 2 has in store, as the Gamecocks will be without Cam Cook, who ran for 1,659 yards, but will fully turn the keys of the offense over to QB Caden Creel, a 1,000-yard rusher himself who also threw for over 1,500 yards. *(p. 192)*
-- This is an established program and even if there are some mild downturns, they can run the ball and might have the best QB in the conference. *(p. 192)*
+- The offense now turns fully to quarterback Caden Creel, himself a 1,000-yard rusher who also threw for over 1,500 yards. *(p. 192)*
+- Its stated reason for hope is efficiency: the offense was much better with Creel at the helm than with Rutgers and Kentucky transfer Gavin Wimsatt — even if a new stud running back must emerge. *(p. 192)*
+- Its summary is an established programme that, even through mild downturns, can run the ball and might have the best quarterback in the conference. Projection is 7.47 wins. *(p. 192)*
+- **Will the running back by committee approach work?** The guide contrasts the workload being replaced — Cook as a bell cow with 295 carries and 16 rushing touchdowns, with Creel and Wimsatt next in rushing — against a group of candidates. Jalen Likely had only seven carries in eight games but averaged 7.4 yards, though at 5-foot-8 the guide rules out him absorbing Cook's abuse; Justus Savage and Khristian Lando are bigger backs and both holdovers. It flags a staff change too: coordinator Clint Trickett now holds the same role at Maryland, with tight ends coach Taylor Housewright promoted, bringing experience from two years as coordinator at Montana State. Its expectation is a little more throwing from Creel while the staff waits for a back to step forward. *(p. 193)*
 
 ## 10. Returning Production
 
@@ -110,12 +120,9 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- This was a much more efficient offense with Creel at the helm as opposed to Rutgers/Kentucky transfer Gavin Wimsatt and that means there’s a lot of hope for this group, even if a new stud running back needs to emerge. *(p. 192)*
-- Surely the 6-foot-8 guy will be more of a focal point this season, alongside a collection of transfers from other small schools and some homegrowns that will get more of an opportunity. *(p. 193)*
+- **How will Housewright work Deondre Johnson into the offense?** The guide opens with a pop-song parody it flags as probably the first Montell Jordan reference in a VSiN Betting Guide, then disclaims the invented details. The substance is that 6-foot-8 receiver Deondre Johnson is the top and really only returning receiver, with 724 yards on just 30 receptions — the next closest being tight end Brock Rechsteiner at 36 catches for 383 yards. It adds a red-zone inefficiency to the case: 59 trips inside the 20 produced only the 93rd-best touchdown percentage. Its expectation is that the 6-foot-8 target becomes more of a focal point alongside a collection of small-school transfers and homegrown players getting more opportunity. *(p. 193)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Hurricanes also added WR transfer Cam Vaughn, who had 800 yards and five TDs two seasons ago at Jacksonville State, and former South Carolina WR Vandrevius Jacobs, who was productive with 548 yards and four touchdowns a season ago. *(p. 10)*
+Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -123,15 +130,12 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- We’ll see what Year 2 has in store, as the Gamecocks will be without Cam Cook, who ran for 1,659 yards, but will fully turn the keys of the offense over to QB Caden Creel, a 1,000-yard rusher himself who also threw for over 1,500 yards. *(p. 192)*
-- This was a much more efficient offense with Creel at the helm as opposed to Rutgers/Kentucky transfer Gavin Wimsatt and that means there’s a lot of hope for this group, even if a new stud running back needs to emerge. *(p. 192)*
-- Last season, Cook was a bell cow, racking up 295 rush attempts and 16 rushing touchdowns. *(p. 193)*
-- And all they said was 6’8” he stood and people thought the music that he made was good. (probably the first Montell Jordan reference in a VSiN Betting Guide) Alright, so I don’t know if any of that is true - the money or the music - but 6-foot-8 WR Deondre Johnson is the top, and really only, returning receiver for the Gamecocks. *(p. 193)*
-- They did average over six yards per play in conference games and did outgain the opposition overall and on a per-play basis, but not to the tune of a 7-2 record. *(p. 193)*
+- The Year 2 question begins with a loss: Cam Cook and his 1,659 rushing yards are gone. *(p. 192)*
+- Its stated reason for hope is efficiency: the offense was much better with Creel at the helm than with Rutgers and Kentucky transfer Gavin Wimsatt — even if a new stud running back must emerge. *(p. 192)*
+- **Will the running back by committee approach work?** The guide contrasts the workload being replaced — Cook as a bell cow with 295 carries and 16 rushing touchdowns, with Creel and Wimsatt next in rushing — against a group of candidates. Jalen Likely had only seven carries in eight games but averaged 7.4 yards, though at 5-foot-8 the guide rules out him absorbing Cook's abuse; Justus Savage and Khristian Lando are bigger backs and both holdovers. It flags a staff change too: coordinator Clint Trickett now holds the same role at Maryland, with tight ends coach Taylor Housewright promoted, bringing experience from two years as coordinator at Montana State. Its expectation is a little more throwing from Creel while the staff waits for a back to step forward. *(p. 193)*
+- **How will Housewright work Deondre Johnson into the offense?** The guide opens with a pop-song parody it flags as probably the first Montell Jordan reference in a VSiN Betting Guide, then disclaims the invented details. The substance is that 6-foot-8 receiver Deondre Johnson is the top and really only returning receiver, with 724 yards on just 30 receptions — the next closest being tight end Brock Rechsteiner at 36 catches for 383 yards. It adds a red-zone inefficiency to the case: 59 trips inside the 20 produced only the 93rd-best touchdown percentage. Its expectation is that the 6-foot-8 target becomes more of a focal point alongside a collection of small-school transfers and homegrown players getting more opportunity. *(p. 193)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Pep Hamilton moves to an advisor role and Clint Trickett takes over as offensive coordinator after spending last season in the same role at Jacksonville State. *(p. 157)*
+Referenced in the guide on **pp. 157** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
@@ -208,25 +212,20 @@ Prices printed on the team page *(p. 193)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Over 7.5 This is not a bet, but I am cautiously optimistic that the Gamecocks can go 8-4 during the regular season. *(p. 192)*
-- And all they said was 6’8” he stood and people thought the music that he made was good. (probably the first Montell Jordan reference in a VSiN Betting Guide) Alright, so I don’t know if any of that is true - the money or the music - but 6-foot-8 WR Deondre Johnson is the top, and really only, returning receiver for the Gamecocks. *(p. 193)*
+- Recommendation is Over 7.5 wins, explicitly not a bet, with cautious optimism about an 8-4 regular season. *(p. 192)*
+- The schedule supports it: road games at Western Kentucky and Delaware, but Liberty avoided, and comfortable favouritism expected in all four conference home games. *(p. 192)*
+- Its summary is an established programme that, even through mild downturns, can run the ball and might have the best quarterback in the conference. Projection is 7.47 wins. *(p. 192)*
+- **Is the Regression Monster lurking?** The guide argues the nine-win streak concealed decline: Jacksonville State scored nearly eight fewer points per game year over year while benefitting greatly from a +10 turnover margin and a lot of close wins. It itemises the conference record — 7-2, with wins by 10, 2, 13, 3, 3, 9 and 3 — and notes Kennesaw State avenged a nine-point loss with a four-point win in the C-USA title game. It restates the structural point that the Gamecocks are +24 in turnover margin since joining the conference and were +11 in conference games alone last season. Its balanced conclusion is that Jacksonville State did average over six yards per play in conference games and did out-gain opponents overall and per play, but not by enough to justify a 7-2 record. *(p. 193)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They see an old friend in Jacksonville State in non-conference play, and it’s among the favorites to win Conference USA. *(p. 14)*
-- However, their road games are at Jacksonville State, Liberty, Delaware, and Kennesaw State, who have three of the four shortest prices to win the conference. *(p. 190)*
+Also referenced on **pp. 14, 190** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Last season, Cook was a bell cow, racking up 295 rush attempts and 16 rushing touchdowns. *(p. 193)*
-- Somebody is likely to emerge as more of a standout and perhaps it will be Jalen Likely, who only had seven carries in eight games last season, but had 7.4 yards per pop. *(p. 193)*
-- Justus Savage and Khristian Lando are bigger backs and both holdovers from last season, though OC Clint Trickett now holds the same role at Maryland. *(p. 193)*
-- While the Gamecocks kept their streak of winning nine games alive, they scored nearly eight points per game fewer year over year, benefitting greatly from a +10 TO margin and a lot of wins in tight games. *(p. 193)*
-- Like I said, this is a team that is +24 in TO margin since joining the conference and was +11 in conference games, specifically, last season. *(p. 193)*
+- The guide's headline fact is consistency: nine wins in four consecutive seasons, three of them as an FBS member. *(p. 192)*
+- It identifies the mechanism it will later question — Jacksonville State is +24 in turnover margin across that span, which has made a huge difference. *(p. 192)*
+- **Is the Regression Monster lurking?** The guide argues the nine-win streak concealed decline: Jacksonville State scored nearly eight fewer points per game year over year while benefitting greatly from a +10 turnover margin and a lot of close wins. It itemises the conference record — 7-2, with wins by 10, 2, 13, 3, 3, 9 and 3 — and notes Kennesaw State avenged a nine-point loss with a four-point win in the C-USA title game. It restates the structural point that the Gamecocks are +24 in turnover margin since joining the conference and were +11 in conference games alone last season. Its balanced conclusion is that Jacksonville State did average over six yards per play in conference games and did out-gain opponents overall and per play, but not by enough to justify a 7-2 record. *(p. 193)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Pep Hamilton moves to an advisor role and Clint Trickett takes over as offensive coordinator after spending last season in the same role at Jacksonville State. *(p. 157)*
+Referenced in the guide on **pp. 157** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -273,39 +272,39 @@ As printed on p. 193. Each category carries a value and a national rank.
 
 - Makinen projects **7.9 wins** against a posted total of 7.5 — **+0.4** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- In that span, Jacksonville State is +24 in TO margin and that has made a huge difference, but they’ve also been good for two different head coaches in Rich Rodriguez and Charles Kelly. *(p. 192)*
-- This is his first crack at being the head man in charge and Year 1 was a success. *(p. 192)*
-- Over 7.5 This is not a bet, but I am cautiously optimistic that the Gamecocks can go 8-4 during the regular season. *(p. 192)*
-- This is an established program and even if there are some mild downturns, they can run the ball and might have the best QB in the conference. *(p. 192)*
-- And all they said was 6’8” he stood and people thought the music that he made was good. (probably the first Montell Jordan reference in a VSiN Betting Guide) Alright, so I don’t know if any of that is true - the money or the music - but 6-foot-8 WR Deondre Johnson is the top, and really only, returning receiver for the Gamecocks. *(p. 193)*
-- While the Gamecocks kept their streak of winning nine games alive, they scored nearly eight points per game fewer year over year, benefitting greatly from a +10 TO margin and a lot of wins in tight games. *(p. 193)*
+- It credits the programme rather than one coach, noting the run has continued under both Rich Rodriguez and Charles Kelly. *(p. 192)*
+- With Rodriguez back at West Virginia where it all started, it calls the Kelly hire savvy — an assistant here back in the mid-1990s, in his first head-coaching job, with a successful Year 1. *(p. 192)*
+- Recommendation is Over 7.5 wins, explicitly not a bet, with cautious optimism about an 8-4 regular season. *(p. 192)*
+- Its summary is an established programme that, even through mild downturns, can run the ball and might have the best quarterback in the conference. Projection is 7.47 wins. *(p. 192)*
+- The guide opens with a pop-song parody it flags as probably the first Montell Jordan reference in a VSiN Betting Guide, then disclaims the invented details. The substance is that 6-foot-8 receiver Deondre Johnson is the top and really only returning receiver, with 724 yards on just 30 receptions — the next closest being tight end Brock Rechsteiner at 36 catches for 383 yards. It adds a red-zone inefficiency to the case: 59 trips inside the 20 produced only the 93rd-best touchdown percentage. Its expectation is that the 6-foot-8 target becomes more of a focal point alongside a collection of small-school transfers and homegrown players getting more opportunity. *(p. 193)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- He’s just 5-foot-8, so taking a bunch of abuse like Cook did is likely out of the question. *(p. 193)*
-- Kennesaw State got revenge for their nine- point loss with a four-point win in the C-USA Title Game. *(p. 193)*
-- The first nonMAC team on the weak schedule list is Jacksonville State, at No. 5, out of Conference USA. *(p. 46)*
+- It identifies the mechanism it will later question — Jacksonville State is +24 in turnover margin across that span, which has made a huge difference. *(p. 192)*
+- The Year 2 question begins with a loss: Cam Cook and his 1,659 rushing yards are gone. *(p. 192)*
+- The guide argues the nine-win streak concealed decline: Jacksonville State scored nearly eight fewer points per game year over year while benefitting greatly from a +10 turnover margin and a lot of close wins. It itemises the conference record — 7-2, with wins by 10, 2, 13, 3, 3, 9 and 3 — and notes Kennesaw State avenged a nine-point loss with a four-point win in the C-USA title game. It restates the structural point that the Gamecocks are +24 in turnover margin since joining the conference and were +11 in conference games alone last season. Its balanced conclusion is that Jacksonville State did average over six yards per play in conference games and did out-gain opponents overall and per play, but not by enough to justify a 7-2 record. *(p. 193)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 193)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 193)*. Its analysis, in reference form:
 
 ### Will the running back by committee approach work?
 
-Last season, Cook was a bell cow, racking up 295 rush attempts and 16 rushing touchdowns. Creel and Wimsatt were the next two leading rushers. Somebody is likely to emerge as more of a standout and perhaps it will be Jalen Likely, who only had seven carries in eight games last season, but had 7.4 yards per pop. He’s just 5-foot-8, so taking a bunch of abuse like Cook did is likely out of the question. Justus Savage and Khristian Lando are bigger backs and both holdovers from last season, though OC Clint Trickett now holds the same role at Maryland. TE coach Taylor Housewright is the new OC and he has experience, having held the same role for two years at Montana State. Perhaps we see a little more throwing from Creel this season while waiting for an RB to step forward.
+The guide contrasts the workload being replaced — Cook as a bell cow with 295 carries and 16 rushing touchdowns, with Creel and Wimsatt next in rushing — against a group of candidates. Jalen Likely had only seven carries in eight games but averaged 7.4 yards, though at 5-foot-8 the guide rules out him absorbing Cook's abuse; Justus Savage and Khristian Lando are bigger backs and both holdovers. It flags a staff change too: coordinator Clint Trickett now holds the same role at Maryland, with tight ends coach Taylor Housewright promoted, bringing experience from two years as coordinator at Montana State. Its expectation is a little more throwing from Creel while the staff waits for a back to step forward. *(p. 193)*
 
 ### How will Housewright work Deondre Johnson into the offense?
 
-Once upon a time in ‘24, Deondre made no money and life sure was slow. And all they said was 6’8” he stood and people thought the music that he made was good. (probably the first Montell Jordan reference in a VSiN Betting Guide) Alright, so I don’t know if any of that is true - the money or the music - but 6-foot-8 WR Deondre Johnson is the top, and really only, returning receiver for the Gamecocks. He had 724 yards on just 30 receptions, as the next closest guy was TE Brock Rechsteiner with 36 grabs for 383 yards. With 59 trips into the red zone, Jacksonville State was just 93rd in TD%. Surely the 6-foot-8 guy will be more of a focal point this season, alongside a collection of transfers from other small schools and some homegrowns that will get more of an opportunity.
+The guide opens with a pop-song parody it flags as probably the first Montell Jordan reference in a VSiN Betting Guide, then disclaims the invented details. The substance is that 6-foot-8 receiver Deondre Johnson is the top and really only returning receiver, with 724 yards on just 30 receptions — the next closest being tight end Brock Rechsteiner at 36 catches for 383 yards. It adds a red-zone inefficiency to the case: 59 trips inside the 20 produced only the 93rd-best touchdown percentage. Its expectation is that the 6-foot-8 target becomes more of a focal point alongside a collection of small-school transfers and homegrown players getting more opportunity. *(p. 193)*
 
 ### Is the Regression Monster lurking?
 
-While the Gamecocks kept their streak of winning nine games alive, they scored nearly eight points per game fewer year over year, benefitting greatly from a +10 TO margin and a lot of wins in tight games. The Gamecocks were 7-2 in conference play with wins by 10, 2, 13, 3, 3, 9, and 3. Kennesaw State got revenge for their nine- point loss with a four-point win in the C-USA Title Game. Like I said, this is a team that is +24 in TO margin since joining the conference and was +11 in conference games, specifically, last season. They did average over six yards per play in conference games and did outgain the opposition overall and on a per-play basis, but not to the tune of a 7-2 record.
+The guide argues the nine-win streak concealed decline: Jacksonville State scored nearly eight fewer points per game year over year while benefitting greatly from a +10 turnover margin and a lot of close wins. It itemises the conference record — 7-2, with wins by 10, 2, 13, 3, 3, 9 and 3 — and notes Kennesaw State avenged a nine-point loss with a four-point win in the C-USA title game. It restates the structural point that the Gamecocks are +24 in turnover margin since joining the conference and were +11 in conference games alone last season. Its balanced conclusion is that Jacksonville State did average over six yards per play in conference games and did out-gain opponents overall and per play, but not by enough to justify a 7-2 record. *(p. 193)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

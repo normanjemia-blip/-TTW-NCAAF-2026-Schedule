@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 4.6–7.4 overall, 3.4–4.6 in conference |
 | **Schedule strength** | 29.65 (#126 toughest of 138) |
 
-### Season outlook as written in the guide (p. 202)
+### Season outlook — VSiN's analysis in reference form (p. 202)
 
-The job that Jerry Kill did in Las Cruces seems to get more and more impressive with each passing day. Kill was the head coach of the Aggies in 2022 and 2023, leading them to a 17-11 record. Tony Sanchez has won seven games in two seasons. This is a very difficult job and success has been hard to come by to say the least. Aside from Kill’s 7-6 and 10-5 campaigns, the program has one other winning season (2017) dating back to 2002. In many of those seasons, they’ve had three or fewer wins. Frankly, it was surprising to see NMSU improve their record at all last season, going from 3-9 to 4-8, as they had as many interceptions (16) as touchdowns and had the absolute worst rushing offense in the nation. But, they went from -13 in TO margin in Sanchez’s first season to exactly even last season, so the defense found more takeaways to help the cause, including nine fumble recoveries. The bar is low, but the Aggies will once again struggle to clear it. Under 4.5 Perhaps this is Sanchez’s best team, but others in C-USA look improved, too, and every road trip is a hike for this team. Not only do they go to Miami and the Nashville area in conference play, but they have non-conference trips to Tallahassee and Honolulu. Depth was a huge issue last season and looks to be again, as 247Sports does have the program with 26 portal players, but the seventh-ranked class out of 10 teams. My projection is 4.61 wins.
+- The guide says Jerry Kill's work in Las Cruces looks more impressive with each passing day, recording his 17-11 across 2022 and 2023. *(p. 202)*
+- Against that it sets Tony Sanchez's seven wins in two seasons. *(p. 202)*
+- It frames the job itself as very difficult, with success hard to come by: aside from Kill's 7-6 and 10-5 campaigns, the programme has one other winning season, in 2017, going back to 2002 — and in many of those years, three or fewer wins. *(p. 202)*
+- It admits surprise that New Mexico State improved at all last season, going from 3-9 to 4-8 with as many interceptions as touchdowns, 16, and the absolute worst rushing offense in the nation. *(p. 202)*
+- The explanation it offers is turnovers: from -13 in margin in Sanchez's first season to exactly even last season, as the defense found more takeaways, including nine fumble recoveries. *(p. 202)*
+- Its summary is that the bar is low and the Aggies will once again struggle to clear it. *(p. 202)*
+- Recommendation is Under 4.5 wins. It allows this may be Sanchez's best team, while noting others in Conference USA look improved too. *(p. 202)*
+- Travel is treated as a structural cost: every road trip is a hike, with conference trips to Miami and the Nashville area plus non-conference journeys to Tallahassee and Honolulu. *(p. 202)*
+- Depth was a huge issue last season and looks to be again — 247Sports credits the programme with 26 portal players but ranks the class seventh of the conference's 10 teams. Projection is 4.61 wins. *(p. 202)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,8 +88,9 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Kill was the head coach of the Aggies in 2022 and 2023, leading them to a 17-11 record. *(p. 202)*
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
+- The guide says Jerry Kill's work in Las Cruces looks more impressive with each passing day, recording his 17-11 across 2022 and 2023. *(p. 202)*
+- Against that it sets Tony Sanchez's seven wins in two seasons. *(p. 202)*
+- **Will the offense be “Hedden” in the right direction?** The guide notes Sanchez and coordinator David Yost, who has run productive offenses at Texas Tech and Utah State, have choices. Adam Damante started two games last season and is the top holdover; Trey Hedden and Kalani McLeod arrived through the portal. Hedden had turnover issues at Furman with a 30/22 touchdown-to-interception ratio but threw for more than 4,700 yards over roughly 20 starts, while McLeod took his only FBS offer, transferring in from Diablo Valley College. Its read is that Hedden's Division I experience makes him the leader in the clubhouse, with everyone likely to get a look at some point. *(p. 203)*
 
 ## 9. Quarterback Situation
 
@@ -87,10 +98,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 202)*.
 
-- The job that Jerry Kill did in Las Cruces seems to get more and more impressive with each passing day. *(p. 202)*
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
-- Hedden had turnover issues at Furman with a 30/22 TD/ INT ratio, but also threw for more than 4,700 yards over 20 starts and change. *(p. 203)*
-- Ezra Christensen led the team with six sacks and 10 QB hits. *(p. 203)*
+- **Will the offense be “Hedden” in the right direction?** The guide notes Sanchez and coordinator David Yost, who has run productive offenses at Texas Tech and Utah State, have choices. Adam Damante started two games last season and is the top holdover; Trey Hedden and Kalani McLeod arrived through the portal. Hedden had turnover issues at Furman with a 30/22 touchdown-to-interception ratio but threw for more than 4,700 yards over roughly 20 starts, while McLeod took his only FBS offer, transferring in from Diablo Valley College. Its read is that Hedden's Division I experience makes him the leader in the clubhouse, with everyone likely to get a look at some point. *(p. 203)*
 
 ## 10. Returning Production
 
@@ -106,35 +114,27 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- Depth was a huge issue last season and looks to be again, as 247Sports does have the program with 26 portal players, but the seventh-ranked class out of 10 teams. *(p. 202)*
-- Adam Damante, who started two games last season, is the top holdover, while Trey Hedden and Kalani McLeod came in via the portal. *(p. 203)*
-- McLeod took his only FBS offer and transferred in from Diablo Valley College. *(p. 203)*
-- Sprinter James Jones transferred in from Delaware State and true freshman Xavier Rucker was the highest- rated freshman to join the program. *(p. 203)*
+- Depth was a huge issue last season and looks to be again — 247Sports credits the programme with 26 portal players but ranks the class seventh of the conference's 10 teams. Projection is 4.61 wins. *(p. 202)*
+- **Will the offense be “Hedden” in the right direction?** The guide notes Sanchez and coordinator David Yost, who has run productive offenses at Texas Tech and Utah State, have choices. Adam Damante started two games last season and is the top holdover; Trey Hedden and Kalani McLeod arrived through the portal. Hedden had turnover issues at Furman with a 30/22 touchdown-to-interception ratio but threw for more than 4,700 yards over roughly 20 starts, while McLeod took his only FBS offer, transferring in from Diablo Valley College. Its read is that Hedden's Division I experience makes him the leader in the clubhouse, with everyone likely to get a look at some point. *(p. 203)*
+- **What about the skill positions?** The guide restates the severity of the run game — the worst rushing attack in the nation, at just 77 yards per game, crossing 100 only twice. The additions it names are sprinter James Jones from Delaware State and true freshman Xavier Rucker, the highest-rated freshman to join the programme. At receiver, three of the top four pass-catchers are gone, though it notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: while offensive linemen are not skill players, that is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Its conclusion is measured — not that the offense suddenly puts up great numbers, but that the running game should at least improve. *(p. 203)*
+- **Is the defense ripe for regression?** The guide grants real improvement — nearly nine fewer points and 0.8 fewer yards per play allowed — then argues it came down simply to forcing more turnovers. The comparison is stark: only 10 takeaways in 2024, including a single fumble recovery, against nine fumble recoveries and 15 interceptions in 2025, which it labels fumble luck. It adds that the Aggies were tied for 22nd in red-zone attempts faced. Encouraging as that is, and with a good number of returning starters and contributors, the underlying pass rush stays weak: 19 sacks last season and only 33 across two seasons, with Ezra Christensen (six sacks, 10 quarterback hits) and Jamall Thompson (four sacks) both gone. *(p. 203)*
 
 ## 12. Recruiting / Roster Notes
 
-- Sprinter James Jones transferred in from Delaware State and true freshman Xavier Rucker was the highest- rated freshman to join the program. *(p. 203)*
+
+Referenced in the guide on **pp. 203** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Frankly, it was surprising to see NMSU improve their record at all last season, going from 3-9 to 4-8, as they had as many interceptions (16) as touchdowns and had the absolute worst rushing offense in the nation. *(p. 202)*
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
-- As mentioned, this was the worst rushing attack in the nation. *(p. 203)*
-- At wide receiver, three of the top four pass-catchers are gone, but nobody had eye-popping numbers. *(p. 203)*
-- Truth be told, while offensive linemen aren’t really classified as skill-position players, this is the unit of the offense that looks the most improved with some starting experience at the FCS and JUCO ranks and one returning starter. *(p. 203)*
-- That’s not to say that the offense will suddenly put up great numbers, but the running game should at least improve. *(p. 203)*
+- It admits surprise that New Mexico State improved at all last season, going from 3-9 to 4-8 with as many interceptions as touchdowns, 16, and the absolute worst rushing offense in the nation. *(p. 202)*
+- **What about the skill positions?** The guide restates the severity of the run game — the worst rushing attack in the nation, at just 77 yards per game, crossing 100 only twice. The additions it names are sprinter James Jones from Delaware State and true freshman Xavier Rucker, the highest-rated freshman to join the programme. At receiver, three of the top four pass-catchers are gone, though it notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: while offensive linemen are not skill players, that is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Its conclusion is measured — not that the offense suddenly puts up great numbers, but that the running game should at least improve. *(p. 203)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- That would be 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty, and 388 against Missouri State. *(p. 339)*
+Referenced in the guide on **pp. 339** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- But, they went from -13 in TO margin in Sanchez’s first season to exactly even last season, so the defense found more takeaways to help the cause, including nine fumble recoveries. *(p. 202)*
-- While the defensive numbers improved greatly year over year, with nearly nine fewer PPG allowed and 0.8 fewer YPP, it really came down to simply forcing more turnovers. *(p. 203)*
-- As encouraging as all of those things are, and there are a good number of returning starters and contributors, the defense still only managed 19 sacks and only has 33 sacks over the last two seasons. *(p. 203)*
-- Ezra Christensen led the team with six sacks and 10 QB hits. *(p. 203)*
-- Jamall Thompson had four sacks. *(p. 203)*
+- The explanation it offers is turnovers: from -13 in margin in Sanchez's first season to exactly even last season, as the defense found more takeaways, including nine fumble recoveries. *(p. 202)*
+- **Is the defense ripe for regression?** The guide grants real improvement — nearly nine fewer points and 0.8 fewer yards per play allowed — then argues it came down simply to forcing more turnovers. The comparison is stark: only 10 takeaways in 2024, including a single fumble recovery, against nine fumble recoveries and 15 interceptions in 2025, which it labels fumble luck. It adds that the Aggies were tied for 22nd in red-zone attempts faced. Encouraging as that is, and with a good number of returning starters and contributors, the underlying pass rush stays weak: 19 sacks last season and only 33 across two seasons, with Ezra Christensen (six sacks, 10 quarterback hits) and Jamall Thompson (four sacks) both gone. *(p. 203)*
 
 ## 15. Key Strengths
 
@@ -208,24 +208,20 @@ Prices printed on the team page *(p. 203)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Its summary is that the bar is low and the Aggies will once again struggle to clear it. *(p. 202)*
+- Recommendation is Under 4.5 wins. It allows this may be Sanchez's best team, while noting others in Conference USA look improved too. *(p. 202)*
+- Travel is treated as a structural cost: every road trip is a hike, with conference trips to Miami and the Nashville area plus non-conference journeys to Tallahassee and Honolulu. *(p. 202)*
+- Depth was a huge issue last season and looks to be again — 247Sports credits the programme with 26 portal players but ranks the class seventh of the conference's 10 teams. Projection is 4.61 wins. *(p. 202)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- It is hard to pinpoint the cause of the Flames’ decline, as they only beat Maine, UTEP, New Mexico State, and Delaware, losing four times as a favorite. *(p. 196)*
+Also referenced on **pp. 196** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Kill was the head coach of the Aggies in 2022 and 2023, leading them to a 17-11 record. *(p. 202)*
-- Frankly, it was surprising to see NMSU improve their record at all last season, going from 3-9 to 4-8, as they had as many interceptions (16) as touchdowns and had the absolute worst rushing offense in the nation. *(p. 202)*
-- But, they went from -13 in TO margin in Sanchez’s first season to exactly even last season, so the defense found more takeaways to help the cause, including nine fumble recoveries. *(p. 202)*
-- Depth was a huge issue last season and looks to be again, as 247Sports does have the program with 26 portal players, but the seventh-ranked class out of 10 teams. *(p. 202)*
-- Adam Damante, who started two games last season, is the top holdover, while Trey Hedden and Kalani McLeod came in via the portal. *(p. 203)*
-- The Aggies only had 10 takeaways in 2024, including just one fumble recovery. *(p. 203)*
-- Fumble luck was on their side with nine of them in 2025 to go along with 15 interceptions. *(p. 203)*
+- The guide says Jerry Kill's work in Las Cruces looks more impressive with each passing day, recording his 17-11 across 2022 and 2023. *(p. 202)*
+- It frames the job itself as very difficult, with success hard to come by: aside from Kill's 7-6 and 10-5 campaigns, the programme has one other winning season, in 2017, going back to 2002 — and in many of those years, three or fewer wins. *(p. 202)*
+- It admits surprise that New Mexico State improved at all last season, going from 3-9 to 4-8 with as many interceptions as touchdowns, 16, and the absolute worst rushing offense in the nation. *(p. 202)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They did not play Kennesaw State, Missouri State, or New Mexico State last season, but they will this season, with the NMSU game all the way out in Las Cruces on November 21. *(p. 189)*
+Referenced in the guide on **pp. 189** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -271,43 +267,43 @@ As printed on p. 203. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **4.6 wins** against a posted total of 4.5 — **+0.1** in this team's favour.
-- The job that Jerry Kill did in Las Cruces seems to get more and more impressive with each passing day. *(p. 202)*
-- This is a very difficult job and success has been hard to come by to say the least. *(p. 202)*
-- Aside from Kill’s 7-6 and 10-5 campaigns, the program has one other winning season (2017) dating back to 2002. *(p. 202)*
-- Frankly, it was surprising to see NMSU improve their record at all last season, going from 3-9 to 4-8, as they had as many interceptions (16) as touchdowns and had the absolute worst rushing offense in the nation. *(p. 202)*
-- Under 4.5 Perhaps this is Sanchez’s best team, but others in C-USA look improved, too, and every road trip is a hike for this team. *(p. 202)*
-- Truth be told, while offensive linemen aren’t really classified as skill-position players, this is the unit of the offense that looks the most improved with some starting experience at the FCS and JUCO ranks and one returning starter. *(p. 203)*
-- That’s not to say that the offense will suddenly put up great numbers, but the running game should at least improve. *(p. 203)*
-- While the defensive numbers improved greatly year over year, with nearly nine fewer PPG allowed and 0.8 fewer YPP, it really came down to simply forcing more turnovers. *(p. 203)*
-- As encouraging as all of those things are, and there are a good number of returning starters and contributors, the defense still only managed 19 sacks and only has 33 sacks over the last two seasons. *(p. 203)*
+- The guide says Jerry Kill's work in Las Cruces looks more impressive with each passing day, recording his 17-11 across 2022 and 2023. *(p. 202)*
+- It frames the job itself as very difficult, with success hard to come by: aside from Kill's 7-6 and 10-5 campaigns, the programme has one other winning season, in 2017, going back to 2002 — and in many of those years, three or fewer wins. *(p. 202)*
+- It admits surprise that New Mexico State improved at all last season, going from 3-9 to 4-8 with as many interceptions as touchdowns, 16, and the absolute worst rushing offense in the nation. *(p. 202)*
+- Recommendation is Under 4.5 wins. It allows this may be Sanchez's best team, while noting others in Conference USA look improved too. *(p. 202)*
+- Depth was a huge issue last season and looks to be again — 247Sports credits the programme with 26 portal players but ranks the class seventh of the conference's 10 teams. Projection is 4.61 wins. *(p. 202)*
+- The guide restates the severity of the run game — the worst rushing attack in the nation, at just 77 yards per game, crossing 100 only twice. The additions it names are sprinter James Jones from Delaware State and true freshman Xavier Rucker, the highest-rated freshman to join the programme. At receiver, three of the top four pass-catchers are gone, though it notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: while offensive linemen are not skill players, that is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Its conclusion is measured — not that the offense suddenly puts up great numbers, but that the running game should at least improve. *(p. 203)*
+- The guide grants real improvement — nearly nine fewer points and 0.8 fewer yards per play allowed — then argues it came down simply to forcing more turnovers. The comparison is stark: only 10 takeaways in 2024, including a single fumble recovery, against nine fumble recoveries and 15 interceptions in 2025, which it labels fumble luck. It adds that the Aggies were tied for 22nd in red-zone attempts faced. Encouraging as that is, and with a good number of returning starters and contributors, the underlying pass rush stays weak: 19 sacks last season and only 33 across two seasons, with Ezra Christensen (six sacks, 10 quarterback hits) and Jamall Thompson (four sacks) both gone. *(p. 203)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 4.5**.
-- This is a very difficult job and success has been hard to come by to say the least. *(p. 202)*
-- The bar is low, but the Aggies will once again struggle to clear it. *(p. 202)*
-- They were favored once and lost that game by 27 points at New Mexico State. *(p. 204)*
+- It frames the job itself as very difficult, with success hard to come by: aside from Kill's 7-6 and 10-5 campaigns, the programme has one other winning season, in 2017, going back to 2002 — and in many of those years, three or fewer wins. *(p. 202)*
+- Its summary is that the bar is low and the Aggies will once again struggle to clear it. *(p. 202)*
+- The guide restates the severity of the run game — the worst rushing attack in the nation, at just 77 yards per game, crossing 100 only twice. The additions it names are sprinter James Jones from Delaware State and true freshman Xavier Rucker, the highest-rated freshman to join the programme. At receiver, three of the top four pass-catchers are gone, though it notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: while offensive linemen are not skill players, that is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Its conclusion is measured — not that the offense suddenly puts up great numbers, but that the running game should at least improve. *(p. 203)*
+- The guide grants real improvement — nearly nine fewer points and 0.8 fewer yards per play allowed — then argues it came down simply to forcing more turnovers. The comparison is stark: only 10 takeaways in 2024, including a single fumble recovery, against nine fumble recoveries and 15 interceptions in 2025, which it labels fumble luck. It adds that the Aggies were tied for 22nd in red-zone attempts faced. Encouraging as that is, and with a good number of returning starters and contributors, the underlying pass rush stays weak: 19 sacks last season and only 33 across two seasons, with Ezra Christensen (six sacks, 10 quarterback hits) and Jamall Thompson (four sacks) both gone. *(p. 203)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 203)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 203)*. Its analysis, in reference form:
 
 ### Will the offense be “Hedden” in the right direction?
 
-Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. Adam Damante, who started two games last season, is the top holdover, while Trey Hedden and Kalani McLeod came in via the portal. Hedden had turnover issues at Furman with a 30/22 TD/ INT ratio, but also threw for more than 4,700 yards over 20 starts and change. McLeod took his only FBS offer and transferred in from Diablo Valley College. Given Hedden’s D-I experience, he’s the leader in the clubhouse to start, but everybody probably gets a look at some point.
+The guide notes Sanchez and coordinator David Yost, who has run productive offenses at Texas Tech and Utah State, have choices. Adam Damante started two games last season and is the top holdover; Trey Hedden and Kalani McLeod arrived through the portal. Hedden had turnover issues at Furman with a 30/22 touchdown-to-interception ratio but threw for more than 4,700 yards over roughly 20 starts, while McLeod took his only FBS offer, transferring in from Diablo Valley College. Its read is that Hedden's Division I experience makes him the leader in the clubhouse, with everyone likely to get a look at some point. *(p. 203)*
 
 ### What about the skill positions?
 
-As mentioned, this was the worst rushing attack in the nation. The Aggies mustered just 77 rush yards per game and only crossed the century mark twice. Sprinter James Jones transferred in from Delaware State and true freshman Xavier Rucker was the highest- rated freshman to join the program. At wide receiver, three of the top four pass-catchers are gone, but nobody had eye-popping numbers. Truth be told, while offensive linemen aren’t really classified as skill-position players, this is the unit of the offense that looks the most improved with some starting experience at the FCS and JUCO ranks and one returning starter. That’s not to say that the offense will suddenly put up great numbers, but the running game should at least improve.
+The guide restates the severity of the run game — the worst rushing attack in the nation, at just 77 yards per game, crossing 100 only twice. The additions it names are sprinter James Jones from Delaware State and true freshman Xavier Rucker, the highest-rated freshman to join the programme. At receiver, three of the top four pass-catchers are gone, though it notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: while offensive linemen are not skill players, that is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Its conclusion is measured — not that the offense suddenly puts up great numbers, but that the running game should at least improve. *(p. 203)*
 
 ### Is the defense ripe for regression?
 
-While the defensive numbers improved greatly year over year, with nearly nine fewer PPG allowed and 0.8 fewer YPP, it really came down to simply forcing more turnovers. The Aggies only had 10 takeaways in 2024, including just one fumble recovery. Fumble luck was on their side with nine of them in 2025 to go along with 15 interceptions. The Aggies were also tied for 22nd in terms of red- zone attempts against. As encouraging as all of those things are, and there are a good number of returning starters and contributors, the defense still only managed 19 sacks and only has 33 sacks over the last two seasons. Ezra Christensen led the team with six sacks and 10 QB hits. Jamall Thompson had four sacks. Both are gone.
+The guide grants real improvement — nearly nine fewer points and 0.8 fewer yards per play allowed — then argues it came down simply to forcing more turnovers. The comparison is stark: only 10 takeaways in 2024, including a single fumble recovery, against nine fumble recoveries and 15 interceptions in 2025, which it labels fumble luck. It adds that the Aggies were tied for 22nd in red-zone attempts faced. Encouraging as that is, and with a good number of returning starters and contributors, the underlying pass rush stays weak: 19 sacks last season and only 33 across two seasons, with Ezra Christensen (six sacks, 10 quarterback hits) and Jamall Thompson (four sacks) both gone. *(p. 203)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -27,7 +27,7 @@ That file is the navigation system for everything else.
 | 1 | Master Index | `00_Master_Index` | ✅ **Complete** |
 | 2 | Conference Database | `01_Conference_Database` | ✅ **Complete** |
 | 3 | Team Database | `02_Team_Database` | ✅ **Complete** |
-| 3A | Team Database paraphrase pass | `02_Team_Database` | 🟡 **In progress — 16/138** |
+| 3A | Team Database paraphrase pass | `02_Team_Database` | ✅ **Complete — 138/138** |
 | 4 | Quarterback Database | `04_Quarterback_Database` | ⏸ Awaiting approval |
 | 5 | Coaching Database | `03_Coaching_Database` | ⏸ Pending |
 | 6 | Power Ratings | `05_Power_Ratings` | ⏸ Pending |
@@ -69,18 +69,21 @@ Phase 3 built the team files by reproducing VSiN's prose. Phase 3A rewrites that
 prose into TTW reference notes so the library carries the guide's **information
 and reasoning** without reproducing substantial portions of its text.
 
-**Status: 16 of 138 teams converted (SEC complete).** The remaining 122 still
-render from guide prose; the renderer falls back automatically, so a
-part-finished pass leaves a coherent database rather than a broken one.
+**Status: 138 of 138 teams converted.** Every team file now carries the heading
+*"Season outlook — VSiN's analysis in reference form"*; no file renders guide
+prose any more. (The renderer keeps its automatic fallback to guide prose, so a
+future team added without notes still produces a coherent file.)
 
-Converted files are recognisable by the heading *"Season outlook — VSiN's
-analysis in reference form"*. Files not yet converted read *"Season outlook as
-written in the guide"*.
+The pass did not shorten the database. Measured against the committed Phase 3
+baseline, the 138 files went from 559,007 to 583,080 words (**+4.3%**) — the
+reference notes carry more of the guide's reasoning explicitly than the
+reproduced prose did implicitly.
 
-Paraphrases live in `_source/paraphrase/*.json`, one file per batch, and are
-authored rather than generated. Numbers, tables, page references, source
-conflicts and cross-links are never touched by this pass — a machine
-comparison enforces that:
+Paraphrases live in `_source/paraphrase/*.json`, 32 batch files covering all
+138 teams, and are authored rather than generated. Numbers, tables, page
+references, source conflicts and cross-links are never touched by this pass — a
+machine comparison enforces that, and reports **0 regressions** across all 138
+files:
 
 ```bash
 python3 _tools/snapshot_fields.py _source/data/fields_before.json --compare

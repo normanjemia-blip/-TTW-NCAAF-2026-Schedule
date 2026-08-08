@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 3.4–8.6 overall, 2.1–5.9 in conference |
 | **Schedule strength** | 30.2 (#123 toughest of 138) |
 
-### Season outlook as written in the guide (p. 198)
+### Season outlook — VSiN's analysis in reference form (p. 198)
 
-A very important Year 3 for head coach Derek Mason is on the horizon, as back-to-back 3-9 seasons have not inspired much confidence in the direction of the program. The Men of Murfreesboro haven’t seen a bowl game since 2022 and saw modest improvement in 2025, but not nearly enough to be pleased with how things played out. Despite Mason’s background on the defensive side of the ball, MTSU allowed 34.3 PPG in Year 1 and 30.9 PPG in Year 2, though they did improve by 0.8 yards per play. With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. We’ll see if Scelfo can build on some late-season offensive gains under QB Roman Gagliano, who stuck around with the program despite opening some eyes over the final three games. Over 4.5 Bowl eligibility still looks like a tall task, but five wins is attainable, especially at the plus-money price being offered. Scelfo and a more robust running game with a more mobile QB should help, especially in C-USA, where teams that run the ball efficiently often fare better than others. I’ll give Mason the benefit of the doubt that after his third portal and freshmen classes that he has players that better fit what he wants to do on defense. MTSU lost by 20 to FCS Austin Peay to open last season, so I presume they’ll be ready for Murray State and they went out to Reno and beat Nevada last season. If they can split the non-conference games, three wins are available in conference play. My projection is 4.1 wins, but I like the value on the Over.
+- The guide calls this a very important Year 3 for Derek Mason, with back-to-back 3-9 seasons inspiring little confidence in the programme's direction. *(p. 198)*
+- Middle Tennessee has not reached a bowl since 2022, and while 2025 brought modest improvement it was nowhere near enough to be pleased with. *(p. 198)*
+- The failure it finds most pointed is on Mason's own side of the ball: despite his defensive background, MTSU allowed 34.3 PPG in Year 1 and 30.9 in Year 2, though it credits an improvement of 0.8 yards per play. *(p. 198)*
+- With very minimal offensive improvement, a new coordinator has arrived in Anthony Scelfo, previously at Southeastern Louisiana. *(p. 198)*
+- The thing to build on is late-season gains under quarterback Roman Gagliano, who stayed with the programme despite opening eyes over the final three games. *(p. 198)*
+- Recommendation is Over 4.5 wins: bowl eligibility still looks a tall task, but five wins is attainable, especially at the plus-money price offered. *(p. 198)*
+- Its reasoning is scheme plus conference context — Scelfo and a more robust running game with a more mobile quarterback should help, particularly in Conference USA, where teams that run the ball efficiently often fare better. *(p. 198)*
+- It extends Mason the benefit of the doubt that after a third portal class and third freshman class he now has players who better fit what he wants defensively. *(p. 198)*
+- The path to the number runs through non-conference: MTSU lost by 20 to FCS Austin Peay to open last season, so the guide presumes it will be ready for Murray State, and it recalls the Blue Raiders going to Reno and beating Nevada. Splitting non-conference leaves three conference wins available. Projection is 4.1 wins, with the value stated to be on the Over. *(p. 198)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,15 +88,14 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- A very important Year 3 for head coach Derek Mason is on the horizon, as back-to-back 3-9 seasons have not inspired much confidence in the direction of the program. *(p. 198)*
-- With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. *(p. 198)*
-- Scelfo has been at SE Louisiana coaching under his father since 2021, as this will be his first time calling plays at the FBS level. *(p. 199)*
-- However, the running back room looks a lot stronger with holdover DJ Taylor, who had 7.7 yards per carry on just 26 attempts, Saginaw Valley State transfer Terence Brown, and Antonio Martin, who rushed for over five yards per pop for SELA in Scelfo’s first season as OC in 2024. *(p. 199)*
-- The cupboard wasn’t totally bare on defense when Mason took over for longtime head coach Rick Stockstill, but it wasn’t fully stocked either. *(p. 199)*
+- The guide calls this a very important Year 3 for Derek Mason, with back-to-back 3-9 seasons inspiring little confidence in the programme's direction. *(p. 198)*
+- The failure it finds most pointed is on Mason's own side of the ball: despite his defensive background, MTSU allowed 34.3 PPG in Year 1 and 30.9 in Year 2, though it credits an improvement of 0.8 yards per play. *(p. 198)*
+- With very minimal offensive improvement, a new coordinator has arrived in Anthony Scelfo, previously at Southeastern Louisiana. *(p. 198)*
+- **Is Roman the right man to follow into battle?** The guide gives the production first: under Gagliano the offense scored 26, 31 and 31 points with 541, 460 and 459 yards, figures it says were almost untouchable before Nicholas Vattiato's injury. Across three starts and a couple of relief appearances he threw for over 1,000 yards with a 7/0 touchdown-to-interception ratio and added 4.3 yards per carry on 39 attempts. That leads it to ask why he was not starting to begin with, and it answers structurally rather than personally: it does not claim to know the locker-room dynamics, but notes the redshirt freshman was surely earning less NIL money than the programme's all-time second-leading passer, and that some teams — especially at the Group of Six level — seem unwilling to move on from entrenched starters they have invested in. *(p. 199)*
+- **Will Roman rebuild the offense in a day?** The guide answers probably not, while calling the end-of-season developments promising. On the coordinator it notes Scelfo has coached under his father at Southeastern Louisiana since 2021, making this his first time calling plays at FBS level. Gagliano returns but much else does not: Cam'ron Lacy is back after leading the team with 549 yards, yet nobody else with 30-plus catches returns and leading rusher Jekail Middlebrook has moved on. The running back room it rates much stronger, with holdover DJ Taylor (7.7 yards per carry on just 26 attempts), Saginaw Valley State transfer Terence Brown, and Antonio Martin, who averaged over five yards per carry for Southeastern Louisiana in Scelfo's first season as coordinator in 2024. Its conclusion holds even if the quarterback disappoints: MTSU should run the ball a lot better. *(p. 199)*
+- **Can Derek fix the ‘D’?** The guide's baseline is that the cupboard was neither bare nor fully stocked when Mason succeeded longtime head coach Rick Stockstill — which is why it still calls 6.7 yards per play allowed in his first year shocking. Better players in the front seven then cut 1.2 yards per carry year over year, but the secondary continued to struggle, with MTSU tied for 105th nationally in passing plays of 20-plus yards allowed. Returning contributors are few, the exception being Reggie Johnson, second on the team with 3.5 sacks. It describes the unit as mostly rebuilt through the portal, across both this cycle and the one before. *(p. 199)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While Helton has been a constant, his right-hand man on offense hasn’t been, and the Hilltoppers have a new OC this season in Bodie Reeder, who has run some pretty potent passing offenses, and seems to have a better fit here than his previous one at Middle Tennessee. *(p. 206)*
+Also referenced on **pp. 206** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -94,15 +103,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 198)*.
 
-- We’ll see if Scelfo can build on some late-season offensive gains under QB Roman Gagliano, who stuck around with the program despite opening some eyes over the final three games. *(p. 198)*
-- Scelfo and a more robust running game with a more mobile QB should help, especially in C-USA, where teams that run the ball efficiently often fare better than others. *(p. 198)*
-- With over 1,000 passing yards in three starts and a couple of relief appearances to go with 4.3 yards per carry on 39 tries and a 7/0 TD/INT ratio, the question has to be asked - why wasn’t he starting to begin with? *(p. 199)*
-- I won’t pretend to know the dynamics in the locker room or in the building, but the redshirt freshman was surely making less NIL money than the program’s all-time second-leading passer and it does feel like some teams, especially those at the G6 level, are unwilling to move on from entrenched starters that they have invested in. *(p. 199)*
-- MTSU was tied for 105th in the nation in passing plays of 20+ yards allowed. *(p. 199)*
+- The thing to build on is late-season gains under quarterback Roman Gagliano, who stayed with the programme despite opening eyes over the final three games. *(p. 198)*
+- **Is Roman the right man to follow into battle?** The guide gives the production first: under Gagliano the offense scored 26, 31 and 31 points with 541, 460 and 459 yards, figures it says were almost untouchable before Nicholas Vattiato's injury. Across three starts and a couple of relief appearances he threw for over 1,000 yards with a 7/0 touchdown-to-interception ratio and added 4.3 yards per carry on 39 attempts. That leads it to ask why he was not starting to begin with, and it answers structurally rather than personally: it does not claim to know the locker-room dynamics, but notes the redshirt freshman was surely earning less NIL money than the programme's all-time second-leading passer, and that some teams — especially at the Group of Six level — seem unwilling to move on from entrenched starters they have invested in. *(p. 199)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While Helton has been a constant, his right-hand man on offense hasn’t been, and the Hilltoppers have a new OC this season in Bodie Reeder, who has run some pretty potent passing offenses, and seems to have a better fit here than his previous one at Middle Tennessee. *(p. 206)*
+Also referenced on **pp. 206** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -118,35 +122,28 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 11. Transfer Portal
 
-- I’ll give Mason the benefit of the doubt that after his third portal and freshmen classes that he has players that better fit what he wants to do on defense. *(p. 198)*
-- I won’t pretend to know the dynamics in the locker room or in the building, but the redshirt freshman was surely making less NIL money than the program’s all-time second-leading passer and it does feel like some teams, especially those at the G6 level, are unwilling to move on from entrenched starters that they have invested in. *(p. 199)*
-- However, the running back room looks a lot stronger with holdover DJ Taylor, who had 7.7 yards per carry on just 26 attempts, Saginaw Valley State transfer Terence Brown, and Antonio Martin, who rushed for over five yards per pop for SELA in Scelfo’s first season as OC in 2024. *(p. 199)*
-- This is a mostly rebuilt defense via the transfer portal, both from this past cycle and the one before it. *(p. 199)*
+- It extends Mason the benefit of the doubt that after a third portal class and third freshman class he now has players who better fit what he wants defensively. *(p. 198)*
+- **Will Roman rebuild the offense in a day?** The guide answers probably not, while calling the end-of-season developments promising. On the coordinator it notes Scelfo has coached under his father at Southeastern Louisiana since 2021, making this his first time calling plays at FBS level. Gagliano returns but much else does not: Cam'ron Lacy is back after leading the team with 549 yards, yet nobody else with 30-plus catches returns and leading rusher Jekail Middlebrook has moved on. The running back room it rates much stronger, with holdover DJ Taylor (7.7 yards per carry on just 26 attempts), Saginaw Valley State transfer Terence Brown, and Antonio Martin, who averaged over five yards per carry for Southeastern Louisiana in Scelfo's first season as coordinator in 2024. Its conclusion holds even if the quarterback disappoints: MTSU should run the ball a lot better. *(p. 199)*
+- **Can Derek fix the ‘D’?** The guide's baseline is that the cupboard was neither bare nor fully stocked when Mason succeeded longtime head coach Rick Stockstill — which is why it still calls 6.7 yards per play allowed in his first year shocking. Better players in the front seven then cut 1.2 yards per carry year over year, but the secondary continued to struggle, with MTSU tied for 105th nationally in passing plays of 20-plus yards allowed. Returning contributors are few, the exception being Reggie Johnson, second on the team with 3.5 sacks. It describes the unit as mostly rebuilt through the portal, across both this cycle and the one before. *(p. 199)*
 
 ## 12. Recruiting / Roster Notes
 
-- I won’t pretend to know the dynamics in the locker room or in the building, but the redshirt freshman was surely making less NIL money than the program’s all-time second-leading passer and it does feel like some teams, especially those at the G6 level, are unwilling to move on from entrenched starters that they have invested in. *(p. 199)*
+
+Referenced in the guide on **pp. 199** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Despite Mason’s background on the defensive side of the ball, MTSU allowed 34.3 PPG in Year 1 and 30.9 PPG in Year 2, though they did improve by 0.8 yards per play. *(p. 198)*
-- With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. *(p. 198)*
-- We’ll see if Scelfo can build on some late-season offensive gains under QB Roman Gagliano, who stuck around with the program despite opening some eyes over the final three games. *(p. 198)*
-- Under Gagliano, the offense scored 26, 31, and 31 points with 541, 460, and 459 yards, numbers that were almost untouchable prior to Nicholas Vattiato’s injury. *(p. 199)*
-- Still, it was shocking to see MTSU give up 6.7 yards per play in his first year. *(p. 199)*
+- With very minimal offensive improvement, a new coordinator has arrived in Anthony Scelfo, previously at Southeastern Louisiana. *(p. 198)*
+- Its reasoning is scheme plus conference context — Scelfo and a more robust running game with a more mobile quarterback should help, particularly in Conference USA, where teams that run the ball efficiently often fare better. *(p. 198)*
+- **Will Roman rebuild the offense in a day?** The guide answers probably not, while calling the end-of-season developments promising. On the coordinator it notes Scelfo has coached under his father at Southeastern Louisiana since 2021, making this his first time calling plays at FBS level. Gagliano returns but much else does not: Cam'ron Lacy is back after leading the team with 549 yards, yet nobody else with 30-plus catches returns and leading rusher Jekail Middlebrook has moved on. The running back room it rates much stronger, with holdover DJ Taylor (7.7 yards per carry on just 26 attempts), Saginaw Valley State transfer Terence Brown, and Antonio Martin, who averaged over five yards per carry for Southeastern Louisiana in Scelfo's first season as coordinator in 2024. Its conclusion holds even if the quarterback disappoints: MTSU should run the ball a lot better. *(p. 199)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While Helton has been a constant, his right-hand man on offense hasn’t been, and the Hilltoppers have a new OC this season in Bodie Reeder, who has run some pretty potent passing offenses, and seems to have a better fit here than his previous one at Middle Tennessee. *(p. 206)*
+Referenced in the guide on **pp. 206** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Despite Mason’s background on the defensive side of the ball, MTSU allowed 34.3 PPG in Year 1 and 30.9 PPG in Year 2, though they did improve by 0.8 yards per play. *(p. 198)*
-- I’ll give Mason the benefit of the doubt that after his third portal and freshmen classes that he has players that better fit what he wants to do on defense. *(p. 198)*
-- The cupboard wasn’t totally bare on defense when Mason took over for longtime head coach Rick Stockstill, but it wasn’t fully stocked either. *(p. 199)*
-- After getting some better players in the front seven, the Blue Raiders shaved 1.2 yards per carry off year over year, but the secondary continued to struggle. *(p. 199)*
-- There are very few noteworthy holdovers from last season, except for Reggie Johnson, who was second in sacks with 3.5. *(p. 199)*
-- This is a mostly rebuilt defense via the transfer portal, both from this past cycle and the one before it. *(p. 199)*
+- The failure it finds most pointed is on Mason's own side of the ball: despite his defensive background, MTSU allowed 34.3 PPG in Year 1 and 30.9 in Year 2, though it credits an improvement of 0.8 yards per play. *(p. 198)*
+- It extends Mason the benefit of the doubt that after a third portal class and third freshman class he now has players who better fit what he wants defensively. *(p. 198)*
+- **Can Derek fix the ‘D’?** The guide's baseline is that the cupboard was neither bare nor fully stocked when Mason succeeded longtime head coach Rick Stockstill — which is why it still calls 6.7 yards per play allowed in his first year shocking. Better players in the front seven then cut 1.2 yards per carry year over year, but the secondary continued to struggle, with MTSU tied for 105th nationally in passing plays of 20-plus yards allowed. Returning contributors are few, the exception being Reggie Johnson, second on the team with 3.5 sacks. It describes the unit as mostly rebuilt through the portal, across both this cycle and the one before. *(p. 199)*
 
 ## 15. Key Strengths
 
@@ -192,7 +189,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- A very important Year 3 for head coach Derek Mason is on the horizon, as back-to-back 3-9 seasons have not inspired much confidence in the direction of the program. *(p. 198)*
+
+Referenced in the guide on **pp. 198** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -214,16 +212,13 @@ Prices printed on the team page *(p. 199)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Over 4.5 Bowl eligibility still looks like a tall task, but five wins is attainable, especially at the plus-money price being offered. *(p. 198)*
-- My projection is 4.1 wins, but I like the value on the Over. *(p. 198)*
+- Recommendation is Over 4.5 wins: bowl eligibility still looks a tall task, but five wins is attainable, especially at the plus-money price offered. *(p. 198)*
+- Its reasoning is scheme plus conference context — Scelfo and a more robust running game with a more mobile quarterback should help, particularly in Conference USA, where teams that run the ball efficiently often fare better. *(p. 198)*
+- The path to the number runs through non-conference: MTSU lost by 20 to FCS Austin Peay to open last season, so the guide presumes it will be ready for Murray State, and it recalls the Blue Raiders going to Reno and beating Nevada. Splitting non-conference leaves three conference wins available. Projection is 4.1 wins, with the value stated to be on the Over. *(p. 198)*
 
 ## 22. Historical / Situational Trends
 
-- The Men of Murfreesboro haven’t seen a bowl game since 2022 and saw modest improvement in 2025, but not nearly enough to be pleased with how things played out. *(p. 198)*
-- MTSU lost by 20 to FCS Austin Peay to open last season, so I presume they’ll be ready for Murray State and they went out to Reno and beat Nevada last season. *(p. 198)*
-- Scelfo has been at SE Louisiana coaching under his father since 2021, as this will be his first time calling plays at the FBS level. *(p. 199)*
-- However, the running back room looks a lot stronger with holdover DJ Taylor, who had 7.7 yards per carry on just 26 attempts, Saginaw Valley State transfer Terence Brown, and Antonio Martin, who rushed for over five yards per pop for SELA in Scelfo’s first season as OC in 2024. *(p. 199)*
-- There are very few noteworthy holdovers from last season, except for Reggie Johnson, who was second in sacks with 3.5. *(p. 199)*
+- Middle Tennessee has not reached a bowl since 2022, and while 2025 brought modest improvement it was nowhere near enough to be pleased with. *(p. 198)*
 
 ## 23. Important Statistics
 
@@ -269,41 +264,39 @@ As printed on p. 199. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- The Men of Murfreesboro haven’t seen a bowl game since 2022 and saw modest improvement in 2025, but not nearly enough to be pleased with how things played out. *(p. 198)*
-- Despite Mason’s background on the defensive side of the ball, MTSU allowed 34.3 PPG in Year 1 and 30.9 PPG in Year 2, though they did improve by 0.8 yards per play. *(p. 198)*
-- With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. *(p. 198)*
-- Probably not, but at least the end-of-season developments were promising. *(p. 199)*
-- While Gagliano returns, others do not, as Cam’ron Lacy is back after leading the team with 549 yards, but nobody else with 30+ catches is back and leading rusher Jekail Middlebrook has also moved on. *(p. 199)*
-- They draw South Alabama and UL Monroe from the West Division and all of their home games are winnable in conference play, plus they host a FCS team and a poor Middle Tennessee squad. *(p. 328)*
+- Middle Tennessee has not reached a bowl since 2022, and while 2025 brought modest improvement it was nowhere near enough to be pleased with. *(p. 198)*
+- The failure it finds most pointed is on Mason's own side of the ball: despite his defensive background, MTSU allowed 34.3 PPG in Year 1 and 30.9 in Year 2, though it credits an improvement of 0.8 yards per play. *(p. 198)*
+- With very minimal offensive improvement, a new coordinator has arrived in Anthony Scelfo, previously at Southeastern Louisiana. *(p. 198)*
+- The guide answers probably not, while calling the end-of-season developments promising. On the coordinator it notes Scelfo has coached under his father at Southeastern Louisiana since 2021, making this his first time calling plays at FBS level. Gagliano returns but much else does not: Cam'ron Lacy is back after leading the team with 549 yards, yet nobody else with 30-plus catches returns and leading rusher Jekail Middlebrook has moved on. The running back room it rates much stronger, with holdover DJ Taylor (7.7 yards per carry on just 26 attempts), Saginaw Valley State transfer Terence Brown, and Antonio Martin, who averaged over five yards per carry for Southeastern Louisiana in Scelfo's first season as coordinator in 2024. Its conclusion holds even if the quarterback disappoints: MTSU should run the ball a lot better. *(p. 199)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **3.4 wins** against a posted total of 3.5 — **-0.1** against this team.
-- MTSU lost by 20 to FCS Austin Peay to open last season, so I presume they’ll be ready for Murray State and they went out to Reno and beat Nevada last season. *(p. 198)*
-- Under Gagliano, the offense scored 26, 31, and 31 points with 541, 460, and 459 yards, numbers that were almost untouchable prior to Nicholas Vattiato’s injury. *(p. 199)*
-- With over 1,000 passing yards in three starts and a couple of relief appearances to go with 4.3 yards per carry on 39 tries and a 7/0 TD/INT ratio, the question has to be asked - why wasn’t he starting to begin with? *(p. 199)*
-- After getting some better players in the front seven, the Blue Raiders shaved 1.2 yards per carry off year over year, but the secondary continued to struggle. *(p. 199)*
+- The path to the number runs through non-conference: MTSU lost by 20 to FCS Austin Peay to open last season, so the guide presumes it will be ready for Murray State, and it recalls the Blue Raiders going to Reno and beating Nevada. Splitting non-conference leaves three conference wins available. Projection is 4.1 wins, with the value stated to be on the Over. *(p. 198)*
+- The guide gives the production first: under Gagliano the offense scored 26, 31 and 31 points with 541, 460 and 459 yards, figures it says were almost untouchable before Nicholas Vattiato's injury. Across three starts and a couple of relief appearances he threw for over 1,000 yards with a 7/0 touchdown-to-interception ratio and added 4.3 yards per carry on 39 attempts. That leads it to ask why he was not starting to begin with, and it answers structurally rather than personally: it does not claim to know the locker-room dynamics, but notes the redshirt freshman was surely earning less NIL money than the programme's all-time second-leading passer, and that some teams — especially at the Group of Six level — seem unwilling to move on from entrenched starters they have invested in. *(p. 199)*
+- The guide's baseline is that the cupboard was neither bare nor fully stocked when Mason succeeded longtime head coach Rick Stockstill — which is why it still calls 6.7 yards per play allowed in his first year shocking. Better players in the front seven then cut 1.2 yards per carry year over year, but the secondary continued to struggle, with MTSU tied for 105th nationally in passing plays of 20-plus yards allowed. Returning contributors are few, the exception being Reggie Johnson, second on the team with 3.5 sacks. It describes the unit as mostly rebuilt through the portal, across both this cycle and the one before. *(p. 199)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 199)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 199)*. Its analysis, in reference form:
 
 ### Is Roman the right man to follow into battle?
 
-Under Gagliano, the offense scored 26, 31, and 31 points with 541, 460, and 459 yards, numbers that were almost untouchable prior to Nicholas Vattiato’s injury. With over 1,000 passing yards in three starts and a couple of relief appearances to go with 4.3 yards per carry on 39 tries and a 7/0 TD/INT ratio, the question has to be asked - why wasn’t he starting to begin with? I won’t pretend to know the dynamics in the locker room or in the building, but the redshirt freshman was surely making less NIL money than the program’s all-time second-leading passer and it does feel like some teams, especially those at the G6 level, are unwilling to move on from entrenched starters that they have invested in.
+The guide gives the production first: under Gagliano the offense scored 26, 31 and 31 points with 541, 460 and 459 yards, figures it says were almost untouchable before Nicholas Vattiato's injury. Across three starts and a couple of relief appearances he threw for over 1,000 yards with a 7/0 touchdown-to-interception ratio and added 4.3 yards per carry on 39 attempts. That leads it to ask why he was not starting to begin with, and it answers structurally rather than personally: it does not claim to know the locker-room dynamics, but notes the redshirt freshman was surely earning less NIL money than the programme's all-time second-leading passer, and that some teams — especially at the Group of Six level — seem unwilling to move on from entrenched starters they have invested in. *(p. 199)*
 
 ### Will Roman rebuild the offense in a day?
 
-Probably not, but at least the end-of-season developments were promising. Scelfo has been at SE Louisiana coaching under his father since 2021, as this will be his first time calling plays at the FBS level. While Gagliano returns, others do not, as Cam’ron Lacy is back after leading the team with 549 yards, but nobody else with 30+ catches is back and leading rusher Jekail Middlebrook has also moved on. However, the running back room looks a lot stronger with holdover DJ Taylor, who had 7.7 yards per carry on just 26 attempts, Saginaw Valley State transfer Terence Brown, and Antonio Martin, who rushed for over five yards per pop for SELA in Scelfo’s first season as OC in 2024. Even if Gagliano isn’t the real deal, MTSU should run the ball a lot better.
+The guide answers probably not, while calling the end-of-season developments promising. On the coordinator it notes Scelfo has coached under his father at Southeastern Louisiana since 2021, making this his first time calling plays at FBS level. Gagliano returns but much else does not: Cam'ron Lacy is back after leading the team with 549 yards, yet nobody else with 30-plus catches returns and leading rusher Jekail Middlebrook has moved on. The running back room it rates much stronger, with holdover DJ Taylor (7.7 yards per carry on just 26 attempts), Saginaw Valley State transfer Terence Brown, and Antonio Martin, who averaged over five yards per carry for Southeastern Louisiana in Scelfo's first season as coordinator in 2024. Its conclusion holds even if the quarterback disappoints: MTSU should run the ball a lot better. *(p. 199)*
 
 ### Can Derek fix the ‘D’?
 
-The cupboard wasn’t totally bare on defense when Mason took over for longtime head coach Rick Stockstill, but it wasn’t fully stocked either. Still, it was shocking to see MTSU give up 6.7 yards per play in his first year. After getting some better players in the front seven, the Blue Raiders shaved 1.2 yards per carry off year over year, but the secondary continued to struggle. MTSU was tied for 105th in the nation in passing plays of 20+ yards allowed. There are very few noteworthy holdovers from last season, except for Reggie Johnson, who was second in sacks with 3.5. This is a mostly rebuilt defense via the transfer portal, both from this past cycle and the one before it.
+The guide's baseline is that the cupboard was neither bare nor fully stocked when Mason succeeded longtime head coach Rick Stockstill — which is why it still calls 6.7 yards per play allowed in his first year shocking. Better players in the front seven then cut 1.2 yards per carry year over year, but the secondary continued to struggle, with MTSU tied for 105th nationally in passing plays of 20-plus yards allowed. Returning contributors are few, the exception being Reggie Johnson, second on the team with 3.5 sacks. It describes the unit as mostly rebuilt through the portal, across both this cycle and the one before. *(p. 199)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

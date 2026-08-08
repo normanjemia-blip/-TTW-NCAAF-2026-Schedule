@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 2.7–9.3 overall, 1.7–6.3 in conference |
 | **Schedule strength** | 32.22 (#105 toughest of 138) |
 
-### Season outlook as written in the guide (p. 204)
+### Season outlook — VSiN's analysis in reference form (p. 204)
 
-I wasn’t right about everything in last year’s College Football Betting Guide, but I was right about Sam Houston. The Bearkats went from 10-3 to 2-10, as Year 1 for Phil Longo did not work out at all. The offense was terrible, the defense was worse, and the Bearkats started 0-8 before a couple of stunning upsets over Oregon State and Delaware. They were favored once and lost that game by 27 points at New Mexico State. On the plus side, Sam Houston will be playing back in their home stadium after being forced to relocate last season due to renovations. SHSU was on the plus side last season in turnover margin at +2, but still got outscored by 20 PPG overall and 19 PPG in conference play. It is extremely difficult to build off of those disastrous kinds of numbers, especially with seven yards per play allowed. Despite the debacle, the Bearkats still roll into the 2026 season with the same head coach and the same coordinators. Under 3.5 The betting market seems to share that same sentiment with heavy juice on another 3-9 or worse campaign. The defense has experienced a full facelift, but there is no way to erase the scars of giving up nearly 500 yards per game in this conference. A dearth of talent is one thing, but that doesn’t inspire a lot of confidence in the play-caller either. And then on the other side of the ball, Longo is in Year 2 of trying to install a new scheme, but he’s attempting to put a Dodge Dart engine into a Geo Prizm. It’s possible that this year’s roster is closer to what he wants, but probably not close enough for much improvement. My projection is 2.66 wins.
+- The guide opens by claiming its own prior call: it was not right about everything in last year's guide, but it was right about Sam Houston. *(p. 204)*
+- The collapse it records is 10-3 to 2-10, with Year 1 under Phil Longo not working out at all — the offense terrible, the defense worse. *(p. 204)*
+- The season's shape: an 0-8 start before a couple of stunning upsets over Oregon State and Delaware. Sam Houston was favoured exactly once and lost that game by 27 points at New Mexico State. *(p. 204)*
+- On the positive side, the Bearkats return to their home stadium after being forced to relocate last season for renovations. *(p. 204)*
+- It stresses how bad the underlying numbers were despite a +2 turnover margin: out-scored by 20 PPG overall and 19 PPG in conference play, with seven yards per play allowed — figures it calls extremely difficult to build off. *(p. 204)*
+- It notes pointedly that despite the debacle, Sam Houston enters 2026 with the same head coach and the same coordinators. *(p. 204)*
+- Recommendation is Under 3.5 wins, and it observes the betting market agrees, with heavy juice on another 3-9 or worse campaign. *(p. 204)*
+- On defense it grants a full facelift while saying there is no way to erase the scars of allowing nearly 500 yards per game in this conference — and that a dearth of talent is one thing, but the numbers do not inspire confidence in the play-caller either. *(p. 204)*
+- On offense it uses a mechanical image for the mismatch between scheme and personnel — Longo is in Year 2 of installing a new system, but is attempting to put a Dodge Dart engine into a Geo Prizm. This year's roster may be closer to what he wants, though probably not close enough for much improvement. Projection is 2.66 wins. *(p. 204)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,9 +88,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Despite the debacle, the Bearkats still roll into the 2026 season with the same head coach and the same coordinators. *(p. 204)*
-- Longo has been a longtime OC who likes to play with tempo and move the ball with the Air Raid. *(p. 205)*
-- Returning production would be an oxymoron here, but there really isn’t much of it anyway, as second-year DC Freddie Aughtry-Lindsay did a lot of portal shopping. 247Sports has the Bearkats down for the best portal haul in the conference and the secondary was a huge focal point. *(p. 205)*
+- The collapse it records is 10-3 to 2-10, with Year 1 under Phil Longo not working out at all — the offense terrible, the defense worse. *(p. 204)*
+- It notes pointedly that despite the debacle, Sam Houston enters 2026 with the same head coach and the same coordinators. *(p. 204)*
+- On defense it grants a full facelift while saying there is no way to erase the scars of allowing nearly 500 yards per game in this conference — and that a dearth of talent is one thing, but the numbers do not inspire confidence in the play-caller either. *(p. 204)*
+- On offense it uses a mechanical image for the mismatch between scheme and personnel — Longo is in Year 2 of installing a new system, but is attempting to put a Dodge Dart engine into a Geo Prizm. This year's roster may be closer to what he wants, though probably not close enough for much improvement. Projection is 2.66 wins. *(p. 204)*
+- **(Sam) Houston, what are the problems on offense?** The guide's answer is that there are many, but it isolates the position responsible. Longo is a longtime coordinator who likes tempo and the Air Raid; his quarterbacks combined for a 12/10 touchdown-to-interception ratio and just 2,209 yards. It defends the run game — serviceable at 4.3 yards per carry, with running backs averaging 5.8, 6.7 and 4.2, the overall figure dragged down badly by the quarterbacks. The line was far from great at 36 sacks allowed, but its verdict is that finishing 127th in PPG falls on the players calling out the offense and the person calling it. The projected starter is Landyn Locke, who threw for 765 yards while completing 50.4% of his passes. *(p. 205)*
 
 ## 9. Quarterback Situation
 
@@ -88,12 +100,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 204)*.
 
-- Landyn Locke threw for 765 yards last season and only completed 50.4% of his passes. *(p. 205)*
-- Among teams with exactly 12 games played, only Stanford allowed more passing yards. *(p. 205)*
+- **(Sam) Houston, what are the problems on offense?** The guide's answer is that there are many, but it isolates the position responsible. Longo is a longtime coordinator who likes tempo and the Air Raid; his quarterbacks combined for a 12/10 touchdown-to-interception ratio and just 2,209 yards. It defends the run game — serviceable at 4.3 yards per carry, with running backs averaging 5.8, 6.7 and 4.2, the overall figure dragged down badly by the quarterbacks. The line was far from great at 36 sacks allowed, but its verdict is that finishing 127th in PPG falls on the players calling out the offense and the person calling it. The projected starter is Landyn Locke, who threw for 765 yards while completing 50.4% of his passes. *(p. 205)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The injury eventually led to Alejado missing two starts — Sam Houston State and Portland State — but the signal-caller still delivered. *(p. 247)*
+Also referenced on **pp. 247** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -109,11 +118,9 @@ The Stability Score table prints the same figure independently: **7 returning st
 
 ## 11. Transfer Portal
 
-- Returning production would be an oxymoron here, but there really isn’t much of it anyway, as second-year DC Freddie Aughtry-Lindsay did a lot of portal shopping. 247Sports has the Bearkats down for the best portal haul in the conference and the secondary was a huge focal point. *(p. 205)*
+- **Can the defense get better even if the offense doesn’t?** The guide says it could and should, because this was the worst defense in the nation in yards allowed per game. It forecloses the schedule excuse directly: even with UNLV, Hawaii, Texas and Oregon State in non-conference, the Bearkats gave up more yards per game to conference opponents in a terrible offensive conference. Its comparisons are pointed — among teams playing exactly 12 games, only Stanford allowed more passing yards, and only Georgia State, UAB and UMass allowed more points per game. It reuses its own joke that returning production would be an oxymoron here, notes there is little anyway, and reports that second-year coordinator Freddie Aughtry-Lindsay did a great deal of portal shopping — with 247Sports rating the Bearkats' haul the best in the conference and the secondary a huge focal point. *(p. 205)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Mack brought in more than 60 players via the portal last season. 247Sports has 29 graded transfers for the Owls and their class ranks third in the conference behind Sam Houston and Liberty. *(p. 195)*
+Referenced in the guide on **pp. 195** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -121,24 +128,16 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- The offense was terrible, the defense was worse, and the Bearkats started 0-8 before a couple of stunning upsets over Oregon State and Delaware. *(p. 204)*
-- It is extremely difficult to build off of those disastrous kinds of numbers, especially with seven yards per play allowed. *(p. 204)*
-- Longo has been a longtime OC who likes to play with tempo and move the ball with the Air Raid. *(p. 205)*
-- The offensive line was far from great with 36 sacks allowed, but finishing 127th in PPG falls on the guys barking out the offense and the guys calling it. *(p. 205)*
-- Even with UNLV, Hawaii, Texas, and Oregon State in non-conference play, the Bearkats still gave up more yards on a per-game basis to conference opponents in a terrible offensive conference. *(p. 205)*
+- On offense it uses a mechanical image for the mismatch between scheme and personnel — Longo is in Year 2 of installing a new system, but is attempting to put a Dodge Dart engine into a Geo Prizm. This year's roster may be closer to what he wants, though probably not close enough for much improvement. Projection is 2.66 wins. *(p. 204)*
+- **(Sam) Houston, what are the problems on offense?** The guide's answer is that there are many, but it isolates the position responsible. Longo is a longtime coordinator who likes tempo and the Air Raid; his quarterbacks combined for a 12/10 touchdown-to-interception ratio and just 2,209 yards. It defends the run game — serviceable at 4.3 yards per carry, with running backs averaging 5.8, 6.7 and 4.2, the overall figure dragged down badly by the quarterbacks. The line was far from great at 36 sacks allowed, but its verdict is that finishing 127th in PPG falls on the players calling out the offense and the person calling it. The projected starter is Landyn Locke, who threw for 765 yards while completing 50.4% of his passes. *(p. 205)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- That would be 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty, and 388 against Missouri State. *(p. 339)*
+Referenced in the guide on **pp. 339** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The offense was terrible, the defense was worse, and the Bearkats started 0-8 before a couple of stunning upsets over Oregon State and Delaware. *(p. 204)*
-- The defense has experienced a full facelift, but there is no way to erase the scars of giving up nearly 500 yards per game in this conference. *(p. 204)*
-- The offensive line was far from great with 36 sacks allowed, but finishing 127th in PPG falls on the guys barking out the offense and the guys calling it. *(p. 205)*
-- It could, and should, given that this was the worst defense in the nation in yards allowed per game. *(p. 205)*
-- Returning production would be an oxymoron here, but there really isn’t much of it anyway, as second-year DC Freddie Aughtry-Lindsay did a lot of portal shopping. 247Sports has the Bearkats down for the best portal haul in the conference and the secondary was a huge focal point. *(p. 205)*
-- A +12 TO margin really did a lot of heavy lifting, as the team finished -2 in sack differential and went 6-0 in games decided by six or fewer points, including the New Orleans Bowl win over Georgia Southern. *(p. 205)*
+- It stresses how bad the underlying numbers were despite a +2 turnover margin: out-scored by 20 PPG overall and 19 PPG in conference play, with seven yards per play allowed — figures it calls extremely difficult to build off. *(p. 204)*
+- On defense it grants a full facelift while saying there is no way to erase the scars of allowing nearly 500 yards per game in this conference — and that a dearth of talent is one thing, but the numbers do not inspire confidence in the play-caller either. *(p. 204)*
+- **Can the defense get better even if the offense doesn’t?** The guide says it could and should, because this was the worst defense in the nation in yards allowed per game. It forecloses the schedule excuse directly: even with UNLV, Hawaii, Texas and Oregon State in non-conference, the Bearkats gave up more yards per game to conference opponents in a terrible offensive conference. Its comparisons are pointed — among teams playing exactly 12 games, only Stanford allowed more passing yards, and only Georgia State, UAB and UMass allowed more points per game. It reuses its own joke that returning production would be an oxymoron here, notes there is little anyway, and reports that second-year coordinator Freddie Aughtry-Lindsay did a great deal of portal shopping — with 247Sports rating the Bearkats' haul the best in the conference and the secondary a huge focal point. *(p. 205)*
 
 ## 15. Key Strengths
 
@@ -214,23 +213,22 @@ Prices printed on the team page *(p. 205)*:
 
 ## 21. Betting Notes / Best Bets
 
-- I wasn’t right about everything in last year’s College Football Betting Guide, but I was right about Sam Houston. *(p. 204)*
-- Under 3.5 The betting market seems to share that same sentiment with heavy juice on another 3-9 or worse campaign. *(p. 204)*
+- The guide opens by claiming its own prior call: it was not right about everything in last year's guide, but it was right about Sam Houston. *(p. 204)*
+- The season's shape: an 0-8 start before a couple of stunning upsets over Oregon State and Delaware. Sam Houston was favoured exactly once and lost that game by 27 points at New Mexico State. *(p. 204)*
+- Recommendation is Under 3.5 wins, and it observes the betting market agrees, with heavy juice on another 3-9 or worse campaign. *(p. 204)*
+- On defense it grants a full facelift while saying there is no way to erase the scars of allowing nearly 500 yards per game in this conference — and that a dearth of talent is one thing, but the numbers do not inspire confidence in the play-caller either. *(p. 204)*
+- On offense it uses a mechanical image for the mismatch between scheme and personnel — Longo is in Year 2 of installing a new system, but is attempting to put a Dodge Dart engine into a Geo Prizm. This year's roster may be closer to what he wants, though probably not close enough for much improvement. Projection is 2.66 wins. *(p. 204)*
+- **Will the real Sam Houston please stand up?** The guide reopens the good season for inspection. KC Keeler left for Temple, returning home to southeastern Pennsylvania after a 10-3 year in 2024 — thoroughly impressive, though it notes the Bearkats were 3-9 under him in 2023, their first Conference USA season. It then argues the 10-3 was thinner than it looked: only 23.8 PPG scored against 20.5 allowed and just +0.2 in yards-per-play differential, with a +12 turnover margin doing a lot of heavy lifting, a -2 sack differential, and a 6-0 record in games decided by six points or fewer, including the New Orleans Bowl win over Georgia Southern. Its conclusion is that it is hard not to see 2023 and 2025 as more representative of what to expect. *(p. 205)*
 
 ## 22. Historical / Situational Trends
 
-- I wasn’t right about everything in last year’s College Football Betting Guide, but I was right about Sam Houston. *(p. 204)*
-- On the plus side, Sam Houston will be playing back in their home stadium after being forced to relocate last season due to renovations. *(p. 204)*
-- SHSU was on the plus side last season in turnover margin at +2, but still got outscored by 20 PPG overall and 19 PPG in conference play. *(p. 204)*
-- Landyn Locke threw for 765 yards last season and only completed 50.4% of his passes. *(p. 205)*
-- KC Keeler returned home to southeastern Pennsylvania to take over at Temple following a 10-3 season in 2024. *(p. 205)*
-- While that was thoroughly impressive, the Bearkats were just 3-9 with Keeler at the helm in 2023, their first season in Conference USA. *(p. 205)*
+- The guide opens by claiming its own prior call: it was not right about everything in last year's guide, but it was right about Sam Houston. *(p. 204)*
+- The collapse it records is 10-3 to 2-10, with Year 1 under Phil Longo not working out at all — the offense terrible, the defense worse. *(p. 204)*
+- The season's shape: an 0-8 start before a couple of stunning upsets over Oregon State and Delaware. Sam Houston was favoured exactly once and lost that game by 27 points at New Mexico State. *(p. 204)*
+- It stresses how bad the underlying numbers were despite a +2 turnover margin: out-scored by 20 PPG overall and 19 PPG in conference play, with seven yards per play allowed — figures it calls extremely difficult to build off. *(p. 204)*
+- **Will the real Sam Houston please stand up?** The guide reopens the good season for inspection. KC Keeler left for Temple, returning home to southeastern Pennsylvania after a 10-3 year in 2024 — thoroughly impressive, though it notes the Bearkats were 3-9 under him in 2023, their first Conference USA season. It then argues the 10-3 was thinner than it looked: only 23.8 PPG scored against 20.5 allowed and just +0.2 in yards-per-play differential, with a +12 turnover margin doing a lot of heavy lifting, a -2 sack differential, and a 6-0 record in games decided by six points or fewer, including the New Orleans Bowl win over Georgia Southern. Its conclusion is that it is hard not to see 2023 and 2025 as more representative of what to expect. *(p. 205)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- If the Golden Hurricane can beat Sam Houston State on the road in Week 2, this one should get there and the team should go bowling for the first time since 2021. *(p. 72)*
-- Mack brought in more than 60 players via the portal last season. 247Sports has 29 graded transfers for the Owls and their class ranks third in the conference behind Sam Houston and Liberty. *(p. 195)*
-- Weaver started two games — Sam Houston State and Portland State — at Hawaii last season in place of the injured Micah Alejado. *(p. 257)*
+Referenced in the guide on **pp. 72, 195, 257** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -275,10 +273,10 @@ As printed on p. 205. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The defense has experienced a full facelift, but there is no way to erase the scars of giving up nearly 500 yards per game in this conference. *(p. 204)*
-- It’s possible that this year’s roster is closer to what he wants, but probably not close enough for much improvement. *(p. 204)*
-- Returning production would be an oxymoron here, but there really isn’t much of it anyway, as second-year DC Freddie Aughtry-Lindsay did a lot of portal shopping. 247Sports has the Bearkats down for the best portal haul in the conference and the secondary was a huge focal point. *(p. 205)*
-- While that was thoroughly impressive, the Bearkats were just 3-9 with Keeler at the helm in 2023, their first season in Conference USA. *(p. 205)*
+- On the positive side, the Bearkats return to their home stadium after being forced to relocate last season for renovations. *(p. 204)*
+- On offense it uses a mechanical image for the mismatch between scheme and personnel — Longo is in Year 2 of installing a new system, but is attempting to put a Dodge Dart engine into a Geo Prizm. This year's roster may be closer to what he wants, though probably not close enough for much improvement. Projection is 2.66 wins. *(p. 204)*
+- The guide says it could and should, because this was the worst defense in the nation in yards allowed per game. It forecloses the schedule excuse directly: even with UNLV, Hawaii, Texas and Oregon State in non-conference, the Bearkats gave up more yards per game to conference opponents in a terrible offensive conference. Its comparisons are pointed — among teams playing exactly 12 games, only Stanford allowed more passing yards, and only Georgia State, UAB and UMass allowed more points per game. It reuses its own joke that returning production would be an oxymoron here, notes there is little anyway, and reports that second-year coordinator Freddie Aughtry-Lindsay did a great deal of portal shopping — with 247Sports rating the Bearkats' haul the best in the conference and the secondary a huge focal point. *(p. 205)*
+- The guide reopens the good season for inspection. KC Keeler left for Temple, returning home to southeastern Pennsylvania after a 10-3 year in 2024 — thoroughly impressive, though it notes the Bearkats were 3-9 under him in 2023, their first Conference USA season. It then argues the 10-3 was thinner than it looked: only 23.8 PPG scored against 20.5 allowed and just +0.2 in yards-per-play differential, with a +12 turnover margin doing a lot of heavy lifting, a -2 sack differential, and a 6-0 record in games decided by six points or fewer, including the New Orleans Bowl win over Georgia Southern. Its conclusion is that it is hard not to see 2023 and 2025 as more representative of what to expect. *(p. 205)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -286,29 +284,28 @@ As printed on p. 205. Each category carries a value and a national rank.
 
 - Makinen projects **2.7 wins** against a posted total of 3.5 — **-0.8** against this team.
 - The team page recommends **UNDER 3.5**.
-- They were favored once and lost that game by 27 points at New Mexico State. *(p. 204)*
-- It is extremely difficult to build off of those disastrous kinds of numbers, especially with seven yards per play allowed. *(p. 204)*
-- The injury eventually led to Alejado missing two starts — Sam Houston State and Portland State — but the signal-caller still delivered. *(p. 247)*
-- Weaver started two games — Sam Houston State and Portland State — at Hawaii last season in place of the injured Micah Alejado. *(p. 257)*
+- The season's shape: an 0-8 start before a couple of stunning upsets over Oregon State and Delaware. Sam Houston was favoured exactly once and lost that game by 27 points at New Mexico State. *(p. 204)*
+- It stresses how bad the underlying numbers were despite a +2 turnover margin: out-scored by 20 PPG overall and 19 PPG in conference play, with seven yards per play allowed — figures it calls extremely difficult to build off. *(p. 204)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 205)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 205)*. Its analysis, in reference form:
 
 ### (Sam) Houston, what are the problems on offense?
 
-Well, there are a lot of them. Longo has been a longtime OC who likes to play with tempo and move the ball with the Air Raid. The QBs combined for a 12/10 TD/INT ratio and mustered just 2,209 yards. The running game was serviceable with 4.3 yards per carry and running backs that averaged 5.8, 6.7, and 4.2 YPC, as the QBs dragged down the average big time. Ultimately, the QBs were the root of all the problems. The offensive line was far from great with 36 sacks allowed, but finishing 127th in PPG falls on the guys barking out the offense and the guys calling it. Landyn Locke threw for 765 yards last season and only completed 50.4% of his passes. He’s the projected starter.
+The guide's answer is that there are many, but it isolates the position responsible. Longo is a longtime coordinator who likes tempo and the Air Raid; his quarterbacks combined for a 12/10 touchdown-to-interception ratio and just 2,209 yards. It defends the run game — serviceable at 4.3 yards per carry, with running backs averaging 5.8, 6.7 and 4.2, the overall figure dragged down badly by the quarterbacks. The line was far from great at 36 sacks allowed, but its verdict is that finishing 127th in PPG falls on the players calling out the offense and the person calling it. The projected starter is Landyn Locke, who threw for 765 yards while completing 50.4% of his passes. *(p. 205)*
 
 ### Can the defense get better even if the offense doesn’t?
 
-It could, and should, given that this was the worst defense in the nation in yards allowed per game. Even with UNLV, Hawaii, Texas, and Oregon State in non-conference play, the Bearkats still gave up more yards on a per-game basis to conference opponents in a terrible offensive conference. Among teams with exactly 12 games played, only Stanford allowed more passing yards. Only Georgia State, UAB, and UMass allowed more points per game. Returning production would be an oxymoron here, but there really isn’t much of it anyway, as second-year DC Freddie Aughtry-Lindsay did a lot of portal shopping. 247Sports has the Bearkats down for the best portal haul in the conference and the secondary was a huge focal point.
+The guide says it could and should, because this was the worst defense in the nation in yards allowed per game. It forecloses the schedule excuse directly: even with UNLV, Hawaii, Texas and Oregon State in non-conference, the Bearkats gave up more yards per game to conference opponents in a terrible offensive conference. Its comparisons are pointed — among teams playing exactly 12 games, only Stanford allowed more passing yards, and only Georgia State, UAB and UMass allowed more points per game. It reuses its own joke that returning production would be an oxymoron here, notes there is little anyway, and reports that second-year coordinator Freddie Aughtry-Lindsay did a great deal of portal shopping — with 247Sports rating the Bearkats' haul the best in the conference and the secondary a huge focal point. *(p. 205)*
 
 ### Will the real Sam Houston please stand up?
 
-KC Keeler returned home to southeastern Pennsylvania to take over at Temple following a 10-3 season in 2024. While that was thoroughly impressive, the Bearkats were just 3-9 with Keeler at the helm in 2023, their first season in Conference USA. The 10-3 team only scored 23.8 PPG with 20.5 PPG against and was only +0.2 in YPP differential. A +12 TO margin really did a lot of heavy lifting, as the team finished -2 in sack differential and went 6-0 in games decided by six or fewer points, including the New Orleans Bowl win over Georgia Southern. In other words, it’s hard not to look at this team and feel like 2023 and 2025 are more of what we should expect.
+The guide reopens the good season for inspection. KC Keeler left for Temple, returning home to southeastern Pennsylvania after a 10-3 year in 2024 — thoroughly impressive, though it notes the Bearkats were 3-9 under him in 2023, their first Conference USA season. It then argues the 10-3 was thinner than it looked: only 23.8 PPG scored against 20.5 allowed and just +0.2 in yards-per-play differential, with a +12 turnover margin doing a lot of heavy lifting, a -2 sack differential, and a 6-0 record in games decided by six points or fewer, including the New Orleans Bowl win over Georgia Southern. Its conclusion is that it is hard not to see 2023 and 2025 as more representative of what to expect. *(p. 205)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
