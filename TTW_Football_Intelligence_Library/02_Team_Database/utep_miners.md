@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 3.2–8.8 overall, 2.0–6.0 in conference |
 | **Schedule strength** | 35.19 (#85 toughest of 138) |
 
-### Season outlook as written in the guide (p. 260)
+### Season outlook — VSiN's analysis in reference form (p. 260)
 
-The betting market does not have much faith in Scotty Walden and the Miners. UTEP is the longest shot on the board to win the Mountain West at DraftKings (80-1), and the team has the lowest win total in the conference. The Miners won’t win the conference, but there is a silver lining. This is a roster with some upside and a good amount of returning production. They were a sneaky solid defense at times last season, and the staff has done a decent job plugging some holes with the transfer portal. There is certainly a strong chance this is not the squad that finishes last in the Mountain West. Over 3.5 There is certainly enough on this roster on offense to be somewhat optimistic about their chances of climbing out of the national cellar when it comes to production. A lot will lie on the shoulders of Colson at quarterback, but he has the upside. The defense could also be better once it gets to conference play. The Miners will take their lumps. They have road trips to Oklahoma and Michigan to start the season. They must also go to New Mexico, North Dakota State and Air Force while hosting Hawaii. But there are opportunities on this schedule in the form of matchups with Texas Southern, Oregon State, Nevada and San Jose State. If they spring an upset, this is a team that could achieve four wins on the season.
+- The guide starts from the market: UTEP is the longest shot to win the Mountain West at DraftKings at 80-1 and carries the conference's lowest win total. *(p. 260)*
+- It agrees the Miners will not win the conference while identifying a silver lining — a roster with upside and a good amount of returning production. *(p. 260)*
+- UTEP was a sneaky solid defense at times last season and the staff has plugged holes decently through the portal. *(p. 260)*
+- Its conclusion at this level is comparative rather than absolute: there is a strong chance this is not the team that finishes last in the Mountain West. *(p. 260)*
+- Recommendation is Over 3.5 wins. There is enough on offense to be somewhat optimistic about climbing out of the national cellar, with much depending on EJ Colson, who has the upside. *(p. 260)*
+- The defense could also improve once conference play begins. *(p. 260)*
+- Schedule: road trips to Oklahoma and Michigan to open, plus New Mexico, North Dakota State and Air Force away and Hawaii at home. The opportunities it names are Texas Southern, Oregon State, Nevada and San Jose State — and with one upset it sees four wins as achievable. *(p. 260)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,9 +86,7 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- They were a sneaky solid defense at times last season, and the staff has done a decent job plugging some holes with the transfer portal. *(p. 260)*
-- Head coach Scotty Walden named Colson the starter in May, and with that comes a Herculean task: turn around an offense which was 131st in EPA per play and 129th in success rate. *(p. 261)*
-- Kyle Beyer takes over as defensive coordinator, but served as an analyst for this team last season. *(p. 261)*
+- **Can the defense keep it up?** The guide notes UTEP quietly had a strong defensive campaign: 14th nationally in opponent EPA per play, 20th in success rate, 97th percentile in explosive play rate allowed and 94th percentile in late-down success rate. Only four starters return but talent remains — middle linebacker Jayden Wilson was second in tackles with 92 and third in tackles for loss with 7.5, while Justin Content and Xavier Smith return in the secondary having combined for 10 pass breakups, seven tackles for loss and two interceptions. Kyle Beyer takes over as coordinator having served as an analyst last season, and the guide sees a strong chance of an above-average Mountain West unit. *(p. 261)*
 
 ## 9. Quarterback Situation
 
@@ -88,13 +94,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 260)*.
 
-- A lot will lie on the shoulders of Colson at quarterback, but he has the upside. *(p. 260)*
-- That did not go well — he went 9 of 16 for 64 yards and threw a pick — and he made his way to the Cardinals. *(p. 261)*
-- He completed 70.9% of his passes and threw for 2,142 yards with 16 touchdowns and four interceptions. *(p. 261)*
+- Recommendation is Over 3.5 wins. There is enough on offense to be somewhat optimistic about climbing out of the national cellar, with much depending on EJ Colson, who has the upside. *(p. 260)*
+- **Can EJ Colson spark a rebuilding offense?** Colson, a transfer from Incarnate Word, started a game and appeared in another for UCF in 2024, which the guide says did not go well — 9 of 16 for 64 yards with an interception — before he moved on. Last season he showed promise, completing 70.9% for 2,142 yards with 16 touchdowns and four interceptions plus 287 rushing yards and three scores. Scotty Walden named him the starter in May. The guide frames the task as Herculean and quantifies it precisely: turning around an offense that ranked 131st in EPA per play and 129th in success rate, while doing it without the top four rushers and top seven receivers. *(p. 261)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Duke transfer Henry Belin and UTEP transfer Skyler Locklear are the two QB newcomers via the portal, along with holdovers Cole Feuerbacher and Elijah Leonard. *(p. 201)*
+Also referenced on **pp. 201** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -110,34 +113,28 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 11. Transfer Portal
 
-- They were a sneaky solid defense at times last season, and the staff has done a decent job plugging some holes with the transfer portal. *(p. 260)*
-- Colson — a transfer from Incarnate Word — started a game and appeared in another for UCF back in 2024. *(p. 261)*
-- At running back, the crown jewel seems to be Missouri transfer Tavorus Jones, a former four-star prospect who appeared in 20 games for the Tigers. *(p. 261)*
+- UTEP was a sneaky solid defense at times last season and the staff has plugged holes decently through the portal. *(p. 260)*
+- **Can EJ Colson spark a rebuilding offense?** Colson, a transfer from Incarnate Word, started a game and appeared in another for UCF in 2024, which the guide says did not go well — 9 of 16 for 64 yards with an interception — before he moved on. Last season he showed promise, completing 70.9% for 2,142 yards with 16 touchdowns and four interceptions plus 287 rushing yards and three scores. Scotty Walden named him the starter in May. The guide frames the task as Herculean and quantifies it precisely: turning around an offense that ranked 131st in EPA per play and 129th in success rate, while doing it without the top four rushers and top seven receivers. *(p. 261)*
+- **Could the running game surprise some defenses in the Mountain West?** The guide concedes projection is hard with no returning starters, while judging UTEP could have done much worse. The baseline is poor: 116 yards per game at 3.7 per carry, with the programme not averaging more than 3.9 since 2022. Walden added line help in left guard Brian Williams, an all-conference selection in the SWAC, and right tackle Jaymon Lamb, who played seven games for North Texas. At running back it names Missouri transfer Tavorus Jones the crown jewel, a former four-star who appeared in 20 games for the Tigers. *(p. 261)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Duke transfer Henry Belin and UTEP transfer Skyler Locklear are the two QB newcomers via the portal, along with holdovers Cole Feuerbacher and Elijah Leonard. *(p. 201)*
+Referenced in the guide on **pp. 201** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- At running back, the crown jewel seems to be Missouri transfer Tavorus Jones, a former four-star prospect who appeared in 20 games for the Tigers. *(p. 261)*
+
+Referenced in the guide on **pp. 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Over 3.5 There is certainly enough on this roster on offense to be somewhat optimistic about their chances of climbing out of the national cellar when it comes to production. *(p. 260)*
-- Head coach Scotty Walden named Colson the starter in May, and with that comes a Herculean task: turn around an offense which was 131st in EPA per play and 129th in success rate. *(p. 261)*
-- And do it with the team’s top four rushers and top seven receivers all out the door. *(p. 261)*
-- It’s hard to project what an offense will do when not a single returning starter is back, but on paper UTEP could have done much worse in trying to improve its ground game. *(p. 261)*
-- In order to fix it, Walden brought in some help along the offensive line. *(p. 261)*
+- Recommendation is Over 3.5 wins. There is enough on offense to be somewhat optimistic about climbing out of the national cellar, with much depending on EJ Colson, who has the upside. *(p. 260)*
+- **Can EJ Colson spark a rebuilding offense?** Colson, a transfer from Incarnate Word, started a game and appeared in another for UCF in 2024, which the guide says did not go well — 9 of 16 for 64 yards with an interception — before he moved on. Last season he showed promise, completing 70.9% for 2,142 yards with 16 touchdowns and four interceptions plus 287 rushing yards and three scores. Scotty Walden named him the starter in May. The guide frames the task as Herculean and quantifies it precisely: turning around an offense that ranked 131st in EPA per play and 129th in success rate, while doing it without the top four rushers and top seven receivers. *(p. 261)*
+- **Could the running game surprise some defenses in the Mountain West?** The guide concedes projection is hard with no returning starters, while judging UTEP could have done much worse. The baseline is poor: 116 yards per game at 3.7 per carry, with the programme not averaging more than 3.9 since 2022. Walden added line help in left guard Brian Williams, an all-conference selection in the SWAC, and right tackle Jaymon Lamb, who played seven games for North Texas. At running back it names Missouri transfer Tavorus Jones the crown jewel, a former four-star who appeared in 20 games for the Tigers. *(p. 261)*
 
 ## 14. Defensive Identity
 
-- They were a sneaky solid defense at times last season, and the staff has done a decent job plugging some holes with the transfer portal. *(p. 260)*
-- The defense could also be better once it gets to conference play. *(p. 260)*
-- UTEP quietly put together a strong defensive campaign in 2025. *(p. 261)*
-- Middle linebacker Jayden Wilson returns after finishing second in tackles (92) and third in tackles for loss (7.5). *(p. 261)*
-- Justin Content and Xavier Smith are roaming the secondary once again. *(p. 261)*
-- Kyle Beyer takes over as defensive coordinator, but served as an analyst for this team last season. *(p. 261)*
+- UTEP was a sneaky solid defense at times last season and the staff has plugged holes decently through the portal. *(p. 260)*
+- The defense could also improve once conference play begins. *(p. 260)*
+- **Can the defense keep it up?** The guide notes UTEP quietly had a strong defensive campaign: 14th nationally in opponent EPA per play, 20th in success rate, 97th percentile in explosive play rate allowed and 94th percentile in late-down success rate. Only four starters return but talent remains — middle linebacker Jayden Wilson was second in tackles with 92 and third in tackles for loss with 7.5, while Justin Content and Xavier Smith return in the secondary having combined for 10 pass breakups, seven tackles for loss and two interceptions. Kyle Beyer takes over as coordinator having served as an analyst last season, and the guide sees a strong chance of an above-average Mountain West unit. *(p. 261)*
 
 ## 15. Key Strengths
 
@@ -208,23 +205,18 @@ Prices printed on the team page *(p. 261)*:
 
 ## 21. Betting Notes / Best Bets
 
-- The betting market does not have much faith in Scotty Walden and the Miners. *(p. 260)*
+- The guide starts from the market: UTEP is the longest shot to win the Mountain West at DraftKings at 80-1 and carries the conference's lowest win total. *(p. 260)*
+- It agrees the Miners will not win the conference while identifying a silver lining — a roster with upside and a good amount of returning production. *(p. 260)*
+- Its conclusion at this level is comparative rather than absolute: there is a strong chance this is not the team that finishes last in the Mountain West. *(p. 260)*
+- Recommendation is Over 3.5 wins. There is enough on offense to be somewhat optimistic about climbing out of the national cellar, with much depending on EJ Colson, who has the upside. *(p. 260)*
+- Schedule: road trips to Oklahoma and Michigan to open, plus New Mexico, North Dakota State and Air Force away and Hawaii at home. The opportunities it names are Texas Southern, Oregon State, Nevada and San Jose State — and with one upset it sees four wins as achievable. *(p. 260)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- It is hard to pinpoint the cause of the Flames’ decline, as they only beat Maine, UTEP, New Mexico State, and Delaware, losing four times as a favorite. *(p. 196)*
+Also referenced on **pp. 196** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- They were a sneaky solid defense at times last season, and the staff has done a decent job plugging some holes with the transfer portal. *(p. 260)*
-- Colson — a transfer from Incarnate Word — started a game and appeared in another for UCF back in 2024. *(p. 261)*
-- Last season, Colson showed some promise. *(p. 261)*
-- The Miners averaged only 116 yards per game and 3.7 yards per carry last season. *(p. 261)*
-- The program has not averaged more than 3.9 per attempt since 2022. *(p. 261)*
-- Left guard Brian Williams earned All-Conference honors in the SWAC last season, and right tackle Jaymon Lamb played in seven games for North Texas. *(p. 261)*
-- UTEP quietly put together a strong defensive campaign in 2025. *(p. 261)*
-- The two combined for 10 pass breakups, seven tackles for loss and two interceptions last season. *(p. 261)*
-- Kyle Beyer takes over as defensive coordinator, but served as an analyst for this team last season. *(p. 261)*
+
+Referenced in the guide on **pp. 260, 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -270,43 +262,40 @@ As printed on p. 261. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 3.5**.
-- This is a roster with some upside and a good amount of returning production. *(p. 260)*
-- They were a sneaky solid defense at times last season, and the staff has done a decent job plugging some holes with the transfer portal. *(p. 260)*
-- There is certainly a strong chance this is not the squad that finishes last in the Mountain West. *(p. 260)*
-- Over 3.5 There is certainly enough on this roster on offense to be somewhat optimistic about their chances of climbing out of the national cellar when it comes to production. *(p. 260)*
-- A lot will lie on the shoulders of Colson at quarterback, but he has the upside. *(p. 260)*
-- Head coach Scotty Walden named Colson the starter in May, and with that comes a Herculean task: turn around an offense which was 131st in EPA per play and 129th in success rate. *(p. 261)*
-- It’s hard to project what an offense will do when not a single returning starter is back, but on paper UTEP could have done much worse in trying to improve its ground game. *(p. 261)*
-- UTEP quietly put together a strong defensive campaign in 2025. *(p. 261)*
-- The Miners finished 14th in the country in opponent EPA per play and 20th in success rate. *(p. 261)*
-- They placed in the 97th percentile in explosive play rate allowed and the 94th percentile in late-down success rate. *(p. 261)*
+- It agrees the Miners will not win the conference while identifying a silver lining — a roster with upside and a good amount of returning production. *(p. 260)*
+- UTEP was a sneaky solid defense at times last season and the staff has plugged holes decently through the portal. *(p. 260)*
+- Its conclusion at this level is comparative rather than absolute: there is a strong chance this is not the team that finishes last in the Mountain West. *(p. 260)*
+- Recommendation is Over 3.5 wins. There is enough on offense to be somewhat optimistic about climbing out of the national cellar, with much depending on EJ Colson, who has the upside. *(p. 260)*
+- The defense could also improve once conference play begins. *(p. 260)*
+- Colson, a transfer from Incarnate Word, started a game and appeared in another for UCF in 2024, which the guide says did not go well — 9 of 16 for 64 yards with an interception — before he moved on. Last season he showed promise, completing 70.9% for 2,142 yards with 16 touchdowns and four interceptions plus 287 rushing yards and three scores. Scotty Walden named him the starter in May. The guide frames the task as Herculean and quantifies it precisely: turning around an offense that ranked 131st in EPA per play and 129th in success rate, while doing it without the top four rushers and top seven receivers. *(p. 261)*
+- The guide notes UTEP quietly had a strong defensive campaign: 14th nationally in opponent EPA per play, 20th in success rate, 97th percentile in explosive play rate allowed and 94th percentile in late-down success rate. Only four starters return but talent remains — middle linebacker Jayden Wilson was second in tackles with 92 and third in tackles for loss with 7.5, while Justin Content and Xavier Smith return in the secondary having combined for 10 pass breakups, seven tackles for loss and two interceptions. Kyle Beyer takes over as coordinator having served as an analyst last season, and the guide sees a strong chance of an above-average Mountain West unit. *(p. 261)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **3.2 wins** against a posted total of 3.5 — **-0.3** against this team.
-- Middle linebacker Jayden Wilson returns after finishing second in tackles (92) and third in tackles for loss (7.5). *(p. 261)*
-- The two combined for 10 pass breakups, seven tackles for loss and two interceptions last season. *(p. 261)*
+- The guide notes UTEP quietly had a strong defensive campaign: 14th nationally in opponent EPA per play, 20th in success rate, 97th percentile in explosive play rate allowed and 94th percentile in late-down success rate. Only four starters return but talent remains — middle linebacker Jayden Wilson was second in tackles with 92 and third in tackles for loss with 7.5, while Justin Content and Xavier Smith return in the secondary having combined for 10 pass breakups, seven tackles for loss and two interceptions. Kyle Beyer takes over as coordinator having served as an analyst last season, and the guide sees a strong chance of an above-average Mountain West unit. *(p. 261)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 261)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 261)*. Its analysis, in reference form:
 
 ### Can EJ Colson spark a rebuilding offense?
 
-Colson — a transfer from Incarnate Word — started a game and appeared in another for UCF back in 2024. That did not go well — he went 9 of 16 for 64 yards and threw a pick — and he made his way to the Cardinals. Last season, Colson showed some promise. He completed 70.9% of his passes and threw for 2,142 yards with 16 touchdowns and four interceptions. He also added 287 yards and three touchdowns on the ground. Head coach Scotty Walden named Colson the starter in May, and with that comes a Herculean task: turn around an offense which was 131st in EPA per play and 129th in success rate. And do it with the team’s top four rushers and top seven receivers all out the door.
+Colson, a transfer from Incarnate Word, started a game and appeared in another for UCF in 2024, which the guide says did not go well — 9 of 16 for 64 yards with an interception — before he moved on. Last season he showed promise, completing 70.9% for 2,142 yards with 16 touchdowns and four interceptions plus 287 rushing yards and three scores. Scotty Walden named him the starter in May. The guide frames the task as Herculean and quantifies it precisely: turning around an offense that ranked 131st in EPA per play and 129th in success rate, while doing it without the top four rushers and top seven receivers. *(p. 261)*
 
 ### Could the running game surprise some defenses in the Mountain West?
 
-It’s hard to project what an offense will do when not a single returning starter is back, but on paper UTEP could have done much worse in trying to improve its ground game. The Miners averaged only 116 yards per game and 3.7 yards per carry last season. The program has not averaged more than 3.9 per attempt since 2022. In order to fix it, Walden brought in some help along the offensive line. Left guard Brian Williams earned All-Conference honors in the SWAC last season, and right tackle Jaymon Lamb played in seven games for North Texas. At running back, the crown jewel seems to be Missouri transfer Tavorus Jones, a former four-star prospect who appeared in 20 games for the Tigers.
+The guide concedes projection is hard with no returning starters, while judging UTEP could have done much worse. The baseline is poor: 116 yards per game at 3.7 per carry, with the programme not averaging more than 3.9 since 2022. Walden added line help in left guard Brian Williams, an all-conference selection in the SWAC, and right tackle Jaymon Lamb, who played seven games for North Texas. At running back it names Missouri transfer Tavorus Jones the crown jewel, a former four-star who appeared in 20 games for the Tigers. *(p. 261)*
 
 ### Can the defense keep it up?
 
-UTEP quietly put together a strong defensive campaign in 2025. The Miners finished 14th in the country in opponent EPA per play and 20th in success rate. They placed in the 97th percentile in explosive play rate allowed and the 94th percentile in late-down success rate. Only four starters are back, but there is some talent here. Middle linebacker Jayden Wilson returns after finishing second in tackles (92) and third in tackles for loss (7.5). Justin Content and Xavier Smith are roaming the secondary once again. The two combined for 10 pass breakups, seven tackles for loss and two interceptions last season. Kyle Beyer takes over as defensive coordinator, but served as an analyst for this team last season. There is certainly a strong chance this could be an above-average unit in the Mountain West.
+The guide notes UTEP quietly had a strong defensive campaign: 14th nationally in opponent EPA per play, 20th in success rate, 97th percentile in explosive play rate allowed and 94th percentile in late-down success rate. Only four starters return but talent remains — middle linebacker Jayden Wilson was second in tackles with 92 and third in tackles for loss with 7.5, while Justin Content and Xavier Smith return in the secondary having combined for 10 pass breakups, seven tackles for loss and two interceptions. Kyle Beyer takes over as coordinator having served as an analyst last season, and the guide sees a strong chance of an above-average Mountain West unit. *(p. 261)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

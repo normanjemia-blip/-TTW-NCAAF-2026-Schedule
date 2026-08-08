@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 7.9–4.1 overall, 5.5–2.5 in conference |
 | **Schedule strength** | 31.93 (#108 toughest of 138) |
 
-### Season outlook as written in the guide (p. 246)
+### Season outlook — VSiN's analysis in reference form (p. 246)
 
-Improvement has been the theme for Hawaii under Timmy Chang. The Rainbow Warriors have improved their record each season under Chang, and statistically, they have seen their numbers improve on each side of the field. Coming off a nine-win season, one would assume improvement is hard to achieve in 2026, but the ‘Bows have everything they need to get it done. Micah Alejado was named the preseason Offensive Player of the Year. Pofele Ashlock was named to the preseason All- Conference team. This should be one of the premier offenses in the conference. On the other side, linebacker Jamih Otis and defensive back Elijah Palmer are preseason All-Conference players as well. The talent is there, and the schedule provides opportunity. This has the makings of a massive season in Honolulu. Over 7.5 Belief in Hawaii hinges on the growth and development of Alejado. The second-year signal- caller has provided no reason not to believe. He also has a plethora of weapons at his disposal to make the dream of Hawaii winning a championship tangible. All the Rainbow Warriors have to do is take advantage of the opportunity in front of them. While the schedule has the challenge of all three conference powers, each of them must make the trip out to the islands. A road trip to Wyoming will be difficult, but it comes after a bye week for Hawaii. They have to go to NIU, UTEP and Nevada as well, all of which are games this team should take care of if they are what their potential suggests they are. Not only is this team worth playing Over on its win total, but they are a solid bet to be the Mountain West champion.
+- Improvement is the theme under Timmy Chang, who has bettered his record every season with statistical gains on both sides of the ball. *(p. 246)*
+- The guide addresses the obvious objection — that improving on nine wins is hard — and argues Hawaii has what it needs. *(p. 246)*
+- Micah Alejado was named preseason Offensive Player of the Year and Pofele Ashlock made the preseason all-conference team, which should make this one of the conference's premier offenses. *(p. 246)*
+- Defensively, linebacker Jamih Otis and defensive back Elijah Palmer are also preseason all-conference selections, so the talent is there alongside schedule opportunity. *(p. 246)*
+- Recommendation is Over 7.5 wins, hinging on Alejado's growth — and the guide notes he has given no reason to doubt it, with a plethora of weapons available. *(p. 246)*
+- The schedule includes all three conference powers, but crucially each must travel to the islands. A road trip to Wyoming is difficult but follows a bye, and trips to Northern Illinois, UTEP and Nevada are games this team should handle if it is what its potential suggests. *(p. 246)*
+- The guide goes further than the win total, calling Hawaii a solid bet to be Mountain West champion. *(p. 246)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,7 +86,8 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Only three starters are back for Chang in 2026, but Dennis Thurman is back for a second season at defensive coordinator, and the top three players in tackles for loss — along with leading sack-getter Elijah Palmer — are all on the roster. *(p. 247)*
+- Improvement is the theme under Timmy Chang, who has bettered his record every season with statistical gains on both sides of the ball. *(p. 246)*
+- **Does the steady improvement for the defense continue?** The guide traces the trajectory from Chang's 2022 arrival, when Hawaii had two returning starters and allowed 34.7 points and 6.6 yards per play. Every season since it has allowed fewer points and yards per game, improved yards per play, and raised sacks from 17 in 2022 to 30 last season. Only three starters return, but Dennis Thurman is back for a second year as coordinator and the top three players in tackles for loss plus sack leader Elijah Palmer remain. Its standard is deliberately modest: Hawaii does not need a shutdown unit, so maintaining or slightly improving on last season should make this a strength. *(p. 247)*
 
 ## 9. Quarterback Situation
 
@@ -86,16 +95,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 246)*.
 
-- The injury eventually led to Alejado missing two starts — Sam Houston State and Portland State — but the signal-caller still delivered. *(p. 247)*
-- Improvement in the passing should largely be expected given his pedigree, but can Alejado add another dynamic to his game on the ground with a healthy ankle this season? *(p. 247)*
+- Micah Alejado was named preseason Offensive Player of the Year and Pofele Ashlock made the preseason all-conference team, which should make this one of the conference's premier offenses. *(p. 246)*
+- Recommendation is Over 7.5 wins, hinging on Alejado's growth — and the guide notes he has given no reason to doubt it, with a plethora of weapons available. *(p. 246)*
+- **What does a healthy Alejado look like in 2026?** Alejado produced an incredible 2025 despite a nagging ankle injury suffered in the opener against Stanford, which eventually cost him starts against Sam Houston State and Portland State. He still completed 66% for 3,106 yards with 24 touchdowns to nine interceptions. The guide adds a developmental angle: the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs, having rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. It expects passing improvement given his pedigree while posing the real question — whether a healthy ankle lets him add a running dimension. *(p. 247)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
-- SEAN GREEN JARON-KEAWE SAGAPOLUTELE TO WIN HEISMAN TROPHY (65-1) The lefty from Hawaii is going into Year 2 as the starting QB at Cal, and the sky is the limit. *(p. 11)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- Hawaii returns quarterback Micah Alejado, who was named preseason Offensive Player of the Year. *(p. 243)*
-- Over 4.5 Quarterback is an obvious question for Nevada, but Duncan showed enough in his starts for Hawaii last season that the expectation should be that he wins the job and serves in the role admirably. *(p. 248)*
+Also referenced on **pp. 8, 11, 18, 243, 248** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -112,11 +116,7 @@ The Stability Score table prints the same figure independently: **7 returning st
 ## 11. Transfer Portal
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
+Referenced in the guide on **pp. 8, 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -124,24 +124,15 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Micah Alejado was named the preseason Offensive Player of the Year. *(p. 246)*
-- This should be one of the premier offenses in the conference. *(p. 246)*
-- When Chang took the job in 2022, the Rainbow Warriors had just two starters back on defense and went on to allow 34.7 points per game and 6.6 yards per play. *(p. 247)*
-- In every season since, Hawaii has allowed fewer points and yards per game, improved in yards per play each season and has seen the sack total climb from just 17 in 2022 to 30 last season. *(p. 247)*
+- Micah Alejado was named preseason Offensive Player of the Year and Pofele Ashlock made the preseason all-conference team, which should make this one of the conference's premier offenses. *(p. 246)*
+- **What does a healthy Alejado look like in 2026?** Alejado produced an incredible 2025 despite a nagging ankle injury suffered in the opener against Stanford, which eventually cost him starts against Sam Houston State and Portland State. He still completed 66% for 3,106 yards with 24 touchdowns to nine interceptions. The guide adds a developmental angle: the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs, having rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. It expects passing improvement given his pedigree while posing the real question — whether a healthy ankle lets him add a running dimension. *(p. 247)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- Even with UNLV, Hawaii, Texas, and Oregon State in non-conference play, the Bearkats still gave up more yards on a per-game basis to conference opponents in a terrible offensive conference. *(p. 205)*
-- Hawaii returns quarterback Micah Alejado, who was named preseason Offensive Player of the Year. *(p. 243)*
+Referenced in the guide on **pp. 8, 18, 205, 243** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- On the other side, linebacker Jamih Otis and defensive back Elijah Palmer are preseason All-Conference players as well. *(p. 246)*
-- When Chang took the job in 2022, the Rainbow Warriors had just two starters back on defense and went on to allow 34.7 points per game and 6.6 yards per play. *(p. 247)*
-- In every season since, Hawaii has allowed fewer points and yards per game, improved in yards per play each season and has seen the sack total climb from just 17 in 2022 to 30 last season. *(p. 247)*
-- Only three starters are back for Chang in 2026, but Dennis Thurman is back for a second season at defensive coordinator, and the top three players in tackles for loss — along with leading sack-getter Elijah Palmer — are all on the roster. *(p. 247)*
+- Defensively, linebacker Jamih Otis and defensive back Elijah Palmer are also preseason all-conference selections, so the talent is there alongside schedule opportunity. *(p. 246)*
+- **Does the steady improvement for the defense continue?** The guide traces the trajectory from Chang's 2022 arrival, when Hawaii had two returning starters and allowed 34.7 points and 6.6 yards per play. Every season since it has allowed fewer points and yards per game, improved yards per play, and raised sacks from 17 in 2022 to 30 last season. Only three starters return, but Dennis Thurman is back for a second year as coordinator and the top three players in tackles for loss plus sack leader Elijah Palmer remain. Its standard is deliberately modest: Hawaii does not need a shutdown unit, so maintaining or slightly improving on last season should make this a strength. *(p. 247)*
 
 ## 15. Key Strengths
 
@@ -184,7 +175,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Hawaii does not need to be a shutdown unit by any stretch, so if they can improve or even maintain the production from last season, this unit should be a strength. *(p. 247)*
+
+Referenced in the guide on **pp. 247** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -211,25 +203,16 @@ Prices printed on the team page *(p. 247)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Not only is this team worth playing Over on its win total, but they are a solid bet to be the Mountain West champion. *(p. 246)*
-- The betting market believes this team is on the fringe of contention — it is the fourth option to win the conference at DraftKings (+450). *(p. 247)*
-- Hawaii also gets the benefit of hosting all three teams — UNLV, NDSU and New Mexico — that are ahead of it in the betting market. *(p. 247)*
+- The guide addresses the obvious objection — that improving on nine wins is hard — and argues Hawaii has what it needs. *(p. 246)*
+- Recommendation is Over 7.5 wins, hinging on Alejado's growth — and the guide notes he has given no reason to doubt it, with a plethora of weapons available. *(p. 246)*
+- The guide goes further than the win total, calling Hawaii a solid bet to be Mountain West champion. *(p. 246)*
 
 ## 22. Historical / Situational Trends
 
-- Coming off a nine-win season, one would assume improvement is hard to achieve in 2026, but the ‘Bows have everything they need to get it done. *(p. 246)*
-- When Chang took the job in 2022, the Rainbow Warriors had just two starters back on defense and went on to allow 34.7 points per game and 6.6 yards per play. *(p. 247)*
-- In every season since, Hawaii has allowed fewer points and yards per game, improved in yards per play each season and has seen the sack total climb from just 17 in 2022 to 30 last season. *(p. 247)*
-- Only three starters are back for Chang in 2026, but Dennis Thurman is back for a second season at defensive coordinator, and the top three players in tackles for loss — along with leading sack-getter Elijah Palmer — are all on the roster. *(p. 247)*
-- Hawaii does not need to be a shutdown unit by any stretch, so if they can improve or even maintain the production from last season, this unit should be a strength. *(p. 247)*
-- Hawaii has achieved a winning record in Mountain West play just three times since joining the conference in 2012, one of which occurred last season. *(p. 247)*
+- Improvement is the theme under Timmy Chang, who has bettered his record every season with statistical gains on both sides of the ball. *(p. 246)*
+- **Can the 'Bows break through?** Hawaii has managed a winning Mountain West record just three times since joining in 2012, one being last season. Coming off nine wins the goal is a conference championship, and the guide reports the market has them on the fringe of contention as the fourth choice at DraftKings at +450. It highlights the structural advantage — Hawaii hosts all three teams ahead of it in the market, UNLV, North Dakota State and New Mexico — and closes on the trend, noting Chang has improved his record every season, suggesting the programme is on the brink of something big. *(p. 247)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Yes, they’re at Oklahoma in Week 3 and have a tough road trip to Hawaii, but they host UNLV, who they beat in Vegas last year, host Air Force, who they beat in Colorado Springs, and host newcomer NDSU. *(p. 14)*
-- Over 4.5 Quarterback is an obvious question for Nevada, but Duncan showed enough in his starts for Hawaii last season that the expectation should be that he wins the job and serves in the role admirably. *(p. 248)*
-- Weaver started two games — Sam Houston State and Portland State — at Hawaii last season in place of the injured Micah Alejado. *(p. 257)*
-- Utah State allowed 28.7 PPG last season — surrendering 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. *(p. 279)*
+Referenced in the guide on **pp. 14, 248, 257, 279** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -276,50 +259,39 @@ As printed on p. 247. Each category carries a value and a national rank.
 
 - Makinen projects **7.9 wins** against a posted total of 7.5 — **+0.4** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- Improvement has been the theme for Hawaii under Timmy Chang. *(p. 246)*
-- The Rainbow Warriors have improved their record each season under Chang, and statistically, they have seen their numbers improve on each side of the field. *(p. 246)*
-- Coming off a nine-win season, one would assume improvement is hard to achieve in 2026, but the ‘Bows have everything they need to get it done. *(p. 246)*
-- He also has a plethora of weapons at his disposal to make the dream of Hawaii winning a championship tangible. *(p. 246)*
-- Not only is this team worth playing Over on its win total, but they are a solid bet to be the Mountain West champion. *(p. 246)*
-- Improvement in the passing should largely be expected given his pedigree, but can Alejado add another dynamic to his game on the ground with a healthy ankle this season? *(p. 247)*
-- In every season since, Hawaii has allowed fewer points and yards per game, improved in yards per play each season and has seen the sack total climb from just 17 in 2022 to 30 last season. *(p. 247)*
-- Hawaii does not need to be a shutdown unit by any stretch, so if they can improve or even maintain the production from last season, this unit should be a strength. *(p. 247)*
-- Hawaii has achieved a winning record in Mountain West play just three times since joining the conference in 2012, one of which occurred last season. *(p. 247)*
-- Chang has improved his record every season at the helm. *(p. 247)*
+- Improvement is the theme under Timmy Chang, who has bettered his record every season with statistical gains on both sides of the ball. *(p. 246)*
+- The guide goes further than the win total, calling Hawaii a solid bet to be Mountain West champion. *(p. 246)*
+- Alejado produced an incredible 2025 despite a nagging ankle injury suffered in the opener against Stanford, which eventually cost him starts against Sam Houston State and Portland State. He still completed 66% for 3,106 yards with 24 touchdowns to nine interceptions. The guide adds a developmental angle: the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs, having rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. It expects passing improvement given his pedigree while posing the real question — whether a healthy ankle lets him add a running dimension. *(p. 247)*
+- The guide traces the trajectory from Chang's 2022 arrival, when Hawaii had two returning starters and allowed 34.7 points and 6.6 yards per play. Every season since it has allowed fewer points and yards per game, improved yards per play, and raised sacks from 17 in 2022 to 30 last season. Only three starters return, but Dennis Thurman is back for a second year as coordinator and the top three players in tackles for loss plus sack leader Elijah Palmer remain. Its standard is deliberately modest: Hawaii does not need a shutdown unit, so maintaining or slightly improving on last season should make this a strength. *(p. 247)*
+- Hawaii has managed a winning Mountain West record just three times since joining in 2012, one being last season. Coming off nine wins the goal is a conference championship, and the guide reports the market has them on the fringe of contention as the fourth choice at DraftKings at +450. It highlights the structural advantage — Hawaii hosts all three teams ahead of it in the market, UNLV, North Dakota State and New Mexico — and closes on the trend, noting Chang has improved his record every season, suggesting the programme is on the brink of something big. *(p. 247)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- A road trip to Wyoming will be difficult, but it comes after a bye week for Hawaii. *(p. 246)*
-- Alejado had an incredible 2025 despite dealing with a nagging ankle injury, which he suffered in the season-opener against Stanford. *(p. 247)*
-- The injury eventually led to Alejado missing two starts — Sam Houston State and Portland State — but the signal-caller still delivered. *(p. 247)*
-- Only three starters are back for Chang in 2026, but Dennis Thurman is back for a second season at defensive coordinator, and the top three players in tackles for loss — along with leading sack-getter Elijah Palmer — are all on the roster. *(p. 247)*
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- Yes, they’re at Oklahoma in Week 3 and have a tough road trip to Hawaii, but they host UNLV, who they beat in Vegas last year, host Air Force, who they beat in Colorado Springs, and host newcomer NDSU. *(p. 14)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- Over 4.5 Quarterback is an obvious question for Nevada, but Duncan showed enough in his starts for Hawaii last season that the expectation should be that he wins the job and serves in the role admirably. *(p. 248)*
-- The Spartans have difficult road trips against USC, Hawaii and Air Force on the schedule. *(p. 256)*
+- The schedule includes all three conference powers, but crucially each must travel to the islands. A road trip to Wyoming is difficult but follows a bye, and trips to Northern Illinois, UTEP and Nevada are games this team should handle if it is what its potential suggests. *(p. 246)*
+- Alejado produced an incredible 2025 despite a nagging ankle injury suffered in the opener against Stanford, which eventually cost him starts against Sam Houston State and Portland State. He still completed 66% for 3,106 yards with 24 touchdowns to nine interceptions. The guide adds a developmental angle: the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs, having rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. It expects passing improvement given his pedigree while posing the real question — whether a healthy ankle lets him add a running dimension. *(p. 247)*
+- The guide traces the trajectory from Chang's 2022 arrival, when Hawaii had two returning starters and allowed 34.7 points and 6.6 yards per play. Every season since it has allowed fewer points and yards per game, improved yards per play, and raised sacks from 17 in 2022 to 30 last season. Only three starters return, but Dennis Thurman is back for a second year as coordinator and the top three players in tackles for loss plus sack leader Elijah Palmer remain. Its standard is deliberately modest: Hawaii does not need a shutdown unit, so maintaining or slightly improving on last season should make this a strength. *(p. 247)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 247)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 247)*. Its analysis, in reference form:
 
 ### What does a healthy Alejado look like in 2026?
 
-Alejado had an incredible 2025 despite dealing with a nagging ankle injury, which he suffered in the season-opener against Stanford. The injury eventually led to Alejado missing two starts — Sam Houston State and Portland State — but the signal-caller still delivered. Alejado completed 66% of his passes for 3,106 yards while tossing 24 touchdowns to nine interceptions. The Las Vegas native was never a dual threat in high school, but still showed an ability to escape pressure and use his legs, as represented by the 614 yards and six touchdowns he rushed for over his last two seasons at Bishop Gorman. Improvement in the passing should largely be expected given his pedigree, but can Alejado add another dynamic to his game on the ground with a healthy ankle this season?
+Alejado produced an incredible 2025 despite a nagging ankle injury suffered in the opener against Stanford, which eventually cost him starts against Sam Houston State and Portland State. He still completed 66% for 3,106 yards with 24 touchdowns to nine interceptions. The guide adds a developmental angle: the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs, having rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. It expects passing improvement given his pedigree while posing the real question — whether a healthy ankle lets him add a running dimension. *(p. 247)*
 
 ### Does the steady improvement for the defense continue?
 
-When Chang took the job in 2022, the Rainbow Warriors had just two starters back on defense and went on to allow 34.7 points per game and 6.6 yards per play. In every season since, Hawaii has allowed fewer points and yards per game, improved in yards per play each season and has seen the sack total climb from just 17 in 2022 to 30 last season. Only three starters are back for Chang in 2026, but Dennis Thurman is back for a second season at defensive coordinator, and the top three players in tackles for loss — along with leading sack-getter Elijah Palmer — are all on the roster. Hawaii does not need to be a shutdown unit by any stretch, so if they can improve or even maintain the production from last season, this unit should be a strength.
+The guide traces the trajectory from Chang's 2022 arrival, when Hawaii had two returning starters and allowed 34.7 points and 6.6 yards per play. Every season since it has allowed fewer points and yards per game, improved yards per play, and raised sacks from 17 in 2022 to 30 last season. Only three starters return, but Dennis Thurman is back for a second year as coordinator and the top three players in tackles for loss plus sack leader Elijah Palmer remain. Its standard is deliberately modest: Hawaii does not need a shutdown unit, so maintaining or slightly improving on last season should make this a strength. *(p. 247)*
 
-### Can the ‘Bows break through?
+### Can the 'Bows break through?
 
-Hawaii has achieved a winning record in Mountain West play just three times since joining the conference in 2012, one of which occurred last season. Coming off a nine-win season, the goal for Chang and the Rainbow Warriors is a Mountain West Championship. The betting market believes this team is on the fringe of contention — it is the fourth option to win the conference at DraftKings (+450). Hawaii also gets the benefit of hosting all three teams — UNLV, NDSU and New Mexico — that are ahead of it in the betting market. Chang has improved his record every season at the helm. The trend would tell you that the ‘Bows are on the brink of something big.
+Hawaii has managed a winning Mountain West record just three times since joining in 2012, one being last season. Coming off nine wins the goal is a conference championship, and the guide reports the market has them on the fringe of contention as the fourth choice at DraftKings at +450. It highlights the structural advantage — Hawaii hosts all three teams ahead of it in the market, UNLV, North Dakota State and New Mexico — and closes on the trend, noting Chang has improved his record every season, suggesting the programme is on the brink of something big. *(p. 247)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 2.4–9.6 overall, 1.7–6.3 in conference |
 | **Schedule strength** | 36.6 (#79 toughest of 138) |
 
-### Season outlook as written in the guide (p. 254)
+### Season outlook — VSiN's analysis in reference form (p. 254)
 
-Chaos is the word that best describes the offseason Northern Illinois went through. In February, their head coach — Thomas Hammock — departed for a job in the NFL with the Seattle Seahawks. Rob Harley was named the interim head coach in his stead. The roster turnover was immense, especially on defense. The chaos continued into July, but in a positive sense when Taron Dickens suddenly became available in the transfer portal. Still, Harley has his hands full. The defense is building from the ground up, he seems to be a lame-duck coach and the team is transitioning to a new conference. Perhaps the Huskies can shock the Mountain West like they shocked Notre Dame two years ago, but there is a lot working against one of the conference’s new additions. Under 3.5 Data and statistics are always the best way to evaluate and project teams in sports, but sometimes vibes do matter. The vibes for Northern Illinois heading into the 2026 season aren’t great, and then there is the data. No returning starters on defense, a new offense and quarterback for the offense and a new conference. None of that adds up to a positive outlook. The schedule for the Huskies is insanely difficult as well. In non-conference, they will have road games at Iowa, Arizona and Georgia State. They avoid New Mexico in conference play, but they go to Wyoming, UNLV (off a bye week) and North Dakota State. Hawaii and Air Force make the trip to DeKalb as well. All of this likely equates to an ugly season for a team experiencing a hectic offseason.
+- The guide's summary word is chaos. Head coach Thomas Hammock left in February for an NFL job with the Seahawks and Rob Harley was named interim. *(p. 254)*
+- Roster turnover was immense, especially on defense. *(p. 254)*
+- The chaos continued into July but positively, when Taron Dickens suddenly became available in the portal. *(p. 254)*
+- It lists what Harley still faces: a defense building from the ground up, his own apparent lame-duck status, and a conference transition. *(p. 254)*
+- Recommendation is Under 3.5 wins. The guide is unusually explicit about method here, saying data is always the best way to project but sometimes vibes matter — and the vibes are not great. *(p. 254)*
+- Then the data: no returning starters on defense, a new offense and quarterback, and a new conference, none of which adds up to a positive outlook. *(p. 254)*
+- The schedule is called insanely difficult — non-conference road games at Iowa, Arizona and Georgia State; conference trips to Wyoming, UNLV coming off a bye, and North Dakota State; with Hawaii and Air Force visiting DeKalb. New Mexico is avoided. *(p. 254)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,11 +88,9 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- In February, their head coach — Thomas Hammock — departed for a job in the NFL with the Seattle Seahawks. *(p. 254)*
-- Rob Harley was named the interim head coach in his stead. *(p. 254)*
-- The defense is building from the ground up, he seems to be a lame-duck coach and the team is transitioning to a new conference. *(p. 254)*
-- Harley is leading this team in 2026, but it is important to note he is just the interim head coach. *(p. 255)*
-- Hammock caught the program by surprise when he left his alma mater for a job as the highest-paid running back coach in the NFL with the Seahawks in late February. *(p. 255)*
+- The guide's summary word is chaos. Head coach Thomas Hammock left in February for an NFL job with the Seahawks and Rob Harley was named interim. *(p. 254)*
+- It lists what Harley still faces: a defense building from the ground up, his own apparent lame-duck status, and a conference transition. *(p. 254)*
+- **Is Harley set up for failure?** The guide stresses Harley is only interim. Hammock surprised his alma mater by leaving in late February to become the NFL's highest-paid running backs coach with Seattle, and the athletic department promoted Harley for continuity despite him being in only his second season with the programme. With a completely new roster and a conference transition, it reads the situation as Harley being in place to take the lumps before ultimately being replaced, and asks how that manifests for a team projected to win three or four games — concluding this could get ugly quickly. *(p. 255)*
 
 ## 9. Quarterback Situation
 
@@ -92,10 +98,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 254)*.
 
-- No returning starters on defense, a new offense and quarterback for the offense and a new conference. *(p. 254)*
-- Two weeks prior to starting work on this guide, the quarterback position looked bleak for NIU. *(p. 255)*
-- However, one-time UNC commit and former Western Carolina quarterback Taron Dickens was released by the Tar Heels due to academic issues in mid-July, and the Huskies struck. *(p. 255)*
-- He also set an NCAA record for consecutive completions in a single game when he completed 46 straight passes against Wofford. *(p. 255)*
+- The chaos continued into July but positively, when Taron Dickens suddenly became available in the portal. *(p. 254)*
+- **Is Taron Dickens the answer NIU needed at quarterback?** The guide describes how bleak the position looked two weeks before the guide was written: Brady Davidson and Jalen Macon were the only returners, having combined to complete under 50% of their passes for four touchdowns and three interceptions. Then Taron Dickens, a one-time North Carolina commit and former Western Carolina quarterback, was released by the Tar Heels over academic issues in mid-July and Northern Illinois moved. He appeared in 18 games at Western Carolina, completing 271 of 365 for 3,508 yards with 38 touchdowns to two interceptions plus 97 carries for 321 yards, and set an NCAA record with 46 consecutive completions in a game against Wofford. It calls his arrival a huge win. *(p. 255)*
 
 ## 10. Returning Production
 
@@ -111,12 +115,12 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 11. Transfer Portal
 
-- The chaos continued into July, but in a positive sense when Taron Dickens suddenly became available in the transfer portal. *(p. 254)*
-- In order to offset the losses, Harley brought in quite a few bodies, but none come from the Power Four level, and most are FCS or even JUCO transfers. *(p. 255)*
+- Roster turnover was immense, especially on defense. *(p. 254)*
+- The chaos continued into July but positively, when Taron Dickens suddenly became available in the portal. *(p. 254)*
+- **Is Taron Dickens the answer NIU needed at quarterback?** The guide describes how bleak the position looked two weeks before the guide was written: Brady Davidson and Jalen Macon were the only returners, having combined to complete under 50% of their passes for four touchdowns and three interceptions. Then Taron Dickens, a one-time North Carolina commit and former Western Carolina quarterback, was released by the Tar Heels over academic issues in mid-July and Northern Illinois moved. He appeared in 18 games at Western Carolina, completing 271 of 365 for 3,508 yards with 38 touchdowns to two interceptions plus 97 carries for 321 yards, and set an NCAA record with 46 consecutive completions in a game against Wofford. It calls his arrival a huge win. *(p. 255)*
+- **What are the expectations for this defense?** Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Cincinnati appears to have a better situation in the secondary, where they have a few big-time MAC contributors transferring in — they raided Northern Illinois for defensive backs Jacob Finley and Jasper Beeler, and they also got MLB Filip Maciorowski from the Huskies. *(p. 125)*
+Referenced in the guide on **pp. 125** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -124,22 +128,16 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- No returning starters on defense, a new offense and quarterback for the offense and a new conference. *(p. 254)*
-- The Mountain West will not be confused for the SEC, but there are some very good offenses in this conference. *(p. 255)*
+- Then the data: no returning starters on defense, a new offense and quarterback, and a new conference, none of which adds up to a positive outlook. *(p. 254)*
 
 ## 14. Defensive Identity
 
-- The roster turnover was immense, especially on defense. *(p. 254)*
-- The defense is building from the ground up, he seems to be a lame-duck coach and the team is transitioning to a new conference. *(p. 254)*
-- No returning starters on defense, a new offense and quarterback for the offense and a new conference. *(p. 254)*
-- The top 14 tacklers from 2025 are all gone. *(p. 255)*
-- The leading returnee in that category is defensive end Jay’Shon Thomas with 21 tackles and two sacks. *(p. 255)*
-- Can Harley do his best work and rebuild this unit while the plane is in the air, or will this turn out to be one of the worst defenses in the country? *(p. 255)*
+- Roster turnover was immense, especially on defense. *(p. 254)*
+- It lists what Harley still faces: a defense building from the ground up, his own apparent lame-duck status, and a conference transition. *(p. 254)*
+- Then the data: no returning starters on defense, a new offense and quarterback, and a new conference, none of which adds up to a positive outlook. *(p. 254)*
+- **What are the expectations for this defense?** Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Phil Steele guide shows NIU with exactly zero players with starting experience on the roster for the defense this season. *(p. 26)*
-- Cincinnati appears to have a better situation in the secondary, where they have a few big-time MAC contributors transferring in — they raided Northern Illinois for defensive backs Jacob Finley and Jasper Beeler, and they also got MLB Filip Maciorowski from the Huskies. *(p. 125)*
+Referenced in the guide on **pp. 26, 125** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -194,7 +192,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- The schedule is called insanely difficult — non-conference road games at Iowa, Arizona and Georgia State; conference trips to Wyoming, UNLV coming off a bye, and North Dakota State; with Hawaii and Air Force visiting DeKalb. New Mexico is avoided. *(p. 254)*
 
 ## 19. Win Total Discussion
 
@@ -217,18 +215,14 @@ Prices printed on the team page *(p. 255)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 3.5 wins. The guide is unusually explicit about method here, saying data is always the best way to project but sometimes vibes matter — and the vibes are not great. *(p. 254)*
+- Then the data: no returning starters on defense, a new offense and quarterback, and a new conference, none of which adds up to a positive outlook. *(p. 254)*
+- **Is Harley set up for failure?** The guide stresses Harley is only interim. Hammock surprised his alma mater by leaving in late February to become the NFL's highest-paid running backs coach with Seattle, and the athletic department promoted Harley for continuity despite him being in only his second season with the programme. With a completely new roster and a conference transition, it reads the situation as Harley being in place to take the lumps before ultimately being replaced, and asks how that manifests for a team projected to win three or four games — concluding this could get ugly quickly. *(p. 255)*
 
 ## 22. Historical / Situational Trends
 
-- Harley ran this unit last season, so there is some familiarity with the pieces, but this unit is being overhauled in a big way. *(p. 255)*
-- Harley is leading this team in 2026, but it is important to note he is just the interim head coach. *(p. 255)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- This season, I expect to have some deviations on a week-to-week basis in conference play, since we have Sacramento State in the MAC, Northern Illinois in the Mountain West, and Texas State in the Pac-12, just as some examples of conference realignment and how those teams will be visiting new venues, playing at elevation, or having long travel with some odd kickoff times. *(p. 21)*
-- NORTHERN ILLINOIS – UNDER 3.5 WINS Talk about a challenging set of circumstances facing Rob Harley in 2026 for Northern Illinois. *(p. 26)*
-- WMU (+360) is co-favored to run it back and their company is Miami, so we could be looking at our first MAC Championship Game rematch since Northern Illinois and Bowling Green played three straight title games from 2013-15. *(p. 215)*
+Referenced in the guide on **pp. 21, 26, 215, 255** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -273,12 +267,8 @@ As printed on p. 255. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Chaos is the word that best describes the offseason Northern Illinois went through. *(p. 254)*
-- Under 3.5 Data and statistics are always the best way to evaluate and project teams in sports, but sometimes vibes do matter. *(p. 254)*
-- The Mountain West will not be confused for the SEC, but there are some very good offenses in this conference. *(p. 255)*
-- Can Harley do his best work and rebuild this unit while the plane is in the air, or will this turn out to be one of the worst defenses in the country? *(p. 255)*
-- I don’t know exactly what the most optimistic NIU fans are hoping for this fall, but it’s probably too much. *(p. 26)*
-- Interestingly, Northern Illinois makes a jump in conference strength by moving from the MAC to the Mountain West. *(p. 46)*
+- Recommendation is Under 3.5 wins. The guide is unusually explicit about method here, saying data is always the best way to project but sometimes vibes matter — and the vibes are not great. *(p. 254)*
+- Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -286,27 +276,28 @@ As printed on p. 255. Each category carries a value and a national rank.
 
 - Makinen projects **2.4 wins** against a posted total of 3.5 — **-1.1** against this team.
 - The team page recommends **UNDER 3.5**.
-- The schedule for the Huskies is insanely difficult as well. *(p. 254)*
-- In order to offset the losses, Harley brought in quite a few bodies, but none come from the Power Four level, and most are FCS or even JUCO transfers. *(p. 255)*
+- The schedule is called insanely difficult — non-conference road games at Iowa, Arizona and Georgia State; conference trips to Wyoming, UNLV coming off a bye, and North Dakota State; with Hawaii and Air Force visiting DeKalb. New Mexico is avoided. *(p. 254)*
+- Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 255)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 255)*. Its analysis, in reference form:
 
 ### Is Taron Dickens the answer NIU needed at quarterback?
 
-Two weeks prior to starting work on this guide, the quarterback position looked bleak for NIU. Brady Davidson and Jalen Macon were the only returners for the program. The two had combined to complete fewer than 50% of their passes for four touchdowns and three interceptions, and they were set to duke it out for the job. However, one-time UNC commit and former Western Carolina quarterback Taron Dickens was released by the Tar Heels due to academic issues in mid-July, and the Huskies struck. Dickens appeared in 18 games at Western Carolina. He completed 271 of 365 passes for 3,508 yards with 38 touchdowns to two interceptions while adding 97 rushes for 321 yards and a score. He also set an NCAA record for consecutive completions in a single game when he completed 46 straight passes against Wofford. His arrival is a huge win for the program.
+The guide describes how bleak the position looked two weeks before the guide was written: Brady Davidson and Jalen Macon were the only returners, having combined to complete under 50% of their passes for four touchdowns and three interceptions. Then Taron Dickens, a one-time North Carolina commit and former Western Carolina quarterback, was released by the Tar Heels over academic issues in mid-July and Northern Illinois moved. He appeared in 18 games at Western Carolina, completing 271 of 365 for 3,508 yards with 38 touchdowns to two interceptions plus 97 carries for 321 yards, and set an NCAA record with 46 consecutive completions in a game against Wofford. It calls his arrival a huge win. *(p. 255)*
 
 ### What are the expectations for this defense?
 
-Harley ran this unit last season, so there is some familiarity with the pieces, but this unit is being overhauled in a big way. The top 14 tacklers from 2025 are all gone. The leading returnee in that category is defensive end Jay’Shon Thomas with 21 tackles and two sacks. In order to offset the losses, Harley brought in quite a few bodies, but none come from the Power Four level, and most are FCS or even JUCO transfers. The Mountain West will not be confused for the SEC, but there are some very good offenses in this conference. Can Harley do his best work and rebuild this unit while the plane is in the air, or will this turn out to be one of the worst defenses in the country?
+Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
 
 ### Is Harley set up for failure?
 
-Harley is leading this team in 2026, but it is important to note he is just the interim head coach. Hammock caught the program by surprise when he left his alma mater for a job as the highest-paid running back coach in the NFL with the Seahawks in late February. For the sake of continuity, the athletic department promoted Harley, but he is in just his second season with the program. The roster is completely new, and the program is making the transition into a new conference. It seems Harley is in place to take the lumps before ultimately being replaced. How does that manifest for a team projected to win three or four games this season? This could get ugly quickly in DeKalb.
+The guide stresses Harley is only interim. Hammock surprised his alma mater by leaving in late February to become the NFL's highest-paid running backs coach with Seattle, and the athletic department promoted Harley for continuity despite him being in only his second season with the programme. With a completely new roster and a conference transition, it reads the situation as Harley being in place to take the lumps before ultimately being replaced, and asks how that manifests for a team projected to win three or four games — concluding this could get ugly quickly. *(p. 255)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

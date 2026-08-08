@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 8.4–3.6 overall, 5.7–2.3 in conference |
 | **Schedule strength** | 32.64 (#103 toughest of 138) |
 
-### Season outlook as written in the guide (p. 250)
+### Season outlook — VSiN's analysis in reference form (p. 250)
 
-Head coach Jason Eck and the Lobos took the Mountain West by storm last season with a 9-4 record and six wins in conference play. Now, New Mexico is the favorite with one of the most experienced rosters in the country. Twelve starters are back from last year’s squad, and among them are quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. It’s easy to see why the Lobos are considered the favorite by some to win the conference. However, there is a big difference between being the upstart ‘dog and the hunted favorite. How will New Mexico deal with this massive role change? Under 8.5 The win total is a tough play considering the juice on Over 7.5 and Under 8.5 wins, but if one were more likely than the other, it would be Under 8.5 victories. New Mexico did not fare well as a favorite last season, and now it faces a reality in which it will be the favorite in most of its conference games. Perhaps some improvement could mean the team handles that role much better, but with the continuity on the roster, the flaws remain the same as well. The team’s schedule presents some big challenges as well. Road trips for the Lobos include Oklahoma, Hawaii and Wyoming. They must host both UNLV and North Dakota State, as well as Air Force. Can they get the coin to flip heads consistently in those coin-flip type spots in conference play? That seems unlikely. New Mexico is a good team, but most of its damage dealt last season was as an underdog. This team as a favorite seems to be overvalued.
+- Jason Eck's Lobos took the Mountain West by storm at 9-4 with six conference wins, and New Mexico is now the favorite with one of the country's most experienced rosters. *(p. 250)*
+- Twelve starters return including quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. *(p. 250)*
+- The guide then poses its central question: there is a big difference between being the upstart underdog and the hunted favorite, and it asks how New Mexico handles that role change. *(p. 250)*
+- Recommendation is Under 8.5 wins, with the guide openly noting the juice on Over 7.5 and Under 8.5 makes this a tough play, while judging the Under likelier. *(p. 250)*
+- Its core evidence is that New Mexico did not fare well as a favorite last season and will now be favored in most conference games. It allows improvement could change that, while noting roster continuity means the same flaws persist. *(p. 250)*
+- Schedule challenges: road trips to Oklahoma, Hawaii and Wyoming, plus home games against UNLV, North Dakota State and Air Force. *(p. 250)*
+- It frames the conclusion as a coin-flip question — whether New Mexico can keep winning those spots — and answers that it seems unlikely, calling this a good team whose damage last season came as an underdog and which now looks overvalued as a favorite. *(p. 250)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,11 +86,9 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Head coach Jason Eck and the Lobos took the Mountain West by storm last season with a 9-4 record and six wins in conference play. *(p. 250)*
+- Jason Eck's Lobos took the Mountain West by storm at 9-4 with six conference wins, and New Mexico is now the favorite with one of the country's most experienced rosters. *(p. 250)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Eck led the Lobos to nine wins in 2025, the most by a New Mexico head coach in his first year in program history. *(p. 9)*
+Also referenced on **pp. 9** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -90,9 +96,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 250)*.
 
-- Twelve starters are back from last year’s squad, and among them are quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. *(p. 250)*
-- Layne is back after leading the Lobos to nine wins and a bowl berth, but despite his success, he might not be a lock to be the starting quarterback. *(p. 251)*
-- Layne threw for 2,486 yards with just 13 touchdowns to 10 interceptions. *(p. 251)*
+- Twelve starters return including quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. *(p. 250)*
+- **Is the quarterback position actually settled?** Layne returns after leading New Mexico to nine wins and a bowl, but the guide argues he may not be a lock. He missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and was not dominant: 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt, which it characterizes as good rather than great. Behind him is Oregon transfer Luke Moga, a former three-star who reportedly made the most of Layne's absence and dazzled the media in Albuquerque, a strong athlete with enough upside for Oregon to have recruited him. Its conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. *(p. 251)*
 
 ## 10. Returning Production
 
@@ -108,31 +113,24 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Behind Layne is Oregon transfer Luke Moga. *(p. 251)*
+- **Is the quarterback position actually settled?** Layne returns after leading New Mexico to nine wins and a bowl, but the guide argues he may not be a lock. He missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and was not dominant: 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt, which it characterizes as good rather than great. Behind him is Oregon transfer Luke Moga, a former three-star who reportedly made the most of Layne's absence and dazzled the media in Albuquerque, a strong athlete with enough upside for Oregon to have recruited him. Its conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. *(p. 251)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Programs at the top of the Mountain West — UNLV and New Mexico — retooled with transfer talent from all over the country. *(p. 15)*
+Referenced in the guide on **pp. 15** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- A former three-star recruit, Moga reportedly made the most of Layne’s absence in spring and “dazzled” the media in Albuquerque. *(p. 251)*
-- Moga is a strong athlete with enough upside to convince Oregon to recruit him at one point. *(p. 251)*
+
+Referenced in the guide on **pp. 251** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Their returning production is a strength on offense, but is it on defense? *(p. 251)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Beck’s power spread took New Mexico’s offense from 44th to fourth nationally in 2024 and made even more progress last year at Utah going from 115th to fourth. *(p. 159)*
+Referenced in the guide on **pp. 159, 251** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Twelve starters are back from last year’s squad, and among them are quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. *(p. 250)*
-- Their returning production is a strength on offense, but is it on defense? *(p. 251)*
-- Linebacker is the position of strength for this group with the Mountain West Defensive Player of the Year back in the fold, but the team lost a good amount of production along the defensive line. *(p. 251)*
-- It wouldn’t be surprising to see this group allow more than the 3.4 yards per carry it limited opponents to in 2025, and bettors might want to expect a dip in sack production after the Lobos racked up 36 last season. *(p. 251)*
+- Twelve starters return including quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. *(p. 250)*
+- **Will this defense be any better?** Six starters return, and the guide asks whether returning production is as much a strength here as on offense. It uses percentile detail to show a split unit: New Mexico was strong at limiting big plays in the 67th percentile for explosive play rate allowed, but sat in the 19th percentile in non-explosive EPA per play and the 36th in late-down success rate. Linebacker is the strength with the Defensive Player of the Year back, but the defensive line lost considerable production. It expects opponents may exceed the 3.4 yards per carry allowed in 2025, and tells bettors to anticipate a dip from 36 sacks. *(p. 251)*
 
 ## 15. Key Strengths
 
@@ -211,45 +209,22 @@ Prices printed on the team page *(p. 251)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Now, New Mexico is the favorite with one of the most experienced rosters in the country. *(p. 250)*
-- It’s easy to see why the Lobos are considered the favorite by some to win the conference. *(p. 250)*
-- However, there is a big difference between being the upstart ‘dog and the hunted favorite. *(p. 250)*
-- New Mexico did not fare well as a favorite last season, and now it faces a reality in which it will be the favorite in most of its conference games. *(p. 250)*
-- New Mexico is a good team, but most of its damage dealt last season was as an underdog. *(p. 250)*
-- This team as a favorite seems to be overvalued. *(p. 250)*
-- The team closed as an underdog in seven of its games, but in the six games it was favored in, New Mexico went 3-3 SU and 1-5 ATS. *(p. 251)*
-- This season, the team is either the outright favorite to win the Mountain West or tied on the oddsboard with UNLV. *(p. 251)*
-- There is no question that the market will — as it stands in the offseason — make this team a favorite in the majority of its contests. *(p. 251)*
-- It’s a nice story when you’re the underdog, but meeting market expectations is a whole new task when you’re the hunted at the top of the pack. *(p. 251)*
+- The guide then poses its central question: there is a big difference between being the upstart underdog and the hunted favorite, and it asks how New Mexico handles that role change. *(p. 250)*
+- Recommendation is Under 8.5 wins, with the guide openly noting the juice on Over 7.5 and Under 8.5 makes this a tough play, while judging the Under likelier. *(p. 250)*
+- Its core evidence is that New Mexico did not fare well as a favorite last season and will now be favored in most conference games. It allows improvement could change that, while noting roster continuity means the same flaws persist. *(p. 250)*
+- It frames the conclusion as a coin-flip question — whether New Mexico can keep winning those spots — and answers that it seems unlikely, calling this a good team whose damage last season came as an underdog and which now looks overvalued as a favorite. *(p. 250)*
+- **Will this defense be any better?** Six starters return, and the guide asks whether returning production is as much a strength here as on offense. It uses percentile detail to show a split unit: New Mexico was strong at limiting big plays in the 67th percentile for explosive play rate allowed, but sat in the 19th percentile in non-explosive EPA per play and the 36th in late-down success rate. Linebacker is the strength with the Defensive Player of the Year back, but the defensive line lost considerable production. It expects opponents may exceed the 3.4 yards per carry allowed in 2025, and tells bettors to anticipate a dip from 36 sacks. *(p. 251)*
+- **How does the team fare with expectations?** The guide supplies the decisive split: New Mexico closed as an underdog in seven games, but in the six where it was favored it went 3-3 straight up and just 1-5 against the spread. This season it is either outright Mountain West favorite or tied with UNLV, and the market will make it a favorite in most contests. Its closing thought is a general principle applied to this team — being the underdog makes a nice story, but meeting market expectations as the hunted is a different task. *(p. 251)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With the meteoric rise New Mexico made last year, the Runnin’ Rebels’ Mountain West consistency in recent years makes them the favorite in the MWC this season. *(p. 6)*
-- And in the newly reshaped Mountain West, the Lobos have both UNLV (the favorites) and NDSU (the third-best price) at home, where New Mexico was a perfect 6-0 in 2025. *(p. 9)*
-- NEW MEXICO TO MAKE COLLEGE FOOTBALL PLAYOFF (20-1) This is a perceived value play for me more than anything else based on the current state of the Group of Six. *(p. 14)*
-- In my opinion, with the meteoric rise New Mexico made last year, the Runnin’ Rebels’ Mountain West consistency in recent years makes them the favorite in the league. *(p. 24)*
-- UNLV and New Mexico are either tied as favorites or have slight variance in their prices to win it all, depending on the shop. *(p. 243)*
-- Hawaii also gets the benefit of hosting all three teams — UNLV, NDSU and New Mexico — that are ahead of it in the betting market. *(p. 247)*
+Also referenced on **pp. 6, 9, 14, 24, 243, 247** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Head coach Jason Eck and the Lobos took the Mountain West by storm last season with a 9-4 record and six wins in conference play. *(p. 250)*
-- Twelve starters are back from last year’s squad, and among them are quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. *(p. 250)*
-- New Mexico did not fare well as a favorite last season, and now it faces a reality in which it will be the favorite in most of its conference games. *(p. 250)*
-- New Mexico is a good team, but most of its damage dealt last season was as an underdog. *(p. 250)*
-- He also was not overtly dominant last season. *(p. 251)*
-- The Lobos return six starters from last season’s unit. *(p. 251)*
-- It wouldn’t be surprising to see this group allow more than the 3.4 yards per carry it limited opponents to in 2025, and bettors might want to expect a dip in sack production after the Lobos racked up 36 last season. *(p. 251)*
-- New Mexico was a surprise in 2025. *(p. 251)*
+- Jason Eck's Lobos took the Mountain West by storm at 9-4 with six conference wins, and New Mexico is now the favorite with one of the country's most experienced rosters. *(p. 250)*
+- Its core evidence is that New Mexico did not fare well as a favorite last season and will now be favored in most conference games. It allows improvement could change that, while noting roster continuity means the same flaws persist. *(p. 250)*
+- **How does the team fare with expectations?** The guide supplies the decisive split: New Mexico closed as an underdog in seven games, but in the six where it was favored it went 3-3 straight up and just 1-5 against the spread. This season it is either outright Mountain West favorite or tied with UNLV, and the market will make it a favorite in most contests. Its closing thought is a general principle applied to this team — being the underdog makes a nice story, but meeting market expectations as the hunted is a different task. *(p. 251)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With the meteoric rise New Mexico made last year, the Runnin’ Rebels’ Mountain West consistency in recent years makes them the favorite in the MWC this season. *(p. 6)*
-- Eck led the Lobos to nine wins in 2025, the most by a New Mexico head coach in his first year in program history. *(p. 9)*
-- And in the newly reshaped Mountain West, the Lobos have both UNLV (the favorites) and NDSU (the third-best price) at home, where New Mexico was a perfect 6-0 in 2025. *(p. 9)*
-- In my opinion, with the meteoric rise New Mexico made last year, the Runnin’ Rebels’ Mountain West consistency in recent years makes them the favorite in the league. *(p. 24)*
-- Beck’s power spread took New Mexico’s offense from 44th to fourth nationally in 2024 and made even more progress last year at Utah going from 115th to fourth. *(p. 159)*
-- He went 36-38 in six seasons at Virginia, 5-7 in one year at New Mexico and 6-7 last year with the Aggies. *(p. 278)*
+Referenced in the guide on **pp. 6, 9, 24, 159, 278** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -295,46 +270,43 @@ As printed on p. 251. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **8.4 wins** against a posted total of 7.5 — **+0.9** in this team's favour.
-- Now, New Mexico is the favorite with one of the most experienced rosters in the country. *(p. 250)*
-- Perhaps some improvement could mean the team handles that role much better, but with the continuity on the roster, the flaws remain the same as well. *(p. 250)*
-- New Mexico is a good team, but most of its damage dealt last season was as an underdog. *(p. 250)*
-- Layne is back after leading the Lobos to nine wins and a bowl berth, but despite his success, he might not be a lock to be the starting quarterback. *(p. 251)*
-- Moga is a strong athlete with enough upside to convince Oregon to recruit him at one point. *(p. 251)*
-- The Lobos return six starters from last season’s unit. *(p. 251)*
-- Their returning production is a strength on offense, but is it on defense? *(p. 251)*
-- New Mexico was very strong in limiting big plays, finishing in the 67th percentile in explosive play rate allowed. *(p. 251)*
-- However, it was in the 19th percentile in non-explosive EPA per play and the 36th percentile in late-down success rate. *(p. 251)*
-- Linebacker is the position of strength for this group with the Mountain West Defensive Player of the Year back in the fold, but the team lost a good amount of production along the defensive line. *(p. 251)*
+- Jason Eck's Lobos took the Mountain West by storm at 9-4 with six conference wins, and New Mexico is now the favorite with one of the country's most experienced rosters. *(p. 250)*
+- Twelve starters return including quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. *(p. 250)*
+- Its core evidence is that New Mexico did not fare well as a favorite last season and will now be favored in most conference games. It allows improvement could change that, while noting roster continuity means the same flaws persist. *(p. 250)*
+- It frames the conclusion as a coin-flip question — whether New Mexico can keep winning those spots — and answers that it seems unlikely, calling this a good team whose damage last season came as an underdog and which now looks overvalued as a favorite. *(p. 250)*
+- Layne returns after leading New Mexico to nine wins and a bowl, but the guide argues he may not be a lock. He missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and was not dominant: 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt, which it characterizes as good rather than great. Behind him is Oregon transfer Luke Moga, a former three-star who reportedly made the most of Layne's absence and dazzled the media in Albuquerque, a strong athlete with enough upside for Oregon to have recruited him. Its conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. *(p. 251)*
+- Six starters return, and the guide asks whether returning production is as much a strength here as on offense. It uses percentile detail to show a split unit: New Mexico was strong at limiting big plays in the 67th percentile for explosive play rate allowed, but sat in the 19th percentile in non-explosive EPA per play and the 36th in late-down success rate. Linebacker is the strength with the Defensive Player of the Year back, but the defensive line lost considerable production. It expects opponents may exceed the 3.4 yards per carry allowed in 2025, and tells bettors to anticipate a dip from 36 sacks. *(p. 251)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- Under 8.5 The win total is a tough play considering the juice on Over 7.5 and Under 8.5 wins, but if one were more likely than the other, it would be Under 8.5 victories. *(p. 250)*
-- Layne missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow. *(p. 251)*
-- Should Layne not be healthy, or even struggle early, this could be Moga’s job before the season’s end. *(p. 251)*
-- Linebacker is the position of strength for this group with the Mountain West Defensive Player of the Year back in the fold, but the team lost a good amount of production along the defensive line. *(p. 251)*
-- There is no question that the market will — as it stands in the offseason — make this team a favorite in the majority of its contests. *(p. 251)*
+- The guide then poses its central question: there is a big difference between being the upstart underdog and the hunted favorite, and it asks how New Mexico handles that role change. *(p. 250)*
+- Recommendation is Under 8.5 wins, with the guide openly noting the juice on Over 7.5 and Under 8.5 makes this a tough play, while judging the Under likelier. *(p. 250)*
+- It frames the conclusion as a coin-flip question — whether New Mexico can keep winning those spots — and answers that it seems unlikely, calling this a good team whose damage last season came as an underdog and which now looks overvalued as a favorite. *(p. 250)*
+- Layne returns after leading New Mexico to nine wins and a bowl, but the guide argues he may not be a lock. He missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and was not dominant: 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt, which it characterizes as good rather than great. Behind him is Oregon transfer Luke Moga, a former three-star who reportedly made the most of Layne's absence and dazzled the media in Albuquerque, a strong athlete with enough upside for Oregon to have recruited him. Its conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. *(p. 251)*
+- Six starters return, and the guide asks whether returning production is as much a strength here as on offense. It uses percentile detail to show a split unit: New Mexico was strong at limiting big plays in the 67th percentile for explosive play rate allowed, but sat in the 19th percentile in non-explosive EPA per play and the 36th in late-down success rate. Linebacker is the strength with the Defensive Player of the Year back, but the defensive line lost considerable production. It expects opponents may exceed the 3.4 yards per carry allowed in 2025, and tells bettors to anticipate a dip from 36 sacks. *(p. 251)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 251)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 251)*. Its analysis, in reference form:
 
 ### Is the quarterback position actually settled?
 
-Layne is back after leading the Lobos to nine wins and a bowl berth, but despite his success, he might not be a lock to be the starting quarterback. Layne missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow. He also was not overtly dominant last season. Layne threw for 2,486 yards with just 13 touchdowns to 10 interceptions. He averaged only 7.6 yards per attempt. Good, not great numbers. Behind Layne is Oregon transfer Luke Moga. A former three-star recruit, Moga reportedly made the most of Layne’s absence in spring and “dazzled” the media in Albuquerque. Moga is a strong athlete with enough upside to convince Oregon to recruit him at one point. Should Layne not be healthy, or even struggle early, this could be Moga’s job before the season’s end.
+Layne returns after leading New Mexico to nine wins and a bowl, but the guide argues he may not be a lock. He missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and was not dominant: 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt, which it characterizes as good rather than great. Behind him is Oregon transfer Luke Moga, a former three-star who reportedly made the most of Layne's absence and dazzled the media in Albuquerque, a strong athlete with enough upside for Oregon to have recruited him. Its conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. *(p. 251)*
 
 ### Will this defense be any better?
 
-The Lobos return six starters from last season’s unit. Their returning production is a strength on offense, but is it on defense? New Mexico was very strong in limiting big plays, finishing in the 67th percentile in explosive play rate allowed. However, it was in the 19th percentile in non-explosive EPA per play and the 36th percentile in late-down success rate. Linebacker is the position of strength for this group with the Mountain West Defensive Player of the Year back in the fold, but the team lost a good amount of production along the defensive line. It wouldn’t be surprising to see this group allow more than the 3.4 yards per carry it limited opponents to in 2025, and bettors might want to expect a dip in sack production after the Lobos racked up 36 last season.
+Six starters return, and the guide asks whether returning production is as much a strength here as on offense. It uses percentile detail to show a split unit: New Mexico was strong at limiting big plays in the 67th percentile for explosive play rate allowed, but sat in the 19th percentile in non-explosive EPA per play and the 36th in late-down success rate. Linebacker is the strength with the Defensive Player of the Year back, but the defensive line lost considerable production. It expects opponents may exceed the 3.4 yards per carry allowed in 2025, and tells bettors to anticipate a dip from 36 sacks. *(p. 251)*
 
 ### How does the team fare with expectations?
 
-New Mexico was a surprise in 2025. The team closed as an underdog in seven of its games, but in the six games it was favored in, New Mexico went 3-3 SU and 1-5 ATS. This season, the team is either the outright favorite to win the Mountain West or tied on the oddsboard with UNLV. There is no question that the market will — as it stands in the offseason — make this team a favorite in the majority of its contests. It’s a nice story when you’re the underdog, but meeting market expectations is a whole new task when you’re the hunted at the top of the pack.
+The guide supplies the decisive split: New Mexico closed as an underdog in seven games, but in the six where it was favored it went 3-3 straight up and just 1-5 against the spread. This season it is either outright Mountain West favorite or tied with UNLV, and the market will make it a favorite in most contests. Its closing thought is a general principle applied to this team — being the underdog makes a nice story, but meeting market expectations as the hunted is a different task. *(p. 251)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 4.0–8.0 overall, 2.8–5.2 in conference |
 | **Schedule strength** | 35.11 (#87 toughest of 138) |
 
-### Season outlook as written in the guide (p. 248)
+### Season outlook — VSiN's analysis in reference form (p. 248)
 
-Nevada was never a dominant powerhouse in football, but this was a proud program with a track record of success. Ten wins over the last four seasons between two head coaches shows just how tumultuous the time has been in Reno. But, Jeff Choate is a fiery dude who does have a sturdy base with his Wolf Pack roster this season that could lead to some improvements. Nevada is a prime example of a program that lacks the backing in the NIL era to stay relevant. There is more money out there for Nevada, but the results need to be there as well. No one is asking the Wolf Pack to make it to the CFP, but regular bowl appearances should be the norm in northern Nevada. Over 4.5 Quarterback is an obvious question for Nevada, but Duncan showed enough in his starts for Hawaii last season that the expectation should be that he wins the job and serves in the role admirably. If he can provide a steadier hand at the position, then this offense has enough talent to be much more effective. Assuming Choate can get the most out of this defense, this could be a difficult out for Mountain West foes. The Wolf Pack draw some difficult opponents on the schedule. Nevada must go to both North Dakota State and UNLV while also hosting Air Force, New Mexico and Hawaii. But the potential of this defense under Choate, coupled with an offense that has some upside, could equate to an upstart season for the Wolf Pack in 2026.
+- The guide describes Nevada as never a powerhouse but a proud programme with a track record, and quantifies the recent decline: ten wins over four seasons across two head coaches. *(p. 248)*
+- It rates Jeff Choate a fiery coach with a sturdy base that could produce improvement. *(p. 248)*
+- A structural point is made directly: Nevada exemplifies a programme lacking the backing to stay relevant in the NIL era. More money exists, but results must come too. *(p. 248)*
+- Its stated expectation is measured — nobody is asking for the playoff, but regular bowl appearances should be normal in northern Nevada. *(p. 248)*
+- Recommendation is Over 4.5 wins. Quarterback is an obvious question, but the guide judges Luke Duncan showed enough in his Hawaii starts to expect he wins the job and performs admirably. *(p. 248)*
+- With a steadier hand at the position it sees enough offensive talent to be much more effective, and assuming Choate gets the most from the defense, a difficult out for conference opponents. *(p. 248)*
+- The schedule is hard — road games at North Dakota State and UNLV plus home games with Air Force, New Mexico and Hawaii — but the guide concludes the defense's potential under Choate plus offensive upside could produce an upstart season. *(p. 248)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,11 +86,10 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Ten wins over the last four seasons between two head coaches shows just how tumultuous the time has been in Reno. *(p. 248)*
+- It rates Jeff Choate a fiery coach with a sturdy base that could produce improvement. *(p. 248)*
+- **Can Jeff Choate work his magic with this defense?** Given Choate's defensive background the guide says this unit's effectiveness will always be in question, noting steady improvement over two seasons and asking whether this is the year it becomes above average. The pieces are there: defensive lineman Dylan LaBarbera and defensive back Aidan Walker are preseason all-conference selections, and linebacker EJ Smith returns after an early injury ended his season. It grounds the expectation in trend — Nevada has allowed fewer points, fewer yards per game and fewer yards per play in each year under Choate — and would not be surprised to see that continue. *(p. 249)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He played at Michigan, was a grad assistant there, actually coached at Ohio State, and also had stops at Nevada and Tulsa. *(p. 343)*
+Also referenced on **pp. 343** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -90,11 +97,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 248)*.
 
-- Over 4.5 Quarterback is an obvious question for Nevada, but Duncan showed enough in his starts for Hawaii last season that the expectation should be that he wins the job and serves in the role admirably. *(p. 248)*
-- Nevada had one of the least efficient passing-attacks in the country in 2025. *(p. 249)*
-- The Wolf Pack ranked 114th in passing success rate, 133rd in passing EPA per play and ranked in the 34th percentile in explosive pass rate. *(p. 249)*
-- Those anemic numbers are why Nevada has a three-way competition at quarterback despite Carter Jones returning. *(p. 249)*
-- If the passing game finds its way back toward average, it could mean wonders for the Nevada rush offense, which has some strong indicators of future success. *(p. 249)*
+- Recommendation is Over 4.5 wins. Quarterback is an obvious question, but the guide judges Luke Duncan showed enough in his Hawaii starts to expect he wins the job and performs admirably. *(p. 248)*
+- **Who emerges among the trio of contenders for the quarterback job?** Nevada had one of the country's least efficient passing attacks: 114th in passing success rate, 133rd in passing EPA per play and in the 34th percentile in explosive pass rate. The guide explains those numbers are why a three-way competition exists despite Carter Jones returning with 1,019 yards, six touchdowns and eight interceptions. He faces UCLA transfer Luke Duncan, who is 6-foot-6 and started on the road at Ohio State, and three-year Reno stalwart AJ Bianco. It expects Duncan to win eventually while recording that Choate insists the race is tight going into camp — and concludes that whoever wins, Nevada needs far more from the position. *(p. 249)*
 
 ## 10. Returning Production
 
@@ -110,28 +114,23 @@ The Stability Score table prints the same figure independently: **5 returning st
 
 ## 11. Transfer Portal
 
-- Nevada is a prime example of a program that lacks the backing in the NIL era to stay relevant. *(p. 248)*
-- Jones (1,019 yards 6 TD 8 INT) will fight UCLA transfer Luke Duncan and program stalwart AJ Bianco for the gig. *(p. 249)*
+- **Who emerges among the trio of contenders for the quarterback job?** Nevada had one of the country's least efficient passing attacks: 114th in passing success rate, 133rd in passing EPA per play and in the 34th percentile in explosive pass rate. The guide explains those numbers are why a three-way competition exists despite Carter Jones returning with 1,019 yards, six touchdowns and eight interceptions. He faces UCLA transfer Luke Duncan, who is 6-foot-6 and started on the road at Ohio State, and three-year Reno stalwart AJ Bianco. It expects Duncan to win eventually while recording that Choate insists the race is tight going into camp — and concludes that whoever wins, Nevada needs far more from the position. *(p. 249)*
+- **Can the running game find its legs once again?** The guide links the phases: if the passing game returns to average it could do wonders for a run game showing strong forward indicators. Leading rusher Caleb Ramseur is gone but Herschel Turner returns after 395 yards at 5.1 per carry, behind a line that looks strong on paper with three starters back including preseason all-conference left tackle Jack Foster and right tackle Zach Cochnauer, a fourth-team all-conference pick. Choate added Jacob Norcross and Ethan Newman Jr from Memphis at center and right guard. Against a baseline of 4.4 yards per carry and 76th in rush success rate, it expects a much improved group. *(p. 249)*
 
 ## 12. Recruiting / Roster Notes
 
-Not addressed in guide.
+- A structural point is made directly: Nevada exemplifies a programme lacking the backing to stay relevant in the NIL era. More money exists, but results must come too. *(p. 248)*
 
 ## 13. Offensive Identity
 
-- If he can provide a steadier hand at the position, then this offense has enough talent to be much more effective. *(p. 248)*
-- But the potential of this defense under Choate, coupled with an offense that has some upside, could equate to an upstart season for the Wolf Pack in 2026. *(p. 248)*
-- If the passing game finds its way back toward average, it could mean wonders for the Nevada rush offense, which has some strong indicators of future success. *(p. 249)*
-- He is behind what seems to be a strong offensive line on paper. *(p. 249)*
-- The Wolf Pack have allowed fewer points and yards per game, as well as yards per play, each year under Choate. *(p. 249)*
+- With a steadier hand at the position it sees enough offensive talent to be much more effective, and assuming Choate gets the most from the defense, a difficult out for conference opponents. *(p. 248)*
+- **Who emerges among the trio of contenders for the quarterback job?** Nevada had one of the country's least efficient passing attacks: 114th in passing success rate, 133rd in passing EPA per play and in the 34th percentile in explosive pass rate. The guide explains those numbers are why a three-way competition exists despite Carter Jones returning with 1,019 yards, six touchdowns and eight interceptions. He faces UCLA transfer Luke Duncan, who is 6-foot-6 and started on the road at Ohio State, and three-year Reno stalwart AJ Bianco. It expects Duncan to win eventually while recording that Choate insists the race is tight going into camp — and concludes that whoever wins, Nevada needs far more from the position. *(p. 249)*
+- **Can the running game find its legs once again?** The guide links the phases: if the passing game returns to average it could do wonders for a run game showing strong forward indicators. Leading rusher Caleb Ramseur is gone but Herschel Turner returns after 395 yards at 5.1 per carry, behind a line that looks strong on paper with three starters back including preseason all-conference left tackle Jack Foster and right tackle Zach Cochnauer, a fourth-team all-conference pick. Choate added Jacob Norcross and Ethan Newman Jr from Memphis at center and right guard. Against a baseline of 4.4 yards per carry and 76th in rush success rate, it expects a much improved group. *(p. 249)*
 
 ## 14. Defensive Identity
 
-- Assuming Choate can get the most out of this defense, this could be a difficult out for Mountain West foes. *(p. 248)*
-- But the potential of this defense under Choate, coupled with an offense that has some upside, could equate to an upstart season for the Wolf Pack in 2026. *(p. 248)*
-- Given Choate’s defensive background, the effectiveness of this unit will always be in question. *(p. 249)*
-- Defensive lineman Dylan LaBarbera and defensive back Aidan Walker were preseason All-Conference selections. *(p. 249)*
-- Linebacker EJ Smith is back after an early injury ended his season as well. *(p. 249)*
+- With a steadier hand at the position it sees enough offensive talent to be much more effective, and assuming Choate gets the most from the defense, a difficult out for conference opponents. *(p. 248)*
+- **Can Jeff Choate work his magic with this defense?** Given Choate's defensive background the guide says this unit's effectiveness will always be in question, noting steady improvement over two seasons and asking whether this is the year it becomes above average. The pieces are there: defensive lineman Dylan LaBarbera and defensive back Aidan Walker are preseason all-conference selections, and linebacker EJ Smith returns after an early injury ended his season. It grounds the expectation in trend — Nevada has allowed fewer points, fewer yards per game and fewer yards per play in each year under Choate — and would not be surprised to see that continue. *(p. 249)*
 
 ## 15. Key Strengths
 
@@ -196,25 +195,17 @@ Prices printed on the team page *(p. 249)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Over 4.5 wins. Quarterback is an obvious question, but the guide judges Luke Duncan showed enough in his Hawaii starts to expect he wins the job and performs admirably. *(p. 248)*
+- The schedule is hard — road games at North Dakota State and UNLV plus home games with Air Force, New Mexico and Hawaii — but the guide concludes the defense's potential under Choate plus offensive upside could produce an upstart season. *(p. 248)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- “I think Indiana is going to keep it going, but pretty much no one is betting Indiana.” Ohio State, Notre Dame and Texas are attracting a majority of the affection as college football futures action heats up in Nevada and across the country. *(p. 38)*
-- The tough part about this bet is that WKU may very well start 0-3, as they open the season a long way from home against Nevada before getting pummeled by Indiana and Georgia. *(p. 206)*
+Also referenced on **pp. 38, 206** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Over 4.5 Quarterback is an obvious question for Nevada, but Duncan showed enough in his starts for Hawaii last season that the expectation should be that he wins the job and serves in the role admirably. *(p. 248)*
-- But the potential of this defense under Choate, coupled with an offense that has some upside, could equate to an upstart season for the Wolf Pack in 2026. *(p. 248)*
-- Nevada had one of the least efficient passing-attacks in the country in 2025. *(p. 249)*
-- Duncan is 6-foot-6 and started on the road against Ohio State last season for UCLA. *(p. 249)*
-- No matter who wins, the Wolf Pack will need much more from the position in 2026. *(p. 249)*
-- Three starters return, including preseason All-Conference left tackle Jack Foster and right tackle Zach Cochnauer, who earned Fourth Team All-Conference honors last season. *(p. 249)*
-- Nevada averaged just 4.4 yards per carry and finished 76th in rush success rate last season. *(p. 249)*
+- The guide describes Nevada as never a powerhouse but a proud programme with a track record, and quantifies the recent decline: ten wins over four seasons across two head coaches. *(p. 248)*
+- Its stated expectation is measured — nobody is asking for the playoff, but regular bowl appearances should be normal in northern Nevada. *(p. 248)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- MTSU lost by 20 to FCS Austin Peay to open last season, so I presume they’ll be ready for Murray State and they went out to Reno and beat Nevada last season. *(p. 198)*
+Referenced in the guide on **pp. 198** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -260,48 +251,40 @@ As printed on p. 249. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- Nevada was never a dominant powerhouse in football, but this was a proud program with a track record of success. *(p. 248)*
-- But, Jeff Choate is a fiery dude who does have a sturdy base with his Wolf Pack roster this season that could lead to some improvements. *(p. 248)*
-- But the potential of this defense under Choate, coupled with an offense that has some upside, could equate to an upstart season for the Wolf Pack in 2026. *(p. 248)*
-- The Wolf Pack ranked 114th in passing success rate, 133rd in passing EPA per play and ranked in the 34th percentile in explosive pass rate. *(p. 249)*
-- If the passing game finds its way back toward average, it could mean wonders for the Nevada rush offense, which has some strong indicators of future success. *(p. 249)*
-- He is behind what seems to be a strong offensive line on paper. *(p. 249)*
-- Three starters return, including preseason All-Conference left tackle Jack Foster and right tackle Zach Cochnauer, who earned Fourth Team All-Conference honors last season. *(p. 249)*
-- Nevada averaged just 4.4 yards per carry and finished 76th in rush success rate last season. *(p. 249)*
-- With the returning production and additions, this group could be much improved. *(p. 249)*
-- There has been steady improvement each of the last two seasons, but could this be the year they take the step toward above average? *(p. 249)*
+- It rates Jeff Choate a fiery coach with a sturdy base that could produce improvement. *(p. 248)*
+- The schedule is hard — road games at North Dakota State and UNLV plus home games with Air Force, New Mexico and Hawaii — but the guide concludes the defense's potential under Choate plus offensive upside could produce an upstart season. *(p. 248)*
+- Nevada had one of the country's least efficient passing attacks: 114th in passing success rate, 133rd in passing EPA per play and in the 34th percentile in explosive pass rate. The guide explains those numbers are why a three-way competition exists despite Carter Jones returning with 1,019 yards, six touchdowns and eight interceptions. He faces UCLA transfer Luke Duncan, who is 6-foot-6 and started on the road at Ohio State, and three-year Reno stalwart AJ Bianco. It expects Duncan to win eventually while recording that Choate insists the race is tight going into camp — and concludes that whoever wins, Nevada needs far more from the position. *(p. 249)*
+- The guide links the phases: if the passing game returns to average it could do wonders for a run game showing strong forward indicators. Leading rusher Caleb Ramseur is gone but Herschel Turner returns after 395 yards at 5.1 per carry, behind a line that looks strong on paper with three starters back including preseason all-conference left tackle Jack Foster and right tackle Zach Cochnauer, a fourth-team all-conference pick. Choate added Jacob Norcross and Ethan Newman Jr from Memphis at center and right guard. Against a baseline of 4.4 yards per carry and 76th in rush success rate, it expects a much improved group. *(p. 249)*
+- Given Choate's defensive background the guide says this unit's effectiveness will always be in question, noting steady improvement over two seasons and asking whether this is the year it becomes above average. The pieces are there: defensive lineman Dylan LaBarbera and defensive back Aidan Walker are preseason all-conference selections, and linebacker EJ Smith returns after an early injury ended his season. It grounds the expectation in trend — Nevada has allowed fewer points, fewer yards per game and fewer yards per play in each year under Choate — and would not be surprised to see that continue. *(p. 249)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.0 wins** against a posted total of 4.5 — **-0.5** against this team.
-- Over 4.5 Quarterback is an obvious question for Nevada, but Duncan showed enough in his starts for Hawaii last season that the expectation should be that he wins the job and serves in the role admirably. *(p. 248)*
-- Assuming Choate can get the most out of this defense, this could be a difficult out for Mountain West foes. *(p. 248)*
-- The Wolf Pack draw some difficult opponents on the schedule. *(p. 248)*
-- Given Choate’s defensive background, the effectiveness of this unit will always be in question. *(p. 249)*
-- Linebacker EJ Smith is back after an early injury ended his season as well. *(p. 249)*
-- MTSU lost by 20 to FCS Austin Peay to open last season, so I presume they’ll be ready for Murray State and they went out to Reno and beat Nevada last season. *(p. 198)*
-- The tough part about this bet is that WKU may very well start 0-3, as they open the season a long way from home against Nevada before getting pummeled by Indiana and Georgia. *(p. 206)*
+- Recommendation is Over 4.5 wins. Quarterback is an obvious question, but the guide judges Luke Duncan showed enough in his Hawaii starts to expect he wins the job and performs admirably. *(p. 248)*
+- With a steadier hand at the position it sees enough offensive talent to be much more effective, and assuming Choate gets the most from the defense, a difficult out for conference opponents. *(p. 248)*
+- Given Choate's defensive background the guide says this unit's effectiveness will always be in question, noting steady improvement over two seasons and asking whether this is the year it becomes above average. The pieces are there: defensive lineman Dylan LaBarbera and defensive back Aidan Walker are preseason all-conference selections, and linebacker EJ Smith returns after an early injury ended his season. It grounds the expectation in trend — Nevada has allowed fewer points, fewer yards per game and fewer yards per play in each year under Choate — and would not be surprised to see that continue. *(p. 249)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 249)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 249)*. Its analysis, in reference form:
 
 ### Who emerges among the trio of contenders for the quarterback job?
 
-Nevada had one of the least efficient passing-attacks in the country in 2025. The Wolf Pack ranked 114th in passing success rate, 133rd in passing EPA per play and ranked in the 34th percentile in explosive pass rate. Those anemic numbers are why Nevada has a three-way competition at quarterback despite Carter Jones returning. Jones (1,019 yards 6 TD 8 INT) will fight UCLA transfer Luke Duncan and program stalwart AJ Bianco for the gig. Duncan is 6-foot-6 and started on the road against Ohio State last season for UCLA. Bianco has been in Reno for three seasons. The expectation is that Duncan will eventually win the job, but Choate has sworn this race is tight heading into fall camp. No matter who wins, the Wolf Pack will need much more from the position in 2026.
+Nevada had one of the country's least efficient passing attacks: 114th in passing success rate, 133rd in passing EPA per play and in the 34th percentile in explosive pass rate. The guide explains those numbers are why a three-way competition exists despite Carter Jones returning with 1,019 yards, six touchdowns and eight interceptions. He faces UCLA transfer Luke Duncan, who is 6-foot-6 and started on the road at Ohio State, and three-year Reno stalwart AJ Bianco. It expects Duncan to win eventually while recording that Choate insists the race is tight going into camp — and concludes that whoever wins, Nevada needs far more from the position. *(p. 249)*
 
 ### Can the running game find its legs once again?
 
-If the passing game finds its way back toward average, it could mean wonders for the Nevada rush offense, which has some strong indicators of future success. Leading rusher Caleb Ramseur is gone, but Herschel Turner ran for 395 yards on 5.1 yards per carry and is back. He is behind what seems to be a strong offensive line on paper. Three starters return, including preseason All-Conference left tackle Jack Foster and right tackle Zach Cochnauer, who earned Fourth Team All-Conference honors last season. Choate also brought in both Jacob Norcross and Ethan Newman Jr. from Memphis to play center and right guard, respectively. Nevada averaged just 4.4 yards per carry and finished 76th in rush success rate last season. With the returning production and additions, this group could be much improved.
+The guide links the phases: if the passing game returns to average it could do wonders for a run game showing strong forward indicators. Leading rusher Caleb Ramseur is gone but Herschel Turner returns after 395 yards at 5.1 per carry, behind a line that looks strong on paper with three starters back including preseason all-conference left tackle Jack Foster and right tackle Zach Cochnauer, a fourth-team all-conference pick. Choate added Jacob Norcross and Ethan Newman Jr from Memphis at center and right guard. Against a baseline of 4.4 yards per carry and 76th in rush success rate, it expects a much improved group. *(p. 249)*
 
 ### Can Jeff Choate work his magic with this defense?
 
-Given Choate’s defensive background, the effectiveness of this unit will always be in question. There has been steady improvement each of the last two seasons, but could this be the year they take the step toward above average? Choate certainly has the pieces. Defensive lineman Dylan LaBarbera and defensive back Aidan Walker were preseason All-Conference selections. Linebacker EJ Smith is back after an early injury ended his season as well. The Wolf Pack have allowed fewer points and yards per game, as well as yards per play, each year under Choate. It would not be surprising to see that trend continue this season.
+Given Choate's defensive background the guide says this unit's effectiveness will always be in question, noting steady improvement over two seasons and asking whether this is the year it becomes above average. The pieces are there: defensive lineman Dylan LaBarbera and defensive back Aidan Walker are preseason all-conference selections, and linebacker EJ Smith returns after an early injury ended his season. It grounds the expectation in trend — Nevada has allowed fewer points, fewer yards per game and fewer yards per play in each year under Choate — and would not be surprised to see that continue. *(p. 249)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

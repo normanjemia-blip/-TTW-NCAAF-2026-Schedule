@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 7.4–4.6 overall, 5.1–2.9 in conference |
 | **Schedule strength** | 31.34 (#114 toughest of 138) |
 
-### Season outlook as written in the guide (p. 244)
+### Season outlook — VSiN's analysis in reference form (p. 244)
 
-From 2019 to 2023, double- digit win seasons, bowl game appearances and competing for league titles was a regularity for Air Force. However, roster turnover and injuries led to a stark drop-off in production over the last two seasons. After winning 40 games in four seasons — excluding the COVID-shortened season — the Falcons mustered just nine in the last two. That does not fit with the expectations of the second-longest tenured coach in college football. Troy Calhoun has what he needs to get back to those winning ways this season. An experienced quarterback, returning production from an offense that was one of the most efficient in the country and no expectations. All eyes are on UNLV, New Mexico or North Dakota State this season. Perhaps, they should be on Colorado Springs. Over 7.5 The key to success for Air Force will be the defense. If the Falcons can creep back toward just average on that end, then this will be a team that is a true threat in the Mountain West. The offensive line is strong, and Szarka is the best quarterback Air Force has had in years. His return — along with that of Allen — could mean this is going to be one of the best offenses in the country once again. The Falcons have to face the big boys of the conference, but two of them — North Dakota State and UNLV — will have to make the road trip to Colorado. Air Force has to go to New Mexico to end the season, but they avoid Hawaii entirely. Duquesne, UConn, SJSU and UTEP make up the other winnable opportunities at home. Air Force could shake up expectations in the conference.
+- From 2019 to 2023 double-digit wins, bowls and league title contention were routine, but roster turnover and injuries caused a stark two-year drop-off. The guide quantifies it: 40 wins in four seasons excluding the COVID year, then just nine across the last two. *(p. 244)*
+- It frames that as inconsistent with expectations for the second-longest tenured coach in college football. *(p. 244)*
+- Troy Calhoun now has what he needs: an experienced quarterback, returning production from one of the country's most efficient offenses, and no expectations, with attention on UNLV, New Mexico and North Dakota State instead. *(p. 244)*
+- Recommendation is Over 7.5 wins, and the guide names the hinge precisely — the defense. Creeping back toward merely average would make Air Force a true Mountain West threat. *(p. 244)*
+- The offensive line is strong and it rates Liam Szarka the best quarterback Air Force has had in years, with his return alongside Owen Allen potentially producing one of the country's best offenses again. *(p. 244)*
+- Schedule shape favors them: Air Force must face the conference's best but North Dakota State and UNLV travel to Colorado, and while the season ends at New Mexico, Hawaii is avoided entirely. Duquesne, UConn, San Jose State and UTEP are the other winnable home games. *(p. 244)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,9 +85,8 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- That does not fit with the expectations of the second-longest tenured coach in college football. *(p. 244)*
-- In an effort to regain some semblance of competence, Calhoun brought in Steve Russ as defensive coordinator. *(p. 245)*
-- Russ most recently served in the same role at UAB, but was defensive coordinator here from 2014-2017. *(p. 245)*
+- It frames that as inconsistent with expectations for the second-longest tenured coach in college football. *(p. 244)*
+- **Will the defense do its part?** The guide states the contrast bluntly — the Falcons paired one of the nation's best offenses with quite literally its worst defense: 30.3 points and 423 yards allowed per game, 7.2 yards per play conceded, dead last nationally in opponent EPA per play, 134th in net yards per play at -2.08 and 96th in success rate. Eight starters return including eight of the top nine tacklers and tackles-for-loss leader Isaac Hubert. Calhoun hired Steve Russ as coordinator, most recently in the same role at UAB and previously Air Force's coordinator from 2014 to 2017. Its summary is that there is nowhere to go but up. *(p. 245)*
 
 ## 9. Quarterback Situation
 
@@ -88,13 +94,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 244)*.
 
-- An experienced quarterback, returning production from an offense that was one of the most efficient in the country and no expectations. *(p. 244)*
-- The offensive line is strong, and Szarka is the best quarterback Air Force has had in years. *(p. 244)*
-- Only four starters are back from that group, but one of them is quarterback Liam Szarka, the first time in four years Calhoun has a returning signal-caller. *(p. 245)*
+- Troy Calhoun now has what he needs: an experienced quarterback, returning production from one of the country's most efficient offenses, and no expectations, with attention on UNLV, New Mexico and North Dakota State instead. *(p. 244)*
+- The offensive line is strong and it rates Liam Szarka the best quarterback Air Force has had in years, with his return alongside Owen Allen potentially producing one of the country's best offenses again. *(p. 244)*
+- **Is this the best offense in the Mountain West?** Air Force averaged 29.8 points and 407 yards per game, ranking 11th nationally in EPA per play and 15th in both rushing EPA per play and rushing success rate. Only four starters return, but one is Szarka — the first time in four years Calhoun has a returning quarterback — along with Owen Allen, last season's second-leading rusher behind Szarka. Three offensive line starters departed, though the guide notes the unit's career starts match last season's. Its conclusion is calibrated: matching one of the country's best offenses will be hard, but this is potentially the conference's best unit. *(p. 245)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Their QB Liam Szarka is the perfect fit for the Air Force style of attack, as he’s a great dual-threat QB. *(p. 11)*
+Also referenced on **pp. 11** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -118,26 +122,14 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- An experienced quarterback, returning production from an offense that was one of the most efficient in the country and no expectations. *(p. 244)*
-- The offensive line is strong, and Szarka is the best quarterback Air Force has had in years. *(p. 244)*
-- His return — along with that of Allen — could mean this is going to be one of the best offenses in the country once again. *(p. 244)*
-- They ranked 11th in the country EPA per play, and 15th in both EPA per play when rushing the football and rushing success rate. *(p. 245)*
-- Three starters departed in the offseason along the offensive line, but the career starts for this unit match those from last season. *(p. 245)*
-- It will be hard to match the production of one of the best offenses in the country, but this is potentially the best unit in the conference. *(p. 245)*
-- While the Falcons had one of the best offenses in the country, they quite literally had the worst defense. *(p. 245)*
-- Opponents averaged 7.2 yards per play. *(p. 245)*
-- The Falcons were dead last in the country in opponent EPA per play, 134th in net yards per play (-2.08) and 96th in success rate. *(p. 245)*
-- One wonders how the newcomers to the conference — of which the Falcons play two at home — will fare getting ready for an option offense in the middle of the regular-season slog. *(p. 245)*
-- Given the production on offense and the potential for improvement on defense, this seems like a team that could make a surprising appearance in the Mountain West Championship, something that hasn’t happened since 2015. *(p. 245)*
+- Troy Calhoun now has what he needs: an experienced quarterback, returning production from one of the country's most efficient offenses, and no expectations, with attention on UNLV, New Mexico and North Dakota State instead. *(p. 244)*
+- The offensive line is strong and it rates Liam Szarka the best quarterback Air Force has had in years, with his return alongside Owen Allen potentially producing one of the country's best offenses again. *(p. 244)*
+- **Is this the best offense in the Mountain West?** Air Force averaged 29.8 points and 407 yards per game, ranking 11th nationally in EPA per play and 15th in both rushing EPA per play and rushing success rate. Only four starters return, but one is Szarka — the first time in four years Calhoun has a returning quarterback — along with Owen Allen, last season's second-leading rusher behind Szarka. Three offensive line starters departed, though the guide notes the unit's career starts match last season's. Its conclusion is calibrated: matching one of the country's best offenses will be hard, but this is potentially the conference's best unit. *(p. 245)*
 
 ## 14. Defensive Identity
 
-- Over 7.5 The key to success for Air Force will be the defense. *(p. 244)*
-- While the Falcons had one of the best offenses in the country, they quite literally had the worst defense. *(p. 245)*
-- This season, eight starters are back from that group, including eight of the top nine tacklers and tackles-for-loss leader Isaac Hubert. *(p. 245)*
-- In an effort to regain some semblance of competence, Calhoun brought in Steve Russ as defensive coordinator. *(p. 245)*
-- Russ most recently served in the same role at UAB, but was defensive coordinator here from 2014-2017. *(p. 245)*
-- Given the production on offense and the potential for improvement on defense, this seems like a team that could make a surprising appearance in the Mountain West Championship, something that hasn’t happened since 2015. *(p. 245)*
+- Recommendation is Over 7.5 wins, and the guide names the hinge precisely — the defense. Creeping back toward merely average would make Air Force a true Mountain West threat. *(p. 244)*
+- **Will the defense do its part?** The guide states the contrast bluntly — the Falcons paired one of the nation's best offenses with quite literally its worst defense: 30.3 points and 423 yards allowed per game, 7.2 yards per play conceded, dead last nationally in opponent EPA per play, 134th in net yards per play at -2.08 and 96th in success rate. Eight starters return including eight of the top nine tacklers and tackles-for-loss leader Isaac Hubert. Calhoun hired Steve Russ as coordinator, most recently in the same role at UAB and previously Air Force's coordinator from 2014 to 2017. Its summary is that there is nowhere to go but up. *(p. 245)*
 
 ## 15. Key Strengths
 
@@ -227,18 +219,14 @@ Prices printed on the team page *(p. 245)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- Recommendation is Over 7.5 wins, and the guide names the hinge precisely — the defense. Creeping back toward merely average would make Air Force a true Mountain West threat. *(p. 244)*
+- Schedule shape favors them: Air Force must face the conference's best but North Dakota State and UNLV travel to Colorado, and while the season ends at New Mexico, Hawaii is avoided entirely. Duquesne, UConn, San Jose State and UTEP are the other winnable home games. *(p. 244)*
 
 ## 22. Historical / Situational Trends
 
-- The Falcons averaged 29.8 points and 407 yards per game last season. *(p. 245)*
-- Owen Allen — the team’s second-leading rusher behind Szarka last season — is back as well. *(p. 245)*
-- Three starters departed in the offseason along the offensive line, but the career starts for this unit match those from last season. *(p. 245)*
-- Given the production on offense and the potential for improvement on defense, this seems like a team that could make a surprising appearance in the Mountain West Championship, something that hasn’t happened since 2015. *(p. 245)*
+- From 2019 to 2023 double-digit wins, bowls and league title contention were routine, but roster turnover and injuries caused a stark two-year drop-off. The guide quantifies it: 40 wins in four seasons excluding the COVID year, then just nine across the last two. *(p. 244)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Yes, they’re at Oklahoma in Week 3 and have a tough road trip to Hawaii, but they host UNLV, who they beat in Vegas last year, host Air Force, who they beat in Colorado Springs, and host newcomer NDSU. *(p. 14)*
-- Steve Russ and Sione Ta’ufo’ou were the two DCs during the Dilfer era, as Ta’ufo’ou went back to Cal prior to last season and Russ was brought over from Air Force. *(p. 75)*
+Referenced in the guide on **pp. 14, 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -285,46 +273,39 @@ As printed on p. 245. Each category carries a value and a national rank.
 
 - Makinen projects **7.4 wins** against a posted total of 6.5 — **+0.9** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- After winning 40 games in four seasons — excluding the COVID-shortened season — the Falcons mustered just nine in the last two. *(p. 244)*
-- Troy Calhoun has what he needs to get back to those winning ways this season. *(p. 244)*
-- An experienced quarterback, returning production from an offense that was one of the most efficient in the country and no expectations. *(p. 244)*
-- Over 7.5 The key to success for Air Force will be the defense. *(p. 244)*
-- The offensive line is strong, and Szarka is the best quarterback Air Force has had in years. *(p. 244)*
-- His return — along with that of Allen — could mean this is going to be one of the best offenses in the country once again. *(p. 244)*
-- Duquesne, UConn, SJSU and UTEP make up the other winnable opportunities at home. *(p. 244)*
-- They ranked 11th in the country EPA per play, and 15th in both EPA per play when rushing the football and rushing success rate. *(p. 245)*
-- It will be hard to match the production of one of the best offenses in the country, but this is potentially the best unit in the conference. *(p. 245)*
-- While the Falcons had one of the best offenses in the country, they quite literally had the worst defense. *(p. 245)*
+- Troy Calhoun now has what he needs: an experienced quarterback, returning production from one of the country's most efficient offenses, and no expectations, with attention on UNLV, New Mexico and North Dakota State instead. *(p. 244)*
+- The offensive line is strong and it rates Liam Szarka the best quarterback Air Force has had in years, with his return alongside Owen Allen potentially producing one of the country's best offenses again. *(p. 244)*
+- Schedule shape favors them: Air Force must face the conference's best but North Dakota State and UNLV travel to Colorado, and while the season ends at New Mexico, Hawaii is avoided entirely. Duquesne, UConn, San Jose State and UTEP are the other winnable home games. *(p. 244)*
+- Air Force averaged 29.8 points and 407 yards per game, ranking 11th nationally in EPA per play and 15th in both rushing EPA per play and rushing success rate. Only four starters return, but one is Szarka — the first time in four years Calhoun has a returning quarterback — along with Owen Allen, last season's second-leading rusher behind Szarka. Three offensive line starters departed, though the guide notes the unit's career starts match last season's. Its conclusion is calibrated: matching one of the country's best offenses will be hard, but this is potentially the conference's best unit. *(p. 245)*
+- The guide states the contrast bluntly — the Falcons paired one of the nation's best offenses with quite literally its worst defense: 30.3 points and 423 yards allowed per game, 7.2 yards per play conceded, dead last nationally in opponent EPA per play, 134th in net yards per play at -2.08 and 96th in success rate. Eight starters return including eight of the top nine tacklers and tackles-for-loss leader Isaac Hubert. Calhoun hired Steve Russ as coordinator, most recently in the same role at UAB and previously Air Force's coordinator from 2014 to 2017. Its summary is that there is nowhere to go but up. *(p. 245)*
+- The schedule is favorable: North Dakota State, UNLV and New Mexico must be played, but the first two come to Colorado Springs and Hawaii is avoided. The guide adds a distinctive situational angle — it wonders how conference newcomers, two of whom Air Force hosts, will cope with preparing for an option offense in the middle of the regular-season grind. Given Calhoun's consistency, the offensive production and the scope for defensive improvement, it sees a possible surprise appearance in the Mountain West Championship, something that has not happened since 2015. *(p. 245)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- However, roster turnover and injuries led to a stark drop-off in production over the last two seasons. *(p. 244)*
-- This season, eight starters are back from that group, including eight of the top nine tacklers and tackles-for-loss leader Isaac Hubert. *(p. 245)*
-- Yes, they’re at Oklahoma in Week 3 and have a tough road trip to Hawaii, but they host UNLV, who they beat in Vegas last year, host Air Force, who they beat in Colorado Springs, and host newcomer NDSU. *(p. 14)*
-- While the degree of difficulty with the teams on the schedule isn’t all that daunting, the team has trips to Air Force and Wyoming on Halloween and Thanksgiving weekend, respectively, so those are two elevation games late in the year. *(p. 210)*
-- Only Air Force and UCLA had fewer tackles for loss. *(p. 231)*
-- The Spartans have difficult road trips against USC, Hawaii and Air Force on the schedule. *(p. 256)*
+- From 2019 to 2023 double-digit wins, bowls and league title contention were routine, but roster turnover and injuries caused a stark two-year drop-off. The guide quantifies it: 40 wins in four seasons excluding the COVID year, then just nine across the last two. *(p. 244)*
+- The guide states the contrast bluntly — the Falcons paired one of the nation's best offenses with quite literally its worst defense: 30.3 points and 423 yards allowed per game, 7.2 yards per play conceded, dead last nationally in opponent EPA per play, 134th in net yards per play at -2.08 and 96th in success rate. Eight starters return including eight of the top nine tacklers and tackles-for-loss leader Isaac Hubert. Calhoun hired Steve Russ as coordinator, most recently in the same role at UAB and previously Air Force's coordinator from 2014 to 2017. Its summary is that there is nowhere to go but up. *(p. 245)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 245)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 245)*. Its analysis, in reference form:
 
 ### Is this the best offense in the Mountain West?
 
-The Falcons averaged 29.8 points and 407 yards per game last season. They ranked 11th in the country EPA per play, and 15th in both EPA per play when rushing the football and rushing success rate. Only four starters are back from that group, but one of them is quarterback Liam Szarka, the first time in four years Calhoun has a returning signal-caller. Owen Allen — the team’s second-leading rusher behind Szarka last season — is back as well. Three starters departed in the offseason along the offensive line, but the career starts for this unit match those from last season. It will be hard to match the production of one of the best offenses in the country, but this is potentially the best unit in the conference.
+Air Force averaged 29.8 points and 407 yards per game, ranking 11th nationally in EPA per play and 15th in both rushing EPA per play and rushing success rate. Only four starters return, but one is Szarka — the first time in four years Calhoun has a returning quarterback — along with Owen Allen, last season's second-leading rusher behind Szarka. Three offensive line starters departed, though the guide notes the unit's career starts match last season's. Its conclusion is calibrated: matching one of the country's best offenses will be hard, but this is potentially the conference's best unit. *(p. 245)*
 
 ### Will the defense do its part?
 
-While the Falcons had one of the best offenses in the country, they quite literally had the worst defense. Air Force allowed 30.3 points and 423 yards per game. Opponents averaged 7.2 yards per play. The Falcons were dead last in the country in opponent EPA per play, 134th in net yards per play (-2.08) and 96th in success rate. This season, eight starters are back from that group, including eight of the top nine tacklers and tackles-for-loss leader Isaac Hubert. In an effort to regain some semblance of competence, Calhoun brought in Steve Russ as defensive coordinator. Russ most recently served in the same role at UAB, but was defensive coordinator here from 2014-2017. There is nowhere to go but up for this group.
+The guide states the contrast bluntly — the Falcons paired one of the nation's best offenses with quite literally its worst defense: 30.3 points and 423 yards allowed per game, 7.2 yards per play conceded, dead last nationally in opponent EPA per play, 134th in net yards per play at -2.08 and 96th in success rate. Eight starters return including eight of the top nine tacklers and tackles-for-loss leader Isaac Hubert. Calhoun hired Steve Russ as coordinator, most recently in the same role at UAB and previously Air Force's coordinator from 2014 to 2017. Its summary is that there is nowhere to go but up. *(p. 245)*
 
 ### Can Air Force surprise the Mountain West?
 
-The Falcons drew a favorable schedule this season. They must play North Dakota State, UNLV and New Mexico, but the first two must make the trip out to Colorado Springs. Air Force also avoids playing Hawaii. One wonders how the newcomers to the conference — of which the Falcons play two at home — will fare getting ready for an option offense in the middle of the regular-season slog. Calhoun has been a consistent force in this conference. Given the production on offense and the potential for improvement on defense, this seems like a team that could make a surprising appearance in the Mountain West Championship, something that hasn’t happened since 2015.
+The schedule is favorable: North Dakota State, UNLV and New Mexico must be played, but the first two come to Colorado Springs and Hawaii is avoided. The guide adds a distinctive situational angle — it wonders how conference newcomers, two of whom Air Force hosts, will cope with preparing for an option offense in the middle of the regular-season grind. Given Calhoun's consistency, the offensive production and the scope for defensive improvement, it sees a possible surprise appearance in the Mountain West Championship, something that has not happened since 2015. *(p. 245)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

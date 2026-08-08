@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 5.7–6.3 overall, 3.4–4.6 in conference |
 | **Schedule strength** | 31.08 (#118 toughest of 138) |
 
-### Season outlook as written in the guide (p. 262)
+### Season outlook — VSiN's analysis in reference form (p. 262)
 
-It’s always difficult to take over for a legend, especially one who had the success Craig Bohl did in his time at Laramie. Still, Jay Sawvel’s time at the helm has been disappointing, even in the context of filling big shoes. The Cowboys have just seven wins under Sawvel, and the offense has been one of the worst in the conference in that time. The pressure is building despite the high elevation. If there was a time Sawvel could save his bacon, it would be this season. He brought in an offensive mind to fix the team’s biggest problem and landed a decent fish in the transfer portal to play quarterback. While the Cowboys lost talent to the portal, a majority of this roster has been part of the program. This could be a massively improved team if the right pieces hit. Under 5.5 The upside of Wyoming begins with its offense. If Hughes and offensive coordinator Christian Taylor are the match they look like on paper, this offense could really stun the conference. That would allow Sawvel to focus on a defense which has a strong foundation. Wyoming does have a difficult schedule in the context of the Mountain West, which could be what holds it back. The Cowboys draw Hawaii, North Dakota State, Air Force, UNLV and New Mexico. Two of those — NDSU and UNLV — are on the road and another two opponents come off bye weeks. Factor in road games against Colorado State and Central Michigan, and you’re asking Wyoming to come out on the right side of 50-50 contests more often than not.
+- The guide acknowledges the difficulty of following a legend given Craig Bohl's success, then judges Jay Sawvel's tenure disappointing even in that context: seven wins total, with one of the conference's worst offenses. *(p. 262)*
+- It notes the pressure is building despite the high elevation, and frames this as the season Sawvel could save himself. *(p. 262)*
+- He addressed the biggest problem by hiring an offensive mind and landed a decent portal quarterback. *(p. 262)*
+- While Wyoming lost talent to the portal, most of the roster has been in the programme, so the guide sees potential for massive improvement if the right pieces hit. *(p. 262)*
+- Recommendation is Under 5.5 wins, with the upside case stated first: if Tyler Hughes and coordinator Christian Taylor are the match they look on paper, the offense could stun the conference and let Sawvel focus on a defense with a strong foundation. *(p. 262)*
+- The schedule is what holds it back — Hawaii, North Dakota State, Air Force, UNLV and New Mexico, with two of those on the road and two opponents coming off byes, plus road games at Colorado State and Central Michigan. *(p. 262)*
+- Its conclusion is framed as a probability question: this asks Wyoming to come out on the right side of 50-50 contests more often than not. *(p. 262)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,10 +86,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- If Hughes and offensive coordinator Christian Taylor are the match they look like on paper, this offense could really stun the conference. *(p. 262)*
-- Taylor most recently served as an offensive advisor for the Buffalo Bills and was the offensive coordinator for William & Mary from 2020 to 2023. *(p. 263)*
-- Outside of the addition of Taylor on the staff, Sawvel brought in one of his former recruits at William & Mary: quarterback Tyler Hughes. *(p. 263)*
-- The former defensive coordinator took over a program which had three losing seasons under his predecessor, Bohl. *(p. 263)*
+- The guide acknowledges the difficulty of following a legend given Craig Bohl's success, then judges Jay Sawvel's tenure disappointing even in that context: seven wins total, with one of the conference's worst offenses. *(p. 262)*
+- It notes the pressure is building despite the high elevation, and frames this as the season Sawvel could save himself. *(p. 262)*
+- He addressed the biggest problem by hiring an offensive mind and landed a decent portal quarterback. *(p. 262)*
+- **How does the Cowboys' new offense fare?** The guide is blunt that the offense has collapsed under Sawvel, noting that despite nine returning starters last season Wyoming averaged 16 points and 315 yards per game, ranking 128th nationally in EPA per play and 124th in success rate. Sawvel hired Christian Taylor, most recently an offensive advisor with the Buffalo Bills and William & Mary's coordinator from 2020 to 2023. It details what Taylor's offenses did well there — generating explosive runs, using backs out of the backfield, and leading the country in passing efficiency — and says all of it will be needed. *(p. 263)*
+- **Is Sawvel the guy for the job?** Sawvel is in year three of a five-year contract and the guide states the first two were not great. It gives the fair context that he took over a programme with three losing seasons under Bohl, one being the COVID-shortened 2020, while noting Sawvel has known only losing seasons at the top in Laramie. It calls this his best chance at a winning record and supplies a supporting statistic from Phil Steele: although returning starters are few, 77.2% of the roster is homegrown, meaning many players have been in the programme. If the offensive changes land, it expects improvement on last season's four wins. *(p. 263)*
 
 ## 9. Quarterback Situation
 
@@ -89,10 +98,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 262)*.
 
-- He brought in an offensive mind to fix the team’s biggest problem and landed a decent fish in the transfer portal to play quarterback. *(p. 262)*
-- In his time at William & Mary, Taylor led an offense which was great at generating explosive runs, using backs out of the backfield and topped the country in passing efficiency. *(p. 263)*
-- Outside of the addition of Taylor on the staff, Sawvel brought in one of his former recruits at William & Mary: quarterback Tyler Hughes. *(p. 263)*
-- Hughes is a dual-threat who totaled 3,000 yards passing and rushing last season and 31 touchdowns. *(p. 263)*
+- He addressed the biggest problem by hiring an offensive mind and landed a decent portal quarterback. *(p. 262)*
+- **But seriously, will the offense be better?** Beyond Taylor, Sawvel brought in one of his former William & Mary recruits, quarterback Tyler Hughes, a dual threat who totalled 3,000 passing and rushing yards with 31 touchdowns and already knows the system. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. Its conclusion is that with Hughes adding a dynamic Wyoming has missed, the needle clearly points up. *(p. 263)*
 
 ## 10. Returning Production
 
@@ -108,32 +115,23 @@ The Stability Score table prints the same figure independently: **5 returning st
 
 ## 11. Transfer Portal
 
-- He brought in an offensive mind to fix the team’s biggest problem and landed a decent fish in the transfer portal to play quarterback. *(p. 262)*
-- While the Cowboys lost talent to the portal, a majority of this roster has been part of the program. *(p. 262)*
+- He addressed the biggest problem by hiring an offensive mind and landed a decent portal quarterback. *(p. 262)*
+- While Wyoming lost talent to the portal, most of the roster has been in the programme, so the guide sees potential for massive improvement if the right pieces hit. *(p. 262)*
+- **But seriously, will the offense be better?** Beyond Taylor, Sawvel brought in one of his former William & Mary recruits, quarterback Tyler Hughes, a dual threat who totalled 3,000 passing and rushing yards with 31 touchdowns and already knows the system. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. Its conclusion is that with Hughes adding a dynamic Wyoming has missed, the needle clearly points up. *(p. 263)*
 
 ## 12. Recruiting / Roster Notes
 
-- Outside of the addition of Taylor on the staff, Sawvel brought in one of his former recruits at William & Mary: quarterback Tyler Hughes. *(p. 263)*
+- **Is Sawvel the guy for the job?** Sawvel is in year three of a five-year contract and the guide states the first two were not great. It gives the fair context that he took over a programme with three losing seasons under Bohl, one being the COVID-shortened 2020, while noting Sawvel has known only losing seasons at the top in Laramie. It calls this his best chance at a winning record and supplies a supporting statistic from Phil Steele: although returning starters are few, 77.2% of the roster is homegrown, meaning many players have been in the programme. If the offensive changes land, it expects improvement on last season's four wins. *(p. 263)*
 
 ## 13. Offensive Identity
 
-- The Cowboys have just seven wins under Sawvel, and the offense has been one of the worst in the conference in that time. *(p. 262)*
-- He brought in an offensive mind to fix the team’s biggest problem and landed a decent fish in the transfer portal to play quarterback. *(p. 262)*
-- Under 5.5 The upside of Wyoming begins with its offense. *(p. 262)*
-- If Hughes and offensive coordinator Christian Taylor are the match they look like on paper, this offense could really stun the conference. *(p. 262)*
-- In the two seasons under Sawvel, the Cowboys’ offense has taken a dump. *(p. 263)*
-- To address those issues, Sawvel brought in Christian Taylor to run the offense. *(p. 263)*
-- Taylor most recently served as an offensive advisor for the Buffalo Bills and was the offensive coordinator for William & Mary from 2020 to 2023. *(p. 263)*
-- In his time at William & Mary, Taylor led an offense which was great at generating explosive runs, using backs out of the backfield and topped the country in passing efficiency. *(p. 263)*
-- Hughes is a dual-threat who totaled 3,000 yards passing and rushing last season and 31 touchdowns. *(p. 263)*
-- The Cowboys’ leading rusher from last season — Samuel Harris — is back for his sophomore season, and he lines up behind an offensive line with two starters and 41 career starts back. *(p. 263)*
-- The top four receivers from last season are gone, but this is reportedly a strong group of tight ends, which is important in the new scheme. *(p. 263)*
-- With Hughes pulling the trigger and adding a dynamic the Wyoming offense has missed in recent seasons, the needle is clearly pointing up. *(p. 263)*
+- Recommendation is Under 5.5 wins, with the upside case stated first: if Tyler Hughes and coordinator Christian Taylor are the match they look on paper, the offense could stun the conference and let Sawvel focus on a defense with a strong foundation. *(p. 262)*
+- **How does the Cowboys' new offense fare?** The guide is blunt that the offense has collapsed under Sawvel, noting that despite nine returning starters last season Wyoming averaged 16 points and 315 yards per game, ranking 128th nationally in EPA per play and 124th in success rate. Sawvel hired Christian Taylor, most recently an offensive advisor with the Buffalo Bills and William & Mary's coordinator from 2020 to 2023. It details what Taylor's offenses did well there — generating explosive runs, using backs out of the backfield, and leading the country in passing efficiency — and says all of it will be needed. *(p. 263)*
+- **But seriously, will the offense be better?** Beyond Taylor, Sawvel brought in one of his former William & Mary recruits, quarterback Tyler Hughes, a dual threat who totalled 3,000 passing and rushing yards with 31 touchdowns and already knows the system. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. Its conclusion is that with Hughes adding a dynamic Wyoming has missed, the needle clearly points up. *(p. 263)*
 
 ## 14. Defensive Identity
 
-- That would allow Sawvel to focus on a defense which has a strong foundation. *(p. 262)*
-- The former defensive coordinator took over a program which had three losing seasons under his predecessor, Bohl. *(p. 263)*
+- Recommendation is Under 5.5 wins, with the upside case stated first: if Tyler Hughes and coordinator Christian Taylor are the match they look on paper, the offense could stun the conference and let Sawvel focus on a defense with a strong foundation. *(p. 262)*
 
 ## 15. Key Strengths
 
@@ -184,7 +182,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- The schedule is what holds it back — Hawaii, North Dakota State, Air Force, UNLV and New Mexico, with two of those on the road and two opponents coming off byes, plus road games at Colorado State and Central Michigan. *(p. 262)*
 
 ## 19. Win Total Discussion
 
@@ -205,15 +203,13 @@ Prices printed on the team page *(p. 263)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 5.5 wins, with the upside case stated first: if Tyler Hughes and coordinator Christian Taylor are the match they look on paper, the offense could stun the conference and let Sawvel focus on a defense with a strong foundation. *(p. 262)*
+- Its conclusion is framed as a probability question: this asks Wyoming to come out on the right side of 50-50 contests more often than not. *(p. 262)*
+- **Is Sawvel the guy for the job?** Sawvel is in year three of a five-year contract and the guide states the first two were not great. It gives the fair context that he took over a programme with three losing seasons under Bohl, one being the COVID-shortened 2020, while noting Sawvel has known only losing seasons at the top in Laramie. It calls this his best chance at a winning record and supplies a supporting statistic from Phil Steele: although returning starters are few, 77.2% of the roster is homegrown, meaning many players have been in the programme. If the offensive changes land, it expects improvement on last season's four wins. *(p. 263)*
 
 ## 22. Historical / Situational Trends
 
-- Despite nine returning starters last season, Wyoming averaged 16 points and 315 yards per game. *(p. 263)*
-- Hughes is a dual-threat who totaled 3,000 yards passing and rushing last season and 31 touchdowns. *(p. 263)*
-- The Cowboys’ leading rusher from last season — Samuel Harris — is back for his sophomore season, and he lines up behind an offensive line with two starters and 41 career starts back. *(p. 263)*
-- The top four receivers from last season are gone, but this is reportedly a strong group of tight ends, which is important in the new scheme. *(p. 263)*
-- If the offensive changes hit, this should be a team that can improve on its four wins last season. *(p. 263)*
+- The guide acknowledges the difficulty of following a legend given Craig Bohl's success, then judges Jay Sawvel's tenure disappointing even in that context: seven wins total, with one of the conference's worst offenses. *(p. 262)*
 
 ## 23. Important Statistics
 
@@ -259,47 +255,42 @@ As printed on p. 263. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
-- It’s always difficult to take over for a legend, especially one who had the success Craig Bohl did in his time at Laramie. *(p. 262)*
-- This could be a massively improved team if the right pieces hit. *(p. 262)*
-- Under 5.5 The upside of Wyoming begins with its offense. *(p. 262)*
-- That would allow Sawvel to focus on a defense which has a strong foundation. *(p. 262)*
-- It ranked 128th in the country in EPA per play and 124th in success rate. *(p. 263)*
-- All of that will be needed to improve this unit. *(p. 263)*
-- The top four receivers from last season are gone, but this is reportedly a strong group of tight ends, which is important in the new scheme. *(p. 263)*
-- This might be Sawvel’s best chance at a winning record. *(p. 263)*
-- If the offensive changes hit, this should be a team that can improve on its four wins last season. *(p. 263)*
-- The home schedule is far from daunting — especially non-conference games against Fordham and Sacramento State — but Wyoming, Nevada and UTEP all have potential for improvement this season. *(p. 252)*
+- The guide acknowledges the difficulty of following a legend given Craig Bohl's success, then judges Jay Sawvel's tenure disappointing even in that context: seven wins total, with one of the conference's worst offenses. *(p. 262)*
+- While Wyoming lost talent to the portal, most of the roster has been in the programme, so the guide sees potential for massive improvement if the right pieces hit. *(p. 262)*
+- Recommendation is Under 5.5 wins, with the upside case stated first: if Tyler Hughes and coordinator Christian Taylor are the match they look on paper, the offense could stun the conference and let Sawvel focus on a defense with a strong foundation. *(p. 262)*
+- The guide is blunt that the offense has collapsed under Sawvel, noting that despite nine returning starters last season Wyoming averaged 16 points and 315 yards per game, ranking 128th nationally in EPA per play and 124th in success rate. Sawvel hired Christian Taylor, most recently an offensive advisor with the Buffalo Bills and William & Mary's coordinator from 2020 to 2023. It details what Taylor's offenses did well there — generating explosive runs, using backs out of the backfield, and leading the country in passing efficiency — and says all of it will be needed. *(p. 263)*
+- Beyond Taylor, Sawvel brought in one of his former William & Mary recruits, quarterback Tyler Hughes, a dual threat who totalled 3,000 passing and rushing yards with 31 touchdowns and already knows the system. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. Its conclusion is that with Hughes adding a dynamic Wyoming has missed, the needle clearly points up. *(p. 263)*
+- Sawvel is in year three of a five-year contract and the guide states the first two were not great. It gives the fair context that he took over a programme with three losing seasons under Bohl, one being the COVID-shortened 2020, while noting Sawvel has known only losing seasons at the top in Laramie. It calls this his best chance at a winning record and supplies a supporting statistic from Phil Steele: although returning starters are few, 77.2% of the roster is homegrown, meaning many players have been in the programme. If the offensive changes land, it expects improvement on last season's four wins. *(p. 263)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- It’s always difficult to take over for a legend, especially one who had the success Craig Bohl did in his time at Laramie. *(p. 262)*
-- While the Cowboys lost talent to the portal, a majority of this roster has been part of the program. *(p. 262)*
-- Wyoming does have a difficult schedule in the context of the Mountain West, which could be what holds it back. *(p. 262)*
-- With Hughes pulling the trigger and adding a dynamic the Wyoming offense has missed in recent seasons, the needle is clearly pointing up. *(p. 263)*
-- While the degree of difficulty with the teams on the schedule isn’t all that daunting, the team has trips to Air Force and Wyoming on Halloween and Thanksgiving weekend, respectively, so those are two elevation games late in the year. *(p. 210)*
-- A road trip to Wyoming will be difficult, but it comes after a bye week for Hawaii. *(p. 246)*
+- The guide acknowledges the difficulty of following a legend given Craig Bohl's success, then judges Jay Sawvel's tenure disappointing even in that context: seven wins total, with one of the conference's worst offenses. *(p. 262)*
+- While Wyoming lost talent to the portal, most of the roster has been in the programme, so the guide sees potential for massive improvement if the right pieces hit. *(p. 262)*
+- Its conclusion is framed as a probability question: this asks Wyoming to come out on the right side of 50-50 contests more often than not. *(p. 262)*
+- Beyond Taylor, Sawvel brought in one of his former William & Mary recruits, quarterback Tyler Hughes, a dual threat who totalled 3,000 passing and rushing yards with 31 touchdowns and already knows the system. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. Its conclusion is that with Hughes adding a dynamic Wyoming has missed, the needle clearly points up. *(p. 263)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 263)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 263)*. Its analysis, in reference form:
 
-### How does the Cowboys’ new offense fare?
+### How does the Cowboys' new offense fare?
 
-In the two seasons under Sawvel, the Cowboys’ offense has taken a dump. Despite nine returning starters last season, Wyoming averaged 16 points and 315 yards per game. It ranked 128th in the country in EPA per play and 124th in success rate. To address those issues, Sawvel brought in Christian Taylor to run the offense. Taylor most recently served as an offensive advisor for the Buffalo Bills and was the offensive coordinator for William & Mary from 2020 to 2023. In his time at William & Mary, Taylor led an offense which was great at generating explosive runs, using backs out of the backfield and topped the country in passing efficiency. All of that will be needed to improve this unit.
+The guide is blunt that the offense has collapsed under Sawvel, noting that despite nine returning starters last season Wyoming averaged 16 points and 315 yards per game, ranking 128th nationally in EPA per play and 124th in success rate. Sawvel hired Christian Taylor, most recently an offensive advisor with the Buffalo Bills and William & Mary's coordinator from 2020 to 2023. It details what Taylor's offenses did well there — generating explosive runs, using backs out of the backfield, and leading the country in passing efficiency — and says all of it will be needed. *(p. 263)*
 
 ### But seriously, will the offense be better?
 
-Outside of the addition of Taylor on the staff, Sawvel brought in one of his former recruits at William & Mary: quarterback Tyler Hughes. Hughes is a dual-threat who totaled 3,000 yards passing and rushing last season and 31 touchdowns. He is familiar with Taylor’s system as well. The Cowboys’ leading rusher from last season — Samuel Harris — is back for his sophomore season, and he lines up behind an offensive line with two starters and 41 career starts back. The top four receivers from last season are gone, but this is reportedly a strong group of tight ends, which is important in the new scheme. With Hughes pulling the trigger and adding a dynamic the Wyoming offense has missed in recent seasons, the needle is clearly pointing up.
+Beyond Taylor, Sawvel brought in one of his former William & Mary recruits, quarterback Tyler Hughes, a dual threat who totalled 3,000 passing and rushing yards with 31 touchdowns and already knows the system. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. Its conclusion is that with Hughes adding a dynamic Wyoming has missed, the needle clearly points up. *(p. 263)*
 
 ### Is Sawvel the guy for the job?
 
-Sawvel is in the third year of a five-year contract, and the first two years weren’t great. The former defensive coordinator took over a program which had three losing seasons under his predecessor, Bohl. One of those was the 2020 COVID-shortened season. Sawvel has only known losing seasons in his time at the top in Laramie. This might be Sawvel’s best chance at a winning record. According to Phil Steele, while there aren’t many returning starters, 77.2% of this roster is ‘homegrown,’ meaning a lot of guys who have been in the program. If the offensive changes hit, this should be a team that can improve on its four wins last season.
+Sawvel is in year three of a five-year contract and the guide states the first two were not great. It gives the fair context that he took over a programme with three losing seasons under Bohl, one being the COVID-shortened 2020, while noting Sawvel has known only losing seasons at the top in Laramie. It calls this his best chance at a winning record and supplies a supporting statistic from Phil Steele: although returning starters are few, 77.2% of the roster is homegrown, meaning many players have been in the programme. If the offensive changes land, it expects improvement on last season's four wins. *(p. 263)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
