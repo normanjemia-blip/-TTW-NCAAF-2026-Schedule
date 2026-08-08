@@ -1,0 +1,363 @@
+<!-- GENERATED FILE — do not hand-edit.
+     Rebuild:  python3 _tools/build_teams.py
+     Source:   2026 VSiN College Football Betting Guide (345 pp.) -->
+
+# Iowa State Cyclones
+
+> **Source: 2026 VSiN College Football Betting Guide, pp. 130–131** and every other page that names this team. GUIDE CONTENT throughout unless a line says otherwise. No outside research. Nothing inferred to fill a heading.
+
+
+## 1. Program Snapshot
+
+| | |
+| --- | --- |
+| **Conference** | Big 12 |
+| **Guide pages** | 130–131 |
+| **Head coach** | Jimmy Rogers (1st season) |
+| **2025 straight up** | 8-4 |
+| **2025 against the spread** | 5-6-1 |
+| **2025 over/under** | 4-8 |
+| **Makinen power rating** | 41.5 |
+| **National rank** | #72 of 138 |
+| **Conference rank** | #16 of 16 |
+| **DraftKings win total** | 5.5 |
+| **Makinen projected wins** | 4.8–7.2 overall, 2.8–6.2 in conference |
+| **Schedule strength** | 43.93 (#51 toughest of 138) |
+
+### Season outlook as written in the guide (p. 130)
+
+Matt Campbell’s run with Iowa State will not be forgotten, and it’ll be hard for the Cyclones to retool with the 46-year-old now at Penn State. However, Iowa State did pick up a proven winner in Jimmy Rogers, who won a Division I Championship with South Dakota State in 2023 and then did a solid job in his lone season with Washington State last year. Rogers brought over defensive coordinator Jesse Bobbit, who had the Cougars performing like an elite defense last season. He also hit the transfer portal extremely hard, bringing in a mix of high- major players in need of more opportunity and successful lower-level players looking for a bigger stage. It’d be foolish to rule out Rogers turning Iowa State into a winner, as good coaches can win in Ames. However, it might take more than a season for this team to move on. Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. It’s also hard to pick out three conference victories considering the way this offense looks on paper. That said, even if you’re optimistic about Rogers’ fit with Iowa State, this does feel like it’s going to be a trying season. With so many Big 12 teams looking to make big leaps this season, this could be the conference punching bag. So, the Cyclones will likely struggle to reach the five-win mark, but perhaps they’ll ramp things up in a big way in 2027.
+
+
+## 2. Conference
+
+**Big 12** — see the conference file for league-wide context: [big_12.md](../01_Conference_Database/big_12.md)
+
+Makinen projects **2.8–6.2** in conference play, ranking this team #16 of 16 in the Big 12 by power rating.
+
+## 3. VSiN Team Rank / Conference Rank
+
+- **National rank:** #72 of 138 *(p. 131)*
+- **Conference rank:** #16 of 16 *(p. 131)*
+- **Matt Youmans' Preseason Top 50:** not ranked *(pp. 16–20)*
+
+## 4. Steve Makinen Power Rating
+
+**41.5** — as printed on p. 131, reproduced exactly and not converted to any other scale.
+
+Ranks #72 of 138 nationally and #16 of 16 in the Big 12. Methodology is set out on pp. 46–47.
+
+> No comparison against the TTW workbook is made here. That is a later-phase deliverable.
+
+## 5. Home-Field Advantage Reference
+
+- **Home field rating:** 2.7 *(p. 130)*
+- **Road field rating:** 0.3 *(p. 130)*
+
+Printed on the team page as `field ratings (HOME/ROAD)` and verified against the same values in the conference projected standings table. The guide's general treatment of home-field advantage is on p. 21.
+
+## 6. Head Coach
+
+**Jimmy Rogers** — 1st season at the programme *(p. 130)*.
+
+Profiled among the guide's new head coaches in The Coaching Carousel *(p. 31)*.
+
+## 7. Coordinator Notes
+
+- **DC Jesse Bobbit** *(p. 130)*
+
+## 8. Coaching Continuity / Changes
+
+**Steve Makinen's Stability Score: 0** *(p. 42)*
+
+| Component | Status | Points |
+| --- | --- | --- |
+| Head coach | new for 2026 | 0 |
+| Offensive coordinator | new for 2026 | 0 |
+| Defensive coordinator | new for 2026 | 0 |
+| Starting quarterback | new for 2026 | 0 |
+| Returning starters | 4 | 0 |
+
+Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
+
+- Rogers brought over defensive coordinator Jesse Bobbit, who had the Cougars performing like an elite defense last season. *(p. 130)*
+- It’d be foolish to rule out Rogers turning Iowa State into a winner, as good coaches can win in Ames. *(p. 130)*
+- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
+- He can really coach up a defense, and this team is going to be plenty talented. *(p. 131)*
+
+**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
+
+- Jimmy Rogers Iowa State Time will tell whether or not this is a good hire, but AD Jamie Pollard has made some good ones with Matt Campbell on the football side and Fred Hoiberg, Steve Prohm, and T.J. *(p. 31)*
+- To replace Keyone Jenkins, OC Nick Coleman and Simmons were able to wrangle JJ Kohl, who was originally at Iowa State then went to Appalachian State, where he had a 12/2 TD/INT ratio over six starts and some relief efforts. *(p. 191)*
+
+## 9. Quarterback Situation
+
+**Starting quarterback continuity:** the Stability Score table treats this team as having a new starting quarterback for 2026 *(p. 42)*. A transfer expected to start counts as new in that system.
+
+**Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 130)*.
+
+- Quarterback Jaylen Raynor is an exciting player, as he was a fun dual-threat weapon for Arkansas State last year. *(p. 131)*
+
+**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
+
+- As for the roster Campbell will field, he brought over his most trusted soldiers from Iowa State, including QB Rocco Becht. *(p. 13)*
+- PENN STATE Rocco Becht should feel at home in Happy Valley, and that’s because the senior quarterback will have more than 20 of his former Iowa State teammates with him. *(p. 19)*
+- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
+- The quarterback made 39 consecutive starts at Iowa State despite sustaining a torn labrum, a sprained AC joint, and two concussions last season. *(p. 173)*
+
+## 10. Returning Production
+
+| | Returning starters |
+| --- | --- |
+| **Total** | 4 |
+| **Offence** | 2 |
+| **Defence** | 2 |
+
+Read by position from p. 130. The three figures sit under the printed labels `total / offense / defense`; they are matched to those labels by their place on the page, because the PDF text layer emits them in a different order than they are printed.
+
+The Stability Score table prints the same figure independently: **4 returning starters** *(p. 42)*.
+
+## 11. Transfer Portal
+
+- He also hit the transfer portal extremely hard, bringing in a mix of high- major players in need of more opportunity and successful lower-level players looking for a bigger stage. *(p. 130)*
+- This defense should be in a very good place, even after losing transfer safety Braden Awls for the season after tearing his ACL in spring practice. *(p. 131)*
+
+**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
+
+- Enter Matt Campbell and 24 transfers (seven offensive starters and four defensive starters) from Iowa State. *(p. 12)*
+- Alex Manske, also transferring from Iowa State, also missed spring practice with injury. *(p. 173)*
+- Campbell brings in his 24 from Iowa State, but brings in 40 total transfers as the Nittany Lions are replacing 70 players from last year’s team, including eight that were taken in last spring’s NFL Draft. *(p. 173)*
+- The Boilers also added three receivers – Bisi Owens (Penn), Assad Wassem (Florida Atlantic), Xavier Townsend (Iowa State) – from the portal who are all expected to start. *(p. 175)*
+- Leading rusher Darrion Dupree (83-363-2) returns but he has some company in the backfield with Abu Sama III (Iowa State) who rushed for 1933 yards and 13 touchdowns across three seasons and USC transfer Bryan Jackson II. *(p. 185)*
+
+## 12. Recruiting / Roster Notes
+
+
+**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
+
+- What stood out at Iowa State is how Campbell maximized the talent he was able to recruit. *(p. 32)*
+
+## 13. Offensive Identity
+
+- It’s also hard to pick out three conference victories considering the way this offense looks on paper. *(p. 130)*
+- Not only is the offensive line a bit of a question mark, the entire offense feels like one. *(p. 131)*
+- The Cyclones also lack proven pass-catching options, and they have a pretty shaky group of running backs behind the retooled offensive line. *(p. 131)*
+- Considering the lack of talent and experience, there’s a real world in which this is the worst offense in the Big 12. *(p. 131)*
+
+**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
+
+- Enter Matt Campbell and 24 transfers (seven offensive starters and four defensive starters) from Iowa State. *(p. 12)*
+- After a decade at Iowa State, where Campbell really built up the Cyclones amid a lot of financial and reputational shortcomings in a high-octane offensive conference, Penn State is a different beast. *(p. 32)*
+- The Boilers also added three receivers – Bisi Owens (Penn), Assad Wassem (Florida Atlantic), Xavier Townsend (Iowa State) – from the portal who are all expected to start. *(p. 175)*
+
+## 14. Defensive Identity
+
+- Rogers brought over defensive coordinator Jesse Bobbit, who had the Cougars performing like an elite defense last season. *(p. 130)*
+- If there’s one place Iowa State could thrive in 2026, it’s the defensive side of the ball. *(p. 131)*
+- Last year, Bobbit ran a top-50 defense in Adjusted EPA/Play Allowed (-0.05), and only 25 teams allowed fewer points per game than Washington State’s 20.2. *(p. 131)*
+- He can really coach up a defense, and this team is going to be plenty talented. *(p. 131)*
+- This defense should be in a very good place, even after losing transfer safety Braden Awls for the season after tearing his ACL in spring practice. *(p. 131)*
+- However, he does turn the ball over a little too often, and there isn’t much that suggests he’ll be able to carve up Big 12 defenses. *(p. 131)*
+
+**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
+
+- Enter Matt Campbell and 24 transfers (seven offensive starters and four defensive starters) from Iowa State. *(p. 12)*
+- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
+
+## 15. Key Strengths
+
+National top-25 finishes in the guide's printed categories *(p. 131)*:
+
+| Side | Category | Value | National rank |
+| --- | --- | --- | --- |
+| Defense | YARDS PER POINT | 17.3 | #11 |
+
+## 16. Key Weaknesses
+
+National bottom-25 finishes in the guide's printed categories *(p. 131)*:
+
+| Side | Category | Value | National rank |
+| --- | --- | --- | --- |
+| Defense | SACKS | 1.2 | #121 |
+
+## 17. Schedule Overview
+
+Schedule strength **43.93**, **#51 toughest of 138** *(p. 130)*.
+
+| Date | Opponent | Site | Projected line | Opponent power rating |
+| --- | --- | --- | --- | --- |
+| 9/5 | SE MISSOURI ST | Home | -35 | 9.0 |
+| 9/12 | at Iowa | Away | +16.8 | 55.5 |
+| 9/19 | BOWLING GREEN | Home | -17 | 26.5 |
+| 9/26 | UTAH | Home | +10.5 | 54.5 |
+| 10/3 | WEST VIRGINIA | Home | +0.6 | 45.0 |
+| 10/9 | at BYU | Away | +18.9 | 57.5 |
+| 10/24 | at Arizona | Away | +13.4 | 52.5 |
+| 10/31 | OKLAHOMA ST | Home | +1.5 | 46.5 |
+| 11/7 | at Baylor | Away | +6.8 | 47.0 |
+| 11/14 | CINCINNATI | Home | +0 | 44.5 |
+| 11/20 | at UCF | Away | +5.9 | 44.5 |
+| 11/28 | KANSAS ST | Home | +6.8 | 51.0 |
+
+Projected lines and opponent power ratings are Makinen's, printed alongside the schedule on the team page.
+
+## 18. Difficult Stretches / Trap Spots
+
+
+**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
+
+- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+
+## 19. Win Total Discussion
+
+- **DraftKings win total:** 5.5 *(p. 115)*
+- **Makinen projected wins:** 4.8 *(p. 115)*
+- **Difference:** -0.7 wins against the posted number
+- **Recommendation on the team page:** **UNDER 4.5** *(p. 130)*
+
+**Selected as one of Steve Makinen's win-total bets** *(pp. 22–27)*: **UNDER 5.5**.
+
+## 20. Futures / Conference / Playoff Discussion
+
+Prices printed on the team page *(p. 131)*:
+
+| Market | Price |
+| --- | --- |
+| CFP Championship | 600-1 |
+| make the playoff | 70-1 |
+| BIG 12 | 100-1 |
+
+## 21. Betting Notes / Best Bets
+
+Not addressed in guide.
+
+## 22. Historical / Situational Trends
+
+- However, Iowa State did pick up a proven winner in Jimmy Rogers, who won a Division I Championship with South Dakota State in 2023 and then did a solid job in his lone season with Washington State last year. *(p. 130)*
+- Rogers brought over defensive coordinator Jesse Bobbit, who had the Cougars performing like an elite defense last season. *(p. 130)*
+- So, the Cyclones will likely struggle to reach the five-win mark, but perhaps they’ll ramp things up in a big way in 2027. *(p. 130)*
+- If there’s one place Iowa State could thrive in 2026, it’s the defensive side of the ball. *(p. 131)*
+- Last year, Bobbit ran a top-50 defense in Adjusted EPA/Play Allowed (-0.05), and only 25 teams allowed fewer points per game than Washington State’s 20.2. *(p. 131)*
+- Also, Taylor missed all of last year after starting four games at Oklahoma, so it’s not like we’ve seen him recently. *(p. 131)*
+- Quarterback Jaylen Raynor is an exciting player, as he was a fun dual-threat weapon for Arkansas State last year. *(p. 131)*
+
+**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
+
+- Up front, Nebraska added guards Paul Mubenga (LSU), Brendan Black (Iowa State), and tackle Tree Babalade (South Carolina), so they should have a bigger and more agile group that must protect the QB better than last year’s bunch (33 sacks allowed). *(p. 165)*
+- The quarterback made 39 consecutive starts at Iowa State despite sustaining a torn labrum, a sprained AC joint, and two concussions last season. *(p. 173)*
+- Campbell brings in his 24 from Iowa State, but brings in 40 total transfers as the Nittany Lions are replacing 70 players from last year’s team, including eight that were taken in last spring’s NFL Draft. *(p. 173)*
+
+## 23. Important Statistics
+
+As printed on p. 131. Each category carries a value and a national rank.
+
+### Offence
+
+| Category | Value | National rank |
+| --- | --- | --- |
+| POINTS PER GAME | 24.9 | 79 |
+| YARDS PER POINT | 15.4 | 93 |
+| PLAYS PER GAME | 70.7 | 47 |
+| TIME OF POSSESSION | 31:22 | 32 |
+| 3RD DOWN CONV. % | 36.6% | 93 |
+| TOTAL YARDS PER GAME | 383.5 | 69 |
+| YARDS PER PLAY | 5.4 | 71 |
+| RUSH ATTEMPTS PER GAME | 39.5 | 31 |
+| RUSH YARDS PER GAME | 169.8 | 45 |
+| YARDS PER RUSH ATTEMPT | 4.3 | 63 |
+| PASS ATTEMPTS PER GAME | 29.2 | 91 |
+| COMPLETION % | 58.3% | 101 |
+| PASSING YARDS PER GAME | 213.7 | 84 |
+| YARDS PER PASS ATTEMPT | 7.3 | 61 |
+| TURNOVERS | 1.3 | 67 |
+
+### Defence
+
+| Category | Value | National rank |
+| --- | --- | --- |
+| POINTS PER GAME | 21.4 | 32 |
+| YARDS PER POINT | 17.3 | 11 |
+| 3RD DOWN CONV. % | 38.5% | 58 |
+| TOTAL YARDS PER GAME | 370.4 | 58 |
+| YARDS PER PLAY | 5.7 | 78 |
+| RUSH YARDS PER GAME | 143.5 | 53 |
+| YARDS PER RUSH ATTEMPT | 4.5 | 82 |
+| COMPLETION % | 62.0% | 64 |
+| PASSING YARDS PER GAME | 226.9 | 76 |
+| YARDS PER PASS ATTEMPT | 7 | 54 |
+| SACKS | 1.2 | 121 |
+| TURNOVERS | 1.5 | 44 |
+
+## 24. Bull Case
+
+- Rogers brought over defensive coordinator Jesse Bobbit, who had the Cougars performing like an elite defense last season. *(p. 130)*
+- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
+- That said, even if you’re optimistic about Rogers’ fit with Iowa State, this does feel like it’s going to be a trying season. *(p. 130)*
+- He can really coach up a defense, and this team is going to be plenty talented. *(p. 131)*
+- Leading rusher Darrion Dupree (83-363-2) returns but he has some company in the backfield with Abu Sama III (Iowa State) who rushed for 1933 yards and 13 touchdowns across three seasons and USC transfer Bryan Jackson II. *(p. 185)*
+- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+
+> *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
+
+## 25. Bear Case
+
+- Makinen projects **4.8 wins** against a posted total of 5.5 — **-0.7** against this team.
+- The team page recommends **UNDER 4.5**.
+- Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
+- So, the Cyclones will likely struggle to reach the five-win mark, but perhaps they’ll ramp things up in a big way in 2027. *(p. 130)*
+- Also, Taylor missed all of last year after starting four games at Oklahoma, so it’s not like we’ve seen him recently. *(p. 131)*
+- Not only is the offensive line a bit of a question mark, the entire offense feels like one. *(p. 131)*
+- Alex Manske, also transferring from Iowa State, also missed spring practice with injury. *(p. 173)*
+- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
+
+> *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
+
+## 26. Open Questions / Risks
+
+The guide's *Three Burning Questions for the 2026 Season* *(p. 131)*, with the answers as written:
+
+### Will the Cyclones have one of the best defenses in the Big 12?
+
+If there’s one place Iowa State could thrive in 2026, it’s the defensive side of the ball. Last year, Bobbit ran a top-50 defense in Adjusted EPA/Play Allowed (-0.05), and only 25 teams allowed fewer points per game than Washington State’s 20.2. He can really coach up a defense, and this team is going to be plenty talented. While most of Campbell’s players are gone, the Cyclones were able to bring in a bunch of key pieces from Washington State — along with some other big-time contributors from smaller programs. This defense should be in a very good place, even after losing transfer safety Braden Awls for the season after tearing his ACL in spring practice.
+
+### Are the big boys along the revamped offensive line ready for a jump in competition?
+
+The Cyclones added a ton of players with starting experience along the O-Line, with Braden Smith (Tarleton State), Caden Mass (Sioux Falls), Colin Amick (Montana), and Jake Taylor (Oklahoma) all having been starters before. However, those first three played against much worse competition, so it’ll be interesting to see how they handle the size in the Big 12. Also, Taylor missed all of last year after starting four games at Oklahoma, so it’s not like we’ve seen him recently. All in all, Iowa State did a good job of filling some holes — plus the group has plenty of depth — but we still know very little about how this will look. If it doesn’t work out well, the Cyclones will be in for a very long season.
+
+### What is there to be excited about on offense?
+
+Not only is the offensive line a bit of a question mark, the entire offense feels like one. Quarterback Jaylen Raynor is an exciting player, as he was a fun dual-threat weapon for Arkansas State last year. However, he does turn the ball over a little too often, and there isn’t much that suggests he’ll be able to carve up Big 12 defenses. The Cyclones also lack proven pass-catching options, and they have a pretty shaky group of running backs behind the retooled offensive line. Considering the lack of talent and experience, there’s a real world in which this is the worst offense in the Big 12.
+
+
+## 27. Source Conflicts
+
+No source conflict identified for this team.
+
+## 28. Relevant Page References
+
+| Pages | Content |
+| --- | --- |
+| 130–131 | This team's two-page preview |
+| 115 | Big 12 conference preview and projected standings |
+| 4 | VSiN staff season predictions |
+| 46–47 | Steve Makinen power rating methodology |
+| 21 | Home-field advantage article |
+| 7, 12, 13, 19, 25, 31, 32, 41, 46, 125, 136, 142, 154, 165, 172, 173, 175, 185, 191, 220, 281 | Other pages naming this team |
+
+This team is named in **39 sentences across 23 pages** of the guide.
+
+## 29. Cross-Links
+
+**Conference** — [Big 12](../01_Conference_Database/big_12.md)
+
+**Master Index** — [Team Index](../00_Master_Index/03_Team_Index.md) · [Power Rating Index](../00_Master_Index/09_Power_Rating_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Quarterback Index](../00_Master_Index/06_Quarterback_Index.md)
+
+**Not yet built** — these databases are later phases and the links are placeholders:
+
+- Head coach file — `03_Coaching_Database/jimmy_rogers.md`
+- Quarterback file — `04_Quarterback_Database/` (Phase 4)
+- Power ratings — `05_Power_Ratings/` (Phase 6)
+- Win totals — `06_Win_Totals/` (Phase 7)
+- Futures — `07_Futures/` (Phase 8)
+- Historical trends — `12_Historical_Trends/` (Phase 10)
+

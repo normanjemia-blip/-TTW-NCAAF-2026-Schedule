@@ -483,10 +483,10 @@ def build_conference(conf, data):
                  "[Team Index](../00_Master_Index/03_Team_Index.md) · "
                  "[Coaching Index](../00_Master_Index/04_Coaching_Index.md) · "
                  "[Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)\n")
-    lines.append("\n**Team files** (Phase 3, `02_Team_Database/`) — not yet built:\n")
+    lines.append("\n**Team files** (Phase 3, `02_Team_Database/`):\n")
     for row in sorted(standings, key=lambda r: r["team"]):
-        lines.append(f"\n- `{slug(row['team'])}.md` — {row['team']} "
-                     f"(guide pp. {row['page']}–{row['page']+1})")
+        lines.append(f"\n- [{row['team']}](../02_Team_Database/{slug(row['team'])}.md) "
+                     f"— guide pp. {row['page']}–{row['page']+1}")
 
     path = os.path.join(OUT, f"{slug(name)}.md")
     with open(path, "w") as fh:

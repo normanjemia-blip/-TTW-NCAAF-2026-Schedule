@@ -519,41 +519,41 @@ Spread across **4** different teams — the degree of disagreement is itself the
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `illinois_fighting_illini.md` — Illinois Fighting Illini (guide pp. 150–151)
+- [Illinois Fighting Illini](../02_Team_Database/illinois_fighting_illini.md) — guide pp. 150–151
 
-- `indiana_hoosiers.md` — Indiana Hoosiers (guide pp. 152–153)
+- [Indiana Hoosiers](../02_Team_Database/indiana_hoosiers.md) — guide pp. 152–153
 
-- `iowa_hawkeyes.md` — Iowa Hawkeyes (guide pp. 154–155)
+- [Iowa Hawkeyes](../02_Team_Database/iowa_hawkeyes.md) — guide pp. 154–155
 
-- `maryland_terrapins.md` — Maryland Terrapins (guide pp. 156–157)
+- [Maryland Terrapins](../02_Team_Database/maryland_terrapins.md) — guide pp. 156–157
 
-- `michigan_state_spartans.md` — Michigan State Spartans (guide pp. 160–161)
+- [Michigan State Spartans](../02_Team_Database/michigan_state_spartans.md) — guide pp. 160–161
 
-- `michigan_wolverines.md` — Michigan Wolverines (guide pp. 158–159)
+- [Michigan Wolverines](../02_Team_Database/michigan_wolverines.md) — guide pp. 158–159
 
-- `minnesota_golden_gophers.md` — Minnesota Golden Gophers (guide pp. 162–163)
+- [Minnesota Golden Gophers](../02_Team_Database/minnesota_golden_gophers.md) — guide pp. 162–163
 
-- `nebraska_cornhuskers.md` — Nebraska Cornhuskers (guide pp. 164–165)
+- [Nebraska Cornhuskers](../02_Team_Database/nebraska_cornhuskers.md) — guide pp. 164–165
 
-- `northwestern_wildcats.md` — Northwestern Wildcats (guide pp. 166–167)
+- [Northwestern Wildcats](../02_Team_Database/northwestern_wildcats.md) — guide pp. 166–167
 
-- `ohio_state_buckeyes.md` — Ohio State Buckeyes (guide pp. 168–169)
+- [Ohio State Buckeyes](../02_Team_Database/ohio_state_buckeyes.md) — guide pp. 168–169
 
-- `oregon_ducks.md` — Oregon Ducks (guide pp. 170–171)
+- [Oregon Ducks](../02_Team_Database/oregon_ducks.md) — guide pp. 170–171
 
-- `penn_state_nittany_lions.md` — Penn State Nittany Lions (guide pp. 172–173)
+- [Penn State Nittany Lions](../02_Team_Database/penn_state_nittany_lions.md) — guide pp. 172–173
 
-- `purdue_boilermakers.md` — Purdue Boilermakers (guide pp. 174–175)
+- [Purdue Boilermakers](../02_Team_Database/purdue_boilermakers.md) — guide pp. 174–175
 
-- `rutgers_scarlet_knights.md` — Rutgers Scarlet Knights (guide pp. 176–177)
+- [Rutgers Scarlet Knights](../02_Team_Database/rutgers_scarlet_knights.md) — guide pp. 176–177
 
-- `ucla_bruins.md` — UCLA Bruins (guide pp. 178–179)
+- [UCLA Bruins](../02_Team_Database/ucla_bruins.md) — guide pp. 178–179
 
-- `usc_trojans.md` — USC Trojans (guide pp. 180–181)
+- [USC Trojans](../02_Team_Database/usc_trojans.md) — guide pp. 180–181
 
-- `washington_huskies.md` — Washington Huskies (guide pp. 182–183)
+- [Washington Huskies](../02_Team_Database/washington_huskies.md) — guide pp. 182–183
 
-- `wisconsin_badgers.md` — Wisconsin Badgers (guide pp. 184–185)
+- [Wisconsin Badgers](../02_Team_Database/wisconsin_badgers.md) — guide pp. 184–185

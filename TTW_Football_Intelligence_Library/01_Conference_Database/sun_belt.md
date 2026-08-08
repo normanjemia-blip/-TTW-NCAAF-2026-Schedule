@@ -443,33 +443,33 @@ Teams where Makinen's projected wins differ from the posted win total by a full 
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `appalachian_state_mountaineers.md` — Appalachian State Mountaineers (guide pp. 318–319)
+- [Appalachian State Mountaineers](../02_Team_Database/appalachian_state_mountaineers.md) — guide pp. 318–319
 
-- `arkansas_state_red_wolves.md` — Arkansas State Red Wolves (guide pp. 332–333)
+- [Arkansas State Red Wolves](../02_Team_Database/arkansas_state_red_wolves.md) — guide pp. 332–333
 
-- `coastal_carolina_chanticleers.md` — Coastal Carolina Chanticleers (guide pp. 320–321)
+- [Coastal Carolina Chanticleers](../02_Team_Database/coastal_carolina_chanticleers.md) — guide pp. 320–321
 
-- `georgia_southern_eagles.md` — Georgia Southern Eagles (guide pp. 322–323)
+- [Georgia Southern Eagles](../02_Team_Database/georgia_southern_eagles.md) — guide pp. 322–323
 
-- `georgia_state_panthers.md` — Georgia State Panthers (guide pp. 324–325)
+- [Georgia State Panthers](../02_Team_Database/georgia_state_panthers.md) — guide pp. 324–325
 
-- `james_madison_dukes.md` — James Madison Dukes (guide pp. 326–327)
+- [James Madison Dukes](../02_Team_Database/james_madison_dukes.md) — guide pp. 326–327
 
-- `louisiana_ragin_cajuns.md` — Louisiana Ragin’ Cajuns (guide pp. 334–335)
+- [Louisiana Ragin’ Cajuns](../02_Team_Database/louisiana_ragin_cajuns.md) — guide pp. 334–335
 
-- `louisiana_tech_bulldogs.md` — Louisiana Tech Bulldogs (guide pp. 338–339)
+- [Louisiana Tech Bulldogs](../02_Team_Database/louisiana_tech_bulldogs.md) — guide pp. 338–339
 
-- `marshall_thundering_herd.md` — Marshall Thundering Herd (guide pp. 328–329)
+- [Marshall Thundering Herd](../02_Team_Database/marshall_thundering_herd.md) — guide pp. 328–329
 
-- `old_dominion_monarchs.md` — Old Dominion Monarchs (guide pp. 330–331)
+- [Old Dominion Monarchs](../02_Team_Database/old_dominion_monarchs.md) — guide pp. 330–331
 
-- `south_alabama_jaguars.md` — South Alabama Jaguars (guide pp. 340–341)
+- [South Alabama Jaguars](../02_Team_Database/south_alabama_jaguars.md) — guide pp. 340–341
 
-- `southern_miss_golden_eagles.md` — Southern Miss Golden Eagles (guide pp. 342–343)
+- [Southern Miss Golden Eagles](../02_Team_Database/southern_miss_golden_eagles.md) — guide pp. 342–343
 
-- `troy_trojans.md` — Troy Trojans (guide pp. 344–345)
+- [Troy Trojans](../02_Team_Database/troy_trojans.md) — guide pp. 344–345
 
-- `ulm_warhawks.md` — ULM Warhawks (guide pp. 336–337)
+- [ULM Warhawks](../02_Team_Database/ulm_warhawks.md) — guide pp. 336–337

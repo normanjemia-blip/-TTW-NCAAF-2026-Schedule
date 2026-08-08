@@ -1,6 +1,6 @@
 # TTW Football Intelligence Library
 
-**Version 1.1 — Phases 1–2 complete**
+**Version 1.2 — Phases 1–3 complete**
 
 TTW's permanent football research encyclopedia, built from the 2026 VSiN College
 Football Betting Guide. The goal is that the 345-page guide never has to be
@@ -26,8 +26,8 @@ That file is the navigation system for everything else.
 | --- | --- | --- | --- |
 | 1 | Master Index | `00_Master_Index` | ✅ **Complete** |
 | 2 | Conference Database | `01_Conference_Database` | ✅ **Complete** |
-| 3 | Team Database | `02_Team_Database` | ⏸ Awaiting approval |
-| 4 | Quarterback Database | `04_Quarterback_Database` | ⏸ Pending |
+| 3 | Team Database | `02_Team_Database` | ✅ **Complete** |
+| 4 | Quarterback Database | `04_Quarterback_Database` | ⏸ Awaiting approval |
 | 5 | Coaching Database | `03_Coaching_Database` | ⏸ Pending |
 | 6 | Power Ratings | `05_Power_Ratings` | ⏸ Pending |
 | 7 | Win Totals | `06_Win_Totals` | ⏸ Pending |
@@ -43,11 +43,11 @@ phases rather than getting phases of their own:
 
 | Directory | Filled by |
 | --- | --- |
-| `08_Returning_Production` | Phase 3, with conference-level summaries in Phase 2 |
+| `08_Returning_Production` | Phase 3 — **resolved**, extracted by coordinate in Phase 3 |
 | `09_Transfer_Portal` | Phase 3, with conference-level summaries in Phase 2 |
 | `10_Schedule_Intelligence` | Phase 2 and Phase 3 |
 | `13_Situational_Angles` | Phase 9 if conceptual, Phase 10 if historical or system-based |
-| `14_Statistics_Reference` | Phase 9 / reference material, preserving every guide-specific statistic and definition |
+| `14_Statistics_Reference` | Phase 9 — team-level values **resolved** in Phase 3; concept material still pending |
 
 Phase numbers and directory numbers deliberately differ (`05_Power_Ratings` is
 Phase 6, `07_Futures` is Phase 8), so this library refers to **directory names,
@@ -85,6 +85,7 @@ schema**. Where the guide does not address a heading, the file states
 TTW_Football_Intelligence_Library/
 ├── 00_Master_Index/          14 index files — the navigation layer (Phase 1)
 ├── 01_Conference_Database/   11 conference files + index (Phase 2)
+├── 02_Team_Database/         138 team files + index (Phase 3)
 ├── 01_…14_                   phase databases, each with a README stating scope
 ├── 99_Search_Index/          cross-reference layer (Phase 11)
 ├── _source/
@@ -96,7 +97,12 @@ TTW_Football_Intelligence_Library/
     ├── build_index.py        JSON → the Master Index
     ├── extract_conferences.py  conference previews + projected standings
     ├── extract_phase2.py     predictions, win totals, best bets, new coaches
-    └── build_conferences.py  JSON → the Conference Database
+    ├── build_conferences.py  JSON → the Conference Database
+    ├── extract_teams.py      coordinate-based extraction of all 138 spreads
+    ├── extract_stability.py  Stability Scores (pp. 41–44)
+    ├── extract_mentions.py   cross-guide mention index
+    ├── build_teams.py        JSON → the Team Database
+    └── validate_teams.py     Phase 3 completion checks
 ```
 
 ## Rebuilding
@@ -111,6 +117,11 @@ python3 _tools/build_index.py
 python3 _tools/extract_conferences.py
 python3 _tools/extract_phase2.py
 python3 _tools/build_conferences.py
+python3 _tools/extract_teams.py
+python3 _tools/extract_stability.py
+python3 _tools/extract_mentions.py
+python3 _tools/build_teams.py
+python3 _tools/validate_teams.py
 ```
 
 The guide PDF is committed under `_source/`, so this runs with no external

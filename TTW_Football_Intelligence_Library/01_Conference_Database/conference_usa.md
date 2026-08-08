@@ -440,25 +440,25 @@ Teams where Makinen's projected wins differ from the posted win total by a full 
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `delaware_fightin_blue_hens.md` — Delaware Fightin’ Blue Hens (guide pp. 188–189)
+- [Delaware Fightin’ Blue Hens](../02_Team_Database/delaware_fightin_blue_hens.md) — guide pp. 188–189
 
-- `fiu_golden_panthers.md` — FIU Golden Panthers (guide pp. 190–191)
+- [FIU Golden Panthers](../02_Team_Database/fiu_golden_panthers.md) — guide pp. 190–191
 
-- `jacksonville_state_gamecocks.md` — Jacksonville State Gamecocks (guide pp. 192–193)
+- [Jacksonville State Gamecocks](../02_Team_Database/jacksonville_state_gamecocks.md) — guide pp. 192–193
 
-- `kennesaw_state_owls.md` — Kennesaw State Owls (guide pp. 194–195)
+- [Kennesaw State Owls](../02_Team_Database/kennesaw_state_owls.md) — guide pp. 194–195
 
-- `liberty_flames.md` — Liberty Flames (guide pp. 196–197)
+- [Liberty Flames](../02_Team_Database/liberty_flames.md) — guide pp. 196–197
 
-- `middle_tennessee_blue_raiders.md` — Middle Tennessee Blue Raiders (guide pp. 198–199)
+- [Middle Tennessee Blue Raiders](../02_Team_Database/middle_tennessee_blue_raiders.md) — guide pp. 198–199
 
-- `missouri_state_bears.md` — Missouri State Bears (guide pp. 200–201)
+- [Missouri State Bears](../02_Team_Database/missouri_state_bears.md) — guide pp. 200–201
 
-- `new_mexico_state_aggies.md` — New Mexico State Aggies (guide pp. 202–203)
+- [New Mexico State Aggies](../02_Team_Database/new_mexico_state_aggies.md) — guide pp. 202–203
 
-- `sam_houston_state_bearkats.md` — Sam Houston State Bearkats (guide pp. 204–205)
+- [Sam Houston State Bearkats](../02_Team_Database/sam_houston_state_bearkats.md) — guide pp. 204–205
 
-- `western_kentucky_hilltoppers.md` — Western Kentucky Hilltoppers (guide pp. 206–207)
+- [Western Kentucky Hilltoppers](../02_Team_Database/western_kentucky_hilltoppers.md) — guide pp. 206–207

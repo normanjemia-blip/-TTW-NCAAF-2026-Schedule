@@ -593,12 +593,14 @@ def build_master(files, teams, conferences, coordinators, qbs, abbreviations):
         f"| **Coordinators named** | {len(coordinators)} |\n"
         f"| **Ranked quarterbacks** | {len(qbs)} |\n"
         f"| **Abbreviations defined** | {len(abbreviations)} |\n"
-        "| **Library status** | Phases 1–2 complete; Phase 3 awaiting approval |\n",
+        "| **Library status** | Phases 1–3 complete; Phase 4 awaiting approval |\n",
         "\n## Built databases\n",
         "\n| Phase | Database | Entry point |",
         "| --- | --- | --- |",
         "| 2 | Conference Database | "
         "[01_Conference_Database/00_CONFERENCE_INDEX.md](../01_Conference_Database/00_CONFERENCE_INDEX.md) |",
+        "| 3 | Team Database (138 files) | "
+        "[02_Team_Database/README.md](../02_Team_Database/README.md) |",
         "\n## Index files\n",
         "\n| File | What it answers |",
         "| --- | --- |",
@@ -621,7 +623,7 @@ def build_master(files, teams, conferences, coordinators, qbs, abbreviations):
         "\n## How to search this library\n\n"
         "Every question in the project brief maps to a starting file:\n\n"
         "| Question | Start here |\n| --- | --- |\n"
-        "| *Everything about Georgia* | [03 — Team Index](03_Team_Index.md) → pp. 292–293, then Phase 3 team file |\n"
+        "| *Everything about Georgia* | [Georgia team file](../02_Team_Database/georgia_bulldogs.md) |\n"
         "| *Everything about the SEC* | [SEC conference file](../01_Conference_Database/sec.md) |\n"
         "| *Every coach entering Year 1* | [04 — Coaching Index](04_Coaching_Index.md) → Year 1 ⭐ |\n"
         "| *Every quarterback competition* | [06 — Quarterback Index](06_Quarterback_Index.md) → Phase 4 |\n"

@@ -293,9 +293,9 @@ Steve Makinen's win-total bets involving this conference (pp. 22–27):
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `connecticut_huskies.md` — Connecticut Huskies (guide pp. 210–211)
+- [Connecticut Huskies](../02_Team_Database/connecticut_huskies.md) — guide pp. 210–211
 
-- `notre_dame_fighting_irish.md` — Notre Dame Fighting Irish (guide pp. 212–213)
+- [Notre Dame Fighting Irish](../02_Team_Database/notre_dame_fighting_irish.md) — guide pp. 212–213

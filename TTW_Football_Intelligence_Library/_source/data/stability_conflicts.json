@@ -1,0 +1,12 @@
+[
+ {
+  "team": "Arizona Wildcats",
+  "field": "returning_starters_total",
+  "detail": "The team page (p. 116) prints 12 returning starters; the Stability Score table (p. 42) prints 14 for the same team. The team page is internally consistent \u2014 offence 4 plus defence 8 equals its own total \u2014 so both figures are reproduced as printed and neither is corrected."
+ },
+ {
+  "team": "Arizona State Sun Devils",
+  "field": "returning_starters_total",
+  "detail": "The team page (p. 118) prints 17 returning starters; the Stability Score table (p. 42) prints 12 for the same team. The team page is internally consistent \u2014 offence 8 plus defence 9 equals its own total \u2014 so both figures are reproduced as printed and neither is corrected."
+ }
+]

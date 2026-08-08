@@ -80,10 +80,10 @@ As printed in the preview. *DK Wins* is the DraftKings season win total; *Hm/Rd 
 | Navy Midshipmen | 7.5 | 44 | 2.3 | 0.8 | 35.19 (86) | 8.5–3.5 | 6.2–1.8 |
 | Tulane Green Wave | 7.5 | 42.5 | 3.4 | 0.6 | 35.2 (84) | 8.0–4.0 | 5.7–2.3 |
 | East Carolina Pirates | 7.5 | 40.5 | 3 | 0.7 | 33.46 (96) | 8.0–4.0 | 5.6–2.4 |
-| Memphis Tigers | 7.5 | 41 | 4.1 | -0.5 | 36.05 (80) | 7.7–4.3 | 5.3–2.7 |
-| South Florida Bulls | 7.5 | 41 | 2.9 | 0.7 | 35.48 (81) | 7.3–4.7 | 5.0–3.0 |
+| UTSA Roadrunners | 7.5 | 41 | 4.1 | -0.5 | 36.05 (80) | 7.7–4.3 | 5.3–2.7 |
+| Memphis Tigers | 7.5 | 41 | 2.9 | 0.7 | 35.48 (81) | 7.3–4.7 | 5.0–3.0 |
 | Army Black Knights | 7.5 | 40 | 2.5 | 0.8 | 34.11 (92) | 7.5–4.5 | 4.8–3.2 |
-| UTSA Roadrunners | 8.5 | 41 | 2.9 | 0.3 | 31.46 (112) | 8.4–3.6 | 4.8–3.2 |
+| South Florida Bulls | 8.5 | 41 | 2.9 | 0.3 | 31.46 (112) | 8.4–3.6 | 4.8–3.2 |
 | North Texas Eagles | 5.5 | 34.5 | 3.5 | 0.1 | 34.04 (93) | 5.9–6.1 | 4.3–3.7 |
 | Temple Owls | 5.5 | 34 | 3.4 | -0.8 | 35.45 (82) | 5.6–6.4 | 3.7–4.3 |
 | Tulsa Golden Hurricane | 5.5 | 32.5 | 1.5 | -0.6 | 34.23 (91) | 5.3–6.7 | 3.1–4.9 |
@@ -98,9 +98,9 @@ As printed in the preview. *DK Wins* is the DraftKings season win total; *Hm/Rd 
 Tiers are derived strictly from Makinen's **projected conference wins** in the table above. The guide does not print tier labels; the grouping is arithmetic, and the underlying numbers are shown so the split can be checked.
 
 
-- **Contenders** — Navy Midshipmen (6.2), Tulane Green Wave (5.7), East Carolina Pirates (5.6), Memphis Tigers (5.3), South Florida Bulls (5.0)
+- **Contenders** — Navy Midshipmen (6.2), Tulane Green Wave (5.7), East Carolina Pirates (5.6), UTSA Roadrunners (5.3), Memphis Tigers (5.0)
 
-- **Upper middle** — Army Black Knights (4.8), UTSA Roadrunners (4.8), North Texas Eagles (4.3), Temple Owls (3.7)
+- **Upper middle** — Army Black Knights (4.8), South Florida Bulls (4.8), North Texas Eagles (4.3), Temple Owls (3.7)
 
 - **Lower middle** — Tulsa Golden Hurricane (3.1), Florida Atlantic Owls (2.9)
 
@@ -470,33 +470,33 @@ Teams where Makinen's projected wins differ from the posted win total by a full 
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `army_black_knights.md` — Army Black Knights (guide pp. 50–51)
+- [Army Black Knights](../02_Team_Database/army_black_knights.md) — guide pp. 50–51
 
-- `charlotte_49ers.md` — Charlotte 49ers (guide pp. 52–53)
+- [Charlotte 49ers](../02_Team_Database/charlotte_49ers.md) — guide pp. 52–53
 
-- `east_carolina_pirates.md` — East Carolina Pirates (guide pp. 54–55)
+- [East Carolina Pirates](../02_Team_Database/east_carolina_pirates.md) — guide pp. 54–55
 
-- `florida_atlantic_owls.md` — Florida Atlantic Owls (guide pp. 56–57)
+- [Florida Atlantic Owls](../02_Team_Database/florida_atlantic_owls.md) — guide pp. 56–57
 
-- `memphis_tigers.md` — Memphis Tigers (guide pp. 58–59)
+- [Memphis Tigers](../02_Team_Database/memphis_tigers.md) — guide pp. 58–59
 
-- `navy_midshipmen.md` — Navy Midshipmen (guide pp. 60–61)
+- [Navy Midshipmen](../02_Team_Database/navy_midshipmen.md) — guide pp. 60–61
 
-- `north_texas_eagles.md` — North Texas Eagles (guide pp. 62–63)
+- [North Texas Eagles](../02_Team_Database/north_texas_eagles.md) — guide pp. 62–63
 
-- `rice_owls.md` — Rice Owls (guide pp. 64–65)
+- [Rice Owls](../02_Team_Database/rice_owls.md) — guide pp. 64–65
 
-- `south_florida_bulls.md` — South Florida Bulls (guide pp. 66–67)
+- [South Florida Bulls](../02_Team_Database/south_florida_bulls.md) — guide pp. 66–67
 
-- `temple_owls.md` — Temple Owls (guide pp. 68–69)
+- [Temple Owls](../02_Team_Database/temple_owls.md) — guide pp. 68–69
 
-- `tulane_green_wave.md` — Tulane Green Wave (guide pp. 70–71)
+- [Tulane Green Wave](../02_Team_Database/tulane_green_wave.md) — guide pp. 70–71
 
-- `tulsa_golden_hurricane.md` — Tulsa Golden Hurricane (guide pp. 72–73)
+- [Tulsa Golden Hurricane](../02_Team_Database/tulsa_golden_hurricane.md) — guide pp. 72–73
 
-- `uab_blazers.md` — UAB Blazers (guide pp. 74–75)
+- [UAB Blazers](../02_Team_Database/uab_blazers.md) — guide pp. 74–75
 
-- `utsa_roadrunners.md` — UTSA Roadrunners (guide pp. 76–77)
+- [UTSA Roadrunners](../02_Team_Database/utsa_roadrunners.md) — guide pp. 76–77

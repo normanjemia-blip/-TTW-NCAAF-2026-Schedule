@@ -515,37 +515,37 @@ Spread across **3** different teams — the degree of disagreement is itself the
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `alabama_crimson_tide.md` — Alabama Crimson Tide (guide pp. 284–285)
+- [Alabama Crimson Tide](../02_Team_Database/alabama_crimson_tide.md) — guide pp. 284–285
 
-- `arkansas_razorbacks.md` — Arkansas Razorbacks (guide pp. 286–287)
+- [Arkansas Razorbacks](../02_Team_Database/arkansas_razorbacks.md) — guide pp. 286–287
 
-- `auburn_tigers.md` — Auburn Tigers (guide pp. 288–289)
+- [Auburn Tigers](../02_Team_Database/auburn_tigers.md) — guide pp. 288–289
 
-- `florida_gators.md` — Florida Gators (guide pp. 290–291)
+- [Florida Gators](../02_Team_Database/florida_gators.md) — guide pp. 290–291
 
-- `georgia_bulldogs.md` — Georgia Bulldogs (guide pp. 292–293)
+- [Georgia Bulldogs](../02_Team_Database/georgia_bulldogs.md) — guide pp. 292–293
 
-- `kentucky_wildcats.md` — Kentucky Wildcats (guide pp. 294–295)
+- [Kentucky Wildcats](../02_Team_Database/kentucky_wildcats.md) — guide pp. 294–295
 
-- `lsu_tigers.md` — LSU Tigers (guide pp. 296–297)
+- [LSU Tigers](../02_Team_Database/lsu_tigers.md) — guide pp. 296–297
 
-- `mississippi_state_bulldogs.md` — Mississippi State Bulldogs (guide pp. 298–299)
+- [Mississippi State Bulldogs](../02_Team_Database/mississippi_state_bulldogs.md) — guide pp. 298–299
 
-- `missouri_tigers.md` — Missouri Tigers (guide pp. 300–301)
+- [Missouri Tigers](../02_Team_Database/missouri_tigers.md) — guide pp. 300–301
 
-- `oklahoma_sooners.md` — Oklahoma Sooners (guide pp. 302–303)
+- [Oklahoma Sooners](../02_Team_Database/oklahoma_sooners.md) — guide pp. 302–303
 
-- `ole_miss_rebels.md` — Ole Miss Rebels (guide pp. 304–305)
+- [Ole Miss Rebels](../02_Team_Database/ole_miss_rebels.md) — guide pp. 304–305
 
-- `south_carolina_gamecocks.md` — South Carolina Gamecocks (guide pp. 306–307)
+- [South Carolina Gamecocks](../02_Team_Database/south_carolina_gamecocks.md) — guide pp. 306–307
 
-- `tennessee_volunteers.md` — Tennessee Volunteers (guide pp. 308–309)
+- [Tennessee Volunteers](../02_Team_Database/tennessee_volunteers.md) — guide pp. 308–309
 
-- `texas_a_m_aggies.md` — Texas A&M Aggies (guide pp. 312–313)
+- [Texas A&M Aggies](../02_Team_Database/texas_a_m_aggies.md) — guide pp. 312–313
 
-- `texas_longhorns.md` — Texas Longhorns (guide pp. 310–311)
+- [Texas Longhorns](../02_Team_Database/texas_longhorns.md) — guide pp. 310–311
 
-- `vanderbilt_commodores.md` — Vanderbilt Commodores (guide pp. 314–315)
+- [Vanderbilt Commodores](../02_Team_Database/vanderbilt_commodores.md) — guide pp. 314–315

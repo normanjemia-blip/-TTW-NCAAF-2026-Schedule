@@ -423,21 +423,21 @@ Teams where Makinen's projected wins differ from the posted win total by a full 
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `boise_state_broncos.md` — Boise State Broncos (guide pp. 266–267)
+- [Boise State Broncos](../02_Team_Database/boise_state_broncos.md) — guide pp. 266–267
 
-- `colorado_state_rams.md` — Colorado State Rams (guide pp. 268–269)
+- [Colorado State Rams](../02_Team_Database/colorado_state_rams.md) — guide pp. 268–269
 
-- `fresno_state_bulldogs.md` — Fresno State Bulldogs (guide pp. 270–271)
+- [Fresno State Bulldogs](../02_Team_Database/fresno_state_bulldogs.md) — guide pp. 270–271
 
-- `oregon_state_beavers.md` — Oregon State Beavers (guide pp. 272–273)
+- [Oregon State Beavers](../02_Team_Database/oregon_state_beavers.md) — guide pp. 272–273
 
-- `san_diego_state_aztecs.md` — San Diego State Aztecs (guide pp. 274–275)
+- [San Diego State Aztecs](../02_Team_Database/san_diego_state_aztecs.md) — guide pp. 274–275
 
-- `texas_state_bobcats.md` — Texas State Bobcats (guide pp. 276–277)
+- [Texas State Bobcats](../02_Team_Database/texas_state_bobcats.md) — guide pp. 276–277
 
-- `utah_state_aggies.md` — Utah State Aggies (guide pp. 278–279)
+- [Utah State Aggies](../02_Team_Database/utah_state_aggies.md) — guide pp. 278–279
 
-- `washington_state_cougars.md` — Washington State Cougars (guide pp. 280–281)
+- [Washington State Cougars](../02_Team_Database/washington_state_cougars.md) — guide pp. 280–281

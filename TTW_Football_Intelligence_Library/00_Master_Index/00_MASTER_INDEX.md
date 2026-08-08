@@ -16,7 +16,7 @@
 | **Coordinators named** | 115 |
 | **Ranked quarterbacks** | 15 |
 | **Abbreviations defined** | 45 |
-| **Library status** | Phases 1–2 complete; Phase 3 awaiting approval |
+| **Library status** | Phases 1–3 complete; Phase 4 awaiting approval |
 
 
 ## Built databases
@@ -25,6 +25,7 @@
 | Phase | Database | Entry point |
 | --- | --- | --- |
 | 2 | Conference Database | [01_Conference_Database/00_CONFERENCE_INDEX.md](../01_Conference_Database/00_CONFERENCE_INDEX.md) |
+| 3 | Team Database (138 files) | [02_Team_Database/README.md](../02_Team_Database/README.md) |
 
 ## Index files
 
@@ -51,7 +52,7 @@ Every question in the project brief maps to a starting file:
 
 | Question | Start here |
 | --- | --- |
-| *Everything about Georgia* | [03 — Team Index](03_Team_Index.md) → pp. 292–293, then Phase 3 team file |
+| *Everything about Georgia* | [Georgia team file](../02_Team_Database/georgia_bulldogs.md) |
 | *Everything about the SEC* | [SEC conference file](../01_Conference_Database/sec.md) |
 | *Every coach entering Year 1* | [04 — Coaching Index](04_Coaching_Index.md) → Year 1 ⭐ |
 | *Every quarterback competition* | [06 — Quarterback Index](06_Quarterback_Index.md) → Phase 4 |

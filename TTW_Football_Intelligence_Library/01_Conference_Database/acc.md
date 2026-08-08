@@ -464,39 +464,39 @@ Spread across **5** different teams — the degree of disagreement is itself the
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `boston_college_eagles.md` — Boston College Eagles (guide pp. 80–81)
+- [Boston College Eagles](../02_Team_Database/boston_college_eagles.md) — guide pp. 80–81
 
-- `california_golden_bears.md` — California Golden Bears (guide pp. 82–83)
+- [California Golden Bears](../02_Team_Database/california_golden_bears.md) — guide pp. 82–83
 
-- `clemson_tigers.md` — Clemson Tigers (guide pp. 84–85)
+- [Clemson Tigers](../02_Team_Database/clemson_tigers.md) — guide pp. 84–85
 
-- `duke_blue_devils.md` — Duke Blue Devils (guide pp. 86–87)
+- [Duke Blue Devils](../02_Team_Database/duke_blue_devils.md) — guide pp. 86–87
 
-- `florida_state_seminoles.md` — Florida State Seminoles (guide pp. 88–89)
+- [Florida State Seminoles](../02_Team_Database/florida_state_seminoles.md) — guide pp. 88–89
 
-- `georgia_tech_yellow_jackets.md` — Georgia Tech Yellow Jackets (guide pp. 90–91)
+- [Georgia Tech Yellow Jackets](../02_Team_Database/georgia_tech_yellow_jackets.md) — guide pp. 90–91
 
-- `louisville_cardinals.md` — Louisville Cardinals (guide pp. 92–93)
+- [Louisville Cardinals](../02_Team_Database/louisville_cardinals.md) — guide pp. 92–93
 
-- `miami_hurricanes.md` — Miami Hurricanes (guide pp. 94–95)
+- [Miami Hurricanes](../02_Team_Database/miami_hurricanes.md) — guide pp. 94–95
 
-- `nc_state_wolfpack.md` — NC State Wolfpack (guide pp. 96–97)
+- [NC State Wolfpack](../02_Team_Database/nc_state_wolfpack.md) — guide pp. 96–97
 
-- `north_carolina_tar_heels.md` — North Carolina Tar Heels (guide pp. 98–99)
+- [North Carolina Tar Heels](../02_Team_Database/north_carolina_tar_heels.md) — guide pp. 98–99
 
-- `pittsburgh_panthers.md` — Pittsburgh Panthers (guide pp. 100–101)
+- [Pittsburgh Panthers](../02_Team_Database/pittsburgh_panthers.md) — guide pp. 100–101
 
-- `smu_mustangs.md` — SMU Mustangs (guide pp. 102–103)
+- [SMU Mustangs](../02_Team_Database/smu_mustangs.md) — guide pp. 102–103
 
-- `stanford_cardinal.md` — Stanford Cardinal (guide pp. 104–105)
+- [Stanford Cardinal](../02_Team_Database/stanford_cardinal.md) — guide pp. 104–105
 
-- `syracuse_orange.md` — Syracuse Orange (guide pp. 106–107)
+- [Syracuse Orange](../02_Team_Database/syracuse_orange.md) — guide pp. 106–107
 
-- `virginia_cavaliers.md` — Virginia Cavaliers (guide pp. 108–109)
+- [Virginia Cavaliers](../02_Team_Database/virginia_cavaliers.md) — guide pp. 108–109
 
-- `virginia_tech_hokies.md` — Virginia Tech Hokies (guide pp. 110–111)
+- [Virginia Tech Hokies](../02_Team_Database/virginia_tech_hokies.md) — guide pp. 110–111
 
-- `wake_forest_demon_deacons.md` — Wake Forest Demon Deacons (guide pp. 112–113)
+- [Wake Forest Demon Deacons](../02_Team_Database/wake_forest_demon_deacons.md) — guide pp. 112–113

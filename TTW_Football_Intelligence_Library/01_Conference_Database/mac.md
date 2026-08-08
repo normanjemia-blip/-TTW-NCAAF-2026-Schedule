@@ -426,31 +426,31 @@ Teams where Makinen's projected wins differ from the posted win total by a full 
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `akron_zips.md` — Akron Zips (guide pp. 216–217)
+- [Akron Zips](../02_Team_Database/akron_zips.md) — guide pp. 216–217
 
-- `ball_state_cardinals.md` — Ball State Cardinals (guide pp. 218–219)
+- [Ball State Cardinals](../02_Team_Database/ball_state_cardinals.md) — guide pp. 218–219
 
-- `bowling_green_falcons.md` — Bowling Green Falcons (guide pp. 220–221)
+- [Bowling Green Falcons](../02_Team_Database/bowling_green_falcons.md) — guide pp. 220–221
 
-- `buffalo_bulls.md` — Buffalo Bulls (guide pp. 222–223)
+- [Buffalo Bulls](../02_Team_Database/buffalo_bulls.md) — guide pp. 222–223
 
-- `central_michigan_chippewas.md` — Central Michigan Chippewas (guide pp. 224–225)
+- [Central Michigan Chippewas](../02_Team_Database/central_michigan_chippewas.md) — guide pp. 224–225
 
-- `eastern_michigan_eagles.md` — Eastern Michigan Eagles (guide pp. 226–227)
+- [Eastern Michigan Eagles](../02_Team_Database/eastern_michigan_eagles.md) — guide pp. 226–227
 
-- `kent_state_golden_flashes.md` — Kent State Golden Flashes (guide pp. 228–229)
+- [Kent State Golden Flashes](../02_Team_Database/kent_state_golden_flashes.md) — guide pp. 228–229
 
-- `massachusetts_minutemen.md` — Massachusetts Minutemen (guide pp. 230–231)
+- [Massachusetts Minutemen](../02_Team_Database/massachusetts_minutemen.md) — guide pp. 230–231
 
-- `miami_ohio_redhawks.md` — Miami (Ohio) RedHawks (guide pp. 232–233)
+- [Miami (Ohio) RedHawks](../02_Team_Database/miami_ohio_redhawks.md) — guide pp. 232–233
 
-- `ohio_u_bobcats.md` — Ohio U Bobcats (guide pp. 234–235)
+- [Ohio U Bobcats](../02_Team_Database/ohio_u_bobcats.md) — guide pp. 234–235
 
-- `sacramento_state_hornets.md` — Sacramento State Hornets (guide pp. 236–237)
+- [Sacramento State Hornets](../02_Team_Database/sacramento_state_hornets.md) — guide pp. 236–237
 
-- `toledo_rockets.md` — Toledo Rockets (guide pp. 238–239)
+- [Toledo Rockets](../02_Team_Database/toledo_rockets.md) — guide pp. 238–239
 
-- `western_michigan_broncos.md` — Western Michigan Broncos (guide pp. 240–241)
+- [Western Michigan Broncos](../02_Team_Database/western_michigan_broncos.md) — guide pp. 240–241

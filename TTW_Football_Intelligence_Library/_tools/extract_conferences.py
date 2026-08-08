@@ -131,16 +131,73 @@ def parse_author(page):
     return None
 
 
-def match_rows(conference, rows, members):
-    """Match standings rows to canonical teams; report anything unresolved."""
-    # Ratings print as "44" in standings tables and "44.0" on team pages, so
-    # they are keyed numerically rather than by string.
-    by_rating = {}
-    for team in members:
-        by_rating.setdefault(float(team["power_rating"]), []).append(team)
+# Standings short names that share no distinctive word with the canonical team
+# name, so token matching cannot reach them.
+NAME_ALIASES = {
+    "TX-SAN ANTONIO": "UTSA Roadrunners",
+    "FLA INTERNATIONAL": "FIU Golden Panthers",
+    "LA MONROE": "ULM Warhawks",
+    "LA LAFAYETTE": "Louisiana Ragin\u2019 Cajuns",
+    "GA SOUTHERN": "Georgia Southern Eagles",
+    "MIAMI FL": "Miami Hurricanes",
+    "MIAMI OHIO": "Miami (Ohio) RedHawks",
+    "OHIO": "Ohio U Bobcats",
+    "MISSISSIPPI": "Ole Miss Rebels",
+    "CONNECTICUT": "Connecticut Huskies",
+}
 
-    matched, duplicates, unmatched = [], [], []
+# Abbreviations used in the standings tables. "ST" is expanded rather than
+# discarded: dropping it would make KANSAS and KANSAS ST identical.
+ABBREVIATIONS = {
+    "ST": "STATE", "N": "NORTH", "S": "SOUTH", "E": "EAST", "W": "WEST",
+    "C": "CENTRAL", "FLA": "FLORIDA", "TENN": "TENNESSEE", "TX": "TEXAS",
+    "GA": "GEORGIA", "LA": "LOUISIANA", "MISS": "MISSISSIPPI",
+}
+
+# A directional word is part of the school's identity, not decoration:
+# Michigan, Western Michigan, Central Michigan and Eastern Michigan are four
+# different programmes. Same for STATE.
+QUALIFIERS = {"STATE", "NORTH", "SOUTH", "EAST", "WEST", "CENTRAL",
+              "NORTHERN", "SOUTHERN", "EASTERN", "WESTERN"}
+
+EQUIVALENT = {"NORTH": {"NORTH", "NORTHERN"}, "NORTHERN": {"NORTH", "NORTHERN"},
+              "SOUTH": {"SOUTH", "SOUTHERN"}, "SOUTHERN": {"SOUTH", "SOUTHERN"},
+              "EAST": {"EAST", "EASTERN"}, "EASTERN": {"EAST", "EASTERN"},
+              "WEST": {"WEST", "WESTERN"}, "WESTERN": {"WEST", "WESTERN"},
+              "CENTRAL": {"CENTRAL"}, "STATE": {"STATE"}}
+
+
+def name_tokens(text, expand=False):
+    text = text.upper().replace("-", " ")
+    toks = re.findall(r"[A-Z0-9&]+", text)
+    if expand:
+        toks = [ABBREVIATIONS.get(t, t) for t in toks]
+    return [t for t in toks if t not in {"UNIVERSITY", "OF", "THE"}]
+
+
+def qualifiers_of(tokens):
+    found = set()
+    for t in tokens:
+        if t in QUALIFIERS:
+            found |= EQUIVALENT[t]
+    return found
+
+
+def match_rows(conference, rows, members):
+    """Match standings rows to canonical teams by **name first**, using the
+    printed power rating only to separate candidates the name has already
+    narrowed.
+
+    Matching on the rating alone is not safe: within one conference up to three
+    teams can share a rating (the American prints 41.0 for Memphis, South
+    Florida and UTSA), so any tie-break on such rows is guesswork. Equally, the
+    name alone cannot separate Kansas from Kansas State unless qualifiers like
+    STATE and the directional prefixes are treated as identity, which they are
+    here.
+    """
+    matched, duplicates, unmatched, ambiguous = [], [], [], []
     used = set()
+    by_name = {t["team"]: t for t in members}
 
     for row in rows:
         key = (conference, row["table_name"])
@@ -148,16 +205,48 @@ def match_rows(conference, rows, members):
             duplicates.append({**row, **KNOWN_DUPLICATES[key]})
             continue
 
-        candidates = [t for t in by_rating.get(float(row["sm_power_rating"]), [])
-                      if t["team"] not in used]
-        if len(candidates) > 1:
-            tokens = set(re.findall(r"[A-Z]+", row["table_name"].upper()))
-            candidates.sort(
-                key=lambda t: -len(tokens & set(re.findall(r"[A-Z]+", t["team"].upper()))))
-            best = candidates[0]
-        elif candidates:
-            best = candidates[0]
+        printed = row["table_name"].upper().strip()
+        best = None
+
+        if printed in NAME_ALIASES and NAME_ALIASES[printed] in by_name:
+            best = by_name[NAME_ALIASES[printed]]
         else:
+            wanted = name_tokens(printed, expand=True)
+            want_quals = qualifiers_of(wanted)
+            want_base = {t for t in wanted if t not in QUALIFIERS}
+            candidates = []
+            for team in members:
+                if team["team"] in used:
+                    continue
+                have = name_tokens(team["team"], expand=True)
+                have_base = {t for t in have if t not in QUALIFIERS}
+                overlap = want_base & have_base
+                if overlap:
+                    candidates.append((len(overlap), qualifiers_of(have), team))
+            if candidates:
+                top = max(c[0] for c in candidates)
+                finalists = [c for c in candidates if c[0] == top]
+                if len(finalists) > 1:
+                    # Michigan, Western Michigan and Central Michigan share a
+                    # base; the qualifier is what separates them.
+                    exact = [c for c in finalists if c[1] == want_quals]
+                    if exact:
+                        finalists = exact
+                if len(finalists) == 1:
+                    best = finalists[0][2]
+                else:
+                    # Name has narrowed it; let the printed rating finish.
+                    by_rating = [c for c in finalists
+                                 if float(c[2]["power_rating"]) == float(row["sm_power_rating"])]
+                    if len(by_rating) == 1:
+                        best = by_rating[0][2]
+                    else:
+                        ambiguous.append(
+                            f"{conference}: '{row['table_name']}' matches "
+                            f"{[c[2]['team'] for c in finalists]} and the rating "
+                            f"{row['sm_power_rating']} does not separate them")
+
+        if best is None or best["team"] in used:
             unmatched.append(row)
             continue
 
@@ -171,7 +260,7 @@ def match_rows(conference, rows, members):
                         "ou_2025": best["ou_2025"]})
 
     missing = [t["team"] for t in members if t["team"] not in used]
-    return matched, duplicates, unmatched, missing
+    return matched, duplicates, unmatched, missing, ambiguous
 
 
 def main():
@@ -184,7 +273,8 @@ def main():
         page = conf["preview_page"]
         members = [t for t in teams if t["conference"] == name]
         rows = parse_standings(page)
-        matched, duplicates, unmatched, missing = match_rows(name, rows, members)
+        matched, duplicates, unmatched, missing, ambiguous = match_rows(name, rows, members)
+        problems.extend(ambiguous)
 
         if unmatched:
             problems.append(f"{name}: unmatched rows {[r['table_name'] for r in unmatched]}")

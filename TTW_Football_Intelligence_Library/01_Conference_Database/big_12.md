@@ -421,37 +421,37 @@ Spread across **3** different teams — the degree of disagreement is itself the
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `arizona_state_sun_devils.md` — Arizona State Sun Devils (guide pp. 118–119)
+- [Arizona State Sun Devils](../02_Team_Database/arizona_state_sun_devils.md) — guide pp. 118–119
 
-- `arizona_wildcats.md` — Arizona Wildcats (guide pp. 116–117)
+- [Arizona Wildcats](../02_Team_Database/arizona_wildcats.md) — guide pp. 116–117
 
-- `byu_cougars.md` — BYU Cougars (guide pp. 122–123)
+- [BYU Cougars](../02_Team_Database/byu_cougars.md) — guide pp. 122–123
 
-- `baylor_bears.md` — Baylor Bears (guide pp. 120–121)
+- [Baylor Bears](../02_Team_Database/baylor_bears.md) — guide pp. 120–121
 
-- `cincinnati_bearcats.md` — Cincinnati Bearcats (guide pp. 124–125)
+- [Cincinnati Bearcats](../02_Team_Database/cincinnati_bearcats.md) — guide pp. 124–125
 
-- `colorado_buffaloes.md` — Colorado Buffaloes (guide pp. 126–127)
+- [Colorado Buffaloes](../02_Team_Database/colorado_buffaloes.md) — guide pp. 126–127
 
-- `houston_cougars.md` — Houston Cougars (guide pp. 128–129)
+- [Houston Cougars](../02_Team_Database/houston_cougars.md) — guide pp. 128–129
 
-- `iowa_state_cyclones.md` — Iowa State Cyclones (guide pp. 130–131)
+- [Iowa State Cyclones](../02_Team_Database/iowa_state_cyclones.md) — guide pp. 130–131
 
-- `kansas_jayhawks.md` — Kansas Jayhawks (guide pp. 132–133)
+- [Kansas Jayhawks](../02_Team_Database/kansas_jayhawks.md) — guide pp. 132–133
 
-- `kansas_state_wildcats.md` — Kansas State Wildcats (guide pp. 134–135)
+- [Kansas State Wildcats](../02_Team_Database/kansas_state_wildcats.md) — guide pp. 134–135
 
-- `oklahoma_state_cowboys.md` — Oklahoma State Cowboys (guide pp. 136–137)
+- [Oklahoma State Cowboys](../02_Team_Database/oklahoma_state_cowboys.md) — guide pp. 136–137
 
-- `tcu_horned_frogs.md` — TCU Horned Frogs (guide pp. 138–139)
+- [TCU Horned Frogs](../02_Team_Database/tcu_horned_frogs.md) — guide pp. 138–139
 
-- `texas_tech_red_raiders.md` — Texas Tech Red Raiders (guide pp. 140–141)
+- [Texas Tech Red Raiders](../02_Team_Database/texas_tech_red_raiders.md) — guide pp. 140–141
 
-- `ucf_golden_knights.md` — UCF Golden Knights (guide pp. 142–143)
+- [UCF Golden Knights](../02_Team_Database/ucf_golden_knights.md) — guide pp. 142–143
 
-- `utah_utes.md` — Utah Utes (guide pp. 144–145)
+- [Utah Utes](../02_Team_Database/utah_utes.md) — guide pp. 144–145
 
-- `west_virginia_mountaineers.md` — West Virginia Mountaineers (guide pp. 146–147)
+- [West Virginia Mountaineers](../02_Team_Database/west_virginia_mountaineers.md) — guide pp. 146–147

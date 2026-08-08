@@ -420,25 +420,25 @@ Teams where Makinen's projected wins differ from the posted win total by a full 
 **Master Index:** [Conference Index](../00_Master_Index/02_Conference_Index.md) · [Team Index](../00_Master_Index/03_Team_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Power Ratings](../00_Master_Index/09_Power_Rating_Index.md)
 
 
-**Team files** (Phase 3, `02_Team_Database/`) — not yet built:
+**Team files** (Phase 3, `02_Team_Database/`):
 
 
-- `air_force_falcons.md` — Air Force Falcons (guide pp. 244–245)
+- [Air Force Falcons](../02_Team_Database/air_force_falcons.md) — guide pp. 244–245
 
-- `hawaii_rainbow_warriors.md` — Hawaii Rainbow Warriors (guide pp. 246–247)
+- [Hawaii Rainbow Warriors](../02_Team_Database/hawaii_rainbow_warriors.md) — guide pp. 246–247
 
-- `nevada_wolf_pack.md` — Nevada Wolf Pack (guide pp. 248–249)
+- [Nevada Wolf Pack](../02_Team_Database/nevada_wolf_pack.md) — guide pp. 248–249
 
-- `new_mexico_lobos.md` — New Mexico Lobos (guide pp. 250–251)
+- [New Mexico Lobos](../02_Team_Database/new_mexico_lobos.md) — guide pp. 250–251
 
-- `north_dakota_state_bison.md` — North Dakota State Bison (guide pp. 252–253)
+- [North Dakota State Bison](../02_Team_Database/north_dakota_state_bison.md) — guide pp. 252–253
 
-- `northern_illinois_huskies.md` — Northern Illinois Huskies (guide pp. 254–255)
+- [Northern Illinois Huskies](../02_Team_Database/northern_illinois_huskies.md) — guide pp. 254–255
 
-- `san_jose_state_spartans.md` — San Jose State Spartans (guide pp. 256–257)
+- [San Jose State Spartans](../02_Team_Database/san_jose_state_spartans.md) — guide pp. 256–257
 
-- `unlv_rebels.md` — UNLV Rebels (guide pp. 258–259)
+- [UNLV Rebels](../02_Team_Database/unlv_rebels.md) — guide pp. 258–259
 
-- `utep_miners.md` — UTEP Miners (guide pp. 260–261)
+- [UTEP Miners](../02_Team_Database/utep_miners.md) — guide pp. 260–261
 
-- `wyoming_cowboys.md` — Wyoming Cowboys (guide pp. 262–263)
+- [Wyoming Cowboys](../02_Team_Database/wyoming_cowboys.md) — guide pp. 262–263
