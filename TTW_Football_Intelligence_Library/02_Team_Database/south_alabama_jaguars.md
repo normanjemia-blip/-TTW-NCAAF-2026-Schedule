@@ -24,9 +24,20 @@
 | **Makinen projected wins** | 5.0–7.0 overall, 3.6–4.4 in conference |
 | **Schedule strength** | 32.68 (#102 toughest of 138) |
 
-### Season outlook as written in the guide (p. 340)
+### Season outlook — VSiN's analysis in reference form (p. 340)
 
-Let’s call this season the rubber match for Major Applewhite. Going 7-6 in Year 1 was a win, especially with 6.8 yards per play, a full yard per play better than opponents, and 34.4 PPG. Going 4-8 in Year 2 was a major disappointment, with just 5.4 YPP on offense and 26.5 PPG, while the defense regressed in several key areas. By no means do I think that Applewhite’s job is in jeopardy with another poor showing, but he knows things need to get better. That’s why he’s going to serve as his own OC and hired football lifer Todd Orlando to fix the defense. To be fair to Applewhite, he thought his starting QB Gio Lopez was coming back, but North Carolina showed up with a bag after spring practices. This season, Applewhite doesn’t have that problem with Bishop Davenport back, but he does have to figure out who will replace 1,000-yard rusher Kentrell Bullock and WR Devin Voisin, who had 67 catches, 27 more than anybody else. While the Jags have the fourth-ranked freshman class per 247Sports, they also have the second- worst transfer portal class. Under 5.5 I’m trusting my numbers here by swaying to the Under, as my projection is for 5.12 wins, but this is as high-variance of a team as you’ll see in the Sun Belt. If the offense does increase the tempo and create explosives, it’s a different story, but that could also negatively impact a team that is very short on depth and very green in the secondary. Drawing Marshall and App State from the East is one of the tougher draws as well.
+- The guide calls this season the rubber match for Major Applewhite, after two opposite results. *(p. 340)*
+- Year 1 is graded a win: 7-6 with 6.8 yards per play — a full yard per play better than opponents — and 34.4 PPG. *(p. 340)*
+- Year 2 is graded a major disappointment: 4-8 with just 5.4 yards per play and 26.5 PPG, alongside defensive regression in several key areas. *(p. 340)*
+- It is explicit that it does not think Applewhite's job is in jeopardy even with another poor showing, while noting he knows things need to improve — which it reads in two staffing decisions: he will call the offense himself and has hired football lifer Todd Orlando to fix the defense. *(p. 340)*
+- In fairness to the coach, the guide records that Applewhite expected starting quarterback Gio Lopez back until North Carolina arrived with money after spring practices. *(p. 340)*
+- That problem is gone this year with Bishop Davenport back, but the replacements needed are significant: 1,000-yard rusher Kentrell Bullock and receiver Devin Voisin, whose 67 catches were 27 more than anyone else on the team. *(p. 340)*
+- Its roster-building summary is a split verdict — the fourth-ranked freshman class per 247Sports alongside the second-worst transfer portal class. *(p. 340)*
+- Recommendation is Under 5.5 wins, described as trusting its own numbers, with a projection of 5.12 wins. *(p. 340)*
+- It attaches an unusually strong variance warning: this is as high-variance a team as you will see in the Sun Belt. Faster tempo and explosive plays would change the story, but could also hurt a team very short on depth and very green in the secondary. *(p. 340)*
+- On the schedule it flags drawing Marshall and App State from the East as one of the tougher cross-division draws. *(p. 340)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +89,13 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- That’s why he’s going to serve as his own OC and hired football lifer Todd Orlando to fix the defense. *(p. 340)*
-- OC Rob Ezell left for the same position at Wake Forest following a very successful 2024 season. *(p. 341)*
-- That was still a big drop from the previous two seasons when Kane Wommack was still the head coach. *(p. 341)*
+- The guide calls this season the rubber match for Major Applewhite, after two opposite results. *(p. 340)*
+- It is explicit that it does not think Applewhite's job is in jeopardy even with another poor showing, while noting he knows things need to improve — which it reads in two staffing decisions: he will call the offense himself and has hired football lifer Todd Orlando to fix the defense. *(p. 340)*
+- **Does Bishop’s Bunch improve on offense?** The guide traces the coordinator carousel first: Rob Ezell left for the same job at Wake Forest after a 2024 season in which the Jaguars posted 6.8 yards per play and surrendered only 17 sacks; Paul Petrino could not sustain those numbers, though it grants he got a raw deal with Lopez leaving. On the quarterback it is positive — Davenport prepared all summer knowing the team is his, and completed 68% of his passes, 12th nationally as a team figure, with a 12/6 touchdown-to-interception ratio in a run-reliant offense built around Bullock. With Bullock gone it expects Davenport to be asked to throw and run more, noting he had 116 carries for only 326 yards. Its stated answer, with Applewhite calling plays, is yes. *(p. 341)*
+- **Can the skill guys make up for the losses of Bullock and Voisin?** The guide treats this as the precondition for offensive improvement. The returning production it lists is modest: Keenan Phillips at 4.8 yards per carry on 126 attempts, PJ Martin at 5.4, and Anthony Eager second in catches with 40 for only 339 yards. It says game-breakers must emerge, especially at receiver, and states surprise that the Jaguars did not pursue portal options there with more fervour. Lacking size at the position, it expects Applewhite to run more tempo to use that group's speed and get the ball out quickly into space. The explosive-play evidence it cites comes from BCF Toys: under Petrino, South Alabama ranked 88th in share of plays gaining 7-plus yards and 124th at 10-plus; under Ezell, 24th and 54th. That gap is what Applewhite is chasing. *(p. 341)*
+- **What is our situation, Dad?** The heading is a film reference the guide acknowledges has nothing to do with football, prompted by the coordinator's first name. On substance, Todd Orlando inherits something of a mess. Even the 2024 defense allowed 5.8 yards per play while conceding 25.2 PPG — already a big drop from the two seasons before that under head coach Kane Wommack. The roster he inherits is thin: the top four tacklers are gone, though the guide points out that includes nobody with two or more sacks, because nobody on the team reached that mark. The single biggest loss is cornerback Nehemiah Chandler, now at Florida State. It sums the unit up as completely rebuilt with limited portal help. *(p. 341)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- I don’t think South Alabama fans care about the how or why here, but in his third season, coming off a disappointing 4-8 record, head coach Major Applewhite was able to secure his best recruit/transfer class this spring, with the 86th ranking beating last year’s grade by 31 positions. *(p. 23)*
+Also referenced on **pp. 23** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,8 +103,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 340)*.
 
-- To be fair to Applewhite, he thought his starting QB Gio Lopez was coming back, but North Carolina showed up with a bag after spring practices. *(p. 340)*
-- He had a 68% completion rate, as the Jaguars were 12th in the nation in that department. *(p. 341)*
+- In fairness to the coach, the guide records that Applewhite expected starting quarterback Gio Lopez back until North Carolina arrived with money after spring practices. *(p. 340)*
+- That problem is gone this year with Bishop Davenport back, but the replacements needed are significant: 1,000-yard rusher Kentrell Bullock and receiver Devin Voisin, whose 67 catches were 27 more than anyone else on the team. *(p. 340)*
+- **Does Bishop’s Bunch improve on offense?** The guide traces the coordinator carousel first: Rob Ezell left for the same job at Wake Forest after a 2024 season in which the Jaguars posted 6.8 yards per play and surrendered only 17 sacks; Paul Petrino could not sustain those numbers, though it grants he got a raw deal with Lopez leaving. On the quarterback it is positive — Davenport prepared all summer knowing the team is his, and completed 68% of his passes, 12th nationally as a team figure, with a 12/6 touchdown-to-interception ratio in a run-reliant offense built around Bullock. With Bullock gone it expects Davenport to be asked to throw and run more, noting he had 116 carries for only 326 yards. Its stated answer, with Applewhite calling plays, is yes. *(p. 341)*
 
 ## 10. Returning Production
 
@@ -109,44 +121,34 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 ## 11. Transfer Portal
 
-- While the Jags have the fourth-ranked freshman class per 247Sports, they also have the second- worst transfer portal class. *(p. 340)*
-- Some game-breakers need to step forward, especially at WR, where I’m very surprised that the Jaguars didn’t pursue portal options with more fervor. *(p. 341)*
-- This is a completely rebuilt defense with limited portal help. *(p. 341)*
+- In fairness to the coach, the guide records that Applewhite expected starting quarterback Gio Lopez back until North Carolina arrived with money after spring practices. *(p. 340)*
+- Its roster-building summary is a split verdict — the fourth-ranked freshman class per 247Sports alongside the second-worst transfer portal class. *(p. 340)*
+- **Can the skill guys make up for the losses of Bullock and Voisin?** The guide treats this as the precondition for offensive improvement. The returning production it lists is modest: Keenan Phillips at 4.8 yards per carry on 126 attempts, PJ Martin at 5.4, and Anthony Eager second in catches with 40 for only 339 yards. It says game-breakers must emerge, especially at receiver, and states surprise that the Jaguars did not pursue portal options there with more fervour. Lacking size at the position, it expects Applewhite to run more tempo to use that group's speed and get the ball out quickly into space. The explosive-play evidence it cites comes from BCF Toys: under Petrino, South Alabama ranked 88th in share of plays gaining 7-plus yards and 124th at 10-plus; under Ezell, 24th and 54th. That gap is what Applewhite is chasing. *(p. 341)*
+- **What is our situation, Dad?** The heading is a film reference the guide acknowledges has nothing to do with football, prompted by the coordinator's first name. On substance, Todd Orlando inherits something of a mess. Even the 2024 defense allowed 5.8 yards per play while conceding 25.2 PPG — already a big drop from the two seasons before that under head coach Kane Wommack. The roster he inherits is thin: the top four tacklers are gone, though the guide points out that includes nobody with two or more sacks, because nobody on the team reached that mark. The single biggest loss is cornerback Nehemiah Chandler, now at Florida State. It sums the unit up as completely rebuilt with limited portal help. *(p. 341)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- I don’t think South Alabama fans care about the how or why here, but in his third season, coming off a disappointing 4-8 record, head coach Major Applewhite was able to secure his best recruit/transfer class this spring, with the 86th ranking beating last year’s grade by 31 positions. *(p. 23)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
+Referenced in the guide on **pp. 23, 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- While the Jags have the fourth-ranked freshman class per 247Sports, they also have the second- worst transfer portal class. *(p. 340)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SOUTH ALABAMA – OVER 5.5 WINS Sometimes, there’s no rhyme or reason to figuring out why a specific improvement or decline in a recruiting season occurs. *(p. 23)*
-- I don’t think South Alabama fans care about the how or why here, but in his third season, coming off a disappointing 4-8 record, head coach Major Applewhite was able to secure his best recruit/transfer class this spring, with the 86th ranking beating last year’s grade by 31 positions. *(p. 23)*
+Referenced in the guide on **pp. 23, 340** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Going 7-6 in Year 1 was a win, especially with 6.8 yards per play, a full yard per play better than opponents, and 34.4 PPG. *(p. 340)*
-- Going 4-8 in Year 2 was a major disappointment, with just 5.4 YPP on offense and 26.5 PPG, while the defense regressed in several key areas. *(p. 340)*
-- If the offense does increase the tempo and create explosives, it’s a different story, but that could also negatively impact a team that is very short on depth and very green in the secondary. *(p. 340)*
-- There isn’t a lot of size at WR, but Applewhite will probably run with more tempo to use that group’s speed and get the ball out quickly into space. *(p. 341)*
+- Year 1 is graded a win: 7-6 with 6.8 yards per play — a full yard per play better than opponents — and 34.4 PPG. *(p. 340)*
+- Year 2 is graded a major disappointment: 4-8 with just 5.4 yards per play and 26.5 PPG, alongside defensive regression in several key areas. *(p. 340)*
+- That problem is gone this year with Bishop Davenport back, but the replacements needed are significant: 1,000-yard rusher Kentrell Bullock and receiver Devin Voisin, whose 67 catches were 27 more than anyone else on the team. *(p. 340)*
+- It attaches an unusually strong variance warning: this is as high-variance a team as you will see in the Sun Belt. Faster tempo and explosive plays would change the story, but could also hurt a team very short on depth and very green in the secondary. *(p. 340)*
+- **Does Bishop’s Bunch improve on offense?** The guide traces the coordinator carousel first: Rob Ezell left for the same job at Wake Forest after a 2024 season in which the Jaguars posted 6.8 yards per play and surrendered only 17 sacks; Paul Petrino could not sustain those numbers, though it grants he got a raw deal with Lopez leaving. On the quarterback it is positive — Davenport prepared all summer knowing the team is his, and completed 68% of his passes, 12th nationally as a team figure, with a 12/6 touchdown-to-interception ratio in a run-reliant offense built around Bullock. With Bullock gone it expects Davenport to be asked to throw and run more, noting he had 116 carries for only 326 yards. Its stated answer, with Applewhite calling plays, is yes. *(p. 341)*
+- **Can the skill guys make up for the losses of Bullock and Voisin?** The guide treats this as the precondition for offensive improvement. The returning production it lists is modest: Keenan Phillips at 4.8 yards per carry on 126 attempts, PJ Martin at 5.4, and Anthony Eager second in catches with 40 for only 339 yards. It says game-breakers must emerge, especially at receiver, and states surprise that the Jaguars did not pursue portal options there with more fervour. Lacking size at the position, it expects Applewhite to run more tempo to use that group's speed and get the ball out quickly into space. The explosive-play evidence it cites comes from BCF Toys: under Petrino, South Alabama ranked 88th in share of plays gaining 7-plus yards and 124th at 10-plus; under Ezell, 24th and 54th. That gap is what Applewhite is chasing. *(p. 341)*
 
 ## 14. Defensive Identity
 
-- Going 4-8 in Year 2 was a major disappointment, with just 5.4 YPP on offense and 26.5 PPG, while the defense regressed in several key areas. *(p. 340)*
-- That’s why he’s going to serve as his own OC and hired football lifer Todd Orlando to fix the defense. *(p. 340)*
-- If the offense does increase the tempo and create explosives, it’s a different story, but that could also negatively impact a team that is very short on depth and very green in the secondary. *(p. 340)*
-- Not only did the Jaguars have 6.8 YPP, but they also surrendered just 17 sacks. *(p. 341)*
-- Even the Jaguars defense back in 2024 allowed 5.8 YPP, even though they only allowed 25.2 PPG. *(p. 341)*
-- I’m sure Orlando asked Applewhite what he had to work with and it’s not much, as the top four tacklers are gone, though nobody with 2+ sacks because nobody on the team had 2+ sacks. *(p. 341)*
-- This is a completely rebuilt defense with limited portal help. *(p. 341)*
+- Year 2 is graded a major disappointment: 4-8 with just 5.4 yards per play and 26.5 PPG, alongside defensive regression in several key areas. *(p. 340)*
+- It attaches an unusually strong variance warning: this is as high-variance a team as you will see in the Sun Belt. Faster tempo and explosive plays would change the story, but could also hurt a team very short on depth and very green in the secondary. *(p. 340)*
+- **What is our situation, Dad?** The heading is a film reference the guide acknowledges has nothing to do with football, prompted by the coordinator's first name. On substance, Todd Orlando inherits something of a mess. Even the 2024 defense allowed 5.8 yards per play while conceding 25.2 PPG — already a big drop from the two seasons before that under head coach Kane Wommack. The roster he inherits is thin: the top four tacklers are gone, though the guide points out that includes nobody with two or more sacks, because nobody on the team reached that mark. The single biggest loss is cornerback Nehemiah Chandler, now at Florida State. It sums the unit up as completely rebuilt with limited portal help. *(p. 341)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The safety position looks good with homegrown star Shamir Sterlin and twoyear South Alabama starter Wesley Miller. *(p. 191)*
+Referenced in the guide on **pp. 191** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -215,17 +217,16 @@ Prices printed on the team page *(p. 341)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 5.5 wins, described as trusting its own numbers, with a projection of 5.12 wins. *(p. 340)*
+- It attaches an unusually strong variance warning: this is as high-variance a team as you will see in the Sun Belt. Faster tempo and explosive plays would change the story, but could also hurt a team very short on depth and very green in the secondary. *(p. 340)*
+- On the schedule it flags drawing Marshall and App State from the East as one of the tougher cross-division draws. *(p. 340)*
 
 ## 22. Historical / Situational Trends
 
-- With Bullock gone, Davenport may be asked to throw more and run more, as he had 116 carries last season, but just for 326 yards. *(p. 341)*
-- Even the Jaguars defense back in 2024 allowed 5.8 YPP, even though they only allowed 25.2 PPG. *(p. 341)*
+- Year 1 is graded a win: 7-6 with 6.8 yards per play — a full yard per play better than opponents — and 34.4 PPG. *(p. 340)*
+- Year 2 is graded a major disappointment: 4-8 with just 5.4 yards per play and 26.5 PPG, alongside defensive regression in several key areas. *(p. 340)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- I don’t think South Alabama fans care about the how or why here, but in his third season, coming off a disappointing 4-8 record, head coach Major Applewhite was able to secure his best recruit/transfer class this spring, with the 86th ranking beating last year’s grade by 31 positions. *(p. 23)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
+Referenced in the guide on **pp. 23, 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -270,11 +271,9 @@ As printed on p. 341. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- OC Rob Ezell left for the same position at Wake Forest following a very successful 2024 season. *(p. 341)*
-- SOUTH ALABAMA – OVER 5.5 WINS Sometimes, there’s no rhyme or reason to figuring out why a specific improvement or decline in a recruiting season occurs. *(p. 23)*
-- I don’t think South Alabama fans care about the how or why here, but in his third season, coming off a disappointing 4-8 record, head coach Major Applewhite was able to secure his best recruit/transfer class this spring, with the 86th ranking beating last year’s grade by 31 positions. *(p. 23)*
-- The safety position looks good with homegrown star Shamir Sterlin and twoyear South Alabama starter Wesley Miller. *(p. 191)*
-- They draw South Alabama and UL Monroe from the West Division and all of their home games are winnable in conference play, plus they host a FCS team and a poor Middle Tennessee squad. *(p. 328)*
+- It is explicit that it does not think Applewhite's job is in jeopardy even with another poor showing, while noting he knows things need to improve — which it reads in two staffing decisions: he will call the offense himself and has hired football lifer Todd Orlando to fix the defense. *(p. 340)*
+- It attaches an unusually strong variance warning: this is as high-variance a team as you will see in the Sun Belt. Faster tempo and explosive plays would change the story, but could also hurt a team very short on depth and very green in the secondary. *(p. 340)*
+- The guide treats this as the precondition for offensive improvement. The returning production it lists is modest: Keenan Phillips at 4.8 yards per carry on 126 attempts, PJ Martin at 5.4, and Anthony Eager second in catches with 40 for only 339 yards. It says game-breakers must emerge, especially at receiver, and states surprise that the Jaguars did not pursue portal options there with more fervour. Lacking size at the position, it expects Applewhite to run more tempo to use that group's speed and get the ball out quickly into space. The explosive-play evidence it cites comes from BCF Toys: under Petrino, South Alabama ranked 88th in share of plays gaining 7-plus yards and 124th at 10-plus; under Ezell, 24th and 54th. That gap is what Applewhite is chasing. *(p. 341)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -282,30 +281,28 @@ As printed on p. 341. Each category carries a value and a national rank.
 
 - Makinen projects **5.0 wins** against a posted total of 5.5 — **-0.5** against this team.
 - The team page recommends **UNDER 5.5**.
-- Going 4-8 in Year 2 was a major disappointment, with just 5.4 YPP on offense and 26.5 PPG, while the defense regressed in several key areas. *(p. 340)*
-- With Applewhite calling the shots, my answer to this question is ‘Yes’. *(p. 341)*
-- The biggest loss by far is CB Nehemiah Chandler, who is now at Florida State. *(p. 341)*
-- The Green Wave are likely to split their non-conference games against Duke, South Alabama, Kansas State, and Southern Miss. *(p. 70)*
-- Lamb brought in transfers from Texas A&M and Ole Miss last season and now added South Alabama’s starting center in Malachi Preciado, who was originally at Purdue. *(p. 73)*
+- Year 2 is graded a major disappointment: 4-8 with just 5.4 yards per play and 26.5 PPG, alongside defensive regression in several key areas. *(p. 340)*
+- The heading is a film reference the guide acknowledges has nothing to do with football, prompted by the coordinator's first name. On substance, Todd Orlando inherits something of a mess. Even the 2024 defense allowed 5.8 yards per play while conceding 25.2 PPG — already a big drop from the two seasons before that under head coach Kane Wommack. The roster he inherits is thin: the top four tacklers are gone, though the guide points out that includes nobody with two or more sacks, because nobody on the team reached that mark. The single biggest loss is cornerback Nehemiah Chandler, now at Florida State. It sums the unit up as completely rebuilt with limited portal help. *(p. 341)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 341)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 341)*. Its analysis, in reference form:
 
 ### Does Bishop’s Bunch improve on offense?
 
-OC Rob Ezell left for the same position at Wake Forest following a very successful 2024 season. Not only did the Jaguars have 6.8 YPP, but they also surrendered just 17 sacks. Paul Petrino was not able to keep up those numbers, though he did get a raw deal with Lopez leaving. In any event, Davenport got to prep all summer long knowing that it’s his team. He had a 68% completion rate, as the Jaguars were 12th in the nation in that department. He only had a 12/6 TD/INT ratio, as the team was reliant on the run with Bullock. With Bullock gone, Davenport may be asked to throw more and run more, as he had 116 carries last season, but just for 326 yards. With Applewhite calling the shots, my answer to this question is ‘Yes’.
+The guide traces the coordinator carousel first: Rob Ezell left for the same job at Wake Forest after a 2024 season in which the Jaguars posted 6.8 yards per play and surrendered only 17 sacks; Paul Petrino could not sustain those numbers, though it grants he got a raw deal with Lopez leaving. On the quarterback it is positive — Davenport prepared all summer knowing the team is his, and completed 68% of his passes, 12th nationally as a team figure, with a 12/6 touchdown-to-interception ratio in a run-reliant offense built around Bullock. With Bullock gone it expects Davenport to be asked to throw and run more, noting he had 116 carries for only 326 yards. Its stated answer, with Applewhite calling plays, is yes. *(p. 341)*
 
 ### Can the skill guys make up for the losses of Bullock and Voisin?
 
-In order to achieve the above, this is a big part of the equation. Keenan Phillips had 4.8 yards per carry over 126 attempts and PJ Martin had 5.4 yards per carry. Anthony Eager was second with 40 catches, but only had 339 yards. Some game-breakers need to step forward, especially at WR, where I’m very surprised that the Jaguars didn’t pursue portal options with more fervor. There isn’t a lot of size at WR, but Applewhite will probably run with more tempo to use that group’s speed and get the ball out quickly into space. Under Petrino, South Alabama was 88th in percentage of plays of 7+ yards and 124th in percentage of plays of 10+ yards per BCF Toys. Under Ezell, they were 24th in 7+ yards and 54th in 10+ yards. That’s what Applewhite is looking for.
+The guide treats this as the precondition for offensive improvement. The returning production it lists is modest: Keenan Phillips at 4.8 yards per carry on 126 attempts, PJ Martin at 5.4, and Anthony Eager second in catches with 40 for only 339 yards. It says game-breakers must emerge, especially at receiver, and states surprise that the Jaguars did not pursue portal options there with more fervour. Lacking size at the position, it expects Applewhite to run more tempo to use that group's speed and get the ball out quickly into space. The explosive-play evidence it cites comes from BCF Toys: under Petrino, South Alabama ranked 88th in share of plays gaining 7-plus yards and 124th at 10-plus; under Ezell, 24th and 54th. That gap is what Applewhite is chasing. *(p. 341)*
 
 ### What is our situation, Dad?
 
-I’m sorry; it has nothing to do with football, but anytime I see the name Todd, all I can think of is Todd Cleary from Wedding Crashers. Todd Orlando steps into something of a mess. Even the Jaguars defense back in 2024 allowed 5.8 YPP, even though they only allowed 25.2 PPG. That was still a big drop from the previous two seasons when Kane Wommack was still the head coach. I’m sure Orlando asked Applewhite what he had to work with and it’s not much, as the top four tacklers are gone, though nobody with 2+ sacks because nobody on the team had 2+ sacks. The biggest loss by far is CB Nehemiah Chandler, who is now at Florida State. This is a completely rebuilt defense with limited portal help.
+The heading is a film reference the guide acknowledges has nothing to do with football, prompted by the coordinator's first name. On substance, Todd Orlando inherits something of a mess. Even the 2024 defense allowed 5.8 yards per play while conceding 25.2 PPG — already a big drop from the two seasons before that under head coach Kane Wommack. The roster he inherits is thin: the top four tacklers are gone, though the guide points out that includes nobody with two or more sacks, because nobody on the team reached that mark. The single biggest loss is cornerback Nehemiah Chandler, now at Florida State. It sums the unit up as completely rebuilt with limited portal help. *(p. 341)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

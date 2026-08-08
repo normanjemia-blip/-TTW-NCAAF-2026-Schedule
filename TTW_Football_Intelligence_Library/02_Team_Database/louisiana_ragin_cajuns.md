@@ -24,9 +24,20 @@
 | **Makinen projected wins** | 7.4–4.6 overall, 4.9–3.1 in conference |
 | **Schedule strength** | 29.13 (#128 toughest of 138) |
 
-### Season outlook as written in the guide (p. 334)
+### Season outlook — VSiN's analysis in reference form (p. 334)
 
-Every season is a big one for a head coach nowadays because boosters and fans demand results, but this feels like a really, really big one for Michael Desormeaux. The fact that he was a Ragin’ Cajun QB from 2005-08 probably adds some leeway, but Louisiana has three 6-7 seasons on his watch and one 10-4 season that ended with a 31-3 loss in the conference title game and then a 34-3 loss in the bowl game. Not only that, but the former OC under Billy Napier saw his offense drop by 4.9 PPG and 1.3 YPP from 2024 to 2025. Times have changed, but Billy Napier took a program that went 5-7 in Mark Hudspeth’s final season and had wins vacated because of NCAA violations to 11 wins in Year 2. Napier had 33 wins in his final three seasons, as Desormeaux coached the bowl. Desormeaux has just 28 wins in his four seasons at the helm. Maybe more importantly, Napier had seven losses in Year 1 and just five after that. The Ragin’ Cajuns enter this season with the fewest portal additions in the conference, so either there’s not much money there or nobody’s willing to invest money. Under 7.5 I don’t know that things are working with Desormeaux here and the athletic department may have to make a big decision. He got a five-year extension after the 10-4 season, but reverted right back to what he was doing prior to that year. The complete lack of transfer portal involvement concerns me greatly, as other programs in the conference are getting better externally, while Louisiana is trying to rely on player development internally. The division is bad, and they do host Troy, so they’re lucky there, but the trajectory here worries me. My projection is 7.25 wins.
+- The guide's premise is that every season is a big one for a head coach now because boosters and fans demand results — and that this one feels really, really big for Michael Desormeaux. *(p. 334)*
+- It allows that having been a Ragin' Cajun quarterback from 2005-08 probably buys him some leeway. *(p. 334)*
+- The record it sets against that: three 6-7 seasons on his watch plus one 10-4 season that ended with a 31-3 loss in the conference title game and a 34-3 loss in the bowl. *(p. 334)*
+- It adds a pointed detail about his own specialism — the former offensive coordinator under Billy Napier saw his offense fall by 4.9 PPG and 1.3 yards per play from 2024 to 2025. *(p. 334)*
+- The comparison it draws is with Napier's tenure, while conceding times have changed: Napier took a programme that went 5-7 in Mark Hudspeth's final season, with wins vacated for NCAA violations, to 11 wins in Year 2, and won 33 games in his final three seasons — with Desormeaux coaching the bowl. *(p. 334)*
+- The arithmetic is stark in its telling: Desormeaux has just 28 wins in four seasons at the helm, and — it says perhaps more importantly — Napier had seven losses in Year 1 and only five in total after that. *(p. 334)*
+- On roster building it records the fewest portal additions in the conference, and offers two possible explanations: either there is not much money there, or nobody is willing to invest it. *(p. 334)*
+- Recommendation is Under 7.5 wins. The guide states it does not know that things are working with Desormeaux and that the athletic department may face a big decision, noting he received a five-year extension after the 10-4 season and then reverted right back to his prior form. *(p. 334)*
+- Its central worry is stated as the complete lack of portal involvement while other conference programmes improve externally and Louisiana relies on internal development. *(p. 334)*
+- The mitigating factors it grants are a bad division and hosting Troy; the trajectory still worries it. Projection is 7.25 wins. *(p. 334)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,18 +89,17 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Every season is a big one for a head coach nowadays because boosters and fans demand results, but this feels like a really, really big one for Michael Desormeaux. *(p. 334)*
-- Not only that, but the former OC under Billy Napier saw his offense drop by 4.9 PPG and 1.3 YPP from 2024 to 2025. *(p. 334)*
-- Napier had 33 wins in his final three seasons, as Desormeaux coached the bowl. *(p. 334)*
-- Perhaps that will help, especially since OC Tim Leger can scheme the offense exclusively around him. *(p. 335)*
-- It is surprising that Desormeaux and the staff didn’t attack the portal more aggressively to find additional depth at that position, but because of the injuries, a lot of guys did get some important reps. *(p. 335)*
-- Jim Salgado had a rough first year as the DC. *(p. 335)*
+- The guide's premise is that every season is a big one for a head coach now because boosters and fans demand results — and that this one feels really, really big for Michael Desormeaux. *(p. 334)*
+- It allows that having been a Ragin' Cajun quarterback from 2005-08 probably buys him some leeway. *(p. 334)*
+- The record it sets against that: three 6-7 seasons on his watch plus one 10-4 season that ended with a 31-3 loss in the conference title game and a 34-3 loss in the bowl. *(p. 334)*
+- It adds a pointed detail about his own specialism — the former offensive coordinator under Billy Napier saw his offense fall by 4.9 PPG and 1.3 yards per play from 2024 to 2025. *(p. 334)*
+- The comparison it draws is with Napier's tenure, while conceding times have changed: Napier took a programme that went 5-7 in Mark Hudspeth's final season, with wins vacated for NCAA violations, to 11 wins in Year 2, and won 33 games in his final three seasons — with Desormeaux coaching the bowl. *(p. 334)*
+- The arithmetic is stark in its telling: Desormeaux has just 28 wins in four seasons at the helm, and — it says perhaps more importantly — Napier had seven losses in Year 1 and only five in total after that. *(p. 334)*
+- Recommendation is Under 7.5 wins. The guide states it does not know that things are working with Desormeaux and that the athletic department may face a big decision, noting he received a five-year extension after the 10-4 season and then reverted right back to his prior form. *(p. 334)*
+- **Does Desormeaux deserve a pass for last season?** The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
+- **Will the disappointing defense bounce back?** The guide's verdict on Jim Salgado's first year as coordinator is a rough one. It acknowledges the secondary was hit hard by absences, but locates the real concern in the pass rush: 23 sacks in 13 games and a tie for 112th in tackles for loss per game. Departures compound it — top tacklers Jaden Dugger and Terrance Williams are gone after 220 stops, with Dugger contributing nine tackles for loss and Jordan Lawson 10, the two combining for nine sacks. It names true sophomore Brent Gordon as a player in the secondary, but concludes impact players seem few and far between. *(p. 335)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Golding has also worked under now-Browns head coach Todd Monken at Southern Miss, new Arkansas DC Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin. *(p. 36)*
-- With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. *(p. 198)*
-- Scelfo has been at SE Louisiana coaching under his father since 2021, as this will be his first time calling plays at the FBS level. *(p. 199)*
+Also referenced on **pp. 36, 198, 199** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -97,9 +107,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 334)*.
 
-- The fact that he was a Ragin’ Cajun QB from 2005-08 probably adds some leeway, but Louisiana has three 6-7 seasons on his watch and one 10-4 season that ended with a 31-3 loss in the conference title game and then a 34-3 loss in the bowl game. *(p. 334)*
-- Winfield’s running prowess certainly helped, as he was a mediocre-at-best passer with an 11/7 TD/INT ratio and a 58.8% completion rate, but he did run for 667 yards and added nine rushing touchdowns. *(p. 335)*
-- It did take some time to finally settle on a QB, but this offense may not have had steady success regardless. *(p. 335)*
+- **What’s on the menu for Lunch?** The subject is Lunch Winfield, who led a four-game winning streak at the end of the regular season to get Louisiana to a bowl. The guide stresses how narrow that run was: three of those wins came by four points or fewer, as did four of the team's five conference wins. Its assessment of him is split by skill — a mediocre-at-best passer with an 11/7 touchdown-to-interception ratio and 58.8% completions, but a genuine runner with 667 yards and nine rushing touchdowns. It notes the job is officially his now after he lost out to Walker Howard at the start of last season and then split time with Daniel Beale once Howard was hurt, and suggests that clarity may help, since coordinator Tim Leger can now scheme the offense exclusively around him. *(p. 335)*
 
 ## 10. Returning Production
 
@@ -115,9 +123,9 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- The Ragin’ Cajuns enter this season with the fewest portal additions in the conference, so either there’s not much money there or nobody’s willing to invest money. *(p. 334)*
-- The complete lack of transfer portal involvement concerns me greatly, as other programs in the conference are getting better externally, while Louisiana is trying to rely on player development internally. *(p. 334)*
-- It is surprising that Desormeaux and the staff didn’t attack the portal more aggressively to find additional depth at that position, but because of the injuries, a lot of guys did get some important reps. *(p. 335)*
+- On roster building it records the fewest portal additions in the conference, and offers two possible explanations: either there is not much money there, or nobody is willing to invest it. *(p. 334)*
+- Its central worry is stated as the complete lack of portal involvement while other conference programmes improve externally and Louisiana relies on internal development. *(p. 334)*
+- **Does Desormeaux deserve a pass for last season?** The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
 
 ## 12. Recruiting / Roster Notes
 
@@ -125,23 +133,15 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Not only that, but the former OC under Billy Napier saw his offense drop by 4.9 PPG and 1.3 YPP from 2024 to 2025. *(p. 334)*
-- Winfield’s running prowess certainly helped, as he was a mediocre-at-best passer with an 11/7 TD/INT ratio and a 58.8% completion rate, but he did run for 667 yards and added nine rushing touchdowns. *(p. 335)*
-- Perhaps that will help, especially since OC Tim Leger can scheme the offense exclusively around him. *(p. 335)*
-- It did take some time to finally settle on a QB, but this offense may not have had steady success regardless. *(p. 335)*
-- This was a battered and bruised offensive line last season, as three players suffered long- term injuries early and there was constant shuffling as a result of those injuries, plus other guys missing time here and there. *(p. 335)*
+- It adds a pointed detail about his own specialism — the former offensive coordinator under Billy Napier saw his offense fall by 4.9 PPG and 1.3 yards per play from 2024 to 2025. *(p. 334)*
+- **What’s on the menu for Lunch?** The subject is Lunch Winfield, who led a four-game winning streak at the end of the regular season to get Louisiana to a bowl. The guide stresses how narrow that run was: three of those wins came by four points or fewer, as did four of the team's five conference wins. Its assessment of him is split by skill — a mediocre-at-best passer with an 11/7 touchdown-to-interception ratio and 58.8% completions, but a genuine runner with 667 yards and nine rushing touchdowns. It notes the job is officially his now after he lost out to Walker Howard at the start of last season and then split time with Daniel Beale once Howard was hurt, and suggests that clarity may help, since coordinator Tim Leger can now scheme the offense exclusively around him. *(p. 335)*
+- **Does Desormeaux deserve a pass for last season?** The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. *(p. 198)*
+Referenced in the guide on **pp. 198** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The secondary was hit hard by absences over the course of the season, but the real concern is that nobody got into the backfield. *(p. 335)*
-- The Ragin’ Cajuns had just 23 sacks in 13 games and tied for 112th in tackles for loss per game. *(p. 335)*
-- Their top tacklers, Jaden Dugger and Terrance Williams, are gone after 220 stops. *(p. 335)*
-- Dugger had nine TFL and Jordan Lawson had 10 TFL and those two combined for nine sacks. *(p. 335)*
-- True sophomore Brent Gordon looks like a player in the secondary, but impact players seem few and far between. *(p. 335)*
+- **Will the disappointing defense bounce back?** The guide's verdict on Jim Salgado's first year as coordinator is a rough one. It acknowledges the secondary was hit hard by absences, but locates the real concern in the pass rush: 23 sacks in 13 games and a tie for 112th in tackles for loss per game. Departures compound it — top tacklers Jaden Dugger and Terrance Williams are gone after 220 stops, with Dugger contributing nine tackles for loss and Jordan Lawson 10, the two combining for nine sacks. It names true sophomore Brent Gordon as a player in the secondary, but concludes impact players seem few and far between. *(p. 335)*
 
 ## 15. Key Strengths
 
@@ -203,23 +203,19 @@ Prices printed on the team page *(p. 335)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 7.5 wins. The guide states it does not know that things are working with Desormeaux and that the athletic department may face a big decision, noting he received a five-year extension after the 10-4 season and then reverted right back to his prior form. *(p. 334)*
+- Its central worry is stated as the complete lack of portal involvement while other conference programmes improve externally and Louisiana relies on internal development. *(p. 334)*
+- The mitigating factors it grants are a bad division and hosting Troy; the trajectory still worries it. Projection is 7.25 wins. *(p. 334)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
+Also referenced on **pp. 332** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- That would be Lunch Winfield, who led a four-game winning streak at the end of the regular season to get the Ragin’ Cajuns to a bowl game. *(p. 335)*
-- It is officially his team now after losing out to Walker Howard at the start of last season and then splitting time with Daniel Beale after Howard got hurt. *(p. 335)*
-- Perhaps that will help, especially since OC Tim Leger can scheme the offense exclusively around him. *(p. 335)*
-- This was a battered and bruised offensive line last season, as three players suffered long- term injuries early and there was constant shuffling as a result of those injuries, plus other guys missing time here and there. *(p. 335)*
-- Louisiana only had one game with 30 pass attempts in conference play last season, so the health of the run-blockers here is paramount. *(p. 335)*
+- The record it sets against that: three 6-7 seasons on his watch plus one 10-4 season that ended with a 31-3 loss in the conference title game and a 34-3 loss in the bowl. *(p. 334)*
+- The comparison it draws is with Napier's tenure, while conceding times have changed: Napier took a programme that went 5-7 in Mark Hudspeth's final season, with wins vacated for NCAA violations, to 11 wins in Year 2, and won 33 games in his final three seasons — with Desormeaux coaching the bowl. *(p. 334)*
+- The arithmetic is stark in its telling: Desormeaux has just 28 wins in four seasons at the helm, and — it says perhaps more importantly — Napier had seven losses in Year 1 and only five in total after that. *(p. 334)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- For Delaware to finish last season with a bowl victory was a huge one for the trophy case, as Ryan Carty’s Fightin’ Blue Hens pulled the mild upset of Louisiana in the 68 Ventures Bowl. *(p. 188)*
-- Scelfo has been at SE Louisiana coaching under his father since 2021, as this will be his first time calling plays at the FBS level. *(p. 199)*
+Referenced in the guide on **pp. 188, 199** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -264,12 +260,9 @@ As printed on p. 335. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- That would be Lunch Winfield, who led a four-game winning streak at the end of the regular season to get the Ragin’ Cajuns to a bowl game. *(p. 335)*
-- Winfield’s running prowess certainly helped, as he was a mediocre-at-best passer with an 11/7 TD/INT ratio and a 58.8% completion rate, but he did run for 667 yards and added nine rushing touchdowns. *(p. 335)*
-- It did take some time to finally settle on a QB, but this offense may not have had steady success regardless. *(p. 335)*
-- Look, his stint in Gainesville was an abject disaster, but he was really good at Louisiana, winning 40 games in four seasons. *(p. 37)*
-- With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. *(p. 198)*
-- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
+- Its central worry is stated as the complete lack of portal involvement while other conference programmes improve externally and Louisiana relies on internal development. *(p. 334)*
+- The subject is Lunch Winfield, who led a four-game winning streak at the end of the regular season to get Louisiana to a bowl. The guide stresses how narrow that run was: three of those wins came by four points or fewer, as did four of the team's five conference wins. Its assessment of him is split by skill — a mediocre-at-best passer with an 11/7 touchdown-to-interception ratio and 58.8% completions, but a genuine runner with 667 yards and nine rushing touchdowns. It notes the job is officially his now after he lost out to Walker Howard at the start of last season and then split time with Daniel Beale once Howard was hurt, and suggests that clarity may help, since coordinator Tim Leger can now scheme the offense exclusively around him. *(p. 335)*
+- The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -277,33 +270,32 @@ As printed on p. 335. Each category carries a value and a national rank.
 
 - Makinen projects **7.4 wins** against a posted total of 7.5 — **-0.1** against this team.
 - The team page recommends **UNDER 7.5**.
-- The fact that he was a Ragin’ Cajun QB from 2005-08 probably adds some leeway, but Louisiana has three 6-7 seasons on his watch and one 10-4 season that ended with a 31-3 loss in the conference title game and then a 34-3 loss in the bowl game. *(p. 334)*
-- Maybe more importantly, Napier had seven losses in Year 1 and just five after that. *(p. 334)*
-- The complete lack of transfer portal involvement concerns me greatly, as other programs in the conference are getting better externally, while Louisiana is trying to rely on player development internally. *(p. 334)*
-- This was a battered and bruised offensive line last season, as three players suffered long- term injuries early and there was constant shuffling as a result of those injuries, plus other guys missing time here and there. *(p. 335)*
-- It is surprising that Desormeaux and the staff didn’t attack the portal more aggressively to find additional depth at that position, but because of the injuries, a lot of guys did get some important reps. *(p. 335)*
-- The secondary was hit hard by absences over the course of the season, but the real concern is that nobody got into the backfield. *(p. 335)*
-- The Ragin’ Cajuns had just 23 sacks in 13 games and tied for 112th in tackles for loss per game. *(p. 335)*
-- Golding has also worked under now-Browns head coach Todd Monken at Southern Miss, new Arkansas DC Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin. *(p. 36)*
+- The record it sets against that: three 6-7 seasons on his watch plus one 10-4 season that ended with a 31-3 loss in the conference title game and a 34-3 loss in the bowl. *(p. 334)*
+- The arithmetic is stark in its telling: Desormeaux has just 28 wins in four seasons at the helm, and — it says perhaps more importantly — Napier had seven losses in Year 1 and only five in total after that. *(p. 334)*
+- Its central worry is stated as the complete lack of portal involvement while other conference programmes improve externally and Louisiana relies on internal development. *(p. 334)*
+- The subject is Lunch Winfield, who led a four-game winning streak at the end of the regular season to get Louisiana to a bowl. The guide stresses how narrow that run was: three of those wins came by four points or fewer, as did four of the team's five conference wins. Its assessment of him is split by skill — a mediocre-at-best passer with an 11/7 touchdown-to-interception ratio and 58.8% completions, but a genuine runner with 667 yards and nine rushing touchdowns. It notes the job is officially his now after he lost out to Walker Howard at the start of last season and then split time with Daniel Beale once Howard was hurt, and suggests that clarity may help, since coordinator Tim Leger can now scheme the offense exclusively around him. *(p. 335)*
+- The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
+- The guide's verdict on Jim Salgado's first year as coordinator is a rough one. It acknowledges the secondary was hit hard by absences, but locates the real concern in the pass rush: 23 sacks in 13 games and a tie for 112th in tackles for loss per game. Departures compound it — top tacklers Jaden Dugger and Terrance Williams are gone after 220 stops, with Dugger contributing nine tackles for loss and Jordan Lawson 10, the two combining for nine sacks. It names true sophomore Brent Gordon as a player in the secondary, but concludes impact players seem few and far between. *(p. 335)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 335)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 335)*. Its analysis, in reference form:
 
 ### What’s on the menu for Lunch?
 
-That would be Lunch Winfield, who led a four-game winning streak at the end of the regular season to get the Ragin’ Cajuns to a bowl game. Three of those wins were by four or fewer points and four of the team’s five conference wins fit that description. Winfield’s running prowess certainly helped, as he was a mediocre-at-best passer with an 11/7 TD/INT ratio and a 58.8% completion rate, but he did run for 667 yards and added nine rushing touchdowns. It is officially his team now after losing out to Walker Howard at the start of last season and then splitting time with Daniel Beale after Howard got hurt. Perhaps that will help, especially since OC Tim Leger can scheme the offense exclusively around him.
+The subject is Lunch Winfield, who led a four-game winning streak at the end of the regular season to get Louisiana to a bowl. The guide stresses how narrow that run was: three of those wins came by four points or fewer, as did four of the team's five conference wins. Its assessment of him is split by skill — a mediocre-at-best passer with an 11/7 touchdown-to-interception ratio and 58.8% completions, but a genuine runner with 667 yards and nine rushing touchdowns. It notes the job is officially his now after he lost out to Walker Howard at the start of last season and then split time with Daniel Beale once Howard was hurt, and suggests that clarity may help, since coordinator Tim Leger can now scheme the offense exclusively around him. *(p. 335)*
 
 ### Does Desormeaux deserve a pass for last season?
 
-It did take some time to finally settle on a QB, but this offense may not have had steady success regardless. This was a battered and bruised offensive line last season, as three players suffered long- term injuries early and there was constant shuffling as a result of those injuries, plus other guys missing time here and there. It is surprising that Desormeaux and the staff didn’t attack the portal more aggressively to find additional depth at that position, but because of the injuries, a lot of guys did get some important reps. It’s a big group and clearly the plan is to try to run the ball as much as possible. Louisiana only had one game with 30 pass attempts in conference play last season, so the health of the run-blockers here is paramount.
+The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
 
 ### Will the disappointing defense bounce back?
 
-Jim Salgado had a rough first year as the DC. The secondary was hit hard by absences over the course of the season, but the real concern is that nobody got into the backfield. The Ragin’ Cajuns had just 23 sacks in 13 games and tied for 112th in tackles for loss per game. Their top tacklers, Jaden Dugger and Terrance Williams, are gone after 220 stops. Dugger had nine TFL and Jordan Lawson had 10 TFL and those two combined for nine sacks. True sophomore Brent Gordon looks like a player in the secondary, but impact players seem few and far between.
+The guide's verdict on Jim Salgado's first year as coordinator is a rough one. It acknowledges the secondary was hit hard by absences, but locates the real concern in the pass rush: 23 sacks in 13 games and a tie for 112th in tackles for loss per game. Departures compound it — top tacklers Jaden Dugger and Terrance Williams are gone after 220 stops, with Dugger contributing nine tackles for loss and Jordan Lawson 10, the two combining for nine sacks. It names true sophomore Brent Gordon as a player in the secondary, but concludes impact players seem few and far between. *(p. 335)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

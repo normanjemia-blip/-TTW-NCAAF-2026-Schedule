@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 3.5–8.5 overall, 1.7–6.3 in conference |
 | **Schedule strength** | 31.33 (#115 toughest of 138) |
 
-### Season outlook as written in the guide (p. 324)
+### Season outlook — VSiN's analysis in reference form (p. 324)
 
-The Dell McGee era in Atlanta has not gone well. McGee was an imaginative hire by the athletic department, as he’s spent a lot of time in Georgia, including several seasons with the Bulldogs as a running backs coach/run game coordinator. His reputation as a recruiter was expected to elevate the talent within the program, but it’s still a results-based business and McGee is 4-20 with a 1-15 record in Sun Belt play. The Panthers got skunked in SBC action last season and their lone win was against FCS Murray State. Injuries didn’t help, especially at the QB position, where Cameran Brown is and was clearly the best option. He posted a 13/1 TD/ INT ratio and had 4.7 yards per carry with four rushing TDs, but TJ Finley and Christian Veilleux both played and were awful, as they were a big part of the team’s -11 TO margin. Georgia State even got really lucky to lose just six of their 17 fumbles, but the defense only mustered six takeaways. OC Hue Jackson is back, but the co-DCs are new as McGee probably needs a decent season to save his job. Under 3.5 An alt win total at a plus-money price here. McGee hasn’t proven to be a college-level head coach. Position coach? Sure. Recruiter? Absolutely. But, this is also a team that is just 5-18-1 ATS over the last two seasons, so they’ve fallen well short of virtually no expectations. Hurst was a third- round pick, so he’s obviously a huge loss. The Panthers do get saddled with Louisiana from the West and go to App State and James Madison. It’s a rough schedule with a bad team and probably a lame-duck head coach. My projection is 3.63 wins.
+- The guide's verdict on the tenure is blunt: the Dell McGee era in Atlanta has not gone well. *(p. 324)*
+- It grants that the hire was imaginative — McGee has spent a lot of time in Georgia, including several seasons with the Bulldogs as running backs coach and run game coordinator, and his reputation as a recruiter was expected to raise the talent level. *(p. 324)*
+- But it insists on results: McGee is 4-20 overall and 1-15 in Sun Belt play, the Panthers were shut out of Sun Belt wins last season, and their lone victory came against FCS Murray State. *(p. 324)*
+- Injuries are offered as a mitigating factor, particularly at quarterback, where Cameran Brown is and was clearly the best option — a 13/1 touchdown-to-interception ratio with 4.7 yards per carry and four rushing scores. *(p. 324)*
+- The contrast it draws is severe: TJ Finley and Christian Veilleux both played and were awful, forming a big part of a -11 turnover margin. It adds that Georgia State was even lucky to lose only six of its 17 fumbles, while the defense produced just six takeaways. *(p. 324)*
+- On staff, offensive coordinator Hue Jackson is back while the co-defensive coordinators are new, and the guide reads the changes as McGee probably needing a decent season to save his job. *(p. 324)*
+- Recommendation is Under 3.5 wins, noted as an alt win total available at a plus-money price. *(p. 324)*
+- Its reasoning separates the roles — McGee has not proven to be a college-level head coach, though it accepts him as a position coach and absolutely as a recruiter — and adds the market evidence that the team is 5-18-1 ATS over the past two seasons, falling short of virtually no expectations. *(p. 324)*
+- Roster and schedule complete the case: Hurst was a third-round pick and is obviously a huge loss; the Panthers get saddled with Louisiana from the West and travel to App State and James Madison. It calls it a rough schedule with a bad team and probably a lame-duck head coach, projecting 3.63 wins. *(p. 324)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -79,16 +89,13 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- McGee was an imaginative hire by the athletic department, as he’s spent a lot of time in Georgia, including several seasons with the Bulldogs as a running backs coach/run game coordinator. *(p. 324)*
-- OC Hue Jackson is back, but the co-DCs are new as McGee probably needs a decent season to save his job. *(p. 324)*
-- McGee hasn’t proven to be a college-level head coach. *(p. 324)*
-- It’s a rough schedule with a bad team and probably a lame-duck head coach. *(p. 324)*
-- McGee was hired because of his recruiting prowess, but the Panthers scored four fewer PPG year over year and allowed four more PPG. *(p. 325)*
-- A guy like McGee makes sense on paper, but he doesn’t have a big NIL budget and that’s what you need with this kind of head coach. *(p. 325)*
-- They were outscored essentially 21-8 in the second halves of games, as McGee and his staff failed to adjust and the depth simply wasn’t good enough. *(p. 325)*
-- Things were so bad for DC Travis Pearson that he left to take a job in the UFL. *(p. 325)*
-- Cam Clark was working with quarterbacks at Duke and was a high school DC prior to that. *(p. 325)*
-- With just 18 sacks in back-to-back seasons, a new crop of players probably isn’t a bad thing, especially with 37.8 PPG allowed last season, but these seem to be two underwhelming hires. *(p. 325)*
+- The guide's verdict on the tenure is blunt: the Dell McGee era in Atlanta has not gone well. *(p. 324)*
+- It grants that the hire was imaginative — McGee has spent a lot of time in Georgia, including several seasons with the Bulldogs as running backs coach and run game coordinator, and his reputation as a recruiter was expected to raise the talent level. *(p. 324)*
+- But it insists on results: McGee is 4-20 overall and 1-15 in Sun Belt play, the Panthers were shut out of Sun Belt wins last season, and their lone victory came against FCS Murray State. *(p. 324)*
+- On staff, offensive coordinator Hue Jackson is back while the co-defensive coordinators are new, and the guide reads the changes as McGee probably needing a decent season to save his job. *(p. 324)*
+- Its reasoning separates the roles — McGee has not proven to be a college-level head coach, though it accepts him as a position coach and absolutely as a recruiter — and adds the market evidence that the team is 5-18-1 ATS over the past two seasons, falling short of virtually no expectations. *(p. 324)*
+- **Where is all the talent?** The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
+- **Are the new co-defensive coordinators going to provide relief?** The guide isolates second halves as the failure: Georgia State allowed the most second-half points per game in the country at 20.8, essentially outscored 21-8 after the interval, which it attributes to McGee and his staff failing to adjust and to insufficient depth. It notes conditions were bad enough that coordinator Travis Pearson left for a UFL job. On the replacements it is unenthusiastic — Cam Clark was working with quarterbacks at Duke and was a high school defensive coordinator before that, and John Haneline's Youngstown State defense allowed 31 PPG last season. With 18 sacks in back-to-back seasons and 37.8 PPG allowed, it agrees a new crop of players is probably not a bad thing, but calls these two underwhelming hires. *(p. 325)*
 
 ## 9. Quarterback Situation
 
@@ -96,14 +103,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 324)*.
 
-- Injuries didn’t help, especially at the QB position, where Cameran Brown is and was clearly the best option. *(p. 324)*
-- Brown had that 13/1 TD/INT ratio mentioned above and 61 carries for 284 yards, but he had three games with 200+ yards passing and the Panthers lost all of those, averaging just 25 PPG. *(p. 325)*
-- While having a mobile QB helped limit the sacks to 18, the team also regressed from a yards per carry standpoint. *(p. 325)*
-- Cam Clark was working with quarterbacks at Duke and was a high school DC prior to that. *(p. 325)*
+- Injuries are offered as a mitigating factor, particularly at quarterback, where Cameran Brown is and was clearly the best option — a 13/1 touchdown-to-interception ratio with 4.7 yards per carry and four rushing scores. *(p. 324)*
+- The contrast it draws is severe: TJ Finley and Christian Veilleux both played and were awful, forming a big part of a -11 turnover margin. It adds that Georgia State was even lucky to lose only six of its 17 fumbles, while the defense produced just six takeaways. *(p. 324)*
+- **Is Brown the answer that the offense needs?** The guide tests the quarterback against outcomes rather than statistics. Brown posted the 13/1 ratio and added 61 carries for 284 yards, but the Panthers lost all three games in which he passed for 200-plus yards, averaging just 25 PPG in them while the defense allowed 41, 41 and 38 points. Its logic is that with Finley and Veilleux combining for a 9/10 ratio, Brown should theoretically help the defense if he repeats his 2025 form — yet it notes that even when he played well it did not seem to matter, and that he did not start the team's best loss, 14-7 to CFP participant James Madison. It closes on what he has lost around him: 1,000-yard receiver Ted Hurst and leading rusher Jordon Simmons, who averaged 5.6 yards per carry. *(p. 325)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Two of their Sun Belt road games are quite winnable - Coastal Carolina and Georgia State - and I also expect them to put up terrific passing numbers with multi-time transfer Max Johnson in a pass-happy scheme. *(p. 11)*
+Also referenced on **pp. 11** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -119,32 +123,25 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 ## 11. Transfer Portal
 
-- A guy like McGee makes sense on paper, but he doesn’t have a big NIL budget and that’s what you need with this kind of head coach. *(p. 325)*
+- **Where is all the talent?** The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Two of their Sun Belt road games are quite winnable - Coastal Carolina and Georgia State - and I also expect them to put up terrific passing numbers with multi-time transfer Max Johnson in a pass-happy scheme. *(p. 11)*
+Referenced in the guide on **pp. 11** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- His reputation as a recruiter was expected to elevate the talent within the program, but it’s still a results-based business and McGee is 4-20 with a 1-15 record in Sun Belt play. *(p. 324)*
-- McGee was hired because of his recruiting prowess, but the Panthers scored four fewer PPG year over year and allowed four more PPG. *(p. 325)*
-- For this season, McGee did secure the lone freshman recruit graded as a four-star by 247Sports in OL Maxwell Robinson. *(p. 325)*
+
+Referenced in the guide on **pp. 324, 325** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- McGee was an imaginative hire by the athletic department, as he’s spent a lot of time in Georgia, including several seasons with the Bulldogs as a running backs coach/run game coordinator. *(p. 324)*
-- He posted a 13/1 TD/ INT ratio and had 4.7 yards per carry with four rushing TDs, but TJ Finley and Christian Veilleux both played and were awful, as they were a big part of the team’s -11 TO margin. *(p. 324)*
-- Leading returning receiver Grant Hollier is one of the few big bodies, as he had just 21 catches. *(p. 325)*
+- **Is Brown the answer that the offense needs?** The guide tests the quarterback against outcomes rather than statistics. Brown posted the 13/1 ratio and added 61 carries for 284 yards, but the Panthers lost all three games in which he passed for 200-plus yards, averaging just 25 PPG in them while the defense allowed 41, 41 and 38 points. Its logic is that with Finley and Veilleux combining for a 9/10 ratio, Brown should theoretically help the defense if he repeats his 2025 form — yet it notes that even when he played well it did not seem to matter, and that he did not start the team's best loss, 14-7 to CFP participant James Madison. It closes on what he has lost around him: 1,000-yard receiver Ted Hurst and leading rusher Jordon Simmons, who averaged 5.6 yards per carry. *(p. 325)*
+- **Where is all the talent?** The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
 
 ## 14. Defensive Identity
 
-- Georgia State even got really lucky to lose just six of their 17 fumbles, but the defense only mustered six takeaways. *(p. 324)*
-- Even with Brown’s ability to move the ball through the air and on the ground, the defense allowed 41, 41, and 38 points. *(p. 325)*
-- Given that Finley and Veilleux combined for a 9/10 TD/INT ratio, Brown should theoretically help the defense if he can keep a similar ratio to 2025, but even when he played well, it didn’t seem to matter. *(p. 325)*
-- While having a mobile QB helped limit the sacks to 18, the team also regressed from a yards per carry standpoint. *(p. 325)*
-- John Haneline’s Youngstown State defense gave up 31 PPG last season. *(p. 325)*
-- With just 18 sacks in back-to-back seasons, a new crop of players probably isn’t a bad thing, especially with 37.8 PPG allowed last season, but these seem to be two underwhelming hires. *(p. 325)*
+- The contrast it draws is severe: TJ Finley and Christian Veilleux both played and were awful, forming a big part of a -11 turnover margin. It adds that Georgia State was even lucky to lose only six of its 17 fumbles, while the defense produced just six takeaways. *(p. 324)*
+- **Is Brown the answer that the offense needs?** The guide tests the quarterback against outcomes rather than statistics. Brown posted the 13/1 ratio and added 61 carries for 284 yards, but the Panthers lost all three games in which he passed for 200-plus yards, averaging just 25 PPG in them while the defense allowed 41, 41 and 38 points. Its logic is that with Finley and Veilleux combining for a 9/10 ratio, Brown should theoretically help the defense if he repeats his 2025 form — yet it notes that even when he played well it did not seem to matter, and that he did not start the team's best loss, 14-7 to CFP participant James Madison. It closes on what he has lost around him: 1,000-yard receiver Ted Hurst and leading rusher Jordon Simmons, who averaged 5.6 yards per carry. *(p. 325)*
+- **Are the new co-defensive coordinators going to provide relief?** The guide isolates second halves as the failure: Georgia State allowed the most second-half points per game in the country at 20.8, essentially outscored 21-8 after the interval, which it attributes to McGee and his staff failing to adjust and to insufficient depth. It notes conditions were bad enough that coordinator Travis Pearson left for a UFL job. On the replacements it is unenthusiastic — Cam Clark was working with quarterbacks at Duke and was a high school defensive coordinator before that, and John Haneline's Youngstown State defense allowed 31 PPG last season. With 18 sacks in back-to-back seasons and 37.8 PPG allowed, it agrees a new crop of players is probably not a bad thing, but calls these two underwhelming hires. *(p. 325)*
 
 ## 15. Key Strengths
 
@@ -197,7 +194,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- With just 18 sacks in back-to-back seasons, a new crop of players probably isn’t a bad thing, especially with 37.8 PPG allowed last season, but these seem to be two underwhelming hires. *(p. 325)*
+
+Referenced in the guide on **pp. 325** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -232,19 +230,15 @@ Prices printed on the team page *(p. 325)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Under 3.5 An alt win total at a plus-money price here. *(p. 324)*
-- But, this is also a team that is just 5-18-1 ATS over the last two seasons, so they’ve fallen well short of virtually no expectations. *(p. 324)*
+- Recommendation is Under 3.5 wins, noted as an alt win total available at a plus-money price. *(p. 324)*
+- Its reasoning separates the roles — McGee has not proven to be a college-level head coach, though it accepts him as a position coach and absolutely as a recruiter — and adds the market evidence that the team is 5-18-1 ATS over the past two seasons, falling short of virtually no expectations. *(p. 324)*
+- Roster and schedule complete the case: Hurst was a third-round pick and is obviously a huge loss; the Panthers get saddled with Louisiana from the West and travel to App State and James Madison. It calls it a rough schedule with a bad team and probably a lame-duck head coach, projecting 3.63 wins. *(p. 324)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
+Also referenced on **pp. 332** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- The Panthers got skunked in SBC action last season and their lone win was against FCS Murray State. *(p. 324)*
-- Georgia State allowed the most points per game in the second half last season with 20.8. *(p. 325)*
-- John Haneline’s Youngstown State defense gave up 31 PPG last season. *(p. 325)*
-- With just 18 sacks in back-to-back seasons, a new crop of players probably isn’t a bad thing, especially with 37.8 PPG allowed last season, but these seem to be two underwhelming hires. *(p. 325)*
+- But it insists on results: McGee is 4-20 overall and 1-15 in Sun Belt play, the Panthers were shut out of Sun Belt wins last season, and their lone victory came against FCS Murray State. *(p. 324)*
 
 ## 23. Important Statistics
 
@@ -289,13 +283,9 @@ As printed on p. 325. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Injuries didn’t help, especially at the QB position, where Cameran Brown is and was clearly the best option. *(p. 324)*
-- He didn’t even start the team’s “best” loss, a 14-7 defeat at the hands of CFP team James Madison. *(p. 325)*
-- They were outscored essentially 21-8 in the second halves of games, as McGee and his staff failed to adjust and the depth simply wasn’t good enough. *(p. 325)*
-- Two of their Sun Belt road games are quite winnable - Coastal Carolina and Georgia State - and I also expect them to put up terrific passing numbers with multi-time transfer Max Johnson in a pass-happy scheme. *(p. 11)*
-- The Knights really should earn wins over Bethune-Cookman, Georgia State, and Iowa State, and the following games all seem winnable: at Pitt, vs. *(p. 142)*
-- Over 7.5 The schedule is kind to Rahne this season, as James Madison and Marshall go to Norfolk and the non-conference road game at UConn, albeit randomly timed, is very winnable, along with hapless Georgia State, newcomer Louisiana Tech, and a Coastal Carolina team in a transitional phase. *(p. 330)*
-- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
+- Injuries are offered as a mitigating factor, particularly at quarterback, where Cameran Brown is and was clearly the best option — a 13/1 touchdown-to-interception ratio with 4.7 yards per carry and four rushing scores. *(p. 324)*
+- The guide tests the quarterback against outcomes rather than statistics. Brown posted the 13/1 ratio and added 61 carries for 284 yards, but the Panthers lost all three games in which he passed for 200-plus yards, averaging just 25 PPG in them while the defense allowed 41, 41 and 38 points. Its logic is that with Finley and Veilleux combining for a 9/10 ratio, Brown should theoretically help the defense if he repeats his 2025 form — yet it notes that even when he played well it did not seem to matter, and that he did not start the team's best loss, 14-7 to CFP participant James Madison. It closes on what he has lost around him: 1,000-yard receiver Ted Hurst and leading rusher Jordon Simmons, who averaged 5.6 yards per carry. *(p. 325)*
+- The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -303,30 +293,30 @@ As printed on p. 325. Each category carries a value and a national rank.
 
 - Makinen projects **3.5 wins** against a posted total of 4.5 — **-1.0** against this team.
 - The team page recommends **UNDER 3.5**.
-- Injuries didn’t help, especially at the QB position, where Cameran Brown is and was clearly the best option. *(p. 324)*
-- Hurst was a third- round pick, so he’s obviously a huge loss. *(p. 324)*
-- Brown had that 13/1 TD/INT ratio mentioned above and 61 carries for 284 yards, but he had three games with 200+ yards passing and the Panthers lost all of those, averaging just 25 PPG. *(p. 325)*
-- He didn’t even start the team’s “best” loss, a 14-7 defeat at the hands of CFP team James Madison. *(p. 325)*
-- While having a mobile QB helped limit the sacks to 18, the team also regressed from a yards per carry standpoint. *(p. 325)*
+- Injuries are offered as a mitigating factor, particularly at quarterback, where Cameran Brown is and was clearly the best option — a 13/1 touchdown-to-interception ratio with 4.7 yards per carry and four rushing scores. *(p. 324)*
+- Roster and schedule complete the case: Hurst was a third-round pick and is obviously a huge loss; the Panthers get saddled with Louisiana from the West and travel to App State and James Madison. It calls it a rough schedule with a bad team and probably a lame-duck head coach, projecting 3.63 wins. *(p. 324)*
+- The guide tests the quarterback against outcomes rather than statistics. Brown posted the 13/1 ratio and added 61 carries for 284 yards, but the Panthers lost all three games in which he passed for 200-plus yards, averaging just 25 PPG in them while the defense allowed 41, 41 and 38 points. Its logic is that with Finley and Veilleux combining for a 9/10 ratio, Brown should theoretically help the defense if he repeats his 2025 form — yet it notes that even when he played well it did not seem to matter, and that he did not start the team's best loss, 14-7 to CFP participant James Madison. It closes on what he has lost around him: 1,000-yard receiver Ted Hurst and leading rusher Jordon Simmons, who averaged 5.6 yards per carry. *(p. 325)*
+- The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 325)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 325)*. Its analysis, in reference form:
 
 ### Is Brown the answer that the offense needs?
 
-Brown had that 13/1 TD/INT ratio mentioned above and 61 carries for 284 yards, but he had three games with 200+ yards passing and the Panthers lost all of those, averaging just 25 PPG. Even with Brown’s ability to move the ball through the air and on the ground, the defense allowed 41, 41, and 38 points. Given that Finley and Veilleux combined for a 9/10 TD/INT ratio, Brown should theoretically help the defense if he can keep a similar ratio to 2025, but even when he played well, it didn’t seem to matter. He didn’t even start the team’s “best” loss, a 14-7 defeat at the hands of CFP team James Madison. Now Brown goes into the season without 1,000-yard WR Ted Hurst and leading rusher Jordon Simmons, who had 5.6 yards per carry.
+The guide tests the quarterback against outcomes rather than statistics. Brown posted the 13/1 ratio and added 61 carries for 284 yards, but the Panthers lost all three games in which he passed for 200-plus yards, averaging just 25 PPG in them while the defense allowed 41, 41 and 38 points. Its logic is that with Finley and Veilleux combining for a 9/10 ratio, Brown should theoretically help the defense if he repeats his 2025 form — yet it notes that even when he played well it did not seem to matter, and that he did not start the team's best loss, 14-7 to CFP participant James Madison. It closes on what he has lost around him: 1,000-yard receiver Ted Hurst and leading rusher Jordon Simmons, who averaged 5.6 yards per carry. *(p. 325)*
 
 ### Where is all the talent?
 
-McGee was hired because of his recruiting prowess, but the Panthers scored four fewer PPG year over year and allowed four more PPG. While having a mobile QB helped limit the sacks to 18, the team also regressed from a yards per carry standpoint. For this season, McGee did secure the lone freshman recruit graded as a four-star by 247Sports in OL Maxwell Robinson. He also snagged some P4-level talent on the OL with guys from Florida, Georgia, Michigan, Georgia Tech, and Oklahoma State, but guys that played sparingly or not at all. All of the running backs are under six feet tall. Leading returning receiver Grant Hollier is one of the few big bodies, as he had just 21 catches. A guy like McGee makes sense on paper, but he doesn’t have a big NIL budget and that’s what you need with this kind of head coach.
+The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
 
 ### Are the new co-defensive coordinators going to provide relief?
 
-Georgia State allowed the most points per game in the second half last season with 20.8. They were outscored essentially 21-8 in the second halves of games, as McGee and his staff failed to adjust and the depth simply wasn’t good enough. Things were so bad for DC Travis Pearson that he left to take a job in the UFL. Cam Clark was working with quarterbacks at Duke and was a high school DC prior to that. John Haneline’s Youngstown State defense gave up 31 PPG last season. With just 18 sacks in back-to-back seasons, a new crop of players probably isn’t a bad thing, especially with 37.8 PPG allowed last season, but these seem to be two underwhelming hires.
+The guide isolates second halves as the failure: Georgia State allowed the most second-half points per game in the country at 20.8, essentially outscored 21-8 after the interval, which it attributes to McGee and his staff failing to adjust and to insufficient depth. It notes conditions were bad enough that coordinator Travis Pearson left for a UFL job. On the replacements it is unenthusiastic — Cam Clark was working with quarterbacks at Duke and was a high school defensive coordinator before that, and John Haneline's Youngstown State defense allowed 31 PPG last season. With 18 sacks in back-to-back seasons and 37.8 PPG allowed, it agrees a new crop of players is probably not a bad thing, but calls these two underwhelming hires. *(p. 325)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

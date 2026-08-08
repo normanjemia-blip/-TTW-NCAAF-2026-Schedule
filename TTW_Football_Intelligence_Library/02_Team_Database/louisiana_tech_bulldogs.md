@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 5.9–6.1 overall, 4.4–3.6 in conference |
 | **Schedule strength** | 32.03 (#107 toughest of 138) |
 
-### Season outlook as written in the guide (p. 338)
+### Season outlook — VSiN's analysis in reference form (p. 338)
 
-On the heels of their best season since 2019, the Bulldogs are now in the Sun Belt. Sonny Cumbie’s crew went 8-5 last season, capped off by a win over new conference foe Coastal Carolina in the Independence Bowl. Cumbie won 11 games in his first three seasons combined before all the pieces came together last season. The offense finally carried its weight to help out a defense that was very strong for the second straight season, even with a defensive coordinator change. But, now the Rustonites are in a tougher conference. Conference USA is a poor league and the Bulldogs went 5-3 with two losses by just a point. The West Division is the weaker of the two in the Sun Belt, but it is an objectively stronger conference on the whole and Baylor joins LSU on the non-conference schedule. With notable personnel losses and defensive regression signs, it might be a bad time to switch conferences. Under 5.5 Plus money on this one with a team that had 3, 3, and 5 regular-season wins for Cumbie before last season’s 7-5 mark. I’m high on Georgia Southern and Old Dominion, the two teams from the East Division that the Bulldogs have to deal with. My projection is 5.76 wins, but this defense is very ripe for regression. With a lot of closely-lined games, that’s a prominent factor in my handicapping. I only have LT favored by more than two points three times (NW State, UL Monroe, Southern Miss).
+- The guide's setup is a programme arriving in the Sun Belt on the back of its best season since 2019 — Sonny Cumbie's team went 8-5, capped by a win over new conference foe Coastal Carolina in the Independence Bowl. *(p. 338)*
+- It puts that in career context: Cumbie won 11 games across his first three seasons combined before everything came together last year. *(p. 338)*
+- Its reading of how that happened is that the offense finally carried its weight to support a defense that was very strong for a second straight season, even through a coordinator change. *(p. 338)*
+- The complication is the move itself. Conference USA is a poor league, and the Bulldogs went 5-3 in it with two losses by a single point. *(p. 338)*
+- It concedes the Sun Belt West is the weaker of the two divisions while insisting the Sun Belt is objectively stronger on the whole, and adds that Baylor joins LSU on the non-conference schedule. *(p. 338)*
+- Its conclusion is one of timing: with notable personnel losses and signs of defensive regression, this might be a bad moment to switch conferences. *(p. 338)*
+- Recommendation is Under 5.5 wins, available at plus money, from a team that produced 3, 3 and 5 regular-season wins for Cumbie before last season's 7-5 mark. *(p. 338)*
+- It flags the cross-division draw as a problem — the guide is high on both Georgia Southern and Old Dominion, the two East teams Louisiana Tech must face. *(p. 338)*
+- Its projection is 5.76 wins, above the number, but it calls the defense very ripe for regression and says the abundance of closely lined games makes that a prominent factor in its handicapping — Louisiana Tech is favoured by more than two points only three times, against Northwestern State, UL Monroe and Southern Miss. *(p. 338)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,8 +88,8 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The offense finally carried its weight to help out a defense that was very strong for the second straight season, even with a defensive coordinator change. *(p. 338)*
-- The Bulldogs defense actually allowed fewer points per game (20.8 to 21) with first-year DC Luke Olsen, but allowed 0.6 more yards per carry, 67 more passing yards per game, and 0.7 more yards per play. *(p. 339)*
+- It puts that in career context: Cumbie won 11 games across his first three seasons combined before everything came together last year. *(p. 338)*
+- **Is the secondary the primary concern on defense?** The guide's stated view is that the entire defense is a concern, though the secondary will indeed be an entirely new group. Departing are safety Jakari Foster, described as one of Conference USA's best players, and defensive backs Cedric Woods and Jhamal Shelby, who combined for 17 pass breakups. Beyond them the three leading tacklers are all gone: Jacob Fields, Mekhi Mason and Sifa Leota collectively had over 220 tackles, 7.5 sacks, more than 20 tackles for loss and 16 pass breakups. It then complicates the picture of last year's unit — under first-year coordinator Luke Olsen the Bulldogs actually allowed marginally fewer points per game (20.8 against 21) while giving up 0.6 more yards per carry, 67 more passing yards per game and 0.7 more yards per play. Its conclusion is that regression was likely even without the roster attrition. *(p. 339)*
 
 ## 9. Quarterback Situation
 
@@ -87,8 +97,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 338)*.
 
-- The Bulldogs defense actually allowed fewer points per game (20.8 to 21) with first-year DC Luke Olsen, but allowed 0.6 more yards per carry, 67 more passing yards per game, and 0.7 more yards per play. *(p. 339)*
-- The quarterbacks collectively posted an 8/9 TD/INT ratio last season, but the team did have a completion percentage over 62%. *(p. 339)*
+- **Should we buy stock in the offense?** The guide's answer is built on concentration risk. The quarterbacks collectively posted an 8/9 touchdown-to-interception ratio, though the team completed over 62% of its passes, and it argues things could have gone very differently without Trey Kukuk's running — he threw more interceptions than touchdowns but averaged better than six yards per carry. It then shows how few games produced the rushing profile: almost 11 yards per carry against Sam Houston, 5.9 against Liberty and 7.6 against Missouri State, which it renders as 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty and 388 against Missouri State. Those four games accounted for 1,486 of 2,540 rushing yards, leaving just 1,054 across the other nine. The closing note is that the Bulldogs now move up to a better conference. *(p. 339)*
 
 ## 10. Returning Production
 
@@ -104,7 +113,8 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-Not addressed in guide.
+- Its conclusion is one of timing: with notable personnel losses and signs of defensive regression, this might be a bad moment to switch conferences. *(p. 338)*
+- **Is the secondary the primary concern on defense?** The guide's stated view is that the entire defense is a concern, though the secondary will indeed be an entirely new group. Departing are safety Jakari Foster, described as one of Conference USA's best players, and defensive backs Cedric Woods and Jhamal Shelby, who combined for 17 pass breakups. Beyond them the three leading tacklers are all gone: Jacob Fields, Mekhi Mason and Sifa Leota collectively had over 220 tackles, 7.5 sacks, more than 20 tackles for loss and 16 pass breakups. It then complicates the picture of last year's unit — under first-year coordinator Luke Olsen the Bulldogs actually allowed marginally fewer points per game (20.8 against 21) while giving up 0.6 more yards per carry, 67 more passing yards per game and 0.7 more yards per play. Its conclusion is that regression was likely even without the roster attrition. *(p. 339)*
 
 ## 12. Recruiting / Roster Notes
 
@@ -112,29 +122,19 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- The offense finally carried its weight to help out a defense that was very strong for the second straight season, even with a defensive coordinator change. *(p. 338)*
-- The Bulldogs defense actually allowed fewer points per game (20.8 to 21) with first-year DC Luke Olsen, but allowed 0.6 more yards per carry, 67 more passing yards per game, and 0.7 more yards per play. *(p. 339)*
-- That would be 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty, and 388 against Missouri State. *(p. 339)*
-- That was 1,486 of their 2,540 rushing yards, which means that they had just 1,054 yards across the other nine games. *(p. 339)*
+- Its reading of how that happened is that the offense finally carried its weight to support a defense that was very strong for a second straight season, even through a coordinator change. *(p. 338)*
+- **Should we buy stock in the offense?** The guide's answer is built on concentration risk. The quarterbacks collectively posted an 8/9 touchdown-to-interception ratio, though the team completed over 62% of its passes, and it argues things could have gone very differently without Trey Kukuk's running — he threw more interceptions than touchdowns but averaged better than six yards per carry. It then shows how few games produced the rushing profile: almost 11 yards per carry against Sam Houston, 5.9 against Liberty and 7.6 against Missouri State, which it renders as 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty and 388 against Missouri State. Those four games accounted for 1,486 of 2,540 rushing yards, leaving just 1,054 across the other nine. The closing note is that the Bulldogs now move up to a better conference. *(p. 339)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- This wasn’t a great defense last season anyway, as they allowed 5.9 YPP, including 388 rushing yards to a bad Louisiana Tech team in the season finale, though the players probably knew that Beard was on his way out. *(p. 201)*
+Referenced in the guide on **pp. 201** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The offense finally carried its weight to help out a defense that was very strong for the second straight season, even with a defensive coordinator change. *(p. 338)*
-- With notable personnel losses and defensive regression signs, it might be a bad time to switch conferences. *(p. 338)*
-- My projection is 5.76 wins, but this defense is very ripe for regression. *(p. 338)*
-- Personally, I find the entire defense a concern, but this is going to be a new group of defensive backs. *(p. 339)*
-- Safety Jakari Foster was one of Conference USA’s best players and defensive backs Cedric Woods and Jhamal Shelby had 17 combined pass breakups. *(p. 339)*
-- The team’s three leading tacklers were all stat sheet fillers. *(p. 339)*
-- Collectively, Jacob Fields, Mekhi Mason, and Sifa Leota had over 220 tackles, 7.5 sacks, more than 20 tackles for loss, and 16 pass breakups. *(p. 339)*
-- The Bulldogs defense actually allowed fewer points per game (20.8 to 21) with first-year DC Luke Olsen, but allowed 0.6 more yards per carry, 67 more passing yards per game, and 0.7 more yards per play. *(p. 339)*
+- Its reading of how that happened is that the offense finally carried its weight to support a defense that was very strong for a second straight season, even through a coordinator change. *(p. 338)*
+- Its conclusion is one of timing: with notable personnel losses and signs of defensive regression, this might be a bad moment to switch conferences. *(p. 338)*
+- Its projection is 5.76 wins, above the number, but it calls the defense very ripe for regression and says the abundance of closely lined games makes that a prominent factor in its handicapping — Louisiana Tech is favoured by more than two points only three times, against Northwestern State, UL Monroe and Southern Miss. *(p. 338)*
+- **Is the secondary the primary concern on defense?** The guide's stated view is that the entire defense is a concern, though the secondary will indeed be an entirely new group. Departing are safety Jakari Foster, described as one of Conference USA's best players, and defensive backs Cedric Woods and Jhamal Shelby, who combined for 17 pass breakups. Beyond them the three leading tacklers are all gone: Jacob Fields, Mekhi Mason and Sifa Leota collectively had over 220 tackles, 7.5 sacks, more than 20 tackles for loss and 16 pass breakups. It then complicates the picture of last year's unit — under first-year coordinator Luke Olsen the Bulldogs actually allowed marginally fewer points per game (20.8 against 21) while giving up 0.6 more yards per carry, 67 more passing yards per game and 0.7 more yards per play. Its conclusion is that regression was likely even without the roster attrition. *(p. 339)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- This wasn’t a great defense last season anyway, as they allowed 5.9 YPP, including 388 rushing yards to a bad Louisiana Tech team in the season finale, though the players probably knew that Beard was on his way out. *(p. 201)*
+Referenced in the guide on **pp. 201** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -203,19 +203,19 @@ Prices printed on the team page *(p. 339)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 5.5 wins, available at plus money, from a team that produced 3, 3 and 5 regular-season wins for Cumbie before last season's 7-5 mark. *(p. 338)*
+- It flags the cross-division draw as a problem — the guide is high on both Georgia Southern and Old Dominion, the two East teams Louisiana Tech must face. *(p. 338)*
+- Its projection is 5.76 wins, above the number, but it calls the defense very ripe for regression and says the abundance of closely lined games makes that a prominent factor in its handicapping — Louisiana Tech is favoured by more than two points only three times, against Northwestern State, UL Monroe and Southern Miss. *(p. 338)*
+- **How big of a difference is being in the Sun Belt?** The guide answers with two independent measures. Using Jeff Sagarin's end-of-season average ratings, Conference USA ranked 13th at 55.84, while the Sun Belt East ranked ninth at 62.38 and the West 10th at 59.22 — and it observes that although James Madison really skews those numbers, even the West outpaces the whole of Conference USA. Using its own power ratings for this season, the Sun Belt average excluding Louisiana Tech is 55.2 against 52.3 for Conference USA, with the Sun Belt West alone at 53.6 despite being by far the weaker side. Its market read is that the average college football fan and bettor will not think much of the difference. *(p. 339)*
 
 ## 22. Historical / Situational Trends
 
-- On the heels of their best season since 2019, the Bulldogs are now in the Sun Belt. *(p. 338)*
-- Sonny Cumbie’s crew went 8-5 last season, capped off by a win over new conference foe Coastal Carolina in the Independence Bowl. *(p. 338)*
-- Cumbie won 11 games in his first three seasons combined before all the pieces came together last season. *(p. 338)*
-- Under 5.5 Plus money on this one with a team that had 3, 3, and 5 regular-season wins for Cumbie before last season’s 7-5 mark. *(p. 338)*
-- The quarterbacks collectively posted an 8/9 TD/INT ratio last season, but the team did have a completion percentage over 62%. *(p. 339)*
+- The guide's setup is a programme arriving in the Sun Belt on the back of its best season since 2019 — Sonny Cumbie's team went 8-5, capped by a win over new conference foe Coastal Carolina in the Independence Bowl. *(p. 338)*
+- It puts that in career context: Cumbie won 11 games across his first three seasons combined before everything came together last year. *(p. 338)*
+- The complication is the move itself. Conference USA is a poor league, and the Bulldogs went 5-3 in it with two losses by a single point. *(p. 338)*
+- Recommendation is Under 5.5 wins, available at plus money, from a team that produced 3, 3 and 5 regular-season wins for Cumbie before last season's 7-5 mark. *(p. 338)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- This wasn’t a great defense last season anyway, as they allowed 5.9 YPP, including 388 rushing yards to a bad Louisiana Tech team in the season finale, though the players probably knew that Beard was on his way out. *(p. 201)*
+Referenced in the guide on **pp. 201** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -261,44 +261,41 @@ As printed on p. 339. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.9 wins** against a posted total of 5.5 — **+0.4** in this team's favour.
-- On the heels of their best season since 2019, the Bulldogs are now in the Sun Belt. *(p. 338)*
-- The offense finally carried its weight to help out a defense that was very strong for the second straight season, even with a defensive coordinator change. *(p. 338)*
-- Safety Jakari Foster was one of Conference USA’s best players and defensive backs Cedric Woods and Jhamal Shelby had 17 combined pass breakups. *(p. 339)*
-- Over 7.5 The schedule is kind to Rahne this season, as James Madison and Marshall go to Norfolk and the non-conference road game at UConn, albeit randomly timed, is very winnable, along with hapless Georgia State, newcomer Louisiana Tech, and a Coastal Carolina team in a transitional phase. *(p. 330)*
+- The guide's setup is a programme arriving in the Sun Belt on the back of its best season since 2019 — Sonny Cumbie's team went 8-5, capped by a win over new conference foe Coastal Carolina in the Independence Bowl. *(p. 338)*
+- Its reading of how that happened is that the offense finally carried its weight to support a defense that was very strong for a second straight season, even through a coordinator change. *(p. 338)*
+- The guide's stated view is that the entire defense is a concern, though the secondary will indeed be an entirely new group. Departing are safety Jakari Foster, described as one of Conference USA's best players, and defensive backs Cedric Woods and Jhamal Shelby, who combined for 17 pass breakups. Beyond them the three leading tacklers are all gone: Jacob Fields, Mekhi Mason and Sifa Leota collectively had over 220 tackles, 7.5 sacks, more than 20 tackles for loss and 16 pass breakups. It then complicates the picture of last year's unit — under first-year coordinator Luke Olsen the Bulldogs actually allowed marginally fewer points per game (20.8 against 21) while giving up 0.6 more yards per carry, 67 more passing yards per game and 0.7 more yards per play. Its conclusion is that regression was likely even without the roster attrition. *(p. 339)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- Conference USA is a poor league and the Bulldogs went 5-3 with two losses by just a point. *(p. 338)*
-- The West Division is the weaker of the two in the Sun Belt, but it is an objectively stronger conference on the whole and Baylor joins LSU on the non-conference schedule. *(p. 338)*
-- With notable personnel losses and defensive regression signs, it might be a bad time to switch conferences. *(p. 338)*
-- My projection is 5.76 wins, but this defense is very ripe for regression. *(p. 338)*
-- I only have LT favored by more than two points three times (NW State, UL Monroe, Southern Miss). *(p. 338)*
-- Personally, I find the entire defense a concern, but this is going to be a new group of defensive backs. *(p. 339)*
-- Collectively, Jacob Fields, Mekhi Mason, and Sifa Leota had over 220 tackles, 7.5 sacks, more than 20 tackles for loss, and 16 pass breakups. *(p. 339)*
-- Even without the roster attrition, regression was likely. *(p. 339)*
-- Even looking just at the SB West, my average PR is 53.6, and that’s the weaker side by far. *(p. 339)*
+- The complication is the move itself. Conference USA is a poor league, and the Bulldogs went 5-3 in it with two losses by a single point. *(p. 338)*
+- It concedes the Sun Belt West is the weaker of the two divisions while insisting the Sun Belt is objectively stronger on the whole, and adds that Baylor joins LSU on the non-conference schedule. *(p. 338)*
+- Its conclusion is one of timing: with notable personnel losses and signs of defensive regression, this might be a bad moment to switch conferences. *(p. 338)*
+- Its projection is 5.76 wins, above the number, but it calls the defense very ripe for regression and says the abundance of closely lined games makes that a prominent factor in its handicapping — Louisiana Tech is favoured by more than two points only three times, against Northwestern State, UL Monroe and Southern Miss. *(p. 338)*
+- The guide's stated view is that the entire defense is a concern, though the secondary will indeed be an entirely new group. Departing are safety Jakari Foster, described as one of Conference USA's best players, and defensive backs Cedric Woods and Jhamal Shelby, who combined for 17 pass breakups. Beyond them the three leading tacklers are all gone: Jacob Fields, Mekhi Mason and Sifa Leota collectively had over 220 tackles, 7.5 sacks, more than 20 tackles for loss and 16 pass breakups. It then complicates the picture of last year's unit — under first-year coordinator Luke Olsen the Bulldogs actually allowed marginally fewer points per game (20.8 against 21) while giving up 0.6 more yards per carry, 67 more passing yards per game and 0.7 more yards per play. Its conclusion is that regression was likely even without the roster attrition. *(p. 339)*
+- The guide answers with two independent measures. Using Jeff Sagarin's end-of-season average ratings, Conference USA ranked 13th at 55.84, while the Sun Belt East ranked ninth at 62.38 and the West 10th at 59.22 — and it observes that although James Madison really skews those numbers, even the West outpaces the whole of Conference USA. Using its own power ratings for this season, the Sun Belt average excluding Louisiana Tech is 55.2 against 52.3 for Conference USA, with the Sun Belt West alone at 53.6 despite being by far the weaker side. Its market read is that the average college football fan and bettor will not think much of the difference. *(p. 339)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 339)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 339)*. Its analysis, in reference form:
 
 ### Is the secondary the primary concern on defense?
 
-Personally, I find the entire defense a concern, but this is going to be a new group of defensive backs. Safety Jakari Foster was one of Conference USA’s best players and defensive backs Cedric Woods and Jhamal Shelby had 17 combined pass breakups. But, those aren’t the only key departures on D. The team’s three leading tacklers were all stat sheet fillers. Collectively, Jacob Fields, Mekhi Mason, and Sifa Leota had over 220 tackles, 7.5 sacks, more than 20 tackles for loss, and 16 pass breakups. The Bulldogs defense actually allowed fewer points per game (20.8 to 21) with first-year DC Luke Olsen, but allowed 0.6 more yards per carry, 67 more passing yards per game, and 0.7 more yards per play. Even without the roster attrition, regression was likely.
+The guide's stated view is that the entire defense is a concern, though the secondary will indeed be an entirely new group. Departing are safety Jakari Foster, described as one of Conference USA's best players, and defensive backs Cedric Woods and Jhamal Shelby, who combined for 17 pass breakups. Beyond them the three leading tacklers are all gone: Jacob Fields, Mekhi Mason and Sifa Leota collectively had over 220 tackles, 7.5 sacks, more than 20 tackles for loss and 16 pass breakups. It then complicates the picture of last year's unit — under first-year coordinator Luke Olsen the Bulldogs actually allowed marginally fewer points per game (20.8 against 21) while giving up 0.6 more yards per carry, 67 more passing yards per game and 0.7 more yards per play. Its conclusion is that regression was likely even without the roster attrition. *(p. 339)*
 
 ### Should we buy stock in the offense?
 
-The quarterbacks collectively posted an 8/9 TD/INT ratio last season, but the team did have a completion percentage over 62%. Without Trey Kukuk’s running ability, things could have gone very differently, as he had more interceptions than touchdowns, but managed better than six yards per carry. The Bulldogs had almost 11 yards per carry against Sam Houston, 5.9 YPC against Liberty, and 7.6 YPC against Missouri State. That would be 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty, and 388 against Missouri State. That was 1,486 of their 2,540 rushing yards, which means that they had just 1,054 yards across the other nine games. Now they head to a better conference.
+The guide's answer is built on concentration risk. The quarterbacks collectively posted an 8/9 touchdown-to-interception ratio, though the team completed over 62% of its passes, and it argues things could have gone very differently without Trey Kukuk's running — he threw more interceptions than touchdowns but averaged better than six yards per carry. It then shows how few games produced the rushing profile: almost 11 yards per carry against Sam Houston, 5.9 against Liberty and 7.6 against Missouri State, which it renders as 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty and 388 against Missouri State. Those four games accounted for 1,486 of 2,540 rushing yards, leaving just 1,054 across the other nine. The closing note is that the Bulldogs now move up to a better conference. *(p. 339)*
 
 ### How big of a difference is being in the Sun Belt?
 
-Using Jeff Sagarin’s end-of-season average ratings, Conference USA was 13th at 55.84. The Sun Belt East Division was ninth at 62.38 and the West Division was 10th at 59.22. James Madison does really skew the numbers, but even the West Division outpaces the entirety of Conference USA. In looking at my power ratings for this season, my average PR for the Sun Belt minus Louisiana Tech is 55.2. My average PR for Conference USA is 52.3. My guess is that the average CFB fan and bettor won’t think much of it. Even looking just at the SB West, my average PR is 53.6, and that’s the weaker side by far.
+The guide answers with two independent measures. Using Jeff Sagarin's end-of-season average ratings, Conference USA ranked 13th at 55.84, while the Sun Belt East ranked ninth at 62.38 and the West 10th at 59.22 — and it observes that although James Madison really skews those numbers, even the West outpaces the whole of Conference USA. Using its own power ratings for this season, the Sun Belt average excluding Louisiana Tech is 55.2 against 52.3 for Conference USA, with the Sun Belt West alone at 53.6 despite being by far the weaker side. Its market read is that the average college football fan and bettor will not think much of the difference. *(p. 339)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

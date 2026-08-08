@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 7.3–4.7 overall, 4.8–3.2 in conference |
 | **Schedule strength** | 29.93 (#124 toughest of 138) |
 
-### Season outlook as written in the guide (p. 328)
+### Season outlook — VSiN's analysis in reference form (p. 328)
 
-There are several ways of looking at Marshall’s 2025 season. The first is that the athletic department got what they deserved for letting Charles Huff walk after winning the Sun Belt Conference with a 10-3 record. The second is that even with that turmoil, Marshall started 4-2 and had a real shot at bowl eligibility, but lost three times as a favorite over the final five games to finish just 5-7 and miss bowl eligibility for the first time since 2016. Given that it was a rebuilding year, Tony Gibson actually did a pretty good job to get the team to where he did, even if the season ended in disappointing fashion, losing to Georgia Southern as a 10-point favorite in Huntington with a bowl game on the line. On the plus side, Carlos Del Rio-Wilson found a home after bouncing around a bit and enough players bought in to the point where they’ve stuck around. On the other hand, a 5-7 team didn’t really get any better via the portal or the freshman class based on their conference ranking. Under 7.5 This is not a bet, but rather a gamble on the Herd’s schedule. They draw South Alabama and UL Monroe from the West Division and all of their home games are winnable in conference play, plus they host a FCS team and a poor Middle Tennessee squad. However, the road games are daunting outside of facing the Warhawks at the end of the season, with trips to Penn State, James Madison, and Old Dominion as the highlights. Coastal Carolina is now coached by Ryan Beard, who dropped 474 yards on the Herd when they played Missouri State last season. It’s a tough slate, with a projection of 7.35 wins.
+- The guide offers two readings of Marshall's 2025 rather than one. The first is that the athletic department got what it deserved for letting Charles Huff walk after he won the Sun Belt at 10-3. *(p. 328)*
+- The second is that despite the turmoil Marshall started 4-2 with a real shot at bowl eligibility, then lost three times as a favourite over the final five games to finish 5-7 and miss a bowl for the first time since 2016. *(p. 328)*
+- Its judgement on the coach follows from that: in a rebuilding year Tony Gibson did a pretty good job to get the team as far as he did, even with a disappointing ending — losing to Georgia Southern as a 10-point favourite in Huntington with a bowl game on the line. *(p. 328)*
+- On the positive side it records Carlos Del Rio-Wilson finding a home after bouncing around, and enough players buying in that they stayed. *(p. 328)*
+- On the negative side, a 5-7 team did not really improve through the portal or the freshman class, judged by conference ranking. *(p. 328)*
+- Recommendation is Under 7.5 wins, explicitly labelled not a bet but a gamble on the schedule. *(p. 328)*
+- The favourable half of that schedule: Marshall draws South Alabama and UL Monroe from the West, all its conference home games are winnable, and it hosts an FCS team and a poor Middle Tennessee squad. *(p. 328)*
+- The unfavourable half: road games are daunting apart from the Warhawks trip at the end of the season, with Penn State, James Madison and Old Dominion the highlights. *(p. 328)*
+- It adds one specific warning — Coastal Carolina is now coached by Ryan Beard, who put 474 yards on the Herd last season when he was at Missouri State — and lands on a tough slate with a projection of 7.35 wins. *(p. 328)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,19 +88,13 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Coastal Carolina is now coached by Ryan Beard, who dropped 474 yards on the Herd when they played Missouri State last season. *(p. 328)*
-- Former Charlotte head coach Brad Lambert is back for his third go-round after coaching up the defense here in 2019-20. *(p. 329)*
-- He was the DC at Wake Forest prior to Jake Dickert’s arrival and then a defensive assistant at Kentucky. *(p. 329)*
-- Gibson was a DC for a decade at West Virginia and NC State before getting his first crack as a head coach here with the Herd. *(p. 329)*
+- The guide offers two readings of Marshall's 2025 rather than one. The first is that the athletic department got what it deserved for letting Charles Huff walk after he won the Sun Belt at 10-3. *(p. 328)*
+- Its judgement on the coach follows from that: in a rebuilding year Tony Gibson did a pretty good job to get the team as far as he did, even with a disappointing ending — losing to Georgia Southern as a 10-point favourite in Huntington with a bowl game on the line. *(p. 328)*
+- It adds one specific warning — Coastal Carolina is now coached by Ryan Beard, who put 474 yards on the Herd last season when he was at Missouri State — and lands on a tough slate with a projection of 7.35 wins. *(p. 328)*
+- **Will Brad Lambert fix the defense?** The guide presents Lambert as a return to a known quantity: the former Charlotte head coach is back for a third stint after coaching this defense in 2019-20, having also started with Marshall in the early 1990s. Since then he was Wake Forest's coordinator before Jake Dickert's arrival and a defensive assistant at Kentucky. Its reasoning is that he has been around a long time, this defense badly needs help, and going to an old friend makes sense. It quantifies the collapse: with the offense broadly unchanged in Huff's absence, the defense allowed 7.2 more PPG and 0.6 more yards per play, including an increase of more than 60 passing yards per game. Cornerback was accordingly a major portal focus after Marshall allowed 262 passing yards per game, and 264 in conference play. *(p. 329)*
+- **Is Tony Gibson head coach material?** The guide sets up the test rather than answering it. Gibson was a coordinator for a decade at West Virginia and NC State before this first head job. In Year 1 his team lost five games as a favourite, the defense was significantly worse than the offense, and Marshall missed a bowl and a winning record despite a +6 turnover margin — with two losses in which it out-gained the opponent by 275 and 156 yards. It grants the mitigating context in full: a massive rebuilding job simply to field enough capable bodies, with the programme down to just over 40 players after the mass departures in December and January. Its conclusion is that those excuses are now spent if Gibson again fails as a favourite or cannot close out games. *(p. 329)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- He seemed like a bit of an odd hire at Marshall, having primarily served as a running backs coach in his career, but he was on Nick Saban’s staff when the Thundering Herd came calling. *(p. 29)*
-- After a 32-20 run in Huntington, he went to Southern Miss because Marshall let the reigning Sun Belt Conference champion head coach walk away. *(p. 29)*
-- This is basically a brand-new roster for head coach Charles Huff, who spent one year at Southern Miss after Marshall inexplicably let him walk as the reigning Sun Belt champion HC. *(p. 58)*
-- Huff made a really, really good DC hire in Lance Guidry, who he worked with at Marshall and has been a DC at many different places. *(p. 59)*
-- New DC Jason Semore has spent the last three seasons with Charles Huff, first at Marshall and then at Southern Miss. *(p. 91)*
+Also referenced on **pp. 25, 29, 58, 59, 91, 159, 161** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -98,9 +102,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 328)*.
 
-- Del Rio-Wilson was the team’s leading rusher with 661 yards and he threw for more than 2,000 yards with 23 total TDs. *(p. 329)*
-- While the offense was pretty similar in Huff’s absence, the defense allowed 7.2 more PPG and 0.6 more YPP, including an increase of more than 60 passing yards per game. *(p. 329)*
-- The cornerback position was a big focus in the portal after allowing 262 passing yards per contest and 264 in conference play. *(p. 329)*
+- On the positive side it records Carlos Del Rio-Wilson finding a home after bouncing around, and enough players buying in that they stayed. *(p. 328)*
+- **Can the offense take things up a notch?** The guide separates the two sides of last season: the defense took a massive step back while the offense was nearly as good as the year before, with only minor drop-offs in PPG, yards per play and sacks allowed, and actual gains in yardage per game and completions. Del Rio-Wilson led the team in rushing with 661 yards while throwing for more than 2,000 and accounting for 23 total touchdowns — his first crack as a starter after Florida and Syracuse, which it says he took advantage of. Its conditional is health: if he stays healthy he should be fine, but the supporting cast is the open question. Running back was a committee approach and three backs who averaged 5-plus yards per carry are gone, as is leading receiver Demarcus Lacey, who had 28 more receptions than anyone else. Offsetting that, receiver was a focal point in the portal and tight end Toby Payne is rated one of the best in the conference at his position. *(p. 329)*
 
 ## 10. Returning Production
 
@@ -116,43 +119,28 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- On the other hand, a 5-7 team didn’t really get any better via the portal or the freshman class based on their conference ranking. *(p. 328)*
-- That said, WR was one of the focal points in the portal and TE Toby Payne is one of the best in the conference at his position. *(p. 329)*
-- The cornerback position was a big focus in the portal after allowing 262 passing yards per contest and 264 in conference play. *(p. 329)*
+- On the positive side it records Carlos Del Rio-Wilson finding a home after bouncing around, and enough players buying in that they stayed. *(p. 328)*
+- On the negative side, a 5-7 team did not really improve through the portal or the freshman class, judged by conference ranking. *(p. 328)*
+- **Can the offense take things up a notch?** The guide separates the two sides of last season: the defense took a massive step back while the offense was nearly as good as the year before, with only minor drop-offs in PPG, yards per play and sacks allowed, and actual gains in yardage per game and completions. Del Rio-Wilson led the team in rushing with 661 yards while throwing for more than 2,000 and accounting for 23 total touchdowns — his first crack as a starter after Florida and Syracuse, which it says he took advantage of. Its conditional is health: if he stays healthy he should be fine, but the supporting cast is the open question. Running back was a committee approach and three backs who averaged 5-plus yards per carry are gone, as is leading receiver Demarcus Lacey, who had 28 more receptions than anyone else. Offsetting that, receiver was a focal point in the portal and tight end Toby Payne is rated one of the best in the conference at his position. *(p. 329)*
+- **Will Brad Lambert fix the defense?** The guide presents Lambert as a return to a known quantity: the former Charlotte head coach is back for a third stint after coaching this defense in 2019-20, having also started with Marshall in the early 1990s. Since then he was Wake Forest's coordinator before Jake Dickert's arrival and a defensive assistant at Kentucky. Its reasoning is that he has been around a long time, this defense badly needs help, and going to an old friend makes sense. It quantifies the collapse: with the offense broadly unchanged in Huff's absence, the defense allowed 7.2 more PPG and 0.6 more yards per play, including an increase of more than 60 passing yards per game. Cornerback was accordingly a major portal focus after Marshall allowed 262 passing yards per game, and 264 in conference play. *(p. 329)*
+- **Is Tony Gibson head coach material?** The guide sets up the test rather than answering it. Gibson was a coordinator for a decade at West Virginia and NC State before this first head job. In Year 1 his team lost five games as a favourite, the defense was significantly worse than the offense, and Marshall missed a bowl and a winning record despite a +6 turnover margin — with two losses in which it out-gained the opponent by 275 and 156 yards. It grants the mitigating context in full: a massive rebuilding job simply to field enough capable bodies, with the programme down to just over 40 players after the mass departures in December and January. Its conclusion is that those excuses are now spent if Gibson again fails as a favourite or cannot close out games. *(p. 329)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Minnesota had to hit the transfer portal hard and brought in Naquan Crowder and Sid Kaba, both from Marshall, along with Xion Chapman from FIU. *(p. 163)*
+Referenced in the guide on **pp. 163** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- On the other hand, a 5-7 team didn’t really get any better via the portal or the freshman class based on their conference ranking. *(p. 328)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Former Boise five-star Chris Marshall went for 30 catches, 574 yards and two TDs last season, but can they get him the ball consistently? *(p. 10)*
-- The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters. *(p. 159)*
+Referenced in the guide on **pp. 10, 159, 328** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The defense took a massive step back last season for Marshall, but the offense was nearly as good as the season prior. *(p. 329)*
-- While the offense was pretty similar in Huff’s absence, the defense allowed 7.2 more PPG and 0.6 more YPP, including an increase of more than 60 passing yards per game. *(p. 329)*
-- The defense was significantly worse than the offense. *(p. 329)*
+- **Can the offense take things up a notch?** The guide separates the two sides of last season: the defense took a massive step back while the offense was nearly as good as the year before, with only minor drop-offs in PPG, yards per play and sacks allowed, and actual gains in yardage per game and completions. Del Rio-Wilson led the team in rushing with 661 yards while throwing for more than 2,000 and accounting for 23 total touchdowns — his first crack as a starter after Florida and Syracuse, which it says he took advantage of. Its conditional is health: if he stays healthy he should be fine, but the supporting cast is the open question. Running back was a committee approach and three backs who averaged 5-plus yards per carry are gone, as is leading receiver Demarcus Lacey, who had 28 more receptions than anyone else. Offsetting that, receiver was a focal point in the portal and tight end Toby Payne is rated one of the best in the conference at his position. *(p. 329)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters. *(p. 159)*
-- Cam Fancher has 28 starts over the last four years combined at Marshall, Florida Atlantic, and UCF and he will push Milivojevic, but the incumbent (986 yards in four starts) should hold the job for Fitzgerald and new offensive coordinator Nick Sheridan, who comes in from the same role at Alabama. *(p. 161)*
+Referenced in the guide on **pp. 159, 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The defense took a massive step back last season for Marshall, but the offense was nearly as good as the season prior. *(p. 329)*
-- The Thundering Herd only saw minor drop-offs in PPG, YPP, and sacks allowed, but gained more yardage on a per-game basis and completed more passes. *(p. 329)*
-- Former Charlotte head coach Brad Lambert is back for his third go-round after coaching up the defense here in 2019-20. *(p. 329)*
-- He was the DC at Wake Forest prior to Jake Dickert’s arrival and then a defensive assistant at Kentucky. *(p. 329)*
-- He’s been around a long time and this defense badly needs help, so going to an old friend makes sense. *(p. 329)*
-- While the offense was pretty similar in Huff’s absence, the defense allowed 7.2 more PPG and 0.6 more YPP, including an increase of more than 60 passing yards per game. *(p. 329)*
-- The defense was significantly worse than the offense. *(p. 329)*
+- **Will Brad Lambert fix the defense?** The guide presents Lambert as a return to a known quantity: the former Charlotte head coach is back for a third stint after coaching this defense in 2019-20, having also started with Marshall in the early 1990s. Since then he was Wake Forest's coordinator before Jake Dickert's arrival and a defensive assistant at Kentucky. Its reasoning is that he has been around a long time, this defense badly needs help, and going to an old friend makes sense. It quantifies the collapse: with the offense broadly unchanged in Huff's absence, the defense allowed 7.2 more PPG and 0.6 more yards per play, including an increase of more than 60 passing yards per game. Cornerback was accordingly a major portal focus after Marshall allowed 262 passing yards per game, and 264 in conference play. *(p. 329)*
 
 ## 15. Key Strengths
 
@@ -223,23 +211,20 @@ Prices printed on the team page *(p. 329)*:
 
 ## 21. Betting Notes / Best Bets
 
-- The second is that even with that turmoil, Marshall started 4-2 and had a real shot at bowl eligibility, but lost three times as a favorite over the final five games to finish just 5-7 and miss bowl eligibility for the first time since 2016. *(p. 328)*
-- Given that it was a rebuilding year, Tony Gibson actually did a pretty good job to get the team to where he did, even if the season ended in disappointing fashion, losing to Georgia Southern as a 10-point favorite in Huntington with a bowl game on the line. *(p. 328)*
-- Under 7.5 This is not a bet, but rather a gamble on the Herd’s schedule. *(p. 328)*
-- In Year 1, his team lost five games as a favorite. *(p. 329)*
-- But, now Gibson won’t have those excuses if he once again fails as a favorite or can’t close out games. *(p. 329)*
+- The second is that despite the turmoil Marshall started 4-2 with a real shot at bowl eligibility, then lost three times as a favourite over the final five games to finish 5-7 and miss a bowl for the first time since 2016. *(p. 328)*
+- Its judgement on the coach follows from that: in a rebuilding year Tony Gibson did a pretty good job to get the team as far as he did, even with a disappointing ending — losing to Georgia Southern as a 10-point favourite in Huntington with a bowl game on the line. *(p. 328)*
+- Recommendation is Under 7.5 wins, explicitly labelled not a bet but a gamble on the schedule. *(p. 328)*
+- The favourable half of that schedule: Marshall draws South Alabama and UL Monroe from the West, all its conference home games are winnable, and it hosts an FCS team and a poor Middle Tennessee squad. *(p. 328)*
+- The unfavourable half: road games are daunting apart from the Warhawks trip at the end of the season, with Penn State, James Madison and Old Dominion the highlights. *(p. 328)*
+- It adds one specific warning — Coastal Carolina is now coached by Ryan Beard, who put 474 yards on the Herd last season when he was at Missouri State — and lands on a tough slate with a projection of 7.35 wins. *(p. 328)*
+- **Is Tony Gibson head coach material?** The guide sets up the test rather than answering it. Gibson was a coordinator for a decade at West Virginia and NC State before this first head job. In Year 1 his team lost five games as a favourite, the defense was significantly worse than the offense, and Marshall missed a bowl and a winning record despite a +6 turnover margin — with two losses in which it out-gained the opponent by 275 and 156 yards. It grants the mitigating context in full: a massive rebuilding job simply to field enough capable bodies, with the programme down to just over 40 players after the mass departures in December and January. Its conclusion is that those excuses are now spent if Gibson again fails as a favourite or cannot close out games. *(p. 329)*
 
 ## 22. Historical / Situational Trends
 
-- The second is that even with that turmoil, Marshall started 4-2 and had a real shot at bowl eligibility, but lost three times as a favorite over the final five games to finish just 5-7 and miss bowl eligibility for the first time since 2016. *(p. 328)*
-- Coastal Carolina is now coached by Ryan Beard, who dropped 474 yards on the Herd when they played Missouri State last season. *(p. 328)*
-- The defense took a massive step back last season for Marshall, but the offense was nearly as good as the season prior. *(p. 329)*
-- Former Charlotte head coach Brad Lambert is back for his third go-round after coaching up the defense here in 2019-20. *(p. 329)*
+- The guide offers two readings of Marshall's 2025 rather than one. The first is that the athletic department got what it deserved for letting Charles Huff walk after he won the Sun Belt at 10-3. *(p. 328)*
+- The second is that despite the turmoil Marshall started 4-2 with a real shot at bowl eligibility, then lost three times as a favourite over the final five games to finish 5-7 and miss a bowl for the first time since 2016. *(p. 328)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Former Boise five-star Chris Marshall went for 30 catches, 574 yards and two TDs last season, but can they get him the ball consistently? *(p. 10)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
+Referenced in the guide on **pp. 10, 25** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -284,16 +269,12 @@ As printed on p. 329. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The first is that the athletic department got what they deserved for letting Charles Huff walk after winning the Sun Belt Conference with a 10-3 record. *(p. 328)*
-- Given that it was a rebuilding year, Tony Gibson actually did a pretty good job to get the team to where he did, even if the season ended in disappointing fashion, losing to Georgia Southern as a 10-point favorite in Huntington with a bowl game on the line. *(p. 328)*
-- They draw South Alabama and UL Monroe from the West Division and all of their home games are winnable in conference play, plus they host a FCS team and a poor Middle Tennessee squad. *(p. 328)*
-- The defense took a massive step back last season for Marshall, but the offense was nearly as good as the season prior. *(p. 329)*
-- That said, WR was one of the focal points in the portal and TE Toby Payne is one of the best in the conference at his position. *(p. 329)*
-- They fell short of a bowl game and a winning record despite a +6 turnover margin. *(p. 329)*
-- The backup QBs are promising if Underwood flops, and leading rusher Jordan Marshall returns. *(p. 19)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- Huff made a really, really good DC hire in Lance Guidry, who he worked with at Marshall and has been a DC at many different places. *(p. 59)*
-- The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters. *(p. 159)*
+- Its judgement on the coach follows from that: in a rebuilding year Tony Gibson did a pretty good job to get the team as far as he did, even with a disappointing ending — losing to Georgia Southern as a 10-point favourite in Huntington with a bowl game on the line. *(p. 328)*
+- On the negative side, a 5-7 team did not really improve through the portal or the freshman class, judged by conference ranking. *(p. 328)*
+- The favourable half of that schedule: Marshall draws South Alabama and UL Monroe from the West, all its conference home games are winnable, and it hosts an FCS team and a poor Middle Tennessee squad. *(p. 328)*
+- The guide separates the two sides of last season: the defense took a massive step back while the offense was nearly as good as the year before, with only minor drop-offs in PPG, yards per play and sacks allowed, and actual gains in yardage per game and completions. Del Rio-Wilson led the team in rushing with 661 yards while throwing for more than 2,000 and accounting for 23 total touchdowns — his first crack as a starter after Florida and Syracuse, which it says he took advantage of. Its conditional is health: if he stays healthy he should be fine, but the supporting cast is the open question. Running back was a committee approach and three backs who averaged 5-plus yards per carry are gone, as is leading receiver Demarcus Lacey, who had 28 more receptions than anyone else. Offsetting that, receiver was a focal point in the portal and tight end Toby Payne is rated one of the best in the conference at his position. *(p. 329)*
+- The guide presents Lambert as a return to a known quantity: the former Charlotte head coach is back for a third stint after coaching this defense in 2019-20, having also started with Marshall in the early 1990s. Since then he was Wake Forest's coordinator before Jake Dickert's arrival and a defensive assistant at Kentucky. Its reasoning is that he has been around a long time, this defense badly needs help, and going to an old friend makes sense. It quantifies the collapse: with the offense broadly unchanged in Huff's absence, the defense allowed 7.2 more PPG and 0.6 more yards per play, including an increase of more than 60 passing yards per game. Cornerback was accordingly a major portal focus after Marshall allowed 262 passing yards per game, and 264 in conference play. *(p. 329)*
+- The guide sets up the test rather than answering it. Gibson was a coordinator for a decade at West Virginia and NC State before this first head job. In Year 1 his team lost five games as a favourite, the defense was significantly worse than the offense, and Marshall missed a bowl and a winning record despite a +6 turnover margin — with two losses in which it out-gained the opponent by 275 and 156 yards. It grants the mitigating context in full: a massive rebuilding job simply to field enough capable bodies, with the programme down to just over 40 players after the mass departures in December and January. Its conclusion is that those excuses are now spent if Gibson again fails as a favourite or cannot close out games. *(p. 329)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -301,35 +282,30 @@ As printed on p. 329. Each category carries a value and a national rank.
 
 - Makinen projects **7.3 wins** against a posted total of 7.5 — **-0.2** against this team.
 - The team page recommends **UNDER 7.5**.
-- The second is that even with that turmoil, Marshall started 4-2 and had a real shot at bowl eligibility, but lost three times as a favorite over the final five games to finish just 5-7 and miss bowl eligibility for the first time since 2016. *(p. 328)*
-- It’s a tough slate, with a projection of 7.35 wins. *(p. 328)*
-- In Year 1, his team lost five games as a favorite. *(p. 329)*
-- Two of their losses featured positive yardage differentials of 275 and 156 yards. *(p. 329)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- After a 32-20 run in Huntington, he went to Southern Miss because Marshall let the reigning Sun Belt Conference champion head coach walk away. *(p. 29)*
-- This is basically a brand-new roster for head coach Charles Huff, who spent one year at Southern Miss after Marshall inexplicably let him walk as the reigning Sun Belt champion HC. *(p. 58)*
-- New DC Jason Semore has spent the last three seasons with Charles Huff, first at Marshall and then at Southern Miss. *(p. 91)*
-- What is amazing, though, is that ODU’s three losses were by 13, 24, and 36 points, as they were -5 in turnovers against Marshall and got pummeled by James Madison. *(p. 330)*
-- Southern Miss caught lightning in a bottle when they were able to enjoy one season with Charles Huff at the helm, as he brought a bunch of Marshall players with him and took the Golden Eagles to a bowl game on the heels of a disastrous 1-11 season. *(p. 342)*
+- The second is that despite the turmoil Marshall started 4-2 with a real shot at bowl eligibility, then lost three times as a favourite over the final five games to finish 5-7 and miss a bowl for the first time since 2016. *(p. 328)*
+- It adds one specific warning — Coastal Carolina is now coached by Ryan Beard, who put 474 yards on the Herd last season when he was at Missouri State — and lands on a tough slate with a projection of 7.35 wins. *(p. 328)*
+- The guide separates the two sides of last season: the defense took a massive step back while the offense was nearly as good as the year before, with only minor drop-offs in PPG, yards per play and sacks allowed, and actual gains in yardage per game and completions. Del Rio-Wilson led the team in rushing with 661 yards while throwing for more than 2,000 and accounting for 23 total touchdowns — his first crack as a starter after Florida and Syracuse, which it says he took advantage of. Its conditional is health: if he stays healthy he should be fine, but the supporting cast is the open question. Running back was a committee approach and three backs who averaged 5-plus yards per carry are gone, as is leading receiver Demarcus Lacey, who had 28 more receptions than anyone else. Offsetting that, receiver was a focal point in the portal and tight end Toby Payne is rated one of the best in the conference at his position. *(p. 329)*
+- The guide sets up the test rather than answering it. Gibson was a coordinator for a decade at West Virginia and NC State before this first head job. In Year 1 his team lost five games as a favourite, the defense was significantly worse than the offense, and Marshall missed a bowl and a winning record despite a +6 turnover margin — with two losses in which it out-gained the opponent by 275 and 156 yards. It grants the mitigating context in full: a massive rebuilding job simply to field enough capable bodies, with the programme down to just over 40 players after the mass departures in December and January. Its conclusion is that those excuses are now spent if Gibson again fails as a favourite or cannot close out games. *(p. 329)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 329)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 329)*. Its analysis, in reference form:
 
 ### Can the offense take things up a notch?
 
-The defense took a massive step back last season for Marshall, but the offense was nearly as good as the season prior. The Thundering Herd only saw minor drop-offs in PPG, YPP, and sacks allowed, but gained more yardage on a per-game basis and completed more passes. Del Rio-Wilson was the team’s leading rusher with 661 yards and he threw for more than 2,000 yards with 23 total TDs. It was his first crack as a starter after stops at Florida and Syracuse and he took advantage of it. If CDRW can stay healthy, he should be fine, but what will the other guys be able to contribute? This was a by- committee approach at RB and three guys who averaged 5+ yards per carry are gone. Leading WR Demarcus Lacey, who had 28 more receptions than anybody else, is also gone. That said, WR was one of the focal points in the portal and TE Toby Payne is one of the best in the conference at his position.
+The guide separates the two sides of last season: the defense took a massive step back while the offense was nearly as good as the year before, with only minor drop-offs in PPG, yards per play and sacks allowed, and actual gains in yardage per game and completions. Del Rio-Wilson led the team in rushing with 661 yards while throwing for more than 2,000 and accounting for 23 total touchdowns — his first crack as a starter after Florida and Syracuse, which it says he took advantage of. Its conditional is health: if he stays healthy he should be fine, but the supporting cast is the open question. Running back was a committee approach and three backs who averaged 5-plus yards per carry are gone, as is leading receiver Demarcus Lacey, who had 28 more receptions than anyone else. Offsetting that, receiver was a focal point in the portal and tight end Toby Payne is rated one of the best in the conference at his position. *(p. 329)*
 
 ### Will Brad Lambert fix the defense?
 
-Former Charlotte head coach Brad Lambert is back for his third go-round after coaching up the defense here in 2019-20. He also got his start with Marshall in the early ‘90s. He was the DC at Wake Forest prior to Jake Dickert’s arrival and then a defensive assistant at Kentucky. He’s been around a long time and this defense badly needs help, so going to an old friend makes sense. While the offense was pretty similar in Huff’s absence, the defense allowed 7.2 more PPG and 0.6 more YPP, including an increase of more than 60 passing yards per game. The cornerback position was a big focus in the portal after allowing 262 passing yards per contest and 264 in conference play.
+The guide presents Lambert as a return to a known quantity: the former Charlotte head coach is back for a third stint after coaching this defense in 2019-20, having also started with Marshall in the early 1990s. Since then he was Wake Forest's coordinator before Jake Dickert's arrival and a defensive assistant at Kentucky. Its reasoning is that he has been around a long time, this defense badly needs help, and going to an old friend makes sense. It quantifies the collapse: with the offense broadly unchanged in Huff's absence, the defense allowed 7.2 more PPG and 0.6 more yards per play, including an increase of more than 60 passing yards per game. Cornerback was accordingly a major portal focus after Marshall allowed 262 passing yards per game, and 264 in conference play. *(p. 329)*
 
 ### Is Tony Gibson head coach material?
 
-Gibson was a DC for a decade at West Virginia and NC State before getting his first crack as a head coach here with the Herd. In Year 1, his team lost five games as a favorite. The defense was significantly worse than the offense. They fell short of a bowl game and a winning record despite a +6 turnover margin. Two of their losses featured positive yardage differentials of 275 and 156 yards. It was a massive rebuilding job to get enough capable bodies, as the program had just over 40 players after the mass departures in December and January. But, now Gibson won’t have those excuses if he once again fails as a favorite or can’t close out games.
+The guide sets up the test rather than answering it. Gibson was a coordinator for a decade at West Virginia and NC State before this first head job. In Year 1 his team lost five games as a favourite, the defense was significantly worse than the offense, and Marshall missed a bowl and a winning record despite a +6 turnover margin — with two losses in which it out-gained the opponent by 275 and 156 yards. It grants the mitigating context in full: a massive rebuilding job simply to field enough capable bodies, with the programme down to just over 40 players after the mass departures in December and January. Its conclusion is that those excuses are now spent if Gibson again fails as a favourite or cannot close out games. *(p. 329)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

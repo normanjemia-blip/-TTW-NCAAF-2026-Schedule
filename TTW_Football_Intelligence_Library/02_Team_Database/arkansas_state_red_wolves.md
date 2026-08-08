@@ -24,9 +24,20 @@
 | **Makinen projected wins** | 6.8–5.2 overall, 5.0–3.0 in conference |
 | **Schedule strength** | 30.97 (#119 toughest of 138) |
 
-### Season outlook as written in the guide (p. 332)
+### Season outlook — VSiN's analysis in reference form (p. 332)
 
-It took a couple of seasons for Butch Jones to pick up the pieces in Jonesboro coming out of COVID and the end of Blake Anderson’s tenure, but the program has gone to a bowl game three seasons in a row and has their first winning streak in bowl games since 2012-13 under Gus Malzahn and Bryan Harsin. Jones was even able to get his team through Sun Belt play with a 5-3 record despite a ghastly -11 TO margin. We’ll see what kind of fortunes the Red Wolves have this season, as they’ll play without QB Jaylen Raynor for the first time since 2022, a season in which they finished 3-9. Depending on how you look at it, Raynor’s departure comes at either a good time or a bad time. The running game dropped off precipitously last season and Raynor had a lot to do with it, posting just 2.7 yards per carry. The Red Wolves also have a new OC in Garrett Altman, who was coaching up Diego Pavia at Vanderbilt the last two years, so a new offensive installation is taking place. But, Raynor also leaves at the same time as all-time leading receiver Corey Rucker, so there is a ton of offensive production to replace. Over 5.5 The better question here is whether or not you want to venture Over 6.5 wins because the vig is heavy on 5.5. The West Division is rather poor. All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. I still think the best approach is betting Over the total on a weekly basis. If a QB emerges, the books will catch up, but if Altman tabs the right guy(s) at the outset, we can take advantage before adjustments are made. My projection is 6.36 wins.
+- The guide's framing is a rebuild that took time: Butch Jones needed a couple of seasons to pick up the pieces in Jonesboro after COVID and the end of Blake Anderson's tenure. *(p. 332)*
+- The payoff it records is three consecutive bowl trips and the programme's first bowl winning streak since 2012-13 under Gus Malzahn and Bryan Harsin. *(p. 332)*
+- It singles out one achievement as evidence of coaching: a 5-3 Sun Belt record despite a ghastly -11 turnover margin. *(p. 332)*
+- The uncertainty it flags is that Arkansas State plays without quarterback Jaylen Raynor for the first time since 2022 — a season the guide notes finished 3-9. *(p. 332)*
+- It then argues the timing of that departure cuts both ways. In its favour: the running game dropped off precipitously last season and Raynor had a lot to do with it at just 2.7 yards per carry. *(p. 332)*
+- Also in favour: a new offensive coordinator in Garrett Altman, who spent the last two years coaching Diego Pavia at Vanderbilt, meaning a fresh installation is going in anyway. *(p. 332)*
+- Against it: Raynor leaves at the same time as all-time leading receiver Corey Rucker, so there is a great deal of offensive production to replace. *(p. 332)*
+- Recommendation is Over 5.5 wins, though the guide reframes the question — the vig is heavy on 5.5, so the better question is whether to venture Over 6.5. *(p. 332)*
+- Its schedule case: the West Division is rather poor, all Sun Belt road games are winnable including the one at conference favourite Louisiana, and drawing Coastal Carolina and Georgia State from the East boosts the forecast. *(p. 332)*
+- It prefers a different market entirely — betting Over the game total on a weekly basis — with an explicit timing argument: if a quarterback emerges the books will catch up, but if Altman picks the right player or players from the outset there is an edge before the market adjusts. Projection is 6.36 wins. *(p. 332)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,12 +89,12 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The Red Wolves also have a new OC in Garrett Altman, who was coaching up Diego Pavia at Vanderbilt the last two years, so a new offensive installation is taking place. *(p. 332)*
-- First-year DC Griff McCarley came in guns blazing, as the Red Wolves went from 19 sacks up to 39. *(p. 333)*
+- The guide's framing is a rebuild that took time: Butch Jones needed a couple of seasons to pick up the pieces in Jonesboro after COVID and the end of Blake Anderson's tenure. *(p. 332)*
+- It singles out one achievement as evidence of coaching: a 5-3 Sun Belt record despite a ghastly -11 turnover margin. *(p. 332)*
+- Also in favour: a new offensive coordinator in Garrett Altman, who spent the last two years coaching Diego Pavia at Vanderbilt, meaning a fresh installation is going in anyway. *(p. 332)*
+- **Can Altman turn things around on offense?** The guide reads Raynor's headline number sceptically: a career-best 3,361 passing yards came with a Sun Belt-leading 501 attempts. It was his best season by completion percentage but his lowest in yards per reception, only slightly better than the year before in yards and adjusted yards per attempt, and his worst on a per-carry basis. Team-wide, Arkansas State fell from 4.2 yards per carry across the previous two seasons to 3.8 and posted a -7 turnover margin. Its case for Altman is recency and pedigree — still playing at TCU a decade ago, an analyst at New Mexico State when Pavia was there, and therefore instrumental in every phase of that quarterback's development — with the supporting fact that Vanderbilt led the nation at 7.47 yards per play last season. Its conclusion is that he may well create a much more explosive offense. *(p. 333)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He took Arkansas State to new heights from 2014-20 and had an 11-win season at Utah State to start his tenure, but this is a fairly uninspiring hire in Hattiesburg. *(p. 37)*
+Also referenced on **pp. 37** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -91,16 +102,13 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 332)*.
 
-- We’ll see what kind of fortunes the Red Wolves have this season, as they’ll play without QB Jaylen Raynor for the first time since 2022, a season in which they finished 3-9. *(p. 332)*
-- If a QB emerges, the books will catch up, but if Altman tabs the right guy(s) at the outset, we can take advantage before adjustments are made. *(p. 332)*
-- The QB puzzle is one that will take some time to put together. *(p. 333)*
-- While Raynor had a career-best 3,361 passing yards last season, he also led the Sun Belt in attempts with 501. *(p. 333)*
-- While it was his top season by completion percentage, it was also his lowest output in yards per reception and just slightly better than the previous season in yards and adjusted yards per attempt. *(p. 333)*
-- Considering that the Red Wolves were tied for sixth in sacks per game and still only forced seven interceptions and gave up a 68.4% completion percentage, I have a ton of doubts about this defense, but fully expect the offense to get better. *(p. 333)*
+- The uncertainty it flags is that Arkansas State plays without quarterback Jaylen Raynor for the first time since 2022 — a season the guide notes finished 3-9. *(p. 332)*
+- It then argues the timing of that departure cuts both ways. In its favour: the running game dropped off precipitously last season and Raynor had a lot to do with it at just 2.7 yards per carry. *(p. 332)*
+- It prefers a different market entirely — betting Over the game total on a weekly basis — with an explicit timing argument: if a quarterback emerges the books will catch up, but if Altman picks the right player or players from the outset there is an edge before the market adjusts. Projection is 6.36 wins. *(p. 332)*
+- **Who will emerge at quarterback?** The guide expects this to take time and lists the whole field. Ethan Crawford is the holdover but did not play last season; Trey Owens was a four-star Texas prospect committed to UT who never saw the field; Drew Dickey and Jeremy St-Hilaire sat behind Pavia at Vanderbilt. Its summary is essentially zero experience on the roster, with a distinct reason to believe in each: the ex-Commodores already know Altman's philosophy, Owens probably has the most untapped upside, and Crawford knows the returning skill players — top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 receiver Chauncy Cobb, who had 73 catches last season. *(p. 333)*
+- **Can Altman turn things around on offense?** The guide reads Raynor's headline number sceptically: a career-best 3,361 passing yards came with a Sun Belt-leading 501 attempts. It was his best season by completion percentage but his lowest in yards per reception, only slightly better than the year before in yards and adjusted yards per attempt, and his worst on a per-carry basis. Team-wide, Arkansas State fell from 4.2 yards per carry across the previous two seasons to 3.8 and posted a -7 turnover margin. Its case for Altman is recency and pedigree — still playing at TCU a decade ago, an analyst at New Mexico State when Pavia was there, and therefore instrumental in every phase of that quarterback's development — with the supporting fact that Vanderbilt led the nation at 7.47 yards per play last season. Its conclusion is that he may well create a much more explosive offense. *(p. 333)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Quarterback Jaylen Raynor is an exciting player, as he was a fun dual-threat weapon for Arkansas State last year. *(p. 131)*
+Also referenced on **pp. 131** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -116,38 +124,29 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
+- Against it: Raynor leaves at the same time as all-time leading receiver Corey Rucker, so there is a great deal of offensive production to replace. *(p. 332)*
+- **Who will emerge at quarterback?** The guide expects this to take time and lists the whole field. Ethan Crawford is the holdover but did not play last season; Trey Owens was a four-star Texas prospect committed to UT who never saw the field; Drew Dickey and Jeremy St-Hilaire sat behind Pavia at Vanderbilt. Its summary is essentially zero experience on the roster, with a distinct reason to believe in each: the ex-Commodores already know Altman's philosophy, Owens probably has the most untapped upside, and Crawford knows the returning skill players — top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 receiver Chauncy Cobb, who had 73 catches last season. *(p. 333)*
+- **Will the Red Wolves be a good Over bet?** The guide credits first-year coordinator Griff McCarley with an immediate pass-rush jump from 19 sacks to 39, while noting the defense still allowed over six yards per play — 6.1, better than the prior 6.9. Its doubt is about repeatability with a completely new defensive line, since essentially everyone with more than one sack has transferred or exhausted eligibility. The damning combination it cites is that Arkansas State was tied for sixth nationally in sacks per game yet still forced only seven interceptions and allowed a 68.4% completion rate. Its stated position is a great deal of doubt about the defense alongside full expectation of offensive improvement, concluding that this team could produce some track meets. *(p. 333)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Ja’Quez Cross from Arkansas State and Chris Lofton from Gardner-Webb are two guys that could generate explosives and the others are a collection of highlytouted recruits looking for a fresh start, JUCO transfers, and some holdovers from Year 1. *(p. 319)*
+Referenced in the guide on **pp. 319** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Trey Owens was a four-star prospect out of Texas and committed to UT, but never saw the field. *(p. 333)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Ja’Quez Cross from Arkansas State and Chris Lofton from Gardner-Webb are two guys that could generate explosives and the others are a collection of highlytouted recruits looking for a fresh start, JUCO transfers, and some holdovers from Year 1. *(p. 319)*
+Referenced in the guide on **pp. 319, 333** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The Red Wolves also have a new OC in Garrett Altman, who was coaching up Diego Pavia at Vanderbilt the last two years, so a new offensive installation is taking place. *(p. 332)*
-- But, Raynor also leaves at the same time as all-time leading receiver Corey Rucker, so there is a ton of offensive production to replace. *(p. 332)*
-- The Commodores led the nation with 7.47 yards per play last season. *(p. 333)*
-- He may very well create a much more explosive offense. *(p. 333)*
-- Even with those negative plays, the defense still allowed over six yards per play, though 6.1 is a lot better than 6.9. *(p. 333)*
-- Considering that the Red Wolves were tied for sixth in sacks per game and still only forced seven interceptions and gave up a 68.4% completion percentage, I have a ton of doubts about this defense, but fully expect the offense to get better. *(p. 333)*
+- It then argues the timing of that departure cuts both ways. In its favour: the running game dropped off precipitously last season and Raynor had a lot to do with it at just 2.7 yards per carry. *(p. 332)*
+- Also in favour: a new offensive coordinator in Garrett Altman, who spent the last two years coaching Diego Pavia at Vanderbilt, meaning a fresh installation is going in anyway. *(p. 332)*
+- Against it: Raynor leaves at the same time as all-time leading receiver Corey Rucker, so there is a great deal of offensive production to replace. *(p. 332)*
+- **Can Altman turn things around on offense?** The guide reads Raynor's headline number sceptically: a career-best 3,361 passing yards came with a Sun Belt-leading 501 attempts. It was his best season by completion percentage but his lowest in yards per reception, only slightly better than the year before in yards and adjusted yards per attempt, and his worst on a per-carry basis. Team-wide, Arkansas State fell from 4.2 yards per carry across the previous two seasons to 3.8 and posted a -7 turnover margin. Its case for Altman is recency and pedigree — still playing at TCU a decade ago, an analyst at New Mexico State when Pavia was there, and therefore instrumental in every phase of that quarterback's development — with the supporting fact that Vanderbilt led the nation at 7.47 yards per play last season. Its conclusion is that he may well create a much more explosive offense. *(p. 333)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- MISSOURI STATE – UNDER 4.5 WINS It was a solid first season at the FBS level and in Conference USA for Missouri State as the Bears won seven games and received a bowl bid, a game they would eventually lose to Arkansas State. *(p. 25)*
+Referenced in the guide on **pp. 25** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- First-year DC Griff McCarley came in guns blazing, as the Red Wolves went from 19 sacks up to 39. *(p. 333)*
-- Even with those negative plays, the defense still allowed over six yards per play, though 6.1 is a lot better than 6.9. *(p. 333)*
-- The question is whether or not McCarley can find those pressures with a completely new defensive line, as just about everybody with more than one sack is playing somewhere else or ran out of eligibility. *(p. 333)*
-- Considering that the Red Wolves were tied for sixth in sacks per game and still only forced seven interceptions and gave up a 68.4% completion percentage, I have a ton of doubts about this defense, but fully expect the offense to get better. *(p. 333)*
+- **Will the Red Wolves be a good Over bet?** The guide credits first-year coordinator Griff McCarley with an immediate pass-rush jump from 19 sacks to 39, while noting the defense still allowed over six yards per play — 6.1, better than the prior 6.9. Its doubt is about repeatability with a completely new defensive line, since essentially everyone with more than one sack has transferred or exhausted eligibility. The damning combination it cites is that Arkansas State was tied for sixth nationally in sacks per game yet still forced only seven interceptions and allowed a 68.4% completion rate. Its stated position is a great deal of doubt about the defense alongside full expectation of offensive improvement, concluding that this team could produce some track meets. *(p. 333)*
 
 ## 15. Key Strengths
 
@@ -220,23 +219,19 @@ Prices printed on the team page *(p. 333)*:
 
 ## 21. Betting Notes / Best Bets
 
-- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
-- I still think the best approach is betting Over the total on a weekly basis. *(p. 332)*
+- Recommendation is Over 5.5 wins, though the guide reframes the question — the vig is heavy on 5.5, so the better question is whether to venture Over 6.5. *(p. 332)*
+- Its schedule case: the West Division is rather poor, all Sun Belt road games are winnable including the one at conference favourite Louisiana, and drawing Coastal Carolina and Georgia State from the East boosts the forecast. *(p. 332)*
+- It prefers a different market entirely — betting Over the game total on a weekly basis — with an explicit timing argument: if a quarterback emerges the books will catch up, but if Altman picks the right player or players from the outset there is an edge before the market adjusts. Projection is 6.36 wins. *(p. 332)*
+- **Will the Red Wolves be a good Over bet?** The guide credits first-year coordinator Griff McCarley with an immediate pass-rush jump from 19 sacks to 39, while noting the defense still allowed over six yards per play — 6.1, better than the prior 6.9. Its doubt is about repeatability with a completely new defensive line, since essentially everyone with more than one sack has transferred or exhausted eligibility. The damning combination it cites is that Arkansas State was tied for sixth nationally in sacks per game yet still forced only seven interceptions and allowed a 68.4% completion rate. Its stated position is a great deal of doubt about the defense alongside full expectation of offensive improvement, concluding that this team could produce some track meets. *(p. 333)*
 
 ## 22. Historical / Situational Trends
 
-- It took a couple of seasons for Butch Jones to pick up the pieces in Jonesboro coming out of COVID and the end of Blake Anderson’s tenure, but the program has gone to a bowl game three seasons in a row and has their first winning streak in bowl games since 2012-13 under Gus Malzahn and Bryan Harsin. *(p. 332)*
-- We’ll see what kind of fortunes the Red Wolves have this season, as they’ll play without QB Jaylen Raynor for the first time since 2022, a season in which they finished 3-9. *(p. 332)*
-- The running game dropped off precipitously last season and Raynor had a lot to do with it, posting just 2.7 yards per carry. *(p. 332)*
-- Ethan Crawford is the holdover, but he didn’t play last season. *(p. 333)*
-- The ex-Commodores know Altman’s philosophy, Owens probably has the most untapped upside, and Crawford knows the skill guys who are back, including top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 WR Chauncy Cobb, who had 73 catches last season. *(p. 333)*
-- While Raynor had a career-best 3,361 passing yards last season, he also led the Sun Belt in attempts with 501. *(p. 333)*
-- The Commodores led the nation with 7.47 yards per play last season. *(p. 333)*
+- The guide's framing is a rebuild that took time: Butch Jones needed a couple of seasons to pick up the pieces in Jonesboro after COVID and the end of Blake Anderson's tenure. *(p. 332)*
+- The payoff it records is three consecutive bowl trips and the programme's first bowl winning streak since 2012-13 under Gus Malzahn and Bryan Harsin. *(p. 332)*
+- It singles out one achievement as evidence of coaching: a 5-3 Sun Belt record despite a ghastly -11 turnover margin. *(p. 332)*
+- The uncertainty it flags is that Arkansas State plays without quarterback Jaylen Raynor for the first time since 2022 — a season the guide notes finished 3-9. *(p. 332)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Aaron Alexander racked up 91 tackles last season at Arkansas State. *(p. 63)*
-- Quarterback Jaylen Raynor is an exciting player, as he was a fun dual-threat weapon for Arkansas State last year. *(p. 131)*
+Referenced in the guide on **pp. 63, 131** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -283,39 +278,37 @@ As printed on p. 333. Each category carries a value and a national rank.
 
 - Makinen projects **6.8 wins** against a posted total of 5.5 — **+1.3** in this team's favour.
 - The team page recommends **OVER 5.5**.
-- It took a couple of seasons for Butch Jones to pick up the pieces in Jonesboro coming out of COVID and the end of Blake Anderson’s tenure, but the program has gone to a bowl game three seasons in a row and has their first winning streak in bowl games since 2012-13 under Gus Malzahn and Bryan Harsin. *(p. 332)*
-- Depending on how you look at it, Raynor’s departure comes at either a good time or a bad time. *(p. 332)*
-- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
-- I still think the best approach is betting Over the total on a weekly basis. *(p. 332)*
-- The ex-Commodores know Altman’s philosophy, Owens probably has the most untapped upside, and Crawford knows the skill guys who are back, including top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 WR Chauncy Cobb, who had 73 catches last season. *(p. 333)*
-- While Raynor had a career-best 3,361 passing yards last season, he also led the Sun Belt in attempts with 501. *(p. 333)*
-- MISSOURI STATE – UNDER 4.5 WINS It was a solid first season at the FBS level and in Conference USA for Missouri State as the Bears won seven games and received a bowl bid, a game they would eventually lose to Arkansas State. *(p. 25)*
+- The payoff it records is three consecutive bowl trips and the programme's first bowl winning streak since 2012-13 under Gus Malzahn and Bryan Harsin. *(p. 332)*
+- Its schedule case: the West Division is rather poor, all Sun Belt road games are winnable including the one at conference favourite Louisiana, and drawing Coastal Carolina and Georgia State from the East boosts the forecast. *(p. 332)*
+- The guide expects this to take time and lists the whole field. Ethan Crawford is the holdover but did not play last season; Trey Owens was a four-star Texas prospect committed to UT who never saw the field; Drew Dickey and Jeremy St-Hilaire sat behind Pavia at Vanderbilt. Its summary is essentially zero experience on the roster, with a distinct reason to believe in each: the ex-Commodores already know Altman's philosophy, Owens probably has the most untapped upside, and Crawford knows the returning skill players — top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 receiver Chauncy Cobb, who had 73 catches last season. *(p. 333)*
+- The guide reads Raynor's headline number sceptically: a career-best 3,361 passing yards came with a Sun Belt-leading 501 attempts. It was his best season by completion percentage but his lowest in yards per reception, only slightly better than the year before in yards and adjusted yards per attempt, and his worst on a per-carry basis. Team-wide, Arkansas State fell from 4.2 yards per carry across the previous two seasons to 3.8 and posted a -7 turnover margin. Its case for Altman is recency and pedigree — still playing at TCU a decade ago, an analyst at New Mexico State when Pavia was there, and therefore instrumental in every phase of that quarterback's development — with the supporting fact that Vanderbilt led the nation at 7.47 yards per play last season. Its conclusion is that he may well create a much more explosive offense. *(p. 333)*
+- The guide credits first-year coordinator Griff McCarley with an immediate pass-rush jump from 19 sacks to 39, while noting the defense still allowed over six yards per play — 6.1, better than the prior 6.9. Its doubt is about repeatability with a completely new defensive line, since essentially everyone with more than one sack has transferred or exhausted eligibility. The damning combination it cites is that Arkansas State was tied for sixth nationally in sacks per game yet still forced only seven interceptions and allowed a 68.4% completion rate. Its stated position is a great deal of doubt about the defense alongside full expectation of offensive improvement, concluding that this team could produce some track meets. *(p. 333)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Over 5.5 The better question here is whether or not you want to venture Over 6.5 wins because the vig is heavy on 5.5. *(p. 332)*
-- The question is whether or not McCarley can find those pressures with a completely new defensive line, as just about everybody with more than one sack is playing somewhere else or ran out of eligibility. *(p. 333)*
+- Recommendation is Over 5.5 wins, though the guide reframes the question — the vig is heavy on 5.5, so the better question is whether to venture Over 6.5. *(p. 332)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 333)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 333)*. Its analysis, in reference form:
 
 ### Who will emerge at quarterback?
 
-The QB puzzle is one that will take some time to put together. Ethan Crawford is the holdover, but he didn’t play last season. Trey Owens was a four-star prospect out of Texas and committed to UT, but never saw the field. Drew Dickey and Jeremy St-Hilaire sat behind Pavia at Vandy. So, there is pretty much zero experience on this roster, but there are some reasons to believe any of them could be an option. The ex-Commodores know Altman’s philosophy, Owens probably has the most untapped upside, and Crawford knows the skill guys who are back, including top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 WR Chauncy Cobb, who had 73 catches last season.
+The guide expects this to take time and lists the whole field. Ethan Crawford is the holdover but did not play last season; Trey Owens was a four-star Texas prospect committed to UT who never saw the field; Drew Dickey and Jeremy St-Hilaire sat behind Pavia at Vanderbilt. Its summary is essentially zero experience on the roster, with a distinct reason to believe in each: the ex-Commodores already know Altman's philosophy, Owens probably has the most untapped upside, and Crawford knows the returning skill players — top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 receiver Chauncy Cobb, who had 73 catches last season. *(p. 333)*
 
 ### Can Altman turn things around on offense?
 
-While Raynor had a career-best 3,361 passing yards last season, he also led the Sun Belt in attempts with 501. While it was his top season by completion percentage, it was also his lowest output in yards per reception and just slightly better than the previous season in yards and adjusted yards per attempt. He also had his worst season from a per-carry standpoint. The Red Wolves fell from 4.2 yards per carry in the previous two seasons to 3.8 and also posted a -7 turnover margin. Altman was still playing college football at TCU just a decade ago and was actually an analyst at New Mexico State when Pavia was there, so he was instrumental in every phase of his development. The Commodores led the nation with 7.47 yards per play last season. He may very well create a much more explosive offense.
+The guide reads Raynor's headline number sceptically: a career-best 3,361 passing yards came with a Sun Belt-leading 501 attempts. It was his best season by completion percentage but his lowest in yards per reception, only slightly better than the year before in yards and adjusted yards per attempt, and his worst on a per-carry basis. Team-wide, Arkansas State fell from 4.2 yards per carry across the previous two seasons to 3.8 and posted a -7 turnover margin. Its case for Altman is recency and pedigree — still playing at TCU a decade ago, an analyst at New Mexico State when Pavia was there, and therefore instrumental in every phase of that quarterback's development — with the supporting fact that Vanderbilt led the nation at 7.47 yards per play last season. Its conclusion is that he may well create a much more explosive offense. *(p. 333)*
 
 ### Will the Red Wolves be a good Over bet?
 
-First-year DC Griff McCarley came in guns blazing, as the Red Wolves went from 19 sacks up to 39. Even with those negative plays, the defense still allowed over six yards per play, though 6.1 is a lot better than 6.9. The question is whether or not McCarley can find those pressures with a completely new defensive line, as just about everybody with more than one sack is playing somewhere else or ran out of eligibility. Considering that the Red Wolves were tied for sixth in sacks per game and still only forced seven interceptions and gave up a 68.4% completion percentage, I have a ton of doubts about this defense, but fully expect the offense to get better. We could see some track meets with this team.
+The guide credits first-year coordinator Griff McCarley with an immediate pass-rush jump from 19 sacks to 39, while noting the defense still allowed over six yards per play — 6.1, better than the prior 6.9. Its doubt is about repeatability with a completely new defensive line, since essentially everyone with more than one sack has transferred or exhausted eligibility. The damning combination it cites is that Arkansas State was tied for sixth nationally in sacks per game yet still forced only seven interceptions and allowed a 68.4% completion rate. Its stated position is a great deal of doubt about the defense alongside full expectation of offensive improvement, concluding that this team could produce some track meets. *(p. 333)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

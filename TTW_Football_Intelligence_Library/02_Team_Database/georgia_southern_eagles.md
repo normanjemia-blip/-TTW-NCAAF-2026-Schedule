@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 5.8–6.2 overall, 4.3–3.7 in conference |
 | **Schedule strength** | 33.93 (#94 toughest of 138) |
 
-### Season outlook as written in the guide (p. 322)
+### Season outlook — VSiN's analysis in reference form (p. 322)
 
-There’s something to be said for an athletic department going into a college football season knowing what to expect in 2026. That’s the case for Georgia Southern with head coach Clay Helton, who has gone to a bowl game in each of his four seasons with the program and just picked up his first bowl win to cap off a 7-6 season. While the ceiling hasn’t proven to be very high in Statesboro, the floor seems to be. Mix in a paycheck game or two, scoop that ESPN money, and keep the machine running. Would it be nice for the program to take the next step? Absolutely. After all, the 10-3 season in 2018 under Chad Lunsford feels like an eternity ago. Plus, the allure of a G6 CFP berth is a big motivating factor. But, not having to pay a coach’s buyout or constantly shell out money to hire new people and entice new recruits has plenty of perks as well. This season, there are some changes, including a new defensive coordinator. Over 4.5 This is tough because the Over 4.5 is juicy, but six wins is a challenge with the schedule. A visit to Clemson and a visit from Houston mean two P4 opponents, plus Troy in cross-division play. This is also an example of how the East Division being much stronger than the West makes it tough for playing some of these futures and props. That being said, this team has a really high ceiling and it might be higher than any of us expect if Mutz can fix the defense. This is one of my biggest overlays with a projection of 5.49 wins, so the alt Over 5.5 is in play.
+- The guide's framing is the value of predictability: an athletic department that knows what to expect. Clay Helton has reached a bowl in each of his four seasons and just claimed his first bowl win to cap a 7-6 season. *(p. 322)*
+- Its assessment of the programme is a low ceiling but a dependable floor in Statesboro, with a business model to match — mix in a paycheck game or two, take the ESPN money, and keep the machine running. *(p. 322)*
+- It acknowledges the pull in the other direction: taking the next step would be welcome, the 10-3 season in 2018 under Chad Lunsford feels like an eternity ago, and the allure of a Group of Six CFP berth is a big motivating factor. *(p. 322)*
+- Against that it sets the financial argument for stability — avoiding a coach's buyout and the recurring cost of hiring new staff and enticing new recruits has plenty of perks. *(p. 322)*
+- It flags that this season does bring some changes, including a new defensive coordinator. *(p. 322)*
+- Recommendation is Over 4.5 wins, described as tough: the price is juicy, but six wins is a challenge given the schedule. *(p. 322)*
+- Schedule reasoning: a visit to Clemson and a home date with Houston mean two Power Four opponents, plus Troy in cross-division play. *(p. 322)*
+- It generalises this into a market caution — the East Division being much stronger than the West makes some Sun Belt futures and props hard to play. *(p. 322)*
+- Its conclusion is bullish anyway: a really high ceiling, possibly higher than anyone expects if Mutz can fix the defense. This is called one of the guide's biggest overlays, with a projection of 5.49 wins, putting the alt Over 5.5 in play. *(p. 322)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,9 +88,10 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- That’s the case for Georgia Southern with head coach Clay Helton, who has gone to a bowl game in each of his four seasons with the program and just picked up his first bowl win to cap off a 7-6 season. *(p. 322)*
-- But, not having to pay a coach’s buyout or constantly shell out money to hire new people and entice new recruits has plenty of perks as well. *(p. 322)*
-- This season, there are some changes, including a new defensive coordinator. *(p. 322)*
+- The guide's framing is the value of predictability: an athletic department that knows what to expect. Clay Helton has reached a bowl in each of his four seasons and just claimed his first bowl win to cap a 7-6 season. *(p. 322)*
+- Against that it sets the financial argument for stability — avoiding a coach's buyout and the recurring cost of hiring new staff and enticing new recruits has plenty of perks. *(p. 322)*
+- It flags that this season does bring some changes, including a new defensive coordinator. *(p. 322)*
+- **How good can the defense be?** The guide frames this as the swing factor: with a very experienced quarterback and a deep skill group there is a lot of offensive upside, so a defensive step forward would mean Helton is really cooking. Its case for Mike Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. If he carries over the tackles for loss and sacks, it projects the Eagles' first defense allowing fewer than six yards per play since 2020. The specific failure it expects to be corrected is pass rush — only 12 sacks in 13 games last season. *(p. 323)*
 
 ## 9. Quarterback Situation
 
@@ -88,14 +99,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 322)*.
 
-- All-time leading passer JC French transferred to Cincinnati after posting a 20/8 TD/INT ratio with 2,929 yards and six more touchdowns on the ground. *(p. 323)*
-- Kyle Vantrease played one season there in 2022 and is the third-leading passer with 4,253 yards. *(p. 323)*
-- Helton moved the Eagles from an option to a spread and so he’s gotten some productive QB play in a relative sense. *(p. 323)*
-- There is a lot of upside to the offense with a very experienced QB in Johnson and a deep skill group. *(p. 323)*
+- **Will Johnson “Max” out his final college football season?** The departure is all-time leading passer JC French to Cincinnati, after a 20/8 touchdown-to-interception ratio, 2,929 yards and six more scores on the ground. The guide puts that record in context: French leads the programme with just 5,882 yards, and Kyle Vantrease — one season in 2022 — is third with 4,253, a consequence of Helton moving the Eagles from an option offense to a spread, which has produced productive quarterback play in relative terms. Max Johnson is presented as capable of a Vantrease-like season or better, having played at LSU, Texas A&M and North Carolina across seven seasons. It notes the obvious joke about his longevity, then makes the serious point that schools keep paying him to come, and that he has a chance at a massive season in his final year of eligibility. *(p. 323)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Replacing Sorsby will be Georgia Southern transfer JC French, who is an accurate passer that likes to deal opponents death by a million paper cuts. *(p. 125)*
+Also referenced on **pp. 125** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -111,36 +117,27 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- All-time leading passer JC French transferred to Cincinnati after posting a 20/8 TD/INT ratio with 2,929 yards and six more touchdowns on the ground. *(p. 323)*
+- **Will Johnson “Max” out his final college football season?** The departure is all-time leading passer JC French to Cincinnati, after a 20/8 touchdown-to-interception ratio, 2,929 yards and six more scores on the ground. The guide puts that record in context: French leads the programme with just 5,882 yards, and Kyle Vantrease — one season in 2022 — is third with 4,253, a consequence of Helton moving the Eagles from an option offense to a spread, which has produced productive quarterback play in relative terms. Max Johnson is presented as capable of a Vantrease-like season or better, having played at LSU, Texas A&M and North Carolina across seven seasons. It notes the obvious joke about his longevity, then makes the serious point that schools keep paying him to come, and that he has a chance at a massive season in his final year of eligibility. *(p. 323)*
+- **Who emerges as the go-to receiver?** The guide is confident someone will, arguing the scheme itself will produce numbers, while acknowledging the top five pass-catchers are gone. It quantifies the loss: Marcus Sanders and Dalen Cobb combined for 107 catches and eight touchdowns, while 1,000-yard receiver Camden Brown had 65 catches with 14 going for scores — a ratio it praises — and is now with the Cowboys, making him an NFL-calibre player who must be replaced. Candidates named are 6-foot-5 Ashton Hollis from Illinois and Andre Greene, a highly touted recruit who did little at Virginia, plus Josh Dallas and River Helms, both back after being lost early last season. Its conclusion is that the WR1 may be unknown but many players can put up statistics in this offense, especially with Johnson throwing. *(p. 323)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Replacing Sorsby will be Georgia Southern transfer JC French, who is an accurate passer that likes to deal opponents death by a million paper cuts. *(p. 125)*
+Referenced in the guide on **pp. 125** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- But, not having to pay a coach’s buyout or constantly shell out money to hire new people and entice new recruits has plenty of perks as well. *(p. 322)*
-- Perhaps it will be 6-foot- 5 Ashton Hollis from Illinois or Andre Greene, a highly-touted recruit who didn’t do much at Virginia. *(p. 323)*
+
+Referenced in the guide on **pp. 322, 323** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- This scheme will lead to somebody putting up numbers, but the top five pass-catchers from last season are all gone, including 1,000-yard receiver Camden Brown. *(p. 323)*
-- The WR1 may be unknown, but there are a lot of dudes who can put up stats in this offense, especially with Johnson. *(p. 323)*
-- There is a lot of upside to the offense with a very experienced QB in Johnson and a deep skill group. *(p. 323)*
-- If he can carry over the tackles for loss and sacks, the Eagles will have their first defense with fewer than six yards per play allowed since 2020. *(p. 323)*
+- **Who emerges as the go-to receiver?** The guide is confident someone will, arguing the scheme itself will produce numbers, while acknowledging the top five pass-catchers are gone. It quantifies the loss: Marcus Sanders and Dalen Cobb combined for 107 catches and eight touchdowns, while 1,000-yard receiver Camden Brown had 65 catches with 14 going for scores — a ratio it praises — and is now with the Cowboys, making him an NFL-calibre player who must be replaced. Candidates named are 6-foot-5 Ashton Hollis from Illinois and Andre Greene, a highly touted recruit who did little at Virginia, plus Josh Dallas and River Helms, both back after being lost early last season. Its conclusion is that the WR1 may be unknown but many players can put up statistics in this offense, especially with Johnson throwing. *(p. 323)*
 
 ## 14. Defensive Identity
 
-- This season, there are some changes, including a new defensive coordinator. *(p. 322)*
-- That being said, this team has a really high ceiling and it might be higher than any of us expect if Mutz can fix the defense. *(p. 322)*
-- If the defense can take a step forward, then Helton may really be cooking with propane here. *(p. 323)*
-- Mike Mutz had a defense that generated a ton of negative plays and takeaways last season at Stephen F. *(p. 323)*
-- If he can carry over the tackles for loss and sacks, the Eagles will have their first defense with fewer than six yards per play allowed since 2020. *(p. 323)*
-- This defense managed only 12 sacks last season in 13 games. *(p. 323)*
+- It flags that this season does bring some changes, including a new defensive coordinator. *(p. 322)*
+- Its conclusion is bullish anyway: a really high ceiling, possibly higher than anyone expects if Mutz can fix the defense. This is called one of the guide's biggest overlays, with a projection of 5.49 wins, putting the alt Over 5.5 in play. *(p. 322)*
+- **How good can the defense be?** The guide frames this as the swing factor: with a very experienced quarterback and a deep skill group there is a lot of offensive upside, so a defensive step forward would mean Helton is really cooking. Its case for Mike Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. If he carries over the tackles for loss and sacks, it projects the Eagles' first defense allowing fewer than six yards per play since 2020. The specific failure it expects to be corrected is pass rush — only 12 sacks in 13 games last season. *(p. 323)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- A +12 TO margin really did a lot of heavy lifting, as the team finished -2 in sack differential and went 6-0 in games decided by six or fewer points, including the New Orleans Bowl win over Georgia Southern. *(p. 205)*
+Referenced in the guide on **pp. 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -222,24 +219,21 @@ Prices printed on the team page *(p. 323)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Over 4.5 wins, described as tough: the price is juicy, but six wins is a challenge given the schedule. *(p. 322)*
+- Schedule reasoning: a visit to Clemson and a home date with Houston mean two Power Four opponents, plus Troy in cross-division play. *(p. 322)*
+- It generalises this into a market caution — the East Division being much stronger than the West makes some Sun Belt futures and props hard to play. *(p. 322)*
+- Its conclusion is bullish anyway: a really high ceiling, possibly higher than anyone expects if Mutz can fix the defense. This is called one of the guide's biggest overlays, with a projection of 5.49 wins, putting the alt Over 5.5 in play. *(p. 322)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Given that it was a rebuilding year, Tony Gibson actually did a pretty good job to get the team to where he did, even if the season ended in disappointing fashion, losing to Georgia Southern as a 10-point favorite in Huntington with a bowl game on the line. *(p. 328)*
+Also referenced on **pp. 328** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- There’s something to be said for an athletic department going into a college football season knowing what to expect in 2026. *(p. 322)*
-- After all, the 10-3 season in 2018 under Chad Lunsford feels like an eternity ago. *(p. 322)*
-- Kyle Vantrease played one season there in 2022 and is the third-leading passer with 4,253 yards. *(p. 323)*
-- This scheme will lead to somebody putting up numbers, but the top five pass-catchers from last season are all gone, including 1,000-yard receiver Camden Brown. *(p. 323)*
-- Mike Mutz had a defense that generated a ton of negative plays and takeaways last season at Stephen F. *(p. 323)*
-- If he can carry over the tackles for loss and sacks, the Eagles will have their first defense with fewer than six yards per play allowed since 2020. *(p. 323)*
-- This defense managed only 12 sacks last season in 13 games. *(p. 323)*
+- The guide's framing is the value of predictability: an athletic department that knows what to expect. Clay Helton has reached a bowl in each of his four seasons and just claimed his first bowl win to cap a 7-6 season. *(p. 322)*
+- Its assessment of the programme is a low ceiling but a dependable floor in Statesboro, with a business model to match — mix in a paycheck game or two, take the ESPN money, and keep the machine running. *(p. 322)*
+- It acknowledges the pull in the other direction: taking the next step would be welcome, the 10-3 season in 2018 under Chad Lunsford feels like an eternity ago, and the allure of a Group of Six CFP berth is a big motivating factor. *(p. 322)*
+- **Will Johnson “Max” out his final college football season?** The departure is all-time leading passer JC French to Cincinnati, after a 20/8 touchdown-to-interception ratio, 2,929 yards and six more scores on the ground. The guide puts that record in context: French leads the programme with just 5,882 yards, and Kyle Vantrease — one season in 2022 — is third with 4,253, a consequence of Helton moving the Eagles from an option offense to a spread, which has produced productive quarterback play in relative terms. Max Johnson is presented as capable of a Vantrease-like season or better, having played at LSU, Texas A&M and North Carolina across seven seasons. It notes the obvious joke about his longevity, then makes the serious point that schools keep paying him to come, and that he has a chance at a massive season in his final year of eligibility. *(p. 323)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Last year’s team got invited to the Birmingham Bowl against division rival Georgia Southern and got waxed in a game that they didn’t expect to play and didn’t really want to play. *(p. 318)*
+Referenced in the guide on **pp. 318** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -286,36 +280,35 @@ As printed on p. 323. Each category carries a value and a national rank.
 
 - Makinen projects **5.8 wins** against a posted total of 4.5 — **+1.3** in this team's favour.
 - The team page recommends **OVER 4.5**.
-- There is a lot of upside to the offense with a very experienced QB in Johnson and a deep skill group. *(p. 323)*
-- Given that it was a rebuilding year, Tony Gibson actually did a pretty good job to get the team to where he did, even if the season ended in disappointing fashion, losing to Georgia Southern as a 10-point favorite in Huntington with a bowl game on the line. *(p. 328)*
+- The guide frames this as the swing factor: with a very experienced quarterback and a deep skill group there is a lot of offensive upside, so a defensive step forward would mean Helton is really cooking. Its case for Mike Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. If he carries over the tackles for loss and sacks, it projects the Eagles' first defense allowing fewer than six yards per play since 2020. The specific failure it expects to be corrected is pass rush — only 12 sacks in 13 games last season. *(p. 323)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Over 4.5 This is tough because the Over 4.5 is juicy, but six wins is a challenge with the schedule. *(p. 322)*
-- This is also an example of how the East Division being much stronger than the West makes it tough for playing some of these futures and props. *(p. 322)*
-- Both Josh Dallas and River Helms were lost for the season early and are back. *(p. 323)*
-- If he can carry over the tackles for loss and sacks, the Eagles will have their first defense with fewer than six yards per play allowed since 2020. *(p. 323)*
+- Recommendation is Over 4.5 wins, described as tough: the price is juicy, but six wins is a challenge given the schedule. *(p. 322)*
+- The guide is confident someone will, arguing the scheme itself will produce numbers, while acknowledging the top five pass-catchers are gone. It quantifies the loss: Marcus Sanders and Dalen Cobb combined for 107 catches and eight touchdowns, while 1,000-yard receiver Camden Brown had 65 catches with 14 going for scores — a ratio it praises — and is now with the Cowboys, making him an NFL-calibre player who must be replaced. Candidates named are 6-foot-5 Ashton Hollis from Illinois and Andre Greene, a highly touted recruit who did little at Virginia, plus Josh Dallas and River Helms, both back after being lost early last season. Its conclusion is that the WR1 may be unknown but many players can put up statistics in this offense, especially with Johnson throwing. *(p. 323)*
+- The guide frames this as the swing factor: with a very experienced quarterback and a deep skill group there is a lot of offensive upside, so a defensive step forward would mean Helton is really cooking. Its case for Mike Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. If he carries over the tackles for loss and sacks, it projects the Eagles' first defense allowing fewer than six yards per play since 2020. The specific failure it expects to be corrected is pass rush — only 12 sacks in 13 games last season. *(p. 323)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 323)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 323)*. Its analysis, in reference form:
 
 ### Will Johnson “Max” out his final college football season?
 
-All-time leading passer JC French transferred to Cincinnati after posting a 20/8 TD/INT ratio with 2,929 yards and six more touchdowns on the ground. It should be noted that French is the program’s all-time leader with just 5,882 yards. Kyle Vantrease played one season there in 2022 and is the third-leading passer with 4,253 yards. Helton moved the Eagles from an option to a spread and so he’s gotten some productive QB play in a relative sense. Max Johnson could have a Vantrease-esque season or better, as he’s played at LSU, Texas A&M, and North Carolina over seven seasons. Many people are probably saying “get a job, bro”, but schools keep paying him to come there and he has the chance to have a massive season in his final year of eligibility.
+The departure is all-time leading passer JC French to Cincinnati, after a 20/8 touchdown-to-interception ratio, 2,929 yards and six more scores on the ground. The guide puts that record in context: French leads the programme with just 5,882 yards, and Kyle Vantrease — one season in 2022 — is third with 4,253, a consequence of Helton moving the Eagles from an option offense to a spread, which has produced productive quarterback play in relative terms. Max Johnson is presented as capable of a Vantrease-like season or better, having played at LSU, Texas A&M and North Carolina across seven seasons. It notes the obvious joke about his longevity, then makes the serious point that schools keep paying him to come, and that he has a chance at a massive season in his final year of eligibility. *(p. 323)*
 
 ### Who emerges as the go-to receiver?
 
-There will be one. This scheme will lead to somebody putting up numbers, but the top five pass-catchers from last season are all gone, including 1,000-yard receiver Camden Brown. Marcus Sanders and Dalen Cobb combined for 107 catches and eight touchdowns. Brown had 65 and 14 of them went for six. Not a bad ratio. Brown is now with the Cowboys, so he’s technically an NFL- caliber player that needs to be replaced. Perhaps it will be 6-foot- 5 Ashton Hollis from Illinois or Andre Greene, a highly-touted recruit who didn’t do much at Virginia. Both Josh Dallas and River Helms were lost for the season early and are back. The WR1 may be unknown, but there are a lot of dudes who can put up stats in this offense, especially with Johnson.
+The guide is confident someone will, arguing the scheme itself will produce numbers, while acknowledging the top five pass-catchers are gone. It quantifies the loss: Marcus Sanders and Dalen Cobb combined for 107 catches and eight touchdowns, while 1,000-yard receiver Camden Brown had 65 catches with 14 going for scores — a ratio it praises — and is now with the Cowboys, making him an NFL-calibre player who must be replaced. Candidates named are 6-foot-5 Ashton Hollis from Illinois and Andre Greene, a highly touted recruit who did little at Virginia, plus Josh Dallas and River Helms, both back after being lost early last season. Its conclusion is that the WR1 may be unknown but many players can put up statistics in this offense, especially with Johnson throwing. *(p. 323)*
 
 ### How good can the defense be?
 
-There is a lot of upside to the offense with a very experienced QB in Johnson and a deep skill group. If the defense can take a step forward, then Helton may really be cooking with propane here. Mike Mutz had a defense that generated a ton of negative plays and takeaways last season at Stephen F. Austin. If he can carry over the tackles for loss and sacks, the Eagles will have their first defense with fewer than six yards per play allowed since 2020. This defense managed only 12 sacks last season in 13 games. That should change.
+The guide frames this as the swing factor: with a very experienced quarterback and a deep skill group there is a lot of offensive upside, so a defensive step forward would mean Helton is really cooking. Its case for Mike Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. If he carries over the tackles for loss and sacks, it projects the Eagles' first defense allowing fewer than six yards per play since 2020. The specific failure it expects to be corrected is pass rush — only 12 sacks in 13 games last season. *(p. 323)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

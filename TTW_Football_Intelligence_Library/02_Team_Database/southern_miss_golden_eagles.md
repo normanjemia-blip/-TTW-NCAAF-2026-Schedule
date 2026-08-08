@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 3.7–8.3 overall, 2.3–5.7 in conference |
 | **Schedule strength** | 33.23 (#98 toughest of 138) |
 
-### Season outlook as written in the guide (p. 342)
+### Season outlook — VSiN's analysis in reference form (p. 342)
 
-Southern Miss caught lightning in a bottle when they were able to enjoy one season with Charles Huff at the helm, as he brought a bunch of Marshall players with him and took the Golden Eagles to a bowl game on the heels of a disastrous 1-11 season. Unfortunately, Huff didn’t last long in Hattiesburg, as he is now coaching Memphis. Blake Anderson was on staff as the OC and simply got elevated to the head coach position, his second such post in the Sun Belt. Anderson was fired from Utah State for allegations that he improperly reported instances of sexual misconduct per university rules in a case that also got the deputy athletic director fired. On Anderson’s watch, the offense improved by 13.5 PPG and a full yard per play, so the administration at Southern Miss felt comfortable moving him up despite his recent misgivings, even though all but one of those offensive pieces are gone and the defense has essentially one returning player. Under 3.5 While my projection is on the plus side of this at 3.86, the -130 juice puts me pretty in line with the market. The truth is that I only have Southern Miss favored twice, with a very tepid favorite role at UL Monroe on Halloween as the only FBS game laying a number. Drawing James Madison and Old Dominion from the East is as brutal as it gets. This isn’t a bet, but this is very clearly a transitional season in Hattiesburg.
+- The guide describes last season as catching lightning in a bottle: one year with Charles Huff, who brought a group of Marshall players with him and took the Golden Eagles to a bowl after a disastrous 1-11 campaign. *(p. 342)*
+- Huff did not last long in Hattiesburg and now coaches Memphis. *(p. 342)*
+- Blake Anderson, on staff as offensive coordinator, was simply elevated — his second head-coaching post in the Sun Belt. *(p. 342)*
+- The guide states the circumstances of his previous exit: Anderson was fired from Utah State over allegations that he improperly reported instances of sexual misconduct under university rules, in a case that also cost the deputy athletic director their job. *(p. 342)*
+- The case for the promotion it records is production — on Anderson's watch the offense improved by 13.5 PPG and a full yard per play — which it says left the administration comfortable despite those recent misgivings. *(p. 342)*
+- The qualification it attaches immediately: all but one of those offensive pieces are gone and the defense has essentially one returning player. *(p. 342)*
+- Recommendation is Under 3.5 wins, though the guide is candid that its own projection of 3.86 sits on the other side and that the -130 juice puts it broadly in line with the market. *(p. 342)*
+- Its supporting evidence is how rarely Southern Miss is favoured: only twice, with a very tepid favourite role at UL Monroe on Halloween the only FBS game where it lays a number. *(p. 342)*
+- It calls drawing James Madison and Old Dominion from the East as brutal as it gets, and concludes that this is not a bet but very clearly a transitional season in Hattiesburg. *(p. 342)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,21 +90,14 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 37)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Unfortunately, Huff didn’t last long in Hattiesburg, as he is now coaching Memphis. *(p. 342)*
-- Blake Anderson was on staff as the OC and simply got elevated to the head coach position, his second such post in the Sun Belt. *(p. 342)*
-- The unknown in question here is DC Joe Bolden, who has never held that position before. *(p. 343)*
-- He’s held a variety of roles, serving as special teams coordinator here last season. *(p. 343)*
-- He played at Michigan, was a grad assistant there, actually coached at Ohio State, and also had stops at Nevada and Tulsa. *(p. 343)*
-- A ton of JUCOs and FCS transfers with a first-time DC has serious “recipe for disaster” potential. *(p. 343)*
+- The guide describes last season as catching lightning in a bottle: one year with Charles Huff, who brought a group of Marshall players with him and took the Golden Eagles to a bowl after a disastrous 1-11 campaign. *(p. 342)*
+- Huff did not last long in Hattiesburg and now coaches Memphis. *(p. 342)*
+- Blake Anderson, on staff as offensive coordinator, was simply elevated — his second head-coaching post in the Sun Belt. *(p. 342)*
+- The guide states the circumstances of his previous exit: Anderson was fired from Utah State over allegations that he improperly reported instances of sexual misconduct under university rules, in a case that also cost the deputy athletic director their job. *(p. 342)*
+- The case for the promotion it records is production — on Anderson's watch the offense improved by 13.5 PPG and a full yard per play — which it says left the administration comfortable despite those recent misgivings. *(p. 342)*
+- **But, should we fear this unknown?** The second unknown is coordinator Joe Bolden, who has never held the position before. The guide lists a varied path — special teams coordinator at Southern Miss last season, a playing career at Michigan followed by a graduate assistantship there, a spell coaching at Ohio State, plus stops at Nevada and Tulsa — and notes he has not stayed long anywhere, admitting it is unsure what to make of that. Its verdict is blunt: a great many JUCO and FCS transfers combined with a first-time coordinator has serious recipe-for-disaster potential. *(p. 343)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- After a 32-20 run in Huntington, he went to Southern Miss because Marshall let the reigning Sun Belt Conference champion head coach walk away. *(p. 29)*
-- Instead, Tulane promoted pass game coordinator Will Hall, who had a miserable tenure at Southern Miss, going 14-30 over three seasons and seven games. *(p. 29)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- Golding has also worked under now-Browns head coach Todd Monken at Southern Miss, new Arkansas DC Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin. *(p. 36)*
+Also referenced on **pp. 6, 25, 29, 36, 37, 58, 71, 91** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -102,13 +105,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 342)*.
 
-- There’s basically no returning production on the roster and that’s true at the QB position. *(p. 343)*
-- Given that Braylon Braxton had a 24/8 TD/INT ratio with over 3,000 passing yards, maybe Lyddy was just stuck behind him. *(p. 343)*
-- The Golden Eagles threw for 266 yards last season, the most for them since 2019. *(p. 343)*
+- **Is there a true QB1 on the roster?** The guide explains the roster loss structurally: many players went to Memphis with Huff or simply wanted to play their final season for him, leaving basically no returning production anywhere, quarterback included. Landry Lyddy did stay after throwing for 406 yards with a 2/3 touchdown-to-interception ratio and 12 yards on six carries, and it allows the possibility he was merely stuck behind Braylon Braxton, who posted a 24/8 ratio with over 3,000 passing yards. Anderson's addition is Ethan Hampton from Illinois, who started a few games at Northern Illinois but barely played for the Illini; John White played in 2024 but not last season. Its expectation is deflationary — the Golden Eagles threw for 266 yards per game last season, their most since 2019, and it says not to expect anything like that again. *(p. 343)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Blake Anderson Southern Miss Anderson’s second stint at Southern Miss was to serve as the OC and QB coach, but Charles Huff left for Memphis and the Golden Eagles opted to keep it in-house with Anderson. *(p. 37)*
+Also referenced on **pp. 37** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -124,8 +123,11 @@ The Stability Score table prints the same figure independently: **1 returning st
 
 ## 11. Transfer Portal
 
-- This is a hodgepodge of transfers and guys who stuck around knowing that starting jobs were going to be available. *(p. 343)*
-- A ton of JUCOs and FCS transfers with a first-time DC has serious “recipe for disaster” potential. *(p. 343)*
+- The guide describes last season as catching lightning in a bottle: one year with Charles Huff, who brought a group of Marshall players with him and took the Golden Eagles to a bowl after a disastrous 1-11 campaign. *(p. 342)*
+- The qualification it attaches immediately: all but one of those offensive pieces are gone and the defense has essentially one returning player. *(p. 342)*
+- **Is there a true QB1 on the roster?** The guide explains the roster loss structurally: many players went to Memphis with Huff or simply wanted to play their final season for him, leaving basically no returning production anywhere, quarterback included. Landry Lyddy did stay after throwing for 406 yards with a 2/3 touchdown-to-interception ratio and 12 yards on six carries, and it allows the possibility he was merely stuck behind Braylon Braxton, who posted a 24/8 ratio with over 3,000 passing yards. Anderson's addition is Ethan Hampton from Illinois, who started a few games at Northern Illinois but barely played for the Illini; John White played in 2024 but not last season. Its expectation is deflationary — the Golden Eagles threw for 266 yards per game last season, their most since 2019, and it says not to expect anything like that again. *(p. 343)*
+- **Should we fear the unknown?** The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
+- **But, should we fear this unknown?** The second unknown is coordinator Joe Bolden, who has never held the position before. The guide lists a varied path — special teams coordinator at Southern Miss last season, a playing career at Michigan followed by a graduate assistantship there, a spell coaching at Ohio State, plus stops at Nevada and Tulsa — and notes he has not stayed long anywhere, admitting it is unsure what to make of that. Its verdict is blunt: a great many JUCO and FCS transfers combined with a first-time coordinator has serious recipe-for-disaster potential. *(p. 343)*
 
 ## 12. Recruiting / Roster Notes
 
@@ -133,15 +135,14 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- On Anderson’s watch, the offense improved by 13.5 PPG and a full yard per play, so the administration at Southern Miss felt comfortable moving him up despite his recent misgivings, even though all but one of those offensive pieces are gone and the defense has essentially one returning player. *(p. 342)*
+- The case for the promotion it records is production — on Anderson's watch the offense improved by 13.5 PPG and a full yard per play — which it says left the administration comfortable despite those recent misgivings. *(p. 342)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
+Referenced in the guide on **pp. 71** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- On Anderson’s watch, the offense improved by 13.5 PPG and a full yard per play, so the administration at Southern Miss felt comfortable moving him up despite his recent misgivings, even though all but one of those offensive pieces are gone and the defense has essentially one returning player. *(p. 342)*
+- The qualification it attaches immediately: all but one of those offensive pieces are gone and the defense has essentially one returning player. *(p. 342)*
+- **But, should we fear this unknown?** The second unknown is coordinator Joe Bolden, who has never held the position before. The guide lists a varied path — special teams coordinator at Southern Miss last season, a playing career at Michigan followed by a graduate assistantship there, a spell coaching at Ohio State, plus stops at Nevada and Tulsa — and notes he has not stayed long anywhere, admitting it is unsure what to make of that. Its verdict is blunt: a great many JUCO and FCS transfers combined with a first-time coordinator has serious recipe-for-disaster potential. *(p. 343)*
 
 ## 15. Key Strengths
 
@@ -186,7 +187,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Drawing James Madison and Old Dominion from the East is as brutal as it gets. *(p. 342)*
+
+Referenced in the guide on **pp. 342** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -215,27 +217,17 @@ Prices printed on the team page *(p. 343)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Under 3.5 While my projection is on the plus side of this at 3.86, the -130 juice puts me pretty in line with the market. *(p. 342)*
-- The truth is that I only have Southern Miss favored twice, with a very tepid favorite role at UL Monroe on Halloween as the only FBS game laying a number. *(p. 342)*
-- This isn’t a bet, but this is very clearly a transitional season in Hattiesburg. *(p. 342)*
-- Also, the Golden Eagles lost twice in favorite roles over the final three games and also lost as a pick ‘em and +1. *(p. 343)*
+- Recommendation is Under 3.5 wins, though the guide is candid that its own projection of 3.86 sits on the other side and that the -130 juice puts it broadly in line with the market. *(p. 342)*
+- Its supporting evidence is how rarely Southern Miss is favoured: only twice, with a very tepid favourite role at UL Monroe on Halloween the only FBS game where it lays a number. *(p. 342)*
+- It calls drawing James Madison and Old Dominion from the East as brutal as it gets, and concludes that this is not a bet but very clearly a transitional season in Hattiesburg. *(p. 342)*
+- **Should we fear the unknown?** The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
 
 ## 22. Historical / Situational Trends
 
-- John White played in 2024, but not last year. *(p. 343)*
-- The Golden Eagles threw for 266 yards last season, the most for them since 2019. *(p. 343)*
-- The Golden Eagles had 20 players with at least 20 tackles last season. *(p. 343)*
-- I’m saying last year’s team wasn’t that great. *(p. 343)*
-- He’s held a variety of roles, serving as special teams coordinator here last season. *(p. 343)*
+- The guide describes last season as catching lightning in a bottle: one year with Charles Huff, who brought a group of Marshall players with him and took the Golden Eagles to a bowl after a disastrous 1-11 campaign. *(p. 342)*
+- **Should we fear the unknown?** The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- Jaylin Carter only had 166 yards last season at Southern Miss and Manny Covey had under 300 yards in three seasons at Cincinnati. *(p. 59)*
-- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
-- But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
+Referenced in the guide on **pp. 6, 25, 29, 59, 70, 71** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -281,47 +273,39 @@ As printed on p. 343. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **3.7 wins** against a posted total of 3.5 — **+0.2** in this team's favour.
-- On Anderson’s watch, the offense improved by 13.5 PPG and a full yard per play, so the administration at Southern Miss felt comfortable moving him up despite his recent misgivings, even though all but one of those offensive pieces are gone and the defense has essentially one returning player. *(p. 342)*
-- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
-- But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
+- The case for the promotion it records is production — on Anderson's watch the offense improved by 13.5 PPG and a full yard per play — which it says left the administration comfortable despite those recent misgivings. *(p. 342)*
+- The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 3.5**.
-- Southern Miss caught lightning in a bottle when they were able to enjoy one season with Charles Huff at the helm, as he brought a bunch of Marshall players with him and took the Golden Eagles to a bowl game on the heels of a disastrous 1-11 season. *(p. 342)*
-- On Anderson’s watch, the offense improved by 13.5 PPG and a full yard per play, so the administration at Southern Miss felt comfortable moving him up despite his recent misgivings, even though all but one of those offensive pieces are gone and the defense has essentially one returning player. *(p. 342)*
-- The truth is that I only have Southern Miss favored twice, with a very tepid favorite role at UL Monroe on Halloween as the only FBS game laying a number. *(p. 342)*
-- Drawing James Madison and Old Dominion from the East is as brutal as it gets. *(p. 342)*
-- Anderson enters a tough spot here because a lot of players went to Memphis with Huff or were guys that simply wanted to play their final season of college football with Huff. *(p. 343)*
-- Also, the Golden Eagles lost twice in favorite roles over the final three games and also lost as a pick ‘em and +1. *(p. 343)*
-- The unknown in question here is DC Joe Bolden, who has never held that position before. *(p. 343)*
-- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
-- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
-- After a 32-20 run in Huntington, he went to Southern Miss because Marshall let the reigning Sun Belt Conference champion head coach walk away. *(p. 29)*
+- Its supporting evidence is how rarely Southern Miss is favoured: only twice, with a very tepid favourite role at UL Monroe on Halloween the only FBS game where it lays a number. *(p. 342)*
+- It calls drawing James Madison and Old Dominion from the East as brutal as it gets, and concludes that this is not a bet but very clearly a transitional season in Hattiesburg. *(p. 342)*
+- The guide explains the roster loss structurally: many players went to Memphis with Huff or simply wanted to play their final season for him, leaving basically no returning production anywhere, quarterback included. Landry Lyddy did stay after throwing for 406 yards with a 2/3 touchdown-to-interception ratio and 12 yards on six carries, and it allows the possibility he was merely stuck behind Braylon Braxton, who posted a 24/8 ratio with over 3,000 passing yards. Anderson's addition is Ethan Hampton from Illinois, who started a few games at Northern Illinois but barely played for the Illini; John White played in 2024 but not last season. Its expectation is deflationary — the Golden Eagles threw for 266 yards per game last season, their most since 2019, and it says not to expect anything like that again. *(p. 343)*
+- The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
+- The second unknown is coordinator Joe Bolden, who has never held the position before. The guide lists a varied path — special teams coordinator at Southern Miss last season, a playing career at Michigan followed by a graduate assistantship there, a spell coaching at Ohio State, plus stops at Nevada and Tulsa — and notes he has not stayed long anywhere, admitting it is unsure what to make of that. Its verdict is blunt: a great many JUCO and FCS transfers combined with a first-time coordinator has serious recipe-for-disaster potential. *(p. 343)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 343)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 343)*. Its analysis, in reference form:
 
 ### Is there a true QB1 on the roster?
 
-Anderson enters a tough spot here because a lot of players went to Memphis with Huff or were guys that simply wanted to play their final season of college football with Huff. There’s basically no returning production on the roster and that’s true at the QB position. Landry Lyddy did stick around after throwing for 406 yards with a 2/3 TD/INT ratio and 12 yards on six carries. Given that Braylon Braxton had a 24/8 TD/INT ratio with over 3,000 passing yards, maybe Lyddy was just stuck behind him. Either way, Anderson brought in Ethan Hampton from Illinois. He started a few games at Northern Illinois, but barely saw the field with the Illini. John White played in 2024, but not last year. The Golden Eagles threw for 266 yards last season, the most for them since 2019. Don’t expect anything like that again.
+The guide explains the roster loss structurally: many players went to Memphis with Huff or simply wanted to play their final season for him, leaving basically no returning production anywhere, quarterback included. Landry Lyddy did stay after throwing for 406 yards with a 2/3 touchdown-to-interception ratio and 12 yards on six carries, and it allows the possibility he was merely stuck behind Braylon Braxton, who posted a 24/8 ratio with over 3,000 passing yards. Anderson's addition is Ethan Hampton from Illinois, who started a few games at Northern Illinois but barely played for the Illini; John White played in 2024 but not last season. Its expectation is deflationary — the Golden Eagles threw for 266 yards per game last season, their most since 2019, and it says not to expect anything like that again. *(p. 343)*
 
 ### Should we fear the unknown?
 
-The Golden Eagles had 20 players with at least 20 tackles last season. Nineteen of them are playing somewhere else or not at all. This is a hodgepodge of transfers and guys who stuck around knowing that starting jobs were going to be available. Similarly, there were nine players with at least 15 receptions and every single one of them is outside of the program. A 7-6 season after going 1-11 was a massive achievement, but this was a team that was just +18 in point differential, +0.3 in YPP, got outgained on a per-carry basis, and really benefitted from a +14 turnover margin. To only be +18 in points with that kind of TO margin is hard to believe. Also, the Golden Eagles lost twice in favorite roles over the final three games and also lost as a pick ‘em and +1. I’m not saying this team will be better. I’m saying last year’s team wasn’t that great.
+The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
 
 ### But, should we fear this unknown?
 
-The unknown in question here is DC Joe Bolden, who has never held that position before. He’s held a variety of roles, serving as special teams coordinator here last season. He played at Michigan, was a grad assistant there, actually coached at Ohio State, and also had stops at Nevada and Tulsa. He hasn’t stayed long at any stop. I’m not sure what to make of that, except feel sorry for his wife and four kids. A ton of JUCOs and FCS transfers with a first-time DC has serious “recipe for disaster” potential.
+The second unknown is coordinator Joe Bolden, who has never held the position before. The guide lists a varied path — special teams coordinator at Southern Miss last season, a playing career at Michigan followed by a graduate assistantship there, a spell coaching at Ohio State, plus stops at Nevada and Tulsa — and notes he has not stayed long anywhere, admitting it is unsure what to make of that. Its verdict is blunt: a great many JUCO and FCS transfers combined with a first-time coordinator has serious recipe-for-disaster potential. *(p. 343)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

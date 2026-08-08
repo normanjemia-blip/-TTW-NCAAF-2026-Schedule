@@ -24,9 +24,19 @@
 | **Makinen projected wins** | 9.1–2.9 overall, 6.2–1.8 in conference |
 | **Schedule strength** | 28.99 (#129 toughest of 138) |
 
-### Season outlook as written in the guide (p. 326)
+### Season outlook — VSiN's analysis in reference form (p. 326)
 
-No team in the Sun Belt has been able to leverage the transfer portal better than James Madison. They do have resources, but Curt Cignetti and Bob Chesney have done a masterful job of finding talent, especially at the QB position. Jordan McCloud and Alonza Barnett upheld the standards of the program, even with the transition from FCS to FBS. The biggest question for Billy Napier heading into this season is who will play that position and can they find similar success to their predecessors? With NIL funds allocated elsewhere, the Dukes didn’t go the transfer portal route at QB, really, with the exception of UCF transfer Davi Belfort, who barely played. 247Sports gave James Madison’s portal haul the best grade in the conference by a pretty wide margin, which is good because pretty much all of last season’s production is gone, but a lot of players are from lower-division schools, FCS, or never saw the field at their P4 programs. The season after Cignetti left for Indiana, the Dukes went 9-4, but 4-4 in conference play. Is a similar transitional year in store? Under 8.5 The first regular season under Chesney led to an 8-4 record and I could see something similar here, as the quarterback position is a major question mark. While the Dukes have a Week 2 tilt with Wagner that is a quasi-bye, they have to play 11 straight weeks without a bye, as they won’t be off until the weekend of November 21 before facing Coastal Carolina. The schedule includes a long trip west to San Diego State, a random non-conference roadie at UConn, and road games at Old Dominion and App State. My projection is 8.91 wins, but the road slate really is tricky.
+- The guide's headline claim is that no Sun Belt team has leveraged the transfer portal better than James Madison. It credits resources plus masterful talent identification by Curt Cignetti and Bob Chesney, especially at quarterback. *(p. 326)*
+- Jordan McCloud and Alonza Barnett are named as having upheld the programme's standards even through the FCS-to-FBS transition. *(p. 326)*
+- The biggest question it puts to Billy Napier is who plays quarterback and whether that player can match the predecessors' success. *(p. 326)*
+- It explains the roster mechanism: with NIL funds allocated elsewhere, the Dukes essentially did not take the portal route at quarterback, the exception being UCF transfer Davi Belfort, who barely played. *(p. 326)*
+- 247Sports graded James Madison's portal haul best in the conference by a wide margin — which the guide calls fortunate, since nearly all of last season's production is gone — while cautioning that many of the additions come from lower divisions, FCS, or Power Four programmes where they never saw the field. *(p. 326)*
+- It offers a precedent for the year ahead: the season after Cignetti left for Indiana, the Dukes went 9-4 but only 4-4 in conference play, and asks whether a similar transitional year is in store. *(p. 326)*
+- Recommendation is Under 8.5 wins. The precedent it leans on is Chesney's first regular season producing 8-4, which it could see repeated, with the quarterback position a major question mark. *(p. 326)*
+- A rest-and-scheduling angle is spelled out: the Week 2 game with Wagner is a quasi-bye, but the Dukes play 11 straight weeks without a break, not off until the weekend of November 21 before facing Coastal Carolina. *(p. 326)*
+- Travel is the other concern — a long trip west to San Diego State, a randomly placed non-conference road game at UConn, and road dates at Old Dominion and App State. The projection is 8.91 wins, with the road slate called genuinely tricky. *(p. 326)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -81,22 +91,14 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 37)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Also, Michigan State wasn’t great last season, but their QBs posted a 20/6 TD/INT ratio and pass game coordinator Aaron Pflugrad is the new QB coach for the Dukes. *(p. 327)*
-- Aiken is the new OC here and a rising star in the coaching world. *(p. 327)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
-- He also coached running backs at South Florida and that group had nearly 200 yards per contest in 2022. *(p. 327)*
-- This appears to be an outstanding hire by Napier and one who should keep the throttle down here with an offense that averaged 6.4 YPP and 37.1 PPG last season. *(p. 327)*
-- This really does look like a promising coaching staff, which is hugely important with so many transfers. *(p. 327)*
-- The transition from Cignetti to Chesney and the accompanying new coaches and coordinators didn’t foster any downturn. *(p. 327)*
-- New DC Robert Bala has worked under Napier, Jedd Fisch (and DC Stephen Belichick), and Nick Saban over the last three years, so that’s a reason for optimism. *(p. 327)*
+- The guide's headline claim is that no Sun Belt team has leveraged the transfer portal better than James Madison. It credits resources plus masterful talent identification by Curt Cignetti and Bob Chesney, especially at quarterback. *(p. 326)*
+- The biggest question it puts to Billy Napier is who plays quarterback and whether that player can match the predecessors' success. *(p. 326)*
+- It offers a precedent for the year ahead: the season after Cignetti left for Indiana, the Dukes went 9-4 but only 4-4 in conference play, and asks whether a similar transitional year is in store. *(p. 326)*
+- **Is JC Evans the next star at JMU?** The guide frames the decision as deliberate: a programme rich in resources relative to the conference chose not to buy an impact transfer, instead placing faith in Evans, a 6-foot-5 sophomore from the Miami area. He was not a highly sought recruit, but spent two years learning behind Barnett. The support structure is the argument for him — returning running back George Pettaway plus transfer Nick Herman, who averaged over seven yards per carry at Drake, meaning a run-heavy approach could keep early pressure off him, with an offensive line suited to running the ball. It adds a coaching data point: Michigan State was not great last season, but its quarterbacks posted a 20/6 touchdown-to-interception ratio, and pass game coordinator Aaron Pflugrad is the Dukes' new quarterbacks coach. *(p. 327)*
+- **Should we remember the name Cam Aiken?** Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
+- **How big of a step back will the defense take?** The guide lays out four FBS seasons of consistency: 2.5, 2.6, 3.5 and 2.8 yards per carry allowed, with 4.7, 5.0, 4.9 and 4.4 yards per play. It notes the Cignetti-to-Chesney transition and its accompanying staff changes produced no downturn, but argues roster attrition has to bite eventually. It is explicit about the asymmetry in its own view — bullish on the offense, not sure it can be on the defense — while naming Amar Thomas and Gannon Weathersby as two returning starters of consequence. The counterweight it offers is new coordinator Robert Bala, who has worked under Napier, Jedd Fisch (with coordinator Stephen Belichick) and Nick Saban over the past three years, which it treats as a reason for optimism. *(p. 327)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Bob Chesney, who coached James Madison to the CFP, is rebuilding with several transfers and will energize the program. *(p. 20)*
-- Bob Chesney UCLA The hire of former James Madison head coach Curt Cignetti seemed to work out at Indiana, and now the Bruins’ athletic department is hoping for the same with Chesney, who was at Holy Cross prior to his two seasons with the Dukes. *(p. 32)*
-- It’s not hard to understand why when you realize that new head coach Neal Brown is taking over virtually a brand-new team, one with no starter back from the 2025 group that went 12-2 and scored 45.1 PPG. • Other big drops belong with James Madison (-12.5) and Tulane (-11.5), two other complete rebuilds for new coaches. *(p. 46)*
-- Bob Chesney has been a rising star in the coaching ranks for several years now after leading Holy Cross to the FCS Playoffs five times in seven years and then getting James Madison into the College Football Playoff just two seasons after Curt Cignetti left for Indiana. *(p. 178)*
-- However, it is the player who is staying that is the starting point, as quarterback Nico Iamaleava returns to work with a new staff that led James Madison to the No. 16 offense (452.6 yards per game) in the nation. *(p. 178)*
+Also referenced on **pp. 20, 32, 46, 178** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -104,15 +106,13 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 326)*.
 
-- They do have resources, but Curt Cignetti and Bob Chesney have done a masterful job of finding talent, especially at the QB position. *(p. 326)*
-- With NIL funds allocated elsewhere, the Dukes didn’t go the transfer portal route at QB, really, with the exception of UCF transfer Davi Belfort, who barely played. 247Sports gave James Madison’s portal haul the best grade in the conference by a pretty wide margin, which is good because pretty much all of last season’s production is gone, but a lot of players are from lower-division schools, FCS, or never saw the field at their P4 programs. *(p. 326)*
-- Under 8.5 The first regular season under Chesney led to an 8-4 record and I could see something similar here, as the quarterback position is a major question mark. *(p. 326)*
-- A program rich with resources relative to the rest of the conference opted not to pick up an impact transfer at QB, instead putting some faith in Evans, a 6-foot-5 sophomore from the Miami area. *(p. 327)*
-- Also, Michigan State wasn’t great last season, but their QBs posted a 20/6 TD/INT ratio and pass game coordinator Aaron Pflugrad is the new QB coach for the Dukes. *(p. 327)*
+- Jordan McCloud and Alonza Barnett are named as having upheld the programme's standards even through the FCS-to-FBS transition. *(p. 326)*
+- The biggest question it puts to Billy Napier is who plays quarterback and whether that player can match the predecessors' success. *(p. 326)*
+- It explains the roster mechanism: with NIL funds allocated elsewhere, the Dukes essentially did not take the portal route at quarterback, the exception being UCF transfer Davi Belfort, who barely played. *(p. 326)*
+- Recommendation is Under 8.5 wins. The precedent it leans on is Chesney's first regular season producing 8-4, which it could see repeated, with the quarterback position a major question mark. *(p. 326)*
+- **Is JC Evans the next star at JMU?** The guide frames the decision as deliberate: a programme rich in resources relative to the conference chose not to buy an impact transfer, instead placing faith in Evans, a 6-foot-5 sophomore from the Miami area. He was not a highly sought recruit, but spent two years learning behind Barnett. The support structure is the argument for him — returning running back George Pettaway plus transfer Nick Herman, who averaged over seven yards per carry at Drake, meaning a run-heavy approach could keep early pressure off him, with an offensive line suited to running the ball. It adds a coaching data point: Michigan State was not great last season, but its quarterbacks posted a 20/6 touchdown-to-interception ratio, and pass game coordinator Aaron Pflugrad is the Dukes' new quarterbacks coach. *(p. 327)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, it is the player who is staying that is the starting point, as quarterback Nico Iamaleava returns to work with a new staff that led James Madison to the No. 16 offense (452.6 yards per game) in the nation. *(p. 178)*
+Also referenced on **pp. 178** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -128,50 +128,31 @@ The Stability Score table prints the same figure independently: **5 returning st
 
 ## 11. Transfer Portal
 
-- No team in the Sun Belt has been able to leverage the transfer portal better than James Madison. *(p. 326)*
-- With NIL funds allocated elsewhere, the Dukes didn’t go the transfer portal route at QB, really, with the exception of UCF transfer Davi Belfort, who barely played. 247Sports gave James Madison’s portal haul the best grade in the conference by a pretty wide margin, which is good because pretty much all of last season’s production is gone, but a lot of players are from lower-division schools, FCS, or never saw the field at their P4 programs. *(p. 326)*
-- A program rich with resources relative to the rest of the conference opted not to pick up an impact transfer at QB, instead putting some faith in Evans, a 6-foot-5 sophomore from the Miami area. *(p. 327)*
-- He also has transfer Nick Herman, who ran for over seven yards per carry at Drake, so he may not have too much pressure on his shoulders at the outset with a run-heavy approach. *(p. 327)*
-- This really does look like a promising coaching staff, which is hugely important with so many transfers. *(p. 327)*
+- The guide's headline claim is that no Sun Belt team has leveraged the transfer portal better than James Madison. It credits resources plus masterful talent identification by Curt Cignetti and Bob Chesney, especially at quarterback. *(p. 326)*
+- It explains the roster mechanism: with NIL funds allocated elsewhere, the Dukes essentially did not take the portal route at quarterback, the exception being UCF transfer Davi Belfort, who barely played. *(p. 326)*
+- 247Sports graded James Madison's portal haul best in the conference by a wide margin — which the guide calls fortunate, since nearly all of last season's production is gone — while cautioning that many of the additions come from lower divisions, FCS, or Power Four programmes where they never saw the field. *(p. 326)*
+- **Should we remember the name Cam Aiken?** Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
+- **How big of a step back will the defense take?** The guide lays out four FBS seasons of consistency: 2.5, 2.6, 3.5 and 2.8 yards per carry allowed, with 4.7, 5.0, 4.9 and 4.4 yards per play. It notes the Cignetti-to-Chesney transition and its accompanying staff changes produced no downturn, but argues roster attrition has to bite eventually. It is explicit about the asymmetry in its own view — bullish on the offense, not sure it can be on the defense — while naming Amar Thomas and Gannon Weathersby as two returning starters of consequence. The counterweight it offers is new coordinator Robert Bala, who has worked under Napier, Jedd Fisch (with coordinator Stephen Belichick) and Nick Saban over the past three years, which it treats as a reason for optimism. *(p. 327)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Bob Chesney, who coached James Madison to the CFP, is rebuilding with several transfers and will energize the program. *(p. 20)*
-- For comparison, Cignetti brought in 29 transfers, including 12 from his team at James Madison (22 were from the Group of Five or lower) during his first season at Indiana in 2024. *(p. 173)*
-- He also brings in 10 of his 42 transfers from James Madison. *(p. 178)*
-- Chesney did go into the transfer portal and brought in key players like Sun Belt Freshman of the Year Sahir West (seven sacks) and Aiden Gobaira (four sacks) from James Madison. *(p. 179)*
+Referenced in the guide on **pp. 20, 173, 178, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- He wasn’t a highly sought-after recruit, but he got to learn behind Barnett for two years and has a good returning running back in George Pettaway. *(p. 327)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- There are 42 newcomers to the Bruins in 2026, 10 of them following Chesney from James Madison, including All-American Wayne Knight (RB/all-purpose returner) and Sahir West (EDGE and Sun Belt Freshman of the Year). *(p. 9)*
-- Chesney did go into the transfer portal and brought in key players like Sun Belt Freshman of the Year Sahir West (seven sacks) and Aiden Gobaira (four sacks) from James Madison. *(p. 179)*
+Referenced in the guide on **pp. 9, 179, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The offensive line should lend itself to running the rock effectively. *(p. 327)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
-- This appears to be an outstanding hire by Napier and one who should keep the throttle down here with an offense that averaged 6.4 YPP and 37.1 PPG last season. *(p. 327)*
-- Over four FBS seasons, the Dukes have allowed 2.5, 2.6, 3.5, and 2.8 yards per carry, while giving up just 4.7, 5.0, 4.9, and 4.4 yards per play. *(p. 327)*
-- I gave a bullish case for the offense, but I’m not sure that I can for the defense, though Amar Thomas and Gannon Weathersby are two returning starters of consequence. *(p. 327)*
+- **Is JC Evans the next star at JMU?** The guide frames the decision as deliberate: a programme rich in resources relative to the conference chose not to buy an impact transfer, instead placing faith in Evans, a 6-foot-5 sophomore from the Miami area. He was not a highly sought recruit, but spent two years learning behind Barnett. The support structure is the argument for him — returning running back George Pettaway plus transfer Nick Herman, who averaged over seven yards per carry at Drake, meaning a run-heavy approach could keep early pressure off him, with an offensive line suited to running the ball. It adds a coaching data point: Michigan State was not great last season, but its quarterbacks posted a 20/6 touchdown-to-interception ratio, and pass game coordinator Aaron Pflugrad is the Dukes' new quarterbacks coach. *(p. 327)*
+- **Should we remember the name Cam Aiken?** Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, it is the player who is staying that is the starting point, as quarterback Nico Iamaleava returns to work with a new staff that led James Madison to the No. 16 offense (452.6 yards per game) in the nation. *(p. 178)*
-- Chesney brings him some help from James Madison including all-purpose running back Wayne Knight (1,373 rush yards, nine TDs; 397 rec yards, one TD) to go along with returning backs Jaivian Thomas and Anthony Woods, plus three offensive line starters Riley Robell, Carter Sweezie (both All-Sun Belt), and JD Rayner. *(p. 179)*
-- Essentially a brand-new receiving corps joins holdover Mikey Matthews (33-3482) with Landon Ellis (James Madison), Leland Smith (San Jose State), Brian Rowe (South Carolina), Aidan Mizell (Florida), and Semaj Morgan (Michigan) entering the fold. *(p. 179)*
-- Ellis (624 yards) has familiarity with the offense from his time at James Madison. *(p. 179)*
+Referenced in the guide on **pp. 178, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- I gave a bullish case for the offense, but I’m not sure that I can for the defense, though Amar Thomas and Gannon Weathersby are two returning starters of consequence. *(p. 327)*
+- **How big of a step back will the defense take?** The guide lays out four FBS seasons of consistency: 2.5, 2.6, 3.5 and 2.8 yards per carry allowed, with 4.7, 5.0, 4.9 and 4.4 yards per play. It notes the Cignetti-to-Chesney transition and its accompanying staff changes produced no downturn, but argues roster attrition has to bite eventually. It is explicit about the asymmetry in its own view — bullish on the offense, not sure it can be on the defense — while naming Amar Thomas and Gannon Weathersby as two returning starters of consequence. The counterweight it offers is new coordinator Robert Bala, who has worked under Napier, Jedd Fisch (with coordinator Stephen Belichick) and Nick Saban over the past three years, which it treats as a reason for optimism. *(p. 327)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Chesney did go into the transfer portal and brought in key players like Sun Belt Freshman of the Year Sahir West (seven sacks) and Aiden Gobaira (four sacks) from James Madison. *(p. 179)*
+Referenced in the guide on **pp. 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -227,9 +208,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Drawing James Madison and Old Dominion from the East is as brutal as it gets. *(p. 342)*
+Referenced in the guide on **pp. 342** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -257,27 +236,18 @@ Prices printed on the team page *(p. 327)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 8.5 wins. The precedent it leans on is Chesney's first regular season producing 8-4, which it could see repeated, with the quarterback position a major question mark. *(p. 326)*
+- A rest-and-scheduling angle is spelled out: the Week 2 game with Wagner is a quasi-bye, but the Dukes play 11 straight weeks without a break, not off until the weekend of November 21 before facing Coastal Carolina. *(p. 326)*
+- Travel is the other concern — a long trip west to San Diego State, a randomly placed non-conference road game at UConn, and road dates at Old Dominion and App State. The projection is 8.91 wins, with the road slate called genuinely tricky. *(p. 326)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Conference favorite James Madison has experienced big changes once again, as Bob Chesney followed predecessor Curt Cignetti to the Big Ten. *(p. 317)*
-- Last year, it was James Madison who locked that up and put forth a decent effort against Oregon, covering the 21-point number in a 17-point loss. *(p. 317)*
+Also referenced on **pp. 317** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- With NIL funds allocated elsewhere, the Dukes didn’t go the transfer portal route at QB, really, with the exception of UCF transfer Davi Belfort, who barely played. 247Sports gave James Madison’s portal haul the best grade in the conference by a pretty wide margin, which is good because pretty much all of last season’s production is gone, but a lot of players are from lower-division schools, FCS, or never saw the field at their P4 programs. *(p. 326)*
-- Also, Michigan State wasn’t great last season, but their QBs posted a 20/6 TD/INT ratio and pass game coordinator Aaron Pflugrad is the new QB coach for the Dukes. *(p. 327)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
-- He also coached running backs at South Florida and that group had nearly 200 yards per contest in 2022. *(p. 327)*
-- This appears to be an outstanding hire by Napier and one who should keep the throttle down here with an offense that averaged 6.4 YPP and 37.1 PPG last season. *(p. 327)*
+- Jordan McCloud and Alonza Barnett are named as having upheld the programme's standards even through the FCS-to-FBS transition. *(p. 326)*
+- It offers a precedent for the year ahead: the season after Cignetti left for Indiana, the Dukes went 9-4 but only 4-4 in conference play, and asks whether a similar transitional year is in store. *(p. 326)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- There are 42 newcomers to the Bruins in 2026, 10 of them following Chesney from James Madison, including All-American Wayne Knight (RB/all-purpose returner) and Sahir West (EDGE and Sun Belt Freshman of the Year). *(p. 9)*
-- UCLA – OVER 6.5 WINS After guiding James Madison to the CFP last season, a lot of power conference schools had interest in Bob Chesney, and he eventually settled at UCLA, where he takes over for DeShaun Foster, who guided the Bruins through two seasons of 8-16 football. *(p. 24)*
-- For comparison, Cignetti brought in 29 transfers, including 12 from his team at James Madison (22 were from the Group of Five or lower) during his first season at Indiana in 2024. *(p. 173)*
-- Last year, it was James Madison who locked that up and put forth a decent effort against Oregon, covering the 21-point number in a 17-point loss. *(p. 317)*
-- Bryant Vincent brought some instant legitimacy to the Warhawks in 2024, getting off to a 5-1 start that included upset wins over UAB, Troy, and James Madison. *(p. 336)*
+Referenced in the guide on **pp. 9, 24, 173, 317, 336** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -323,49 +293,41 @@ As printed on p. 327. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **9.1 wins** against a posted total of 8.5 — **+0.6** in this team's favour.
-- The biggest question for Billy Napier heading into this season is who will play that position and can they find similar success to their predecessors? *(p. 326)*
-- With NIL funds allocated elsewhere, the Dukes didn’t go the transfer portal route at QB, really, with the exception of UCF transfer Davi Belfort, who barely played. 247Sports gave James Madison’s portal haul the best grade in the conference by a pretty wide margin, which is good because pretty much all of last season’s production is gone, but a lot of players are from lower-division schools, FCS, or never saw the field at their P4 programs. *(p. 326)*
-- He wasn’t a highly sought-after recruit, but he got to learn behind Barnett for two years and has a good returning running back in George Pettaway. *(p. 327)*
-- This really does look like a promising coaching staff, which is hugely important with so many transfers. *(p. 327)*
-- New DC Robert Bala has worked under Napier, Jedd Fisch (and DC Stephen Belichick), and Nick Saban over the last three years, so that’s a reason for optimism. *(p. 327)*
-- The skill position talent could be better for Indiana, but the losses, primarily those who came with Cig from James Madison, were strong culture guys. *(p. 153)*
-- However, it is the player who is staying that is the starting point, as quarterback Nico Iamaleava returns to work with a new staff that led James Madison to the No. 16 offense (452.6 yards per game) in the nation. *(p. 178)*
-- Conference favorite James Madison has experienced big changes once again, as Bob Chesney followed predecessor Curt Cignetti to the Big Ten. *(p. 317)*
-- He didn’t even start the team’s “best” loss, a 14-7 defeat at the hands of CFP team James Madison. *(p. 325)*
-- Over 7.5 The schedule is kind to Rahne this season, as James Madison and Marshall go to Norfolk and the non-conference road game at UConn, albeit randomly timed, is very winnable, along with hapless Georgia State, newcomer Louisiana Tech, and a Coastal Carolina team in a transitional phase. *(p. 330)*
+- The guide's headline claim is that no Sun Belt team has leveraged the transfer portal better than James Madison. It credits resources plus masterful talent identification by Curt Cignetti and Bob Chesney, especially at quarterback. *(p. 326)*
+- The biggest question it puts to Billy Napier is who plays quarterback and whether that player can match the predecessors' success. *(p. 326)*
+- 247Sports graded James Madison's portal haul best in the conference by a wide margin — which the guide calls fortunate, since nearly all of last season's production is gone — while cautioning that many of the additions come from lower divisions, FCS, or Power Four programmes where they never saw the field. *(p. 326)*
+- Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
+- The guide lays out four FBS seasons of consistency: 2.5, 2.6, 3.5 and 2.8 yards per carry allowed, with 4.7, 5.0, 4.9 and 4.4 yards per play. It notes the Cignetti-to-Chesney transition and its accompanying staff changes produced no downturn, but argues roster attrition has to bite eventually. It is explicit about the asymmetry in its own view — bullish on the offense, not sure it can be on the defense — while naming Amar Thomas and Gannon Weathersby as two returning starters of consequence. The counterweight it offers is new coordinator Robert Bala, who has worked under Napier, Jedd Fisch (with coordinator Stephen Belichick) and Nick Saban over the past three years, which it treats as a reason for optimism. *(p. 327)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- The biggest question for Billy Napier heading into this season is who will play that position and can they find similar success to their predecessors? *(p. 326)*
-- Under 8.5 The first regular season under Chesney led to an 8-4 record and I could see something similar here, as the quarterback position is a major question mark. *(p. 326)*
-- The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. *(p. 327)*
-- The skill position talent could be better for Indiana, but the losses, primarily those who came with Cig from James Madison, were strong culture guys. *(p. 153)*
-- Last year, it was James Madison who locked that up and put forth a decent effort against Oregon, covering the 21-point number in a 17-point loss. *(p. 317)*
-- He didn’t even start the team’s “best” loss, a 14-7 defeat at the hands of CFP team James Madison. *(p. 325)*
-- What is amazing, though, is that ODU’s three losses were by 13, 24, and 36 points, as they were -5 in turnovers against Marshall and got pummeled by James Madison. *(p. 330)*
-- Drawing James Madison and Old Dominion from the East is as brutal as it gets. *(p. 342)*
+- The biggest question it puts to Billy Napier is who plays quarterback and whether that player can match the predecessors' success. *(p. 326)*
+- Recommendation is Under 8.5 wins. The precedent it leans on is Chesney's first regular season producing 8-4, which it could see repeated, with the quarterback position a major question mark. *(p. 326)*
+- Travel is the other concern — a long trip west to San Diego State, a randomly placed non-conference road game at UConn, and road dates at Old Dominion and App State. The projection is 8.91 wins, with the road slate called genuinely tricky. *(p. 326)*
+- Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 327)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 327)*. Its analysis, in reference form:
 
 ### Is JC Evans the next star at JMU?
 
-A program rich with resources relative to the rest of the conference opted not to pick up an impact transfer at QB, instead putting some faith in Evans, a 6-foot-5 sophomore from the Miami area. He wasn’t a highly sought-after recruit, but he got to learn behind Barnett for two years and has a good returning running back in George Pettaway. He also has transfer Nick Herman, who ran for over seven yards per carry at Drake, so he may not have too much pressure on his shoulders at the outset with a run-heavy approach. The offensive line should lend itself to running the rock effectively. Also, Michigan State wasn’t great last season, but their QBs posted a 20/6 TD/INT ratio and pass game coordinator Aaron Pflugrad is the new QB coach for the Dukes.
+The guide frames the decision as deliberate: a programme rich in resources relative to the conference chose not to buy an impact transfer, instead placing faith in Evans, a 6-foot-5 sophomore from the Miami area. He was not a highly sought recruit, but spent two years learning behind Barnett. The support structure is the argument for him — returning running back George Pettaway plus transfer Nick Herman, who averaged over seven yards per carry at Drake, meaning a run-heavy approach could keep early pressure off him, with an offensive line suited to running the ball. It adds a coaching data point: Michigan State was not great last season, but its quarterbacks posted a 20/6 touchdown-to-interception ratio, and pass game coordinator Aaron Pflugrad is the Dukes' new quarterbacks coach. *(p. 327)*
 
 ### Should we remember the name Cam Aiken?
 
-Aiken is the new OC here and a rising star in the coaching world. The Clemson grad was on the staff for two National Championships and then spent time under Lane Kiffin at Ole Miss before running an offense of his own at East Tennessee State last season. The Buccaneers racked up over 32 PPG and better than 440 yards per game. He also coached running backs at South Florida and that group had nearly 200 yards per contest in 2022. This appears to be an outstanding hire by Napier and one who should keep the throttle down here with an offense that averaged 6.4 YPP and 37.1 PPG last season. This really does look like a promising coaching staff, which is hugely important with so many transfers.
+Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
 
 ### How big of a step back will the defense take?
 
-Over four FBS seasons, the Dukes have allowed 2.5, 2.6, 3.5, and 2.8 yards per carry, while giving up just 4.7, 5.0, 4.9, and 4.4 yards per play. The transition from Cignetti to Chesney and the accompanying new coaches and coordinators didn’t foster any downturn. At some point, it feels like the roster attrition has to take hold and lead to setbacks. I gave a bullish case for the offense, but I’m not sure that I can for the defense, though Amar Thomas and Gannon Weathersby are two returning starters of consequence. New DC Robert Bala has worked under Napier, Jedd Fisch (and DC Stephen Belichick), and Nick Saban over the last three years, so that’s a reason for optimism.
+The guide lays out four FBS seasons of consistency: 2.5, 2.6, 3.5 and 2.8 yards per carry allowed, with 4.7, 5.0, 4.9 and 4.4 yards per play. It notes the Cignetti-to-Chesney transition and its accompanying staff changes produced no downturn, but argues roster attrition has to bite eventually. It is explicit about the asymmetry in its own view — bullish on the offense, not sure it can be on the defense — while naming Amar Thomas and Gannon Weathersby as two returning starters of consequence. The counterweight it offers is new coordinator Robert Bala, who has worked under Napier, Jedd Fisch (with coordinator Stephen Belichick) and Nick Saban over the past three years, which it treats as a reason for optimism. *(p. 327)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
