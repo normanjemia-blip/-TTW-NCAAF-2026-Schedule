@@ -298,10 +298,14 @@ As printed on p. 235. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.2 wins** against a posted total of 6.5 — **+0.7** in this team's favour.
+- Last year’s 9-4 mark was the first time since that ‘21 season that Ohio didn’t win 10+ games, but given everything that they went through, it was another really good season. *(p. 234)*
+- Whether you want to credit the scouting and talent evaluation, the system, the stability of the program, or just outright good luck, Ohio has been on a generational run of QBs since Tyler Tettleton showed up in 2009. *(p. 235)*
 - Even in the transfer portal era, Ohio has had a lot of continuity and returning production year over year, or have at least had high-upside players waiting in the wings. *(p. 235)*
 - Campbell has strong Ohio ties, which should help with recruiting and he did really well to get D’Anton Lynn, a Texas native, as the DC, giving Penn State a lot of connections from coast to coast. *(p. 32)*
+- Apparently Tim Albin felt like Charlotte Green was a brighter shade than Bobcat Green, as he gave up a pretty good gig at Ohio to take on arguably the biggest challenge in the American Conference. *(p. 52)*
 - Albin had three straight double-digit winning seasons at Ohio before suffering through his first season in the Queen City. *(p. 52)*
 - Hilliard’s presence should really help here, especially with 1,000-yard Ohio standout Chase Henderson and big-bodied Rutgers transfer Ian Strong. *(p. 83)*
+- Cincinnati starts the season with winnable games against Boston College, Western Carolina, and Miami (Ohio). *(p. 125)*
 - The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -349,6 +353,8 @@ No source conflict identified for this team.
 | 6, 26, 32, 34, 46, 52, 53, 83, 125, 141, 211, 218, 220, 236, 238 | Other pages naming this team |
 
 This team is named in **26 sentences across 18 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 26, 32, 34, 46, 52, 53, 83, 125, 141, 211, 218, 220, 236, 238.
 
 ## 29. Cross-Links
 

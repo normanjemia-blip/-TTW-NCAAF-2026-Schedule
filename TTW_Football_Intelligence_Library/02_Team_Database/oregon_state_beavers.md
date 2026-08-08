@@ -298,9 +298,12 @@ As printed on p. 273. Each category carries a value and a national rank.
 
 - Makinen projects **3.8 wins** against a posted total of 3.5 — **+0.3** in this team's favour.
 - However, there are way too many holes in the depth chart to be too optimistic, and games against Houston and Texas Tech to open the season will put the Beavers in a hole in early September. *(p. 272)*
+- Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? *(p. 272)*
 - This is not a best bet by any means, so the lean is 3.5 Under +150 with Circa Sports offering a nice Under price on the 12-game line. *(p. 272)*
+- His play has not been that impressive to watch, however, and he declined last season with a bad Oregon State team. *(p. 273)*
 - Cornell Hatcher returns as the featured running back and Shephard brought receiver Aeryn Hampton as a transfer from Alabama. *(p. 273)*
 - Murphy is not much of a running threat and turns the ball over too much, but he’s got a better coaching staff and supporting cast now, so expect to see significant improvement. *(p. 273)*
+- The coaching staff appears to be a major upgrade, and a big part of that will be defensive coordinator Mike MacIntyre, who has had success at a variety of stops, including head coaching jobs at San Jose State, Colorado and Florida International. *(p. 273)*
 - Oregon State held Washington State to seven points in a late-season upset and showed improvement. *(p. 273)*
 - The linebacker group will be a strength, led by senior Aiden Sullivan and former USC transfer Raesjon Davis. *(p. 273)*
 - Sullivan is the team’s top returning tackler and should be one of the league’s best defensive players. *(p. 273)*
@@ -347,6 +350,8 @@ No source conflict identified for this team.
 | 11, 35, 165, 167, 204, 205, 260, 268, 274, 276, 280, 281 | Other pages naming this team |
 
 This team is named in **27 sentences across 15 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 35, 165, 167, 204, 205, 260, 268, 274, 276, 280, 281.
 
 ## 29. Cross-Links
 

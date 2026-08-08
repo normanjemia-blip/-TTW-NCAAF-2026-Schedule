@@ -269,7 +269,9 @@ As printed on p. 305. Each category carries a value and a national rank.
 
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
 - Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
+- Schedule adds to the case: road trips to Florida, Texas and Oklahoma; home games against LSU in an emotionally charged Week 3, Missouri and Georgia; and an opener against a good Louisville side in Nashville. *(p. 304)*
 - Chambliss only got the job through Austin Simmons' injury but never gave it back, finishing as PFF's third-highest graded SEC passer: 65.6% completions, 8.8 yards per attempt, 22 touchdowns to three interceptions. The guide highlights ball security as the contrast with Simmons — a 2.5% turnover-worthy play rate, third-best among SEC starters. He enters 2026 as the unquestioned starter and a Heisman candidate, with the open question being whether he can repeat it amid heavy turnover in the receiver room. *(p. 305)*
+- The guide treats this as the season's crux. Golding had Weis calling plays in the postseason and now does not; he has had to hire a coordinator, rebuild groups such as receiver, and take charge of every facet. It does not dispute the success under him last season but insists the situation is now materially different — a first-time head coach steering a programme with national title ambitions through a brutal conference. As a defensive coach, his coordinator choice is expected to hang over the season if the offense starts slowly. *(p. 305)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

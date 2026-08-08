@@ -288,6 +288,7 @@ As printed on p. 171. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 10.5**.
+- Oregon starts as a victim of its own success, losing offensive coordinator Will Stein to Kentucky and Tosh Lupoi to Cal, both for head coaching jobs. Drew Mehringer and Chris Hampton are promoted internally. *(p. 170)*
 - Despite the staff churn Oregon returns 66% of net production per ESPN's Bill Connelly, headlined by junior quarterback Dante Moore turning down the NFL Draft. Eight starters return on defense, which Lanning calls himself, so the guide expects another elite unit. *(p. 170)*
 - Its case is that Oregon may have the most talented roster in college football with much to prove after two humiliating season endings, and it frames 2026 as potentially a show-no-mercy year with the best shot at a title. *(p. 170)*
 - Moore is justifiably a Heisman favorite after 3,565 yards and 30 touchdowns in his first year starting, with abundant support: Jordon Davison and Dierre Hill Jr combined for 1,323 rushing yards as freshman backups, sophomore receivers Dakorien Moore and Jeremiah McClellan should start, and Evan Stewart returns from a knee injury. The guide expects monster numbers again but keeps the big-stage question open, citing the two meetings with Indiana in which Moore was sacked nine times with four turnovers, including a pick-six on the opening snap of the Peach Bowl. *(p. 171)*

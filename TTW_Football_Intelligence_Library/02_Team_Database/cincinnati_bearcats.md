@@ -258,8 +258,10 @@ As printed on p. 125. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- Recommendation is Under 5.5 wins. It credits the Nate Woody hire and instant-impact transfers with meaningfully changing the defense, while saying it is hard to imagine what the offense looks like without Sorsby. *(p. 124)*
 - Cincinnati ranked fifth nationally in Game on Paper's Adjusted EPA per play at 0.14 — an explosive offense with Sorsby. He is gone, and the guide notes candidly that it does not know what he will be doing. Top receiver Cyrus Allen, who had 13 touchdown catches, left for the Chiefs, and tight end Joe Royer also went to the NFL. Georgia Southern transfer JC French replaces Sorsby and is characterized as an accurate passer who works underneath rather than a consistent deep-ball threat. With an underwhelming backfield and unproven receivers, the guide sees a real chance of a massive step back. *(p. 125)*
 - Cincinnati was 74th nationally in scoring defense, and with the offense likely to regress the guide calls defensive improvement imperative. The secondary looks better after raiding Northern Illinois for Jacob Finley and Jasper Beeler plus middle linebacker Filip Maciorowski. There is good size on the defensive line and a solid linebacking corps, and new coordinator Nate Woody largely did well at Army, with some excitement around his aggressive 3-4. It expects a better defense than last year. *(p. 125)*
+- The guide maps the path precisely. Cincinnati opens with winnable games against Boston College, Western Carolina and Miami (Ohio), after which wins get harder to find. It hosts Kansas State and Colorado and travels to West Virginia and Iowa State, and going 3-1 in those four is likely necessary to reach six wins. It would be surprising to win at Arizona, Houston or BYU, and home advantage is unlikely to be enough against Texas Tech or Utah. *(p. 125)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -314,11 +314,16 @@ As printed on p. 259. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **9.0 wins** against a posted total of 7.5 — **+1.5** in this team's favour.
+- None of those trips to the title game have ended with UNLV hoisting a trophy, and now the feel-good story of the little ol’ Rebels is turning into expectations of success from the fanbase. *(p. 258)*
 - Under 8.5 Logic would dictate that UNLV just cannot keep up the run of success at quarterback the program has experienced the last three seasons. *(p. 258)*
+- The success of the co- favorite in the Mountain West rests on whether or not Mullen can work his magic at the most important position once again. *(p. 259)*
 - Guenther now has a full offseason to install his defense, but only four starters return. *(p. 259)*
 - And in the newly reshaped Mountain West, the Lobos have both UNLV (the favorites) and NDSU (the third-best price) at home, where New Mexico was a perfect 6-0 in 2025. *(p. 9)*
+- NEBRASKA UNLV transfer quarterback Anthony Colandrea is the key to coach Matt Rhule’s success in his fourth season with the Cornhuskers. *(p. 20)*
+- Including Auburn transfer QB Jackson Arnold, UNLV Head Coach Dan Mullen seems to have picked up right where successful prior coach Barry Odom left off, bringing in highly-respected recruiting classes to carry on the momentum of 30-12 over the past three years. *(p. 24)*
+- JAYDEN MAIAVA, USC The Honolulu native began his career at UNLV, but a stellar freshman season there in 2023 (almost 3,100 yards passing) caught the eye of Lincoln Riley and others. *(p. 45)*
+- Marion’s fast-paced, power rushing offense was highly successful at UNLV and Sacramento State, but it’ll be interesting to see whether it translates to the big leagues. *(p. 127)*
 - Winning can cure any dissension in the ranks and transfer QB Anthony Colandrea did a lot of that at UNLV last season, leading the Rebels to 10 victories. *(p. 164)*
-- They must host an experienced Fresno State squad in nonconference play, as well as Wyoming, New Mexico, UNLV and North Dakota State. *(p. 256)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -370,6 +375,8 @@ No source conflict identified for this team.
 | 6, 7, 9, 14, 15, 20, 24, 40, 45, 46, 58, 62, 127, 164, 175, 205, 234, 244, 245, 247, 248, 250, 251, 252, 253, 254, 256, 262, 267, 278 | Other pages naming this team |
 
 This team is named in **50 sentences across 33 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 7, 9, 14, 15, 20, 24, 40, 45, 46, 58, 62, 127, 164, 175, 205, 234, 244, 245, 247, 248, 250, 251, 252, 253, 254, 256, 262, 267, 278.
 
 ## 29. Cross-Links
 

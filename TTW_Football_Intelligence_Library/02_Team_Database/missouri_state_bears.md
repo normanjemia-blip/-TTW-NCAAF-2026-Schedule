@@ -273,7 +273,10 @@ As printed on p. 201. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-Not addressed in guide.
+- The Bears allowed 52 sacks last season and mustered just 3.5 yards per carry, even with Lawrence’s success. *(p. 201)*
+- MISSOURI STATE – UNDER 4.5 WINS It was a solid first season at the FBS level and in Conference USA for Missouri State as the Bears won seven games and received a bowl bid, a game they would eventually lose to Arkansas State. *(p. 25)*
+
+> *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
@@ -319,6 +322,8 @@ No source conflict identified for this team.
 | 25, 33, 37, 41, 103, 189, 195, 312, 320, 321, 328, 339 | Other pages naming this team |
 
 This team is named in **21 sentences across 14 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 25, 33, 37, 41, 103, 189, 195, 312, 320, 321, 328, 339.
 
 ## 29. Cross-Links
 

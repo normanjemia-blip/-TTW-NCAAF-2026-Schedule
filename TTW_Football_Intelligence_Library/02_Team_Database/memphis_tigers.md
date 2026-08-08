@@ -304,13 +304,15 @@ As printed on p. 59. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 7.5**.
 - Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
+- This is a great spot for Huff, who has a lot of NIL money to play with and a pretty solid program that hasn’t had a losing season since 2013. *(p. 58)*
 - A winning record in 2014 ended six straight seasons of futility and the program has been strong ever since, including four double-digit winning seasons since 2017. *(p. 58)*
 - It may take a year with new schemes and a ton of transfers, but Huff seems to be an outstanding coach based on the returns we’ve seen thus far. *(p. 58)*
+- These are two good coordinator hires and it sure feels like Huff’s done a good job of motivating players that were either discarded by their own schools or castoffs from another. *(p. 58)*
 - Whether it’s Stokes, Noland, or maybe even Huff recruit Denzel Gardner, there still aren’t any truly experienced or established skill- position guys. *(p. 59)*
+- The wide receivers are all in a similar boat, as some of them have impressive yards per reception numbers, but not many receptions. *(p. 59)*
+- Huff made a really, really good DC hire in Lance Guidry, who he worked with at Marshall and has been a DC at many different places. *(p. 59)*
 - There aren’t as many noteworthy recruits on defense, so the upside of the defense might be lower than that of the offense, but the collection of Southern Miss players should help. *(p. 59)*
-- Expect this team to keep the ball on the ground with a deep stable of RBs: Braylen Russell is a bruiser, Sutton Smith ran for 669 yards and seven TDs at Memphis, and Jasper Parker was a fourstar recruit at Michigan. *(p. 10)*
-- His name has become synonymous with instability, and unlike recent seasons, Memphis is not picked among the elite teams in the American Conference in 2026, sixth in fact by Phil Steele. *(p. 25)*
-- The secondary has a lot of talent with the return of starting corners Zeke Berry and Jyaire Hill, Rod Moore at safety, and the additions of nickel Smith Snowden (two INTs, nine PBU), who was All-Big 12 at Utah and Chris Bracy (81 tackles) from Memphis. *(p. 159)*
+- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -363,6 +365,8 @@ No source conflict identified for this team.
 | 6, 10, 25, 29, 33, 36, 37, 40, 60, 65, 66, 70, 72, 74, 159, 177, 233, 249, 258, 286, 287, 330, 342, 343 | Other pages naming this team |
 
 This team is named in **37 sentences across 26 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 10, 25, 29, 33, 36, 37, 40, 60, 65, 66, 70, 72, 74, 159, 177, 233, 249, 258, 286, 287, 330, 342, 343.
 
 ## 29. Cross-Links
 

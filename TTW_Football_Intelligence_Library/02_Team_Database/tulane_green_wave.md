@@ -275,15 +275,16 @@ As printed on p. 71. Each category carries a value and a national rank.
 
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 7.5**.
+- The Green Wave were going to be a good team, but perhaps it was Retzlaff who elevated them into a great team, one that represented the Group of Five in the College Football Playoff. *(p. 70)*
+- It didn’t go well for them when they got there, as an Ole Miss team that beat them 45-10 in the regular season beat them 41-10 in the CFP, but it was a good reward at the end of Jon Sumrall’s short tenure. *(p. 70)*
 - Sumrall inherited a pretty strong foundation and brought over some of his talent from Troy, a luxury that Will Hall may not have. *(p. 70)*
 - The schedule is pretty soft and the talent pipeline is still fairly strong, but this has all the makings of a transitional year for Tulane. *(p. 70)*
+- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
 - But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
+- Tulane’s portal class ranks seventh in the 14-team American Conference, so that’s not terribly impressive given that they’ve had three seasons of 11+ wins and another 9-5 campaign over the last four years. *(p. 71)*
 - Concerns run really deep on both sides of the ball. *(p. 71)*
 - Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
-- While he inherited a mess at Troy from Chip Lindsey, he inherited a strong foundation at Tulane thanks to Willie Fritz. *(p. 36)*
-- Memphis went from Group of Five College Football Playoff contender to an afterthought in a hurry, as the Tigers lost to Tulane at home and then followed that up with three straight losses, including a defeat in the Gasparilla Bowl after head coach Ryan Silverfield left for Arkansas and a ton of players left the program. *(p. 58)*
-- Darian Mensah had a 34/6 TD/INT ratio last season at Duke after a strong season at Tulane. *(p. 95)*
-- Well, the team he’s putting on the field in Year 3 is arguably the most talented group he has ever coached, which says a lot considering the kind of success he had at Tulane. *(p. 128)*
+- Having immediate success adds commas to your bank account in CFB and that’s the case for Sumrall, who made the CFP with Tulane in 2024 and has won at least 11 games in three of his four seasons as a HC. *(p. 36)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -335,6 +336,8 @@ No source conflict identified for this team.
 | 7, 11, 17, 19, 29, 36, 45, 46, 54, 58, 60, 62, 68, 69, 72, 76, 87, 95, 128, 129, 233, 287, 291, 344 | Other pages naming this team |
 
 This team is named in **41 sentences across 26 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 7, 11, 17, 19, 29, 36, 45, 46, 54, 58, 60, 62, 68, 69, 72, 76, 87, 95, 128, 129, 233, 287, 291, 344.
 
 ## 29. Cross-Links
 

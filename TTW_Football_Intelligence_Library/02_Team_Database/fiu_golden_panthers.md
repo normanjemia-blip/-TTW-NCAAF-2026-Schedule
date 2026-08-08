@@ -254,6 +254,11 @@ As printed on p. 191. Each category carries a value and a national rank.
 
 - Simmons, who was the head coach at Florida A&M and Prairie View A&M prior to getting this gig, coached the Panthers to their first winning record in conference play since 2018 and had nearly as many conference wins (5) as MacIntyre had over three years (6). *(p. 190)*
 - Despite the financial commitment to this program from Armando Christian Perez, better known as Pitbull, and the school’s location in Florida, this has been a hard place to win and a hard place to sustain winning. *(p. 190)*
+- What Simmons is doing is very impressive and this will be a highly competitive team yet again, plenty capable of getting to seven or eight wins if the ball bounces their way. *(p. 190)*
+- However, if you look closer, what FIU did in conference play was very impressive. *(p. 191)*
+- The safety position looks good with homegrown star Shamir Sterlin and two- year South Alabama starter Wesley Miller. *(p. 191)*
+- November roadies at Ball State and Akron are extremely winnable games and even the Week 2 trip to FIU has the chance for a happy flight home. *(p. 222)*
+- The coaching staff appears to be a major upgrade, and a big part of that will be defensive coordinator Mike MacIntyre, who has had success at a variety of stops, including head coaching jobs at San Jose State, Colorado and Florida International. *(p. 273)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -301,6 +306,8 @@ No source conflict identified for this team.
 | 163, 196, 222, 273 | Other pages naming this team |
 
 This team is named in **9 sentences across 6 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 163, 196, 222, 273.
 
 ## 29. Cross-Links
 

@@ -291,6 +291,11 @@ As printed on p. 325. Each category carries a value and a national rank.
 
 - Injuries didn’t help, especially at the QB position, where Cameran Brown is and was clearly the best option. *(p. 324)*
 - He didn’t even start the team’s “best” loss, a 14-7 defeat at the hands of CFP team James Madison. *(p. 325)*
+- They were outscored essentially 21-8 in the second halves of games, as McGee and his staff failed to adjust and the depth simply wasn’t good enough. *(p. 325)*
+- Two of their Sun Belt road games are quite winnable - Coastal Carolina and Georgia State - and I also expect them to put up terrific passing numbers with multi-time transfer Max Johnson in a pass-happy scheme. *(p. 11)*
+- The Knights really should earn wins over Bethune-Cookman, Georgia State, and Iowa State, and the following games all seem winnable: at Pitt, vs. *(p. 142)*
+- Over 7.5 The schedule is kind to Rahne this season, as James Madison and Marshall go to Norfolk and the non-conference road game at UConn, albeit randomly timed, is very winnable, along with hapless Georgia State, newcomer Louisiana Tech, and a Coastal Carolina team in a transitional phase. *(p. 330)*
+- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -339,6 +344,8 @@ No source conflict identified for this team.
 | 11, 46, 142, 205, 254, 330, 332 | Other pages naming this team |
 
 This team is named in **13 sentences across 9 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 46, 142, 205, 254, 330, 332.
 
 ## 29. Cross-Links
 

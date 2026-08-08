@@ -267,6 +267,7 @@ As printed on p. 123. Each category carries a value and a national rank.
 
 - Makinen projects **9.0 wins** against a posted total of 8.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 8.5**.
+- His success drew Penn State, which the guide says was desperate for him; BYU's boosters brought him back with what it describes as a bottomless pit of money. *(p. 122)*
 - The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
 - BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
 

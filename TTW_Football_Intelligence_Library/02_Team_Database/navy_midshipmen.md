@@ -294,8 +294,11 @@ As printed on p. 61. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **8.5 wins** against a posted total of 7.5 — **+1.0** in this team's favour.
+- Credit to Navy head coach Brian Newberry for bringing in OC Drew Cronic, as the wrinkles in the Middies offense have given them a new life in the American Conference. *(p. 60)*
 - In fact, under Ken Niumatalolo, the Middies only had one other winning season in conference after that 14-2 start. *(p. 60)*
 - They do play at UTSA and at what should be an improved FAU team. *(p. 60)*
+- Navy has a physical offensive line and a solid defense, but the key to the season will be Woodson, who’s fast and skilled but has not played much. 33. *(p. 20)*
+- Over 5.5 The season might start rather slowly with Florida and Navy on the docket, but the three games before the bye are very, very winnable. *(p. 56)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -348,6 +351,8 @@ That is the million-dollar question here. Perhaps sensing the urgency, Newberry 
 | 14, 20, 27, 46, 50, 51, 56, 58, 62, 64, 65, 68, 69, 70, 72, 93 | Other pages naming this team |
 
 This team is named in **31 sentences across 19 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 14, 20, 27, 46, 50, 51, 56, 58, 62, 64, 65, 68, 69, 70, 72, 93.
 
 ## 29. Cross-Links
 

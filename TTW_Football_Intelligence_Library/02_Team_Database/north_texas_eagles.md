@@ -314,6 +314,7 @@ As printed on p. 63. Each category carries a value and a national rank.
 - Skyler Cassity was a stellar DC hire by Morris, but who would have thought it would lead to the best defense the program has seen in forever? *(p. 63)*
 - NORTH TEXAS UNDER 6.5 WINS (-200) They return zero starters with Morris leaving town. *(p. 7)*
 - Neal Brown North Texas I wouldn’t call myself a glass-half-full person by nature, but when it comes to new coaching hires, I’m often optimistic. *(p. 29)*
+- North Texas’ 0.06 Adjusted EPA/Play Allowed mark was pretty miserable last year, but the Mean Green were good enough defensively to allow Mestemaker to win games with his arm. *(p. 137)*
 - Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, but he has a minimal path of resistance at best here at Akron. *(p. 217)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -363,6 +364,8 @@ No source conflict identified for this team.
 | 7, 20, 26, 29, 31, 39, 46, 55, 60, 68, 69, 75, 136, 137, 217, 233, 261, 281, 345 | Other pages naming this team |
 
 This team is named in **31 sentences across 21 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 7, 20, 26, 29, 31, 39, 46, 55, 60, 68, 69, 75, 136, 137, 217, 233, 261, 281, 345.
 
 ## 29. Cross-Links
 

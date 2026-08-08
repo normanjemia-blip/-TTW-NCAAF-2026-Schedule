@@ -282,7 +282,10 @@ As printed on p. 343. Each category carries a value and a national rank.
 
 - Makinen projects **3.7 wins** against a posted total of 3.5 — **+0.2** in this team's favour.
 - On Anderson’s watch, the offense improved by 13.5 PPG and a full yard per play, so the administration at Southern Miss felt comfortable moving him up despite his recent misgivings, even though all but one of those offensive pieces are gone and the defense has essentially one returning player. *(p. 342)*
+- SOUTHERN MISS UNDER 3.5 WINS (+105) I think a lot of credit is being given to Southern Miss by some models (FPI) based on what they did last year, but head coach Charles Huff is now at Memphis, and the Golden Eagles are undergoing another turnover for the second straight season. *(p. 6)*
+- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
 - Hall went to Hattiesburg after serving as Tulane’s OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. *(p. 29)*
+- Maybe Hall, who has had two different stints at Tulane and had lots of success at West Alabama and West Georgia as the HC, deserves a little more benefit of the doubt than I’ve given him credit for since his time at Southern Miss was messy and included a conference change. *(p. 70)*
 - But, it sure feels like it could all come crashing down on Hall, who was an awful head coach at Southern Miss and doesn’t have nearly the offensive upside of last year’s squad. *(p. 71)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -336,6 +339,8 @@ No source conflict identified for this team.
 | 6, 25, 29, 36, 37, 58, 59, 70, 71, 91, 330 | Other pages naming this team |
 
 This team is named in **22 sentences across 14 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 25, 29, 36, 37, 58, 59, 70, 71, 91, 330.
 
 ## 29. Cross-Links
 

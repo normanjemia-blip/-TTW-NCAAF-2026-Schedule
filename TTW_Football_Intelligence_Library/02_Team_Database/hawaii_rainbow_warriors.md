@@ -280,12 +280,12 @@ As printed on p. 247. Each category carries a value and a national rank.
 - The Rainbow Warriors have improved their record each season under Chang, and statistically, they have seen their numbers improve on each side of the field. *(p. 246)*
 - Coming off a nine-win season, one would assume improvement is hard to achieve in 2026, but the ‘Bows have everything they need to get it done. *(p. 246)*
 - He also has a plethora of weapons at his disposal to make the dream of Hawaii winning a championship tangible. *(p. 246)*
+- Not only is this team worth playing Over on its win total, but they are a solid bet to be the Mountain West champion. *(p. 246)*
 - Improvement in the passing should largely be expected given his pedigree, but can Alejado add another dynamic to his game on the ground with a healthy ankle this season? *(p. 247)*
 - In every season since, Hawaii has allowed fewer points and yards per game, improved in yards per play each season and has seen the sack total climb from just 17 in 2022 to 30 last season. *(p. 247)*
 - Hawaii does not need to be a shutdown unit by any stretch, so if they can improve or even maintain the production from last season, this unit should be a strength. *(p. 247)*
 - Hawaii has achieved a winning record in Mountain West play just three times since joining the conference in 2012, one of which occurred last season. *(p. 247)*
 - Chang has improved his record every season at the helm. *(p. 247)*
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -337,6 +337,8 @@ No source conflict identified for this team.
 | 8, 11, 14, 15, 18, 40, 205, 236, 237, 244, 248, 250, 252, 253, 254, 256, 257, 258, 260, 262, 279 | Other pages naming this team |
 
 This team is named in **37 sentences across 24 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 11, 14, 15, 18, 40, 205, 236, 237, 244, 248, 250, 252, 253, 254, 256, 257, 258, 260, 262, 279.
 
 ## 29. Cross-Links
 

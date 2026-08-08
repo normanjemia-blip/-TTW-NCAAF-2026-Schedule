@@ -295,7 +295,13 @@ As printed on p. 55. Each category carries a value and a national rank.
 
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 7.5**.
+- It is often bittersweet for a Group of Six program when a head coach is having a lot of success. *(p. 54)*
+- If he has similar success this season, it will be a thoroughly impressive coaching job with virtually none of last season’s major contributors back in the fold. *(p. 54)*
+- The ECU run game actually fell from 4.8 yards per carry to 4.1, so that has a good chance to go back up. *(p. 55)*
+- Katin Houser, another portal find by Harrell, who really seems to have his finger on the pulse of free agency, was very solid last season. *(p. 55)*
+- Whether it’s Williams or Griffis, good numbers should come again. *(p. 55)*
 - It does need to be said that the Pirates allowed just 390 yards in their wins over Campbell and Coastal Carolina and 71 rushing yards on 53 carries, so their conference numbers weren’t nearly as strong as the full body of work suggests. *(p. 55)*
+- Aldridge has been working at conference rival East Carolina under head coach Blake Harrell, who has proven to be an outstanding defensive mind and a pretty darn good HC. *(p. 67)*
 - Katin Houser returns to the Big Ten (Michigan State) after starting for the better part of two seasons at East Carolina, where he went 13-6 as a starter. *(p. 150)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -343,6 +349,8 @@ No source conflict identified for this team.
 | 10, 20, 41, 60, 67, 68, 69, 70, 72, 150, 151, 185, 305, 330 | Other pages naming this team |
 
 This team is named in **17 sentences across 16 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 20, 41, 60, 67, 68, 69, 70, 72, 150, 151, 185, 305, 330.
 
 ## 29. Cross-Links
 

@@ -308,7 +308,13 @@ As printed on p. 239. Each category carries a value and a national rank.
 
 - Makinen projects **8.2 wins** against a posted total of 7.5 — **+0.7** in this team's favour.
 - The team page recommends **OVER 7.5**.
+- It will take time for things to come together and the opener against Michigan State may not be pretty, especially for a defense that allowed just 13.3 PPG and 96 rushing yards per game last season, but Jacobs seems like a good hire and there’s at least some familiarity thanks to all the transfers from a team that finished in the FCS Top 25 each of the last two seasons. *(p. 238)*
 - It’s hardly a surprise, as Candle left when a lot of his players were running out of eligibility and a head coach leaving means that the transfer portal is wide open. 247Sports lists 37 transfers for the Rockets, who have the third-best MAC class per their ranking. *(p. 239)*
+- CONNECTICUT – UNDER 5.5 WINS New head coach Jason Candle spent a decade at Toledo, and it was a very successful run, as he went 81-44 and the Rockets finished at least .500 in every season. *(p. 24)*
+- Candle went 81-44 at Toledo and had no problems succeeding Matt Campbell with the newfound success he brought to the Rockets. *(p. 33)*
+- Many believe that Jason Candle is a good hire, but he’s had a knack for losing games as a favorite over the course of his career at Toledo and the Huskies have basically nobody back from last season’s team. *(p. 209)*
+- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
+- The no-show against Central Michigan the week after the Toledo game was also a good teaching moment for everybody. *(p. 221)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -352,6 +358,8 @@ No source conflict identified for this team.
 | 6, 24, 27, 32, 33, 34, 107, 209, 210, 211, 216, 220, 221, 228, 231, 233, 234, 236, 274 | Other pages naming this team |
 
 This team is named in **41 sentences across 22 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 24, 27, 32, 33, 34, 107, 209, 210, 211, 216, 220, 221, 228, 231, 233, 234, 236, 274.
 
 ## 29. Cross-Links
 

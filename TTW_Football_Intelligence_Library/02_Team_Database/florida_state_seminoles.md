@@ -265,7 +265,10 @@ As printed on p. 89. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-Not addressed in guide.
+- Recommendation is Under 6.5 wins, though the guide explicitly says this is not a bet — the vig is cost-prohibitive and Florida State projects to have a good defense. *(p. 88)*
+- First-year coordinator Tony White built a genuinely good unit. The guide acknowledges Florida State was shredded by Florida in the finale and gave up 46 to Virginia, while noting most data points were solid: White cut 6.0 points per game, 1.0 yards per carry and 0.8 yards per play year over year. Only one player had more than 50 tackles and he is gone, but the sack leader, the tackles-for-loss leader and a 133-tackle addition from Southern Miss give a good foundation — one the guide says they are likely to need. *(p. 89)*
+
+> *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 

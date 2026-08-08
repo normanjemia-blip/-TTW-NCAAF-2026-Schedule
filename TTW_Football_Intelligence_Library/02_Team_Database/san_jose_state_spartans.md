@@ -296,12 +296,16 @@ As printed on p. 257. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- That was due to a surprising offense and a favorable schedule, and neither seem to be in the cards for San Jose State this season. *(p. 256)*
 - They must host an experienced Fresno State squad in non- conference play, as well as Wyoming, New Mexico, UNLV and North Dakota State. *(p. 256)*
 - None of that includes spots against Eastern Michigan and UTEP on the road, which are coin flips at best. *(p. 256)*
 - He likely gives the Spartans the best chance in this offense. *(p. 257)*
 - Only three full-time starters return from a three- win team. *(p. 257)*
+- Niumatalolo is a good coach who surprised the entire conference with a seven-win season when he arrived. *(p. 257)*
 - He has continuity on his staff, but he’ll have to do one of his best coaching jobs of a long career to get this group into the mix in the Mountain West. *(p. 257)*
 - For the third straight season, head coach Manny Diaz had to hit the transfer portal to find a QB, eventually going with San Jose State’s Walker Eget to replace Darian Mensah, who had a strong 34/6 TD/INT ratio last season. *(p. 86)*
+- After a wildly successful run at San Jose State, he was tasked with filling Jedd Fisch’s massive shoes in Tucson. *(p. 116)*
+- Smith (43-688-3) posted good numbers at San Jose State. *(p. 179)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -348,6 +352,8 @@ No source conflict identified for this team.
 | 5, 27, 34, 40, 86, 116, 179, 218, 237, 260, 270, 273 | Other pages naming this team |
 
 This team is named in **23 sentences across 14 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 27, 34, 40, 86, 116, 179, 218, 237, 260, 270, 273.
 
 ## 29. Cross-Links
 

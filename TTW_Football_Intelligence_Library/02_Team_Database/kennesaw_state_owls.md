@@ -261,8 +261,11 @@ As printed on p. 195. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The best story in the Group of Five may very well have been Kennesaw State and there were not enough people talking about it. *(p. 194)*
+- But, as the team got closer, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023. *(p. 194)*
 - Even though there is only one clear loss on the schedule in non-conference as opposed to what we all assumed was two last season (only lost 10-9 to Wake Forest), the conference schedule is tough and it does seem like the teams in some of the toss-up games may have improved more than the Owls. *(p. 194)*
+- This is not a good offensive conference, but the Owls gave up more than 400 yards per game and were outgained by 0.5 yards per carry. *(p. 195)*
 - An eight-win improvement year over year was just incredible, especially with two Power Four teams to start the season in Wake Forest and Indiana. *(p. 195)*
+- It was a truly impressive season for Kennesaw State. *(p. 187)*
 - Kennesaw State’s eight-win improvement was a shocker, but so was Liberty’s complete reversal of fortunes, going from 8-4 to 4-8, as head coach Jamey Chadwell posted his worst record since 2017 when he was the interim HC at Coastal Carolina while Joe Moglia tended to health issues and the Chanticleers went 3-9. *(p. 196)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -308,6 +311,8 @@ No source conflict identified for this team.
 | 107, 188, 189, 190, 193, 196, 215, 308 | Other pages naming this team |
 
 This team is named in **18 sentences across 11 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 107, 188, 189, 190, 193, 196, 215, 308.
 
 ## 29. Cross-Links
 

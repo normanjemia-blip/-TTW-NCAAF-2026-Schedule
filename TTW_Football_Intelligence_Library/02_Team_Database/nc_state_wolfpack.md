@@ -267,6 +267,7 @@ As printed on p. 97. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 7.5**.
+- Schedule detail: the trip to Stanford follows a bye and Cal travels across the country the next week; Vanderbilt away is tough while App State at home is winnable. The guide notes this has been a high-floor programme and the floor is higher still this year, even with a projection of 7.09 wins. *(p. 96)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

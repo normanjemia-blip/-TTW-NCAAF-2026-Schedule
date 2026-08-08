@@ -278,6 +278,8 @@ As printed on p. 75. Each category carries a value and a national rank.
 - Some impact guys will emerge on both sides of the ball, but nobody on the two-deep is “proven”. *(p. 75)*
 - Russ is a longtime linebackers coach and had some seasons as the DC in Colorado Springs, but plotting a defensive course on a triple-option team is far different than what he experienced in Birmingham. *(p. 75)*
 - Grantham has been a lot of places and, while his scheme might be kind of complex, he’s certainly the best DC that the Blazers have had in a long time. *(p. 75)*
+- Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. *(p. 52)*
+- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -323,6 +325,8 @@ No source conflict identified for this team.
 | 10, 33, 52, 57, 64, 65, 68, 150, 205, 245, 336 | Other pages naming this team |
 
 This team is named in **21 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 33, 52, 57, 64, 65, 68, 150, 205, 245, 336.
 
 ## 29. Cross-Links
 

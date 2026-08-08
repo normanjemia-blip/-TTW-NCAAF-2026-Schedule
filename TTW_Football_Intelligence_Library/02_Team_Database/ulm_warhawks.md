@@ -264,6 +264,7 @@ As printed on p. 337. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- Now in Year 3, DC Earnest Hill at least has his top two tacklers back and a handful of others who played a good amount, plus JUCO transfers. *(p. 337)*
 - I’m not sure if it’s something about going down to Monroe early in the season when it’s still hot and humid or what, but the team plays its best football in September and early October before falling off the face of the earth. *(p. 337)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -314,6 +315,8 @@ No source conflict identified for this team.
 | 74, 75, 298 | Other pages naming this team |
 
 This team is named in **6 sentences across 5 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 74, 75, 298.
 
 ## 29. Cross-Links
 

@@ -296,6 +296,7 @@ As printed on p. 275. Each category carries a value and a national rank.
 
 - Makinen projects **7.4 wins** against a posted total of 6.5 — **+0.9** in this team's favour.
 - Under 7.5 It’s tough to be too optimistic about San Diego State when its quarterback is surrounded by questions and its defense is in rebuilding mode. *(p. 274)*
+- Lewis is a good coach, but this season could turn out to be a disappointment and some regression seems imminent. *(p. 274)*
 - A shoulder injury that bothered Denegal last season is apparently repaired, so he should improve on modest numbers (58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions). *(p. 275)*
 - However, only two starters return, after last year’s unit returned 10 starters. *(p. 275)*
 - Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
@@ -349,6 +350,8 @@ No source conflict identified for this team.
 | 165, 238, 243, 266, 270, 271, 276, 279, 326 | Other pages naming this team |
 
 This team is named in **25 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 165, 238, 243, 266, 270, 271, 276, 279, 326.
 
 ## 29. Cross-Links
 

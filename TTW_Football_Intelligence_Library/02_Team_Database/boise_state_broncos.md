@@ -276,6 +276,8 @@ As printed on p. 267. Each category carries a value and a national rank.
 - The team page recommends **OVER 7.5**.
 - Boise has been winning big for a long time under multiple head coaches, from Dirk Koetter to Dan Hawkins to Chris Petersen to Bryan Harsin and now Spencer Danielson, who guided the Broncos to three consecutive Mountain West championships. *(p. 266)*
 - Danielson has a senior quarterback and an experienced team that deserves to be the Pac- 12 favorite. *(p. 266)*
+- Over 7.5 Aside from the season opener at Oregon, which is a 24.5-point favorite, every other game on the schedule is winnable for the Broncos. *(p. 266)*
+- Madsen is capable of more than he showed last season and Boise’s success will depend a lot on how he plays. *(p. 267)*
 - Boise returns two of the league’s top linemen — senior guard Roger Carreon and senior tackle Daylon Metoyer — and welcomes the addition of senior tackle Tyler Ethridge, a transfer from Division II Colorado State-Pueblo. *(p. 267)*
 - Edge rusher Jayden Virgin- Morgan returns after leading the team with six sacks. *(p. 267)*
 - While four of the top five tacklers from last season are gone, junior linebacker Boen Phelps and senior cornerback Jaden Mickey are experienced leaders on a defense that must improve after allowing 24 PPG. *(p. 267)*
@@ -329,6 +331,8 @@ No source conflict identified for this team.
 | 5, 6, 13, 14, 20, 22, 24, 35, 46, 58, 240, 243, 258, 268, 271, 274, 275, 276, 278, 279 | Other pages naming this team |
 
 This team is named in **37 sentences across 23 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 6, 13, 14, 20, 22, 24, 35, 46, 58, 240, 243, 258, 268, 271, 274, 275, 276, 278, 279.
 
 ## 29. Cross-Links
 

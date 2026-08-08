@@ -290,13 +290,15 @@ As printed on p. 345. Each category carries a value and a national rank.
 - Makinen projects **7.4 wins** against a posted total of 6.5 — **+0.9** in this team's favour.
 - The team page recommends **OVER 6.5**.
 - One of the nation’s top coaching jobs came from Gerad Parker, who captained a four-win improvement at Troy despite a bunch of cluster injuries on the offensive line and at the quarterback position. *(p. 344)*
+- Usually that kind of good fortune regresses to the mean, but the never-ending swarm of injury bugs last season isn’t a guarantee to come back this season. *(p. 344)*
+- A couple starters are back on the offensive line, not that that’s necessarily a good thing, and the transfer portal was heavily-utilized to fill out the rest. *(p. 345)*
+- Kilcrease and Crowder must be really good friends. *(p. 345)*
 - DC Dontae Wright led some nice year over year improvements, going from 28.4 PPG in 2024 to 23.9 PPG last season, plus the team shaved more than 6% off of their completion percentage against, had 18 more sacks, and allowed 0.4 fewer yards per play. *(p. 345)*
 - Based on the improvement from 2024 to 2025, I’m convinced this staff is adept at finding talent in the portal. *(p. 345)*
 - Liam Szarka is back at quarterback to lead that unit, and the defense should be improved with Steve Russ, a former Troy Calhoun staff member, as defensive coordinator. *(p. 15)*
+- He was very successful at Troy with three 10-win seasons in a row before heading to Morgantown. *(p. 29)*
 - While he inherited a mess at Troy from Chip Lindsey, he inherited a strong foundation at Tulane thanks to Willie Fritz. *(p. 36)*
 - Sumrall inherited a pretty strong foundation and brought over some of his talent from Troy, a luxury that Will Hall may not have. *(p. 70)*
-- Troy Calhoun has what he needs to get back to those winning ways this season. *(p. 244)*
-- He took over a Troy program that went 15-20 in the three previous seasons and went 23-5 while winning the Sun Belt twice. *(p. 291)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -343,6 +345,8 @@ No source conflict identified for this team.
 | 11, 15, 29, 36, 63, 70, 111, 183, 243, 244, 279, 291, 318, 322, 334, 336 | Other pages naming this team |
 
 This team is named in **29 sentences across 19 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 15, 29, 36, 63, 70, 111, 183, 243, 244, 279, 291, 318, 322, 334, 336.
 
 ## 29. Cross-Links
 

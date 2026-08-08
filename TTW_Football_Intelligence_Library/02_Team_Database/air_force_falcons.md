@@ -288,13 +288,13 @@ As printed on p. 245. Each category carries a value and a national rank.
 - After winning 40 games in four seasons — excluding the COVID-shortened season — the Falcons mustered just nine in the last two. *(p. 244)*
 - Troy Calhoun has what he needs to get back to those winning ways this season. *(p. 244)*
 - An experienced quarterback, returning production from an offense that was one of the most efficient in the country and no expectations. *(p. 244)*
+- Over 7.5 The key to success for Air Force will be the defense. *(p. 244)*
 - The offensive line is strong, and Szarka is the best quarterback Air Force has had in years. *(p. 244)*
 - His return — along with that of Allen — could mean this is going to be one of the best offenses in the country once again. *(p. 244)*
+- Duquesne, UConn, SJSU and UTEP make up the other winnable opportunities at home. *(p. 244)*
+- They ranked 11th in the country EPA per play, and 15th in both EPA per play when rushing the football and rushing success rate. *(p. 245)*
 - It will be hard to match the production of one of the best offenses in the country, but this is potentially the best unit in the conference. *(p. 245)*
 - While the Falcons had one of the best offenses in the country, they quite literally had the worst defense. *(p. 245)*
-- Given the production on offense and the potential for improvement on defense, this seems like a team that could make a surprising appearance in the Mountain West Championship, something that hasn’t happened since 2015. *(p. 245)*
-- In Szarka’s starts, Air Force averaged 39 PPG, and with some small improvements this Air Force team will be flying high. *(p. 11)*
-- Air Force could absolutely find a way to the table of contenders by season’s end. *(p. 243)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -342,6 +342,8 @@ No source conflict identified for this team.
 | 11, 14, 15, 75, 210, 231, 248, 250, 252, 253, 254, 256, 260, 262 | Other pages naming this team |
 
 This team is named in **33 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 14, 15, 75, 210, 231, 248, 250, 252, 253, 254, 256, 260, 262.
 
 ## 29. Cross-Links
 

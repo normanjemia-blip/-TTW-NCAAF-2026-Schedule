@@ -271,15 +271,15 @@ As printed on p. 261. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 3.5**.
 - This is a roster with some upside and a good amount of returning production. *(p. 260)*
+- They were a sneaky solid defense at times last season, and the staff has done a decent job plugging some holes with the transfer portal. *(p. 260)*
 - There is certainly a strong chance this is not the squad that finishes last in the Mountain West. *(p. 260)*
 - Over 3.5 There is certainly enough on this roster on offense to be somewhat optimistic about their chances of climbing out of the national cellar when it comes to production. *(p. 260)*
 - A lot will lie on the shoulders of Colson at quarterback, but he has the upside. *(p. 260)*
+- Head coach Scotty Walden named Colson the starter in May, and with that comes a Herculean task: turn around an offense which was 131st in EPA per play and 129th in success rate. *(p. 261)*
 - It’s hard to project what an offense will do when not a single returning starter is back, but on paper UTEP could have done much worse in trying to improve its ground game. *(p. 261)*
 - UTEP quietly put together a strong defensive campaign in 2025. *(p. 261)*
-- Middle linebacker Jayden Wilson returns after finishing second in tackles (92) and third in tackles for loss (7.5). *(p. 261)*
-- There is certainly a strong chance this could be an above-average unit in the Mountain West. *(p. 261)*
-- The home schedule is far from daunting — especially non-conference games against Fordham and Sacramento State — but Wyoming, Nevada and UTEP all have potential for improvement this season. *(p. 252)*
-- None of that includes spots against Eastern Michigan and UTEP on the road, which are coin flips at best. *(p. 256)*
+- The Miners finished 14th in the country in opponent EPA per play and 20th in success rate. *(p. 261)*
+- They placed in the 97th percentile in explosive play rate allowed and the 94th percentile in late-down success rate. *(p. 261)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -324,6 +324,8 @@ No source conflict identified for this team.
 | 187, 196, 201, 244, 246, 252, 256 | Other pages naming this team |
 
 This team is named in **15 sentences across 10 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 187, 196, 201, 244, 246, 252, 256.
 
 ## 29. Cross-Links
 

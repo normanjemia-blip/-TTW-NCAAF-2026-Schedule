@@ -262,8 +262,10 @@ As printed on p. 279. Each category carries a value and a national rank.
 
 - Makinen projects **4.7 wins** against a posted total of 4.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 4.5**.
+- The interior line is manned by veterans and appears to be solid. *(p. 279)*
 - There were positive signs late in the season, however, and one was in Mendenhall’s best win, 28-17 at Fresno State. *(p. 279)*
 - Mendenhall was known for producing strong defenses at BYU, but his reputation on that side of the ball has faded the past few years. *(p. 279)*
+- Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? *(p. 272)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -307,6 +309,8 @@ No source conflict identified for this team.
 | 37, 203, 243, 268, 272, 274, 342 | Other pages naming this team |
 
 This team is named in **23 sentences across 10 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 37, 203, 243, 268, 272, 274, 342.
 
 ## 29. Cross-Links
 

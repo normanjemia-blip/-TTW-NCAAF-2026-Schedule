@@ -269,8 +269,11 @@ As printed on p. 223. Each category carries a value and a national rank.
 
 - Makinen projects **6.2 wins** against a posted total of 5.5 — **+0.7** in this team's favour.
 - The team page recommends **OVER 6.5**.
+- November roadies at Ball State and Akron are extremely winnable games and even the Week 2 trip to FIU has the chance for a happy flight home. *(p. 222)*
 - With two FCS games, Buffalo needs to get to seven wins for a bowl, so unless they can get a waiver for winning six games if two of them are the FCS games, that should be a motivating factor. *(p. 222)*
 - One area of the team that absolutely did improve last season was the special teams. *(p. 223)*
+- Special teams are a very underrated part of the game, especially in college football and especially with so much roster turnover, but being good in that area can absolutely elevate the floor of a team. *(p. 223)*
+- Expect the Bulls to be good there again. *(p. 223)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -318,6 +321,8 @@ No source conflict identified for this team.
 | 10, 13, 41, 46, 97, 263 | Other pages naming this team |
 
 This team is named in **17 sentences across 8 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 13, 41, 46, 97, 263.
 
 ## 29. Cross-Links
 

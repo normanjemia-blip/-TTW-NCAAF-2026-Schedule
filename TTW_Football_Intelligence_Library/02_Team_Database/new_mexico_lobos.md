@@ -297,13 +297,14 @@ As printed on p. 251. Each category carries a value and a national rank.
 - Makinen projects **8.4 wins** against a posted total of 7.5 — **+0.9** in this team's favour.
 - Now, New Mexico is the favorite with one of the most experienced rosters in the country. *(p. 250)*
 - Perhaps some improvement could mean the team handles that role much better, but with the continuity on the roster, the flaws remain the same as well. *(p. 250)*
+- New Mexico is a good team, but most of its damage dealt last season was as an underdog. *(p. 250)*
+- Layne is back after leading the Lobos to nine wins and a bowl berth, but despite his success, he might not be a lock to be the starting quarterback. *(p. 251)*
 - Moga is a strong athlete with enough upside to convince Oregon to recruit him at one point. *(p. 251)*
 - The Lobos return six starters from last season’s unit. *(p. 251)*
 - Their returning production is a strength on offense, but is it on defense? *(p. 251)*
 - New Mexico was very strong in limiting big plays, finishing in the 67th percentile in explosive play rate allowed. *(p. 251)*
+- However, it was in the 19th percentile in non-explosive EPA per play and the 36th percentile in late-down success rate. *(p. 251)*
 - Linebacker is the position of strength for this group with the Mountain West Defensive Player of the Year back in the fold, but the team lost a good amount of production along the defensive line. *(p. 251)*
-- And in the newly reshaped Mountain West, the Lobos have both UNLV (the favorites) and NDSU (the third-best price) at home, where New Mexico was a perfect 6-0 in 2025. *(p. 9)*
-- They must host an experienced Fresno State squad in nonconference play, as well as Wyoming, New Mexico, UNLV and North Dakota State. *(p. 256)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -351,6 +352,8 @@ No source conflict identified for this team.
 | 6, 9, 14, 15, 24, 159, 244, 245, 247, 248, 252, 253, 254, 256, 258, 260, 262, 278 | Other pages naming this team |
 
 This team is named in **38 sentences across 21 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 9, 14, 15, 24, 159, 244, 245, 247, 248, 252, 253, 254, 256, 258, 260, 262, 278.
 
 ## 29. Cross-Links
 

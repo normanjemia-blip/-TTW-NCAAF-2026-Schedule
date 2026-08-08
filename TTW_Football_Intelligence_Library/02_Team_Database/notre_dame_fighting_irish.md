@@ -323,9 +323,12 @@ As printed on p. 213. Each category carries a value and a national rank.
 - The team page recommends **OVER 11.5**.
 - The schedule surely has a lot to do with that, as anything under 11 wins would be a bit of a surprise, so he should be putting up numbers and winning games for a very visible program. *(p. 213)*
 - Plus, the offensive line looks very good, including the return of Charles Jagusah. *(p. 213)*
+- Two running backs were drafted in the NFL’s first round and both (Jeremiyah Love and Jadarian Price) were from Notre Dame, yet that position is still loaded with talent and features Aneyas Williams, Kedren Young and Nolan James. *(p. 18)*
 - Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
 - Winning nine games will be tough with the Cougars’ difficult schedule, but they do get Notre Dame at LaVell Edwards Stadium. *(p. 122)*
+- Defensive coordinator Aaron Henry left for a job on the Notre Dame staff and Bobby Hauck, after a successful eight-year second act as Montana head coach, comes in to reinvent what was a stale Illinois defense. *(p. 150)*
 - This year, Maryland returns 71% of its production (second nationally to Notre Dame per ESPN’s Bill Connelly). *(p. 156)*
+- Based on how good Notre Dame looks this season, it would be a major upset if they aren’t in the field. *(p. 209)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -378,6 +381,8 @@ No source conflict identified for this team.
 | 7, 8, 9, 10, 12, 17, 18, 20, 22, 34, 38, 41, 45, 46, 60, 64, 80, 92, 94, 98, 100, 104, 106, 107, 122, 150, 156, 161, 184, 220, 238, 254, 267, 295, 344 | Other pages naming this team |
 
 This team is named in **75 sentences across 38 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 7, 8, 9, 10, 12, 17, 18, 20, 22, 34, 38, 41, 45, 46, 60, 64, 80, 92, 94, 98, 100, 104, 106, 107, 122, 150, 156, 161, 184, 220, 238, 254, 267, 295, 344.
 
 ## 29. Cross-Links
 

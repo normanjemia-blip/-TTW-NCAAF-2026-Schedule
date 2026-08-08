@@ -261,6 +261,7 @@ As printed on p. 127. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
+- Their success took them to the NFL, and the guide is blunt that 2025 was a disaster: no identity, 3-9 overall and 1-8 in the Big 12. *(p. 126)*
 - Marion's fast-paced power rushing offense worked at UNLV and Sacramento State, and the guide's open question is whether it translates to this level. The scheme uses multiple backs and relies on fresh legs to break long runs inside, with rushing success setting up deep shots as a spread variation. Its conclusion is conditional on the line: given strong play up front there is no reason it should not work, and Colorado has two potential pros at tackle in Leon Bell and Bo Hughley plus proven starter Demetrius Hunter at center. *(p. 127)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*

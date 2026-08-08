@@ -264,6 +264,7 @@ As printed on p. 339. Each category carries a value and a national rank.
 - On the heels of their best season since 2019, the Bulldogs are now in the Sun Belt. *(p. 338)*
 - The offense finally carried its weight to help out a defense that was very strong for the second straight season, even with a defensive coordinator change. *(p. 338)*
 - Safety Jakari Foster was one of Conference USA’s best players and defensive backs Cedric Woods and Jhamal Shelby had 17 combined pass breakups. *(p. 339)*
+- Over 7.5 The schedule is kind to Rahne this season, as James Madison and Marshall go to Norfolk and the non-conference road game at UConn, albeit randomly timed, is very winnable, along with hapless Georgia State, newcomer Louisiana Tech, and a Coastal Carolina team in a transitional phase. *(p. 330)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -315,6 +316,8 @@ No source conflict identified for this team.
 | 187, 189, 196, 201, 330 | Other pages naming this team |
 
 This team is named in **13 sentences across 8 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 187, 189, 196, 201, 330.
 
 ## 29. Cross-Links
 

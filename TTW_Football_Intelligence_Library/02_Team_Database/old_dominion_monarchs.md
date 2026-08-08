@@ -286,7 +286,13 @@ As printed on p. 331. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 7.5**.
 - Ricky Rahne’s program put it all together and improved by five wins to finish 10-3. *(p. 330)*
+- He’s hardly the only loss, as OC Kevin Decker now holds the same role at Memphis, but Rahne has a favorable schedule to work with. *(p. 330)*
+- Over 7.5 The schedule is kind to Rahne this season, as James Madison and Marshall go to Norfolk and the non-conference road game at UConn, albeit randomly timed, is very winnable, along with hapless Georgia State, newcomer Louisiana Tech, and a Coastal Carolina team in a transitional phase. *(p. 330)*
+- Devin Roche had 5.7 yards per carry, not nearly as good as Trequan Jones’ 7.5 yards per pop, plus JUCO transfer Trey Hall was originally an Ole Miss commit. *(p. 331)*
+- Henicle is the holdover and the guy who knows this system and scheme, but he also wasn’t very good last season. *(p. 331)*
+- That said, Henicle was recruited to some FCS schools with good rushing attacks and also Army, so he was clearly viewed as an impact QB in the ground game. *(p. 331)*
 - Seiler also sees the return of two linebackers who started in 2024, but missed most of last season, and has returning starters at each level of the defense. *(p. 331)*
+- They also face Syracuse and Old Dominion at The Rent with those two teams off of byes, adding an extra challenge to two winnable home games. *(p. 210)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -336,6 +342,8 @@ No source conflict identified for this team.
 | 8, 11, 20, 59, 73, 184, 210, 318, 326, 328, 338, 342, 345 | Other pages naming this team |
 
 This team is named in **18 sentences across 15 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 11, 20, 59, 73, 184, 210, 318, 326, 328, 338, 342, 345.
 
 ## 29. Cross-Links
 

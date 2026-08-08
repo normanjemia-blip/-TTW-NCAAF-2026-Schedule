@@ -264,6 +264,7 @@ As printed on p. 161. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 3.5**.
 - The guide states the circumstances plainly: Fitzgerald was terminated at his alma mater three years ago after significant hazing allegations were reported, sued for wrongful termination, and settled last August, clearing his return to coaching. *(p. 160)*
+- Its edge is that the market may be underestimating Fitzgerald as a proven programme builder, and it credits a staff blending holdovers for continuity with younger hires — former Spartan linebacker Max Bullough, offensive line coach Nick Tabacca and safeties coach James Adams. *(p. 160)*
 - Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*

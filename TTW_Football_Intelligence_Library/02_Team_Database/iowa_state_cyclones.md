@@ -259,8 +259,12 @@ As printed on p. 131. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- Iowa State hired a proven winner in Jimmy Rogers, who won a Division I championship with South Dakota State in 2023 and did a solid job in his one season at Washington State. *(p. 130)*
 - Rogers brought coordinator Jesse Bobbit, whose Washington State defense performed at an elite level, and hit the portal extremely hard for a mix of high-major players needing opportunity and successful lower-level players wanting a bigger stage. *(p. 130)*
+- The guide is careful not to write him off — it says ruling out Rogers turning Iowa State into a winner would be foolish because good coaches win in Ames — while judging that it may take more than a season. *(p. 130)*
 - A conference-level argument is added: with so many Big 12 teams looking to make leaps, Iowa State could be the punching bag. Its conclusion allows for a strong 2027 while expecting a trying season now. *(p. 130)*
+- The guide names defense as the one place Iowa State could thrive. Bobbit ran a top-50 unit by Adjusted EPA per play allowed at -0.05, and only 25 teams allowed fewer points than Washington State's 20.2. Most of Campbell's players are gone, but the Cyclones imported key Washington State pieces plus notable contributors from smaller programmes. It expects the defense to be in a very good place even after losing transfer safety Braden Awls for the season to a spring ACL tear. *(p. 131)*
+- Iowa State added several linemen with starting experience — Braden Smith from Tarleton State, Caden Mass from Sioux Falls, Colin Amick from Montana and Jake Taylor from Oklahoma. The guide's reservation is precise: the first three faced much weaker competition, so handling Big 12 size is an open question, and Taylor missed all of last year after four starts at Oklahoma, so there is no recent evidence. It credits the hole-filling and depth while stating plainly that little is known about how this will look, and that failure here means a very long season. *(p. 131)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

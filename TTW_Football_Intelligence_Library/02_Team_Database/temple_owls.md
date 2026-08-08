@@ -265,7 +265,9 @@ As printed on p. 69. Each category carries a value and a national rank.
 - Makinen projects **5.6 wins** against a posted total of 5.5 — **+0.1** in this team's favour.
 - Rice and FAU seemed to make some progress towards the future, but Temple may have done the best in the present. *(p. 68)*
 - With Keeler and former Montana State OC Tyler Walker, the offense improved by more than a touchdown per game. *(p. 68)*
+- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
 - The top of the American doesn’t seem as strong this season, but the conference as a whole seems better than it was last year, so Temple may have closer games to navigate. *(p. 69)*
+- Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. *(p. 52)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -312,6 +314,8 @@ No source conflict identified for this team.
 | 13, 52, 54, 77, 164, 205 | Other pages naming this team |
 
 This team is named in **19 sentences across 8 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 13, 52, 54, 77, 164, 205.
 
 ## 29. Cross-Links
 

@@ -271,12 +271,15 @@ As printed on p. 203. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **4.6 wins** against a posted total of 4.5 — **+0.1** in this team's favour.
+- The job that Jerry Kill did in Las Cruces seems to get more and more impressive with each passing day. *(p. 202)*
+- This is a very difficult job and success has been hard to come by to say the least. *(p. 202)*
 - Aside from Kill’s 7-6 and 10-5 campaigns, the program has one other winning season (2017) dating back to 2002. *(p. 202)*
 - Frankly, it was surprising to see NMSU improve their record at all last season, going from 3-9 to 4-8, as they had as many interceptions (16) as touchdowns and had the absolute worst rushing offense in the nation. *(p. 202)*
 - Under 4.5 Perhaps this is Sanchez’s best team, but others in C-USA look improved, too, and every road trip is a hike for this team. *(p. 202)*
 - Truth be told, while offensive linemen aren’t really classified as skill-position players, this is the unit of the offense that looks the most improved with some starting experience at the FCS and JUCO ranks and one returning starter. *(p. 203)*
 - That’s not to say that the offense will suddenly put up great numbers, but the running game should at least improve. *(p. 203)*
 - While the defensive numbers improved greatly year over year, with nearly nine fewer PPG allowed and 0.8 fewer YPP, it really came down to simply forcing more turnovers. *(p. 203)*
+- As encouraging as all of those things are, and there are a good number of returning starters and contributors, the defense still only managed 19 sacks and only has 33 sacks over the last two seasons. *(p. 203)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -322,6 +325,8 @@ No source conflict identified for this team.
 | 189, 196, 204, 333, 339 | Other pages naming this team |
 
 This team is named in **10 sentences across 7 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 189, 196, 204, 333, 339.
 
 ## 29. Cross-Links
 

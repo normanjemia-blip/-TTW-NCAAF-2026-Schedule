@@ -238,6 +238,7 @@ This is the guide's own note, not a gap in extraction.
 - The Mountain West is no power conference, but these are teams built with former Power Four players that have some strong talent. *(p. 252)*
 - That’s road trips to all of the contenders. *(p. 252)*
 - The home schedule is far from daunting — especially non-conference games against Fordham and Sacramento State — but Wyoming, Nevada and UTEP all have potential for improvement this season. *(p. 252)*
+- The Bison have expectations — both internally and externally — of success in the Mountain West, but this is a higher level of competition. *(p. 253)*
 - NDSU is certainly capable of winning this league, but the road will be much tougher. *(p. 253)*
 - And in the newly reshaped Mountain West, the Lobos have both UNLV (the favorites) and NDSU (the third-best price) at home, where New Mexico was a perfect 6-0 in 2025. *(p. 9)*
 - Entz is used to winning, having brought North Dakota State two FCS Championships. *(p. 13)*
@@ -291,6 +292,8 @@ No source conflict identified for this team.
 | 5, 7, 9, 13, 14, 15, 46, 155, 161, 167, 210, 244, 245, 247, 248, 250, 254, 256, 258, 260, 262, 270 | Other pages naming this team |
 
 This team is named in **52 sentences across 25 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 7, 9, 13, 14, 15, 46, 155, 161, 167, 210, 244, 245, 247, 248, 250, 254, 256, 258, 260, 262, 270.
 
 ## 29. Cross-Links
 

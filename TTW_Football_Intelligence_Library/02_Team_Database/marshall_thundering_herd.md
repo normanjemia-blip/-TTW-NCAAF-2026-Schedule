@@ -285,9 +285,14 @@ As printed on p. 329. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The first is that the athletic department got what they deserved for letting Charles Huff walk after winning the Sun Belt Conference with a 10-3 record. *(p. 328)*
+- Given that it was a rebuilding year, Tony Gibson actually did a pretty good job to get the team to where he did, even if the season ended in disappointing fashion, losing to Georgia Southern as a 10-point favorite in Huntington with a bowl game on the line. *(p. 328)*
+- They draw South Alabama and UL Monroe from the West Division and all of their home games are winnable in conference play, plus they host a FCS team and a poor Middle Tennessee squad. *(p. 328)*
+- The defense took a massive step back last season for Marshall, but the offense was nearly as good as the season prior. *(p. 329)*
 - That said, WR was one of the focal points in the portal and TE Toby Payne is one of the best in the conference at his position. *(p. 329)*
 - They fell short of a bowl game and a winning record despite a +6 turnover margin. *(p. 329)*
 - The backup QBs are promising if Underwood flops, and leading rusher Jordan Marshall returns. *(p. 19)*
+- MEMPHIS – UNDER 7.5 WINS Charles Huff is making his third coaching stop in as many years after guiding Marshall and Southern Miss to successful seasons in 2024 and 2025. *(p. 25)*
+- Huff made a really, really good DC hire in Lance Guidry, who he worked with at Marshall and has been a DC at many different places. *(p. 59)*
 - The new staff wants Underwood to run more, but he does have help in that area with Jordan Marshall (932 yards, 10 TDs) and five-star freshman Savion Hiter behind an offensive line that returns four starters. *(p. 159)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -342,6 +347,8 @@ No source conflict identified for this team.
 | 10, 13, 19, 25, 29, 58, 59, 91, 159, 161, 163, 275, 330, 342 | Other pages naming this team |
 
 This team is named in **22 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 13, 19, 25, 29, 58, 59, 91, 159, 161, 163, 275, 330, 342.
 
 ## 29. Cross-Links
 

@@ -277,9 +277,12 @@ As printed on p. 65. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Rice has an enrollment under 4,000, strict academic requirements, and hasn’t had a winning season since 2014. *(p. 64)*
+- Under 3.5 Rice got a pretty favorable schedule last season, but that is not the case this season. *(p. 64)*
 - Quinton Jackson was the best player on offense for Rice last season with 889 yards and 4.9 yards per carry. *(p. 65)*
 - Brown could be a difference- maker as a better runner than Chase Jenkins, but Rice just might not be in the best conference for this. *(p. 65)*
 - Rice and FAU seemed to make some progress towards the future, but Temple may have done the best in the present. *(p. 68)*
+- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
+- Under 8.5 It’s always incredibly difficult for road teams to win games at Rice-Eccles Stadium, and Utah definitely has some impressive top-end talent on both sides of the ball. *(p. 144)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -330,6 +333,8 @@ No source conflict identified for this team.
 | 5, 52, 57, 68, 77, 144, 212, 240, 241, 270 | Other pages naming this team |
 
 This team is named in **23 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 52, 57, 68, 77, 144, 212, 240, 241, 270.
 
 ## 29. Cross-Links
 

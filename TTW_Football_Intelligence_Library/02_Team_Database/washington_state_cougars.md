@@ -304,13 +304,16 @@ As printed on p. 281. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.3 wins** against a posted total of 4.5 — **+0.8** in this team's favour.
+- Caden Pinnick arrives from UC Davis and his play will go a long way in determining how successful new coach Kirby Moore will be in his first season in Pullman. *(p. 280)*
 - Next up will be home games against Arizona and Fresno State, which could be the Pac-12’s second-best team. *(p. 280)*
 - The offense has the potential to be entertaining with Pinnick pulling the trigger, but the defense appears to be nowhere near as strong as it was last year and that’s a real problem. *(p. 280)*
+- The Cougars went a combined 15-11 the past two years and still have talent in the program, but Moore had to hit the transfer portal to replenish the roster and found a promising dual- threat quarterback to help the transition. *(p. 281)*
 - It’s doubtful Washington State will achieve a third straight winning season while rebuilding, so expect less from Moore’s first season. *(p. 281)*
 - The Cougars’ top receiver, senior speedster Tony Freeman, returns along with leading rusher Kirby Vorhees. *(p. 281)*
 - The offense brings back a few experienced players, including senior tackle Ashton Tripp, and welcomes Florida transfer receiver Tank Hawkins. *(p. 281)*
 - The offense will be the obvious strength of the team with Moore designing the plays and Pinnick, Vorhees and Freeman doing a majority of the playmaking. *(p. 281)*
-- Oregon State held Washington State to seven points in a late-season upset and showed improvement. *(p. 273)*
+- Bray was a good hire, but this defense has a long way to go, and the Cougars could get into many high-scoring games. *(p. 281)*
+- The hire was met with mixed feelings when Dave Clawson amicably parted ways with the program, but Dickert came over from Washington State and immediately had success. *(p. 112)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -358,6 +361,8 @@ No source conflict identified for this team.
 | 10, 25, 31, 35, 39, 45, 69, 112, 130, 131, 211, 266, 268, 272, 273, 274, 303, 331 | Other pages naming this team |
 
 This team is named in **39 sentences across 21 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 25, 31, 35, 39, 45, 69, 112, 130, 131, 211, 266, 268, 272, 273, 274, 303, 331.
 
 ## 29. Cross-Links
 

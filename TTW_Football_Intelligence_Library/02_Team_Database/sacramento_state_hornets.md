@@ -232,6 +232,9 @@ This is the guide's own note, not a gap in extraction.
 - Jackson was based on a California high school basketball coach who had a talented team that wasn’t showing up in the classroom and he put the season on hold to put academics first. *(p. 237)*
 - Alonzo, who grew up in Oakland, has a strong reputation in the athletics community in terms of mentoring players and assisting them off-the-field as much or more as he does on it. *(p. 237)*
 - Playing hard is a nice trait to have, but does the roster have the talent to turn that into playing tight games and even winning some? *(p. 237)*
+- Marion’s fast-paced, power rushing offense was highly successful at UNLV and Sacramento State, but it’ll be interesting to see whether it translates to the big leagues. *(p. 127)*
+- While the Eagles do host Sacramento State in the Hornets’ first MAC game, they have to go to UMass and Akron, two of their more winnable conference contests. *(p. 226)*
+- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
 - The home schedule is far from daunting — especially non-conference games against Fordham and Sacramento State — but Wyoming, Nevada and UTEP all have potential for improvement this season. *(p. 252)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -278,6 +281,8 @@ No source conflict identified for this team.
 | 5, 26, 34, 35, 46, 127, 210, 224, 226, 228, 230, 232, 252, 270 | Other pages naming this team |
 
 This team is named in **24 sentences across 18 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 26, 34, 35, 46, 127, 210, 224, 226, 228, 230, 232, 252, 270.
 
 ## 29. Cross-Links
 

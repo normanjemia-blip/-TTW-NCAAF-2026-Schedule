@@ -273,8 +273,11 @@ As printed on p. 193. Each category carries a value and a national rank.
 
 - Makinen projects **7.9 wins** against a posted total of 7.5 — **+0.4** in this team's favour.
 - The team page recommends **OVER 7.5**.
+- In that span, Jacksonville State is +24 in TO margin and that has made a huge difference, but they’ve also been good for two different head coaches in Rich Rodriguez and Charles Kelly. *(p. 192)*
+- This is his first crack at being the head man in charge and Year 1 was a success. *(p. 192)*
 - Over 7.5 This is not a bet, but I am cautiously optimistic that the Gamecocks can go 8-4 during the regular season. *(p. 192)*
 - This is an established program and even if there are some mild downturns, they can run the ball and might have the best QB in the conference. *(p. 192)*
+- And all they said was 6’8” he stood and people thought the music that he made was good. (probably the first Montell Jordan reference in a VSiN Betting Guide) Alright, so I don’t know if any of that is true - the money or the music - but 6-foot-8 WR Deondre Johnson is the top, and really only, returning receiver for the Gamecocks. *(p. 193)*
 - While the Gamecocks kept their streak of winning nine games alive, they scored nearly eight points per game fewer year over year, benefitting greatly from a +10 TO margin and a lot of wins in tight games. *(p. 193)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -320,6 +323,8 @@ No source conflict identified for this team.
 | 10, 14, 46, 147, 157, 190, 200 | Other pages naming this team |
 
 This team is named in **17 sentences across 10 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 14, 46, 147, 157, 190, 200.
 
 ## 29. Cross-Links
 

@@ -67,7 +67,9 @@ THEMES = {
 }
 
 POSITIVE = (r"\bimprove|\bupside\b|\bbest\b|\belite\b|\bstrength|\btalented|\breturns?\b|"
-            r"\bexperienced|\bdeep\b|\bstrong\b|\bwinning\b|\boptimis|\bbreakout|\bcontend")
+            r"\bexperienced|\bdeep\b|\bstrong\b|\bwinning\b|\boptimis|\bbreakout|\bcontend|"
+            r"\bgood\b|\bsolid\b|\bimpress|\bexcellent|\bpromising|\bfavorable|\bstellar|"
+            r"\bcredit|\bsuccess|\bwinnable|\bhigh floor|\bloaded\b")
 NEGATIVE = (r"\bconcern|\bworry|\bstruggl|\bloss(?:es)?\b|\blost\b|\bquestion|\bweak|\bthin\b|"
             r"\binexperienc|\bregress|\bbrutal|\btough\b|\bdifficult|\binjur|\bmiss(?:ing|ed)?\b")
 
@@ -626,6 +628,17 @@ class TeamFileBuilder:
                               f"{detail['win_total_pick']['number']}**.")
         body = header + rows
         if not body:
+            # The guide argues both sides for every team, so an empty case means
+            # the lexicon missed it rather than that the argument is absent.
+            # Point at the pages instead of dropping the section.
+            pages = sorted({p for _, p in pool})
+            if pages:
+                side = "optimistic" if bull else "pessimistic"
+                return (f"No note in this file is phrased as an explicitly "
+                        f"{side} claim. VSiN's reasoning on this side is on "
+                        f"pp. {', '.join(str(p) for p in pages)} — see the other "
+                        f"sections of this file, which carry the same analysis "
+                        f"without splitting it by direction.")
             return NOT_ADDRESSED
         note = ("\n\n> *Assembled from statements the guide makes about this team. "
                 "The statements are GUIDE CONTENT with page references; the "

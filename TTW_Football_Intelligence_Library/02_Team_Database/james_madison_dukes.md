@@ -323,12 +323,16 @@ As printed on p. 327. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **9.1 wins** against a posted total of 8.5 — **+0.6** in this team's favour.
+- The biggest question for Billy Napier heading into this season is who will play that position and can they find similar success to their predecessors? *(p. 326)*
 - With NIL funds allocated elsewhere, the Dukes didn’t go the transfer portal route at QB, really, with the exception of UCF transfer Davi Belfort, who barely played. 247Sports gave James Madison’s portal haul the best grade in the conference by a pretty wide margin, which is good because pretty much all of last season’s production is gone, but a lot of players are from lower-division schools, FCS, or never saw the field at their P4 programs. *(p. 326)*
+- He wasn’t a highly sought-after recruit, but he got to learn behind Barnett for two years and has a good returning running back in George Pettaway. *(p. 327)*
+- This really does look like a promising coaching staff, which is hugely important with so many transfers. *(p. 327)*
 - New DC Robert Bala has worked under Napier, Jedd Fisch (and DC Stephen Belichick), and Nick Saban over the last three years, so that’s a reason for optimism. *(p. 327)*
 - The skill position talent could be better for Indiana, but the losses, primarily those who came with Cig from James Madison, were strong culture guys. *(p. 153)*
 - However, it is the player who is staying that is the starting point, as quarterback Nico Iamaleava returns to work with a new staff that led James Madison to the No. 16 offense (452.6 yards per game) in the nation. *(p. 178)*
 - Conference favorite James Madison has experienced big changes once again, as Bob Chesney followed predecessor Curt Cignetti to the Big Ten. *(p. 317)*
 - He didn’t even start the team’s “best” loss, a 14-7 defeat at the hands of CFP team James Madison. *(p. 325)*
+- Over 7.5 The schedule is kind to Rahne this season, as James Madison and Marshall go to Norfolk and the non-conference road game at UConn, albeit randomly timed, is very winnable, along with hapless Georgia State, newcomer Louisiana Tech, and a Coastal Carolina team in a transitional phase. *(p. 330)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -379,6 +383,8 @@ No source conflict identified for this team.
 | 9, 11, 12, 17, 20, 24, 32, 37, 41, 46, 153, 173, 178, 179, 274, 318, 324, 325, 328, 330, 336, 339, 342 | Other pages naming this team |
 
 This team is named in **39 sentences across 26 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 9, 11, 12, 17, 20, 24, 32, 37, 41, 46, 153, 173, 178, 179, 274, 318, 324, 325, 328, 330, 336, 339, 342.
 
 ## 29. Cross-Links
 

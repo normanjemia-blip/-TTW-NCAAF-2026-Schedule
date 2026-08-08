@@ -275,6 +275,7 @@ As printed on p. 241. Each category carries a value and a national rank.
 
 - For a G6 team to return the conference’s Offensive Player of the Year with the current state of college football seems rare. *(p. 240)*
 - Therefore, it should come as no surprise that Lance Taylor’s Broncos are expected to make a strong run at repeating as MAC champs this season. *(p. 240)*
+- Martini was the linebackers coach and his unit was really good, but they had to go to the portal to replace those guys. *(p. 241)*
 - With Lowry and Buckley, along with a pretty experienced offensive line, they’ll be able to run. *(p. 241)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -324,6 +325,8 @@ No source conflict identified for this team.
 | 6, 187, 195, 232, 234, 238 | Other pages naming this team |
 
 This team is named in **12 sentences across 9 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 187, 195, 232, 234, 238.
 
 ## 29. Cross-Links
 

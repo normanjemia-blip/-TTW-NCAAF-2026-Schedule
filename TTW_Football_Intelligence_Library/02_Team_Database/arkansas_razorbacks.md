@@ -271,6 +271,7 @@ As printed on p. 287. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- Historical context given: Arkansas has won nine games only once since its last double-digit season in 2011. Simply reaching a bowl would count as a successful first year. *(p. 286)*
 - Schedule detail: road trips to Utah, Texas A&M and Texas; home games against Georgia and LSU. Winnable spots are home games with Tulsa, Missouri and South Carolina, plus road games at Vanderbilt and Auburn — but the guide rates all of those coin flips an Over bettor would have to keep winning. *(p. 286)*
 - Jackson is nominally in a battle with Memphis transfer AJ Hill, but the guide assumes the sophomore starts against North Alabama in Week 1. He appeared in five games in 2025 and played extensively in the last two, going 27-of-46 (58.7%) for 332 yards and two touchdowns with 41 rushing yards and a rushing score. The left-hander showed pocket-passing touch in limited work; whether his upside arrives is left open. *(p. 287)*
 - 2025 was ugly: 33.8 points allowed per game, 6.3 yards per play, 4.7 yards per carry, 134th in adjusted opponent EPA per play and 120th in defensive success rate. Defensive end Quincy Rhodes (44 tackles, 8 sacks) returned, joined by a wave of transfers including an almost rebuilt linebacker group and Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). The guide's measured conclusion is that this will not be among the nation's best units but has the pieces to climb back toward average under new coordinator Rob Roberts. *(p. 287)*

@@ -287,6 +287,7 @@ As printed on p. 103. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **8.9 wins** against a posted total of 8.5 — **+0.4** in this team's favour.
+- The guide opens by asking whether this is Rhett Lashlee's last season in Dallas. He inherited a decent foundation from Sonny Dykes and raised the level, with 11-win seasons in 2023 and 2024 and another successful 2025. *(p. 102)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

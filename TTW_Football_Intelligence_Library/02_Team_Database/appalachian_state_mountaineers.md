@@ -281,8 +281,12 @@ As printed on p. 319. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 6.5**.
+- The talent level on this team looks a lot stronger, as Shawn Clark had some good seasons, but wasn’t really bringing in a ton of athleticism. *(p. 318)*
+- After two down seasons, App State has a good shot to bounce back. *(p. 318)*
 - If this offense does run with some tempo, the improved depth at the skill spots is promising. *(p. 319)*
 - Defensively, though, the Mountaineers, who did improve by 0.7 YPP and 3.1 PPG year over year, were a major disappointment in conference play. *(p. 319)*
+- DC DJ Smith did a good job at Missouri with Eli Drinkwitz, who coached the Mountaineers to a 12-1 record in 2019 before skipping out before the bowl game. *(p. 319)*
+- The non-conference game at Vanderbilt is a tough one, but App State is a winnable non-con game at home. *(p. 96)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -328,6 +332,8 @@ No source conflict identified for this team.
 | 10, 11, 33, 96, 191, 324, 326 | Other pages naming this team |
 
 This team is named in **23 sentences across 10 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 11, 33, 96, 191, 324, 326.
 
 ## 29. Cross-Links
 

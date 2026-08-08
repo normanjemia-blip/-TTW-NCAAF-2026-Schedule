@@ -264,9 +264,14 @@ As printed on p. 227. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
+- While admirable, and successful in the past, it is a hard route to take nowadays. *(p. 226)*
+- While the Eagles do host Sacramento State in the Hornets’ first MAC game, they have to go to UMass and Akron, two of their more winnable conference contests. *(p. 226)*
+- It does seem like other programs are evolving more and portal success seems paramount nowadays. *(p. 226)*
 - With the P4-level teams, I’m not sure how much it matters, but it might in the G6, where the talent isn’t as strong and there are more transfers from JUCOs and lower-division schools. *(p. 227)*
 - McMillan was the team’s second-leading receiver, so we’ll see who can help there, but this is largely a similar offense to last season, just with a less experienced offensive line. *(p. 227)*
 - The defense improved greatly against the pass, but allowed a full yard more per carry. *(p. 227)*
+- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
+- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
 - None of that includes spots against Eastern Michigan and UTEP on the road, which are coin flips at best. *(p. 256)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -312,6 +317,8 @@ No source conflict identified for this team.
 | 151, 177, 195, 221, 222, 228, 230, 231, 232, 256 | Other pages naming this team |
 
 This team is named in **15 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 151, 177, 195, 221, 222, 228, 230, 231, 232, 256.
 
 ## 29. Cross-Links
 

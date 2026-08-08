@@ -285,11 +285,15 @@ As printed on p. 53. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- Apparently Tim Albin felt like Charlotte Green was a brighter shade than Bobcat Green, as he gave up a pretty good gig at Ohio to take on arguably the biggest challenge in the American Conference. *(p. 52)*
 - Albin had three straight double-digit winning seasons at Ohio before suffering through his first season in the Queen City. *(p. 52)*
+- Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. *(p. 52)*
 - Depth is still an issue here and probably the best QB on the roster (Harrell) will be out until mid-October or so. *(p. 52)*
 - This season, the starting gig may fall on the shoulders of Western Carolina transfer Cole Gonzales, at least until Harrell returns. *(p. 53)*
+- None of the options are particularly good. *(p. 53)*
 - One of the problems that plagued Charlotte last season, and has clearly been a thing for several years now, is that they are not big enough or strong enough up front. *(p. 53)*
 - If Albin can improve that, he can find some momentum. *(p. 53)*
+- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
 - It seems like UAB has to get that one because Samford and maybe Charlotte look like the other best chances, leaving the need for at least one upset somewhere along the line. *(p. 74)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -338,6 +342,8 @@ One of the problems that plagued Charlotte last season, and has clearly been a t
 | 5, 64, 68, 74, 79, 87, 108, 235, 329 | Other pages naming this team |
 
 This team is named in **18 sentences across 11 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 64, 68, 74, 79, 87, 108, 235, 329.
 
 ## 29. Cross-Links
 

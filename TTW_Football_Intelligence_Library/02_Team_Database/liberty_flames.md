@@ -308,6 +308,10 @@ As printed on p. 197. Each category carries a value and a national rank.
 - Kennesaw State’s eight-win improvement was a shocker, but so was Liberty’s complete reversal of fortunes, going from 8-4 to 4-8, as head coach Jamey Chadwell posted his worst record since 2017 when he was the interim HC at Coastal Carolina while Joe Moglia tended to health issues and the Chanticleers went 3-9. *(p. 196)*
 - Over 8.5 It seems like just about every unit for Liberty has been improved in some way. *(p. 196)*
 - Virginia Tech almost always has a strong defense and this is a guy who can identify talent in the DMV at a very high level. *(p. 196)*
+- While Chadwell has options, it remains to be seen if any of them are good. *(p. 197)*
+- Peyton Jones from Duke and Kam Davis from Florida State seem promising as well. *(p. 197)*
+- That’s good because what hurt Liberty last season was allowing 0.7 more yards per carry than the two previous seasons and a linebackers coach turned DC should be able to fix that. *(p. 197)*
+- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -351,6 +355,8 @@ No source conflict identified for this team.
 | 6, 25, 46, 81, 163, 190, 192, 194, 195, 220, 221, 222, 225, 320, 339 | Other pages naming this team |
 
 This team is named in **26 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 25, 46, 81, 163, 190, 192, 194, 195, 220, 221, 222, 225, 320, 339.
 
 ## 29. Cross-Links
 

@@ -287,6 +287,7 @@ As printed on p. 323. Each category carries a value and a national rank.
 - Makinen projects **5.8 wins** against a posted total of 4.5 — **+1.3** in this team's favour.
 - The team page recommends **OVER 4.5**.
 - There is a lot of upside to the offense with a very experienced QB in Johnson and a deep skill group. *(p. 323)*
+- Given that it was a rebuilding year, Tony Gibson actually did a pretty good job to get the team to where he did, even if the season ended in disappointing fashion, losing to Georgia Southern as a 10-point favorite in Huntington with a bowl game on the line. *(p. 328)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -332,6 +333,8 @@ No source conflict identified for this team.
 | 11, 46, 125, 205, 318, 328, 338 | Other pages naming this team |
 
 This team is named in **10 sentences across 9 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 46, 125, 205, 318, 328, 338.
 
 ## 29. Cross-Links
 

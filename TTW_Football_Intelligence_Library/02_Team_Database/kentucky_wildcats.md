@@ -268,6 +268,7 @@ As printed on p. 295. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 4.5**.
 - Will Stein arrives at 36 from Oregon with a deep offensive background, described as the opposite of Stoops in almost every way. The guide also notes Kentucky appears to be spending more to back him. *(p. 294)*
+- Schedule is not daunting: road games at Texas A&M and Oklahoma, but no Georgia, Texas or Ole Miss, a home game with Alabama, and winnable fixtures against mid-tier SEC opposition in Vanderbilt, Tennessee, South Carolina and Missouri. *(p. 294)*
 - With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*

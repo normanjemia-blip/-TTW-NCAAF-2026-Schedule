@@ -262,7 +262,12 @@ As printed on p. 225. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 6.5**.
+- The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. *(p. 224)*
+- After a successful first season, Drinkall now pivots to doing what he originally wanted to do and that could be a good thing or a bad thing. *(p. 224)*
+- If Central Michigan can achieve this ground-and-pound, uber- methodical offensive attack and limit the available possessions in games, they should have a ton of success in this conference because the offenses by and large stink. *(p. 224)*
+- Objectively, the MAC is not a good conference. *(p. 225)*
 - While Jaion Jackson was probably the team’s second-best corner, he’s one of just two returning starters. *(p. 225)*
+- The no-show against Central Michigan the week after the Toledo game was also a good teaching moment for everybody. *(p. 221)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -310,6 +315,8 @@ No source conflict identified for this team.
 | 221, 226, 237 | Other pages naming this team |
 
 This team is named in **9 sentences across 6 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 221, 226, 237.
 
 ## 29. Cross-Links
 

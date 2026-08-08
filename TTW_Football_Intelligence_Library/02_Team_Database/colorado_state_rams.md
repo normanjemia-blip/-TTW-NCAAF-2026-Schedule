@@ -279,9 +279,13 @@ As printed on p. 269. Each category carries a value and a national rank.
 
 - Makinen projects **3.9 wins** against a posted total of 3.5 — **+0.4** in this team's favour.
 - The team page recommends **OVER 3.5**.
+- It would not be a big surprise if Mora gets this team to 6-6, especially if the quarterback play is impressive. *(p. 268)*
+- Farrar attempted 18 passes as a backup last season when the Huskies’ success had a lot to do with star quarterback Joe Fagnano, who finished with 28 touchdown passes and one interception. *(p. 269)*
 - The easy answer is this defense will be improved, mostly because it can’t get much worse. *(p. 269)*
 - The defensive line and linebacker personnel look strong on paper. *(p. 269)*
 - Boise returns two of the league’s top linemen — senior guard Roger Carreon and senior tackle Daylon Metoyer — and welcomes the addition of senior tackle Tyler Ethridge, a transfer from Division II Colorado State-Pueblo. *(p. 267)*
+- Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? *(p. 272)*
+- The Bobcats figure to be favored in at least six of their seven home games, and they have winnable road dates with Colorado State and Oregon State. *(p. 276)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -326,6 +330,8 @@ No source conflict identified for this team.
 | 35, 41, 119, 209, 243, 267, 272, 274, 276, 278 | Other pages naming this team |
 
 This team is named in **21 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 35, 41, 119, 209, 243, 267, 272, 274, 276, 278.
 
 ## 29. Cross-Links
 

@@ -255,6 +255,7 @@ As printed on p. 105. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
+- First-time coordinator Terry Heffernan has spent much of his career coaching offensive lines, which the guide calls a good thing here. It lays out five years of sack figures — 31, 41, 41, 39 and 41 allowed against 15, 23, 23, 26 and 23 generated — and notes all three quarterback options are more mobile than their predecessors. Its measured conclusion is that sack differential is not the only reason Stanford has struggled, but being -83 over five seasons certainly has not helped. *(p. 105)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -289,7 +289,10 @@ As printed on p. 277. Each category carries a value and a national rank.
 - The team page recommends **OVER 6.5**.
 - The Bobcats have an experienced quarterback who will put up big numbers and they have more than enough offensive firepower to find their way to another bowl game. *(p. 276)*
 - Over 6.5 Texas State is a 30.5-point underdog at Texas on Sept. 5, when Jackson will go head- to-head with Heisman Trophy contender Arch Manning. *(p. 276)*
+- The Bobcats figure to be favored in at least six of their seven home games, and they have winnable road dates with Colorado State and Oregon State. *(p. 276)*
 - Not only is Jackson a dual threat, the Bobcats return two of the top receivers in the league — Beau Sparks (84 receptions for 1,200 yards and 10 touchdowns) and Chris Dawn (65 receptions for 1,007 yards). *(p. 277)*
+- The Pac-12 has been known for both throughout the years, so Texas State is a good fit for the conference. *(p. 277)*
+- Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? *(p. 272)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -334,6 +337,8 @@ No source conflict identified for this team.
 | 7, 62, 77, 113, 219, 272, 274, 279, 317 | Other pages naming this team |
 
 This team is named in **23 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 7, 62, 77, 113, 219, 272, 274, 279, 317.
 
 ## 29. Cross-Links
 

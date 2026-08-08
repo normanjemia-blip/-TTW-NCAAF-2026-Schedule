@@ -276,9 +276,13 @@ As printed on p. 219. Each category carries a value and a national rank.
 - Makinen projects **3.6 wins** against a posted total of 3.5 — **+0.1** in this team's favour.
 - Last year’s dismal offensive performance with just 15.8 PPG led to the fourth straight season without a bowl game and Ball State hasn’t had a winning record in conference play outside of the 2020 COVID season since 2013. *(p. 218)*
 - Under 3.5 This is a tepid take at best, as even with an offense that managed just 16 PPG in conference play, the Cardinals still won three of those eight games, plus the win over FCS New Hampshire. *(p. 218)*
+- Unfortunately for the Cardinals, two of their three most winnable conference games are road visits to Kent State and UMass. *(p. 218)*
 - The Cardinals return one rushing TD from last season and two receiving TD. *(p. 219)*
 - Uremovich brought his Butler DC and longtime best friend Jeff Knowles with him to Muncie. *(p. 219)*
+- This unit was actually something of a success story last season. *(p. 219)*
 - Given how little help the offense was able to provide, this unit did its best, though some more pass rushers wouldn’t hurt. *(p. 219)*
+- The defense faced 67.3 plays per game, so given their heightened workload, that unit deserves a lot of credit. *(p. 219)*
+- November roadies at Ball State and Akron are extremely winnable games and even the Week 2 trip to FIU has the chance for a happy flight home. *(p. 222)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -323,6 +327,8 @@ No source conflict identified for this team.
 | 71, 222, 223, 224, 230, 231, 237, 240 | Other pages naming this team |
 
 This team is named in **18 sentences across 10 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 71, 222, 223, 224, 230, 231, 237, 240.
 
 ## 29. Cross-Links
 

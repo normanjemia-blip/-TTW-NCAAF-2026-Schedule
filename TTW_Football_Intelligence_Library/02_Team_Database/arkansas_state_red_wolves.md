@@ -284,9 +284,12 @@ As printed on p. 333. Each category carries a value and a national rank.
 - Makinen projects **6.8 wins** against a posted total of 5.5 — **+1.3** in this team's favour.
 - The team page recommends **OVER 5.5**.
 - It took a couple of seasons for Butch Jones to pick up the pieces in Jonesboro coming out of COVID and the end of Blake Anderson’s tenure, but the program has gone to a bowl game three seasons in a row and has their first winning streak in bowl games since 2012-13 under Gus Malzahn and Bryan Harsin. *(p. 332)*
+- Depending on how you look at it, Raynor’s departure comes at either a good time or a bad time. *(p. 332)*
+- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
 - I still think the best approach is betting Over the total on a weekly basis. *(p. 332)*
 - The ex-Commodores know Altman’s philosophy, Owens probably has the most untapped upside, and Crawford knows the skill guys who are back, including top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 WR Chauncy Cobb, who had 73 catches last season. *(p. 333)*
 - While Raynor had a career-best 3,361 passing yards last season, he also led the Sun Belt in attempts with 501. *(p. 333)*
+- MISSOURI STATE – UNDER 4.5 WINS It was a solid first season at the FBS level and in Conference USA for Missouri State as the Bears won seven games and received a bowl bid, a game they would eventually lose to Arkansas State. *(p. 25)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -330,6 +333,8 @@ No source conflict identified for this team.
 | 25, 37, 46, 63, 131, 195, 200, 319 | Other pages naming this team |
 
 This team is named in **14 sentences across 10 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 25, 37, 46, 63, 131, 195, 200, 319.
 
 ## 29. Cross-Links
 

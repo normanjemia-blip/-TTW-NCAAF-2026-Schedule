@@ -255,7 +255,9 @@ As printed on p. 119. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 6.5**.
 - Recommendation is Over 6.5 wins. The guide's judgement is that Arizona State is unlikely to return to the playoff soon but is not going anywhere either, that Dillingham keeps reloading well, and that a 6.5 total simply does not feel right. *(p. 118)*
+- It names the winnable games explicitly: Morgan State, Kansas, Baylor, Hawaii, Kansas State, Colorado and Oklahoma State at home, plus UCF and Arizona away — enough for the Over, with the Sun Devils possibly live for alternate Overs too. *(p. 118)*
 - Boley was up and down as Kentucky's starter, throwing for 2,160 yards with 15 touchdowns and 12 interceptions, but the guide is careful to contextualize: he had an unreliable supporting cast and no one of Dillingham's reputation. At 6-foot-5 with a big arm and above-average athleticism, he may need time to settle. Dillingham once tried to recruit him to Oregon, which the guide reads as genuine belief. It expects the group to exceed expectations, citing Boley's tools, an improved offensive line and receiver weapons including Boston College transfer Reed Harris. *(p. 119)*
+- Arizona State added notable transfers on the defensive line and at linebacker, with Colorado State's Owen Long singled out as someone who could turn heads at a higher level. But the guide identifies the secondary as the pressing need after ranking 49th in dropback EPA per play at -0.03. LSU transfer Ashton Stamps is a good addition at corner and the safeties look impressive, and it frames how well Ward coaches this group as a major swing factor for the season. *(p. 119)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

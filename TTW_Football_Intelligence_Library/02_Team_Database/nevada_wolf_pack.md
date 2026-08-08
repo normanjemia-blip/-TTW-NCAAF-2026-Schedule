@@ -260,14 +260,16 @@ As printed on p. 249. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
+- Nevada was never a dominant powerhouse in football, but this was a proud program with a track record of success. *(p. 248)*
 - But, Jeff Choate is a fiery dude who does have a sturdy base with his Wolf Pack roster this season that could lead to some improvements. *(p. 248)*
 - But the potential of this defense under Choate, coupled with an offense that has some upside, could equate to an upstart season for the Wolf Pack in 2026. *(p. 248)*
+- The Wolf Pack ranked 114th in passing success rate, 133rd in passing EPA per play and ranked in the 34th percentile in explosive pass rate. *(p. 249)*
 - If the passing game finds its way back toward average, it could mean wonders for the Nevada rush offense, which has some strong indicators of future success. *(p. 249)*
 - He is behind what seems to be a strong offensive line on paper. *(p. 249)*
 - Three starters return, including preseason All-Conference left tackle Jack Foster and right tackle Zach Cochnauer, who earned Fourth Team All-Conference honors last season. *(p. 249)*
+- Nevada averaged just 4.4 yards per carry and finished 76th in rush success rate last season. *(p. 249)*
 - With the returning production and additions, this group could be much improved. *(p. 249)*
 - There has been steady improvement each of the last two seasons, but could this be the year they take the step toward above average? *(p. 249)*
-- The home schedule is far from daunting — especially non-conference games against Fordham and Sacramento State — but Wyoming, Nevada and UTEP all have potential for improvement this season. *(p. 252)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -317,6 +319,8 @@ No source conflict identified for this team.
 | 38, 198, 206, 246, 252, 260, 343 | Other pages naming this team |
 
 This team is named in **22 sentences across 9 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 38, 198, 206, 246, 252, 260, 343.
 
 ## 29. Cross-Links
 

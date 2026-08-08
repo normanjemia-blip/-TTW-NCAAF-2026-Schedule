@@ -297,6 +297,9 @@ As printed on p. 271. Each category carries a value and a national rank.
 - Makinen projects **7.4 wins** against a posted total of 6.5 — **+0.9** in this team's favour.
 - The team page recommends **OVER 6.5**.
 - Fresno State certainly has a winning coach. *(p. 270)*
+- Matt Entz is about as good as it gets. *(p. 270)*
+- This team is solid in all areas and probably can win seven or eight games even with mediocre QB play. *(p. 270)*
+- While the Bulldogs were good on the ground last season, they were limited by what quarterback EJ Warner could not do. *(p. 271)*
 - He’s also got a solid support system with experienced running backs, receivers and offensive linemen. *(p. 271)*
 - Entz builds winning teams by building a physical offensive line first. *(p. 271)*
 - He’s got three of the top linemen in the league — tackles Brayden Walton and Rolan Fullwood and guard Edward Fonua — to anchor arguably the best and biggest line in the Pac-12. *(p. 271)*
@@ -308,7 +311,7 @@ As printed on p. 271. Each category carries a value and a national rank.
 
 ## 25. Bear Case
 
-Not addressed in guide.
+No note in this file is phrased as an explicitly pessimistic claim. VSiN's reasoning on this side is on pp. 5, 13, 22, 35, 64, 237, 243, 256, 265, 266, 270, 271, 274, 278, 279, 280 — see the other sections of this file, which carry the same analysis without splitting it by direction.
 
 ## 26. Open Questions / Risks
 
@@ -343,6 +346,8 @@ No source conflict identified for this team.
 | 5, 13, 22, 35, 64, 237, 243, 256, 266, 274, 278, 279, 280 | Other pages naming this team |
 
 This team is named in **25 sentences across 16 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 13, 22, 35, 64, 237, 243, 256, 266, 274, 278, 279, 280.
 
 ## 29. Cross-Links
 

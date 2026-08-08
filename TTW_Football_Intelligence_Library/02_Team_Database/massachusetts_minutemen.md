@@ -289,7 +289,11 @@ As printed on p. 231. Each category carries a value and a national rank.
 
 - Makinen projects **3.4 wins** against a posted total of 2.5 — **+0.9** in this team's favour.
 - The team page recommends **OVER 2.5**.
+- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
 - This group seems decidedly more talented. *(p. 231)*
+- Unfortunately for the Cardinals, two of their three most winnable conference games are road visits to Kent State and UMass. *(p. 218)*
+- While the Eagles do host Sacramento State in the Hornets’ first MAC game, they have to go to UMass and Akron, two of their more winnable conference contests. *(p. 226)*
+- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
 - Under 4.5 Mississippi Valley State and UMass look like the best (and maybe only) hopes for wins from the Hornets this season. *(p. 236)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -339,6 +343,8 @@ No source conflict identified for this team.
 | 26, 46, 69, 205, 218, 222, 226, 228, 232, 236, 240 | Other pages naming this team |
 
 This team is named in **27 sentences across 14 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 26, 46, 69, 205, 218, 222, 226, 228, 232, 236, 240.
 
 ## 29. Cross-Links
 

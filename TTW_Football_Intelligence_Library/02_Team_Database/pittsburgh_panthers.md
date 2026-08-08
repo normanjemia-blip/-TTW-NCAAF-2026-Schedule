@@ -253,6 +253,8 @@ As printed on p. 101. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.6 wins** against a posted total of 7.5 — **+0.1** in this team's favour.
+- There is more clarity now: Mason Heintschel has the job outright because Eli Holstein is at Virginia, and he was solid as a true freshman across nine starts. *(p. 100)*
+- Recommendation is Under 7.5 wins. It concedes the schedule is genuinely favorable — which is why the Over carries the vig it does — with Pitt avoiding Clemson, SMU and Notre Dame. *(p. 100)*
 - Its counter is about the opponents improving: a strong possibility Virginia Tech is markedly better under James Franklin, and that North Carolina and Florida State are much better than last season. *(p. 100)*
 - Structural schedule detail seals the case: a late bye with many new faces, five of the last eight on the road, and a season-ending trip to Berkeley against another team that could greatly improve. Projection is 7.43 wins. *(p. 100)*
 - The guide dismantles the scoring numbers with underlying metrics: 20th in points per game while ranking 67th in yards per play and 120th in third-down conversion rate, allowing 44 sacks — fifth-most nationally — and averaging just 3.5 yards per carry. It identifies where the points actually came from, noting four pick-sixes among 15 interceptions, a couple of punt return touchdowns, and four kick returns of 40-plus yards contributing to field position. It then shows the pattern is not new, with Pitt 30th in scoring but 69th in yards per play in 2024. Its conclusion is unusually candid — it does not know what to make of it, but special teams prowess has a lot to do with it. *(p. 101)*

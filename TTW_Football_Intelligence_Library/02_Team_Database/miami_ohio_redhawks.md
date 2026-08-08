@@ -261,6 +261,7 @@ As printed on p. 233. Each category carries a value and a national rank.
 
 - Makinen projects **7.8 wins** against a posted total of 6.5 — **+1.3** in this team's favour.
 - The team page recommends **OVER 7.5**.
+- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
 - The RedHawks have gone 21-6 in MAC play over the last three seasons, winning at least six games each time. *(p. 232)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*

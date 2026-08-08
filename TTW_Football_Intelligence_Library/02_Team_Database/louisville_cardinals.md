@@ -261,7 +261,9 @@ As printed on p. 93. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 8.5**.
+- The opener against Ole Miss in Nashville is called a good litmus test for both, noting the Rebels' unfriendly parting with Lane Kiffin before last year's playoff. *(p. 92)*
 - Miller Moss was not the answer, posting pedestrian numbers after taking over from Tyler Shough — under 3,000 yards with 16 touchdown passes — though the guide notes both he and Shough at least arrived with substantial college experience. Brohm went to the portal again for Ohio State's Lincoln Kienholz, a multi-sport star from South Dakota who threw only 36 passes in three seasons at Columbus. It judges the talent should be there, notes a more experienced alternative in two-year West Georgia starter Davin Wydner, and calls getting the position right a huge start. *(p. 93)*
+- The guide argues Brohm's habit of losing games he should not has obscured a stellar defense. Co-coordinators Ron English and Mark Hagen are gone, English stepping away for his son's senior season at Navy, and Brohm promoted internally — linebackers coach Mark Ivey, a Scott Satterfield holdover, and defensive backs coach Steve Ellis. Louisville allowed just over 21 points per game in two of three seasons and just over 24 in the other, has never allowed more than 3.7 yards per carry under Brohm, and gave up 4.7 yards per play last year, 15th nationally. With only one of the top six tacklers back it may struggle to hold that bar, though the guide notes the programme has responded strongly to major losses before. *(p. 93)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

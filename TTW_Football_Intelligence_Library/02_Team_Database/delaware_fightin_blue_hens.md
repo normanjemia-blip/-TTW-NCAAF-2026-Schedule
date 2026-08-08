@@ -268,7 +268,9 @@ As printed on p. 189. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **6.1 wins** against a posted total of 5.5 — **+0.6** in this team's favour.
+- Whether that bowl game win had something to do with it or not, Delaware is in really good shape from a returning production standpoint, especially relative to their C-USA peers. *(p. 188)*
 - All of the running backs and top WR Sean Wilson are back around Minicucci, though his two best offensive linemen are not. *(p. 188)*
+- Carty appears to be a solid coach and this appears to be a good program, but they were outgained on a per-play basis and struggled in the trenches in a subpar conference. *(p. 188)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -313,6 +315,8 @@ No source conflict identified for this team.
 | 177, 190, 191, 192, 196, 200, 203, 204, 314 | Other pages naming this team |
 
 This team is named in **16 sentences across 11 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 177, 190, 191, 192, 196, 200, 203, 204, 314.
 
 ## 29. Cross-Links
 

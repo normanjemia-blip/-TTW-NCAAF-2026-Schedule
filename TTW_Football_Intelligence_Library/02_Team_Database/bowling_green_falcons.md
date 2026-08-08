@@ -267,7 +267,12 @@ As printed on p. 221. Each category carries a value and a national rank.
 - The team page recommends **OVER 4.5**.
 - The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
 - Bowling Green had injuries, as every team does, but it seemed like last season was a series of fact-finding missions for George and his staff to isolate the players that best fit the system. *(p. 221)*
+- Austyn Dendy looks like the feature back and had a solid freshman season with 4.6 yards per carry, but his 108 carries barely outpaced Chris McMillian with 84 and Cameron Pettaway with 72. *(p. 221)*
+- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
+- The no-show against Central Michigan the week after the Toledo game was also a good teaching moment for everybody. *(p. 221)*
+- Even though he’s been around football all his life, coaching, especially in the current CFB landscape, is a lot different and his first recruiting cycle at the FBS level seems promising. *(p. 221)*
 - Under 4.5 Iowa State should be able to win games against Southeast Missouri and Bowling Green, but winning on the road against Iowa will be tough in Year 1 with this coaching staff. *(p. 130)*
+- Over 4.5 Moorhead got a lot out of a team that couldn’t make a bowl game and the most impressive data point to me was a 19-16 road win at Bowling Green after losing to rival Kent State in OT. *(p. 216)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -315,6 +320,8 @@ No source conflict identified for this team.
 | 34, 41, 46, 83, 107, 130, 206, 216, 222, 237 | Other pages naming this team |
 
 This team is named in **18 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 34, 41, 46, 83, 107, 130, 206, 216, 222, 237.
 
 ## 29. Cross-Links
 

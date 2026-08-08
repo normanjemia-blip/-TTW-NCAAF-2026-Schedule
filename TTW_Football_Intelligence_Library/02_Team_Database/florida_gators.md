@@ -253,6 +253,7 @@ As printed on p. 291. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- Jon Sumrall arrives having known nothing but success, entering his fifth season as an FBS head coach chasing a fifth straight conference title game appearance. *(p. 290)*
 - Schedule: hosts Ole Miss and Oklahoma, which helps against potential title contenders; travels to Auburn and Texas, the latter rated extremely difficult though both losable. *(p. 290)*
 - Florida's defense has been persistently average for six seasons, allowing 24 points per game and 5.7 yards per play in 2025, ranking 67th in adjusted opponent EPA per play and 82nd in success rate. Six starters return and Sumrall hired coordinator Brad White, previously in the same role under Mike Stoops at Kentucky. Top tacklers Myles Graham and Bryce Thornton return, as do sack leaders Jayden Woods and Kamran James. A better offense keeping the unit off the field should help, but the guide insists it still needs to improve on its own terms. *(p. 291)*
 - Sumrall took Troy from 15-20 over three seasons to 23-5 with two Sun Belt titles, then won 20 games in two years at Tulane and reached the CFP. The guide has no doubt he can build a programme but treats the SEC as a leap many have failed. It judges the playoff unlikely given a daunting schedule, while calling improvement on last season's four wins likely. *(p. 291)*

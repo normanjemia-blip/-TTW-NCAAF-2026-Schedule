@@ -261,10 +261,15 @@ As printed on p. 217. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 4.5**.
 - The Zips failed to win more games than they lost for the 10th consecutive season, as a 7-7 showing in 2017 is the best outcome for the program since going 8-5 under Terry Bowden back in 2015. *(p. 216)*
+- While a 5-7 mark wasn’t very impressive, context matters a lot here. *(p. 216)*
+- Over 4.5 Moorhead got a lot out of a team that couldn’t make a bowl game and the most impressive data point to me was a 19-16 road win at Bowling Green after losing to rival Kent State in OT. *(p. 216)*
 - Poffenbarger, who was originally recruited to Miami (FL) after a strong season at Albany, will attempt to take advantage of a fresh start in Akron. *(p. 217)*
 - Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, but he has a minimal path of resistance at best here at Akron. *(p. 217)*
+- He waltzes into a pretty good offensive situation. *(p. 217)*
 - They’ve improved, dropping to 30 sacks in 2024 and 35 sacks in 2025. *(p. 217)*
 - While that’s not good enough to have a positive sack differential, last year’s -9 was easily the best for the team in a very, very long time. *(p. 217)*
+- While none of these are impressive numbers, per se, they’re better than what the Zips usually accomplish. *(p. 217)*
+- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -313,6 +318,8 @@ No source conflict identified for this team.
 | 34, 221, 222, 226, 228, 230 | Other pages naming this team |
 
 This team is named in **19 sentences across 8 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 34, 221, 222, 226, 228, 230.
 
 ## 29. Cross-Links
 

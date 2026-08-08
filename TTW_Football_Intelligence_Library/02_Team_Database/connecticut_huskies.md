@@ -308,7 +308,16 @@ As printed on p. 211. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- They also face Syracuse and Old Dominion at The Rent with those two teams off of byes, adding an extra challenge to two winnable home games. *(p. 210)*
+- Also, while the offense has major question marks on paper, the defense has a good chance at being solid, as Manalac is a Pat Narduzzi disciple and that guy knows a thing or two about defense. *(p. 211)*
+- CONNECTICUT – UNDER 5.5 WINS New head coach Jason Candle spent a decade at Toledo, and it was a very successful run, as he went 81-44 and the Rockets finished at least .500 in every season. *(p. 24)*
+- Candle’s experience and past successes alone might not be enough this season, as he will have one of the most inexperienced rosters in the country and the schedule is a bit tougher than we’ve been accustomed to with UConn under Mora. *(p. 24)*
+- Oddsmakers are, in fact, expecting a pretty sharp drop-off this season in Storrs, as UConn’s win total is set at a mere 5.5 after the recent run of success. *(p. 24)*
 - Replicating their 12-2 record from 2024 was going to be an insurmountable challenge, and the fact that the Black Knights still did well enough to have a winning record at 7-6 thanks to a bowl game blowout of a severelyundermanned UConn squad was another example of how solid Jeff Monken has been in West Point. *(p. 50)*
+- Except for Penn State, all of the home games on the schedule are extremely winnable, especially Rhode Island, UConn, Charlotte, UAB, and Rice. *(p. 68)*
+- Sammis is coming off a very successful stint as UConn’s OC. *(p. 139)*
+- That’s not to say I’m rushing to put my money on them, since I don’t even know if Harasymiak is a good coach, but this is Stonehill’s first game against a FBS team and Sacred Heart lost by 28 to a UConn team that went 3-9 in 2023, so that should get the Minutemen at least one win away from cashing this. *(p. 230)*
+- Duquesne, UConn, SJSU and UTEP make up the other winnable opportunities at home. *(p. 244)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -359,6 +368,8 @@ No source conflict identified for this team.
 | 24, 25, 33, 35, 41, 46, 50, 68, 75, 139, 156, 161, 191, 215, 223, 230, 238, 244, 265, 268, 269, 326, 330 | Other pages naming this team |
 
 This team is named in **42 sentences across 26 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 24, 25, 33, 35, 41, 46, 50, 68, 75, 139, 156, 161, 191, 215, 223, 230, 238, 244, 265, 268, 269, 326, 330.
 
 ## 29. Cross-Links
 

@@ -270,8 +270,11 @@ As printed on p. 341. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- OC Rob Ezell left for the same position at Wake Forest following a very successful 2024 season. *(p. 341)*
 - SOUTH ALABAMA – OVER 5.5 WINS Sometimes, there’s no rhyme or reason to figuring out why a specific improvement or decline in a recruiting season occurs. *(p. 23)*
 - I don’t think South Alabama fans care about the how or why here, but in his third season, coming off a disappointing 4-8 record, head coach Major Applewhite was able to secure his best recruit/transfer class this spring, with the 86th ranking beating last year’s grade by 31 positions. *(p. 23)*
+- The safety position looks good with homegrown star Shamir Sterlin and twoyear South Alabama starter Wesley Miller. *(p. 191)*
+- They draw South Alabama and UL Monroe from the West Division and all of their home games are winnable in conference play, plus they host a FCS team and a poor Middle Tennessee squad. *(p. 328)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -320,6 +323,8 @@ No source conflict identified for this team.
 | 23, 70, 73, 191, 328 | Other pages naming this team |
 
 This team is named in **11 sentences across 6 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 23, 70, 73, 191, 328.
 
 ## 29. Cross-Links
 

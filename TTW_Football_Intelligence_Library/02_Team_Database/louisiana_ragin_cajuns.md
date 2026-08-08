@@ -266,8 +266,10 @@ As printed on p. 335. Each category carries a value and a national rank.
 
 - That would be Lunch Winfield, who led a four-game winning streak at the end of the regular season to get the Ragin’ Cajuns to a bowl game. *(p. 335)*
 - Winfield’s running prowess certainly helped, as he was a mediocre-at-best passer with an 11/7 TD/INT ratio and a 58.8% completion rate, but he did run for 667 yards and added nine rushing touchdowns. *(p. 335)*
+- It did take some time to finally settle on a QB, but this offense may not have had steady success regardless. *(p. 335)*
 - Look, his stint in Gainesville was an abject disaster, but he was really good at Louisiana, winning 40 games in four seasons. *(p. 37)*
 - With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. *(p. 198)*
+- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -319,6 +321,8 @@ No source conflict identified for this team.
 | 11, 36, 37, 188, 198, 199, 318, 324, 332, 344 | Other pages naming this team |
 
 This team is named in **18 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 36, 37, 188, 198, 199, 318, 324, 332, 344.
 
 ## 29. Cross-Links
 

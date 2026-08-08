@@ -275,6 +275,7 @@ As printed on p. 255. Each category carries a value and a national rank.
 
 - Chaos is the word that best describes the offseason Northern Illinois went through. *(p. 254)*
 - Under 3.5 Data and statistics are always the best way to evaluate and project teams in sports, but sometimes vibes do matter. *(p. 254)*
+- The Mountain West will not be confused for the SEC, but there are some very good offenses in this conference. *(p. 255)*
 - Can Harley do his best work and rebuild this unit while the plane is in the air, or will this turn out to be one of the worst defenses in the country? *(p. 255)*
 - I don’t know exactly what the most optimistic NIU fans are hoping for this fall, but it’s probably too much. *(p. 26)*
 - Interestingly, Northern Illinois makes a jump in conference strength by moving from the MAC to the Mountain West. *(p. 46)*
@@ -323,6 +324,8 @@ No source conflict identified for this team.
 | 6, 26, 35, 41, 46, 125, 215, 246, 343 | Other pages naming this team |
 
 This team is named in **22 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 26, 35, 41, 46, 125, 215, 246, 343.
 
 ## 29. Cross-Links
 

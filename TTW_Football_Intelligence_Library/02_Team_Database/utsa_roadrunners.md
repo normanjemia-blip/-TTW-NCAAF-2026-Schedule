@@ -350,6 +350,8 @@ No source conflict identified for this team.
 
 This team is named in **23 sentences across 17 pages** of the guide.
 
+Every page naming this team outside its own spread: pp. 11, 14, 36, 50, 54, 60, 62, 65, 66, 68, 70, 72, 169, 190.
+
 ## 29. Cross-Links
 
 **Conference** — [American](../01_Conference_Database/american.md)

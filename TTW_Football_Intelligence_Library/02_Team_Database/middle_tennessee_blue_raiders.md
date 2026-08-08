@@ -272,7 +272,9 @@ As printed on p. 199. Each category carries a value and a national rank.
 - The Men of Murfreesboro haven’t seen a bowl game since 2022 and saw modest improvement in 2025, but not nearly enough to be pleased with how things played out. *(p. 198)*
 - Despite Mason’s background on the defensive side of the ball, MTSU allowed 34.3 PPG in Year 1 and 30.9 PPG in Year 2, though they did improve by 0.8 yards per play. *(p. 198)*
 - With very minimal, if any, improvements to the offense, a new OC has hit the town, as Anthony Scelfo, previously at Southeastern Louisiana, is the new OC. *(p. 198)*
+- Probably not, but at least the end-of-season developments were promising. *(p. 199)*
 - While Gagliano returns, others do not, as Cam’ron Lacy is back after leading the team with 549 yards, but nobody else with 30+ catches is back and leading rusher Jekail Middlebrook has also moved on. *(p. 199)*
+- They draw South Alabama and UL Monroe from the West Division and all of their home games are winnable in conference play, plus they host a FCS team and a poor Middle Tennessee squad. *(p. 328)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -319,6 +321,8 @@ No source conflict identified for this team.
 | 132, 189, 206, 328 | Other pages naming this team |
 
 This team is named in **5 sentences across 5 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 132, 189, 206, 328.
 
 ## 29. Cross-Links
 

@@ -259,15 +259,16 @@ As printed on p. 263. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
+- It’s always difficult to take over for a legend, especially one who had the success Craig Bohl did in his time at Laramie. *(p. 262)*
 - This could be a massively improved team if the right pieces hit. *(p. 262)*
 - Under 5.5 The upside of Wyoming begins with its offense. *(p. 262)*
 - That would allow Sawvel to focus on a defense which has a strong foundation. *(p. 262)*
+- It ranked 128th in the country in EPA per play and 124th in success rate. *(p. 263)*
 - All of that will be needed to improve this unit. *(p. 263)*
 - The top four receivers from last season are gone, but this is reportedly a strong group of tight ends, which is important in the new scheme. *(p. 263)*
 - This might be Sawvel’s best chance at a winning record. *(p. 263)*
 - If the offensive changes hit, this should be a team that can improve on its four wins last season. *(p. 263)*
 - The home schedule is far from daunting — especially non-conference games against Fordham and Sacramento State — but Wyoming, Nevada and UTEP all have potential for improvement this season. *(p. 252)*
-- They must host an experienced Fresno State squad in nonconference play, as well as Wyoming, New Mexico, UNLV and North Dakota State. *(p. 256)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -316,6 +317,8 @@ No source conflict identified for this team.
 | 210, 246, 250, 252, 254, 256, 268 | Other pages naming this team |
 
 This team is named in **17 sentences across 9 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 210, 246, 250, 252, 254, 256, 268.
 
 ## 29. Cross-Links
 

@@ -289,6 +289,7 @@ As printed on p. 207. Each category carries a value and a national rank.
 - Makinen projects **7.7 wins** against a posted total of 6.5 — **+1.2** in this team's favour.
 - The team page recommends **OVER 7.5**.
 - Tulsa transfer Ajay Allen will likely lead the by-committee approach at RB that had decent returns last season. *(p. 207)*
+- Beard, who was a defensive back at Western Kentucky, has been very successful in getting his players to get to the quarterback. *(p. 37)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -333,6 +334,8 @@ No source conflict identified for this team.
 | 37, 46, 57, 77, 83, 147, 189, 192, 200, 292 | Other pages naming this team |
 
 This team is named in **19 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 37, 46, 57, 77, 83, 147, 189, 192, 200, 292.
 
 ## 29. Cross-Links
 

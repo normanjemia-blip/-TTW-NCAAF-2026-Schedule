@@ -278,6 +278,7 @@ As printed on p. 205. Each category carries a value and a national rank.
 - The defense has experienced a full facelift, but there is no way to erase the scars of giving up nearly 500 yards per game in this conference. *(p. 204)*
 - It’s possible that this year’s roster is closer to what he wants, but probably not close enough for much improvement. *(p. 204)*
 - Returning production would be an oxymoron here, but there really isn’t much of it anyway, as second-year DC Freddie Aughtry-Lindsay did a lot of portal shopping. 247Sports has the Bearkats down for the best portal haul in the conference and the secondary was a huge focal point. *(p. 205)*
+- While that was thoroughly impressive, the Bearkats were just 3-9 with Keeler at the helm in 2023, their first season in Conference USA. *(p. 205)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -325,6 +326,8 @@ No source conflict identified for this team.
 | 46, 72, 189, 195, 247, 257, 339 | Other pages naming this team |
 
 This team is named in **17 sentences across 9 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 46, 72, 189, 195, 247, 257, 339.
 
 ## 29. Cross-Links
 

@@ -298,10 +298,15 @@ As printed on p. 67. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
+- USF wound up being a good stop for a promising, up-and- coming, offensive mind with his first head coaching job in Alex Golesh. *(p. 66)*
 - Golesh has now leveled up to Auburn after posting a trio of winning seasons in Tampa. *(p. 66)*
 - Now it’s Brian Hartline’s turn, as the world’s best wide receiver recruiter has left Ohio State to put his stamp on his own program. *(p. 66)*
 - That’s a high bar to live up to, but what really established the ceiling for USF was that the defense improved at a similar pace to the offense. *(p. 66)*
+- MVB did have some success at those two stops, including an 8/2 TD/INT ratio at LSU last season with four starts and some relief efforts. *(p. 67)*
 - Most of the guys acquired via free agency didn’t play very much at their previous schools, but 247Sports graded USF’s portal haul the best in the conference and 58th nationally with 44 total commits. *(p. 67)*
+- Aldridge has been working at conference rival East Carolina under head coach Blake Harrell, who has proven to be an outstanding defensive mind and a pretty darn good HC. *(p. 67)*
+- Stopping the run is the key to success in this conference. *(p. 67)*
+- Everybody seems to allow passing yards and 60+% completion percentages, but the teams that stop the run position themselves for success. *(p. 67)*
 - The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -351,6 +356,8 @@ No source conflict identified for this team.
 | 20, 27, 36, 45, 54, 75, 220, 266, 288, 289, 327 | Other pages naming this team |
 
 This team is named in **13 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 20, 27, 36, 45, 54, 75, 220, 266, 288, 289, 327.
 
 ## 29. Cross-Links
 

@@ -279,9 +279,12 @@ As printed on p. 73. Each category carries a value and a national rank.
 - The team page recommends **OVER 5.5**.
 - Tulsa went 4-8, a modest one-game improvement over the previous season, but Tre Lamb’s team is moving in the right direction. *(p. 72)*
 - While Lamb’s team didn’t make many strides on offense, they gave up nearly 14 fewer points per game and 1.5 fewer yards per play, including more than a 100-yard improvement in terms of passing yards against. *(p. 72)*
+- That said, all four American home games are very winnable, along with East Texas A&M. *(p. 72)*
 - All of the starters and the guys on the two-deep are at or above three bills on the scales and I think that’s exactly what he wants. *(p. 73)*
 - While the defense improved in several key areas, taking the football away from the other team was not one of them. *(p. 73)*
+- Charlotte should begin 1-0 against The Citadel, but Temple, Tulsa, and UAB are their most winnable games on paper otherwise and every single one of them is on the road. *(p. 52)*
 - But, the Middies come to San Antonio, along with USF and Tulsa, who I think will be much improved this season. *(p. 76)*
+- Oklahoma State should beat Tulsa and Murray State easily, and home games against UCF, Colorado, and Kansas should be winnable. *(p. 136)*
 - Tulsa transfer Ajay Allen will likely lead the by-committee approach at RB that had decent returns last season. *(p. 207)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
@@ -330,6 +333,8 @@ No source conflict identified for this team.
 | 10, 52, 74, 76, 77, 136, 207, 277, 286, 343 | Other pages naming this team |
 
 This team is named in **21 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 52, 74, 76, 77, 136, 207, 277, 286, 343.
 
 ## 29. Cross-Links
 

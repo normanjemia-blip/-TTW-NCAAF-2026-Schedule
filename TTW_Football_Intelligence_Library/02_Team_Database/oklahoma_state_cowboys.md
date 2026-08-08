@@ -276,7 +276,11 @@ As printed on p. 137. Each category carries a value and a national rank.
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 5.5**.
+- The guide tempers expectations with precedent: the Big 12 makes a quick turnaround hard, and Morris himself went 5-7 in his first year at North Texas. It notes he has legitimate offensive stars including Drew Mestemaker, so even short of success this should be fun to watch. *(p. 136)*
+- Recommendation is Over 5.5 wins. The guide calls the defense's look concerning while crediting coordinator Skyler Cassity with doing more with less. *(p. 136)*
+- Its path is arithmetic: easy wins over Tulsa and Murray State, winnable home games against UCF, Colorado and Kansas, and then just one road win needed from West Virginia, Iowa State and Kansas State — which it expects to happen. *(p. 136)*
 - Mestemaker was the best Group of Five quarterback in the country and posted the best numbers of any FBS quarterback, with NFL scouts drawn to his arm, mobility and ability to read defenses. The guide raises the translation question and supplies specific counter-evidence: he had more interceptions than touchdowns in two of North Texas's biggest games, against South Florida and at Tulane. It is fair in noting those losses were not only on him, while insisting he must prove he can handle tougher competition, and identifies the 12 September game against Oregon as the early test. *(p. 137)*
+- North Texas's 0.06 Adjusted EPA per play allowed was poor, but good enough to let Mestemaker win games — which the guide says is the goal again. Cassity was praised for turning that defense into a high-turnover unit and will hope the aggressive style works in the Big 12. The problem it identifies is talent: only four players who started in 2025 are in the projected lineup, with the rest youth and unproven transfers. Its conclusion is direct — this could be one of the Big 12's worst defenses, which is why it is hard to fully buy Oklahoma State as a conference sleeper. *(p. 137)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

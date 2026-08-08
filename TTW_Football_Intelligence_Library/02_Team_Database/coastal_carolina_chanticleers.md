@@ -303,8 +303,11 @@ As printed on p. 321. Each category carries a value and a national rank.
 - Makinen projects **4.6 wins** against a posted total of 4.5 — **+0.1** in this team's favour.
 - Beard had the fortune of having a very experienced QB last season in Clark, but he was still sacked 48 times, as the team gave up 52 sacks overall. *(p. 321)*
 - None of the QB options are experienced at this level, so you have to wonder (and worry) about how many negative plays will come as a result of sacks. *(p. 321)*
+- Two of their Sun Belt road games are quite winnable - Coastal Carolina and Georgia State - and I also expect them to put up terrific passing numbers with multi-time transfer Max Johnson in a pass-happy scheme. *(p. 11)*
 - It does need to be said that the Pirates allowed just 390 yards in their wins over Campbell and Coastal Carolina and 71 rushing yards on 53 carries, so their conference numbers weren’t nearly as strong as the full body of work suggests. *(p. 55)*
 - Kennesaw State’s eight-win improvement was a shocker, but so was Liberty’s complete reversal of fortunes, going from 8-4 to 4-8, as head coach Jamey Chadwell posted his worst record since 2017 when he was the interim HC at Coastal Carolina while Joe Moglia tended to health issues and the Chanticleers went 3-9. *(p. 196)*
+- Over 7.5 The schedule is kind to Rahne this season, as James Madison and Marshall go to Norfolk and the non-conference road game at UConn, albeit randomly timed, is very winnable, along with hapless Georgia State, newcomer Louisiana Tech, and a Coastal Carolina team in a transitional phase. *(p. 330)*
+- All SBC road games are winnable, including the one against conference favorite Louisiana, and drawing Coastal Carolina and Georgia State from the East is a boost to the team’s forecast. *(p. 332)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -353,6 +356,8 @@ No source conflict identified for this team.
 | 11, 24, 25, 33, 37, 41, 55, 67, 97, 137, 146, 151, 196, 197, 200, 227, 326, 328, 330, 332, 338 | Other pages naming this team |
 
 This team is named in **27 sentences across 24 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 11, 24, 25, 33, 37, 41, 55, 67, 97, 137, 146, 151, 196, 197, 200, 227, 326, 328, 330, 332, 338.
 
 ## 29. Cross-Links
 

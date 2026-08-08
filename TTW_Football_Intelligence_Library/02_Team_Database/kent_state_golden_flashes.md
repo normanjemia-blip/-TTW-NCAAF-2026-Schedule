@@ -267,6 +267,12 @@ As printed on p. 229. Each category carries a value and a national rank.
 - Makinen projects **3.7 wins** against a posted total of 3.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 3.5**.
 - This isn’t a super strong play, but the talent level is better here again. *(p. 228)*
+- It was also an impressive season given that top WRs Chrishon McCray and Luke Floriea had moved on, as they combined for 84 of the team’s 139 receptions the previous year. *(p. 229)*
+- That’s not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
+- Over 4.5 Moorhead got a lot out of a team that couldn’t make a bowl game and the most impressive data point to me was a 19-16 road win at Bowling Green after losing to rival Kent State in OT. *(p. 216)*
+- Unfortunately for the Cardinals, two of their three most winnable conference games are road visits to Kent State and UMass. *(p. 218)*
+- The Falcons had those two very impressive wins over Liberty and Toledo, but also blew leads against Kent State, Akron, and Eastern Michigan that would have made the season look a lot different and may have even led to bowl eligibility. *(p. 221)*
+- While the RedHawks don’t get newcomer Sacramento State or Eastern Michigan, they do get UMass and Kent State on the road, so those are two very winnable roadies. *(p. 232)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -314,6 +320,8 @@ No source conflict identified for this team.
 | 34, 89, 216, 218, 221, 222, 230, 232, 236, 319 | Other pages naming this team |
 
 This team is named in **15 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 34, 89, 216, 218, 221, 222, 230, 232, 236, 319.
 
 ## 29. Cross-Links
 

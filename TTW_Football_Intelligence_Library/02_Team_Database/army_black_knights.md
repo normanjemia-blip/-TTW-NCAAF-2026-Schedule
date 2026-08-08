@@ -290,8 +290,12 @@ As printed on p. 51. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Replicating their 12-2 record from 2024 was going to be an insurmountable challenge, and the fact that the Black Knights still did well enough to have a winning record at 7-6 thanks to a bowl game blowout of a severely- undermanned UConn squad was another example of how solid Jeff Monken has been in West Point. *(p. 50)*
+- The Black Knights have had one losing season since 2015 and have a high floor once again. *(p. 50)*
 - It’s almost always an undersized unit in the trenches, but often an experienced crew. *(p. 51)*
 - While there are a lot of seniors on the two-deep, the top seven tacklers are all gone, including Andon Thomas, who led the team with 113 tackles. *(p. 51)*
+- On top of that, new defensive coordinator Nate Woody largely did a good job in that role at Army. *(p. 125)*
+- The former Army offensive line coach went 7-6 in his first season as the head coach at CMU, as he did a pretty good job of ramming square pegs through round holes. *(p. 224)*
+- That said, Henicle was recruited to some FCS schools with good rushing attacks and also Army, so he was clearly viewed as an impact QB in the ground game. *(p. 331)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -343,6 +347,8 @@ No source conflict identified for this team.
 | 54, 64, 65, 68, 69, 70, 76, 77, 125, 197, 224, 230, 331, 337 | Other pages naming this team |
 
 This team is named in **32 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 54, 64, 65, 68, 69, 70, 76, 77, 125, 197, 224, 230, 331, 337.
 
 ## 29. Cross-Links
 

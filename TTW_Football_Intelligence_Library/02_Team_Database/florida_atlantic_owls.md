@@ -286,6 +286,8 @@ As printed on p. 57. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 5.5**.
+- The makings of a good football team were present in Boca Raton last season. *(p. 56)*
+- Over 5.5 The season might start rather slowly with Florida and Navy on the docket, but the three games before the bye are very, very winnable. *(p. 56)*
 - This isn’t a super strong opinion and more of a lean, but Kittley is a sharp football mind and he’s had a lot more time to evaluate the guys that fit and don’t fit what he’s aiming to achieve. *(p. 56)*
 - With a lot of American Conference teams facing questions this season, I think this has the chance to be FAU’s best football year since the Lane Kiffin days. *(p. 22)*
 - They do play at UTSA and at what should be an improved FAU team. *(p. 60)*
@@ -334,6 +336,8 @@ No source conflict identified for this team.
 | 22, 31, 60, 68, 161, 175, 190, 191, 290, 321 | Other pages naming this team |
 
 This team is named in **19 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 22, 31, 60, 68, 161, 175, 190, 191, 290, 321.
 
 ## 29. Cross-Links
 
