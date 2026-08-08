@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 9.2–2.8 overall, 5.8–1.2 in conference |
 | **Schedule strength** | 39.13 (#73 toughest of 138) |
 
-### Season outlook as written in the guide (p. 266)
+### Season outlook — VSiN's analysis in reference form (p. 266)
 
-A decline is evident in the Boise State program, but it’s only a minor slip. The Broncos were a powerhouse two years ago, going 12-2 and reaching the College Football Playoff, so last season’s 9-5 finish was an obvious step back. The worst part was the bookend losses — 34-7 at South Florida in the season opener and 38-10 to Washington in the LA Bowl. Boise has been winning big for a long time under multiple head coaches, from Dirk Koetter to Dan Hawkins to Chris Petersen to Bryan Harsin and now Spencer Danielson, who guided the Broncos to three consecutive Mountain West championships. Danielson has a senior quarterback and an experienced team that deserves to be the Pac- 12 favorite. A bigger, realistic goal is another CFP appearance. Over 7.5 Aside from the season opener at Oregon, which is a 24.5-point favorite, every other game on the schedule is winnable for the Broncos. The toughest Pac-12 road tests will be at Fresno State and Washington State, but Boise gets a home date with San Diego State and should reach eight wins if Madsen stays healthy. The DraftKings line of 7.5 looks a tick low and the -135 price is fair to pay. It should be noted DraftKings is stipulating 11 games for this win total and excluding the “Flex Game” added to Pac-12 schedules at the end of November. Circa Sports includes the 12th flex game and offers 7.5 Over -180. Instead of locking in all of the final opponents, the league will adjust matchups to maximize bowl eligibility and CFP chances, and the final game will be designated as a non-conference rematch from earlier in the season.
+- The guide calls the decline real but minor: Boise State went 12-2 and reached the playoff two years ago, so last season's 9-5 was an obvious step back. *(p. 266)*
+- It singles out the bookend losses as the worst part — 34-7 at South Florida in the opener and 38-10 to Washington in the LA Bowl. *(p. 266)*
+- Boise has won big under multiple coaches, from Dirk Koetter through Dan Hawkins, Chris Petersen and Bryan Harsin to Spencer Danielson, who has delivered three consecutive Mountain West titles. *(p. 266)*
+- With a senior quarterback and an experienced team, the guide says Boise deserves to be Pac-12 favorite, with another playoff appearance the bigger realistic goal. *(p. 266)*
+- Recommendation is Over 7.5 wins. Apart from the opener at Oregon, where Boise is a 24.5-point underdog, it judges every game winnable. *(p. 266)*
+- The toughest conference road tests are Fresno State and Washington State, with a home date against San Diego State, and the guide expects eight wins if Maddux Madsen stays healthy — calling 7.5 a tick low and -135 fair. *(p. 266)*
+- An important market mechanic is flagged: DraftKings prices this total on 11 games, excluding the Flex Game added to Pac-12 schedules in late November, while Circa Sports includes the 12th flex game and offers 7.5 Over -180. The guide explains the flex format — rather than locking final opponents, the league adjusts matchups to maximize bowl eligibility and playoff chances, with the last game designated a non-conference rematch from earlier in the season. *(p. 266)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,7 +86,7 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Boise has been winning big for a long time under multiple head coaches, from Dirk Koetter to Dan Hawkins to Chris Petersen to Bryan Harsin and now Spencer Danielson, who guided the Broncos to three consecutive Mountain West championships. *(p. 266)*
+- Boise has won big under multiple coaches, from Dirk Koetter through Dan Hawkins, Chris Petersen and Bryan Harsin to Spencer Danielson, who has delivered three consecutive Mountain West titles. *(p. 266)*
 
 ## 9. Quarterback Situation
 
@@ -86,11 +94,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 266)*.
 
-- Danielson has a senior quarterback and an experienced team that deserves to be the Pac- 12 favorite. *(p. 266)*
-- A quarterback who’s named after a pair of Hall of Famers – pitcher Greg Maddux and shortstop Derek Jeter — is probably worth a bet. *(p. 267)*
-- As a junior, his numbers dipped to 58.3% completions, 2,334 passing yards, 18 touchdowns and nine interceptions. *(p. 267)*
-- He threw four interceptions in a 28-7 loss at Notre Dame, yet when healthier late in the season, he passed for three touchdowns to lead the Broncos to a 38-21 victory over UNLV in the MW title game. *(p. 267)*
-- He could be the top quarterback in the conference. *(p. 267)*
+- With a senior quarterback and an experienced team, the guide says Boise deserves to be Pac-12 favorite, with another playoff appearance the bigger realistic goal. *(p. 266)*
+- The toughest conference road tests are Fresno State and Washington State, with a home date against San Diego State, and the guide expects eight wins if Maddux Madsen stays healthy — calling 7.5 a tick low and -135 fair. *(p. 266)*
+- **Is Maddux Madsen a good bet to bounce back?** The guide notes his full name honours Greg Maddux and Derek Jeter before giving the record: 20-6 as a starter, but injuries and poor stretches last season. As a sophomore he completed 62.4% for 3,018 yards with 23 touchdowns and six interceptions; as a junior that fell to 58.3%, 2,334 yards, 18 touchdowns and nine interceptions. It gives both extremes — four interceptions in a 28-7 loss at Notre Dame, then three touchdown passes when healthier to beat UNLV 38-21 in the conference title game. It recalls he was labelled a game manager when Ashton Jeanty carried the offense, judges him capable of more, ties Boise's success closely to his play, and suggests he could be the conference's top quarterback. *(p. 267)*
 
 ## 10. Returning Production
 
@@ -106,7 +112,7 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- Boise returns two of the league’s top linemen — senior guard Roger Carreon and senior tackle Daylon Metoyer — and welcomes the addition of senior tackle Tyler Ethridge, a transfer from Division II Colorado State-Pueblo. *(p. 267)*
+- **Will the running attack ground and pound defenses?** Dylan Riley did not replace Jeanty but flashed, including 201 rushing yards on 15 carries in a 56-31 win over UNLV, finishing with 1,125 yards and 10 touchdowns, backed by Sire Gaines and his 811 yards. The guide expects that pairing to ease Madsen's job. It records Danielson's own stated disappointment that the line was not more physical and his expectation that this changes, noting Boise returns two of the league's best linemen in senior guard Roger Carreon and senior tackle Daylon Metoyer and adds Division II transfer Tyler Ethridge from Colorado State-Pueblo. Left tackle Kage Casey left as a fourth-round pick to Denver, but depth, experience and size remain. *(p. 267)*
 
 ## 12. Recruiting / Roster Notes
 
@@ -114,21 +120,13 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Madsen was labeled as a game manager two years ago when star running back Ashton Jeanty carried the offense. *(p. 267)*
-- Dylan Riley didn’t fill Jeanty’s shoes, but he had a few flashes of brilliance, including a 201-yard rushing performance on only 15 carries in a 56-31 regular-season win over UNLV. *(p. 267)*
-- He will again be backed up by Sire Gaines, who ended the year with 811 rushing yards. *(p. 267)*
-- The Riley-Gaines combo will make Madsen’s job easier and make the Boise offense tough to stop. *(p. 267)*
-- Danielson said he was disappointed the Broncos were not more physical on the offensive line last season and he expects that to change. *(p. 267)*
+- **Will the running attack ground and pound defenses?** Dylan Riley did not replace Jeanty but flashed, including 201 rushing yards on 15 carries in a 56-31 win over UNLV, finishing with 1,125 yards and 10 touchdowns, backed by Sire Gaines and his 811 yards. The guide expects that pairing to ease Madsen's job. It records Danielson's own stated disappointment that the line was not more physical and his expectation that this changes, noting Boise returns two of the league's best linemen in senior guard Roger Carreon and senior tackle Daylon Metoyer and adds Division II transfer Tyler Ethridge from Colorado State-Pueblo. Left tackle Kage Casey left as a fourth-round pick to Denver, but depth, experience and size remain. *(p. 267)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- In a conference highlighted by running back talent — headlined by Boise State’s Dylan Riley and San Diego State’s Lucky Sutton — the Bulldogs could boast the most effective offense on the ground. *(p. 271)*
+Referenced in the guide on **pp. 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- In 2024, Boise’s defense led the nation with 55 sacks, but that number dropped to 27 last season. *(p. 267)*
-- Edge rusher Jayden Virgin- Morgan returns after leading the team with six sacks. *(p. 267)*
-- While four of the top five tacklers from last season are gone, junior linebacker Boen Phelps and senior cornerback Jaden Mickey are experienced leaders on a defense that must improve after allowing 24 PPG. *(p. 267)*
+- **Is the defense strong enough to survive?** The guide anchors the concern in a single collapse: Boise led the nation with 55 sacks in 2024 and managed 27 last season. Edge rusher Jayden Virgin-Morgan returns after leading the team with six. Four of the top five tacklers are gone, leaving junior linebacker Boen Phelps and senior cornerback Jaden Mickey as experienced leaders on a unit that must improve after allowing 24 points per game. Its verdict is that Boise has questions to answer on this side. *(p. 267)*
 
 ## 15. Key Strengths
 
@@ -200,34 +198,20 @@ Prices printed on the team page *(p. 267)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Danielson has a senior quarterback and an experienced team that deserves to be the Pac- 12 favorite. *(p. 266)*
-- Over 7.5 Aside from the season opener at Oregon, which is a 24.5-point favorite, every other game on the schedule is winnable for the Broncos. *(p. 266)*
-- The DraftKings line of 7.5 looks a tick low and the -135 price is fair to pay. *(p. 266)*
-- A quarterback who’s named after a pair of Hall of Famers – pitcher Greg Maddux and shortstop Derek Jeter — is probably worth a bet. *(p. 267)*
+- Recommendation is Over 7.5 wins. Apart from the opener at Oregon, where Boise is a 24.5-point underdog, it judges every game winnable. *(p. 266)*
+- The toughest conference road tests are Fresno State and Washington State, with a home date against San Diego State, and the guide expects eight wins if Maddux Madsen stays healthy — calling 7.5 a tick low and -135 fair. *(p. 266)*
+- An important market mechanic is flagged: DraftKings prices this total on 11 games, excluding the Flex Game added to Pac-12 schedules in late November, while Circa Sports includes the 12th flex game and offers 7.5 Over -180. The guide explains the flex format — rather than locking final opponents, the league adjusts matchups to maximize bowl eligibility and playoff chances, with the last game designated a non-conference rematch from earlier in the season. *(p. 266)*
+- **Is Maddux Madsen a good bet to bounce back?** The guide notes his full name honours Greg Maddux and Derek Jeter before giving the record: 20-6 as a starter, but injuries and poor stretches last season. As a sophomore he completed 62.4% for 3,018 yards with 23 touchdowns and six interceptions; as a junior that fell to 58.3%, 2,334 yards, 18 touchdowns and nine interceptions. It gives both extremes — four interceptions in a 28-7 loss at Notre Dame, then three touchdown passes when healthier to beat UNLV 38-21 in the conference title game. It recalls he was labelled a game manager when Ashton Jeanty carried the offense, judges him capable of more, ties Boise's success closely to his play, and suggests he could be the conference's top quarterback. *(p. 267)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Plus, they get conference favorite Boise State at home. *(p. 13)*
-- BOISE STATE The Broncos (9-5 last season) won the last three Mountain West championships and are +170 favorites to win the eight-team Pac-12. *(p. 20)*
-- Boise State, which won the last three Mountain West championships, is listed by DraftKings as the +170 favorite to win the Pac-12. *(p. 265)*
-- Over 3.5 The Rams have the potential to be a surprise team in the Pac-12, a conference that appears to be full of mystery teams aside from favorite Boise State. *(p. 268)*
-- The schedule is not easy and also includes road games against Pac-12 favorites Boise State and San Diego State. *(p. 276)*
+Also referenced on **pp. 13, 20, 265, 268, 276** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- The Broncos were a powerhouse two years ago, going 12-2 and reaching the College Football Playoff, so last season’s 9-5 finish was an obvious step back. *(p. 266)*
-- Maddux Jeter Madsen owns a 20-6 career record as the Broncos’ starter, but he battled injuries and played poorly at times last season. *(p. 267)*
-- Madsen is capable of more than he showed last season and Boise’s success will depend a lot on how he plays. *(p. 267)*
-- Danielson said he was disappointed the Broncos were not more physical on the offensive line last season and he expects that to change. *(p. 267)*
-- In 2024, Boise’s defense led the nation with 55 sacks, but that number dropped to 27 last season. *(p. 267)*
-- While four of the top five tacklers from last season are gone, junior linebacker Boen Phelps and senior cornerback Jaden Mickey are experienced leaders on a defense that must improve after allowing 24 PPG. *(p. 267)*
+- The guide calls the decline real but minor: Boise State went 12-2 and reached the playoff two years ago, so last season's 9-5 was an obvious step back. *(p. 266)*
+- It singles out the bookend losses as the worst part — 34-7 at South Florida in the opener and 38-10 to Washington in the LA Bowl. *(p. 266)*
+- Boise has won big under multiple coaches, from Dirk Koetter through Dan Hawkins, Chris Petersen and Bryan Harsin to Spencer Danielson, who has delivered three consecutive Mountain West titles. *(p. 266)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- BOISE STATE TO MAKE COLLEGE FOOTBALL PLAYOFF (+450) Last year, two Group of Five teams made the CFP despite losing game(s) in the regular season. *(p. 6)*
-- BOISE STATE The Broncos (9-5 last season) won the last three Mountain West championships and are +170 favorites to win the eight-team Pac-12. *(p. 20)*
-- Hopefully I can see a clearer picture of which teams will improve this year. 14 teams I project to go Over their DraftKings season win props BOISE STATE – OVER 7.5 WINS The Broncos +1.7 difference represents one of the biggest I’ve ever had in projecting wins against the schedule using my power ratings, and I even double- and triple-checked the numbers to be sure. *(p. 22)*
-- He ran for 1,297 yards last season, including 150 against Boise State, to lead the Mountain West. *(p. 275)*
+Referenced in the guide on **pp. 6, 20, 22, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -274,46 +258,39 @@ As printed on p. 267. Each category carries a value and a national rank.
 
 - Makinen projects **9.2 wins** against a posted total of 7.5 — **+1.7** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- Boise has been winning big for a long time under multiple head coaches, from Dirk Koetter to Dan Hawkins to Chris Petersen to Bryan Harsin and now Spencer Danielson, who guided the Broncos to three consecutive Mountain West championships. *(p. 266)*
-- Danielson has a senior quarterback and an experienced team that deserves to be the Pac- 12 favorite. *(p. 266)*
-- Over 7.5 Aside from the season opener at Oregon, which is a 24.5-point favorite, every other game on the schedule is winnable for the Broncos. *(p. 266)*
-- Madsen is capable of more than he showed last season and Boise’s success will depend a lot on how he plays. *(p. 267)*
-- Boise returns two of the league’s top linemen — senior guard Roger Carreon and senior tackle Daylon Metoyer — and welcomes the addition of senior tackle Tyler Ethridge, a transfer from Division II Colorado State-Pueblo. *(p. 267)*
-- Edge rusher Jayden Virgin- Morgan returns after leading the team with six sacks. *(p. 267)*
-- While four of the top five tacklers from last season are gone, junior linebacker Boen Phelps and senior cornerback Jaden Mickey are experienced leaders on a defense that must improve after allowing 24 PPG. *(p. 267)*
-- Hopefully I can see a clearer picture of which teams will improve this year. 14 teams I project to go Over their DraftKings season win props BOISE STATE – OVER 7.5 WINS The Broncos +1.7 difference represents one of the biggest I’ve ever had in projecting wins against the schedule using my power ratings, and I even double- and triple-checked the numbers to be sure. *(p. 22)*
+- With a senior quarterback and an experienced team, the guide says Boise deserves to be Pac-12 favorite, with another playoff appearance the bigger realistic goal. *(p. 266)*
+- Recommendation is Over 7.5 wins. Apart from the opener at Oregon, where Boise is a 24.5-point underdog, it judges every game winnable. *(p. 266)*
+- The guide notes his full name honours Greg Maddux and Derek Jeter before giving the record: 20-6 as a starter, but injuries and poor stretches last season. As a sophomore he completed 62.4% for 3,018 yards with 23 touchdowns and six interceptions; as a junior that fell to 58.3%, 2,334 yards, 18 touchdowns and nine interceptions. It gives both extremes — four interceptions in a 28-7 loss at Notre Dame, then three touchdown passes when healthier to beat UNLV 38-21 in the conference title game. It recalls he was labelled a game manager when Ashton Jeanty carried the offense, judges him capable of more, ties Boise's success closely to his play, and suggests he could be the conference's top quarterback. *(p. 267)*
+- Dylan Riley did not replace Jeanty but flashed, including 201 rushing yards on 15 carries in a 56-31 win over UNLV, finishing with 1,125 yards and 10 touchdowns, backed by Sire Gaines and his 811 yards. The guide expects that pairing to ease Madsen's job. It records Danielson's own stated disappointment that the line was not more physical and his expectation that this changes, noting Boise returns two of the league's best linemen in senior guard Roger Carreon and senior tackle Daylon Metoyer and adds Division II transfer Tyler Ethridge from Colorado State-Pueblo. Left tackle Kage Casey left as a fourth-round pick to Denver, but depth, experience and size remain. *(p. 267)*
+- The guide anchors the concern in a single collapse: Boise led the nation with 55 sacks in 2024 and managed 27 last season. Edge rusher Jayden Virgin-Morgan returns after leading the team with six. Four of the top five tacklers are gone, leaving junior linebacker Boen Phelps and senior cornerback Jaden Mickey as experienced leaders on a unit that must improve after allowing 24 points per game. Its verdict is that Boise has questions to answer on this side. *(p. 267)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The worst part was the bookend losses — 34-7 at South Florida in the season opener and 38-10 to Washington in the LA Bowl. *(p. 266)*
-- Maddux Jeter Madsen owns a 20-6 career record as the Broncos’ starter, but he battled injuries and played poorly at times last season. *(p. 267)*
-- He threw four interceptions in a 28-7 loss at Notre Dame, yet when healthier late in the season, he passed for three touchdowns to lead the Broncos to a 38-21 victory over UNLV in the MW title game. *(p. 267)*
-- The Riley-Gaines combo will make Madsen’s job easier and make the Boise offense tough to stop. *(p. 267)*
-- The Broncos have some questions to answer on this side of the ball. *(p. 267)*
-- UNLV TO MAKE MOUNTAIN WEST CONFERENCE TITLE GAME (+110) I have gone through the UNLV schedule for ’26, which is minus nemesis Boise State this year after the Broncos left for the Pac-12, and I am struggling to find even a single game where the Runnin’ Rebels will not be expected to win or at least be extremely competitive. *(p. 6)*
-- UNLV – OVER 7.5 WINS Do yourself a favor…go through the UNLV schedule for 2026, which is minus Boise State this year after the Broncos left for the Pac-12, and tell me if there are any games which you designate in the “likely loss” category. *(p. 24)*
-- The non-conference schedule is tough with UNLV and Boise State, but the conference schedule isn’t all that bad for the Tigers. *(p. 58)*
+- It singles out the bookend losses as the worst part — 34-7 at South Florida in the opener and 38-10 to Washington in the LA Bowl. *(p. 266)*
+- The guide notes his full name honours Greg Maddux and Derek Jeter before giving the record: 20-6 as a starter, but injuries and poor stretches last season. As a sophomore he completed 62.4% for 3,018 yards with 23 touchdowns and six interceptions; as a junior that fell to 58.3%, 2,334 yards, 18 touchdowns and nine interceptions. It gives both extremes — four interceptions in a 28-7 loss at Notre Dame, then three touchdown passes when healthier to beat UNLV 38-21 in the conference title game. It recalls he was labelled a game manager when Ashton Jeanty carried the offense, judges him capable of more, ties Boise's success closely to his play, and suggests he could be the conference's top quarterback. *(p. 267)*
+- The guide anchors the concern in a single collapse: Boise led the nation with 55 sacks in 2024 and managed 27 last season. Edge rusher Jayden Virgin-Morgan returns after leading the team with six. Four of the top five tacklers are gone, leaving junior linebacker Boen Phelps and senior cornerback Jaden Mickey as experienced leaders on a unit that must improve after allowing 24 points per game. Its verdict is that Boise has questions to answer on this side. *(p. 267)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 267)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 267)*. Its analysis, in reference form:
 
 ### Is Maddux Madsen a good bet to bounce back?
 
-A quarterback who’s named after a pair of Hall of Famers – pitcher Greg Maddux and shortstop Derek Jeter — is probably worth a bet. Maddux Jeter Madsen owns a 20-6 career record as the Broncos’ starter, but he battled injuries and played poorly at times last season. As a sophomore, Madsen completed 62.4% of his passes for 3,018 yards and 23 touchdowns with six interceptions. As a junior, his numbers dipped to 58.3% completions, 2,334 passing yards, 18 touchdowns and nine interceptions. He threw four interceptions in a 28-7 loss at Notre Dame, yet when healthier late in the season, he passed for three touchdowns to lead the Broncos to a 38-21 victory over UNLV in the MW title game. Madsen was labeled as a game manager two years ago when star running back Ashton Jeanty carried the offense. Madsen is capable of more than he showed last season and Boise’s success will depend a lot on how he plays. He could be the top quarterback in the conference.
+The guide notes his full name honours Greg Maddux and Derek Jeter before giving the record: 20-6 as a starter, but injuries and poor stretches last season. As a sophomore he completed 62.4% for 3,018 yards with 23 touchdowns and six interceptions; as a junior that fell to 58.3%, 2,334 yards, 18 touchdowns and nine interceptions. It gives both extremes — four interceptions in a 28-7 loss at Notre Dame, then three touchdown passes when healthier to beat UNLV 38-21 in the conference title game. It recalls he was labelled a game manager when Ashton Jeanty carried the offense, judges him capable of more, ties Boise's success closely to his play, and suggests he could be the conference's top quarterback. *(p. 267)*
 
 ### Will the running attack ground and pound defenses?
 
-Dylan Riley didn’t fill Jeanty’s shoes, but he had a few flashes of brilliance, including a 201-yard rushing performance on only 15 carries in a 56-31 regular-season win over UNLV. Riley finished the season with 1,125 yards and 10 touchdowns on the ground. He will again be backed up by Sire Gaines, who ended the year with 811 rushing yards. The Riley-Gaines combo will make Madsen’s job easier and make the Boise offense tough to stop. Danielson said he was disappointed the Broncos were not more physical on the offensive line last season and he expects that to change. Boise returns two of the league’s top linemen — senior guard Roger Carreon and senior tackle Daylon Metoyer — and welcomes the addition of senior tackle Tyler Ethridge, a transfer from Division II Colorado State-Pueblo. Left tackle Kage Casey moved on to the NFL’s Broncos as a fourth-round draft pick by Denver, but there is plenty of depth, experience and size on the line.
+Dylan Riley did not replace Jeanty but flashed, including 201 rushing yards on 15 carries in a 56-31 win over UNLV, finishing with 1,125 yards and 10 touchdowns, backed by Sire Gaines and his 811 yards. The guide expects that pairing to ease Madsen's job. It records Danielson's own stated disappointment that the line was not more physical and his expectation that this changes, noting Boise returns two of the league's best linemen in senior guard Roger Carreon and senior tackle Daylon Metoyer and adds Division II transfer Tyler Ethridge from Colorado State-Pueblo. Left tackle Kage Casey left as a fourth-round pick to Denver, but depth, experience and size remain. *(p. 267)*
 
 ### Is the defense strong enough to survive?
 
-In 2024, Boise’s defense led the nation with 55 sacks, but that number dropped to 27 last season. Edge rusher Jayden Virgin- Morgan returns after leading the team with six sacks. While four of the top five tacklers from last season are gone, junior linebacker Boen Phelps and senior cornerback Jaden Mickey are experienced leaders on a defense that must improve after allowing 24 PPG. The Broncos have some questions to answer on this side of the ball.
+The guide anchors the concern in a single collapse: Boise led the nation with 55 sacks in 2024 and managed 27 last season. Edge rusher Jayden Virgin-Morgan returns after leading the team with six. Four of the top five tacklers are gone, leaving junior linebacker Boen Phelps and senior cornerback Jaden Mickey as experienced leaders on a unit that must improve after allowing 24 points per game. Its verdict is that Boise has questions to answer on this side. *(p. 267)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

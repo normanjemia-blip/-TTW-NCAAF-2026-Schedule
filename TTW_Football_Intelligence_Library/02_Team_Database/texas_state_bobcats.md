@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 6.0–6.0 overall, 3.3–3.7 in conference |
 | **Schedule strength** | 38.48 (#74 toughest of 138) |
 
-### Season outlook as written in the guide (p. 276)
+### Season outlook — VSiN's analysis in reference form (p. 276)
 
-In three years with the Bobcats, G.J. Kinne has coached the team to records of 8-5, 8-5 and 7-6 and each season concluded with a bowl win. Kinne is a former college and NFL quarterback who’s known for creating prolific passing offenses. While the Sun Belt was a relatively soft conference, the move to the Pac-12 is not exactly a massive step up. Texas State is not on Boise State’s level yet, but it probably has the talent to hang with every other team in its new league. The Bobcats have an experienced quarterback who will put up big numbers and they have more than enough offensive firepower to find their way to another bowl game. Over 6.5 Texas State is a 30.5-point underdog at Texas on Sept. 5, when Jackson will go head- to-head with Heisman Trophy contender Arch Manning. Jackson could put up bigger numbers than Manning in that game and for the season. The schedule is not easy and also includes road games against Pac-12 favorites Boise State and San Diego State. The Bobcats figure to be favored in at least six of their seven home games, and they have winnable road dates with Colorado State and Oregon State. With Circa Sports setting the 12-game win total at 6.5, look Over and expect a 7-5 or 8-4 finish. The defense is definitely a concern, but Jackson is a rising star, and the offense will be too hot for most Pac-12 defenses to handle.
+- The guide leads with G.J. Kinne's consistency: three years with the Bobcats producing 8-5, 8-5 and 7-6, each season ending in a bowl win. *(p. 276)*
+- Kinne is described as a former college and NFL quarterback known for creating prolific passing offenses. *(p. 276)*
+- On the conference move, the guide's judgement is that the Sun Belt was a relatively soft league and the step up to the Pac-12 is not a massive one. Texas State is not yet on Boise State's level, but it credits the Bobcats with the talent to hang with every other team in the new league. *(p. 276)*
+- Its bottom line is an experienced quarterback who will put up big numbers plus more than enough offensive firepower to reach another bowl. *(p. 276)*
+- Recommendation is Over 6.5 wins on the Circa Sports 12-game total, with an expected finish of 7-5 or 8-4. *(p. 276)*
+- The opener is used as a showcase rather than a win: Texas State is a 30.5-point underdog at Texas on Sept. 5, with Jackson matched against Heisman Trophy contender Arch Manning. The guide suggests Jackson could post bigger numbers than Manning both in that game and over the season. *(p. 276)*
+- Schedule reasoning behind the Over: it is not easy, adding road games at Pac-12 favourites Boise State and San Diego State, but the Bobcats figure to be favoured in at least six of their seven home games and have winnable road dates at Colorado State and Oregon State. *(p. 276)*
+- The stated risk is the defense, which the guide calls definitely a concern; the offsetting case is that Jackson is a rising star and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,11 +87,9 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Kinne has coached the team to records of 8-5, 8-5 and 7-6 and each season concluded with a bowl win. *(p. 276)*
-- Texas State’s offense should cause nightmares for defensive coordinators. *(p. 277)*
-- He briefly played in the CFL and UFL before becoming a coach and learning under the likes of Gus Malzahn, Sonny Dykes and Chad Morris. *(p. 277)*
-- In his first head coaching stop at Incarnate Word in 2022, he coached the Cardinals to a 12-2 record and was targeted by Texas State. *(p. 277)*
-- In an era when innovative offensive coaches are in high demand, Kinne will likely become a hot candidate for bigger jobs in the future. *(p. 277)*
+- The guide leads with G.J. Kinne's consistency: three years with the Bobcats producing 8-5, 8-5 and 7-6, each season ending in a bowl win. *(p. 276)*
+- Kinne is described as a former college and NFL quarterback known for creating prolific passing offenses. *(p. 276)*
+- **Is the coach a rising star in college football?** The guide traces Kinne's path in full. He was a big-time passer at Tulsa, finishing with 9,472 yards and 81 touchdowns, but his playing career stalled at numerous pro stops — signed by the New York Jets as an undrafted free agent in 2012, practice squads with the Eagles and Giants, brief spells in the CFL and UFL. He then learned as a coach under Gus Malzahn, Sonny Dykes and Chad Morris. His first head-coaching stop was Incarnate Word in 2022, where he went 12-2 and was hired away by Texas State. The guide's projection is that in an era when innovative offensive coaches are in high demand, Kinne will likely become a hot candidate for bigger jobs, and that this season's high-powered offense will help that rise. *(p. 277)*
 
 ## 9. Quarterback Situation
 
@@ -90,14 +97,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 276)*.
 
-- Kinne is a former college and NFL quarterback who’s known for creating prolific passing offenses. *(p. 276)*
-- The Bobcats have an experienced quarterback who will put up big numbers and they have more than enough offensive firepower to find their way to another bowl game. *(p. 276)*
-- The numbers will point to Jackson as the marquee QB in the Pac-12. *(p. 277)*
-- Kinne was a big-time passer at Tulsa, finishing his career with 9,472 yards and 81 touchdowns, but his playing career stalled at numerous pro stops. *(p. 277)*
+- Its bottom line is an experienced quarterback who will put up big numbers plus more than enough offensive firepower to reach another bowl. *(p. 276)*
+- The opener is used as a showcase rather than a win: Texas State is a 30.5-point underdog at Texas on Sept. 5, with Jackson matched against Heisman Trophy contender Arch Manning. The guide suggests Jackson could post bigger numbers than Manning both in that game and over the season. *(p. 276)*
+- **Is Brad Jackson the best quarterback in the conference?** The guide's answer is that the numbers will point to Jackson as the marquee Pac-12 quarterback. Last season he completed 71.3% for 3,224 yards and 21 touchdowns against seven interceptions, and added 744 rushing yards and 17 touchdowns — as a sophomore. It supports this with team figures as written in the prose: the Bobcats ranked 12th nationally in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth. Its conclusion is that the offense should cause nightmares for defensive coordinators, because beyond Jackson's dual-threat ability the Bobcats return two of the league's top receivers — Beau Sparks (84 receptions, 1,200 yards, 10 touchdowns) and Chris Dawn (65 receptions, 1,007 yards). The offensive line is inexperienced, but the guide argues size matters and points to 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Texas State arrives with quarterback Brad Jackson triggering an explosive passing attack. *(p. 265)*
+Also referenced on **pp. 265** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -113,8 +117,8 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- The offensive line is inexperienced, but size matters and the linemen are big, highlighted by 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
-- The Bobcats could be bad defensively, yet there is hope if a few key players — most notably senior end DonTerry Russell, a former Mississippi State transfer — step up to make an impact. *(p. 277)*
+- **Is Brad Jackson the best quarterback in the conference?** The guide's answer is that the numbers will point to Jackson as the marquee Pac-12 quarterback. Last season he completed 71.3% for 3,224 yards and 21 touchdowns against seven interceptions, and added 744 rushing yards and 17 touchdowns — as a sophomore. It supports this with team figures as written in the prose: the Bobcats ranked 12th nationally in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth. Its conclusion is that the offense should cause nightmares for defensive coordinators, because beyond Jackson's dual-threat ability the Bobcats return two of the league's top receivers — Beau Sparks (84 receptions, 1,200 yards, 10 touchdowns) and Chris Dawn (65 receptions, 1,007 yards). The offensive line is inexperienced, but the guide argues size matters and points to 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
+- **Who likes high-scoring games and weak defenses?** The guide answers by fit: the Pac-12 has long been known for both, making Texas State a natural addition. It concedes the Bobcats could be bad defensively while leaving room for improvement if a few key players step up — most notably senior end DonTerry Russell, a former Mississippi State transfer. Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. The betting instruction drawn from this is to look to bet Over the total in most Texas State games this season. *(p. 277)*
 
 ## 12. Recruiting / Roster Notes
 
@@ -122,23 +126,16 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Kinne is a former college and NFL quarterback who’s known for creating prolific passing offenses. *(p. 276)*
-- The Bobcats have an experienced quarterback who will put up big numbers and they have more than enough offensive firepower to find their way to another bowl game. *(p. 276)*
-- The defense is definitely a concern, but Jackson is a rising star, and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
-- The Bobcats ranked 12th in the nation in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth nationally. *(p. 277)*
-- Texas State’s offense should cause nightmares for defensive coordinators. *(p. 277)*
-- Not only is Jackson a dual threat, the Bobcats return two of the top receivers in the league — Beau Sparks (84 receptions for 1,200 yards and 10 touchdowns) and Chris Dawn (65 receptions for 1,007 yards). *(p. 277)*
-- The offensive line is inexperienced, but size matters and the linemen are big, highlighted by 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
-- Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. *(p. 277)*
-- In an era when innovative offensive coaches are in high demand, Kinne will likely become a hot candidate for bigger jobs in the future. *(p. 277)*
-- Texas State’s high- powered offense this season will help his rise. *(p. 277)*
+- Kinne is described as a former college and NFL quarterback known for creating prolific passing offenses. *(p. 276)*
+- Its bottom line is an experienced quarterback who will put up big numbers plus more than enough offensive firepower to reach another bowl. *(p. 276)*
+- The stated risk is the defense, which the guide calls definitely a concern; the offsetting case is that Jackson is a rising star and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
+- **Is Brad Jackson the best quarterback in the conference?** The guide's answer is that the numbers will point to Jackson as the marquee Pac-12 quarterback. Last season he completed 71.3% for 3,224 yards and 21 touchdowns against seven interceptions, and added 744 rushing yards and 17 touchdowns — as a sophomore. It supports this with team figures as written in the prose: the Bobcats ranked 12th nationally in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth. Its conclusion is that the offense should cause nightmares for defensive coordinators, because beyond Jackson's dual-threat ability the Bobcats return two of the league's top receivers — Beau Sparks (84 receptions, 1,200 yards, 10 touchdowns) and Chris Dawn (65 receptions, 1,007 yards). The offensive line is inexperienced, but the guide argues size matters and points to 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
+- **Is the coach a rising star in college football?** The guide traces Kinne's path in full. He was a big-time passer at Tulsa, finishing with 9,472 yards and 81 touchdowns, but his playing career stalled at numerous pro stops — signed by the New York Jets as an undrafted free agent in 2012, practice squads with the Eagles and Giants, brief spells in the CFL and UFL. He then learned as a coach under Gus Malzahn, Sonny Dykes and Chad Morris. His first head-coaching stop was Incarnate Word in 2022, where he went 12-2 and was hired away by Texas State. The guide's projection is that in an era when innovative offensive coaches are in high demand, Kinne will likely become a hot candidate for bigger jobs, and that this season's high-powered offense will help that rise. *(p. 277)*
 
 ## 14. Defensive Identity
 
-- The defense is definitely a concern, but Jackson is a rising star, and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
-- Texas State’s offense should cause nightmares for defensive coordinators. *(p. 277)*
-- The Bobcats could be bad defensively, yet there is hope if a few key players — most notably senior end DonTerry Russell, a former Mississippi State transfer — step up to make an impact. *(p. 277)*
-- Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. *(p. 277)*
+- The stated risk is the defense, which the guide calls definitely a concern; the offsetting case is that Jackson is a rising star and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
+- **Who likes high-scoring games and weak defenses?** The guide answers by fit: the Pac-12 has long been known for both, making Texas State a natural addition. It concedes the Bobcats could be bad defensively while leaving room for improvement if a few key players step up — most notably senior end DonTerry Russell, a former Mississippi State transfer. Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. The betting instruction drawn from this is to look to bet Over the total in most Texas State games this season. *(p. 277)*
 
 ## 15. Key Strengths
 
@@ -222,25 +219,18 @@ Prices printed on the team page *(p. 277)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Over 6.5 Texas State is a 30.5-point underdog at Texas on Sept. 5, when Jackson will go head- to-head with Heisman Trophy contender Arch Manning. *(p. 276)*
-- The schedule is not easy and also includes road games against Pac-12 favorites Boise State and San Diego State. *(p. 276)*
-- Look to bet Over the total in most Texas State games this season. *(p. 277)*
+- Recommendation is Over 6.5 wins on the Circa Sports 12-game total, with an expected finish of 7-5 or 8-4. *(p. 276)*
+- Schedule reasoning behind the Over: it is not easy, adding road games at Pac-12 favourites Boise State and San Diego State, but the Bobcats figure to be favoured in at least six of their seven home games and have winnable road dates at Colorado State and Oregon State. *(p. 276)*
+- The stated risk is the defense, which the guide calls definitely a concern; the offsetting case is that Jackson is a rising star and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
+- **Who likes high-scoring games and weak defenses?** The guide answers by fit: the Pac-12 has long been known for both, making Texas State a natural addition. It concedes the Bobcats could be bad defensively while leaving room for improvement if a few key players step up — most notably senior end DonTerry Russell, a former Mississippi State transfer. Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. The betting instruction drawn from this is to look to bet Over the total in most Texas State games this season. *(p. 277)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
+Also referenced on **pp. 77** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- He completed 71.3% of his passes last season while totaling 3,224 yards and 21 touchdowns with seven interceptions. *(p. 277)*
-- He was signed by the New York Jets as an undrafted free agent in 2012 and landed on NFL practice squads with the Eagles and Giants. *(p. 277)*
-- In his first head coaching stop at Incarnate Word in 2022, he coached the Cardinals to a 12-2 record and was targeted by Texas State. *(p. 277)*
+- The guide leads with G.J. Kinne's consistency: three years with the Bobcats producing 8-5, 8-5 and 7-6, each season ending in a bowl win. *(p. 276)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- This season, I expect to have some deviations on a week-to-week basis in conference play, since we have Sacramento State in the MAC, Northern Illinois in the Mountain West, and Texas State in the Pac-12, just as some examples of conference realignment and how those teams will be visiting new venues, playing at elevation, or having long travel with some odd kickoff times. *(p. 21)*
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
-- Keldric Luster barely played over two years at SMU and then barely played at Texas State last season. *(p. 219)*
+Referenced in the guide on **pp. 21, 77, 219** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -287,39 +277,39 @@ As printed on p. 277. Each category carries a value and a national rank.
 
 - Makinen projects **6.0 wins** against a posted total of 5.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 6.5**.
-- The Bobcats have an experienced quarterback who will put up big numbers and they have more than enough offensive firepower to find their way to another bowl game. *(p. 276)*
-- Over 6.5 Texas State is a 30.5-point underdog at Texas on Sept. 5, when Jackson will go head- to-head with Heisman Trophy contender Arch Manning. *(p. 276)*
-- The Bobcats figure to be favored in at least six of their seven home games, and they have winnable road dates with Colorado State and Oregon State. *(p. 276)*
-- Not only is Jackson a dual threat, the Bobcats return two of the top receivers in the league — Beau Sparks (84 receptions for 1,200 yards and 10 touchdowns) and Chris Dawn (65 receptions for 1,007 yards). *(p. 277)*
-- The Pac-12 has been known for both throughout the years, so Texas State is a good fit for the conference. *(p. 277)*
-- Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? *(p. 272)*
+- On the conference move, the guide's judgement is that the Sun Belt was a relatively soft league and the step up to the Pac-12 is not a massive one. Texas State is not yet on Boise State's level, but it credits the Bobcats with the talent to hang with every other team in the new league. *(p. 276)*
+- Its bottom line is an experienced quarterback who will put up big numbers plus more than enough offensive firepower to reach another bowl. *(p. 276)*
+- The opener is used as a showcase rather than a win: Texas State is a 30.5-point underdog at Texas on Sept. 5, with Jackson matched against Heisman Trophy contender Arch Manning. The guide suggests Jackson could post bigger numbers than Manning both in that game and over the season. *(p. 276)*
+- Schedule reasoning behind the Over: it is not easy, adding road games at Pac-12 favourites Boise State and San Diego State, but the Bobcats figure to be favoured in at least six of their seven home games and have winnable road dates at Colorado State and Oregon State. *(p. 276)*
+- The guide's answer is that the numbers will point to Jackson as the marquee Pac-12 quarterback. Last season he completed 71.3% for 3,224 yards and 21 touchdowns against seven interceptions, and added 744 rushing yards and 17 touchdowns — as a sophomore. It supports this with team figures as written in the prose: the Bobcats ranked 12th nationally in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth. Its conclusion is that the offense should cause nightmares for defensive coordinators, because beyond Jackson's dual-threat ability the Bobcats return two of the league's top receivers — Beau Sparks (84 receptions, 1,200 yards, 10 touchdowns) and Chris Dawn (65 receptions, 1,007 yards). The offensive line is inexperienced, but the guide argues size matters and points to 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
+- The guide answers by fit: the Pac-12 has long been known for both, making Texas State a natural addition. It concedes the Bobcats could be bad defensively while leaving room for improvement if a few key players step up — most notably senior end DonTerry Russell, a former Mississippi State transfer. Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. The betting instruction drawn from this is to look to bet Over the total in most Texas State games this season. *(p. 277)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The defense is definitely a concern, but Jackson is a rising star, and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
-- The offensive line is inexperienced, but size matters and the linemen are big, highlighted by 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
-- Last season, UTSA lost to Temple and Army as a favorite and also lost as a favorite to Texas State in non-conference play. *(p. 77)*
+- The stated risk is the defense, which the guide calls definitely a concern; the offsetting case is that Jackson is a rising star and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
+- The guide's answer is that the numbers will point to Jackson as the marquee Pac-12 quarterback. Last season he completed 71.3% for 3,224 yards and 21 touchdowns against seven interceptions, and added 744 rushing yards and 17 touchdowns — as a sophomore. It supports this with team figures as written in the prose: the Bobcats ranked 12th nationally in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth. Its conclusion is that the offense should cause nightmares for defensive coordinators, because beyond Jackson's dual-threat ability the Bobcats return two of the league's top receivers — Beau Sparks (84 receptions, 1,200 yards, 10 touchdowns) and Chris Dawn (65 receptions, 1,007 yards). The offensive line is inexperienced, but the guide argues size matters and points to 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 277)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 277)*. Its analysis, in reference form:
 
 ### Is Brad Jackson the best quarterback in the conference?
 
-The numbers will point to Jackson as the marquee QB in the Pac-12. He completed 71.3% of his passes last season while totaling 3,224 yards and 21 touchdowns with seven interceptions. And there’s a lot more. Jackson also ran for 744 yards and 17 touchdowns. He’s only a sophomore. The Bobcats ranked 12th in the nation in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth nationally. Texas State’s offense should cause nightmares for defensive coordinators. Not only is Jackson a dual threat, the Bobcats return two of the top receivers in the league — Beau Sparks (84 receptions for 1,200 yards and 10 touchdowns) and Chris Dawn (65 receptions for 1,007 yards). The offensive line is inexperienced, but size matters and the linemen are big, highlighted by 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer.
+The guide's answer is that the numbers will point to Jackson as the marquee Pac-12 quarterback. Last season he completed 71.3% for 3,224 yards and 21 touchdowns against seven interceptions, and added 744 rushing yards and 17 touchdowns — as a sophomore. It supports this with team figures as written in the prose: the Bobcats ranked 12th nationally in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth. Its conclusion is that the offense should cause nightmares for defensive coordinators, because beyond Jackson's dual-threat ability the Bobcats return two of the league's top receivers — Beau Sparks (84 receptions, 1,200 yards, 10 touchdowns) and Chris Dawn (65 receptions, 1,007 yards). The offensive line is inexperienced, but the guide argues size matters and points to 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
 
 ### Who likes high-scoring games and weak defenses?
 
-The Pac-12 has been known for both throughout the years, so Texas State is a good fit for the conference. The Bobcats could be bad defensively, yet there is hope if a few key players — most notably senior end DonTerry Russell, a former Mississippi State transfer — step up to make an impact. Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. Look to bet Over the total in most Texas State games this season.
+The guide answers by fit: the Pac-12 has long been known for both, making Texas State a natural addition. It concedes the Bobcats could be bad defensively while leaving room for improvement if a few key players step up — most notably senior end DonTerry Russell, a former Mississippi State transfer. Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. The betting instruction drawn from this is to look to bet Over the total in most Texas State games this season. *(p. 277)*
 
 ### Is the coach a rising star in college football?
 
-Kinne was a big-time passer at Tulsa, finishing his career with 9,472 yards and 81 touchdowns, but his playing career stalled at numerous pro stops. He was signed by the New York Jets as an undrafted free agent in 2012 and landed on NFL practice squads with the Eagles and Giants. He briefly played in the CFL and UFL before becoming a coach and learning under the likes of Gus Malzahn, Sonny Dykes and Chad Morris. In his first head coaching stop at Incarnate Word in 2022, he coached the Cardinals to a 12-2 record and was targeted by Texas State. In an era when innovative offensive coaches are in high demand, Kinne will likely become a hot candidate for bigger jobs in the future. Texas State’s high- powered offense this season will help his rise.
+The guide traces Kinne's path in full. He was a big-time passer at Tulsa, finishing with 9,472 yards and 81 touchdowns, but his playing career stalled at numerous pro stops — signed by the New York Jets as an undrafted free agent in 2012, practice squads with the Eagles and Giants, brief spells in the CFL and UFL. He then learned as a coach under Gus Malzahn, Sonny Dykes and Chad Morris. His first head-coaching stop was Incarnate Word in 2022, where he went 12-2 and was hired away by Texas State. The guide's projection is that in an era when innovative offensive coaches are in high demand, Kinne will likely become a hot candidate for bigger jobs, and that this season's high-powered offense will help that rise. *(p. 277)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

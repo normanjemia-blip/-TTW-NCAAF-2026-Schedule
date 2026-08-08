@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 3.8–8.2 overall, 2.3–4.7 in conference |
 | **Schedule strength** | 40.73 (#70 toughest of 138) |
 
-### Season outlook as written in the guide (p. 272)
+### Season outlook — VSiN's analysis in reference form (p. 272)
 
-Jonathan Smith had it rolling at Oregon State, posting 10 wins in 2022 and eight in 2023, but it seemed inevitable that he would leave for a big payday and he got it from Michigan State. Smith and the Beavers were better off together, as he was fired after two years in East Lansing and the Beavers went 7-17 the past two years. Trent Bray was dumped as coach after starting 0-7 last year and Oregon State finished 2-10. It’s time for a new era. JaMarcus Shephard takes over what will be one of the worst teams in the conference, and maybe the worst. Under 3.5 It’s tempting to forecast Oregon State as a surprise team, with Murphy’s potential at quarterback and MacIntyre’s ability to build the defense. The new coaching staff will put the Beavers in position to win more games and they could get to four or five wins. However, there are way too many holes in the depth chart to be too optimistic, and games against Houston and Texas Tech to open the season will put the Beavers in a hole in early September. This decision on this win total will depend on some other mystery teams on the Pac-12 schedule. Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? This is not a best bet by any means, so the lean is 3.5 Under +150 with Circa Sports offering a nice Under price on the 12-game line.
+- Jonathan Smith had Oregon State rolling with 10 wins in 2022 and eight in 2023 before leaving for a big payday at Michigan State. The guide's judgement is that they were better off together — he was fired after two years and the Beavers went 7-17 over the same span. *(p. 272)*
+- Trent Bray was dismissed after an 0-7 start and Oregon State finished 2-10. *(p. 272)*
+- JaMarcus Shephard inherits what the guide expects to be one of the conference's worst teams, and possibly the worst. *(p. 272)*
+- Recommendation is Under 3.5 wins. The guide states the temptation to forecast a surprise, citing Maalik Murphy's potential and Mike MacIntyre's ability to build a defense, and allows the new staff could reach four or five wins. *(p. 272)*
+- Its reasons against are depth chart holes and an opening against Houston and Texas Tech that will put the Beavers in an early hole. *(p. 272)*
+- It makes the call explicitly relative: the decision depends on other Pac-12 mystery teams, asking whether Oregon State is good enough to beat Colorado State, Texas State, Utah State and Washington State. *(p. 272)*
+- It is candid about conviction, calling this not a best bet by any means and only a lean, at 3.5 Under +150 with Circa offering a nice price on the 12-game line. *(p. 272)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,19 +88,13 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 35)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Trent Bray was dumped as coach after starting 0-7 last year and Oregon State finished 2-10. *(p. 272)*
-- The new coaching staff will put the Beavers in position to win more games and they could get to four or five wins. *(p. 272)*
-- Murphy is not much of a running threat and turns the ball over too much, but he’s got a better coaching staff and supporting cast now, so expect to see significant improvement. *(p. 273)*
-- JaMarcus Shephard was hired away from Alabama, where he was offensive coordinator, and he’s got some history in the Pac-12. *(p. 273)*
-- Shephard was on Kalen DeBoer’s coaching staff at Washington when the Huskies won the conference title. *(p. 273)*
-- Shephard hired Mitch Dahlen as the Beavers’ offensive coordinator, and Dahlen was part of the Alabama and Washington staffs that developed star quarterbacks. *(p. 273)*
-- The coaching staff appears to be a major upgrade, and a big part of that will be defensive coordinator Mike MacIntyre, who has had success at a variety of stops, including head coaching jobs at San Jose State, Colorado and Florida International. *(p. 273)*
+- Jonathan Smith had Oregon State rolling with 10 wins in 2022 and eight in 2023 before leaving for a big payday at Michigan State. The guide's judgement is that they were better off together — he was fired after two years and the Beavers went 7-17 over the same span. *(p. 272)*
+- Trent Bray was dismissed after an 0-7 start and Oregon State finished 2-10. *(p. 272)*
+- JaMarcus Shephard inherits what the guide expects to be one of the conference's worst teams, and possibly the worst. *(p. 272)*
+- **Is Shephard the right man for the job?** Shephard was hired from Alabama, where he was offensive coordinator, and has Pac-12 history, having been on Kalen DeBoer's Washington staff when the Huskies won the conference. He hired Mitch Dahlen as coordinator, part of the Alabama and Washington staffs that developed star quarterbacks. The guide rates the staff a major upgrade, with a big part being coordinator Mike MacIntyre, successful at a variety of stops including head coaching jobs at San Jose State, Colorado and Florida International. Its expectation is deliberately bounded: do not expect Shephard to replicate Smith's win totals, but the Beavers should be more competitive in a rebuilding year. *(p. 273)*
+- **Is the defense the key to Oregon State overachieving?** MacIntyre inherits returning talent and has added transfers, so the guide sees signs of improvement after 29.4 points allowed per game, citing evidence of progress in holding Washington State to seven points in a late-season upset. Linebacker should be a strength with senior Aiden Sullivan, the top returning tackler who it rates a potential league-best defender, alongside former USC transfer Raesjon Davis. It notes wryly that Duquesne is not known for producing dominant defensive ends before naming Ish Findlayter a top transfer carrying high expectations, and concludes the front seven looks solid. *(p. 273)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Like Washington State, Oregon State should be ready to invest in the program with a conference to call home again, but Shephard has never been more than a co-OC/ assistant head coach and now is a head coach looking to install a dramatically different offense. *(p. 35)*
-- Chiles followed his old Oregon State coach Jonathan Smith to Michigan State two years ago. *(p. 167)*
-- New coordinator Trent Bray, the former head coach at Oregon State, will need to work miracles to make the Cougars competitive on the defensive side. *(p. 281)*
+Also referenced on **pp. 35, 167, 281** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -100,10 +102,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 272)*.
 
-- Under 3.5 It’s tempting to forecast Oregon State as a surprise team, with Murphy’s potential at quarterback and MacIntyre’s ability to build the defense. *(p. 272)*
-- Murphy transferred to Duke in 2024 and posted a 9-3 record as a starter while passing for 2,933 yards and 26 touchdowns. *(p. 273)*
-- Murphy went 1-7 as the starter, passing for 1,805 yards and nine touchdowns with eight interceptions. *(p. 273)*
-- Shephard hired Mitch Dahlen as the Beavers’ offensive coordinator, and Dahlen was part of the Alabama and Washington staffs that developed star quarterbacks. *(p. 273)*
+- **Will a new coaching staff improve a vagabond QB?** Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
 
 ## 10. Returning Production
 
@@ -119,16 +118,10 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- Murphy transferred to Duke in 2024 and posted a 9-3 record as a starter while passing for 2,933 yards and 26 touchdowns. *(p. 273)*
-- Cornell Hatcher returns as the featured running back and Shephard brought receiver Aeryn Hampton as a transfer from Alabama. *(p. 273)*
-- MacIntyre inherits some returning talent and has made some transfer additions, so there are signs the Beavers will be much better on defense after surrendering 29.4 PPG. *(p. 273)*
-- The linebacker group will be a strength, led by senior Aiden Sullivan and former USC transfer Raesjon Davis. *(p. 273)*
-- Duquesne is not known for producing dominant defensive ends, yet that’s where Ish Findlayter comes from, and he’s bringing high expectations as a top transfer. *(p. 273)*
+- **Will a new coaching staff improve a vagabond QB?** Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
+- **Is the defense the key to Oregon State overachieving?** MacIntyre inherits returning talent and has added transfers, so the guide sees signs of improvement after 29.4 points allowed per game, citing evidence of progress in holding Washington State to seven points in a late-season upset. Linebacker should be a strength with senior Aiden Sullivan, the top returning tackler who it rates a potential league-best defender, alongside former USC transfer Raesjon Davis. It notes wryly that Duquesne is not known for producing dominant defensive ends before naming Ish Findlayter a top transfer carrying high expectations, and concludes the front seven looks solid. *(p. 273)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Oregon State transfer WR Trent Walker compiled over 1,700 yards the last two seasons in Beaverton. *(p. 11)*
-- To shore up the linebacker corps, Owen Chambliss follows Aurich in from San Diego State and Dexter Foster transfers in from Oregon State to go along with Vincent Shavers Jr (61 tackles, 7.5 TFLs). *(p. 165)*
+Referenced in the guide on **pp. 11, 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -136,31 +129,15 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Cornell Hatcher returns as the featured running back and Shephard brought receiver Aeryn Hampton as a transfer from Alabama. *(p. 273)*
-- JaMarcus Shephard was hired away from Alabama, where he was offensive coordinator, and he’s got some history in the Pac-12. *(p. 273)*
-- Shephard hired Mitch Dahlen as the Beavers’ offensive coordinator, and Dahlen was part of the Alabama and Washington staffs that developed star quarterbacks. *(p. 273)*
+- **Will a new coaching staff improve a vagabond QB?** Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Like Washington State, Oregon State should be ready to invest in the program with a conference to call home again, but Shephard has never been more than a co-OC/ assistant head coach and now is a head coach looking to install a dramatically different offense. *(p. 35)*
-- The offense was terrible, the defense was worse, and the Bearkats started 0-8 before a couple of stunning upsets over Oregon State and Delaware. *(p. 204)*
-- Even with UNLV, Hawaii, Texas, and Oregon State in non-conference play, the Bearkats still gave up more yards on a per-game basis to conference opponents in a terrible offensive conference. *(p. 205)*
+Referenced in the guide on **pp. 35, 204, 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Under 3.5 It’s tempting to forecast Oregon State as a surprise team, with Murphy’s potential at quarterback and MacIntyre’s ability to build the defense. *(p. 272)*
-- The coaching staff appears to be a major upgrade, and a big part of that will be defensive coordinator Mike MacIntyre, who has had success at a variety of stops, including head coaching jobs at San Jose State, Colorado and Florida International. *(p. 273)*
-- MacIntyre inherits some returning talent and has made some transfer additions, so there are signs the Beavers will be much better on defense after surrendering 29.4 PPG. *(p. 273)*
-- The linebacker group will be a strength, led by senior Aiden Sullivan and former USC transfer Raesjon Davis. *(p. 273)*
-- Sullivan is the team’s top returning tackler and should be one of the league’s best defensive players. *(p. 273)*
-- Duquesne is not known for producing dominant defensive ends, yet that’s where Ish Findlayter comes from, and he’s bringing high expectations as a top transfer. *(p. 273)*
+- **Is the defense the key to Oregon State overachieving?** MacIntyre inherits returning talent and has added transfers, so the guide sees signs of improvement after 29.4 points allowed per game, citing evidence of progress in holding Washington State to seven points in a late-season upset. Linebacker should be a strength with senior Aiden Sullivan, the top returning tackler who it rates a potential league-best defender, alongside former USC transfer Raesjon Davis. It notes wryly that Duquesne is not known for producing dominant defensive ends before naming Ish Findlayter a top transfer carrying high expectations, and concludes the front seven looks solid. *(p. 273)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- JaMarcus Shephard Oregon State Going the defensive route didn’t work, so Oregon State has gone in the other direction. *(p. 35)*
-- To shore up the linebacker corps, Owen Chambliss follows Aurich in from San Diego State and Dexter Foster transfers in from Oregon State to go along with Vincent Shavers Jr (61 tackles, 7.5 TFLs). *(p. 165)*
-- The offense was terrible, the defense was worse, and the Bearkats started 0-8 before a couple of stunning upsets over Oregon State and Delaware. *(p. 204)*
-- New coordinator Trent Bray, the former head coach at Oregon State, will need to work miracles to make the Cougars competitive on the defensive side. *(p. 281)*
+Referenced in the guide on **pp. 35, 165, 204, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -243,15 +220,15 @@ Prices printed on the team page *(p. 273)*:
 
 ## 21. Betting Notes / Best Bets
 
-- This is not a best bet by any means, so the lean is 3.5 Under +150 with Circa Sports offering a nice Under price on the 12-game line. *(p. 272)*
+- Recommendation is Under 3.5 wins. The guide states the temptation to forecast a surprise, citing Maalik Murphy's potential and Mike MacIntyre's ability to build a defense, and allows the new staff could reach four or five wins. *(p. 272)*
+- Its reasons against are depth chart holes and an opening against Houston and Texas Tech that will put the Beavers in an early hole. *(p. 272)*
+- It makes the call explicitly relative: the decision depends on other Pac-12 mystery teams, asking whether Oregon State is good enough to beat Colorado State, Texas State, Utah State and Washington State. *(p. 272)*
+- It is candid about conviction, calling this not a best bet by any means and only a lean, at 3.5 Under +150 with Circa offering a nice price on the 12-game line. *(p. 272)*
 
 ## 22. Historical / Situational Trends
 
-- Jonathan Smith had it rolling at Oregon State, posting 10 wins in 2022 and eight in 2023, but it seemed inevitable that he would leave for a big payday and he got it from Michigan State. *(p. 272)*
-- Smith and the Beavers were better off together, as he was fired after two years in East Lansing and the Beavers went 7-17 the past two years. *(p. 272)*
-- Trent Bray was dumped as coach after starting 0-7 last year and Oregon State finished 2-10. *(p. 272)*
-- Murphy transferred to Duke in 2024 and posted a 9-3 record as a starter while passing for 2,933 yards and 26 touchdowns. *(p. 273)*
-- His play has not been that impressive to watch, however, and he declined last season with a bad Oregon State team. *(p. 273)*
+- Jonathan Smith had Oregon State rolling with 10 wins in 2022 and eight in 2023 before leaving for a big payday at Michigan State. The guide's judgement is that they were better off together — he was fired after two years and the Beavers went 7-17 over the same span. *(p. 272)*
+- Trent Bray was dismissed after an 0-7 start and Oregon State finished 2-10. *(p. 272)*
 
 ## 23. Important Statistics
 
@@ -297,42 +274,38 @@ As printed on p. 273. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **3.8 wins** against a posted total of 3.5 — **+0.3** in this team's favour.
-- However, there are way too many holes in the depth chart to be too optimistic, and games against Houston and Texas Tech to open the season will put the Beavers in a hole in early September. *(p. 272)*
-- Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? *(p. 272)*
-- This is not a best bet by any means, so the lean is 3.5 Under +150 with Circa Sports offering a nice Under price on the 12-game line. *(p. 272)*
-- His play has not been that impressive to watch, however, and he declined last season with a bad Oregon State team. *(p. 273)*
-- Cornell Hatcher returns as the featured running back and Shephard brought receiver Aeryn Hampton as a transfer from Alabama. *(p. 273)*
-- Murphy is not much of a running threat and turns the ball over too much, but he’s got a better coaching staff and supporting cast now, so expect to see significant improvement. *(p. 273)*
-- The coaching staff appears to be a major upgrade, and a big part of that will be defensive coordinator Mike MacIntyre, who has had success at a variety of stops, including head coaching jobs at San Jose State, Colorado and Florida International. *(p. 273)*
-- Oregon State held Washington State to seven points in a late-season upset and showed improvement. *(p. 273)*
-- The linebacker group will be a strength, led by senior Aiden Sullivan and former USC transfer Raesjon Davis. *(p. 273)*
-- Sullivan is the team’s top returning tackler and should be one of the league’s best defensive players. *(p. 273)*
+- It makes the call explicitly relative: the decision depends on other Pac-12 mystery teams, asking whether Oregon State is good enough to beat Colorado State, Texas State, Utah State and Washington State. *(p. 272)*
+- It is candid about conviction, calling this not a best bet by any means and only a lean, at 3.5 Under +150 with Circa offering a nice price on the 12-game line. *(p. 272)*
+- Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
+- Shephard was hired from Alabama, where he was offensive coordinator, and has Pac-12 history, having been on Kalen DeBoer's Washington staff when the Huskies won the conference. He hired Mitch Dahlen as coordinator, part of the Alabama and Washington staffs that developed star quarterbacks. The guide rates the staff a major upgrade, with a big part being coordinator Mike MacIntyre, successful at a variety of stops including head coaching jobs at San Jose State, Colorado and Florida International. Its expectation is deliberately bounded: do not expect Shephard to replicate Smith's win totals, but the Beavers should be more competitive in a rebuilding year. *(p. 273)*
+- MacIntyre inherits returning talent and has added transfers, so the guide sees signs of improvement after 29.4 points allowed per game, citing evidence of progress in holding Washington State to seven points in a late-season upset. Linebacker should be a strength with senior Aiden Sullivan, the top returning tackler who it rates a potential league-best defender, alongside former USC transfer Raesjon Davis. It notes wryly that Duquesne is not known for producing dominant defensive ends before naming Ish Findlayter a top transfer carrying high expectations, and concludes the front seven looks solid. *(p. 273)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 3.5**.
-- In two years with the Longhorns, he redshirted the first year and did not play because of injury and he appeared in seven games his second year while going 2-0 as a starter. *(p. 273)*
+- Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 273)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 273)*. Its analysis, in reference form:
 
 ### Will a new coaching staff improve a vagabond QB?
 
-Maalik Murphy was highly touted out of high school in the Los Angeles area and opted to leave home, picking Texas instead of UCLA. In two years with the Longhorns, he redshirted the first year and did not play because of injury and he appeared in seven games his second year while going 2-0 as a starter. Murphy transferred to Duke in 2024 and posted a 9-3 record as a starter while passing for 2,933 yards and 26 touchdowns. His play has not been that impressive to watch, however, and he declined last season with a bad Oregon State team. Murphy went 1-7 as the starter, passing for 1,805 yards and nine touchdowns with eight interceptions. Cornell Hatcher returns as the featured running back and Shephard brought receiver Aeryn Hampton as a transfer from Alabama. Murphy is not much of a running threat and turns the ball over too much, but he’s got a better coaching staff and supporting cast now, so expect to see significant improvement.
+Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
 
 ### Is Shephard the right man for the job?
 
-JaMarcus Shephard was hired away from Alabama, where he was offensive coordinator, and he’s got some history in the Pac-12. Shephard was on Kalen DeBoer’s coaching staff at Washington when the Huskies won the conference title. Shephard hired Mitch Dahlen as the Beavers’ offensive coordinator, and Dahlen was part of the Alabama and Washington staffs that developed star quarterbacks. The coaching staff appears to be a major upgrade, and a big part of that will be defensive coordinator Mike MacIntyre, who has had success at a variety of stops, including head coaching jobs at San Jose State, Colorado and Florida International. Don’t expect Shephard to replicate what Jonathan Smith did at Oregon State in terms of wins, but the Beavers should be more competitive during a rebuilding year.
+Shephard was hired from Alabama, where he was offensive coordinator, and has Pac-12 history, having been on Kalen DeBoer's Washington staff when the Huskies won the conference. He hired Mitch Dahlen as coordinator, part of the Alabama and Washington staffs that developed star quarterbacks. The guide rates the staff a major upgrade, with a big part being coordinator Mike MacIntyre, successful at a variety of stops including head coaching jobs at San Jose State, Colorado and Florida International. Its expectation is deliberately bounded: do not expect Shephard to replicate Smith's win totals, but the Beavers should be more competitive in a rebuilding year. *(p. 273)*
 
 ### Is the defense the key to Oregon State overachieving?
 
-MacIntyre inherits some returning talent and has made some transfer additions, so there are signs the Beavers will be much better on defense after surrendering 29.4 PPG. Oregon State held Washington State to seven points in a late-season upset and showed improvement. The linebacker group will be a strength, led by senior Aiden Sullivan and former USC transfer Raesjon Davis. Sullivan is the team’s top returning tackler and should be one of the league’s best defensive players. Duquesne is not known for producing dominant defensive ends, yet that’s where Ish Findlayter comes from, and he’s bringing high expectations as a top transfer. The front seven looks solid for MacIntyre.
+MacIntyre inherits returning talent and has added transfers, so the guide sees signs of improvement after 29.4 points allowed per game, citing evidence of progress in holding Washington State to seven points in a late-season upset. Linebacker should be a strength with senior Aiden Sullivan, the top returning tackler who it rates a potential league-best defender, alongside former USC transfer Raesjon Davis. It notes wryly that Duquesne is not known for producing dominant defensive ends before naming Ish Findlayter a top transfer carrying high expectations, and concludes the front seven looks solid. *(p. 273)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

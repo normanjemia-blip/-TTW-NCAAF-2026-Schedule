@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 3.9–8.1 overall, 1.9–5.1 in conference |
 | **Schedule strength** | 39.73 (#71 toughest of 138) |
 
-### Season outlook as written in the guide (p. 268)
+### Season outlook — VSiN's analysis in reference form (p. 268)
 
-If Jim Mora Jr. turned around the Connecticut program — and he did by going 9-4 and 9-3 in his last two years — he certainly could do something similar at Colorado State. The change is unlikely to be sudden in Fort Collins because Mora must implement more than 60 new players on the roster, and he’s got some questions about the quarterback position. The Rams unraveled on the way to a 2-10 record that got Jay Norvell fired at midseason, and the situation is a complete rebuild. Mora brought several players and coaches with him from UConn, including offensive coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. After the magic he worked the past two years, it’s better to bet on Mora than against him. Over 3.5 The Rams have the potential to be a surprise team in the Pac-12, a conference that appears to be full of mystery teams aside from favorite Boise State. Mora opens with a pair of home games he can win against Wyoming and Southern Utah. The third home game against BYU on Sept. 19 is one Colorado State is almost certain to lose. With Texas-San Antonio, Oregon State, Utah State and Washington State also on the schedule, it’s not a huge leap of faith to predict Mora will win four games or more this season. Bet on it. The Rams’ win total at Circa Sports is listed low at 3.5 and includes the 12th flex game, so play it Over -140. It would not be a big surprise if Mora gets this team to 6-6, especially if the quarterback play is impressive.
+- The guide reasons from precedent: Jim Mora Jr turned UConn around, going 9-4 and 9-3 in his last two years, so he could do something similar here. *(p. 268)*
+- It expects change to be gradual because Mora must integrate more than 60 new players and has quarterback questions. *(p. 268)*
+- The starting point is grim — Colorado State unravelled to 2-10, Jay Norvell was fired at midseason, and the situation is a complete rebuild. *(p. 268)*
+- Mora brought several players and coaches from UConn including coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. *(p. 268)*
+- Its stated position is that after the magic of the past two years it is better to bet on Mora than against him. *(p. 268)*
+- Recommendation is Over 3.5 wins. The guide sees Colorado State as a potential surprise in a conference it describes as full of mystery teams apart from favorite Boise State. *(p. 268)*
+- It walks the schedule: winnable home openers against Wyoming and Southern Utah, an almost certain home loss to BYU on 19 September, then UTSA, Oregon State, Utah State and Washington State — making four or more wins no huge leap. *(p. 268)*
+- On price it notes Circa lists 3.5 including the 12th flex game and recommends Over -140, adding it would not be a big surprise if Mora reached 6-6, especially with impressive quarterback play. *(p. 268)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -81,15 +90,14 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 35)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Mora brought several players and coaches with him from UConn, including offensive coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. *(p. 268)*
-- Kenny McClendon is serving as co-defensive coordinator with Tyson Summers, who was the DC under Norvell and took over as interim coach. *(p. 269)*
-- Mora’s run as UCLA coach was nothing remarkable at the time. *(p. 269)*
-- What’s often true with most new coaches is true here: Mora must find a quarterback who can make plays. *(p. 269)*
+- The guide reasons from precedent: Jim Mora Jr turned UConn around, going 9-4 and 9-3 in his last two years, so he could do something similar here. *(p. 268)*
+- The starting point is grim — Colorado State unravelled to 2-10, Jay Norvell was fired at midseason, and the situation is a complete rebuild. *(p. 268)*
+- Mora brought several players and coaches from UConn including coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. *(p. 268)*
+- Its stated position is that after the magic of the past two years it is better to bet on Mora than against him. *(p. 268)*
+- **Will the Rams' rotten defense show significant improvement?** The guide's easy answer is yes, mostly because it cannot get much worse: 30.8 points allowed per game ranked 112th and the rushing defense at 205 yards per game ranked 125th. It notes with some amusement that a UConn transfer is expected to lead the unit — junior linebacker Oumar Diomande, second for the Huskies in both tackles with 116 and sacks with five. The defensive line and linebacker personnel look strong on paper, with McClendon serving as co-coordinator alongside Tyson Summers, Norvell's coordinator who took over as interim coach. *(p. 269)*
+- **How quickly can Mora create a winning team?** The guide reassesses his UCLA tenure: 46-30 from 2012 to 2017 before being fired seemed unremarkable at the time, but given the Bruins' subsequent struggles he may have performed better than perceived. It calls an immediate bowl unrealistic and supplies the UConn trajectory as the model — 6-7 and 3-9 in his first two years before winning big once he had built the roster and found the right quarterback. Its closing point is a general principle applied here: as with most new coaches, Mora must find a quarterback who can make plays. *(p. 269)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Jim Mora Colorado State Let’s all take a second and come to terms with the fact that Colorado State is now in the Pac-12…Alright, now let’s think about Mora, who got a second kick at the college coaching can at UConn and did extremely well with it. *(p. 35)*
-- Watch out for Entz and the Bulldogs, and keep an eye on Colorado State with new coach Jim Mora Jr., who worked an incredible turnaround at UConn. *(p. 265)*
+Also referenced on **pp. 35, 265** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -97,13 +105,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 268)*.
 
-- The change is unlikely to be sudden in Fort Collins because Mora must implement more than 60 new players on the roster, and he’s got some questions about the quarterback position. *(p. 268)*
-- It would not be a big surprise if Mora gets this team to 6-6, especially if the quarterback play is impressive. *(p. 268)*
-- Farrar attempted 18 passes as a backup last season when the Huskies’ success had a lot to do with star quarterback Joe Fagnano, who finished with 28 touchdown passes and one interception. *(p. 269)*
-- Farrar and Hejny both have running ability, something Mora prefers in his quarterbacks. *(p. 269)*
-- Surrounding the QB will be senior running back Mel Brown, a UConn transfer, and Durell Robinson, an Auburn transfer. *(p. 269)*
-- When he had time to build the roster and find the right quarterback, he started to win big. *(p. 269)*
-- What’s often true with most new coaches is true here: Mora must find a quarterback who can make plays. *(p. 269)*
+- It expects change to be gradual because Mora must integrate more than 60 new players and has quarterback questions. *(p. 268)*
+- On price it notes Circa lists 3.5 including the 12th flex game and recommends Over -140, adding it would not be a big surprise if Mora reached 6-6, especially with impressive quarterback play. *(p. 268)*
+- **Who will win the starting quarterback job?** UConn transfer K'saan Farrar might have the inside track through his history with Mora, though he attempted only 18 passes as a backup while Joe Fagnano threw 28 touchdowns to one interception. The guide judges he could struggle to beat Oklahoma State transfer Hauss Hejny, a higher-ranked recruit, notes both can run — which Mora prefers — and reports a media source indicating Hejny has become the favorite. It then lists the supporting cast and the pattern within it: UConn transfer Mel Brown and Auburn transfer Durell Robinson at running back, top returning receiver Tommy Maher with 32 catches, UConn transfer Jackson Harper at receiver and UConn transfer Juice Vereen at tight end — before noting Mora must build the offensive line through transfers too, a theme that holds for the whole team. *(p. 269)*
+- **How quickly can Mora create a winning team?** The guide reassesses his UCLA tenure: 46-30 from 2012 to 2017 before being fired seemed unremarkable at the time, but given the Bruins' subsequent struggles he may have performed better than perceived. It calls an immediate bowl unrealistic and supplies the UConn trajectory as the model — 6-7 and 3-9 in his first two years before winning big once he had built the roster and found the right quarterback. Its closing point is a general principle applied here: as with most new coaches, Mora must find a quarterback who can make plays. *(p. 269)*
 
 ## 10. Returning Production
 
@@ -119,42 +124,27 @@ The Stability Score table prints the same figure independently: **7 returning st
 
 ## 11. Transfer Portal
 
-- UConn transfer K’saan Farrar might figure to have the inside track due to his history with Mora. *(p. 269)*
-- Still, Farrar could have a difficult time beating out Oklahoma State transfer Hauss Hejny, who was a higher-ranked recruit. *(p. 269)*
-- Surrounding the QB will be senior running back Mel Brown, a UConn transfer, and Durell Robinson, an Auburn transfer. *(p. 269)*
-- The top returning receiver is Tommy Maher, who had 32 receptions last year, but another key receiver is likely to be UConn transfer Jackson Harper. *(p. 269)*
-- The go-to tight end probably will be (you guessed it) a UConn transfer, Juice Vereen. *(p. 269)*
-- Mora will need to build the offensive line with transfers, a theme that holds true for the entire team. *(p. 269)*
-- This might be hard to believe, but a UConn transfer is expected to lead the unit. *(p. 269)*
+- It expects change to be gradual because Mora must integrate more than 60 new players and has quarterback questions. *(p. 268)*
+- Mora brought several players and coaches from UConn including coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. *(p. 268)*
+- **Who will win the starting quarterback job?** UConn transfer K'saan Farrar might have the inside track through his history with Mora, though he attempted only 18 passes as a backup while Joe Fagnano threw 28 touchdowns to one interception. The guide judges he could struggle to beat Oklahoma State transfer Hauss Hejny, a higher-ranked recruit, notes both can run — which Mora prefers — and reports a media source indicating Hejny has become the favorite. It then lists the supporting cast and the pattern within it: UConn transfer Mel Brown and Auburn transfer Durell Robinson at running back, top returning receiver Tommy Maher with 32 catches, UConn transfer Jackson Harper at receiver and UConn transfer Juice Vereen at tight end — before noting Mora must build the offensive line through transfers too, a theme that holds for the whole team. *(p. 269)*
+- **Will the Rams' rotten defense show significant improvement?** The guide's easy answer is yes, mostly because it cannot get much worse: 30.8 points allowed per game ranked 112th and the rushing defense at 205 yards per game ranked 125th. It notes with some amusement that a UConn transfer is expected to lead the unit — junior linebacker Oumar Diomande, second for the Huskies in both tackles with 116 and sacks with five. The defensive line and linebacker personnel look strong on paper, with McClendon serving as co-coordinator alongside Tyson Summers, Norvell's coordinator who took over as interim coach. *(p. 269)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Arizona State added some big-time transfers when looking at the defensive linemen and linebackers who were brought in — with Colorado State’s Owen Long being one who could immediately turn heads on a bigger stage. *(p. 119)*
-- Boise returns two of the league’s top linemen — senior guard Roger Carreon and senior tackle Daylon Metoyer — and welcomes the addition of senior tackle Tyler Ethridge, a transfer from Division II Colorado State-Pueblo. *(p. 267)*
+Referenced in the guide on **pp. 119, 267** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Still, Farrar could have a difficult time beating out Oklahoma State transfer Hauss Hejny, who was a higher-ranked recruit. *(p. 269)*
+
+Referenced in the guide on **pp. 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Mora brought several players and coaches with him from UConn, including offensive coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. *(p. 268)*
-- The top returning receiver is Tommy Maher, who had 32 receptions last year, but another key receiver is likely to be UConn transfer Jackson Harper. *(p. 269)*
-- Mora will need to build the offensive line with transfers, a theme that holds true for the entire team. *(p. 269)*
-- Colorado State allowed 30.8 PPG to rank 112th in scoring and the rushing defense (205 yards per game) ranked 125th. *(p. 269)*
+- **Who will win the starting quarterback job?** UConn transfer K'saan Farrar might have the inside track through his history with Mora, though he attempted only 18 passes as a backup while Joe Fagnano threw 28 touchdowns to one interception. The guide judges he could struggle to beat Oklahoma State transfer Hauss Hejny, a higher-ranked recruit, notes both can run — which Mora prefers — and reports a media source indicating Hejny has become the favorite. It then lists the supporting cast and the pattern within it: UConn transfer Mel Brown and Auburn transfer Durell Robinson at running back, top returning receiver Tommy Maher with 32 catches, UConn transfer Jackson Harper at receiver and UConn transfer Juice Vereen at tight end — before noting Mora must build the offensive line through transfers too, a theme that holds for the whole team. *(p. 269)*
 
 ## 14. Defensive Identity
 
-- Mora brought several players and coaches with him from UConn, including offensive coordinator Pryce Tracy and co-defensive coordinator Kenny McClendon. *(p. 268)*
-- The easy answer is this defense will be improved, mostly because it can’t get much worse. *(p. 269)*
-- Colorado State allowed 30.8 PPG to rank 112th in scoring and the rushing defense (205 yards per game) ranked 125th. *(p. 269)*
-- Oumar Diomande, a junior linebacker, ranked second for the Huskies in both tackles (116) and sacks (five). *(p. 269)*
-- The defensive line and linebacker personnel look strong on paper. *(p. 269)*
-- Kenny McClendon is serving as co-defensive coordinator with Tyson Summers, who was the DC under Norvell and took over as interim coach. *(p. 269)*
+- **Will the Rams' rotten defense show significant improvement?** The guide's easy answer is yes, mostly because it cannot get much worse: 30.8 points allowed per game ranked 112th and the rushing defense at 205 yards per game ranked 125th. It notes with some amusement that a UConn transfer is expected to lead the unit — junior linebacker Oumar Diomande, second for the Huskies in both tackles with 116 and sacks with five. The defensive line and linebacker personnel look strong on paper, with McClendon serving as co-coordinator alongside Tyson Summers, Norvell's coordinator who took over as interim coach. *(p. 269)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Arizona State added some big-time transfers when looking at the defensive linemen and linebackers who were brought in — with Colorado State’s Owen Long being one who could immediately turn heads on a bigger stage. *(p. 119)*
+Referenced in the guide on **pp. 119** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -224,15 +214,16 @@ Prices printed on the team page *(p. 269)*:
 
 ## 21. Betting Notes / Best Bets
 
-- After the magic he worked the past two years, it’s better to bet on Mora than against him. *(p. 268)*
-- Over 3.5 The Rams have the potential to be a surprise team in the Pac-12, a conference that appears to be full of mystery teams aside from favorite Boise State. *(p. 268)*
-- A media source has indicated Hejny has become the favorite to win the job. *(p. 269)*
+- Its stated position is that after the magic of the past two years it is better to bet on Mora than against him. *(p. 268)*
+- Recommendation is Over 3.5 wins. The guide sees Colorado State as a potential surprise in a conference it describes as full of mystery teams apart from favorite Boise State. *(p. 268)*
+- It walks the schedule: winnable home openers against Wyoming and Southern Utah, an almost certain home loss to BYU on 19 September, then UTSA, Oregon State, Utah State and Washington State — making four or more wins no huge leap. *(p. 268)*
+- On price it notes Circa lists 3.5 including the 12th flex game and recommends Over -140, adding it would not be a big surprise if Mora reached 6-6, especially with impressive quarterback play. *(p. 268)*
 
 ## 22. Historical / Situational Trends
 
-- After the magic he worked the past two years, it’s better to bet on Mora than against him. *(p. 268)*
-- Farrar attempted 18 passes as a backup last season when the Huskies’ success had a lot to do with star quarterback Joe Fagnano, who finished with 28 touchdown passes and one interception. *(p. 269)*
-- The top returning receiver is Tommy Maher, who had 32 receptions last year, but another key receiver is likely to be UConn transfer Jackson Harper. *(p. 269)*
+- The guide reasons from precedent: Jim Mora Jr turned UConn around, going 9-4 and 9-3 in his last two years, so he could do something similar here. *(p. 268)*
+- The starting point is grim — Colorado State unravelled to 2-10, Jay Norvell was fired at midseason, and the situation is a complete rebuild. *(p. 268)*
+- **How quickly can Mora create a winning team?** The guide reassesses his UCLA tenure: 46-30 from 2012 to 2017 before being fired seemed unremarkable at the time, but given the Bruins' subsequent struggles he may have performed better than perceived. It calls an immediate bowl unrealistic and supplies the UConn trajectory as the model — 6-7 and 3-9 in his first two years before winning big once he had built the roster and found the right quarterback. Its closing point is a general principle applied here: as with most new coaches, Mora must find a quarterback who can make plays. *(p. 269)*
 
 ## 23. Important Statistics
 
@@ -279,40 +270,39 @@ As printed on p. 269. Each category carries a value and a national rank.
 
 - Makinen projects **3.9 wins** against a posted total of 3.5 — **+0.4** in this team's favour.
 - The team page recommends **OVER 3.5**.
-- It would not be a big surprise if Mora gets this team to 6-6, especially if the quarterback play is impressive. *(p. 268)*
-- Farrar attempted 18 passes as a backup last season when the Huskies’ success had a lot to do with star quarterback Joe Fagnano, who finished with 28 touchdown passes and one interception. *(p. 269)*
-- The easy answer is this defense will be improved, mostly because it can’t get much worse. *(p. 269)*
-- The defensive line and linebacker personnel look strong on paper. *(p. 269)*
-- Boise returns two of the league’s top linemen — senior guard Roger Carreon and senior tackle Daylon Metoyer — and welcomes the addition of senior tackle Tyler Ethridge, a transfer from Division II Colorado State-Pueblo. *(p. 267)*
-- Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? *(p. 272)*
-- The Bobcats figure to be favored in at least six of their seven home games, and they have winnable road dates with Colorado State and Oregon State. *(p. 276)*
+- It walks the schedule: winnable home openers against Wyoming and Southern Utah, an almost certain home loss to BYU on 19 September, then UTSA, Oregon State, Utah State and Washington State — making four or more wins no huge leap. *(p. 268)*
+- On price it notes Circa lists 3.5 including the 12th flex game and recommends Over -140, adding it would not be a big surprise if Mora reached 6-6, especially with impressive quarterback play. *(p. 268)*
+- The guide's easy answer is yes, mostly because it cannot get much worse: 30.8 points allowed per game ranked 112th and the rushing defense at 205 yards per game ranked 125th. It notes with some amusement that a UConn transfer is expected to lead the unit — junior linebacker Oumar Diomande, second for the Huskies in both tackles with 116 and sacks with five. The defensive line and linebacker personnel look strong on paper, with McClendon serving as co-coordinator alongside Tyson Summers, Norvell's coordinator who took over as interim coach. *(p. 269)*
+- The guide reassesses his UCLA tenure: 46-30 from 2012 to 2017 before being fired seemed unremarkable at the time, but given the Bruins' subsequent struggles he may have performed better than perceived. It calls an immediate bowl unrealistic and supplies the UConn trajectory as the model — 6-7 and 3-9 in his first two years before winning big once he had built the roster and found the right quarterback. Its closing point is a general principle applied here: as with most new coaches, Mora must find a quarterback who can make plays. *(p. 269)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The change is unlikely to be sudden in Fort Collins because Mora must implement more than 60 new players on the roster, and he’s got some questions about the quarterback position. *(p. 268)*
-- Still, Farrar could have a difficult time beating out Oklahoma State transfer Hauss Hejny, who was a higher-ranked recruit. *(p. 269)*
-- He went 46-30 from 2012 to 2017 before getting fired, but considering the Bruins’ struggles after his departure, maybe he performed better than perceived. *(p. 269)*
+- It expects change to be gradual because Mora must integrate more than 60 new players and has quarterback questions. *(p. 268)*
+- It walks the schedule: winnable home openers against Wyoming and Southern Utah, an almost certain home loss to BYU on 19 September, then UTSA, Oregon State, Utah State and Washington State — making four or more wins no huge leap. *(p. 268)*
+- UConn transfer K'saan Farrar might have the inside track through his history with Mora, though he attempted only 18 passes as a backup while Joe Fagnano threw 28 touchdowns to one interception. The guide judges he could struggle to beat Oklahoma State transfer Hauss Hejny, a higher-ranked recruit, notes both can run — which Mora prefers — and reports a media source indicating Hejny has become the favorite. It then lists the supporting cast and the pattern within it: UConn transfer Mel Brown and Auburn transfer Durell Robinson at running back, top returning receiver Tommy Maher with 32 catches, UConn transfer Jackson Harper at receiver and UConn transfer Juice Vereen at tight end — before noting Mora must build the offensive line through transfers too, a theme that holds for the whole team. *(p. 269)*
+- The guide reassesses his UCLA tenure: 46-30 from 2012 to 2017 before being fired seemed unremarkable at the time, but given the Bruins' subsequent struggles he may have performed better than perceived. It calls an immediate bowl unrealistic and supplies the UConn trajectory as the model — 6-7 and 3-9 in his first two years before winning big once he had built the roster and found the right quarterback. Its closing point is a general principle applied here: as with most new coaches, Mora must find a quarterback who can make plays. *(p. 269)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 269)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 269)*. Its analysis, in reference form:
 
 ### Who will win the starting quarterback job?
 
-UConn transfer K’saan Farrar might figure to have the inside track due to his history with Mora. Farrar attempted 18 passes as a backup last season when the Huskies’ success had a lot to do with star quarterback Joe Fagnano, who finished with 28 touchdown passes and one interception. Still, Farrar could have a difficult time beating out Oklahoma State transfer Hauss Hejny, who was a higher-ranked recruit. Farrar and Hejny both have running ability, something Mora prefers in his quarterbacks. A media source has indicated Hejny has become the favorite to win the job. Surrounding the QB will be senior running back Mel Brown, a UConn transfer, and Durell Robinson, an Auburn transfer. The top returning receiver is Tommy Maher, who had 32 receptions last year, but another key receiver is likely to be UConn transfer Jackson Harper. The go-to tight end probably will be (you guessed it) a UConn transfer, Juice Vereen. Mora will need to build the offensive line with transfers, a theme that holds true for the entire team.
+UConn transfer K'saan Farrar might have the inside track through his history with Mora, though he attempted only 18 passes as a backup while Joe Fagnano threw 28 touchdowns to one interception. The guide judges he could struggle to beat Oklahoma State transfer Hauss Hejny, a higher-ranked recruit, notes both can run — which Mora prefers — and reports a media source indicating Hejny has become the favorite. It then lists the supporting cast and the pattern within it: UConn transfer Mel Brown and Auburn transfer Durell Robinson at running back, top returning receiver Tommy Maher with 32 catches, UConn transfer Jackson Harper at receiver and UConn transfer Juice Vereen at tight end — before noting Mora must build the offensive line through transfers too, a theme that holds for the whole team. *(p. 269)*
 
-### Will the Rams’ rotten defense show significant improvement?
+### Will the Rams' rotten defense show significant improvement?
 
-The easy answer is this defense will be improved, mostly because it can’t get much worse. Colorado State allowed 30.8 PPG to rank 112th in scoring and the rushing defense (205 yards per game) ranked 125th. This might be hard to believe, but a UConn transfer is expected to lead the unit. Oumar Diomande, a junior linebacker, ranked second for the Huskies in both tackles (116) and sacks (five). The defensive line and linebacker personnel look strong on paper. Kenny McClendon is serving as co-defensive coordinator with Tyson Summers, who was the DC under Norvell and took over as interim coach.
+The guide's easy answer is yes, mostly because it cannot get much worse: 30.8 points allowed per game ranked 112th and the rushing defense at 205 yards per game ranked 125th. It notes with some amusement that a UConn transfer is expected to lead the unit — junior linebacker Oumar Diomande, second for the Huskies in both tackles with 116 and sacks with five. The defensive line and linebacker personnel look strong on paper, with McClendon serving as co-coordinator alongside Tyson Summers, Norvell's coordinator who took over as interim coach. *(p. 269)*
 
 ### How quickly can Mora create a winning team?
 
-Mora’s run as UCLA coach was nothing remarkable at the time. He went 46-30 from 2012 to 2017 before getting fired, but considering the Bruins’ struggles after his departure, maybe he performed better than perceived. It’s unrealistic to expect he can reach a bowl at Colorado State immediately. In his first two years at UConn, Mora’s teams finished 6-7 and 3-9. When he had time to build the roster and find the right quarterback, he started to win big. What’s often true with most new coaches is true here: Mora must find a quarterback who can make plays.
+The guide reassesses his UCLA tenure: 46-30 from 2012 to 2017 before being fired seemed unremarkable at the time, but given the Bruins' subsequent struggles he may have performed better than perceived. It calls an immediate bowl unrealistic and supplies the UConn trajectory as the model — 6-7 and 3-9 in his first two years before winning big once he had built the roster and found the right quarterback. Its closing point is a general principle applied here: as with most new coaches, Mora must find a quarterback who can make plays. *(p. 269)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

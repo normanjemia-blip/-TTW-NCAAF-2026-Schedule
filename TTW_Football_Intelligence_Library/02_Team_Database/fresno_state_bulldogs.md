@@ -24,9 +24,18 @@
 | **Makinen projected wins** | 7.4–4.6 overall, 4.0–3.0 in conference |
 | **Schedule strength** | 37.66 (#75 toughest of 138) |
 
-### Season outlook as written in the guide (p. 270)
+### Season outlook — VSiN's analysis in reference form (p. 270)
 
-When projecting college football teams, it’s no secret the two most important positions of handicapping emphasis are the head coach and quarterback. Fresno State certainly has a winning coach. Matt Entz is about as good as it gets. Entz, 53, coached North Dakota State to two FCS national championships in five years and exited with a record of 60-11. In 2025, he took over a Fresno State team that went 6-7 the previous season and guided the Bulldogs to a 9-4 finish punctuated by a win in the Arizona Bowl. He’s got a new quarterback this season, and that position appears to be upgraded, so beware of the Bulldogs. Entz could be lifting Fresno to the top of the Pac-12. Over 6.5 After the trip to Los Angeles in early September, Fresno will have a realistic shot to reel off three consecutive wins against Sacramento State, San Jose State and Rice. The quarterback will be the key because if Martin matures quickly, the Bulldogs can win almost every game on their schedule. This team is solid in all areas and probably can win seven or eight games even with mediocre QB play. Fresno plays at San Diego State on Oct. 17 and is set to host the Aztecs in the “Flex Game” rematch on Nov. 28. The DraftKings win total, based on 11 games and excluding the flex spot, is 6.5 with Over offered at even money. Circa Sports offers the better bet — 6.5 Over -120 with the 12th flex game included. The coach is the key to this play. Entz won eight regular-season games in his Fresno debut. He’s got a better team now and the schedule is manageable. Bet on the Bulldogs being big overachievers.
+- The guide states its handicapping framework explicitly: head coach and quarterback are the two most important positions of emphasis when projecting teams. *(p. 270)*
+- On the first, Matt Entz is about as good as it gets — he coached North Dakota State to two FCS national titles in five years and left 60-11. *(p. 270)*
+- In 2025 he took a 6-7 Fresno State team to 9-4 with an Arizona Bowl win. *(p. 270)*
+- On the second, he has a new quarterback and the position appears upgraded, which the guide treats as reason for opponents to beware — Entz could be lifting Fresno to the top of the Pac-12. *(p. 270)*
+- Recommendation is Over 6.5 wins. After the early-September trip to Los Angeles, Fresno has a realistic shot at three straight wins over Sacramento State, San Jose State and Rice. *(p. 270)*
+- Its conditional is precise: the quarterback is the key, because if Khristian Martin matures quickly Fresno can win almost every game — while the team is solid enough everywhere to win seven or eight even with mediocre quarterback play. *(p. 270)*
+- Schedule and market detail: Fresno plays at San Diego State on 17 October and hosts the Aztecs in the Flex Game rematch on 28 November. DraftKings prices 6.5 on 11 games with Over at even money, while Circa offers the better bet at 6.5 Over -120 including the 12th game. *(p. 270)*
+- Its conclusion returns to the coach: Entz won eight regular-season games in his debut, has a better team and a manageable schedule, so bet on the Bulldogs being big overachievers. *(p. 270)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,20 +87,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- When projecting college football teams, it’s no secret the two most important positions of handicapping emphasis are the head coach and quarterback. *(p. 270)*
-- Fresno State certainly has a winning coach. *(p. 270)*
-- Entz, 53, coached North Dakota State to two FCS national championships in five years and exited with a record of 60-11. *(p. 270)*
-- The coach is the key to this play. *(p. 270)*
-- USC coach Lincoln Riley is known for fielding finesse teams that are not the most physical up front. *(p. 271)*
-- Entz coached Fresno, a 17-point underdog, to a 30-7 win at Boise last year. *(p. 271)*
-- Entz is a bet-on coach and those are two games to circle and consider taking the points. *(p. 271)*
+- On the first, Matt Entz is about as good as it gets — he coached North Dakota State to two FCS national titles in five years and left 60-11. *(p. 270)*
+- Its conclusion returns to the coach: Entz won eight regular-season games in his debut, has a better team and a manageable schedule, so bet on the Bulldogs being big overachievers. *(p. 270)*
+- **Are the Bulldogs a threat to USC and Boise State?** Fresno is a 23.5-point underdog at USC on 5 September, and the guide expects the line to be bet higher by kickoff because favorites typically draw early-season action — flagging a potentially dangerous underdog. Its reasoning is matchup-specific: Entz will have the team well prepared and Fresno's physical line could push the Trojans around, since Lincoln Riley is known for finesse teams that are not the most physical up front. It also identifies the 10 October home game against Boise State as possibly the most important Pac-12 matchup, recalling Entz coached Fresno to a 30-7 win at Boise as a 17-point underdog last year. Its advice is to circle both games and consider taking the points. *(p. 271)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- MATT YOUMANS FRESNO STATE OVER 6.5 WINS (-120) Matt Entz coached North Dakota State to two FCS national championships in five years and compiled a 60-11 record. *(p. 5)*
-- FRESNO STATE – OVER 6.5 WINS Fresno State surprised me last season by exceeding expectations in head coach Matt Entz’s first year. *(p. 22)*
-- The 35-year-old isn’t coaching the Saints like his 37-year-old brother, but three years of calling plays at Missouri and one at Fresno State now has him in a head coaching role. *(p. 35)*
-- In his first season at Fresno State, coach Matt Entz won nine games. *(p. 265)*
+Also referenced on **pp. 5, 22, 35, 265** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -99,16 +99,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 270)*.
 
-- When projecting college football teams, it’s no secret the two most important positions of handicapping emphasis are the head coach and quarterback. *(p. 270)*
-- He’s got a new quarterback this season, and that position appears to be upgraded, so beware of the Bulldogs. *(p. 270)*
-- The quarterback will be the key because if Martin matures quickly, the Bulldogs can win almost every game on their schedule. *(p. 270)*
-- This team is solid in all areas and probably can win seven or eight games even with mediocre QB play. *(p. 270)*
-- While the Bulldogs were good on the ground last season, they were limited by what quarterback EJ Warner could not do. *(p. 271)*
-- Warner was an accurate passer, yet he didn’t have a big arm to stretch the field and finished with 2,030 passing yards, 13 touchdowns and 11 interceptions. *(p. 271)*
+- On the second, he has a new quarterback and the position appears upgraded, which the guide treats as reason for opponents to beware — Entz could be lifting Fresno to the top of the Pac-12. *(p. 270)*
+- Its conditional is precise: the quarterback is the key, because if Khristian Martin matures quickly Fresno can win almost every game — while the team is solid enough everywhere to win seven or eight even with mediocre quarterback play. *(p. 270)*
+- **Will a Maryland transfer pass the test?** The guide diagnoses last season precisely: Fresno ran the ball well but was limited by what EJ Warner could not do — an accurate passer without the arm to stretch the field, finishing with 2,030 yards, 13 touchdowns and 11 interceptions. Entz brought in Maryland transfer Khristian Martin, a 6-foot-4, 230-pound dual-threat sophomore expected to beat out junior Jayden Mandal and freshman Deagan Rose. Four of the top five pass catchers return including leading receiver Josiah Freeman with 52 catches and six touchdowns. It is honest that Martin's impact is a mystery while noting he has the physical skills for major impact and a solid support system of experienced backs, receivers and linemen. *(p. 271)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- QB Carson Conklin transferred to Fresno State when Marion took over, but has now come back to the place where he was the starter in 2024. *(p. 237)*
+Also referenced on **pp. 237** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -124,24 +119,19 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 ## 11. Transfer Portal
 
-- Entz brought in Maryland transfer Khristian Martin, who’s a dual-threat playmaker at 6-foot-4 and 230 pounds. *(p. 271)*
+- **Will a Maryland transfer pass the test?** The guide diagnoses last season precisely: Fresno ran the ball well but was limited by what EJ Warner could not do — an accurate passer without the arm to stretch the field, finishing with 2,030 yards, 13 touchdowns and 11 interceptions. Entz brought in Maryland transfer Khristian Martin, a 6-foot-4, 230-pound dual-threat sophomore expected to beat out junior Jayden Mandal and freshman Deagan Rose. Four of the top five pass catchers return including leading receiver Josiah Freeman with 52 catches and six touchdowns. It is honest that Martin's impact is a mystery while noting he has the physical skills for major impact and a solid support system of experienced backs, receivers and linemen. *(p. 271)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- QB Carson Conklin transferred to Fresno State when Marion took over, but has now come back to the place where he was the starter in 2024. *(p. 237)*
+Referenced in the guide on **pp. 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Martin, a sophomore, is expected to win the job after battling with junior Jayden Mandal and freshman Deagan Rose. *(p. 271)*
+
+Referenced in the guide on **pp. 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Four of the top five pass catchers are returning, including leading receiver Josiah Freeman, who had 52 receptions and six touchdowns. *(p. 271)*
-- He’s also got a solid support system with experienced running backs, receivers and offensive linemen. *(p. 271)*
-- Entz builds winning teams by building a physical offensive line first. *(p. 271)*
-- Donelson and Luke combined for 1,302 rushing yards and 11 touchdowns last season. *(p. 271)*
-- In a conference highlighted by running back talent — headlined by Boise State’s Dylan Riley and San Diego State’s Lucky Sutton — the Bulldogs could boast the most effective offense on the ground. *(p. 271)*
-- Entz will have his team well prepared, and Fresno’s physical offensive line could push around the Trojans up front. *(p. 271)*
+- **Will a Maryland transfer pass the test?** The guide diagnoses last season precisely: Fresno ran the ball well but was limited by what EJ Warner could not do — an accurate passer without the arm to stretch the field, finishing with 2,030 yards, 13 touchdowns and 11 interceptions. Entz brought in Maryland transfer Khristian Martin, a 6-foot-4, 230-pound dual-threat sophomore expected to beat out junior Jayden Mandal and freshman Deagan Rose. Four of the top five pass catchers return including leading receiver Josiah Freeman with 52 catches and six touchdowns. It is honest that Martin's impact is a mystery while noting he has the physical skills for major impact and a solid support system of experienced backs, receivers and linemen. *(p. 271)*
+- **Is the Fresno State offensive line the league's strongest?** The guide explains Entz's method — he builds winning teams by building a physical offensive line first — then names the personnel: tackles Brayden Walton and Rolan Fullwood and guard Edward Fonua, three of the league's best, anchoring arguably the biggest and best line in the Pac-12. They clear the way for Bryson Donelson and Rayshon Luke, who combined for 1,302 rushing yards and 11 touchdowns. In a conference it notes is rich in running back talent, headlined by Boise State's Dylan Riley and San Diego State's Lucky Sutton, it judges Fresno could have the most effective ground offense. *(p. 271)*
 
 ## 14. Defensive Identity
 
@@ -195,7 +185,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Warner was an accurate passer, yet he didn’t have a big arm to stretch the field and finished with 2,030 passing yards, 13 touchdowns and 11 interceptions. *(p. 271)*
+
+Referenced in the guide on **pp. 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -232,24 +223,18 @@ Prices printed on the team page *(p. 271)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Circa Sports offers the better bet — 6.5 Over -120 with the 12th flex game included. *(p. 270)*
-- Bet on the Bulldogs being big overachievers. *(p. 270)*
-- Fresno State is a 23.5-point underdog at USC in the Sept. 5 season opener, and that line is likely to get bet higher by kickoff because favorites typically draw action early in the season. *(p. 271)*
-- But keep an eye on what could be a dangerous underdog. *(p. 271)*
-- Entz coached Fresno, a 17-point underdog, to a 30-7 win at Boise last year. *(p. 271)*
-- Entz is a bet-on coach and those are two games to circle and consider taking the points. *(p. 271)*
+- The guide states its handicapping framework explicitly: head coach and quarterback are the two most important positions of emphasis when projecting teams. *(p. 270)*
+- Recommendation is Over 6.5 wins. After the early-September trip to Los Angeles, Fresno has a realistic shot at three straight wins over Sacramento State, San Jose State and Rice. *(p. 270)*
+- Its conditional is precise: the quarterback is the key, because if Khristian Martin matures quickly Fresno can win almost every game — while the team is solid enough everywhere to win seven or eight even with mediocre quarterback play. *(p. 270)*
+- Schedule and market detail: Fresno plays at San Diego State on 17 October and hosts the Aztecs in the Flex Game rematch on 28 November. DraftKings prices 6.5 on 11 games with Over at even money, while Circa offers the better bet at 6.5 Over -120 including the 12th game. *(p. 270)*
+- Its conclusion returns to the coach: Entz won eight regular-season games in his debut, has a better team and a manageable schedule, so bet on the Bulldogs being big overachievers. *(p. 270)*
+- **Are the Bulldogs a threat to USC and Boise State?** Fresno is a 23.5-point underdog at USC on 5 September, and the guide expects the line to be bet higher by kickoff because favorites typically draw early-season action — flagging a potentially dangerous underdog. Its reasoning is matchup-specific: Entz will have the team well prepared and Fresno's physical line could push the Trojans around, since Lincoln Riley is known for finesse teams that are not the most physical up front. It also identifies the 10 October home game against Boise State as possibly the most important Pac-12 matchup, recalling Entz coached Fresno to a 30-7 win at Boise as a 17-point underdog last year. Its advice is to circle both games and consider taking the points. *(p. 271)*
 
 ## 22. Historical / Situational Trends
 
-- In 2025, he took over a Fresno State team that went 6-7 the previous season and guided the Bulldogs to a 9-4 finish punctuated by a win in the Arizona Bowl. *(p. 270)*
-- While the Bulldogs were good on the ground last season, they were limited by what quarterback EJ Warner could not do. *(p. 271)*
-- Donelson and Luke combined for 1,302 rushing yards and 11 touchdowns last season. *(p. 271)*
-- Entz coached Fresno, a 17-point underdog, to a 30-7 win at Boise last year. *(p. 271)*
+- In 2025 he took a 6-7 Fresno State team to 9-4 with an Arizona Bowl win. *(p. 270)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- FRESNO STATE – OVER 6.5 WINS Fresno State surprised me last season by exceeding expectations in head coach Matt Entz’s first year. *(p. 22)*
-- QB Carson Conklin transferred to Fresno State when Marion took over, but has now come back to the place where he was the starter in 2024. *(p. 237)*
+Referenced in the guide on **pp. 22, 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -296,39 +281,35 @@ As printed on p. 271. Each category carries a value and a national rank.
 
 - Makinen projects **7.4 wins** against a posted total of 6.5 — **+0.9** in this team's favour.
 - The team page recommends **OVER 6.5**.
-- Fresno State certainly has a winning coach. *(p. 270)*
-- Matt Entz is about as good as it gets. *(p. 270)*
-- This team is solid in all areas and probably can win seven or eight games even with mediocre QB play. *(p. 270)*
-- While the Bulldogs were good on the ground last season, they were limited by what quarterback EJ Warner could not do. *(p. 271)*
-- He’s also got a solid support system with experienced running backs, receivers and offensive linemen. *(p. 271)*
-- Entz builds winning teams by building a physical offensive line first. *(p. 271)*
-- He’s got three of the top linemen in the league — tackles Brayden Walton and Rolan Fullwood and guard Edward Fonua — to anchor arguably the best and biggest line in the Pac-12. *(p. 271)*
-- They must host an experienced Fresno State squad in nonconference play, as well as Wyoming, New Mexico, UNLV and North Dakota State. *(p. 256)*
-- There were positive signs late in the season, however, and one was in Mendenhall’s best win, 28-17 at Fresno State. *(p. 279)*
-- Next up will be home games against Arizona and Fresno State, which could be the Pac-12’s second-best team. *(p. 280)*
+- On the first, Matt Entz is about as good as it gets — he coached North Dakota State to two FCS national titles in five years and left 60-11. *(p. 270)*
+- Its conditional is precise: the quarterback is the key, because if Khristian Martin matures quickly Fresno can win almost every game — while the team is solid enough everywhere to win seven or eight even with mediocre quarterback play. *(p. 270)*
+- Its conclusion returns to the coach: Entz won eight regular-season games in his debut, has a better team and a manageable schedule, so bet on the Bulldogs being big overachievers. *(p. 270)*
+- The guide diagnoses last season precisely: Fresno ran the ball well but was limited by what EJ Warner could not do — an accurate passer without the arm to stretch the field, finishing with 2,030 yards, 13 touchdowns and 11 interceptions. Entz brought in Maryland transfer Khristian Martin, a 6-foot-4, 230-pound dual-threat sophomore expected to beat out junior Jayden Mandal and freshman Deagan Rose. Four of the top five pass catchers return including leading receiver Josiah Freeman with 52 catches and six touchdowns. It is honest that Martin's impact is a mystery while noting he has the physical skills for major impact and a solid support system of experienced backs, receivers and linemen. *(p. 271)*
+- The guide explains Entz's method — he builds winning teams by building a physical offensive line first — then names the personnel: tackles Brayden Walton and Rolan Fullwood and guard Edward Fonua, three of the league's best, anchoring arguably the biggest and best line in the Pac-12. They clear the way for Bryson Donelson and Rayshon Luke, who combined for 1,302 rushing yards and 11 touchdowns. In a conference it notes is rich in running back talent, headlined by Boise State's Dylan Riley and San Diego State's Lucky Sutton, it judges Fresno could have the most effective ground offense. *(p. 271)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-No note in this file is phrased as an explicitly pessimistic claim. VSiN's reasoning on this side is on pp. 5, 13, 22, 35, 64, 237, 243, 256, 265, 266, 270, 271, 274, 278, 279, 280 — see the other sections of this file, which carry the same analysis without splitting it by direction.
+No note in this file is phrased as an explicitly pessimistic claim. VSiN's reasoning on this side is on pp. 270, 271 — see the other sections of this file, which carry the same analysis without splitting it by direction.
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 271)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 271)*. Its analysis, in reference form:
 
 ### Will a Maryland transfer pass the test?
 
-While the Bulldogs were good on the ground last season, they were limited by what quarterback EJ Warner could not do. Warner was an accurate passer, yet he didn’t have a big arm to stretch the field and finished with 2,030 passing yards, 13 touchdowns and 11 interceptions. Entz brought in Maryland transfer Khristian Martin, who’s a dual-threat playmaker at 6-foot-4 and 230 pounds. Martin, a sophomore, is expected to win the job after battling with junior Jayden Mandal and freshman Deagan Rose. Four of the top five pass catchers are returning, including leading receiver Josiah Freeman, who had 52 receptions and six touchdowns. Martin’s impact will be a mystery, but he’s got the physical skills to make a major impact. He’s also got a solid support system with experienced running backs, receivers and offensive linemen.
+The guide diagnoses last season precisely: Fresno ran the ball well but was limited by what EJ Warner could not do — an accurate passer without the arm to stretch the field, finishing with 2,030 yards, 13 touchdowns and 11 interceptions. Entz brought in Maryland transfer Khristian Martin, a 6-foot-4, 230-pound dual-threat sophomore expected to beat out junior Jayden Mandal and freshman Deagan Rose. Four of the top five pass catchers return including leading receiver Josiah Freeman with 52 catches and six touchdowns. It is honest that Martin's impact is a mystery while noting he has the physical skills for major impact and a solid support system of experienced backs, receivers and linemen. *(p. 271)*
 
-### Is the Fresno State offensive line the league’s strongest?
+### Is the Fresno State offensive line the league's strongest?
 
-Entz builds winning teams by building a physical offensive line first. He’s got three of the top linemen in the league — tackles Brayden Walton and Rolan Fullwood and guard Edward Fonua — to anchor arguably the best and biggest line in the Pac-12. The line will pave the way for running backs Bryson Donelson and Rayshon “Speedy” Luke. Donelson and Luke combined for 1,302 rushing yards and 11 touchdowns last season. In a conference highlighted by running back talent — headlined by Boise State’s Dylan Riley and San Diego State’s Lucky Sutton — the Bulldogs could boast the most effective offense on the ground.
+The guide explains Entz's method — he builds winning teams by building a physical offensive line first — then names the personnel: tackles Brayden Walton and Rolan Fullwood and guard Edward Fonua, three of the league's best, anchoring arguably the biggest and best line in the Pac-12. They clear the way for Bryson Donelson and Rayshon Luke, who combined for 1,302 rushing yards and 11 touchdowns. In a conference it notes is rich in running back talent, headlined by Boise State's Dylan Riley and San Diego State's Lucky Sutton, it judges Fresno could have the most effective ground offense. *(p. 271)*
 
 ### Are the Bulldogs a threat to USC and Boise State?
 
-Fresno State is a 23.5-point underdog at USC in the Sept. 5 season opener, and that line is likely to get bet higher by kickoff because favorites typically draw action early in the season. But keep an eye on what could be a dangerous underdog. Entz will have his team well prepared, and Fresno’s physical offensive line could push around the Trojans up front. USC coach Lincoln Riley is known for fielding finesse teams that are not the most physical up front. The Bulldogs host Boise State on Oct. 10 in what could be the most important matchup of Pac-12 play. Entz coached Fresno, a 17-point underdog, to a 30-7 win at Boise last year. Entz is a bet-on coach and those are two games to circle and consider taking the points.
+Fresno is a 23.5-point underdog at USC on 5 September, and the guide expects the line to be bet higher by kickoff because favorites typically draw early-season action — flagging a potentially dangerous underdog. Its reasoning is matchup-specific: Entz will have the team well prepared and Fresno's physical line could push the Trojans around, since Lincoln Riley is known for finesse teams that are not the most physical up front. It also identifies the 10 October home game against Boise State as possibly the most important Pac-12 matchup, recalling Entz coached Fresno to a 30-7 win at Boise as a 17-point underdog last year. Its advice is to circle both games and consider taking the points. *(p. 271)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 4.7–7.3 overall, 2.9–4.1 in conference |
 | **Schedule strength** | 41.67 (#67 toughest of 138) |
 
-### Season outlook as written in the guide (p. 278)
+### Season outlook — VSiN's analysis in reference form (p. 278)
 
-After 11 years and 99 wins at Brigham Young, Bronco Mendenhall decided to take his coaching show on the road. Utah State is his third stop since leaving Provo in 2015, and he has had a losing record since ditching BYU. He went 36-38 in six seasons at Virginia, 5-7 in one year at New Mexico and 6-7 last year with the Aggies. Utah State was close to a much better finish in Mendenhall’s first season, losing 29-26 at UNLV and 25-24 to Boise State late in the year. While the Broncos and Rebels played for the Mountain West championship, the Aggies went on to lose the Idaho Potato Bowl. Mendenhall must replace a veteran quarterback, and he has settled on another veteran to lead the team into the Pac-12. Over 4.5 The call here will be for five wins, but it’s a lean and not a bet. The Circa Sports line of 4.5 Over -160 is priced right as the Aggies appear headed for 5-7 or 4-8. The prediction for five is simply giving Mendenhall the benefit of the doubt. Barnes was a big-time playmaker and Hillstead has not played enough for anyone to know if he can handle the quarterback job at a high level. The key to Utah State’s win total will be its back- to-back home games against Colorado State and Fresno State in the second half of the season, and if the Aggies split those games, they will likely get to five wins. In the future, Mendenhall would be wise to set up a softer nonconference schedule. Indiana’s Curt Cignetti is scheduling cupcakes outside of Big Ten play, for example, while Utah State is lining up Utah and Washington on the road.
+- The guide opens on Bronco Mendenhall's record before and after Provo: 11 years and 99 wins at Brigham Young, then a losing record at every stop since leaving in 2015 — 36-38 in six seasons at Virginia, 5-7 in one year at New Mexico, and 6-7 last year with the Aggies. Utah State is his third stop since BYU. *(p. 278)*
+- It argues the first season was closer to a much better finish than the record shows, citing a 29-26 loss at UNLV and a 25-24 loss to Boise State late in the year. While those two teams played for the Mountain West championship, Utah State went on to lose the Idaho Potato Bowl. *(p. 278)*
+- The stated transition problem is that Mendenhall must replace a veteran quarterback, and has settled on another veteran to lead the team into the Pac-12. *(p. 278)*
+- Recommendation is Over 4.5 wins, explicitly qualified: the call is for five wins, but the guide labels it “a lean and not a bet”. It judges the Circa Sports 4.5 Over -160 to be priced right, with the Aggies appearing headed for 5-7 or 4-8, and says the five-win prediction is simply giving Mendenhall the benefit of the doubt. *(p. 278)*
+- Its stated uncertainty at quarterback is the reason for the hedge: Barnes was a big-time playmaker, and Hillstead has not played enough for anyone to know whether he can handle the job at a high level. *(p. 278)*
+- The guide identifies the pivot point of the win total precisely — back-to-back home games against Colorado State and Fresno State in the second half of the season. A split there likely gets Utah State to five wins. *(p. 278)*
+- It closes with scheduling advice rather than analysis of this season: Mendenhall would be wise to arrange a softer nonconference slate in future, contrasting Indiana's Curt Cignetti scheduling cupcakes outside Big Ten play with Utah State lining up Utah and Washington on the road. *(p. 278)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,14 +86,12 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- After 11 years and 99 wins at Brigham Young, Bronco Mendenhall decided to take his coaching show on the road. *(p. 278)*
-- Offensive coordinator Robert Anae is known for aerial attacks, but the ground game will be emphasized more with senior Javen Jacobs returning as the featured back behind Hillstead. *(p. 279)*
+- The guide opens on Bronco Mendenhall's record before and after Provo: 11 years and 99 wins at Brigham Young, then a losing record at every stop since leaving in 2015 — 36-38 in six seasons at Virginia, 5-7 in one year at New Mexico, and 6-7 last year with the Aggies. Utah State is his third stop since BYU. *(p. 278)*
+- It closes with scheduling advice rather than analysis of this season: Mendenhall would be wise to arrange a softer nonconference slate in future, contrasting Indiana's Curt Cignetti scheduling cupcakes outside Big Ten play with Utah State lining up Utah and Washington on the road. *(p. 278)*
+- **How different will the offense look with a new quarterback?** The baseline is Bryson Barnes as a dual-threat weapon who led the Aggies in rushing (740 yards, 10 touchdowns) while passing for 2,803 yards and 18 touchdowns. McCae Hillstead, a BYU backup a year ago, won the starting job in spring and is not new to the programme — he started four games for Utah State in 2023 — and is also a running threat. On scheme, the guide notes offensive coordinator Robert Anae is known for aerial attacks but expects more emphasis on the ground game, with senior Javen Jacobs returning as the featured back behind Hillstead. The interior line is manned by veterans and appears solid. Its projection is that the offense was potent at 30.9 PPG with Barnes running it and the numbers will likely decline a little, with Hillstead having big shoes to fill. *(p. 279)*
+- **Will Bronco build a better defense?** Utah State allowed 28.7 PPG last season, and the guide lists the worst of it — 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. It sets against that positive signs late in the year, above all Mendenhall's best win, 28-17 at Fresno State. Two of the top three tacklers return, including senior safety Brevin Hamblin and his 114 tackles, and it names well-travelled linebacker Harrison Taggart — previously at Oregon, BYU and California — as the potential leader. On the coach it holds both facts together: Mendenhall was known for producing strong defenses at BYU, but that reputation has faded in recent years. Its verdict keeps the uncertainty: the Aggies will be better defensively, but it is tough to say how much better. *(p. 279)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He’s got a decade of FBS coaching experience, but also had an unceremonious departure from Utah State and didn’t coach in 2024. *(p. 37)*
-- He took Arkansas State to new heights from 2014-20 and had an 11-win season at Utah State to start his tenure, but this is a fairly uninspiring hire in Hattiesburg. *(p. 37)*
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
+Also referenced on **pp. 37, 203** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -93,13 +99,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 278)*.
 
-- Mendenhall must replace a veteran quarterback, and he has settled on another veteran to lead the team into the Pac-12. *(p. 278)*
-- Barnes was a big-time playmaker and Hillstead has not played enough for anyone to know if he can handle the quarterback job at a high level. *(p. 278)*
-- Bryson Barnes was a dual-threat weapon for the Aggies while leading the team in rushing (740 yards and 10 touchdowns) and passing for 2,803 yards and 18 touchdowns. *(p. 279)*
+- The stated transition problem is that Mendenhall must replace a veteran quarterback, and has settled on another veteran to lead the team into the Pac-12. *(p. 278)*
+- Its stated uncertainty at quarterback is the reason for the hedge: Barnes was a big-time playmaker, and Hillstead has not played enough for anyone to know whether he can handle the job at a high level. *(p. 278)*
+- **How different will the offense look with a new quarterback?** The baseline is Bryson Barnes as a dual-threat weapon who led the Aggies in rushing (740 yards, 10 touchdowns) while passing for 2,803 yards and 18 touchdowns. McCae Hillstead, a BYU backup a year ago, won the starting job in spring and is not new to the programme — he started four games for Utah State in 2023 — and is also a running threat. On scheme, the guide notes offensive coordinator Robert Anae is known for aerial attacks but expects more emphasis on the ground game, with senior Javen Jacobs returning as the featured back behind Hillstead. The interior line is manned by veterans and appears solid. Its projection is that the offense was potent at 30.9 PPG with Barnes running it and the numbers will likely decline a little, with Hillstead having big shoes to fill. *(p. 279)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
+Also referenced on **pp. 203** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -123,20 +127,13 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Bryson Barnes was a dual-threat weapon for the Aggies while leading the team in rushing (740 yards and 10 touchdowns) and passing for 2,803 yards and 18 touchdowns. *(p. 279)*
-- Offensive coordinator Robert Anae is known for aerial attacks, but the ground game will be emphasized more with senior Javen Jacobs returning as the featured back behind Hillstead. *(p. 279)*
-- The offense was potent (30.9 PPG) with Barnes running it and the numbers will likely decline a little. *(p. 279)*
+- **How different will the offense look with a new quarterback?** The baseline is Bryson Barnes as a dual-threat weapon who led the Aggies in rushing (740 yards, 10 touchdowns) while passing for 2,803 yards and 18 touchdowns. McCae Hillstead, a BYU backup a year ago, won the starting job in spring and is not new to the programme — he started four games for Utah State in 2023 — and is also a running threat. On scheme, the guide notes offensive coordinator Robert Anae is known for aerial attacks but expects more emphasis on the ground game, with senior Javen Jacobs returning as the featured back behind Hillstead. The interior line is manned by veterans and appears solid. Its projection is that the offense was potent at 30.9 PPG with Barnes running it and the numbers will likely decline a little, with Hillstead having big shoes to fill. *(p. 279)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
+Referenced in the guide on **pp. 203** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Two of the top three tacklers are returning, including senior safety Brevin Hamblin (114 tackles). *(p. 279)*
-- The leader of this defense could be well-traveled linebacker Harrison Taggart, who previously played at Oregon, BYU and California. *(p. 279)*
-- Mendenhall was known for producing strong defenses at BYU, but his reputation on that side of the ball has faded the past few years. *(p. 279)*
-- The Aggies will be better defensively, but it’s tough to say how much better. *(p. 279)*
+- **Will Bronco build a better defense?** Utah State allowed 28.7 PPG last season, and the guide lists the worst of it — 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. It sets against that positive signs late in the year, above all Mendenhall's best win, 28-17 at Fresno State. Two of the top three tacklers return, including senior safety Brevin Hamblin and his 114 tackles, and it names well-travelled linebacker Harrison Taggart — previously at Oregon, BYU and California — as the potential leader. On the coach it holds both facts together: Mendenhall was known for producing strong defenses at BYU, but that reputation has faded in recent years. Its verdict keeps the uncertainty: the Aggies will be better defensively, but it is tough to say how much better. *(p. 279)*
 
 ## 15. Key Strengths
 
@@ -202,20 +199,17 @@ Prices printed on the team page *(p. 279)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Over 4.5 The call here will be for five wins, but it’s a lean and not a bet. *(p. 278)*
-- The Circa Sports line of 4.5 Over -160 is priced right as the Aggies appear headed for 5-7 or 4-8. *(p. 278)*
+- Recommendation is Over 4.5 wins, explicitly qualified: the call is for five wins, but the guide labels it “a lean and not a bet”. It judges the Circa Sports 4.5 Over -160 to be priced right, with the Aggies appearing headed for 5-7 or 4-8, and says the five-win prediction is simply giving Mendenhall the benefit of the doubt. *(p. 278)*
+- Its stated uncertainty at quarterback is the reason for the hedge: Barnes was a big-time playmaker, and Hillstead has not played enough for anyone to know whether he can handle the job at a high level. *(p. 278)*
+- The guide identifies the pivot point of the win total precisely — back-to-back home games against Colorado State and Fresno State in the second half of the season. A split there likely gets Utah State to five wins. *(p. 278)*
 
 ## 22. Historical / Situational Trends
 
-- Utah State is his third stop since leaving Provo in 2015, and he has had a losing record since ditching BYU. *(p. 278)*
-- He went 36-38 in six seasons at Virginia, 5-7 in one year at New Mexico and 6-7 last year with the Aggies. *(p. 278)*
-- Hillstead is a familiar face because he actually started four games for the Aggies in 2023. *(p. 279)*
-- Utah State allowed 28.7 PPG last season — surrendering 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. *(p. 279)*
-- Utah State has a 1-15 record against Utah in the Beehive Boot rivalry since 1998. *(p. 279)*
+- The guide opens on Bronco Mendenhall's record before and after Provo: 11 years and 99 wins at Brigham Young, then a losing record at every stop since leaving in 2015 — 36-38 in six seasons at Virginia, 5-7 in one year at New Mexico, and 6-7 last year with the Aggies. Utah State is his third stop since BYU. *(p. 278)*
+- It argues the first season was closer to a much better finish than the record shows, citing a 29-26 loss at UNLV and a 25-24 loss to Boise State late in the year. While those two teams played for the Mountain West championship, Utah State went on to lose the Idaho Potato Bowl. *(p. 278)*
+- **Is the road schedule too challenging to overcome?** The guide works it out game by game. Utah State should be 2-2 after four games, assuming it handles home games against Idaho State and Troy. The problems are away from home: Washington and Utah in the first month, plus Pac-12 road games at Boise State, San Diego State and Texas State. It adds the historical marker that Utah State is 1-15 against Utah in the Beehive Boot rivalry since 1998. Its conclusion is that the road schedule stacks the odds against a return to a bowl. *(p. 279)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He’s got a decade of FBS coaching experience, but also had an unceremonious departure from Utah State and didn’t coach in 2024. *(p. 37)*
+Referenced in the guide on **pp. 37** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -262,36 +256,36 @@ As printed on p. 279. Each category carries a value and a national rank.
 
 - Makinen projects **4.7 wins** against a posted total of 4.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 4.5**.
-- The interior line is manned by veterans and appears to be solid. *(p. 279)*
-- There were positive signs late in the season, however, and one was in Mendenhall’s best win, 28-17 at Fresno State. *(p. 279)*
-- Mendenhall was known for producing strong defenses at BYU, but his reputation on that side of the ball has faded the past few years. *(p. 279)*
-- Is Oregon State good enough to beat Colorado State, Texas State, Utah State and Washington State? *(p. 272)*
+- The baseline is Bryson Barnes as a dual-threat weapon who led the Aggies in rushing (740 yards, 10 touchdowns) while passing for 2,803 yards and 18 touchdowns. McCae Hillstead, a BYU backup a year ago, won the starting job in spring and is not new to the programme — he started four games for Utah State in 2023 — and is also a running threat. On scheme, the guide notes offensive coordinator Robert Anae is known for aerial attacks but expects more emphasis on the ground game, with senior Javen Jacobs returning as the featured back behind Hillstead. The interior line is manned by veterans and appears solid. Its projection is that the offense was potent at 30.9 PPG with Barnes running it and the numbers will likely decline a little, with Hillstead having big shoes to fill. *(p. 279)*
+- Utah State allowed 28.7 PPG last season, and the guide lists the worst of it — 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. It sets against that positive signs late in the year, above all Mendenhall's best win, 28-17 at Fresno State. Two of the top three tacklers return, including senior safety Brevin Hamblin and his 114 tackles, and it names well-travelled linebacker Harrison Taggart — previously at Oregon, BYU and California — as the potential leader. On the coach it holds both facts together: Mendenhall was known for producing strong defenses at BYU, but that reputation has faded in recent years. Its verdict keeps the uncertainty: the Aggies will be better defensively, but it is tough to say how much better. *(p. 279)*
+- The guide works it out game by game. Utah State should be 2-2 after four games, assuming it handles home games against Idaho State and Troy. The problems are away from home: Washington and Utah in the first month, plus Pac-12 road games at Boise State, San Diego State and Texas State. It adds the historical marker that Utah State is 1-15 against Utah in the Beehive Boot rivalry since 1998. Its conclusion is that the road schedule stacks the odds against a return to a bowl. *(p. 279)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Utah State allowed 28.7 PPG last season — surrendering 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. *(p. 279)*
-- The Aggies will be better defensively, but it’s tough to say how much better. *(p. 279)*
+- It argues the first season was closer to a much better finish than the record shows, citing a 29-26 loss at UNLV and a 25-24 loss to Boise State late in the year. While those two teams played for the Mountain West championship, Utah State went on to lose the Idaho Potato Bowl. *(p. 278)*
+- Utah State allowed 28.7 PPG last season, and the guide lists the worst of it — 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. It sets against that positive signs late in the year, above all Mendenhall's best win, 28-17 at Fresno State. Two of the top three tacklers return, including senior safety Brevin Hamblin and his 114 tackles, and it names well-travelled linebacker Harrison Taggart — previously at Oregon, BYU and California — as the potential leader. On the coach it holds both facts together: Mendenhall was known for producing strong defenses at BYU, but that reputation has faded in recent years. Its verdict keeps the uncertainty: the Aggies will be better defensively, but it is tough to say how much better. *(p. 279)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 279)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 279)*. Its analysis, in reference form:
 
 ### How different will the offense look with a new quarterback?
 
-Bryson Barnes was a dual-threat weapon for the Aggies while leading the team in rushing (740 yards and 10 touchdowns) and passing for 2,803 yards and 18 touchdowns. McCae Hillstead, a backup at BYU a year ago, won Utah State’s starting job in the spring. Hillstead is a familiar face because he actually started four games for the Aggies in 2023. He’s also a running threat. Offensive coordinator Robert Anae is known for aerial attacks, but the ground game will be emphasized more with senior Javen Jacobs returning as the featured back behind Hillstead. The interior line is manned by veterans and appears to be solid. The offense was potent (30.9 PPG) with Barnes running it and the numbers will likely decline a little. Hillstead obviously has big shoes to fill.
+The baseline is Bryson Barnes as a dual-threat weapon who led the Aggies in rushing (740 yards, 10 touchdowns) while passing for 2,803 yards and 18 touchdowns. McCae Hillstead, a BYU backup a year ago, won the starting job in spring and is not new to the programme — he started four games for Utah State in 2023 — and is also a running threat. On scheme, the guide notes offensive coordinator Robert Anae is known for aerial attacks but expects more emphasis on the ground game, with senior Javen Jacobs returning as the featured back behind Hillstead. The interior line is manned by veterans and appears solid. Its projection is that the offense was potent at 30.9 PPG with Barnes running it and the numbers will likely decline a little, with Hillstead having big shoes to fill. *(p. 279)*
 
 ### Will Bronco build a better defense?
 
-Utah State allowed 28.7 PPG last season — surrendering 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. There were positive signs late in the season, however, and one was in Mendenhall’s best win, 28-17 at Fresno State. Two of the top three tacklers are returning, including senior safety Brevin Hamblin (114 tackles). The leader of this defense could be well-traveled linebacker Harrison Taggart, who previously played at Oregon, BYU and California. Mendenhall was known for producing strong defenses at BYU, but his reputation on that side of the ball has faded the past few years. The Aggies will be better defensively, but it’s tough to say how much better.
+Utah State allowed 28.7 PPG last season, and the guide lists the worst of it — 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. It sets against that positive signs late in the year, above all Mendenhall's best win, 28-17 at Fresno State. Two of the top three tacklers return, including senior safety Brevin Hamblin and his 114 tackles, and it names well-travelled linebacker Harrison Taggart — previously at Oregon, BYU and California — as the potential leader. On the coach it holds both facts together: Mendenhall was known for producing strong defenses at BYU, but that reputation has faded in recent years. Its verdict keeps the uncertainty: the Aggies will be better defensively, but it is tough to say how much better. *(p. 279)*
 
 ### Is the road schedule too challenging to overcome?
 
-The Aggies should be 2-2 after four games, assuming they handle home games against Idaho State and Troy. The major problems Mendenhall faces will be away from home because Utah State plays at Washington and Utah in the first month in addition to Pac-12 road games against Boise State, San Diego State and Texas State. Utah State has a 1-15 record against Utah in the Beehive Boot rivalry since 1998. The road schedule stacks the odds against the Aggies returning to a bowl.
+The guide works it out game by game. Utah State should be 2-2 after four games, assuming it handles home games against Idaho State and Troy. The problems are away from home: Washington and Utah in the first month, plus Pac-12 road games at Boise State, San Diego State and Texas State. It adds the historical marker that Utah State is 1-15 against Utah in the Beehive Boot rivalry since 1998. Its conclusion is that the road schedule stacks the odds against a return to a bowl. *(p. 279)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 

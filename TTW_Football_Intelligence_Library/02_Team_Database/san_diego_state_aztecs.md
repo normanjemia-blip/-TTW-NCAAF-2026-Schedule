@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 7.4–4.6 overall, 4.5–2.5 in conference |
 | **Schedule strength** | 36.74 (#78 toughest of 138) |
 
-### Season outlook as written in the guide (p. 274)
+### Season outlook — VSiN's analysis in reference form (p. 274)
 
-Sean Lewis predicted a quick turnaround when he took over a losing San Diego State team in 2024, but ugly losses piled up and he went 3-9. Lewis fulfilled his promise last season by posting a 9-4 record and reaching a bowl. The highlights were a 34-0 victory over California and a 17-7 win over Boise State. Lewis is an innovative offensive coach. He’s got to find the right quarterback to operate his system. The Aztecs are known for their tradition of tough defenses and stud running backs, and they definitely have the running back in place this season. The defense and quarterback play will determine San Diego State’s ceiling. Under 7.5 It’s tough to be too optimistic about San Diego State when its quarterback is surrounded by questions and its defense is in rebuilding mode. Lewis is a good coach, but this season could turn out to be a disappointment and some regression seems imminent. The Portland State opener is the only spot on the schedule that should be a gimme putt. The Aztecs face road trips to UCLA, Toledo, Oregon State, Colorado State and Boise State and might not win more than one of those games. The rest of the home schedule (James Madison, Texas State, Fresno State, Washington State, Utah State) serves up no cupcakes. The DraftKings win total of 6.5 Under +125 is worth a play. DraftKings rules stipulate 11 games and exclude the “Flex Game” added to Pac-12 schedules on Nov. 28. Circa Sports has posted 7.5 Under -140 and includes the 12th flex game, which will be at Fresno, so that’s the better play.
+- The guide frames Sean Lewis as a coach who has already answered his first test. He promised a quick turnaround on arrival in 2024, then went 3-9 with a pile of ugly losses; last season he delivered, going 9-4 and reaching a bowl. *(p. 274)*
+- It picks out two results as the high points of that season — 34-0 over California and 17-7 over Boise State. *(p. 274)*
+- Lewis is described as an innovative offensive coach whose remaining problem is finding the right quarterback to run his system. *(p. 274)*
+- The programme's identity, per the guide, is tough defenses and star running backs. It says the running back is unquestionably in place this season, and that the ceiling is set instead by the defense and by quarterback play. *(p. 274)*
+- Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
+- On the schedule it counts the Portland State opener as the only free win. Road trips to UCLA, Toledo, Oregon State, Colorado State and Boise State might yield no more than one victory, and it says the remaining home slate — James Madison, Texas State, Fresno State, Washington State, Utah State — “serves up no cupcakes”. *(p. 274)*
+- A market-structure distinction decides which number to take. DraftKings prices 6.5 Under +125 on 11 games, excluding the Flex Game added to Pac-12 schedules on Nov. 28; Circa Sports posts 7.5 Under -140 including that 12th flex game, which for San Diego State falls at Fresno. The guide calls the DraftKings 6.5 Under +125 worth a play and the Circa 7.5 Under -140 the better play. *(p. 274)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,14 +86,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Lewis is an innovative offensive coach. *(p. 274)*
-- Lewis is a good coach, but this season could turn out to be a disappointment and some regression seems imminent. *(p. 274)*
-- The irony in San Diego State’s turnaround last season was that Lewis is an offensive-minded coach and it was the defense that led the way. *(p. 275)*
-- Senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks are expected to spearhead the revamped defense under new coordinator Demetrius Sumler. *(p. 275)*
+- The guide frames Sean Lewis as a coach who has already answered his first test. He promised a quick turnaround on arrival in 2024, then went 3-9 with a pile of ugly losses; last season he delivered, going 9-4 and reaching a bowl. *(p. 274)*
+- Lewis is described as an innovative offensive coach whose remaining problem is finding the right quarterback to run his system. *(p. 274)*
+- **Will a new-look defense still be elite?** The guide's framing is ironic: the turnaround under an offensive-minded coach was led by the defense, which ranked No. 6 nationally in scoring defense at 15.4 PPG — company it lists as Ohio State, Indiana, Miami and Texas Tech. That unit pitched two shutouts and allowed more than 24 points only three times. The structural problem is turnover: only two starters return, against 10 returning a year ago. The single biggest loss is corner Chris Johnson, the 27th overall pick by the Miami Dolphins, leaving what the guide calls a huge hole in the secondary and forcing inexperienced players to develop quickly. It names senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks as the expected leaders under new coordinator Demetrius Sumler, and concludes flatly that this defense will take some steps back. *(p. 275)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
+Also referenced on **pp. 165** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -93,12 +98,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 274)*.
 
-- He’s got to find the right quarterback to operate his system. *(p. 274)*
-- The defense and quarterback play will determine San Diego State’s ceiling. *(p. 274)*
-- Under 7.5 It’s tough to be too optimistic about San Diego State when its quarterback is surrounded by questions and its defense is in rebuilding mode. *(p. 274)*
-- San Diego State must have an effective ground attack to complement a quarterback who needs the help. *(p. 275)*
-- Lewis’ plans for a high-flying passing attack might not materialize. *(p. 275)*
-- A shoulder injury that bothered Denegal last season is apparently repaired, so he should improve on modest numbers (58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions). *(p. 275)*
+- Lewis is described as an innovative offensive coach whose remaining problem is finding the right quarterback to run his system. *(p. 274)*
+- The programme's identity, per the guide, is tough defenses and star running backs. It says the running back is unquestionably in place this season, and that the ceiling is set instead by the defense and by quarterback play. *(p. 274)*
+- Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
+- **Will quarterback Jayden Denegal be the answer?** The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
 
 ## 10. Returning Production
 
@@ -114,45 +117,30 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 ## 11. Transfer Portal
 
-- The talent is there because Denegal is a former Michigan transfer who was a touted recruit. *(p. 275)*
-- It certainly helps that the Aztecs’ top two receivers, Jordan Napier and Donovan Brown, are returning and Texas A&M transfer Jacob Bostick has been added. *(p. 275)*
+- **Will quarterback Jayden Denegal be the answer?** The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- To shore up the linebacker corps, Owen Chambliss follows Aurich in from San Diego State and Dexter Foster transfers in from Oregon State to go along with Vincent Shavers Jr (61 tackles, 7.5 TFLs). *(p. 165)*
+Referenced in the guide on **pp. 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- The talent is there because Denegal is a former Michigan transfer who was a touted recruit. *(p. 275)*
+
+Referenced in the guide on **pp. 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Lewis is an innovative offensive coach. *(p. 274)*
-- Unlike Faulk, Sutton is not a receiving threat out of the backfield, but he’s a big back at 6-foot-1 and 225 pounds and handles a heavy workload. *(p. 275)*
-- It certainly helps that the Aztecs’ top two receivers, Jordan Napier and Donovan Brown, are returning and Texas A&M transfer Jacob Bostick has been added. *(p. 275)*
-- Aside from Denegal, the biggest question mark is an offensive line that must replace three starters. *(p. 275)*
-- The irony in San Diego State’s turnaround last season was that Lewis is an offensive-minded coach and it was the defense that led the way. *(p. 275)*
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
+- The programme's identity, per the guide, is tough defenses and star running backs. It says the running back is unquestionably in place this season, and that the ceiling is set instead by the defense and by quarterback play. *(p. 274)*
+- **Is Lucky Sutton the Aztecs’ next Marshall Faulk?** The guide poses the comparison and immediately disowns it as unfair and sensationalised, noting Faulk is the programme's No. 2 all-time rusher, while placing Sutton in the same tradition of dynamic backs. Sutton ran for 1,297 yards last season to lead the Mountain West, including 150 against Boise State. Unlike Faulk he is not a receiving threat out of the backfield, but at 6-foot-1 and 225 pounds he is a big back who handles a heavy workload. The analytical point is dependency: San Diego State needs an effective ground attack to support a quarterback who needs the help. Its verdict is that Sutton can be a star. *(p. 275)*
+- **Will quarterback Jayden Denegal be the answer?** The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- In a conference highlighted by running back talent — headlined by Boise State’s Dylan Riley and San Diego State’s Lucky Sutton — the Bulldogs could boast the most effective offense on the ground. *(p. 271)*
+Referenced in the guide on **pp. 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- The Aztecs are known for their tradition of tough defenses and stud running backs, and they definitely have the running back in place this season. *(p. 274)*
-- The defense and quarterback play will determine San Diego State’s ceiling. *(p. 274)*
-- Under 7.5 It’s tough to be too optimistic about San Diego State when its quarterback is surrounded by questions and its defense is in rebuilding mode. *(p. 274)*
-- The irony in San Diego State’s turnaround last season was that Lewis is an offensive-minded coach and it was the defense that led the way. *(p. 275)*
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
-- Johnson leaves a huge hole in the secondary, and the Aztecs will need several inexperienced players to grow up in a hurry. *(p. 275)*
-- Senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks are expected to spearhead the revamped defense under new coordinator Demetrius Sumler. *(p. 275)*
-- This defense will take some steps back. *(p. 275)*
+- The programme's identity, per the guide, is tough defenses and star running backs. It says the running back is unquestionably in place this season, and that the ceiling is set instead by the defense and by quarterback play. *(p. 274)*
+- Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
+- **Will a new-look defense still be elite?** The guide's framing is ironic: the turnaround under an offensive-minded coach was led by the defense, which ranked No. 6 nationally in scoring defense at 15.4 PPG — company it lists as Ohio State, Indiana, Miami and Texas Tech. That unit pitched two shutouts and allowed more than 24 points only three times. The structural problem is turnover: only two starters return, against 10 returning a year ago. The single biggest loss is corner Chris Johnson, the 27th overall pick by the Miami Dolphins, leaving what the guide calls a huge hole in the secondary and forcing inexperienced players to develop quickly. It names senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks as the expected leaders under new coordinator Demetrius Sumler, and concludes flatly that this defense will take some steps back. *(p. 275)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
-- To shore up the linebacker corps, Owen Chambliss follows Aurich in from San Diego State and Dexter Foster transfers in from Oregon State to go along with Vincent Shavers Jr (61 tackles, 7.5 TFLs). *(p. 165)*
+Referenced in the guide on **pp. 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -232,24 +220,18 @@ Prices printed on the team page *(p. 275)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
+- On the schedule it counts the Portland State opener as the only free win. Road trips to UCLA, Toledo, Oregon State, Colorado State and Boise State might yield no more than one victory, and it says the remaining home slate — James Madison, Texas State, Fresno State, Washington State, Utah State — “serves up no cupcakes”. *(p. 274)*
+- A market-structure distinction decides which number to take. DraftKings prices 6.5 Under +125 on 11 games, excluding the Flex Game added to Pac-12 schedules on Nov. 28; Circa Sports posts 7.5 Under -140 including that 12th flex game, which for San Diego State falls at Fresno. The guide calls the DraftKings 6.5 Under +125 worth a play and the Circa 7.5 Under -140 the better play. *(p. 274)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The schedule is not easy and also includes road games against Pac-12 favorites Boise State and San Diego State. *(p. 276)*
+Also referenced on **pp. 276** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Sean Lewis predicted a quick turnaround when he took over a losing San Diego State team in 2024, but ugly losses piled up and he went 3-9. *(p. 274)*
-- Lewis fulfilled his promise last season by posting a 9-4 record and reaching a bowl. *(p. 274)*
-- He ran for 1,297 yards last season, including 150 against Boise State, to lead the Mountain West. *(p. 275)*
-- A shoulder injury that bothered Denegal last season is apparently repaired, so he should improve on modest numbers (58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions). *(p. 275)*
-- The irony in San Diego State’s turnaround last season was that Lewis is an offensive-minded coach and it was the defense that led the way. *(p. 275)*
-- However, only two starters return, after last year’s unit returned 10 starters. *(p. 275)*
+- The guide frames Sean Lewis as a coach who has already answered his first test. He promised a quick turnaround on arrival in 2024, then went 3-9 with a pile of ugly losses; last season he delivered, going 9-4 and reaching a bowl. *(p. 274)*
+- It picks out two results as the high points of that season — 34-0 over California and 17-7 over Boise State. *(p. 274)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
-- San Diego State, the +370 second choice, went 9-4 last season and is led by workhorse running back Lucky Sutton. *(p. 265)*
+Referenced in the guide on **pp. 165, 265** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -295,44 +277,40 @@ As printed on p. 275. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.4 wins** against a posted total of 6.5 — **+0.9** in this team's favour.
-- Under 7.5 It’s tough to be too optimistic about San Diego State when its quarterback is surrounded by questions and its defense is in rebuilding mode. *(p. 274)*
-- Lewis is a good coach, but this season could turn out to be a disappointment and some regression seems imminent. *(p. 274)*
-- A shoulder injury that bothered Denegal last season is apparently repaired, so he should improve on modest numbers (58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions). *(p. 275)*
-- However, only two starters return, after last year’s unit returned 10 starters. *(p. 275)*
-- Rob Aurich led a top-10 defensive unit at San Diego State last season and was hired to improve a defense that gave up 131 points over its final three games of the season. *(p. 165)*
+- Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
+- The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
+- The guide's framing is ironic: the turnaround under an offensive-minded coach was led by the defense, which ranked No. 6 nationally in scoring defense at 15.4 PPG — company it lists as Ohio State, Indiana, Miami and Texas Tech. That unit pitched two shutouts and allowed more than 24 points only three times. The structural problem is turnover: only two starters return, against 10 returning a year ago. The single biggest loss is corner Chris Johnson, the 27th overall pick by the Miami Dolphins, leaving what the guide calls a huge hole in the secondary and forcing inexperienced players to develop quickly. It names senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks as the expected leaders under new coordinator Demetrius Sumler, and concludes flatly that this defense will take some steps back. *(p. 275)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- Sean Lewis predicted a quick turnaround when he took over a losing San Diego State team in 2024, but ugly losses piled up and he went 3-9. *(p. 274)*
-- The Aztecs are known for their tradition of tough defenses and stud running backs, and they definitely have the running back in place this season. *(p. 274)*
-- Under 7.5 It’s tough to be too optimistic about San Diego State when its quarterback is surrounded by questions and its defense is in rebuilding mode. *(p. 274)*
-- Lewis is a good coach, but this season could turn out to be a disappointment and some regression seems imminent. *(p. 274)*
-- OK, so that’s a very unfair comparison and a sensationalized question considering Faulk is the program’s No. 2 all-time rusher, but Sutton is continuing the trend of dynamic running backs. *(p. 275)*
-- A shoulder injury that bothered Denegal last season is apparently repaired, so he should improve on modest numbers (58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions). *(p. 275)*
-- Aside from Denegal, the biggest question mark is an offensive line that must replace three starters. *(p. 275)*
-- Johnson leaves a huge hole in the secondary, and the Aztecs will need several inexperienced players to grow up in a hurry. *(p. 275)*
+- The guide frames Sean Lewis as a coach who has already answered his first test. He promised a quick turnaround on arrival in 2024, then went 3-9 with a pile of ugly losses; last season he delivered, going 9-4 and reaching a bowl. *(p. 274)*
+- The programme's identity, per the guide, is tough defenses and star running backs. It says the running back is unquestionably in place this season, and that the ceiling is set instead by the defense and by quarterback play. *(p. 274)*
+- Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
+- The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
+- The guide's framing is ironic: the turnaround under an offensive-minded coach was led by the defense, which ranked No. 6 nationally in scoring defense at 15.4 PPG — company it lists as Ohio State, Indiana, Miami and Texas Tech. That unit pitched two shutouts and allowed more than 24 points only three times. The structural problem is turnover: only two starters return, against 10 returning a year ago. The single biggest loss is corner Chris Johnson, the 27th overall pick by the Miami Dolphins, leaving what the guide calls a huge hole in the secondary and forcing inexperienced players to develop quickly. It names senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks as the expected leaders under new coordinator Demetrius Sumler, and concludes flatly that this defense will take some steps back. *(p. 275)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 275)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 275)*. Its analysis, in reference form:
 
 ### Is Lucky Sutton the Aztecs’ next Marshall Faulk?
 
-OK, so that’s a very unfair comparison and a sensationalized question considering Faulk is the program’s No. 2 all-time rusher, but Sutton is continuing the trend of dynamic running backs. He ran for 1,297 yards last season, including 150 against Boise State, to lead the Mountain West. Unlike Faulk, Sutton is not a receiving threat out of the backfield, but he’s a big back at 6-foot-1 and 225 pounds and handles a heavy workload. San Diego State must have an effective ground attack to complement a quarterback who needs the help. Sutton can be a star.
+The guide poses the comparison and immediately disowns it as unfair and sensationalised, noting Faulk is the programme's No. 2 all-time rusher, while placing Sutton in the same tradition of dynamic backs. Sutton ran for 1,297 yards last season to lead the Mountain West, including 150 against Boise State. Unlike Faulk he is not a receiving threat out of the backfield, but at 6-foot-1 and 225 pounds he is a big back who handles a heavy workload. The analytical point is dependency: San Diego State needs an effective ground attack to support a quarterback who needs the help. Its verdict is that Sutton can be a star. *(p. 275)*
 
 ### Will quarterback Jayden Denegal be the answer?
 
-Lewis’ plans for a high-flying passing attack might not materialize. While Denegal is never going to remind San Diego football fans of Dan Fouts, he does have the potential to be much better. A shoulder injury that bothered Denegal last season is apparently repaired, so he should improve on modest numbers (58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions). The talent is there because Denegal is a former Michigan transfer who was a touted recruit. It certainly helps that the Aztecs’ top two receivers, Jordan Napier and Donovan Brown, are returning and Texas A&M transfer Jacob Bostick has been added. Aside from Denegal, the biggest question mark is an offensive line that must replace three starters.
+The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
 
 ### Will a new-look defense still be elite?
 
-The irony in San Diego State’s turnaround last season was that Lewis is an offensive-minded coach and it was the defense that led the way. The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. The Aztecs pitched two shutouts and allowed more than 24 points in only three games. However, only two starters return, after last year’s unit returned 10 starters. The top player on that unit was corner Chris Johnson, a first- round pick (27th overall) by the Miami Dolphins. Johnson leaves a huge hole in the secondary, and the Aztecs will need several inexperienced players to grow up in a hurry. Senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks are expected to spearhead the revamped defense under new coordinator Demetrius Sumler. This defense will take some steps back.
+The guide's framing is ironic: the turnaround under an offensive-minded coach was led by the defense, which ranked No. 6 nationally in scoring defense at 15.4 PPG — company it lists as Ohio State, Indiana, Miami and Texas Tech. That unit pitched two shutouts and allowed more than 24 points only three times. The structural problem is turnover: only two starters return, against 10 returning a year ago. The single biggest loss is corner Chris Johnson, the 27th overall pick by the Miami Dolphins, leaving what the guide calls a huge hole in the secondary and forcing inexperienced players to develop quickly. It names senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks as the expected leaders under new coordinator Demetrius Sumler, and concludes flatly that this defense will take some steps back. *(p. 275)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
