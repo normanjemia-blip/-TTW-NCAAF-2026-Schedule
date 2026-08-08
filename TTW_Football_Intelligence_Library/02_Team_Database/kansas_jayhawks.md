@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 5.7–6.3 overall, 3.4–5.6 in conference |
 | **Schedule strength** | 43.92 (#52 toughest of 138) |
 
-### Season outlook as written in the guide (p. 132)
+### Season outlook — VSiN's analysis in reference form (p. 132)
 
-After three years with Kansas, Lance Leipold looked to be on his way to becoming a Lawrence legend. The Jayhawks went 2-10 in Leipold’s first year, 6-7 in his second, and then exploded for a 9-4 season in 2023. Leipold’s work helped secure some serious financial investments from the university. However, after back- to-back 5-7 seasons in 2024 and 2025, Leipold suddenly finds himself with an uncomfortably warm seat. The good news for Kansas is that Leipold was able to bring offensive coordinator Andy Kotelnicki, a former Broyles Award nominee, back after an up-and-down stint with Penn State. That will at least mean the Jayhawks will be running the most successful offense they have run in decades. The question is whether Kansas has the talent required to achieve bowl eligibility. Under 5.5 Without Daniels’ playmaking to mask some of their deficiencies, this could be a tough year for Kansas. The Jayhawks should handle their business against lower-tier schools like Long Island and Middle Tennessee, but it’s hard to believe in them against Missouri or in the entire Big 12. Kansas might be able to make something out of home games against Baylor and UCF, but this isn’t a team that can be trusted in 50-50 games with these quarterback options and a mediocre defense. And if things do go extremely poorly, it’ll be interesting to see what happens with Leipold.
+- Lance Leipold looked set to become a Lawrence legend, taking Kansas from 2-10 to 6-7 to 9-4 in 2023, work that helped secure serious financial investment from the university. *(p. 132)*
+- Back-to-back 5-7 seasons in 2024 and 2025 have left him with what the guide calls an uncomfortably warm seat. *(p. 132)*
+- The good news is the return of coordinator Andy Kotelnicki, a former Broyles Award nominee, after an up-and-down spell at Penn State — meaning Kansas will run the most successful offense it has used in decades. *(p. 132)*
+- The guide's framing question is whether the talent is there for bowl eligibility. *(p. 132)*
+- Recommendation is Under 5.5 wins. Without Jalon Daniels' playmaking to mask deficiencies it expects a tough year. *(p. 132)*
+- It expects Kansas to handle Long Island and Middle Tennessee but finds it hard to believe in the Jayhawks against Missouri or across the Big 12, allows something might come from home games with Baylor and UCF, and says this is not a team to trust in 50-50 games given the quarterback options and a mediocre defense. It closes by noting that if things go extremely poorly, Leipold's situation becomes interesting. *(p. 132)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,8 +85,12 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The good news for Kansas is that Leipold was able to bring offensive coordinator Andy Kotelnicki, a former Broyles Award nominee, back after an up-and-down stint with Penn State. *(p. 132)*
-- New defensive coordinator DK McDonald is being tasked with patching up a unit that gave up 26.8 points per game last year. *(p. 133)*
+- Lance Leipold looked set to become a Lawrence legend, taking Kansas from 2-10 to 6-7 to 9-4 in 2023, work that helped secure serious financial investment from the university. *(p. 132)*
+- Back-to-back 5-7 seasons in 2024 and 2025 have left him with what the guide calls an uncomfortably warm seat. *(p. 132)*
+- The good news is the return of coordinator Andy Kotelnicki, a former Broyles Award nominee, after an up-and-down spell at Penn State — meaning Kansas will run the most successful offense it has used in decades. *(p. 132)*
+- It expects Kansas to handle Long Island and Middle Tennessee but finds it hard to believe in the Jayhawks against Missouri or across the Big 12, allows something might come from home games with Baylor and UCF, and says this is not a team to trust in 50-50 games given the quarterback options and a mediocre defense. It closes by noting that if things go extremely poorly, Leipold's situation becomes interesting. *(p. 132)*
+- **Does reuniting with OC Andy Kotelnicki make up for losing Jalon Daniels?** Kansas averaged 35.6 points per game in 2022 and 34.8 in 2023, among the most potent offenses in the country, which is why James Franklin took Kotelnicki to Happy Valley — a move the guide says ultimately worked out for no one. It expects extreme efficiency when the pieces are in place while stating clearly that they are not right now: the quarterback situation looks ugly with Daniels, one of the best dual threats in the sport last year, gone, and the receiver room appears to lack game-changing talent. Its conclusion is that Kotelnicki may not produce an elite offense immediately. *(p. 133)*
+- **Is there hope on defense after a disastrous 2025 season?** New coordinator DK McDonald must repair a unit that allowed 26.8 points per game and could not crack the top 100 in Adjusted EPA per play allowed at 0.05. The guide expects some improvement after portal work, then states the condition sharply: Kansas needs to be either much stronger rushing the passer or much steadier in the secondary, or the Big 12's best quarterbacks will torch it. *(p. 133)*
 
 ## 9. Quarterback Situation
 
@@ -87,11 +98,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 132)*.
 
-- Kansas might be able to make something out of home games against Baylor and UCF, but this isn’t a team that can be trusted in 50-50 games with these quarterback options and a mediocre defense. *(p. 132)*
-- The quarterback situation looks pretty ugly with Daniels, one of the best dual-threat quarterbacks in college football last year, gone. *(p. 133)*
-- That means offensive line play will be massive heading into 2026, and that’s especially true with a questionable quarterback situation. *(p. 133)*
-- However, this team either needs to be much stronger when it comes to getting after the quarterback or much steadier in the secondary. *(p. 133)*
-- If that’s not the case, the best quarterbacks in the Big 12 will torch Kansas. *(p. 133)*
+- Recommendation is Under 5.5 wins. Without Jalon Daniels' playmaking to mask deficiencies it expects a tough year. *(p. 132)*
+- **Does reuniting with OC Andy Kotelnicki make up for losing Jalon Daniels?** Kansas averaged 35.6 points per game in 2022 and 34.8 in 2023, among the most potent offenses in the country, which is why James Franklin took Kotelnicki to Happy Valley — a move the guide says ultimately worked out for no one. It expects extreme efficiency when the pieces are in place while stating clearly that they are not right now: the quarterback situation looks ugly with Daniels, one of the best dual threats in the sport last year, gone, and the receiver room appears to lack game-changing talent. Its conclusion is that Kotelnicki may not produce an elite offense immediately. *(p. 133)*
 
 ## 10. Returning Production
 
@@ -107,11 +115,9 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Things should be a little better on this side of the ball in 2026, as Leipold addressed some needs in the transfer portal. *(p. 133)*
+- **Is there hope on defense after a disastrous 2025 season?** New coordinator DK McDonald must repair a unit that allowed 26.8 points per game and could not crack the top 100 in Adjusted EPA per play allowed at 0.05. The guide expects some improvement after portal work, then states the condition sharply: Kansas needs to be either much stronger rushing the passer or much steadier in the secondary, or the Big 12's best quarterbacks will torch it. *(p. 133)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Gotkowski only completed 44.2% of his passes, but he’s still on the roster alongside Kansas transfer David McComb and D-II Fort Hays State transfer Caleb Heavner. *(p. 233)*
+Referenced in the guide on **pp. 233** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -119,20 +125,13 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- The good news for Kansas is that Leipold was able to bring offensive coordinator Andy Kotelnicki, a former Broyles Award nominee, back after an up-and-down stint with Penn State. *(p. 132)*
-- That will at least mean the Jayhawks will be running the most successful offense they have run in decades. *(p. 132)*
-- Kansas was one of the most potent offensive teams in the nation, which is why James Franklin brought Kotelnicki to Happy Valley. *(p. 133)*
-- You can expect this offense to be extremely efficient when the necessary pieces are in place, but they aren’t right now. *(p. 133)*
-- Kansas also appears to be lacking game-changing talent in the wide receiver room, so Kotelnicki might not produce an elite offensive product right away. *(p. 133)*
-- That means offensive line play will be massive heading into 2026, and that’s especially true with a questionable quarterback situation. *(p. 133)*
-- There’s some real potential for this to turn into one of the better groups in the Big 12, which could prevent the offense from completely spiraling. *(p. 133)*
+- The good news is the return of coordinator Andy Kotelnicki, a former Broyles Award nominee, after an up-and-down spell at Penn State — meaning Kansas will run the most successful offense it has used in decades. *(p. 132)*
+- **Does reuniting with OC Andy Kotelnicki make up for losing Jalon Daniels?** Kansas averaged 35.6 points per game in 2022 and 34.8 in 2023, among the most potent offenses in the country, which is why James Franklin took Kotelnicki to Happy Valley — a move the guide says ultimately worked out for no one. It expects extreme efficiency when the pieces are in place while stating clearly that they are not right now: the quarterback situation looks ugly with Daniels, one of the best dual threats in the sport last year, gone, and the receiver room appears to lack game-changing talent. Its conclusion is that Kotelnicki may not produce an elite offense immediately. *(p. 133)*
+- **Will the offensive line be good enough to support a run-heavy approach?** Kotelnicki's pro-style system uses heavy pre-snap motion to create mismatches, but the guide stresses none of it works without an efficient, physical run game — making line play critical, especially with quarterback uncertainty. Kansas is set at left tackle with Calvin Clements, who started 12 games and looks like a future pro, has left guard Amir Herring back, and added impressive bodies elsewhere. It sees real potential for one of the better Big 12 lines, which could stop the offense spiralling. *(p. 133)*
 
 ## 14. Defensive Identity
 
-- Kansas might be able to make something out of home games against Baylor and UCF, but this isn’t a team that can be trusted in 50-50 games with these quarterback options and a mediocre defense. *(p. 132)*
-- While bringing Kotelnicki back is nice, Leipold needs to figure out how to stabilize his defense. *(p. 133)*
-- New defensive coordinator DK McDonald is being tasked with patching up a unit that gave up 26.8 points per game last year. *(p. 133)*
-- However, this team either needs to be much stronger when it comes to getting after the quarterback or much steadier in the secondary. *(p. 133)*
+- **Is there hope on defense after a disastrous 2025 season?** New coordinator DK McDonald must repair a unit that allowed 26.8 points per game and could not crack the top 100 in Adjusted EPA per play allowed at 0.05. The guide expects some improvement after portal work, then states the condition sharply: Kansas needs to be either much stronger rushing the passer or much steadier in the secondary, or the Big 12's best quarterbacks will torch it. *(p. 133)*
 
 ## 15. Key Strengths
 
@@ -190,20 +189,13 @@ Prices printed on the team page *(p. 133)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- The guide's framing question is whether the talent is there for bowl eligibility. *(p. 132)*
+- Recommendation is Under 5.5 wins. Without Jalon Daniels' playmaking to mask deficiencies it expects a tough year. *(p. 132)*
+- It expects Kansas to handle Long Island and Middle Tennessee but finds it hard to believe in the Jayhawks against Missouri or across the Big 12, allows something might come from home games with Baylor and UCF, and says this is not a team to trust in 50-50 games given the quarterback options and a mediocre defense. It closes by noting that if things go extremely poorly, Leipold's situation becomes interesting. *(p. 132)*
 
 ## 22. Historical / Situational Trends
 
-- The Jayhawks went 2-10 in Leipold’s first year, 6-7 in his second, and then exploded for a 9-4 season in 2023. *(p. 132)*
-- However, after back- to-back 5-7 seasons in 2024 and 2025, Leipold suddenly finds himself with an uncomfortably warm seat. *(p. 132)*
-- In 2022, Kansas averaged 35.6 points per game. *(p. 133)*
-- Then, in 2023, the Jayhawks averaged 34.8 points per game. *(p. 133)*
-- The quarterback situation looks pretty ugly with Daniels, one of the best dual-threat quarterbacks in college football last year, gone. *(p. 133)*
-- The Jayhawks are set at left tackle, where Calvin Clements started 12 games in 2025 and looks the part of a future pro. *(p. 133)*
-- Kansas also has left guard Amir Herring back from last year, and the team brought in some impressive bodies to fill out the rest of the line. *(p. 133)*
-- New defensive coordinator DK McDonald is being tasked with patching up a unit that gave up 26.8 points per game last year. *(p. 133)*
-- The Jayhawks were also unable to crack the top 100 in Game on Paper’s Adjusted EPA/Play Allowed (0.05) last season. *(p. 133)*
-- Things should be a little better on this side of the ball in 2026, as Leipold addressed some needs in the transfer portal. *(p. 133)*
+- Lance Leipold looked set to become a Lawrence legend, taking Kansas from 2-10 to 6-7 to 9-4 in 2023, work that helped secure serious financial investment from the university. *(p. 132)*
 
 ## 23. Important Statistics
 
@@ -249,37 +241,37 @@ As printed on p. 133. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
-- The quarterback situation looks pretty ugly with Daniels, one of the best dual-threat quarterbacks in college football last year, gone. *(p. 133)*
-- Kansas also appears to be lacking game-changing talent in the wide receiver room, so Kotelnicki might not produce an elite offensive product right away. *(p. 133)*
-- If that’s not the case, the best quarterbacks in the Big 12 will torch Kansas. *(p. 133)*
+- The good news is the return of coordinator Andy Kotelnicki, a former Broyles Award nominee, after an up-and-down spell at Penn State — meaning Kansas will run the most successful offense it has used in decades. *(p. 132)*
+- Kansas averaged 35.6 points per game in 2022 and 34.8 in 2023, among the most potent offenses in the country, which is why James Franklin took Kotelnicki to Happy Valley — a move the guide says ultimately worked out for no one. It expects extreme efficiency when the pieces are in place while stating clearly that they are not right now: the quarterback situation looks ugly with Daniels, one of the best dual threats in the sport last year, gone, and the receiver room appears to lack game-changing talent. Its conclusion is that Kotelnicki may not produce an elite offense immediately. *(p. 133)*
+- New coordinator DK McDonald must repair a unit that allowed 26.8 points per game and could not crack the top 100 in Adjusted EPA per play allowed at 0.05. The guide expects some improvement after portal work, then states the condition sharply: Kansas needs to be either much stronger rushing the passer or much steadier in the secondary, or the Big 12's best quarterbacks will torch it. *(p. 133)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- The question is whether Kansas has the talent required to achieve bowl eligibility. *(p. 132)*
-- Under 5.5 Without Daniels’ playmaking to mask some of their deficiencies, this could be a tough year for Kansas. *(p. 132)*
-- That means offensive line play will be massive heading into 2026, and that’s especially true with a questionable quarterback situation. *(p. 133)*
+- The guide's framing question is whether the talent is there for bowl eligibility. *(p. 132)*
+- Recommendation is Under 5.5 wins. Without Jalon Daniels' playmaking to mask deficiencies it expects a tough year. *(p. 132)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 133)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 133)*. Its analysis, in reference form:
 
 ### Does reuniting with OC Andy Kotelnicki make up for losing Jalon Daniels?
 
-In 2022, Kansas averaged 35.6 points per game. Then, in 2023, the Jayhawks averaged 34.8 points per game. Kansas was one of the most potent offensive teams in the nation, which is why James Franklin brought Kotelnicki to Happy Valley. That move ultimately didn’t work out for anyone, so Kotelnicki is back to working with Leipold. You can expect this offense to be extremely efficient when the necessary pieces are in place, but they aren’t right now. The quarterback situation looks pretty ugly with Daniels, one of the best dual-threat quarterbacks in college football last year, gone. Kansas also appears to be lacking game-changing talent in the wide receiver room, so Kotelnicki might not produce an elite offensive product right away.
+Kansas averaged 35.6 points per game in 2022 and 34.8 in 2023, among the most potent offenses in the country, which is why James Franklin took Kotelnicki to Happy Valley — a move the guide says ultimately worked out for no one. It expects extreme efficiency when the pieces are in place while stating clearly that they are not right now: the quarterback situation looks ugly with Daniels, one of the best dual threats in the sport last year, gone, and the receiver room appears to lack game-changing talent. Its conclusion is that Kotelnicki may not produce an elite offense immediately. *(p. 133)*
 
 ### Will the offensive line be good enough to support a run-heavy approach?
 
-Kotelnicki’s pro-style system utilizes a lot of pre-snap motion that are designed to create mismatches, but none of it works without an efficient, physical running game. That means offensive line play will be massive heading into 2026, and that’s especially true with a questionable quarterback situation. The Jayhawks are set at left tackle, where Calvin Clements started 12 games in 2025 and looks the part of a future pro. Kansas also has left guard Amir Herring back from last year, and the team brought in some impressive bodies to fill out the rest of the line. There’s some real potential for this to turn into one of the better groups in the Big 12, which could prevent the offense from completely spiraling.
+Kotelnicki's pro-style system uses heavy pre-snap motion to create mismatches, but the guide stresses none of it works without an efficient, physical run game — making line play critical, especially with quarterback uncertainty. Kansas is set at left tackle with Calvin Clements, who started 12 games and looks like a future pro, has left guard Amir Herring back, and added impressive bodies elsewhere. It sees real potential for one of the better Big 12 lines, which could stop the offense spiralling. *(p. 133)*
 
 ### Is there hope on defense after a disastrous 2025 season?
 
-While bringing Kotelnicki back is nice, Leipold needs to figure out how to stabilize his defense. New defensive coordinator DK McDonald is being tasked with patching up a unit that gave up 26.8 points per game last year. The Jayhawks were also unable to crack the top 100 in Game on Paper’s Adjusted EPA/Play Allowed (0.05) last season. Things should be a little better on this side of the ball in 2026, as Leipold addressed some needs in the transfer portal. However, this team either needs to be much stronger when it comes to getting after the quarterback or much steadier in the secondary. If that’s not the case, the best quarterbacks in the Big 12 will torch Kansas.
+New coordinator DK McDonald must repair a unit that allowed 26.8 points per game and could not crack the top 100 in Adjusted EPA per play allowed at 0.05. The guide expects some improvement after portal work, then states the condition sharply: Kansas needs to be either much stronger rushing the passer or much steadier in the secondary, or the Big 12's best quarterbacks will torch it. *(p. 133)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -297,6 +289,8 @@ No source conflict identified for this team.
 | 134, 136, 233 | Other pages naming this team |
 
 This team is named in **17 sentences across 5 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 134, 136, 233.
 
 ## 29. Cross-Links
 

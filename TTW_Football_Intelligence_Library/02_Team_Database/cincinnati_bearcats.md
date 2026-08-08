@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 5.3–6.7 overall, 2.8–6.2 in conference |
 | **Schedule strength** | 46.47 (#34 toughest of 138) |
 
-### Season outlook as written in the guide (p. 124)
+### Season outlook — VSiN's analysis in reference form (p. 124)
 
-Cincinnati finished last season with a 7-6 record, which was somewhat disappointing considering the amount of returning starters (15 who started games the previous year) they had heading into the year. One of those starters was Brendan Sorsby, who threw for 2,800 yards, 27 touchdowns, and five interceptions. He also rushed for another 580 yards and nine touchdowns. Replacing Sorsby and several other offensive weapons will be a challenge, plus the defense really struggled to get stops toward the end of the season. As we look to 2026, Scott Satterfield is going to need to do a great coaching job to overcome a brutal schedule. However, Satterfield has won seven or fewer games in six consecutive years, so his shine is starting to wear off — if it hasn’t already. This will be a big season for the Bearcats. Under 5.5 Hiring Woody and bringing in some instant-impact transfers should result in meaningful change for the defense, but it’s hard to imagine what this offense will look like without Sorsby. Well, if Cincinnati doesn’t have an offense capable of generating explosives, it’s likely this will turn into a long year — and a long year for the Bearcats could mean a short year for Satterfield, who should really be on the hot seat. Honestly, if Cincinnati loses to Boston College on September 5, this season could go off the rails.
+- Cincinnati's 7-6 finish was disappointing given 15 players returned who had started games the previous year. *(p. 124)*
+- One was Brendan Sorsby, who threw for 2,800 yards with 27 touchdowns and five interceptions while adding 580 rushing yards and nine touchdowns. Replacing him and several other weapons is a challenge, and the defense struggled to get stops late in the season. *(p. 124)*
+- The guide is direct about the coach: Scott Satterfield has won seven or fewer games in six consecutive years, so his shine is wearing off if it has not already, making this a big season. *(p. 124)*
+- Recommendation is Under 5.5 wins. It credits the Nate Woody hire and instant-impact transfers with meaningfully changing the defense, while saying it is hard to imagine what the offense looks like without Sorsby. *(p. 124)*
+- Its conditional chain is explicit: without an offense capable of generating explosive plays this becomes a long year, and a long year for Cincinnati could mean a short one for Satterfield, who it says should really be on the hot seat. It singles out a 5 September loss to Boston College as the result that could send the season off the rails. *(p. 124)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,12 +84,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- As we look to 2026, Scott Satterfield is going to need to do a great coaching job to overcome a brutal schedule. *(p. 124)*
-- On top of that, new defensive coordinator Nate Woody largely did a good job in that role at Army. *(p. 125)*
+- The guide is direct about the coach: Scott Satterfield has won seven or fewer games in six consecutive years, so his shine is wearing off if it has not already, making this a big season. *(p. 124)*
+- Its conditional chain is explicit: without an offense capable of generating explosive plays this becomes a long year, and a long year for Cincinnati could mean a short one for Satterfield, who it says should really be on the hot seat. It singles out a 5 September loss to Boston College as the result that could send the season off the rails. *(p. 124)*
+- **Can the defense chop a few points off last year's 25.6 points per game allowed?** Cincinnati was 74th nationally in scoring defense, and with the offense likely to regress the guide calls defensive improvement imperative. The secondary looks better after raiding Northern Illinois for Jacob Finley and Jasper Beeler plus middle linebacker Filip Maciorowski. There is good size on the defensive line and a solid linebacking corps, and new coordinator Nate Woody largely did well at Army, with some excitement around his aggressive 3-4. It expects a better defense than last year. *(p. 125)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- DC Nate Woody is now in Cincinnati, so pass game coordinator Daryl Dixon, not to be confused with The Walking Dead character of the same name, has that role. *(p. 51)*
+Also referenced on **pp. 51** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -91,14 +96,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 124)*.
 
-- One of those starters was Brendan Sorsby, who threw for 2,800 yards, 27 touchdowns, and five interceptions. *(p. 124)*
-- Allen had 13 touchdown catches last year, so this team lost a star quarterback and a big-play pass-catching weapon. *(p. 125)*
-- Replacing Sorsby will be Georgia Southern transfer JC French, who is an accurate passer that likes to deal opponents death by a million paper cuts. *(p. 125)*
+- One was Brendan Sorsby, who threw for 2,800 yards with 27 touchdowns and five interceptions while adding 580 rushing yards and nine touchdowns. Replacing him and several other weapons is a challenge, and the defense struggled to get stops late in the season. *(p. 124)*
+- **What does this offense look like without Sorsby and Cyrus Allen?** Cincinnati ranked fifth nationally in Game on Paper's Adjusted EPA per play at 0.14 — an explosive offense with Sorsby. He is gone, and the guide notes candidly that it does not know what he will be doing. Top receiver Cyrus Allen, who had 13 touchdown catches, left for the Chiefs, and tight end Joe Royer also went to the NFL. Georgia Southern transfer JC French replaces Sorsby and is characterized as an accurate passer who works underneath rather than a consistent deep-ball threat. With an underwhelming backfield and unproven receivers, the guide sees a real chance of a massive step back. *(p. 125)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TEXAS TECH This news did not fly under the radar: quarterback Brendan Sorsby, a transfer from Cincinnati, departed the program amid a gambling controversy. *(p. 18)*
-- All-time leading passer JC French transferred to Cincinnati after posting a 20/8 TD/INT ratio with 2,929 yards and six more touchdowns on the ground. *(p. 323)*
+Also referenced on **pp. 18, 323** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -114,47 +115,29 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- Under 5.5 Hiring Woody and bringing in some instant-impact transfers should result in meaningful change for the defense, but it’s hard to imagine what this offense will look like without Sorsby. *(p. 124)*
-- Replacing Sorsby will be Georgia Southern transfer JC French, who is an accurate passer that likes to deal opponents death by a million paper cuts. *(p. 125)*
-- Cincinnati appears to have a better situation in the secondary, where they have a few big-time MAC contributors transferring in — they raided Northern Illinois for defensive backs Jacob Finley and Jasper Beeler, and they also got MLB Filip Maciorowski from the Huskies. *(p. 125)*
+- **What does this offense look like without Sorsby and Cyrus Allen?** Cincinnati ranked fifth nationally in Game on Paper's Adjusted EPA per play at 0.14 — an explosive offense with Sorsby. He is gone, and the guide notes candidly that it does not know what he will be doing. Top receiver Cyrus Allen, who had 13 touchdown catches, left for the Chiefs, and tight end Joe Royer also went to the NFL. Georgia Southern transfer JC French replaces Sorsby and is characterized as an accurate passer who works underneath rather than a consistent deep-ball threat. With an underwhelming backfield and unproven receivers, the guide sees a real chance of a massive step back. *(p. 125)*
+- **Can the defense chop a few points off last year's 25.6 points per game allowed?** Cincinnati was 74th nationally in scoring defense, and with the offense likely to regress the guide calls defensive improvement imperative. The secondary looks better after raiding Northern Illinois for Jacob Finley and Jasper Beeler plus middle linebacker Filip Maciorowski. There is good size on the defensive line and a solid linebacking corps, and new coordinator Nate Woody largely did well at Army, with some excitement around his aggressive 3-4. It expects a better defense than last year. *(p. 125)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TEXAS TECH This news did not fly under the radar: quarterback Brendan Sorsby, a transfer from Cincinnati, departed the program amid a gambling controversy. *(p. 18)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
-- All-time leading passer JC French transferred to Cincinnati after posting a 20/8 TD/INT ratio with 2,929 yards and six more touchdowns on the ground. *(p. 323)*
+Referenced in the guide on **pp. 18, 135, 323** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Personally, I think we see true freshman Qur’an McNeill sooner rather than later, as he had offers from Arkansas, Cincinnati, UConn, Syracuse, and Boston College, but opted for Buffalo. *(p. 223)*
+Referenced in the guide on **pp. 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Replacing Sorsby and several other offensive weapons will be a challenge, plus the defense really struggled to get stops toward the end of the season. *(p. 124)*
-- Under 5.5 Hiring Woody and bringing in some instant-impact transfers should result in meaningful change for the defense, but it’s hard to imagine what this offense will look like without Sorsby. *(p. 124)*
-- Well, if Cincinnati doesn’t have an offense capable of generating explosives, it’s likely this will turn into a long year — and a long year for the Bearcats could mean a short year for Satterfield, who should really be on the hot seat. *(p. 124)*
-- This was an explosive offense with Sorsby at the helm. *(p. 125)*
-- This year, Sorsby is long gone — and we genuinely have no idea what he’ll be doing with his time — while Allen, the team’s top receiver, is off to the Chiefs. *(p. 125)*
-- Cincinnati also has an underwhelming group in the backfield, and the receivers are unproven. *(p. 125)*
-- Cincinnati finished 74th in the nation in scoring defense last year. *(p. 125)*
-- Considering the Bearcats offense is likely in for some serious regression, being a better defensive team is imperative. *(p. 125)*
+- One was Brendan Sorsby, who threw for 2,800 yards with 27 touchdowns and five interceptions while adding 580 rushing yards and nine touchdowns. Replacing him and several other weapons is a challenge, and the defense struggled to get stops late in the season. *(p. 124)*
+- Recommendation is Under 5.5 wins. It credits the Nate Woody hire and instant-impact transfers with meaningfully changing the defense, while saying it is hard to imagine what the offense looks like without Sorsby. *(p. 124)*
+- **What does this offense look like without Sorsby and Cyrus Allen?** Cincinnati ranked fifth nationally in Game on Paper's Adjusted EPA per play at 0.14 — an explosive offense with Sorsby. He is gone, and the guide notes candidly that it does not know what he will be doing. Top receiver Cyrus Allen, who had 13 touchdown catches, left for the Chiefs, and tight end Joe Royer also went to the NFL. Georgia Southern transfer JC French replaces Sorsby and is characterized as an accurate passer who works underneath rather than a consistent deep-ball threat. With an underwhelming backfield and unproven receivers, the guide sees a real chance of a massive step back. *(p. 125)*
 
 ## 14. Defensive Identity
 
-- Replacing Sorsby and several other offensive weapons will be a challenge, plus the defense really struggled to get stops toward the end of the season. *(p. 124)*
-- Under 5.5 Hiring Woody and bringing in some instant-impact transfers should result in meaningful change for the defense, but it’s hard to imagine what this offense will look like without Sorsby. *(p. 124)*
-- Cincinnati finished 74th in the nation in scoring defense last year. *(p. 125)*
-- Considering the Bearcats offense is likely in for some serious regression, being a better defensive team is imperative. *(p. 125)*
-- Cincinnati appears to have a better situation in the secondary, where they have a few big-time MAC contributors transferring in — they raided Northern Illinois for defensive backs Jacob Finley and Jasper Beeler, and they also got MLB Filip Maciorowski from the Huskies. *(p. 125)*
-- On top of that, new defensive coordinator Nate Woody largely did a good job in that role at Army. *(p. 125)*
-- This should be a better defense than we saw last year. *(p. 125)*
+- One was Brendan Sorsby, who threw for 2,800 yards with 27 touchdowns and five interceptions while adding 580 rushing yards and nine touchdowns. Replacing him and several other weapons is a challenge, and the defense struggled to get stops late in the season. *(p. 124)*
+- Recommendation is Under 5.5 wins. It credits the Nate Woody hire and instant-impact transfers with meaningfully changing the defense, while saying it is hard to imagine what the offense looks like without Sorsby. *(p. 124)*
+- **Can the defense chop a few points off last year's 25.6 points per game allowed?** Cincinnati was 74th nationally in scoring defense, and with the offense likely to regress the guide calls defensive improvement imperative. The secondary looks better after raiding Northern Illinois for Jacob Finley and Jasper Beeler plus middle linebacker Filip Maciorowski. There is good size on the defensive line and a solid linebacking corps, and new coordinator Nate Woody largely did well at Army, with some excitement around his aggressive 3-4. It expects a better defense than last year. *(p. 125)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
+Referenced in the guide on **pp. 135** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -200,7 +183,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- As we look to 2026, Scott Satterfield is going to need to do a great coaching job to overcome a brutal schedule. *(p. 124)*
+- Its conditional chain is explicit: without an offense capable of generating explosive plays this becomes a long year, and a long year for Cincinnati could mean a short one for Satterfield, who it says should really be on the hot seat. It singles out a 5 September loss to Boston College as the result that could send the season off the rails. *(p. 124)*
 
 ## 19. Win Total Discussion
 
@@ -221,19 +204,16 @@ Prices printed on the team page *(p. 125)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 5.5 wins. It credits the Nate Woody hire and instant-impact transfers with meaningfully changing the defense, while saying it is hard to imagine what the offense looks like without Sorsby. *(p. 124)*
+- Its conditional chain is explicit: without an offense capable of generating explosive plays this becomes a long year, and a long year for Cincinnati could mean a short one for Satterfield, who it says should really be on the hot seat. It singles out a 5 September loss to Boston College as the result that could send the season off the rails. *(p. 124)*
+- **Will this team win three Big 12 games?** The guide maps the path precisely. Cincinnati opens with winnable games against Boston College, Western Carolina and Miami (Ohio), after which wins get harder to find. It hosts Kansas State and Colorado and travels to West Virginia and Iowa State, and going 3-1 in those four is likely necessary to reach six wins. It would be surprising to win at Arizona, Houston or BYU, and home advantage is unlikely to be enough against Texas Tech or Utah. *(p. 125)*
 
 ## 22. Historical / Situational Trends
 
-- Cincinnati finished last season with a 7-6 record, which was somewhat disappointing considering the amount of returning starters (15 who started games the previous year) they had heading into the year. *(p. 124)*
-- Last year, the Bearcats were No. 5 in the country in Game on Paper’s Adjusted EPA/Play (0.14). *(p. 125)*
-- Allen had 13 touchdown catches last year, so this team lost a star quarterback and a big-play pass-catching weapon. *(p. 125)*
-- Cincinnati finished 74th in the nation in scoring defense last year. *(p. 125)*
-- This should be a better defense than we saw last year. *(p. 125)*
+- Cincinnati's 7-6 finish was disappointing given 15 players returned who had started games the previous year. *(p. 124)*
+- The guide is direct about the coach: Scott Satterfield has won seven or fewer games in six consecutive years, so his shine is wearing off if it has not already, making this a big season. *(p. 124)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Jaylin Carter only had 166 yards last season at Southern Miss and Manny Covey had under 300 yards in three seasons at Cincinnati. *(p. 59)*
+Referenced in the guide on **pp. 59** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -278,7 +258,8 @@ As printed on p. 125. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- He’s not a threat to consistently complete deep balls. *(p. 125)*
+- Cincinnati ranked fifth nationally in Game on Paper's Adjusted EPA per play at 0.14 — an explosive offense with Sorsby. He is gone, and the guide notes candidly that it does not know what he will be doing. Top receiver Cyrus Allen, who had 13 touchdown catches, left for the Chiefs, and tight end Joe Royer also went to the NFL. Georgia Southern transfer JC French replaces Sorsby and is characterized as an accurate passer who works underneath rather than a consistent deep-ball threat. With an underwhelming backfield and unproven receivers, the guide sees a real chance of a massive step back. *(p. 125)*
+- Cincinnati was 74th nationally in scoring defense, and with the offense likely to regress the guide calls defensive improvement imperative. The secondary looks better after raiding Northern Illinois for Jacob Finley and Jasper Beeler plus middle linebacker Filip Maciorowski. There is good size on the defensive line and a solid linebacking corps, and new coordinator Nate Woody largely did well at Army, with some excitement around his aggressive 3-4. It expects a better defense than last year. *(p. 125)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -286,32 +267,29 @@ As printed on p. 125. Each category carries a value and a national rank.
 
 - Makinen projects **5.3 wins** against a posted total of 5.5 — **-0.2** against this team.
 - The team page recommends **UNDER 5.5**.
-- Replacing Sorsby and several other offensive weapons will be a challenge, plus the defense really struggled to get stops toward the end of the season. *(p. 124)*
-- As we look to 2026, Scott Satterfield is going to need to do a great coaching job to overcome a brutal schedule. *(p. 124)*
-- Allen had 13 touchdown catches last year, so this team lost a star quarterback and a big-play pass-catching weapon. *(p. 125)*
-- Considering the Bearcats offense is likely in for some serious regression, being a better defensive team is imperative. *(p. 125)*
-- Jaylin Carter only had 166 yards last season at Southern Miss and Manny Covey had under 300 yards in three seasons at Cincinnati. *(p. 59)*
-- Road trips to Cincinnati, SMU, Georgia Tech, Duke, Notre Dame, and Miami all look like clear losses, which accounts for half of their scheduled games. *(p. 80)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
+- One was Brendan Sorsby, who threw for 2,800 yards with 27 touchdowns and five interceptions while adding 580 rushing yards and nine touchdowns. Replacing him and several other weapons is a challenge, and the defense struggled to get stops late in the season. *(p. 124)*
+- Its conditional chain is explicit: without an offense capable of generating explosive plays this becomes a long year, and a long year for Cincinnati could mean a short one for Satterfield, who it says should really be on the hot seat. It singles out a 5 September loss to Boston College as the result that could send the season off the rails. *(p. 124)*
+- Cincinnati was 74th nationally in scoring defense, and with the offense likely to regress the guide calls defensive improvement imperative. The secondary looks better after raiding Northern Illinois for Jacob Finley and Jasper Beeler plus middle linebacker Filip Maciorowski. There is good size on the defensive line and a solid linebacking corps, and new coordinator Nate Woody largely did well at Army, with some excitement around his aggressive 3-4. It expects a better defense than last year. *(p. 125)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 125)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 125)*. Its analysis, in reference form:
 
 ### What does this offense look like without Sorsby and Cyrus Allen?
 
-Last year, the Bearcats were No. 5 in the country in Game on Paper’s Adjusted EPA/Play (0.14). This was an explosive offense with Sorsby at the helm. This year, Sorsby is long gone — and we genuinely have no idea what he’ll be doing with his time — while Allen, the team’s top receiver, is off to the Chiefs. Allen had 13 touchdown catches last year, so this team lost a star quarterback and a big-play pass-catching weapon. Joe Royer also happened to be a good tight end for Satterfield’s group, but he’s another player off to the NFL. Replacing Sorsby will be Georgia Southern transfer JC French, who is an accurate passer that likes to deal opponents death by a million paper cuts. He’s not a threat to consistently complete deep balls. Cincinnati also has an underwhelming group in the backfield, and the receivers are unproven. There’s a chance this unit takes a massive step back.
+Cincinnati ranked fifth nationally in Game on Paper's Adjusted EPA per play at 0.14 — an explosive offense with Sorsby. He is gone, and the guide notes candidly that it does not know what he will be doing. Top receiver Cyrus Allen, who had 13 touchdown catches, left for the Chiefs, and tight end Joe Royer also went to the NFL. Georgia Southern transfer JC French replaces Sorsby and is characterized as an accurate passer who works underneath rather than a consistent deep-ball threat. With an underwhelming backfield and unproven receivers, the guide sees a real chance of a massive step back. *(p. 125)*
 
-### Can the defense chop a few points off last year’s 25.6 points per game allowed?
+### Can the defense chop a few points off last year's 25.6 points per game allowed?
 
-Cincinnati finished 74th in the nation in scoring defense last year. Considering the Bearcats offense is likely in for some serious regression, being a better defensive team is imperative. Cincinnati appears to have a better situation in the secondary, where they have a few big-time MAC contributors transferring in — they raided Northern Illinois for defensive backs Jacob Finley and Jasper Beeler, and they also got MLB Filip Maciorowski from the Huskies. The Bearcats also have some good size along the D-Line, and the linebacking corps looks solid. On top of that, new defensive coordinator Nate Woody largely did a good job in that role at Army. There’s some excitement surrounding his aggressive 3-4 scheme. This should be a better defense than we saw last year.
+Cincinnati was 74th nationally in scoring defense, and with the offense likely to regress the guide calls defensive improvement imperative. The secondary looks better after raiding Northern Illinois for Jacob Finley and Jasper Beeler plus middle linebacker Filip Maciorowski. There is good size on the defensive line and a solid linebacking corps, and new coordinator Nate Woody largely did well at Army, with some excitement around his aggressive 3-4. It expects a better defense than last year. *(p. 125)*
 
 ### Will this team win three Big 12 games?
 
-Cincinnati starts the season with winnable games against Boston College, Western Carolina, and Miami (Ohio). After that, it gets harder to find the wins. The Bearcats will host Kansas State and Colorado, and they go on the road to face West Virginia and Iowa State. Going 3-1 in those four games will likely be necessary in order for Cincinnati to find a way to six victories. It’d be surprising if the Bearcats won road games against Arizona, Houston, and BYU, and home-field advantage likely won’t be enough for Cincinnati to take down Texas Tech or Utah.
+The guide maps the path precisely. Cincinnati opens with winnable games against Boston College, Western Carolina and Miami (Ohio), after which wins get harder to find. It hosts Kansas State and Colorado and travels to West Virginia and Iowa State, and going 3-1 in those four is likely necessary to reach six wins. It would be surprising to win at Arizona, Houston or BYU, and home advantage is unlikely to be enough against Texas Tech or Utah. *(p. 125)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -329,6 +307,8 @@ No source conflict identified for this team.
 | 18, 41, 51, 59, 80, 117, 126, 135, 223, 323 | Other pages naming this team |
 
 This team is named in **22 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 18, 41, 51, 59, 80, 117, 126, 135, 223, 323.
 
 ## 29. Cross-Links
 

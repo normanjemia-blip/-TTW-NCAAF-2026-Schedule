@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 8.2–3.8 overall, 5.5–3.5 in conference |
 | **Schedule strength** | 42.21 (#65 toughest of 138) |
 
-### Season outlook as written in the guide (p. 134)
+### Season outlook — VSiN's analysis in reference form (p. 134)
 
-After going 6-6 in 2025, Chris Klieman decided to step down from his position as head coach of Kansas State. He cited family and personal health as the reasons he ultimately chose to retire. Klieman had won at least nine games in three consecutive seasons prior to last year’s disappointing campaign, doing a good job as the replacement for the legendary Bill Snyder. But the Wildcats are hoping for even bigger things out of Collin Klein, who played for K-State from 2008 to 2012 and then served as the team’s offensive coordinator in 2022 and 2023. Klein is viewed as a brilliant offensive mind. He’s only 36 years old, and this is his destination job. All of that is great for the program. However, this will be his first time calling the shots for an entire team, so there’s no guarantee this will be a seamless transition. But the Wildcats do have a good amount of talent on both sides of the ball, and Avery Johnson, an electric dual-threat quarterback, is back under center. Many have this team pegged as a sleeper. Under 7.5 It isn’t hard to see why people like the Wildcats to be sneaky-good in the Big 12 this year, but it still feels like a seven-win season is more likely than an eight-win season. Kansas State does have the benefit of playing some tougher games at home, but that doesn’t guarantee wins. The Wildcats can easily get tripped up against Houston, Kansas, and Arizona, even with the games being played in Manhattan. The Wildcats have a lot of questions to answer when it comes to stopping the run, and I’m not sold on Klein instantly fixing the offense. Johnson has to earn back the trust he lost, and the receiver group looks mediocre.
+- Chris Klieman stepped down after a 6-6 season, citing family and personal health. The guide credits him with at least nine wins in three consecutive years before that and with succeeding the legendary Bill Snyder well. *(p. 134)*
+- Collin Klein takes over, having played for Kansas State from 2008 to 2012 and served as offensive coordinator in 2022 and 2023. He is viewed as a brilliant offensive mind, is only 36, and this is his destination job. *(p. 134)*
+- The guide balances that against inexperience: this is his first time running an entire programme, so a seamless transition is not guaranteed. *(p. 134)*
+- Kansas State does have talent on both sides and returns electric dual-threat quarterback Avery Johnson, and the guide notes many have the team pegged as a sleeper. *(p. 134)*
+- Recommendation is Under 7.5 wins. It acknowledges why people like the Wildcats as sneaky-good while judging seven wins likelier than eight. *(p. 134)*
+- Its specific doubts: home games are the tougher ones but that guarantees nothing, and Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan. It also flags unresolved questions stopping the run, is not sold on Klein instantly fixing the offense, says Johnson must earn back lost trust, and calls the receiver group mediocre. *(p. 134)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,16 +87,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- After going 6-6 in 2025, Chris Klieman decided to step down from his position as head coach of Kansas State. *(p. 134)*
-- But the Wildcats are hoping for even bigger things out of Collin Klein, who played for K-State from 2008 to 2012 and then served as the team’s offensive coordinator in 2022 and 2023. *(p. 134)*
-- While this team is now being coached by an offense-forward mind, this defense has been hyped up throughout the offseason. *(p. 135)*
+- Chris Klieman stepped down after a 6-6 season, citing family and personal health. The guide credits him with at least nine wins in three consecutive years before that and with succeeding the legendary Bill Snyder well. *(p. 134)*
+- Collin Klein takes over, having played for Kansas State from 2008 to 2012 and served as offensive coordinator in 2022 and 2023. He is viewed as a brilliant offensive mind, is only 36, and this is his destination job. *(p. 134)*
+- The guide balances that against inexperience: this is his first time running an entire programme, so a seamless transition is not guaranteed. *(p. 134)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- KANSAS STATE Bill Snyder, one of the all-time greats, and Chris Klieman, who retired in December, are extremely tough coaching acts to follow at K-State. *(p. 19)*
-- 23 KANSAS STATE – OVER 7.5 WINS It came as a bit of a shock for KSU fans when Chris Klieman announced his retirement as head football coach in December. *(p. 23)*
-- Collin Klein Kansas State After spreading his wings to fly to College Station for two seasons, Klein is back in the Little Apple to coach at his alma mater. *(p. 31)*
-- Quinn Henicle and Jaxon Potter will have skill guys to work with and Cook, who played at Kansas State and coached at Tennessee, was a logical guy to promote with Decker’s departure. *(p. 331)*
+Also referenced on **pp. 19, 23, 31, 331** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -97,14 +99,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 134)*.
 
-- But the Wildcats do have a good amount of talent on both sides of the ball, and Avery Johnson, an electric dual-threat quarterback, is back under center. *(p. 134)*
-- Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions in 2024, and he also rushed for 605 yards with seven touchdowns. *(p. 135)*
-- He threw for 2,385 yards with 18 touchdowns and six picks, and he rushed for 477 yards and eight scores. *(p. 135)*
-- If Kansas State is going to win eight or nine games this year, Johnson will need to be a little sharper as a passer while maintaining his juice as a runner. *(p. 135)*
+- Kansas State does have talent on both sides and returns electric dual-threat quarterback Avery Johnson, and the guide notes many have the team pegged as a sleeper. *(p. 134)*
+- Its specific doubts: home games are the tougher ones but that guarantees nothing, and Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan. It also flags unresolved questions stopping the run, is not sold on Klein instantly fixing the offense, says Johnson must earn back lost trust, and calls the receiver group mediocre. *(p. 134)*
+- **Can Avery Johnson take his game to another level?** Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions plus 605 rushing yards and seven scores in 2024, generating real excitement, but did not improve in 2025: 2,385 yards, 18 touchdowns, six interceptions, 477 rushing yards and eight scores. The guide asks directly whether this is simply who he is, then argues there should be another gear — he is among the nation's most impressive athletes at the position and Klein's return should mean a perfect scheme fit. It ties the win total to him: eight or nine wins requires him sharper as a passer while keeping his running threat. *(p. 135)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
+Also referenced on **pp. 8** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -120,11 +119,10 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
+- **How much better can the Wildcats be against the run?** The guide pushes back on offseason hype around the defense. It agrees people are understandably high on a secondary combining talent and experience, then makes the structural point: Kansas State allowed 164.0 rushing yards per game, and strong defensive backs mean relatively little if you cannot stop the run. Additions include Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns and Kentucky transfer Austin Ramsey plus productive linebackers, but it cautions that bringing in an entirely new crop is difficult. Its calibrated expectation is a top-40 rushing defense, with anything more probably unfair. *(p. 135)*
+- **Who's catching the passes for this team?** Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat, and his big-play ability drew Lane Kiffin, so he is now at LSU — leaving a major hole. Jaron Tibbs and Josh Manning have been productive before, but the guide's question is whether either can consistently create space when Klein is not scheming them open. It offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout and the missing piece. *(p. 135)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
+Referenced in the guide on **pp. 8** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -132,25 +130,13 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- But the Wildcats are hoping for even bigger things out of Collin Klein, who played for K-State from 2008 to 2012 and then served as the team’s offensive coordinator in 2022 and 2023. *(p. 134)*
-- Klein is viewed as a brilliant offensive mind. *(p. 134)*
-- The Wildcats have a lot of questions to answer when it comes to stopping the run, and I’m not sold on Klein instantly fixing the offense. *(p. 134)*
-- Johnson has to earn back the trust he lost, and the receiver group looks mediocre. *(p. 134)*
-- While this team is now being coached by an offense-forward mind, this defense has been hyped up throughout the offseason. *(p. 135)*
-- However, the Wildcats allowed 164.0 rushing yards per game last season, and having a strong group of defensive backs is relatively meaningless when you can’t stop the run. *(p. 135)*
-- Perhaps this group will perform more like a top-40 rushing defense, but expecting a bigger turnaround than that probably isn’t fair. *(p. 135)*
-- He’s one of the most impressive athletes in the nation at his position, and the return of Klein should mean he’s playing in the perfect offense. *(p. 135)*
-- Jayce Brown was an absolute burner for this offense last year, catching 41 balls for 712 yards and five touchdowns. *(p. 135)*
-- That leaves a massive hole in this wide receiver group. *(p. 135)*
-- Perhaps Izaiah Williams, who followed Klein from Texas A&M, will break out and be the piece this offense is missing. *(p. 135)*
+- **Can Avery Johnson take his game to another level?** Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions plus 605 rushing yards and seven scores in 2024, generating real excitement, but did not improve in 2025: 2,385 yards, 18 touchdowns, six interceptions, 477 rushing yards and eight scores. The guide asks directly whether this is simply who he is, then argues there should be another gear — he is among the nation's most impressive athletes at the position and Klein's return should mean a perfect scheme fit. It ties the win total to him: eight or nine wins requires him sharper as a passer while keeping his running threat. *(p. 135)*
+- **Who's catching the passes for this team?** Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat, and his big-play ability drew Lane Kiffin, so he is now at LSU — leaving a major hole. Jaron Tibbs and Josh Manning have been productive before, but the guide's question is whether either can consistently create space when Klein is not scheming them open. It offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout and the missing piece. *(p. 135)*
 
 ## 14. Defensive Identity
 
-- While this team is now being coached by an offense-forward mind, this defense has been hyped up throughout the offseason. *(p. 135)*
-- People are understandably high on the Kansas State secondary, which has a good combination of talent and experience. *(p. 135)*
-- However, the Wildcats allowed 164.0 rushing yards per game last season, and having a strong group of defensive backs is relatively meaningless when you can’t stop the run. *(p. 135)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
-- Perhaps this group will perform more like a top-40 rushing defense, but expecting a bigger turnaround than that probably isn’t fair. *(p. 135)*
+- Its specific doubts: home games are the tougher ones but that guarantees nothing, and Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan. It also flags unresolved questions stopping the run, is not sold on Klein instantly fixing the offense, says Johnson must earn back lost trust, and calls the receiver group mediocre. *(p. 134)*
+- **How much better can the Wildcats be against the run?** The guide pushes back on offseason hype around the defense. It agrees people are understandably high on a secondary combining talent and experience, then makes the structural point: Kansas State allowed 164.0 rushing yards per game, and strong defensive backs mean relatively little if you cannot stop the run. Additions include Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns and Kentucky transfer Austin Ramsey plus productive linebackers, but it cautions that bringing in an entirely new crop is difficult. Its calibrated expectation is a top-40 rushing defense, with anything more probably unfair. *(p. 135)*
 
 ## 15. Key Strengths
 
@@ -194,10 +180,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+- Its specific doubts: home games are the tougher ones but that guarantees nothing, and Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan. It also flags unresolved questions stopping the run, is not sold on Klein instantly fixing the offense, says Johnson must earn back lost trust, and calls the receiver group mediocre. *(p. 134)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Under 4.5 Back-to-back road games against Washington and Kansas State to open the season will likely leave the Cougars 0-2 before they get a breather against Duquesne. *(p. 280)*
+Referenced in the guide on **pp. 280** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -226,16 +211,13 @@ Prices printed on the team page *(p. 135)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 7.5 wins. It acknowledges why people like the Wildcats as sneaky-good while judging seven wins likelier than eight. *(p. 134)*
+- Its specific doubts: home games are the tougher ones but that guarantees nothing, and Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan. It also flags unresolved questions stopping the run, is not sold on Klein instantly fixing the offense, says Johnson must earn back lost trust, and calls the receiver group mediocre. *(p. 134)*
+- **Can Avery Johnson take his game to another level?** Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions plus 605 rushing yards and seven scores in 2024, generating real excitement, but did not improve in 2025: 2,385 yards, 18 touchdowns, six interceptions, 477 rushing yards and eight scores. The guide asks directly whether this is simply who he is, then argues there should be another gear — he is among the nation's most impressive athletes at the position and Klein's return should mean a perfect scheme fit. It ties the win total to him: eight or nine wins requires him sharper as a passer while keeping his running threat. *(p. 135)*
 
 ## 22. Historical / Situational Trends
 
-- After going 6-6 in 2025, Chris Klieman decided to step down from his position as head coach of Kansas State. *(p. 134)*
-- Klieman had won at least nine games in three consecutive seasons prior to last year’s disappointing campaign, doing a good job as the replacement for the legendary Bill Snyder. *(p. 134)*
-- But the Wildcats are hoping for even bigger things out of Collin Klein, who played for K-State from 2008 to 2012 and then served as the team’s offensive coordinator in 2022 and 2023. *(p. 134)*
-- However, the Wildcats allowed 164.0 rushing yards per game last season, and having a strong group of defensive backs is relatively meaningless when you can’t stop the run. *(p. 135)*
-- Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions in 2024, and he also rushed for 605 yards with seven touchdowns. *(p. 135)*
-- Jayce Brown was an absolute burner for this offense last year, catching 41 balls for 712 yards and five touchdowns. *(p. 135)*
+- Chris Klieman stepped down after a 6-6 season, citing family and personal health. The guide credits him with at least nine wins in three consecutive years before that and with succeeding the legendary Bill Snyder well. *(p. 134)*
 
 ## 23. Important Statistics
 
@@ -281,41 +263,40 @@ As printed on p. 135. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **8.2 wins** against a posted total of 7.5 — **+0.7** in this team's favour.
-- However, the Wildcats allowed 164.0 rushing yards per game last season, and having a strong group of defensive backs is relatively meaningless when you can’t stop the run. *(p. 135)*
-- He’s one of the most impressive athletes in the nation at his position, and the return of Klein should mean he’s playing in the perfect offense. *(p. 135)*
+- Kansas State does have talent on both sides and returns electric dual-threat quarterback Avery Johnson, and the guide notes many have the team pegged as a sleeper. *(p. 134)*
+- The guide pushes back on offseason hype around the defense. It agrees people are understandably high on a secondary combining talent and experience, then makes the structural point: Kansas State allowed 164.0 rushing yards per game, and strong defensive backs mean relatively little if you cannot stop the run. Additions include Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns and Kentucky transfer Austin Ramsey plus productive linebackers, but it cautions that bringing in an entirely new crop is difficult. Its calibrated expectation is a top-40 rushing defense, with anything more probably unfair. *(p. 135)*
+- Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions plus 605 rushing yards and seven scores in 2024, generating real excitement, but did not improve in 2025: 2,385 yards, 18 touchdowns, six interceptions, 477 rushing yards and eight scores. The guide asks directly whether this is simply who he is, then argues there should be another gear — he is among the nation's most impressive athletes at the position and Klein's return should mean a perfect scheme fit. It ties the win total to him: eight or nine wins requires him sharper as a passer while keeping his running threat. *(p. 135)*
+- Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat, and his big-play ability drew Lane Kiffin, so he is now at LSU — leaving a major hole. Jaron Tibbs and Josh Manning have been productive before, but the guide's question is whether either can consistently create space when Klein is not scheming them open. It offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout and the missing piece. *(p. 135)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- The Wildcats have a lot of questions to answer when it comes to stopping the run, and I’m not sold on Klein instantly fixing the offense. *(p. 134)*
-- Johnson has to earn back the trust he lost, and the receiver group looks mediocre. *(p. 134)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
-- Perhaps Izaiah Williams, who followed Klein from Texas A&M, will break out and be the piece this offense is missing. *(p. 135)*
-- Quarterback Sam Leavitt will run a high-octane attack, complete with fresh wideout transfers: big-play threats Jayce Brown (Kansas State) and Jackson Harris (Hawaii) headline the group, alongside speed demon Winnie Watkins, who followed Kiffin from Ole Miss. *(p. 8)*
-- The Wildcats will get tough tests on the road in September (BYU), October (Texas Tech) and November (Kansas State). 29. *(p. 19)*
-- KANSAS STATE Bill Snyder, one of the all-time greats, and Chris Klieman, who retired in December, are extremely tough coaching acts to follow at K-State. *(p. 19)*
-- The Green Wave are likely to split their non-conference games against Duke, South Alabama, Kansas State, and Southern Miss. *(p. 70)*
+- The guide balances that against inexperience: this is his first time running an entire programme, so a seamless transition is not guaranteed. *(p. 134)*
+- Its specific doubts: home games are the tougher ones but that guarantees nothing, and Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan. It also flags unresolved questions stopping the run, is not sold on Klein instantly fixing the offense, says Johnson must earn back lost trust, and calls the receiver group mediocre. *(p. 134)*
+- The guide pushes back on offseason hype around the defense. It agrees people are understandably high on a secondary combining talent and experience, then makes the structural point: Kansas State allowed 164.0 rushing yards per game, and strong defensive backs mean relatively little if you cannot stop the run. Additions include Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns and Kentucky transfer Austin Ramsey plus productive linebackers, but it cautions that bringing in an entirely new crop is difficult. Its calibrated expectation is a top-40 rushing defense, with anything more probably unfair. *(p. 135)*
+- Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat, and his big-play ability drew Lane Kiffin, so he is now at LSU — leaving a major hole. Jaron Tibbs and Josh Manning have been productive before, but the guide's question is whether either can consistently create space when Klein is not scheming them open. It offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout and the missing piece. *(p. 135)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 135)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 135)*. Its analysis, in reference form:
 
 ### How much better can the Wildcats be against the run?
 
-While this team is now being coached by an offense-forward mind, this defense has been hyped up throughout the offseason. People are understandably high on the Kansas State secondary, which has a good combination of talent and experience. However, the Wildcats allowed 164.0 rushing yards per game last season, and having a strong group of defensive backs is relatively meaningless when you can’t stop the run. Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. Perhaps this group will perform more like a top-40 rushing defense, but expecting a bigger turnaround than that probably isn’t fair.
+The guide pushes back on offseason hype around the defense. It agrees people are understandably high on a secondary combining talent and experience, then makes the structural point: Kansas State allowed 164.0 rushing yards per game, and strong defensive backs mean relatively little if you cannot stop the run. Additions include Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns and Kentucky transfer Austin Ramsey plus productive linebackers, but it cautions that bringing in an entirely new crop is difficult. Its calibrated expectation is a top-40 rushing defense, with anything more probably unfair. *(p. 135)*
 
 ### Can Avery Johnson take his game to another level?
 
-Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions in 2024, and he also rushed for 605 yards with seven touchdowns. That had many feeling very excited about what the 2025 season would look like, but Johnson didn’t get any better. He threw for 2,385 yards with 18 touchdowns and six picks, and he rushed for 477 yards and eight scores. Is this simply who Johnson is at this point? Realistically, there should be another gear he can reach. He’s one of the most impressive athletes in the nation at his position, and the return of Klein should mean he’s playing in the perfect offense. If Kansas State is going to win eight or nine games this year, Johnson will need to be a little sharper as a passer while maintaining his juice as a runner.
+Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions plus 605 rushing yards and seven scores in 2024, generating real excitement, but did not improve in 2025: 2,385 yards, 18 touchdowns, six interceptions, 477 rushing yards and eight scores. The guide asks directly whether this is simply who he is, then argues there should be another gear — he is among the nation's most impressive athletes at the position and Klein's return should mean a perfect scheme fit. It ties the win total to him: eight or nine wins requires him sharper as a passer while keeping his running threat. *(p. 135)*
 
-### Who’s catching the passes for this team?
+### Who's catching the passes for this team?
 
-Jayce Brown was an absolute burner for this offense last year, catching 41 balls for 712 yards and five touchdowns. His big-play ability caught the attention of Lane Kiffin, so he’ll now be catching passes in Baton Rouge. That leaves a massive hole in this wide receiver group. Jaron Tibbs and Josh Manning have both been productive in the past, but will either of them be able to consistently create space when Klein isn’t scheming them open? Perhaps Izaiah Williams, who followed Klein from Texas A&M, will break out and be the piece this offense is missing.
+Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat, and his big-play ability drew Lane Kiffin, so he is now at LSU — leaving a major hole. Jaron Tibbs and Josh Manning have been productive before, but the guide's question is whether either can consistently create space when Klein is not scheming them open. It offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout and the missing piece. *(p. 135)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -333,6 +314,8 @@ No source conflict identified for this team.
 | 8, 15, 19, 23, 31, 41, 70, 117, 121, 125, 126, 136, 280, 331 | Other pages naming this team |
 
 This team is named in **28 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 15, 19, 23, 31, 41, 70, 117, 121, 125, 126, 136, 280, 331.
 
 ## 29. Cross-Links
 

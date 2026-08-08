@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 5.8–6.2 overall, 3.6–5.4 in conference |
 | **Schedule strength** | 42.24 (#64 toughest of 138) |
 
-### Season outlook as written in the guide (p. 142)
+### Season outlook — VSiN's analysis in reference form (p. 142)
 
-The first time Scott Frost took the UCF job, he needed only two years to turn an 0-12 team into a 13-0 team. This time around, no one is expecting that type of turnaround. However, Frost did win five games in 2025, improving on the team’s 4-8 season under Gus Malzahn in 2024. Things also happen to be moving in the right direction in recruiting and transfer portal hunting. There’s a solid buzz in Orlando right now, and Frost is now looking to get the Knights back to a bowl game. After having only 10 returning starters last season, UCF has 13 heading into this season. Frost also happened to upgrade some key spots. If the Knights can prevail in some 50-50 road games, this could turn into a great season. Over 5.5 UCF should be bowl bound this year, making the Over the right play when thinking about the win total. The Knights really should earn wins over Bethune-Cookman, Georgia State, and Iowa State, and the following games all seem winnable: at Pitt, vs. TCU, at Oklahoma State, vs. Baylor, at Kansas, vs. Arizona State, at Colorado. Picking up wins in three of those seven is all UCF needs to hit the six-win mark. That seems extremely reasonable given the talent on this roster.
+- Scott Frost's first UCF spell took an 0-12 team to 13-0 in two years, and the guide is clear nobody expects a repeat. *(p. 142)*
+- He did win five games in 2025, improving on the 4-8 season under Gus Malzahn, with recruiting and portal work moving in the right direction. *(p. 142)*
+- There is a solid buzz in Orlando, and Frost's aim is a bowl game. UCF has 13 returning starters against 10 last season, with key spots upgraded. *(p. 142)*
+- The guide's conditional: prevailing in some 50-50 road games could make this a great season. *(p. 142)*
+- Recommendation is Over 5.5 wins, with UCF expected to be bowl bound. *(p. 142)*
+- It maps the route: expected wins over Bethune-Cookman, Georgia State and Iowa State, then seven winnable games — at Pitt, TCU at home, at Oklahoma State, Baylor at home, at Kansas, Arizona State at home and at Colorado — from which UCF needs only three, which it calls extremely reasonable given the roster. *(p. 142)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +85,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- This won’t be one of the better lines in the Big 12, but this coaching staff is expecting the group to be better than it was last year. *(p. 143)*
-- Grinch has had an up-and-down career as a defensive coordinator, but he did a very good job with last year’s team. *(p. 143)*
-- On top of that, the staff signed some instant-impact starters — some from the Group of Five and others from the Power Four. *(p. 143)*
+- Scott Frost's first UCF spell took an 0-12 team to 13-0 in two years, and the guide is clear nobody expects a repeat. *(p. 142)*
+- He did win five games in 2025, improving on the 4-8 season under Gus Malzahn, with recruiting and portal work moving in the right direction. *(p. 142)*
+- **How does DC Alex Grinch follow up a solid Year 1 showing in Orlando?** UCF cut from 26.9 points allowed per game in 2024 to 23.6. The guide notes Grinch's career as a coordinator has been up and down while crediting a very good job last year, with the pass defense especially impressive at 185.0 yards allowed per game. Four starters return in that secondary so it should be a strength again, with defensive tackle RJ Jackson and linebacker Lewis Carter also back and instant-impact signings from both the Group of Five and Power Four. Its expectation is a solid unit even if some numbers look slightly worse. *(p. 143)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Cam Fancher has 28 starts over the last four years combined at Marshall, Florida Atlantic, and UCF and he will push Milivojevic, but the incumbent (986 yards in four starts) should hold the job for Fitzgerald and new offensive coordinator Nick Sheridan, who comes in from the same role at Alabama. *(p. 161)*
+Also referenced on **pp. 161** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,16 +97,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 142)*.
 
-- The quarterback situation was a mess last year, but it should be a strength in 2026. *(p. 143)*
-- Alonza Barnett III threw for 2,806 yards with 23 touchdowns and eight picks for a good JMU team last year, and he also rushed for 589 yards and 15 scores. *(p. 143)*
-- He’s a high-level dual-threat signal-caller, and he’s also a leader and a proven winner. *(p. 143)*
-- The passing defense was especially impressive, with the Knights allowing only 185.0 yards per game through the air. *(p. 143)*
-- UCF actually brings back four starters from that secondary, so the passing defense should be a strength again. *(p. 143)*
+- **Is this offense primed for a significant leap?** Conditional on the line, the guide expects something closer to the 2017 UCF offense. The quarterback position goes from a mess to a strength with Alonza Barnett III, who threw for 2,806 yards with 23 touchdowns and eight interceptions for a good James Madison team and ran for 589 yards and 15 scores — a high-level dual threat it also describes as a leader and proven winner. Skill-position talent is plentiful, with Duane Thomas and Dylan Wade the more dangerous receiving weapons and Josh Derry intriguing after lighting up the FCS at Monmouth. *(p. 143)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Tayven Jackson originally went to Tennessee and got some starts for Indiana and also UCF, so he’s the clubhouse leader to be the QB. *(p. 63)*
-- Kansas might be able to make something out of home games against Baylor and UCF, but this isn’t a team that can be trusted in 50-50 games with these quarterback options and a mediocre defense. *(p. 132)*
+Also referenced on **pp. 63, 132** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -117,43 +115,31 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Things also happen to be moving in the right direction in recruiting and transfer portal hunting. *(p. 142)*
+- He did win five games in 2025, improving on the 4-8 season under Gus Malzahn, with recruiting and portal work moving in the right direction. *(p. 142)*
+- **How much better can the offensive line be?** UCF lost four of five starters but the guide reframes that as opportunity, since this was one of the Big 12's worst lines. Preston Cushman is the lone returnee and was at Ole Miss two years ago, which it treats as a useful SEC-caliber presence. Two more full-time starters arrived plus another who played a good number of games, and Connor Meadows returns after starting several games at center late last season. Its calibrated conclusion: not one of the better Big 12 lines, but the staff expects improvement. *(p. 143)*
+- **Is this offense primed for a significant leap?** Conditional on the line, the guide expects something closer to the 2017 UCF offense. The quarterback position goes from a mess to a strength with Alonza Barnett III, who threw for 2,806 yards with 23 touchdowns and eight interceptions for a good James Madison team and ran for 589 yards and 15 scores — a high-level dual threat it also describes as a leader and proven winner. Skill-position talent is plentiful, with Duane Thomas and Dylan Wade the more dangerous receiving weapons and Josh Derry intriguing after lighting up the FCS at Monmouth. *(p. 143)*
+- **How does DC Alex Grinch follow up a solid Year 1 showing in Orlando?** UCF cut from 26.9 points allowed per game in 2024 to 23.6. The guide notes Grinch's career as a coordinator has been up and down while crediting a very good job last year, with the pass defense especially impressive at 185.0 yards allowed per game. Four starters return in that secondary so it should be a strength again, with defensive tackle RJ Jackson and linebacker Lewis Carter also back and instant-impact signings from both the Group of Five and Power Four. Its expectation is a solid unit even if some numbers look slightly worse. *(p. 143)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- UCF transfer Dylan Rizk could be an option or true freshman Mike Mitchell, who originally committed to Vanderbilt, may get some looks. *(p. 105)*
-- Kenyatta Jackson Jr (6.5 sacks) is likely the next first rounder from this group, and he is joined on the defensive line by Alabama transfer James Smith and UCF transfer John Walker. *(p. 169)*
-- Colson — a transfer from Incarnate Word — started a game and appeared in another for UCF back in 2024. *(p. 261)*
+Referenced in the guide on **pp. 105, 169, 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Things also happen to be moving in the right direction in recruiting and transfer portal hunting. *(p. 142)*
+- He did win five games in 2025, improving on the 4-8 season under Gus Malzahn, with recruiting and portal work moving in the right direction. *(p. 142)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- UCF transfer Dylan Rizk could be an option or true freshman Mike Mitchell, who originally committed to Vanderbilt, may get some looks. *(p. 105)*
+Referenced in the guide on **pp. 105** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- If the offensive line holds up its end of the bargain, UCF’s offense should look a little more like the 2017 UCF offense. *(p. 143)*
+- **How much better can the offensive line be?** UCF lost four of five starters but the guide reframes that as opportunity, since this was one of the Big 12's worst lines. Preston Cushman is the lone returnee and was at Ole Miss two years ago, which it treats as a useful SEC-caliber presence. Two more full-time starters arrived plus another who played a good number of games, and Connor Meadows returns after starting several games at center late last season. Its calibrated conclusion: not one of the better Big 12 lines, but the staff expects improvement. *(p. 143)*
+- **Is this offense primed for a significant leap?** Conditional on the line, the guide expects something closer to the 2017 UCF offense. The quarterback position goes from a mess to a strength with Alonza Barnett III, who threw for 2,806 yards with 23 touchdowns and eight interceptions for a good James Madison team and ran for 589 yards and 15 scores — a high-level dual threat it also describes as a leader and proven winner. Skill-position talent is plentiful, with Duane Thomas and Dylan Wade the more dangerous receiving weapons and Josh Derry intriguing after lighting up the FCS at Monmouth. *(p. 143)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Roof was semi-retired after getting dismissed by UCF in October 2024, but O’Brien coaxed him off the couch to help a unit that allowed over 6.5 yards per play overall and almost 470 yards per game in ACC play. *(p. 81)*
-- Cam Fancher has 28 starts over the last four years combined at Marshall, Florida Atlantic, and UCF and he will push Milivojevic, but the incumbent (986 yards in four starts) should hold the job for Fitzgerald and new offensive coordinator Nick Sheridan, who comes in from the same role at Alabama. *(p. 161)*
+Referenced in the guide on **pp. 81, 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Grinch has had an up-and-down career as a defensive coordinator, but he did a very good job with last year’s team. *(p. 143)*
-- The passing defense was especially impressive, with the Knights allowing only 185.0 yards per game through the air. *(p. 143)*
-- UCF actually brings back four starters from that secondary, so the passing defense should be a strength again. *(p. 143)*
-- The Knights also happened to bring back some studs in defensive tackle RJ Jackson and linebacker Lewis Carter. *(p. 143)*
+- **How does DC Alex Grinch follow up a solid Year 1 showing in Orlando?** UCF cut from 26.9 points allowed per game in 2024 to 23.6. The guide notes Grinch's career as a coordinator has been up and down while crediting a very good job last year, with the pass defense especially impressive at 185.0 yards allowed per game. Four starters return in that secondary so it should be a strength again, with defensive tackle RJ Jackson and linebacker Lewis Carter also back and instant-impact signings from both the Group of Five and Power Four. Its expectation is a solid unit even if some numbers look slightly worse. *(p. 143)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kansas might be able to make something out of home games against Baylor and UCF, but this isn’t a team that can be trusted in 50-50 games with these quarterback options and a mediocre defense. *(p. 132)*
-- Michael Kilbane (7.5 TFLs, 3.5 sacks) and defensive tackle Brendan Flakes cannot do it up front all by themselves, so much will be needed and expected from defensive end Jamaal Johnson (UCF) and linebacker Kobie McKinzie. *(p. 167)*
-- Kenyatta Jackson Jr (6.5 sacks) is likely the next first rounder from this group, and he is joined on the defensive line by Alabama transfer James Smith and UCF transfer John Walker. *(p. 169)*
+Referenced in the guide on **pp. 132, 167, 169** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -191,9 +177,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Back-to-back games versus Notre Dame (Oct. 17) and at UCF (Oct. 24) will be pivotal. *(p. 18)*
+Referenced in the guide on **pp. 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -214,24 +198,15 @@ Prices printed on the team page *(p. 143)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- There is a solid buzz in Orlando, and Frost's aim is a bowl game. UCF has 13 returning starters against 10 last season, with key spots upgraded. *(p. 142)*
+- Recommendation is Over 5.5 wins, with UCF expected to be bowl bound. *(p. 142)*
+- It maps the route: expected wins over Bethune-Cookman, Georgia State and Iowa State, then seven winnable games — at Pitt, TCU at home, at Oklahoma State, Baylor at home, at Kansas, Arizona State at home and at Colorado — from which UCF needs only three, which it calls extremely reasonable given the roster. *(p. 142)*
 
 ## 22. Historical / Situational Trends
 
-- However, Frost did win five games in 2025, improving on the team’s 4-8 season under Gus Malzahn in 2024. *(p. 142)*
-- After having only 10 returning starters last season, UCF has 13 heading into this season. *(p. 142)*
-- The Knights lost four of last year’s five starters, but they had one of the worst lines in the Big 12. *(p. 143)*
-- Connor Meadows is also back after starting a few games for the Knights at center late last season. *(p. 143)*
-- This won’t be one of the better lines in the Big 12, but this coaching staff is expecting the group to be better than it was last year. *(p. 143)*
-- The quarterback situation was a mess last year, but it should be a strength in 2026. *(p. 143)*
-- Alonza Barnett III threw for 2,806 yards with 23 touchdowns and eight picks for a good JMU team last year, and he also rushed for 589 yards and 15 scores. *(p. 143)*
-- Josh Derry is also an intriguing wideout, as he lit up the FCS with Monmouth last season. *(p. 143)*
-- UCF only allowed 23.6 points per game last season, lowering the number from the 26.9 the team gave up in 2024. *(p. 143)*
-- Grinch has had an up-and-down career as a defensive coordinator, but he did a very good job with last year’s team. *(p. 143)*
+- Scott Frost's first UCF spell took an 0-12 team to 13-0 in two years, and the guide is clear nobody expects a repeat. *(p. 142)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Colson — a transfer from Incarnate Word — started a game and appeared in another for UCF back in 2024. *(p. 261)*
+Referenced in the guide on **pp. 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -278,36 +253,35 @@ As printed on p. 143. Each category carries a value and a national rank.
 
 - Makinen projects **5.8 wins** against a posted total of 5.5 — **+0.3** in this team's favour.
 - The team page recommends **OVER 5.5**.
-- The quarterback situation was a mess last year, but it should be a strength in 2026. *(p. 143)*
-- UCF actually brings back four starters from that secondary, so the passing defense should be a strength again. *(p. 143)*
+- UCF lost four of five starters but the guide reframes that as opportunity, since this was one of the Big 12's worst lines. Preston Cushman is the lone returnee and was at Ole Miss two years ago, which it treats as a useful SEC-caliber presence. Two more full-time starters arrived plus another who played a good number of games, and Connor Meadows returns after starting several games at center late last season. Its calibrated conclusion: not one of the better Big 12 lines, but the staff expects improvement. *(p. 143)*
+- Conditional on the line, the guide expects something closer to the 2017 UCF offense. The quarterback position goes from a mess to a strength with Alonza Barnett III, who threw for 2,806 yards with 23 touchdowns and eight interceptions for a good James Madison team and ran for 589 yards and 15 scores — a high-level dual threat it also describes as a leader and proven winner. Skill-position talent is plentiful, with Duane Thomas and Dylan Wade the more dangerous receiving weapons and Josh Derry intriguing after lighting up the FCS at Monmouth. *(p. 143)*
+- UCF cut from 26.9 points allowed per game in 2024 to 23.6. The guide notes Grinch's career as a coordinator has been up and down while crediting a very good job last year, with the pass defense especially impressive at 185.0 yards allowed per game. Four starters return in that secondary so it should be a strength again, with defensive tackle RJ Jackson and linebacker Lewis Carter also back and instant-impact signings from both the Group of Five and Power Four. Its expectation is a solid unit even if some numbers look slightly worse. *(p. 143)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The Knights lost four of last year’s five starters, but they had one of the worst lines in the Big 12. *(p. 143)*
-- He was at Ole Miss two years ago, and having an SEC talent is always a nice thing. *(p. 143)*
-- The Jacurri in question is Jacurri Brown, who spent two years at Miami and two years at UCF, but he’s only thrown 148 passes with more interceptions (9) than touchdowns (6). *(p. 65)*
-- TCU plays several tough road games, as the team will go on the road to battle UCF, Baylor, Arizona, and Texas Tech. *(p. 138)*
+- UCF lost four of five starters but the guide reframes that as opportunity, since this was one of the Big 12's worst lines. Preston Cushman is the lone returnee and was at Ole Miss two years ago, which it treats as a useful SEC-caliber presence. Two more full-time starters arrived plus another who played a good number of games, and Connor Meadows returns after starting several games at center late last season. Its calibrated conclusion: not one of the better Big 12 lines, but the staff expects improvement. *(p. 143)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 143)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 143)*. Its analysis, in reference form:
 
 ### How much better can the offensive line be?
 
-The Knights lost four of last year’s five starters, but they had one of the worst lines in the Big 12. A fresher look up front should be a good thing for this team, especially with Preston Cushman being the lone returnee. He was at Ole Miss two years ago, and having an SEC talent is always a nice thing. The Knights added two other full-time starters and another who played a good chunk of games. Connor Meadows is also back after starting a few games for the Knights at center late last season. This won’t be one of the better lines in the Big 12, but this coaching staff is expecting the group to be better than it was last year.
+UCF lost four of five starters but the guide reframes that as opportunity, since this was one of the Big 12's worst lines. Preston Cushman is the lone returnee and was at Ole Miss two years ago, which it treats as a useful SEC-caliber presence. Two more full-time starters arrived plus another who played a good number of games, and Connor Meadows returns after starting several games at center late last season. Its calibrated conclusion: not one of the better Big 12 lines, but the staff expects improvement. *(p. 143)*
 
 ### Is this offense primed for a significant leap?
 
-If the offensive line holds up its end of the bargain, UCF’s offense should look a little more like the 2017 UCF offense. The quarterback situation was a mess last year, but it should be a strength in 2026. Alonza Barnett III threw for 2,806 yards with 23 touchdowns and eight picks for a good JMU team last year, and he also rushed for 589 yards and 15 scores. He’s a high-level dual-threat signal-caller, and he’s also a leader and a proven winner. The Knights also happen to have a ton of talent at the skill positions, with Duane Thomas and Dylan Wade as two of their more dangerous pass-catching weapons. Josh Derry is also an intriguing wideout, as he lit up the FCS with Monmouth last season.
+Conditional on the line, the guide expects something closer to the 2017 UCF offense. The quarterback position goes from a mess to a strength with Alonza Barnett III, who threw for 2,806 yards with 23 touchdowns and eight interceptions for a good James Madison team and ran for 589 yards and 15 scores — a high-level dual threat it also describes as a leader and proven winner. Skill-position talent is plentiful, with Duane Thomas and Dylan Wade the more dangerous receiving weapons and Josh Derry intriguing after lighting up the FCS at Monmouth. *(p. 143)*
 
 ### How does DC Alex Grinch follow up a solid Year 1 showing in Orlando?
 
-UCF only allowed 23.6 points per game last season, lowering the number from the 26.9 the team gave up in 2024. Grinch has had an up-and-down career as a defensive coordinator, but he did a very good job with last year’s team. The passing defense was especially impressive, with the Knights allowing only 185.0 yards per game through the air. UCF actually brings back four starters from that secondary, so the passing defense should be a strength again. The Knights also happened to bring back some studs in defensive tackle RJ Jackson and linebacker Lewis Carter. On top of that, the staff signed some instant-impact starters — some from the Group of Five and others from the Power Four. This unit should be solid this season, even if some of its numbers look slightly worse.
+UCF cut from 26.9 points allowed per game in 2024 to 23.6. The guide notes Grinch's career as a coordinator has been up and down while crediting a very good job last year, with the pass defense especially impressive at 185.0 yards allowed per game. Four starters return in that secondary so it should be a strength again, with defensive tackle RJ Jackson and linebacker Lewis Carter also back and instant-impact signings from both the Group of Five and Power Four. Its expectation is a solid unit even if some numbers look slightly worse. *(p. 143)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -325,6 +299,8 @@ No source conflict identified for this team.
 | 8, 18, 33, 63, 65, 81, 105, 126, 132, 136, 138, 161, 167, 169, 261 | Other pages naming this team |
 
 This team is named in **22 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 18, 33, 63, 65, 81, 105, 126, 132, 136, 138, 161, 167, 169, 261.
 
 ## 29. Cross-Links
 

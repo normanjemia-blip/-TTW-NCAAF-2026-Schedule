@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 6.4–5.6 overall, 4.5–4.5 in conference |
 | **Schedule strength** | 46.13 (#35 toughest of 138) |
 
-### Season outlook as written in the guide (p. 118)
+### Season outlook — VSiN's analysis in reference form (p. 118)
 
-How much have the expectations changed in Tempe? Well, last year’s 8-5 season felt like a massive disappointment, which is outrageous given this team went 3-9 in 2023. That’s because Kenny Dillingham took ASU to the College Football Playoff in 2024, which was Year 2 with him leading the program. Arizona State now heads into 2026 looking to build on last year, but doing so would mean thriving without Sam Leavitt under center. The 2024 Big 12 Offensive Freshman of the Year and second-team All-Big 12 performer is off to play for Lane Kiffin and LSU. Last year’s team had to deal with the loss of Cam Skattebo, and this year’s team won’t have Leavitt. That’s two core pieces of that special 2024 team. In addition to dealing with a good bit of roster turnover, the Sun Devils also have to navigate a tough schedule. That means the odds are stacked against Dillingham, but he has been there before. Over 6.5 Arizona State likely isn’t heading back to the College Football Playoff in the near future, but this program isn’t going anywhere either. Dillingham continues to do a good job of reloading his rosters, and it just doesn’t feel right seeing the Sun Devils with a win total of 6.5. Arizona State undoubtedly has a difficult schedule, but the following games are more than winnable: vs. Morgan State, vs. Kansas, vs. Baylor, vs. Hawaii, vs. Kansas State, vs. Colorado, at UCF, vs. Oklahoma State, at Arizona. That’s enough for a play on the Over, and the Sun Devils might even be live to hit some alternate Overs.
+- The guide uses shifted expectations as its frame: an 8-5 season felt like a massive disappointment, which it calls outrageous given Arizona State went 3-9 in 2023 — the change owing to Kenny Dillingham reaching the playoff in 2024, his second year. *(p. 118)*
+- Building on last year means thriving without Sam Leavitt, the 2024 Big 12 Offensive Freshman of the Year and second-team All-Big 12, who has left for Lane Kiffin at LSU. *(p. 118)*
+- The guide draws the pattern: last year's team lost Cam Skattebo and this year's loses Leavitt — two core pieces of the 2024 side. *(p. 118)*
+- With significant roster turnover and a tough schedule, it says the odds are stacked against Dillingham while noting he has been in that position before. *(p. 118)*
+- Recommendation is Over 6.5 wins. The guide's judgement is that Arizona State is unlikely to return to the playoff soon but is not going anywhere either, that Dillingham keeps reloading well, and that a 6.5 total simply does not feel right. *(p. 118)*
+- It names the winnable games explicitly: Morgan State, Kansas, Baylor, Hawaii, Kansas State, Colorado and Oklahoma State at home, plus UCF and Arizona away — enough for the Over, with the Sun Devils possibly live for alternate Overs too. *(p. 118)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,12 +85,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- But how good a job Ward does of coaching this group up will be a major swing factor when it comes to the success of this season. *(p. 119)*
+- The guide uses shifted expectations as its frame: an 8-5 season felt like a massive disappointment, which it calls outrageous given Arizona State went 3-9 in 2023 — the change owing to Kenny Dillingham reaching the playoff in 2024, his second year. *(p. 118)*
+- With significant roster turnover and a tough schedule, it says the odds are stacked against Dillingham while noting he has been in that position before. *(p. 118)*
+- **Is Marcus Arroyo the right guy to be calling the shots for a Dillingham-led team?** The guide sets the numbers side by side: Dillingham mostly called plays in 2024 and Arizona State averaged 6.1 yards per play; with Arroyo calling them last year that fell to 5.6. It concedes mitigating factors — Leavitt played only five games and the team did not replace Skattebo well — but argues that with one of college football's brightest offensive minds on the sideline, fans will keep asking why he is not calling plays, especially after a year ranked 49th in Adjusted EPA per play at 0.01. *(p. 119)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- ARIZONA STATE Kenny Dillingham has done an amazing coaching job at Arizona State. *(p. 20)*
-- Former Dan Lanning OC Kenny Dillingham has done pretty well at Arizona State, but the Sun Devils were 3-9 in his first season as he tore the team down to the studs. *(p. 36)*
+Also referenced on **pp. 20, 36** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -91,13 +97,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 118)*.
 
-- Boley might take some time to get comfortable in his new surroundings, but he’s a 6-foot-5 quarterback with a big arm and above-average athleticism. *(p. 119)*
+- Building on last year means thriving without Sam Leavitt, the 2024 Big 12 Offensive Freshman of the Year and second-team All-Big 12, who has left for Lane Kiffin at LSU. *(p. 118)*
+- **How good can Cutter Boley be?** Boley was up and down as Kentucky's starter, throwing for 2,160 yards with 15 touchdowns and 12 interceptions, but the guide is careful to contextualize: he had an unreliable supporting cast and no one of Dillingham's reputation. At 6-foot-5 with a big arm and above-average athleticism, he may need time to settle. Dillingham once tried to recruit him to Oregon, which the guide reads as genuine belief. It expects the group to exceed expectations, citing Boley's tools, an improved offensive line and receiver weapons including Boston College transfer Reed Harris. *(p. 119)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- While the Red Raiders got shut out when they faced Oregon in the College Football Playoff, they ran through the Big 12 regular season — with their only loss coming in a road game at Arizona State, when starting quarterback Behren Morton was hurt — and finished seventh in the country in Net Adjusted EPA/Play (+0.17) at Game on Paper. *(p. 140)*
-- Leavitt — the top-ranked transfer quarterback, according to 247 — burst onto the scene in his time at Arizona State. *(p. 297)*
+Also referenced on **pp. 18, 140, 297** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -115,43 +118,30 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Boley has all the tools to be a high-level starter, the offensive line looks to be improved, and the Sun Devils have weapons at wideout — including intriguing Boston College transfer Reed Harris. *(p. 119)*
-- Arizona State added some big-time transfers when looking at the defensive linemen and linebackers who were brought in — with Colorado State’s Owen Long being one who could immediately turn heads on a bigger stage. *(p. 119)*
-- LSU transfer Ashton Stamps was a good addition at corner, and ASU looks to have some impressive safeties. *(p. 119)*
+- Building on last year means thriving without Sam Leavitt, the 2024 Big 12 Offensive Freshman of the Year and second-team All-Big 12, who has left for Lane Kiffin at LSU. *(p. 118)*
+- **How good can Cutter Boley be?** Boley was up and down as Kentucky's starter, throwing for 2,160 yards with 15 touchdowns and 12 interceptions, but the guide is careful to contextualize: he had an unreliable supporting cast and no one of Dillingham's reputation. At 6-foot-5 with a big arm and above-average athleticism, he may need time to settle. Dillingham once tried to recruit him to Oregon, which the guide reads as genuine belief. It expects the group to exceed expectations, citing Boley's tools, an improved offensive line and receiver weapons including Boston College transfer Reed Harris. *(p. 119)*
+- **Will Brian Ward get enough out of his defensive backs?** Arizona State added notable transfers on the defensive line and at linebacker, with Colorado State's Owen Long singled out as someone who could turn heads at a higher level. But the guide identifies the secondary as the pressing need after ranking 49th in dropback EPA per play at -0.03. LSU transfer Ashton Stamps is a good addition at corner and the safeties look impressive, and it frames how well Ward coaches this group as a major swing factor for the season. *(p. 119)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). *(p. 185)*
-- After running for 1,117 yards in 2024, Udoh was able to transfer out of West Point and wound up at Arizona State, where he didn’t see much action. *(p. 197)*
-- Leavitt — the top-ranked transfer quarterback, according to 247 — burst onto the scene in his time at Arizona State. *(p. 297)*
+Referenced in the guide on **pp. 8, 18, 185, 197, 297** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- The 2024 Big 12 Offensive Freshman of the Year and second-team All-Big 12 performer is off to play for Lane Kiffin and LSU. *(p. 118)*
+
+Referenced in the guide on **pp. 118** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The 2024 Big 12 Offensive Freshman of the Year and second-team All-Big 12 performer is off to play for Lane Kiffin and LSU. *(p. 118)*
-- While there might be question marks about the offense heading into the season, something tells me this group will exceed expectations. *(p. 119)*
-- Boley has all the tools to be a high-level starter, the offensive line looks to be improved, and the Sun Devils have weapons at wideout — including intriguing Boston College transfer Reed Harris. *(p. 119)*
-- Dillingham mostly called plays for Arizona State in 2024, when the team averaged 6.1 yards per play. *(p. 119)*
-- But Arizona State has one of the brightest offensive minds in college football on the sidelines. *(p. 119)*
+- The guide draws the pattern: last year's team lost Cam Skattebo and this year's loses Leavitt — two core pieces of the 2024 side. *(p. 118)*
+- **How good can Cutter Boley be?** Boley was up and down as Kentucky's starter, throwing for 2,160 yards with 15 touchdowns and 12 interceptions, but the guide is careful to contextualize: he had an unreliable supporting cast and no one of Dillingham's reputation. At 6-foot-5 with a big arm and above-average athleticism, he may need time to settle. Dillingham once tried to recruit him to Oregon, which the guide reads as genuine belief. It expects the group to exceed expectations, citing Boley's tools, an improved offensive line and receiver weapons including Boston College transfer Reed Harris. *(p. 119)*
+- **Is Marcus Arroyo the right guy to be calling the shots for a Dillingham-led team?** The guide sets the numbers side by side: Dillingham mostly called plays in 2024 and Arizona State averaged 6.1 yards per play; with Arroyo calling them last year that fell to 5.6. It concedes mitigating factors — Leavitt played only five games and the team did not replace Skattebo well — but argues that with one of college football's brightest offensive minds on the sideline, fans will keep asking why he is not calling plays, especially after a year ranked 49th in Adjusted EPA per play at 0.01. *(p. 119)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
+Referenced in the guide on **pp. 8, 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Arizona State added some big-time transfers when looking at the defensive linemen and linebackers who were brought in — with Colorado State’s Owen Long being one who could immediately turn heads on a bigger stage. *(p. 119)*
-- However, the Sun Devils desperately need things to click in the secondary, where they were 49th in Dropback EPA/Play (-0.03) last year. *(p. 119)*
+- **Will Brian Ward get enough out of his defensive backs?** Arizona State added notable transfers on the defensive line and at linebacker, with Colorado State's Owen Long singled out as someone who could turn heads at a higher level. But the guide identifies the secondary as the pressing need after ranking 49th in dropback EPA per play at -0.03. LSU transfer Ashton Stamps is a good addition at corner and the safeties look impressive, and it frames how well Ward coaches this group as a major swing factor for the season. *(p. 119)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). *(p. 185)*
+Referenced in the guide on **pp. 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -211,23 +201,14 @@ Prices printed on the team page *(p. 119)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Over 6.5 wins. The guide's judgement is that Arizona State is unlikely to return to the playoff soon but is not going anywhere either, that Dillingham keeps reloading well, and that a 6.5 total simply does not feel right. *(p. 118)*
+- It names the winnable games explicitly: Morgan State, Kansas, Baylor, Hawaii, Kansas State, Colorado and Oklahoma State at home, plus UCF and Arizona away — enough for the Over, with the Sun Devils possibly live for alternate Overs too. *(p. 118)*
 
 ## 22. Historical / Situational Trends
 
-- Well, last year’s 8-5 season felt like a massive disappointment, which is outrageous given this team went 3-9 in 2023. *(p. 118)*
-- That’s because Kenny Dillingham took ASU to the College Football Playoff in 2024, which was Year 2 with him leading the program. *(p. 118)*
-- Arizona State now heads into 2026 looking to build on last year, but doing so would mean thriving without Sam Leavitt under center. *(p. 118)*
-- Last year’s team had to deal with the loss of Cam Skattebo, and this year’s team won’t have Leavitt. *(p. 118)*
-- Boley had an up-and-down year as Kentucky’s starter last season, throwing for 2,160 yards with 15 touchdowns and 12 interceptions. *(p. 119)*
-- Dillingham mostly called plays for Arizona State in 2024, when the team averaged 6.1 yards per play. *(p. 119)*
-- Last year, with play-calling responsibilities being passed to Arroyo, that number dropped to 5.6. *(p. 119)*
-- However, the Sun Devils desperately need things to click in the secondary, where they were 49th in Dropback EPA/Play (-0.03) last year. *(p. 119)*
+- The guide uses shifted expectations as its frame: an 8-5 season felt like a massive disappointment, which it calls outrageous given Arizona State went 3-9 in 2023 — the change owing to Kenny Dillingham reaching the playoff in 2024, his second year. *(p. 118)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SAM LEAVITT, LSU After guiding Arizona State to the first-ever 12-team CFP in 2024, Leavitt’s production dipped last season, primarily because of a foot injury which shortened his season by five games. *(p. 45)*
-- After running for 1,117 yards in 2024, Udoh was able to transfer out of West Point and wound up at Arizona State, where he didn’t see much action. *(p. 197)*
+Referenced in the guide on **pp. 45, 197** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -273,42 +254,36 @@ As printed on p. 119. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 6.5**.
-- Boley has all the tools to be a high-level starter, the offensive line looks to be improved, and the Sun Devils have weapons at wideout — including intriguing Boston College transfer Reed Harris. *(p. 119)*
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
+- Recommendation is Over 6.5 wins. The guide's judgement is that Arizona State is unlikely to return to the playoff soon but is not going anywhere either, that Dillingham keeps reloading well, and that a 6.5 total simply does not feel right. *(p. 118)*
+- Boley was up and down as Kentucky's starter, throwing for 2,160 yards with 15 touchdowns and 12 interceptions, but the guide is careful to contextualize: he had an unreliable supporting cast and no one of Dillingham's reputation. At 6-foot-5 with a big arm and above-average athleticism, he may need time to settle. Dillingham once tried to recruit him to Oregon, which the guide reads as genuine belief. It expects the group to exceed expectations, citing Boley's tools, an improved offensive line and receiver weapons including Boston College transfer Reed Harris. *(p. 119)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **6.4 wins** against a posted total of 6.5 — **-0.1** against this team.
-- Last year’s team had to deal with the loss of Cam Skattebo, and this year’s team won’t have Leavitt. *(p. 118)*
-- In addition to dealing with a good bit of roster turnover, the Sun Devils also have to navigate a tough schedule. *(p. 118)*
-- Arizona State undoubtedly has a difficult schedule, but the following games are more than winnable: vs. *(p. 118)*
-- While there might be question marks about the offense heading into the season, something tells me this group will exceed expectations. *(p. 119)*
-- In fairness, Leavitt playing only five games hurt, and the Sun Devils didn’t do a great job of accounting for the loss of Skattebo in the backfield. *(p. 119)*
-- Arizona State transfer Sam Leavitt should be a star under center in Kiffin’s offense, and he has several weapons at his disposal in Florida transfer Eugene Wilson and Hawaii transfer Jackson Harris — in addition to talented Ole Miss transfer Winston Watkins. *(p. 8)*
-- The top quarterbacks (Sam Leavitt, Arizona State; Husan Longstreet, USC) are transfers, and so are the three top receivers (Eugene Wilson, Florida; Jackson Harris, Hawaii; Winston Watkins, Ole Miss) and veteran left tackle Jordan Seaton (Colorado). *(p. 18)*
-- SAM LEAVITT, LSU After guiding Arizona State to the first-ever 12-team CFP in 2024, Leavitt’s production dipped last season, primarily because of a foot injury which shortened his season by five games. *(p. 45)*
-- While the Red Raiders got shut out when they faced Oregon in the College Football Playoff, they ran through the Big 12 regular season — with their only loss coming in a road game at Arizona State, when starting quarterback Behren Morton was hurt — and finished seventh in the country in Net Adjusted EPA/Play (+0.17) at Game on Paper. *(p. 140)*
+- The guide draws the pattern: last year's team lost Cam Skattebo and this year's loses Leavitt — two core pieces of the 2024 side. *(p. 118)*
+- With significant roster turnover and a tough schedule, it says the odds are stacked against Dillingham while noting he has been in that position before. *(p. 118)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 119)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 119)*. Its analysis, in reference form:
 
 ### How good can Cutter Boley be?
 
-Boley had an up-and-down year as Kentucky’s starter last season, throwing for 2,160 yards with 15 touchdowns and 12 interceptions. However, he largely had an unreliable supporting cast, and he wasn’t working with anyone with Dillingham’s reputation. Boley might take some time to get comfortable in his new surroundings, but he’s a 6-foot-5 quarterback with a big arm and above-average athleticism. Dillingham once tried to get Boley to Oregon, so he clearly believes in his ability. While there might be question marks about the offense heading into the season, something tells me this group will exceed expectations. Boley has all the tools to be a high-level starter, the offensive line looks to be improved, and the Sun Devils have weapons at wideout — including intriguing Boston College transfer Reed Harris.
+Boley was up and down as Kentucky's starter, throwing for 2,160 yards with 15 touchdowns and 12 interceptions, but the guide is careful to contextualize: he had an unreliable supporting cast and no one of Dillingham's reputation. At 6-foot-5 with a big arm and above-average athleticism, he may need time to settle. Dillingham once tried to recruit him to Oregon, which the guide reads as genuine belief. It expects the group to exceed expectations, citing Boley's tools, an improved offensive line and receiver weapons including Boston College transfer Reed Harris. *(p. 119)*
 
 ### Is Marcus Arroyo the right guy to be calling the shots for a Dillingham-led team?
 
-Dillingham mostly called plays for Arizona State in 2024, when the team averaged 6.1 yards per play. Last year, with play-calling responsibilities being passed to Arroyo, that number dropped to 5.6. In fairness, Leavitt playing only five games hurt, and the Sun Devils didn’t do a great job of accounting for the loss of Skattebo in the backfield. But Arizona State has one of the brightest offensive minds in college football on the sidelines. As long as Dillingham is there, fans will wonder why he’s not calling plays. That’s especially true fresh off a year in which the Sun Devils were just 49th in Adjusted EPA/Play (0.01).
+The guide sets the numbers side by side: Dillingham mostly called plays in 2024 and Arizona State averaged 6.1 yards per play; with Arroyo calling them last year that fell to 5.6. It concedes mitigating factors — Leavitt played only five games and the team did not replace Skattebo well — but argues that with one of college football's brightest offensive minds on the sideline, fans will keep asking why he is not calling plays, especially after a year ranked 49th in Adjusted EPA per play at 0.01. *(p. 119)*
 
 ### Will Brian Ward get enough out of his defensive backs?
 
-Arizona State added some big-time transfers when looking at the defensive linemen and linebackers who were brought in — with Colorado State’s Owen Long being one who could immediately turn heads on a bigger stage. However, the Sun Devils desperately need things to click in the secondary, where they were 49th in Dropback EPA/Play (-0.03) last year. LSU transfer Ashton Stamps was a good addition at corner, and ASU looks to have some impressive safeties. But how good a job Ward does of coaching this group up will be a major swing factor when it comes to the success of this season.
+Arizona State added notable transfers on the defensive line and at linebacker, with Colorado State's Owen Long singled out as someone who could turn heads at a higher level. But the guide identifies the secondary as the pressing need after ranking 49th in dropback EPA per play at -0.03. LSU transfer Ashton Stamps is a good addition at corner and the safeties look impressive, and it frames how well Ward coaches this group as a major swing factor for the season. *(p. 119)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -326,6 +301,8 @@ Arizona State added some big-time transfers when looking at the defensive lineme
 | 8, 15, 18, 20, 36, 41, 45, 117, 140, 185, 197, 265, 297, 312 | Other pages naming this team |
 
 This team is named in **29 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 15, 18, 20, 36, 41, 45, 117, 140, 185, 197, 265, 297, 312.
 
 ## 29. Cross-Links
 

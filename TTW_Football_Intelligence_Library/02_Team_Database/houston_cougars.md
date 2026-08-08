@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 8.2–3.8 overall, 5.4–3.6 in conference |
 | **Schedule strength** | 41.96 (#66 toughest of 138) |
 
-### Season outlook as written in the guide (p. 128)
+### Season outlook — VSiN's analysis in reference form (p. 128)
 
-Willie Fritz has won at a high level everywhere, so it should come as no surprise that he has some serious momentum at Houston. This program has been viewed as a sleeping giant for years, and Fritz was the perfect hire to get the Cougars over the hump. Fritz only needed two years to turn Houston into a 10-win team, as last year’s group won nine games and then added a 10th with a victory over LSU in the Texas Bowl. The next step for the Cougars is making the College Football Playoff. Houston’s win total is either 7.5 or 8.5 depending on where you look, but this team has a ton of talent — with 19 projected starters who started in 2025 — and a reasonable schedule. There isn’t much preventing the Cougars from turning in a special season, and we’ll learn a lot about them when they travel to Lubbock for a meeting with Texas Tech on September 18. Over 7.5 Not only is Houston worthy of a juiced Over at 7.5 wins, but this is a team worth attacking with some alternates. There’s a real chance the Cougars earn double-digit wins this year, with road games at Texas Tech and Utah being the only two spots on the schedule where Houston should be getting points. Fritz has done a good job of building this program up, going 4-8 in Year 1 and rapidly improving to 10-3 in Year 2. Well, the team he’s putting on the field in Year 3 is arguably the most talented group he has ever coached, which says a lot considering the kind of success he had at Tulane. Making the College Football Playoff is on the table in 2026.
+- Willie Fritz has won everywhere, and the guide treats his momentum at Houston as unsurprising. The programme has long been seen as a sleeping giant and he is called the perfect hire to get it over the hump. *(p. 128)*
+- He needed two years to make Houston a ten-win team: nine regular-season wins plus a Texas Bowl victory over LSU. *(p. 128)*
+- The next step is the College Football Playoff. The guide notes the win total is listed at either 7.5 or 8.5 depending on the book, and that Houston has 19 projected starters who started in 2025 plus a reasonable schedule. *(p. 128)*
+- It identifies the 18 September trip to Texas Tech as the game that will teach us most about them. *(p. 128)*
+- Recommendation is Over 7.5 wins, and the guide goes further — calling this a team worth attacking with alternate lines and seeing a real chance of double-digit wins. *(p. 128)*
+- Its market read is specific: road games at Texas Tech and Utah are the only two spots where Houston should be receiving points. *(p. 128)*
+- On trajectory it notes Fritz went 4-8 in year one and 10-3 in year two, and calls this year-three roster arguably the most talented he has ever coached — significant given his success at Tulane. Playoff qualification is on the table. *(p. 128)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +86,10 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- This program has been viewed as a sleeping giant for years, and Fritz was the perfect hire to get the Cougars over the hump. *(p. 128)*
-- Well, the team he’s putting on the field in Year 3 is arguably the most talented group he has ever coached, which says a lot considering the kind of success he had at Tulane. *(p. 128)*
-- Defensive coordinator Austin Armstrong has the talent, size, and depth he needs to accomplish that. *(p. 129)*
+- Willie Fritz has won everywhere, and the guide treats his momentum at Houston as unsurprising. The programme has long been seen as a sleeping giant and he is called the perfect hire to get it over the hump. *(p. 128)*
+- On trajectory it notes Fritz went 4-8 in year one and 10-3 in year two, and calls this year-three roster arguably the most talented he has ever coached — significant given his success at Tulane. Playoff qualification is on the table. *(p. 128)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- HOUSTON It took only one year for coach Willie Fritz to turn around the Cougars, who went from 4-8 in his debut to 10-3 last season. *(p. 19)*
+Also referenced on **pp. 19** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,12 +97,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 128)*.
 
-- Weigman was, however, a little inefficient as a passer, finishing with a PFF grade of 63.5 as a thrower. *(p. 129)*
+- **Can Fritz afford to keep QB Keisean Henderson on the bench all season?** Conner Weigman was solid, throwing for 2,705 yards with 25 touchdowns and nine interceptions plus 700 rushing yards and 11 scores, but the guide qualifies that: he was a little inefficient as a passer with a 63.5 PFF throwing grade and struggled badly in some of Houston's biggest games. That makes Henderson's presence interesting — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. The guide's reasoning is that elite quarterback play could make Houston a legitimate national title contender, which will make playing him tempting. *(p. 129)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Houston’s offense should be high-flying as veteran quarterback Conner Weigman (36 total touchdowns, including 25 through the air) comes back and is backed up by No. 1-ranked recruit Keisean Henderson. *(p. 19)*
-- I fully expect dual-threat QB and former Houston Cougar Austin Carlisle to play a lot here. *(p. 337)*
+Also referenced on **pp. 19, 337** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -113,39 +115,26 @@ The Stability Score table prints the same figure independently: **19 returning s
 
 ## 11. Transfer Portal
 
-- Hughes was one of the top running backs in football as both a freshman and a sophomore, and big things were expected from him when he transferred to Oregon for the 2025 season. *(p. 129)*
-- This year, nine players who started games in 2025 are here on defense, and some intriguing transfers — like Ashton Porter, De’Marion Thomas, and Jordan Allen — will make this a more dynamic group. *(p. 129)*
+- **Is Houston getting the Tulane version of Makhi Hughes?** Hughes ran for 1,401 yards and 15 touchdowns with 19 catches for 176 yards and two scores in 2024, and was among the best backs in the sport as a freshman and sophomore. Expectations were high when he transferred to Oregon, but he was a non-factor and redshirted after four games. Reunited with Fritz, he heads a loaded backfield. The guide's case is that he has thrived in this system before and will run behind a much improved line, expecting him to return to stardom as the head of the snake. *(p. 129)*
+- **Does this defense have the potential to be a top-15 unit in the country?** Houston tied for 41st nationally in Adjusted EPA per play allowed at -0.05. Nine players who started games return, with transfers Ashton Porter, De'Marion Thomas and Jordan Allen adding dynamism. The guide's conditions are specific: a slight rise in pass-rush production plus steadier secondary play. Houston allowed 22.8 points per game and the goal is shaving roughly a field goal, which it judges within reach given coordinator Austin Armstrong has the talent, size and depth. *(p. 129)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While Oregon DE transfer Ashton Porter, Oklahoma State DE De’Marion Thomas and Ole Miss LB Jaden Yates came to Houston to get more playing time. *(p. 11)*
+Referenced in the guide on **pp. 11** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Henderson was a five-star recruit who could have gone anywhere in the country, but he chose to play for the Cougars. *(p. 129)*
-- Hughes was one of the top running backs in football as both a freshman and a sophomore, and big things were expected from him when he transferred to Oregon for the 2025 season. *(p. 129)*
+- **Can Fritz afford to keep QB Keisean Henderson on the bench all season?** Conner Weigman was solid, throwing for 2,705 yards with 25 touchdowns and nine interceptions plus 700 rushing yards and 11 scores, but the guide qualifies that: he was a little inefficient as a passer with a 63.5 PFF throwing grade and struggled badly in some of Houston's biggest games. That makes Henderson's presence interesting — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. The guide's reasoning is that elite quarterback play could make Houston a legitimate national title contender, which will make playing him tempting. *(p. 129)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Houston’s offense should be high-flying as veteran quarterback Conner Weigman (36 total touchdowns, including 25 through the air) comes back and is backed up by No. 1-ranked recruit Keisean Henderson. *(p. 19)*
-- HOUSTON - OVER 8.5 WINS The move to the Big 12 has helped Houston put together its best fiveyear recruiting classes on record. *(p. 22)*
+Referenced in the guide on **pp. 19, 22** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Hughes has cooked in this system in the past, and he’ll be running behind a much-improved offensive line. *(p. 129)*
-- With a slight spike in pass-rushing production, along with steadier play in the secondary, this can be a very good defense. *(p. 129)*
+- **Is Houston getting the Tulane version of Makhi Hughes?** Hughes ran for 1,401 yards and 15 touchdowns with 19 catches for 176 yards and two scores in 2024, and was among the best backs in the sport as a freshman and sophomore. Expectations were high when he transferred to Oregon, but he was a non-factor and redshirted after four games. Reunited with Fritz, he heads a loaded backfield. The guide's case is that he has thrived in this system before and will run behind a much improved line, expecting him to return to stardom as the head of the snake. *(p. 129)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Overmyer will get plenty of looks in this Houston offense. *(p. 11)*
-- Houston’s offense should be high-flying as veteran quarterback Conner Weigman (36 total touchdowns, including 25 through the air) comes back and is backed up by No. 1-ranked recruit Keisean Henderson. *(p. 19)*
-- Championship steve makinen power rating make the playoff RANK # CONFERENCE: NATIONAL: # RANK (Sam) Houston, what are the problems on offense? *(p. 205)*
+Referenced in the guide on **pp. 11, 19, 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- This year, nine players who started games in 2025 are here on defense, and some intriguing transfers — like Ashton Porter, De’Marion Thomas, and Jordan Allen — will make this a more dynamic group. *(p. 129)*
-- With a slight spike in pass-rushing production, along with steadier play in the secondary, this can be a very good defense. *(p. 129)*
-- Defensive coordinator Austin Armstrong has the talent, size, and depth he needs to accomplish that. *(p. 129)*
+- **Does this defense have the potential to be a top-15 unit in the country?** Houston tied for 41st nationally in Adjusted EPA per play allowed at -0.05. Nine players who started games return, with transfers Ashton Porter, De'Marion Thomas and Jordan Allen adding dynamism. The guide's conditions are specific: a slight rise in pass-rush production plus steadier secondary play. Houston allowed 22.8 points per game and the goal is shaving roughly a field goal, which it judges within reach given coordinator Austin Armstrong has the talent, size and depth. *(p. 129)*
 
 ## 15. Key Strengths
 
@@ -214,22 +203,15 @@ Prices printed on the team page *(p. 129)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- The next step is the College Football Playoff. The guide notes the win total is listed at either 7.5 or 8.5 depending on the book, and that Houston has 19 projected starters who started in 2025 plus a reasonable schedule. *(p. 128)*
+- Recommendation is Over 7.5 wins, and the guide goes further — calling this a team worth attacking with alternate lines and seeing a real chance of double-digit wins. *(p. 128)*
+- Its market read is specific: road games at Texas Tech and Utah are the only two spots where Houston should be receiving points. *(p. 128)*
 
 ## 22. Historical / Situational Trends
 
-- Fritz only needed two years to turn Houston into a 10-win team, as last year’s group won nine games and then added a 10th with a victory over LSU in the Texas Bowl. *(p. 128)*
-- Houston’s win total is either 7.5 or 8.5 depending on where you look, but this team has a ton of talent — with 19 projected starters who started in 2025 — and a reasonable schedule. *(p. 128)*
-- Well, the team he’s putting on the field in Year 3 is arguably the most talented group he has ever coached, which says a lot considering the kind of success he had at Tulane. *(p. 128)*
-- Making the College Football Playoff is on the table in 2026. *(p. 128)*
-- Conner Weigman was solid for Houston last season, throwing for 2,705 yards with 25 touchdowns and nine interceptions. *(p. 129)*
-- In 2024, Hughes rushed for 1,401 yards with 15 touchdowns for the Green Wave. *(p. 129)*
-- Last season, Houston was tied for 41st in the nation in Game on Paper’s Adjusted EPA/Play Allowed (-0.05). *(p. 129)*
-- This year, nine players who started games in 2025 are here on defense, and some intriguing transfers — like Ashton Porter, De’Marion Thomas, and Jordan Allen — will make this a more dynamic group. *(p. 129)*
+- He needed two years to make Houston a ten-win team: nine regular-season wins plus a Texas Bowl victory over LSU. *(p. 128)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- HOUSTON OVER 8.5 WINS (+130) I hate going back to the same team two years in a row in this guide, but they cashed last year going 10-3, and I like their chances this year. *(p. 11)*
-- HOUSTON It took only one year for coach Willie Fritz to turn around the Cougars, who went from 4-8 in his debut to 10-3 last season. *(p. 19)*
+Referenced in the guide on **pp. 11, 19** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -275,40 +257,37 @@ As printed on p. 129. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 7.5**.
-- Well, the team he’s putting on the field in Year 3 is arguably the most talented group he has ever coached, which says a lot considering the kind of success he had at Tulane. *(p. 128)*
-- It’s going to be tempting for Fritz to get him on the field at some point, as elite play under center could turn Houston into a legitimate national title contender. *(p. 129)*
-- Hughes has cooked in this system in the past, and he’ll be running behind a much-improved offensive line. *(p. 129)*
-- He should return to stardom and serve as the head of the snake for a very good football team. *(p. 129)*
-- HOUSTON - OVER 8.5 WINS The move to the Big 12 has helped Houston put together its best fiveyear recruiting classes on record. *(p. 22)*
-- We also saw a tremendous season out of conference runner-up BYU, we witnessed Utah and Houston win double-digit games, and the depth of the league was impressive with nine teams finishing with winning records. *(p. 115)*
-- However, there are way too many holes in the depth chart to be too optimistic, and games against Houston and Texas Tech to open the season will put the Beavers in a hole in early September. *(p. 272)*
+- On trajectory it notes Fritz went 4-8 in year one and 10-3 in year two, and calls this year-three roster arguably the most talented he has ever coached — significant given his success at Tulane. Playoff qualification is on the table. *(p. 128)*
+- Conner Weigman was solid, throwing for 2,705 yards with 25 touchdowns and nine interceptions plus 700 rushing yards and 11 scores, but the guide qualifies that: he was a little inefficient as a passer with a 63.5 PFF throwing grade and struggled badly in some of Houston's biggest games. That makes Henderson's presence interesting — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. The guide's reasoning is that elite quarterback play could make Houston a legitimate national title contender, which will make playing him tempting. *(p. 129)*
+- Hughes ran for 1,401 yards and 15 touchdowns with 19 catches for 176 yards and two scores in 2024, and was among the best backs in the sport as a freshman and sophomore. Expectations were high when he transferred to Oregon, but he was a non-factor and redshirted after four games. Reunited with Fritz, he heads a loaded backfield. The guide's case is that he has thrived in this system before and will run behind a much improved line, expecting him to return to stardom as the head of the snake. *(p. 129)*
+- Houston tied for 41st nationally in Adjusted EPA per play allowed at -0.05. Nine players who started games return, with transfers Ashton Porter, De'Marion Thomas and Jordan Allen adding dynamism. The guide's conditions are specific: a slight rise in pass-rush production plus steadier secondary play. Houston allowed 22.8 points per game and the goal is shaving roughly a field goal, which it judges within reach given coordinator Austin Armstrong has the talent, size and depth. *(p. 129)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **8.2 wins** against a posted total of 8.5 — **-0.3** against this team.
-- He also struggled mightily in some of Houston’s biggest games. *(p. 129)*
-- While Oregon DE transfer Ashton Porter, Oklahoma State DE De’Marion Thomas and Ole Miss LB Jaden Yates came to Houston to get more playing time. *(p. 11)*
+- Conner Weigman was solid, throwing for 2,705 yards with 25 touchdowns and nine interceptions plus 700 rushing yards and 11 scores, but the guide qualifies that: he was a little inefficient as a passer with a 63.5 PFF throwing grade and struggled badly in some of Houston's biggest games. That makes Henderson's presence interesting — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. The guide's reasoning is that elite quarterback play could make Houston a legitimate national title contender, which will make playing him tempting. *(p. 129)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 129)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 129)*. Its analysis, in reference form:
 
 ### Can Fritz afford to keep QB Keisean Henderson on the bench all season?
 
-Conner Weigman was solid for Houston last season, throwing for 2,705 yards with 25 touchdowns and nine interceptions. He also rushed for 700 yards and 11 scores. Weigman was, however, a little inefficient as a passer, finishing with a PFF grade of 63.5 as a thrower. He also struggled mightily in some of Houston’s biggest games. That makes things interesting with Henderson lurking. Henderson was a five-star recruit who could have gone anywhere in the country, but he chose to play for the Cougars. The 18-year-old has top-tier mobility and a smooth delivery. It’s going to be tempting for Fritz to get him on the field at some point, as elite play under center could turn Houston into a legitimate national title contender.
+Conner Weigman was solid, throwing for 2,705 yards with 25 touchdowns and nine interceptions plus 700 rushing yards and 11 scores, but the guide qualifies that: he was a little inefficient as a passer with a 63.5 PFF throwing grade and struggled badly in some of Houston's biggest games. That makes Henderson's presence interesting — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. The guide's reasoning is that elite quarterback play could make Houston a legitimate national title contender, which will make playing him tempting. *(p. 129)*
 
 ### Is Houston getting the Tulane version of Makhi Hughes?
 
-In 2024, Hughes rushed for 1,401 yards with 15 touchdowns for the Green Wave. He also caught 19 passes for 176 yards and two touchdowns. Hughes was one of the top running backs in football as both a freshman and a sophomore, and big things were expected from him when he transferred to Oregon for the 2025 season. However, Hughes was a non-factor in Eugene, so he decided to redshirt after four games. Now, Hughes reunites with Fritz in Houston, where he’ll be the top back in a loaded backfield. Hughes has cooked in this system in the past, and he’ll be running behind a much-improved offensive line. He should return to stardom and serve as the head of the snake for a very good football team.
+Hughes ran for 1,401 yards and 15 touchdowns with 19 catches for 176 yards and two scores in 2024, and was among the best backs in the sport as a freshman and sophomore. Expectations were high when he transferred to Oregon, but he was a non-factor and redshirted after four games. Reunited with Fritz, he heads a loaded backfield. The guide's case is that he has thrived in this system before and will run behind a much improved line, expecting him to return to stardom as the head of the snake. *(p. 129)*
 
 ### Does this defense have the potential to be a top-15 unit in the country?
 
-Last season, Houston was tied for 41st in the nation in Game on Paper’s Adjusted EPA/Play Allowed (-0.05). This year, nine players who started games in 2025 are here on defense, and some intriguing transfers — like Ashton Porter, De’Marion Thomas, and Jordan Allen — will make this a more dynamic group. With a slight spike in pass-rushing production, along with steadier play in the secondary, this can be a very good defense. Houston gave up only 22.8 points per game a season ago, and the goal will be shaving off a field goal or so. Defensive coordinator Austin Armstrong has the talent, size, and depth he needs to accomplish that.
+Houston tied for 41st nationally in Adjusted EPA per play allowed at -0.05. Nine players who started games return, with transfers Ashton Porter, De'Marion Thomas and Jordan Allen adding dynamism. The guide's conditions are specific: a slight rise in pass-rush production plus steadier secondary play. Houston allowed 22.8 points per game and the goal is shaving roughly a field goal, which it judges within reach given coordinator Austin Armstrong has the talent, size and depth. *(p. 129)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -326,6 +305,8 @@ No source conflict identified for this team.
 | 8, 11, 15, 19, 22, 41, 64, 126, 134, 140, 205, 272, 322, 337 | Other pages naming this team |
 
 This team is named in **37 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 8, 11, 15, 19, 22, 41, 64, 126, 134, 140, 205, 272, 322, 337.
 
 ## 29. Cross-Links
 

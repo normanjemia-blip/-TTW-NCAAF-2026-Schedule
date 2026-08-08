@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 5.7–6.3 overall, 3.9–5.1 in conference |
 | **Schedule strength** | 45.6 (#41 toughest of 138) |
 
-### Season outlook as written in the guide (p. 136)
+### Season outlook — VSiN's analysis in reference form (p. 136)
 
-Oklahoma State is one of the most fascinating teams in the country. There will likely be a statue of Mike Gundy in Stillwater at some point, but it was clear the game passed him by. He had zero interest in adjusting to the new age of college football, which is why the Cowboys went a combined 4-11 under his watch in 2024 and 2025. That forced Oklahoma State’s hand in moving on, and the team ultimately decided on Eric Morris as the new leader of the program. North Texas went 12-2 last season — with Morris on the sidelines for 11 of the wins — and had the most explosive offense in college football. He’s another Air Raid coach who brings a ton of excitement to this storied team, and he also brought a bunch of his former players in for Year 1. Playing in the Big 12 means a quick turnaround won’t be easy for Morris, who went 5-7 in his first year with North Texas. However, he has some legitimate stars playing for his offense, including Drew Mestemaker. So, even if this season isn’t a smashing success, it will be fun to watch. Over 5.5 The way this defense looks is definitely a bit concerning, but Cassity has done more with less. Realistically, as long as this offense lives up to expectations, wins will come with a manageable schedule. Oklahoma State should beat Tulsa and Murray State easily, and home games against UCF, Colorado, and Kansas should be winnable. If the Cowboys can just take care of those five, hitting the Over means the Pokes need one road win in games against West Virginia, Iowa State, and Kansas State. That feels like it’s going to happen.
+- The guide expects a Mike Gundy statue in Stillwater eventually while judging plainly that the game passed him by: he had zero interest in adjusting to the new era, and Oklahoma State went a combined 4-11 in 2024 and 2025. *(p. 136)*
+- That forced the programme's hand, and it hired Eric Morris. North Texas went 12-2 last season with Morris on the sideline for 11 of the wins and had the most explosive offense in college football. *(p. 136)*
+- Another Air Raid coach bringing excitement, Morris also brought a group of his former players for year one. *(p. 136)*
+- The guide tempers expectations with precedent: the Big 12 makes a quick turnaround hard, and Morris himself went 5-7 in his first year at North Texas. It notes he has legitimate offensive stars including Drew Mestemaker, so even short of success this should be fun to watch. *(p. 136)*
+- Recommendation is Over 5.5 wins. The guide calls the defense's look concerning while crediting coordinator Skyler Cassity with doing more with less. *(p. 136)*
+- Its path is arithmetic: easy wins over Tulsa and Murray State, winnable home games against UCF, Colorado and Kansas, and then just one road win needed from West Virginia, Iowa State and Kansas State — which it expects to happen. *(p. 136)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,13 +87,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- He’s another Air Raid coach who brings a ton of excitement to this storied team, and he also brought a bunch of his former players in for Year 1. *(p. 136)*
+- The guide expects a Mike Gundy statue in Stillwater eventually while judging plainly that the game passed him by: he had zero interest in adjusting to the new era, and Oklahoma State went a combined 4-11 in 2024 and 2025. *(p. 136)*
+- That forced the programme's hand, and it hired Eric Morris. North Texas went 12-2 last season with Morris on the sideline for 11 of the wins and had the most explosive offense in college football. *(p. 136)*
+- Another Air Raid coach bringing excitement, Morris also brought a group of his former players for year one. *(p. 136)*
+- The guide tempers expectations with precedent: the Big 12 makes a quick turnaround hard, and Morris himself went 5-7 in his first year at North Texas. It notes he has legitimate offensive stars including Drew Mestemaker, so even short of success this should be fun to watch. *(p. 136)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, former head coach Eric Morris and many of that team’s key pieces have migrated northward to Stillwater, Oklahoma, where they will suit up for the Oklahoma State Cowboys in 2026. *(p. 7)*
-- OKLAHOMA STATE Mike Gundy is out after two decades, and new coach Eric Morris brings a big offensive reputation with him from North Texas. *(p. 20)*
-- He then decided to follow head coach Eric Morris from North Texas to Oklahoma State, where he’ll be playing alongside several of his former teammates. *(p. 39)*
+Also referenced on **pp. 7, 20, 39** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -94,11 +100,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 136)*.
 
-- Mestemaker was the best Group of Five quarterback in the nation last year, and he also posted the best numbers of all FBS quarterbacks. *(p. 137)*
+- The guide tempers expectations with precedent: the Big 12 makes a quick turnaround hard, and Morris himself went 5-7 in his first year at North Texas. It notes he has legitimate offensive stars including Drew Mestemaker, so even short of success this should be fun to watch. *(p. 136)*
+- **Is Mestemaker capable of consistently lighting up Power Four competition?** Mestemaker was the best Group of Five quarterback in the country and posted the best numbers of any FBS quarterback, with NFL scouts drawn to his arm, mobility and ability to read defenses. The guide raises the translation question and supplies specific counter-evidence: he had more interceptions than touchdowns in two of North Texas's biggest games, against South Florida and at Tulane. It is fair in noting those losses were not only on him, while insisting he must prove he can handle tougher competition, and identifies the 12 September game against Oregon as the early test. *(p. 137)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- DREW MESTEMAKER OKLAHOMA STATE (75-1) Mestemaker led all of FBS in passing yards last year, throwing for 4,379 yards, 34 touchdowns, and nine interceptions in a masterful freshman season. *(p. 39)*
+Also referenced on **pp. 39** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -114,50 +119,29 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- Oklahoma State lost seven players from last year’s group of offensive line options, so Morris went out and hit the portal. *(p. 137)*
-- Outside of that, they’re banking on youth and unproven transfers. *(p. 137)*
+- Another Air Raid coach bringing excitement, Morris also brought a group of his former players for year one. *(p. 136)*
+- **Did Morris do well enough in building out this offensive line?** Oklahoma State lost seven players from last year's offensive line options, so Morris went to the portal, adding second-team All-AAC guard Johnny Dickson, three Power Four starters and a starting guard from Coastal Carolina. The guide notes experience will not be lacking but leaves quality genuinely open. Morris is excited about how it is coming together and added depth. It frames this as one of the most important position groups in the country this year, because the line must hold up for the offense to explode in the Big 12. *(p. 137)*
+- **Does this defense have enough legitimate dudes?** North Texas's 0.06 Adjusted EPA per play allowed was poor, but good enough to let Mestemaker win games — which the guide says is the goal again. Cassity was praised for turning that defense into a high-turnover unit and will hope the aggressive style works in the Big 12. The problem it identifies is talent: only four players who started in 2025 are in the projected lineup, with the rest youth and unproven transfers. Its conclusion is direct — this could be one of the Big 12's worst defenses, which is why it is hard to fully buy Oklahoma State as a conference sleeper. *(p. 137)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While Oregon DE transfer Ashton Porter, Oklahoma State DE De’Marion Thomas and Ole Miss LB Jaden Yates came to Houston to get more playing time. *(p. 11)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
-- Chris Brooks Jr. and Eugene Hilton return, along with the additions of Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. *(p. 185)*
-- The projected starting corners are from Duke and FAU, while the player replacing Clark’s role is a multi-time transfer, most recently from Oklahoma State. *(p. 191)*
-- Still, Farrar could have a difficult time beating out Oklahoma State transfer Hauss Hejny, who was a higher-ranked recruit. *(p. 269)*
+Referenced in the guide on **pp. 11, 135, 175, 185, 191, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- DREW MESTEMAKER OKLAHOMA STATE (75-1) Mestemaker led all of FBS in passing yards last year, throwing for 4,379 yards, 34 touchdowns, and nine interceptions in a masterful freshman season. *(p. 39)*
-- Still, Farrar could have a difficult time beating out Oklahoma State transfer Hauss Hejny, who was a higher-ranked recruit. *(p. 269)*
+Referenced in the guide on **pp. 39, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- North Texas went 12-2 last season — with Morris on the sidelines for 11 of the wins — and had the most explosive offense in college football. *(p. 136)*
-- However, he has some legitimate stars playing for his offense, including Drew Mestemaker. *(p. 136)*
-- Realistically, as long as this offense lives up to expectations, wins will come with a manageable schedule. *(p. 136)*
-- Oklahoma State lost seven players from last year’s group of offensive line options, so Morris went out and hit the portal. *(p. 137)*
-- This is one of the most important position groups in the country this year, as Morris needs the line to hold up in order for his offense to explode in the Big 12. *(p. 137)*
+- **Did Morris do well enough in building out this offensive line?** Oklahoma State lost seven players from last year's offensive line options, so Morris went to the portal, adding second-team All-AAC guard Johnny Dickson, three Power Four starters and a starting guard from Coastal Carolina. The guide notes experience will not be lacking but leaves quality genuinely open. Morris is excited about how it is coming together and added depth. It frames this as one of the most important position groups in the country this year, because the line must hold up for the offense to explode in the Big 12. *(p. 137)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OKLAHOMA STATE Mike Gundy is out after two decades, and new coach Eric Morris brings a big offensive reputation with him from North Texas. *(p. 20)*
-- Hayes didn’t put up eye-popping numbers, but did help lead the offense to 424 yards in the upset win over Oklahoma State that really opened some eyes about the direction of this program. *(p. 73)*
+Referenced in the guide on **pp. 20, 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Over 5.5 The way this defense looks is definitely a bit concerning, but Cassity has done more with less. *(p. 136)*
-- The 20-year-old has NFL scouts drooling over his big arm, his solid mobility, and his ability to read defenses. *(p. 137)*
-- North Texas’ 0.06 Adjusted EPA/Play Allowed mark was pretty miserable last year, but the Mean Green were good enough defensively to allow Mestemaker to win games with his arm. *(p. 137)*
-- Skyler Cassity was praised for the job he did in turning North Texas into a high-turnover defense last year, and he’ll be hoping an aggressive style pays off again in the Big 12. *(p. 137)*
-- This could be one of the worst defenses in the Big 12, which is why it’s hard to fully buy into Oklahoma State as a sleeper in the conference. *(p. 137)*
+- Recommendation is Over 5.5 wins. The guide calls the defense's look concerning while crediting coordinator Skyler Cassity with doing more with less. *(p. 136)*
+- **Does this defense have enough legitimate dudes?** North Texas's 0.06 Adjusted EPA per play allowed was poor, but good enough to let Mestemaker win games — which the guide says is the goal again. Cassity was praised for turning that defense into a high-turnover unit and will hope the aggressive style works in the Big 12. The problem it identifies is talent: only four players who started in 2025 are in the projected lineup, with the rest youth and unproven transfers. Its conclusion is direct — this could be one of the Big 12's worst defenses, which is why it is hard to fully buy Oklahoma State as a conference sleeper. *(p. 137)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
+Referenced in the guide on **pp. 135** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -237,28 +221,15 @@ Prices printed on the team page *(p. 137)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- Recommendation is Over 5.5 wins. The guide calls the defense's look concerning while crediting coordinator Skyler Cassity with doing more with less. *(p. 136)*
+- Its path is arithmetic: easy wins over Tulsa and Murray State, winnable home games against UCF, Colorado and Kansas, and then just one road win needed from West Virginia, Iowa State and Kansas State — which it expects to happen. *(p. 136)*
+- **Does this defense have enough legitimate dudes?** North Texas's 0.06 Adjusted EPA per play allowed was poor, but good enough to let Mestemaker win games — which the guide says is the goal again. Cassity was praised for turning that defense into a high-turnover unit and will hope the aggressive style works in the Big 12. The problem it identifies is talent: only four players who started in 2025 are in the projected lineup, with the rest youth and unproven transfers. Its conclusion is direct — this could be one of the Big 12's worst defenses, which is why it is hard to fully buy Oklahoma State as a conference sleeper. *(p. 137)*
 
 ## 22. Historical / Situational Trends
 
-- He had zero interest in adjusting to the new age of college football, which is why the Cowboys went a combined 4-11 under his watch in 2024 and 2025. *(p. 136)*
-- North Texas went 12-2 last season — with Morris on the sidelines for 11 of the wins — and had the most explosive offense in college football. *(p. 136)*
-- Mestemaker was the best Group of Five quarterback in the nation last year, and he also posted the best numbers of all FBS quarterbacks. *(p. 137)*
-- The sky truly feels like the limit for him, but how much of what he did last season will translate to the Big 12? *(p. 137)*
-- Those losses weren’t only on him, but he will need to prove that he can handle much tougher competition in 2026. *(p. 137)*
-- Oklahoma State lost seven players from last year’s group of offensive line options, so Morris went out and hit the portal. *(p. 137)*
-- One of the players he brought over was Johnny Dickson, who was a second- team All-AAC guard last year. *(p. 137)*
-- North Texas’ 0.06 Adjusted EPA/Play Allowed mark was pretty miserable last year, but the Mean Green were good enough defensively to allow Mestemaker to win games with his arm. *(p. 137)*
-- That will be the goal again in 2026. *(p. 137)*
-- Skyler Cassity was praised for the job he did in turning North Texas into a high-turnover defense last year, and he’ll be hoping an aggressive style pays off again in the Big 12. *(p. 137)*
-- The Cowboys only have four players who started in 2025 in their projected starting lineup. *(p. 137)*
+- The guide expects a Mike Gundy statue in Stillwater eventually while judging plainly that the game passed him by: he had zero interest in adjusting to the new era, and Oklahoma State went a combined 4-11 in 2024 and 2025. *(p. 136)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- However, former head coach Eric Morris and many of that team’s key pieces have migrated northward to Stillwater, Oklahoma, where they will suit up for the Oklahoma State Cowboys in 2026. *(p. 7)*
-- DREW MESTEMAKER OKLAHOMA STATE (75-1) Mestemaker led all of FBS in passing yards last year, throwing for 4,379 yards, 34 touchdowns, and nine interceptions in a masterful freshman season. *(p. 39)*
-- Grantham was making $1.3 million last season at Oklahoma State, but was fired just four games into the season. *(p. 75)*
-- Chiles also got a nice gift with the return of Jackson Carsello at center, which allows the highly-talented Ezomo Orotokhai to stay at guard, plus Grant Seagren, who started 12 games at Oklahoma State last year, slots in at left tackle. *(p. 167)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
+Referenced in the guide on **pp. 7, 39, 75, 167, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -305,43 +276,35 @@ As printed on p. 137. Each category carries a value and a national rank.
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 5.5**.
-- Mestemaker was the best Group of Five quarterback in the nation last year, and he also posted the best numbers of all FBS quarterbacks. *(p. 137)*
-- Eric Morris Oklahoma State A return to the glory days of Oklahoma State football may not be that far away. *(p. 31)*
-- Eric Morris is now at Oklahoma State after leading the Mean Green to probably the best season in program history. *(p. 62)*
-- Chiles also got a nice gift with the return of Jackson Carsello at center, which allows the highly-talented Ezomo Orotokhai to stay at guard, plus Grant Seagren, who started 12 games at Oklahoma State last year, slots in at left tackle. *(p. 167)*
-- While left tackle Joey Tanona returns, as many as four new starters from the portal could start including center Boaz Stanley (21 starts at South Carolina), left guard Micah Banuelos (5 starts at USC), and right tackle Nuki Mafi (12 starts last year at Oklahoma State). *(p. 175)*
-- Chris Brooks Jr. and Eugene Hilton return, along with the additions of Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. *(p. 185)*
+- Mestemaker was the best Group of Five quarterback in the country and posted the best numbers of any FBS quarterback, with NFL scouts drawn to his arm, mobility and ability to read defenses. The guide raises the translation question and supplies specific counter-evidence: he had more interceptions than touchdowns in two of North Texas's biggest games, against South Florida and at Tulane. It is fair in noting those losses were not only on him, while insisting he must prove he can handle tougher competition, and identifies the 12 September game against Oregon as the early test. *(p. 137)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Over 5.5 The way this defense looks is definitely a bit concerning, but Cassity has done more with less. *(p. 136)*
-- Those losses weren’t only on him, but he will need to prove that he can handle much tougher competition in 2026. *(p. 137)*
-- Oklahoma State lost seven players from last year’s group of offensive line options, so Morris went out and hit the portal. *(p. 137)*
-- While Oregon DE transfer Ashton Porter, Oklahoma State DE De’Marion Thomas and Ole Miss LB Jaden Yates came to Houston to get more playing time. *(p. 11)*
-- Kansas State appears to have addressed this by adding Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns, and Kentucky transfer Austin Ramsey — along with a few productive linebackers — but it’s difficult to bring in an entirely new crop of players. *(p. 135)*
-- The Mountaineers will face a tough Virginia team before hosting Oklahoma State to kick off the Big 12 season. *(p. 146)*
-- Still, Farrar could have a difficult time beating out Oklahoma State transfer Hauss Hejny, who was a higher-ranked recruit. *(p. 269)*
+- Recommendation is Over 5.5 wins. The guide calls the defense's look concerning while crediting coordinator Skyler Cassity with doing more with less. *(p. 136)*
+- Mestemaker was the best Group of Five quarterback in the country and posted the best numbers of any FBS quarterback, with NFL scouts drawn to his arm, mobility and ability to read defenses. The guide raises the translation question and supplies specific counter-evidence: he had more interceptions than touchdowns in two of North Texas's biggest games, against South Florida and at Tulane. It is fair in noting those losses were not only on him, while insisting he must prove he can handle tougher competition, and identifies the 12 September game against Oregon as the early test. *(p. 137)*
+- Oklahoma State lost seven players from last year's offensive line options, so Morris went to the portal, adding second-team All-AAC guard Johnny Dickson, three Power Four starters and a starting guard from Coastal Carolina. The guide notes experience will not be lacking but leaves quality genuinely open. Morris is excited about how it is coming together and added depth. It frames this as one of the most important position groups in the country this year, because the line must hold up for the offense to explode in the Big 12. *(p. 137)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 137)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 137)*. Its analysis, in reference form:
 
 ### Is Mestemaker capable of consistently lighting up Power Four competition?
 
-Mestemaker was the best Group of Five quarterback in the nation last year, and he also posted the best numbers of all FBS quarterbacks. The 20-year-old has NFL scouts drooling over his big arm, his solid mobility, and his ability to read defenses. The sky truly feels like the limit for him, but how much of what he did last season will translate to the Big 12? Mestemaker had more interceptions than touchdowns in two of the Mean Green’s biggest games (vs. South Florida and at Tulane). Those losses weren’t only on him, but he will need to prove that he can handle much tougher competition in 2026. We’ll learn a lot on September 12, as Oklahoma State will face Oregon.
+Mestemaker was the best Group of Five quarterback in the country and posted the best numbers of any FBS quarterback, with NFL scouts drawn to his arm, mobility and ability to read defenses. The guide raises the translation question and supplies specific counter-evidence: he had more interceptions than touchdowns in two of North Texas's biggest games, against South Florida and at Tulane. It is fair in noting those losses were not only on him, while insisting he must prove he can handle tougher competition, and identifies the 12 September game against Oregon as the early test. *(p. 137)*
 
 ### Did Morris do well enough in building out this offensive line?
 
-Oklahoma State lost seven players from last year’s group of offensive line options, so Morris went out and hit the portal. One of the players he brought over was Johnny Dickson, who was a second- team All-AAC guard last year. He also grabbed three Power Four starters, along with a starting guard from Coastal Carolina. This unit won’t be lacking in experience, but will it be good enough? Morris is pretty excited about the way the line is coming together, and he did add some solid depth pieces. This is one of the most important position groups in the country this year, as Morris needs the line to hold up in order for his offense to explode in the Big 12.
+Oklahoma State lost seven players from last year's offensive line options, so Morris went to the portal, adding second-team All-AAC guard Johnny Dickson, three Power Four starters and a starting guard from Coastal Carolina. The guide notes experience will not be lacking but leaves quality genuinely open. Morris is excited about how it is coming together and added depth. It frames this as one of the most important position groups in the country this year, because the line must hold up for the offense to explode in the Big 12. *(p. 137)*
 
 ### Does this defense have enough legitimate dudes?
 
-North Texas’ 0.06 Adjusted EPA/Play Allowed mark was pretty miserable last year, but the Mean Green were good enough defensively to allow Mestemaker to win games with his arm. That will be the goal again in 2026. Skyler Cassity was praised for the job he did in turning North Texas into a high-turnover defense last year, and he’ll be hoping an aggressive style pays off again in the Big 12. The issue is that this team is really lacking talent. The Cowboys only have four players who started in 2025 in their projected starting lineup. Outside of that, they’re banking on youth and unproven transfers. This could be one of the worst defenses in the Big 12, which is why it’s hard to fully buy into Oklahoma State as a sleeper in the conference.
+North Texas's 0.06 Adjusted EPA per play allowed was poor, but good enough to let Mestemaker win games — which the guide says is the goal again. Cassity was praised for turning that defense into a high-turnover unit and will hope the aggressive style works in the Big 12. The problem it identifies is talent: only four players who started in 2025 are in the projected lineup, with the rest youth and unproven transfers. Its conclusion is direct — this could be one of the Big 12's worst defenses, which is why it is hard to fully buy Oklahoma State as a conference sleeper. *(p. 137)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -359,6 +322,8 @@ No source conflict identified for this team.
 | 7, 11, 20, 31, 39, 62, 73, 75, 126, 135, 146, 167, 175, 185, 191, 269, 325 | Other pages naming this team |
 
 This team is named in **28 sentences across 19 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 7, 11, 20, 31, 39, 62, 73, 75, 126, 135, 146, 167, 175, 185, 191, 269, 325.
 
 ## 29. Cross-Links
 

@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 10.7–1.3 overall, 7.7–1.3 in conference |
 | **Schedule strength** | 41.18 (#69 toughest of 138) |
 
-### Season outlook as written in the guide (p. 140)
+### Season outlook — VSiN's analysis in reference form (p. 140)
 
-Texas Tech was a wagon last season. While the Red Raiders got shut out when they faced Oregon in the College Football Playoff, they ran through the Big 12 regular season — with their only loss coming in a road game at Arizona State, when starting quarterback Behren Morton was hurt — and finished seventh in the country in Net Adjusted EPA/Play (+0.17) at Game on Paper. Head coach Joey McGuire is fishing with dynamite when it comes to navigating the transfer portal. Texas Tech has as deep a funding pool as any program in the country, so this team is constantly able to load up on big-time performers. This offseason was no different, so the Red Raiders will be loaded again. Texas Tech enters this season with 15 players who started in 2025, so talent and experience won’t be issues. However, that number should have been 16, as the Red Raiders were supposed to have Brendan Sorsby. The star quarterback was one of the biggest prizes in the transfer portal, but he’s ineligible to play college football this year after being caught betting on sports earlier in his career. Over 10.5 Suggesting Texas Tech will win 11 games at nearly -200 odds is a tough sell, but it is pretty likely the team reaches that number. Even without an elite signal-caller, this team is absolutely loaded. The schedule is also extremely weak. The toughest road game the Red Raiders will play is at Baylor, and it’s just hard to imagine them losing to Houston, Arizona State, and TCU at home. Don’t be surprised if Tech cruises to the College Football Playoff. That’s where disappointing quarterback play and the slightest dip on defense could burn them.
+- Texas Tech was a wagon in 2025. It was shut out by Oregon in the playoff but ran through the Big 12 regular season, losing only at Arizona State when starting quarterback Behren Morton was hurt, and finished seventh nationally in Net Adjusted EPA per play at +0.17. *(p. 140)*
+- The guide describes Joey McGuire as fishing with dynamite in the portal, noting Texas Tech has as deep a funding pool as any programme, letting it constantly load up on big-time performers — and this offseason was no different. *(p. 140)*
+- Fifteen players who started in 2025 return, so talent and experience are not issues. *(p. 140)*
+- The guide records why that number is not 16: Brendan Sorsby, one of the portal's biggest prizes, is ineligible this year after being caught betting on sports earlier in his career. *(p. 140)*
+- Recommendation is Over 10.5 wins. It concedes selling 11 wins at nearly -200 is a tough ask while judging the number pretty likely. *(p. 140)*
+- Its case: even without an elite quarterback the roster is loaded, and the schedule is extremely weak — the hardest road game is at Baylor, and losses at home to Houston, Arizona State or TCU are hard to imagine. *(p. 140)*
+- It says not to be surprised if Texas Tech cruises to the playoff, and names the two things that could burn them there: disappointing quarterback play and the slightest defensive dip. *(p. 140)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,14 +86,10 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Head coach Joey McGuire is fishing with dynamite when it comes to navigating the transfer portal. *(p. 140)*
-- But he’s also inexperienced, he’s coming off a torn ACL, and this coaching staff probably wanted him on the bench another year or two. *(p. 141)*
+- The guide describes Joey McGuire as fishing with dynamite in the portal, noting Texas Tech has as deep a funding pool as any programme, letting it constantly load up on big-time performers — and this offseason was no different. *(p. 140)*
+- **Do the Red Raiders have another top-five defensive season in them?** The 2025 numbers were exceptional: first nationally in Adjusted EPA per play allowed at -0.25, fifth in yards per play allowed at 5.6, first in havoc rate at 19.3%, and only two teams allowed fewer than 11.8 points per game. Many top contributors are gone including No. 2 overall pick David Bailey. The guide's grounds for optimism are specific: McGuire likes the young pieces stepping into bigger roles, Austin Romaine and Brice Pollock return, Miami (Ohio) transfer Adam Trick is a legitimate star addition, and Shiel Wood has proven a fantastic play-caller. It expects the unit to be special again. *(p. 141)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Texas Tech signed 20.” Lastly, head coach Joey McGuire has said on multiple occasions that he expects QB Will Hammond to be ready for Week 1. *(p. 15)*
-- It was his work as an OC at Troy, Texas Tech, and Kentucky that got him his first head coaching job. *(p. 63)*
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
+Also referenced on **pp. 15, 63, 203** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -93,18 +97,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 140)*.
 
-- While the Red Raiders got shut out when they faced Oregon in the College Football Playoff, they ran through the Big 12 regular season — with their only loss coming in a road game at Arizona State, when starting quarterback Behren Morton was hurt — and finished seventh in the country in Net Adjusted EPA/Play (+0.17) at Game on Paper. *(p. 140)*
-- The star quarterback was one of the biggest prizes in the transfer portal, but he’s ineligible to play college football this year after being caught betting on sports earlier in his career. *(p. 140)*
-- Even without an elite signal-caller, this team is absolutely loaded. *(p. 140)*
-- That’s where disappointing quarterback play and the slightest dip on defense could burn them. *(p. 140)*
-- He actually went on the road and threw for 169 yards with two touchdowns and no picks in a beatdown of Utah, and he added 61 yards on the ground in that one. *(p. 141)*
+- The guide records why that number is not 16: Brendan Sorsby, one of the portal's biggest prizes, is ineligible this year after being caught betting on sports earlier in his career. *(p. 140)*
+- It says not to be surprised if Texas Tech cruises to the playoff, and names the two things that could burn them there: disappointing quarterback play and the slightest defensive dip. *(p. 140)*
+- **Should Will Hammond be the starter for a top-tier team?** Hammond had solid moments, including a road performance at Utah with 169 passing yards, two touchdowns, no interceptions and 61 rushing yards in a blowout win. The guide's reservation is contextual rather than statistical: Texas Tech was not planning to start him, and handing the keys to a championship-caliber team is a big responsibility. It weighs both sides — a four-star recruit who is athletic and reasonably accurate, but inexperienced, coming off a torn ACL, and a player the staff probably wanted on the bench another year or two — concluding there is uncertainty at the most important position. *(p. 141)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Texas Tech signed 20.” Lastly, head coach Joey McGuire has said on multiple occasions that he expects QB Will Hammond to be ready for Week 1. *(p. 15)*
-- TEXAS TECH This news did not fly under the radar: quarterback Brendan Sorsby, a transfer from Cincinnati, departed the program amid a gambling controversy. *(p. 18)*
-- However, Texas Tech will have to do it without Brendan Sorsby, who was supposed to take the passing game to another level before a gambling scandal derailed everything. *(p. 115)*
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
+Also referenced on **pp. 15, 18, 115, 203** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -120,38 +117,32 @@ The Stability Score table prints the same figure independently: **15 returning s
 
 ## 11. Transfer Portal
 
-- Head coach Joey McGuire is fishing with dynamite when it comes to navigating the transfer portal. *(p. 140)*
-- The star quarterback was one of the biggest prizes in the transfer portal, but he’s ineligible to play college football this year after being caught betting on sports earlier in his career. *(p. 140)*
-- That means this team will be relying on part-time starters who transferred in, or on younger players. *(p. 141)*
-- However, McGuire loves some of the young pieces that will have bigger roles in 2026, Austin Romaine and Brice Pollock are both back, and the team added a legitimate star in Miami (Ohio) transfer Adam Trick. *(p. 141)*
+- The guide describes Joey McGuire as fishing with dynamite in the portal, noting Texas Tech has as deep a funding pool as any programme, letting it constantly load up on big-time performers — and this offseason was no different. *(p. 140)*
+- The guide records why that number is not 16: Brendan Sorsby, one of the portal's biggest prizes, is ineligible this year after being caught betting on sports earlier in his career. *(p. 140)*
+- **Will there be a significant dropoff in offensive line play?** Texas Tech lost two starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players. The guide calls that short of a deathblow while setting two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. It names weaker blocking as one of the few things that could derail the season. *(p. 141)*
+- **Do the Red Raiders have another top-five defensive season in them?** The 2025 numbers were exceptional: first nationally in Adjusted EPA per play allowed at -0.25, fifth in yards per play allowed at 5.6, first in havoc rate at 19.3%, and only two teams allowed fewer than 11.8 points per game. Many top contributors are gone including No. 2 overall pick David Bailey. The guide's grounds for optimism are specific: McGuire likes the young pieces stepping into bigger roles, Austin Romaine and Brice Pollock return, Miami (Ohio) transfer Adam Trick is a legitimate star addition, and Shiel Wood has proven a fantastic play-caller. It expects the unit to be special again. *(p. 141)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TEXAS TECH This news did not fly under the radar: quarterback Brendan Sorsby, a transfer from Cincinnati, departed the program amid a gambling controversy. *(p. 18)*
-- Miami transfer Emory Williams and now four-time transfer Mitch Griffis, who was at Texas Tech last season, are the main options. *(p. 55)*
-- Trever Jackson from Arkansas and JUCO transfer Tre Guerra, who also had offers from Texas Tech, Kentucky, Florida State, LSU, and Virginia, are other options. *(p. 321)*
+Referenced in the guide on **pp. 18, 55, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Hammond was a four-star recruit out of high school, he’s athletic, and he’s pretty accurate. *(p. 141)*
+
+Referenced in the guide on **pp. 141** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Last year, Texas Tech was first in the nation in Game on Paper’s Adjusted EPA/Play Allowed (-0.25), fifth in Yards Per Play Allowed (5.6), and first in Havoc Rate (19.3%). *(p. 141)*
+- Fifteen players who started in 2025 return, so talent and experience are not issues. *(p. 140)*
+- **Will there be a significant dropoff in offensive line play?** Texas Tech lost two starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players. The guide calls that short of a deathblow while setting two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. It names weaker blocking as one of the few things that could derail the season. *(p. 141)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Sanchez and OC David Yost, who has run productive offenses in the past at Texas Tech and Utah State, have choices at QB this season. *(p. 203)*
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
+Referenced in the guide on **pp. 203, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- That’s where disappointing quarterback play and the slightest dip on defense could burn them. *(p. 140)*
-- Shiel Wood has also proven to be a fantastic defensive play-caller. *(p. 141)*
+- Fifteen players who started in 2025 return, so talent and experience are not issues. *(p. 140)*
+- It says not to be surprised if Texas Tech cruises to the playoff, and names the two things that could burn them there: disappointing quarterback play and the slightest defensive dip. *(p. 140)*
+- **Do the Red Raiders have another top-five defensive season in them?** The 2025 numbers were exceptional: first nationally in Adjusted EPA per play allowed at -0.25, fifth in yards per play allowed at 5.6, first in havoc rate at 19.3%, and only two teams allowed fewer than 11.8 points per game. Many top contributors are gone including No. 2 overall pick David Bailey. The guide's grounds for optimism are specific: McGuire likes the young pieces stepping into bigger roles, Austin Romaine and Brice Pollock return, Miami (Ohio) transfer Adam Trick is a legitimate star addition, and Shiel Wood has proven a fantastic play-caller. It expects the unit to be special again. *(p. 141)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
+Referenced in the guide on **pp. 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -249,32 +240,16 @@ Prices printed on the team page *(p. 141)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- The star quarterback was one of the biggest prizes in the transfer portal, but he’s ineligible to play college football this year after being caught betting on sports earlier in his career. *(p. 140)*
+- Recommendation is Over 10.5 wins. It concedes selling 11 wins at nearly -200 is a tough ask while judging the number pretty likely. *(p. 140)*
+- Its case: even without an elite quarterback the roster is loaded, and the schedule is extremely weak — the hardest road game is at Baylor, and losses at home to Houston, Arizona State or TCU are hard to imagine. *(p. 140)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- MITCH MOSS TEXAS TECH TO WIN BIG 12 CHAMPIONSHIP (+100) I usually don’t bet conference winners this far out at even money, but I couldn’t resist this year with the Red Raiders. *(p. 11)*
-- The day he was ruled ineligible, I bet Texas Tech to win the Big 12. *(p. 15)*
-- Texas Tech has a good chance to be a double-digit favorite in every game this season because the talent on their roster is far superior to the rest of the Big 12. *(p. 15)*
-- Texas Tech is the Big 12 favorite (-105) thanks to a ridiculously soft schedule. 13. *(p. 18)*
-- Texas Tech is an odds-on favorite to win the Big 12 Conference Championship, but BYU and Utah aren’t too far back on the oddsboard. *(p. 115)*
+Also referenced on **pp. 11, 15, 18, 115** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Texas Tech was a wagon last season. *(p. 140)*
-- Texas Tech enters this season with 15 players who started in 2025, so talent and experience won’t be issues. *(p. 140)*
-- Hammond had some solid games last season. *(p. 141)*
-- Texas Tech lost two starters from last year’s line, including second- team All-Big 12 guard Davion Carter. *(p. 141)*
-- If Texas Tech’s blocking isn’t as good as it was last year, that’s one of the few things that can derail the season. *(p. 141)*
-- Last year, Texas Tech was first in the nation in Game on Paper’s Adjusted EPA/Play Allowed (-0.25), fifth in Yards Per Play Allowed (5.6), and first in Havoc Rate (19.3%). *(p. 141)*
-- Texas Tech looked impenetrable for most of last season, and many of the top players from that unit are gone — including No. 2 overall pick David Bailey. *(p. 141)*
-- However, McGuire loves some of the young pieces that will have bigger roles in 2026, Austin Romaine and Brice Pollock are both back, and the team added a legitimate star in Miami (Ohio) transfer Adam Trick. *(p. 141)*
+- Texas Tech was a wagon in 2025. It was shut out by Oregon in the playoff but ran through the Big 12 regular season, losing only at Arizona State when starting quarterback Behren Morton was hurt, and finished seventh nationally in Net Adjusted EPA per play at +0.17. *(p. 140)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- So about a full touchdown downgrade since last year’s team, and I still have Texas Tech favored in every single game — per my power ratings — by double-digits. *(p. 11)*
-- Miami transfer Emory Williams and now four-time transfer Mitch Griffis, who was at Texas Tech last season, are the main options. *(p. 55)*
-- Texas Tech stole the headlines in the Big 12 last season, winning the league and grabbing an automatic College Football Playoff berth. *(p. 115)*
+Referenced in the guide on **pp. 11, 55, 115** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -321,46 +296,39 @@ As printed on p. 141. Each category carries a value and a national rank.
 
 - Makinen projects **10.7 wins** against a posted total of 10.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 10.5**.
-- Texas Tech has as deep a funding pool as any program in the country, so this team is constantly able to load up on big-time performers. *(p. 140)*
-- Even without an elite signal-caller, this team is absolutely loaded. *(p. 140)*
-- With no Texas Tech or BYU on the 2026 slate, I think this team has an outside shot at contending for a Big 12 title game berth. *(p. 23)*
-- The only other double-digit win projections go to Ohio State and Georgia. • Assuming the projections play out accurately, besides Texas Tech, Oregon, Indiana, Miami (FL), and Ohio State the other Power Four conference teams that would be expected to contend for a spot in the College Football Playoff this year would be Georgia, Texas, Penn State, BYU, and perhaps SMU or Utah. *(p. 46)*
-- Texas Tech stole the headlines in the Big 12 last season, winning the league and grabbing an automatic College Football Playoff berth. *(p. 115)*
-- However, there are way too many holes in the depth chart to be too optimistic, and games against Houston and Texas Tech to open the season will put the Beavers in a hole in early September. *(p. 272)*
+- The guide describes Joey McGuire as fishing with dynamite in the portal, noting Texas Tech has as deep a funding pool as any programme, letting it constantly load up on big-time performers — and this offseason was no different. *(p. 140)*
+- Fifteen players who started in 2025 return, so talent and experience are not issues. *(p. 140)*
+- Its case: even without an elite quarterback the roster is loaded, and the schedule is extremely weak — the hardest road game is at Baylor, and losses at home to Houston, Arizona State or TCU are hard to imagine. *(p. 140)*
+- The 2025 numbers were exceptional: first nationally in Adjusted EPA per play allowed at -0.25, fifth in yards per play allowed at 5.6, first in havoc rate at 19.3%, and only two teams allowed fewer than 11.8 points per game. Many top contributors are gone including No. 2 overall pick David Bailey. The guide's grounds for optimism are specific: McGuire likes the young pieces stepping into bigger roles, Austin Romaine and Brice Pollock return, Miami (Ohio) transfer Adam Trick is a legitimate star addition, and Shiel Wood has proven a fantastic play-caller. It expects the unit to be special again. *(p. 141)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- While the Red Raiders got shut out when they faced Oregon in the College Football Playoff, they ran through the Big 12 regular season — with their only loss coming in a road game at Arizona State, when starting quarterback Behren Morton was hurt — and finished seventh in the country in Net Adjusted EPA/Play (+0.17) at Game on Paper. *(p. 140)*
-- Over 10.5 Suggesting Texas Tech will win 11 games at nearly -200 odds is a tough sell, but it is pretty likely the team reaches that number. *(p. 140)*
-- The schedule is also extremely weak. *(p. 140)*
-- But he’s also inexperienced, he’s coming off a torn ACL, and this coaching staff probably wanted him on the bench another year or two. *(p. 141)*
-- Texas Tech lost two starters from last year’s line, including second- team All-Big 12 guard Davion Carter. *(p. 141)*
-- That’s how easy of a schedule Texas Tech has.” OLE MISS OVER 8.5 WINS (+150) & TO MAKE COLLEGE FOOTBALL PLAYOFF (+220) Shop around if you’re high on this team, as the numbers are all over the map. *(p. 11)*
-- The Wildcats will get tough tests on the road in September (BYU), October (Texas Tech) and November (Kansas State). 29. *(p. 19)*
-- The overall numbers look a lot worse given losses of 62-14, 66-10, and 44-0 to Texas Tech, Florida State, and Oklahoma in non-conference play. *(p. 34)*
-- TCU plays several tough road games, as the team will go on the road to battle UCF, Baylor, Arizona, and Texas Tech. *(p. 138)*
-- Kent State lost 62-14 to Texas Tech, 66-10 to Florida State, and 44-0 to Oklahoma, getting outgained by over 1,000 yards combined. *(p. 228)*
+- Recommendation is Over 10.5 wins. It concedes selling 11 wins at nearly -200 is a tough ask while judging the number pretty likely. *(p. 140)*
+- Its case: even without an elite quarterback the roster is loaded, and the schedule is extremely weak — the hardest road game is at Baylor, and losses at home to Houston, Arizona State or TCU are hard to imagine. *(p. 140)*
+- Hammond had solid moments, including a road performance at Utah with 169 passing yards, two touchdowns, no interceptions and 61 rushing yards in a blowout win. The guide's reservation is contextual rather than statistical: Texas Tech was not planning to start him, and handing the keys to a championship-caliber team is a big responsibility. It weighs both sides — a four-star recruit who is athletic and reasonably accurate, but inexperienced, coming off a torn ACL, and a player the staff probably wanted on the bench another year or two — concluding there is uncertainty at the most important position. *(p. 141)*
+- Texas Tech lost two starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players. The guide calls that short of a deathblow while setting two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. It names weaker blocking as one of the few things that could derail the season. *(p. 141)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 141)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 141)*. Its analysis, in reference form:
 
 ### Should Will Hammond be the starter for a top-tier team?
 
-Hammond had some solid games last season. He actually went on the road and threw for 169 yards with two touchdowns and no picks in a beatdown of Utah, and he added 61 yards on the ground in that one. However, Texas Tech was not planning to start him this season, and being handed the keys to a championship-caliber team is a massive responsibility. Are we sure he can handle that right now? Hammond was a four-star recruit out of high school, he’s athletic, and he’s pretty accurate. But he’s also inexperienced, he’s coming off a torn ACL, and this coaching staff probably wanted him on the bench another year or two. That leaves some uncertainty at the most important position on the field.
+Hammond had solid moments, including a road performance at Utah with 169 passing yards, two touchdowns, no interceptions and 61 rushing yards in a blowout win. The guide's reservation is contextual rather than statistical: Texas Tech was not planning to start him, and handing the keys to a championship-caliber team is a big responsibility. It weighs both sides — a four-star recruit who is athletic and reasonably accurate, but inexperienced, coming off a torn ACL, and a player the staff probably wanted on the bench another year or two — concluding there is uncertainty at the most important position. *(p. 141)*
 
 ### Will there be a significant dropoff in offensive line play?
 
-Texas Tech lost two starters from last year’s line, including second- team All-Big 12 guard Davion Carter. The Red Raiders weren’t able to bring in any clear starters to replace them either. That means this team will be relying on part-time starters who transferred in, or on younger players. That isn’t exactly a deathblow, but the line is going to need to be excellent in order for Hammond to play at a high level. The group up front also needs to be ready to open up big holes for star running back Cameron Dickey. If Texas Tech’s blocking isn’t as good as it was last year, that’s one of the few things that can derail the season.
+Texas Tech lost two starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players. The guide calls that short of a deathblow while setting two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. It names weaker blocking as one of the few things that could derail the season. *(p. 141)*
 
 ### Do the Red Raiders have another top-five defensive season in them?
 
-Last year, Texas Tech was first in the nation in Game on Paper’s Adjusted EPA/Play Allowed (-0.25), fifth in Yards Per Play Allowed (5.6), and first in Havoc Rate (19.3%). The Red Raiders also allowed fewer points per game (11.8) than all but two teams in the country. Texas Tech looked impenetrable for most of last season, and many of the top players from that unit are gone — including No. 2 overall pick David Bailey. However, McGuire loves some of the young pieces that will have bigger roles in 2026, Austin Romaine and Brice Pollock are both back, and the team added a legitimate star in Miami (Ohio) transfer Adam Trick. Shiel Wood has also proven to be a fantastic defensive play-caller. The Red Raiders should be pretty special on this side of the ball again.
+The 2025 numbers were exceptional: first nationally in Adjusted EPA per play allowed at -0.25, fifth in yards per play allowed at 5.6, first in havoc rate at 19.3%, and only two teams allowed fewer than 11.8 points per game. Many top contributors are gone including No. 2 overall pick David Bailey. The guide's grounds for optimism are specific: McGuire likes the young pieces stepping into bigger roles, Austin Romaine and Brice Pollock return, Miami (Ohio) transfer Adam Trick is a legitimate star addition, and Shiel Wood has proven a fantastic play-caller. It expects the unit to be special again. *(p. 141)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -378,6 +346,8 @@ No source conflict identified for this team.
 | 6, 11, 15, 18, 19, 23, 34, 38, 46, 55, 63, 93, 117, 128, 138, 203, 228, 272, 275, 321 | Other pages naming this team |
 
 This team is named in **49 sentences across 23 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 11, 15, 18, 19, 23, 34, 38, 46, 55, 63, 93, 117, 128, 138, 203, 228, 272, 275, 321.
 
 ## 29. Cross-Links
 

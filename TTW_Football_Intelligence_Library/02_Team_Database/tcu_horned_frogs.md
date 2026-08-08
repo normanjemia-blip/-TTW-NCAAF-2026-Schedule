@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 7.3–4.7 overall, 4.7–4.3 in conference |
 | **Schedule strength** | 43.79 (#55 toughest of 138) |
 
-### Season outlook as written in the guide (p. 138)
+### Season outlook — VSiN's analysis in reference form (p. 138)
 
-Sonny Dykes took TCU to the College Football Playoff National Championship Game in 2022, but he has achieved modest results since. In 2023, the hangover from a deep run resulted in a 5-7 season. Dykes did, however, rebound to post back-to-back 9-4 seasons. This year, the expectations are much higher. TCU is looking to contend for the Big 12 title, as 13 players who started in 2025 are projected to start for a Horned Frogs team that has also recruited and developed at a high level. Dykes also did well in bringing in Harvard transfer Jaden Craig to replace Josh Hoover, who transferred to Indiana. In reading the tea leaves with people who cover this team — or generally analyze college football — you’d think this team is live to rack up double-digit wins. However, the Horned Frogs have some tricky schedule spots this year, and some of the holes on defense could hold the team back quite a bit. Under 7.5 TCU’s season-opening game against North Carolina will be huge. That matchup in Dublin will tell us a lot about the new- look Horned Frogs, but a loss there would mean curtains for the Over. TCU plays several tough road games, as the team will go on the road to battle UCF, Baylor, Arizona, and Texas Tech. The Horned Frogs also host BYU and Utah, which are two of the best teams in the Big 12. There might be a lot of buzz surrounding this TCU squad, but the schedule is tough, the overhaul of the offense feels a bit ambitious, and having uncertainty at linebacker could be a bit problematic. The Under seems like the play here.
+- Sonny Dykes reached the national championship game in 2022 but has had modest results since: a 5-7 hangover in 2023 followed by back-to-back 9-4 seasons. *(p. 138)*
+- Expectations are now higher, with TCU aiming to contend for the Big 12 title. Thirteen players who started in 2025 are projected to start, and the guide credits high-level recruiting and development. *(p. 138)*
+- Dykes replaced Josh Hoover, who transferred to Indiana, with Harvard transfer Jaden Craig. *(p. 138)*
+- The guide explicitly notes the prevailing sentiment — that people covering the team or analysing the sport make TCU live for double-digit wins — before setting out why it disagrees. *(p. 138)*
+- Recommendation is Under 7.5 wins, citing tricky schedule spots and defensive holes. *(p. 138)*
+- The opener against North Carolina in Dublin is called huge and revealing, with a loss there ending the Over. Road games come at UCF, Baylor, Arizona and Texas Tech, and TCU hosts BYU and Utah, two of the conference's best. *(p. 138)*
+- Its summary of the bear case names three things together: a tough schedule, an offensive overhaul that feels a bit ambitious, and uncertainty at linebacker. *(p. 138)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +86,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Sammis is coming off a very successful stint as UConn’s OC. *(p. 139)*
-- If defensive coordinator Andy Avalos doesn’t get consistent play from his linebackers, the Horned Frogs could be in for a disappointing season. *(p. 139)*
+- Sonny Dykes reached the national championship game in 2022 but has had modest results since: a 5-7 hangover in 2023 followed by back-to-back 9-4 seasons. *(p. 138)*
+- **What will TCU look like with Gordon Sammis as offensive coordinator?** Sammis arrives from a successful spell at UConn, whose offense ranked sixth nationally in EPA per play at 0.13 per Game on Paper. The guide flags a real stylistic break: TCU normally runs the Air Raid and Sammis runs a pro-style offense, so this may look nothing like a standard Dykes team. It argues the timing could be ideal precisely because Hoover has gone, so spending an hour slinging the ball is no longer an option. Instead TCU will lean on a massive offensive line and a good running back group — still throwing, but as a more physical team. *(p. 139)*
+- **Is there a world in which TCU is a top-25 defense?** With the offense moving away from high-octane spread, the guide argues improving defensively is a must. TCU sat just outside the top 50 in both EPA per play and Adjusted EPA per play, and needs to be nearer the top 25. The defensive line should be a strength and the secondary is described as absolutely loaded. The single biggest question is a linebacking corps made up mostly of first-time starters, and the guide states the consequence: without consistent play there from coordinator Andy Avalos's group, the season could disappoint. *(p. 139)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Those three teams will be consensus top five nationally to start the season, but USC (14-1) is looking to get to the top of the Big Ten for the first time with a defense led by former TCU coach Gary Patterson, who was lured out of retirement. *(p. 149)*
-- Former TCU head coach Gary Patterson has not coached full-time on any staff in nearly four years but was lured out of semi-retirement to become the new defensive coordinator, the third in four seasons, for the Trojans. *(p. 180)*
+Also referenced on **pp. 149, 180** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,15 +98,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 138)*.
 
-- Hoover threw some bad interceptions, but he was a spectacular quarterback for Dykes. *(p. 139)*
-- In 2024, he threw for 3,949 yards with 27 touchdowns and 11 picks. *(p. 139)*
-- He then threw for 3,472 yards with 29 touchdowns and 13 picks last year. *(p. 139)*
+- Dykes replaced Josh Hoover, who transferred to Indiana, with Harvard transfer Jaden Craig. *(p. 138)*
+- **How much will the team miss Hoover?** The guide is even-handed: Hoover threw some bad interceptions but was spectacular, with 3,949 yards, 27 touchdowns and 11 interceptions in 2024 and 3,472 yards, 29 touchdowns and 13 interceptions last year. TCU will look different without his arm, but it expects Craig to be productive — less aggressive than Hoover, but less mistake-prone and more mobile. His job is distributing to playmakers, of which TCU has plenty including talented receiver Jordan Dwyer. *(p. 139)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Cignetti sees something in TCU quarterback Josh Hoover (42 turnovers in 31 career starts). *(p. 18)*
-- TCU After Indiana swooped in to swipe quarterback Josh Hoover, the Horned Frogs looked to the Ivy League for an answer. *(p. 20)*
-- Indiana (+250) will attempt to defend with heavy retention on the offensive line and defense to go along with a portal overhaul that includes TCU transfer QB Josh Hoover to replace Mendoza. *(p. 149)*
+Also referenced on **pp. 18, 20, 149** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -116,41 +117,29 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- Dykes also did well in bringing in Harvard transfer Jaden Craig to replace Josh Hoover, who transferred to Indiana. *(p. 138)*
-- The Harvard transfer doesn’t have the same aggressiveness as Hoover, but he’s less mistake-prone and offers more mobility. *(p. 139)*
+- Dykes replaced Josh Hoover, who transferred to Indiana, with Harvard transfer Jaden Craig. *(p. 138)*
+- **How much will the team miss Hoover?** The guide is even-handed: Hoover threw some bad interceptions but was spectacular, with 3,949 yards, 27 touchdowns and 11 interceptions in 2024 and 3,472 yards, 29 touchdowns and 13 interceptions last year. TCU will look different without his arm, but it expects Craig to be productive — less aggressive than Hoover, but less mistake-prone and more mobile. His job is distributing to playmakers, of which TCU has plenty including talented receiver Jordan Dwyer. *(p. 139)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Indiana (+250) will attempt to defend with heavy retention on the offensive line and defense to go along with a portal overhaul that includes TCU transfer QB Josh Hoover to replace Mendoza. *(p. 149)*
+Referenced in the guide on **pp. 149** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- TCU is looking to contend for the Big 12 title, as 13 players who started in 2025 are projected to start for a Horned Frogs team that has also recruited and developed at a high level. *(p. 138)*
+- Expectations are now higher, with TCU aiming to contend for the Big 12 title. Thirteen players who started in 2025 are projected to start, and the guide credits high-level recruiting and development. *(p. 138)*
 
 ## 13. Offensive Identity
 
-- There might be a lot of buzz surrounding this TCU squad, but the schedule is tough, the overhaul of the offense feels a bit ambitious, and having uncertainty at linebacker could be a bit problematic. *(p. 138)*
-- We usually see the Air Raid from TCU, but Sammis runs a pro-style offense. *(p. 139)*
-- Instead, TCU will look to get more out of a massive offensive line and a good group of running backs. *(p. 139)*
-- With the Horned Frogs moving away from a high-octane spread offense, being better defensively is a must. *(p. 139)*
+- Its summary of the bear case names three things together: a tough schedule, an offensive overhaul that feels a bit ambitious, and uncertainty at linebacker. *(p. 138)*
+- **What will TCU look like with Gordon Sammis as offensive coordinator?** Sammis arrives from a successful spell at UConn, whose offense ranked sixth nationally in EPA per play at 0.13 per Game on Paper. The guide flags a real stylistic break: TCU normally runs the Air Raid and Sammis runs a pro-style offense, so this may look nothing like a standard Dykes team. It argues the timing could be ideal precisely because Hoover has gone, so spending an hour slinging the ball is no longer an option. Instead TCU will lean on a massive offensive line and a good running back group — still throwing, but as a more physical team. *(p. 139)*
+- **How much will the team miss Hoover?** The guide is even-handed: Hoover threw some bad interceptions but was spectacular, with 3,949 yards, 27 touchdowns and 11 interceptions in 2024 and 3,472 yards, 29 touchdowns and 13 interceptions last year. TCU will look different without his arm, but it expects Craig to be productive — less aggressive than Hoover, but less mistake-prone and more mobile. His job is distributing to playmakers, of which TCU has plenty including talented receiver Jordan Dwyer. *(p. 139)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Indiana (+250) will attempt to defend with heavy retention on the offensive line and defense to go along with a portal overhaul that includes TCU transfer QB Josh Hoover to replace Mendoza. *(p. 149)*
+Referenced in the guide on **pp. 149** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- However, the Horned Frogs have some tricky schedule spots this year, and some of the holes on defense could hold the team back quite a bit. *(p. 138)*
-- There might be a lot of buzz surrounding this TCU squad, but the schedule is tough, the overhaul of the offense feels a bit ambitious, and having uncertainty at linebacker could be a bit problematic. *(p. 138)*
-- With the Horned Frogs moving away from a high-octane spread offense, being better defensively is a must. *(p. 139)*
-- The defensive line should be a strength, and the secondary is absolutely loaded. *(p. 139)*
-- If defensive coordinator Andy Avalos doesn’t get consistent play from his linebackers, the Horned Frogs could be in for a disappointing season. *(p. 139)*
+- Its summary of the bear case names three things together: a tough schedule, an offensive overhaul that feels a bit ambitious, and uncertainty at linebacker. *(p. 138)*
+- **Is there a world in which TCU is a top-25 defense?** With the offense moving away from high-octane spread, the guide argues improving defensively is a must. TCU sat just outside the top 50 in both EPA per play and Adjusted EPA per play, and needs to be nearer the top 25. The defensive line should be a strength and the secondary is described as absolutely loaded. The single biggest question is a linebacking corps made up mostly of first-time starters, and the guide states the consequence: without consistent play there from coordinator Andy Avalos's group, the season could disappoint. *(p. 139)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Indiana (+250) will attempt to defend with heavy retention on the offensive line and defense to go along with a portal overhaul that includes TCU transfer QB Josh Hoover to replace Mendoza. *(p. 149)*
-- Those three teams will be consensus top five nationally to start the season, but USC (14-1) is looking to get to the top of the Big Ten for the first time with a defense led by former TCU coach Gary Patterson, who was lured out of retirement. *(p. 149)*
-- Former TCU head coach Gary Patterson has not coached full-time on any staff in nearly four years but was lured out of semi-retirement to become the new defensive coordinator, the third in four seasons, for the Trojans. *(p. 180)*
+Referenced in the guide on **pp. 149, 180** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -189,7 +178,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- Dykes did, however, rebound to post back-to-back 9-4 seasons. *(p. 138)*
+
+Referenced in the guide on **pp. 138** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -210,21 +200,15 @@ Prices printed on the team page *(p. 139)*:
 
 ## 21. Betting Notes / Best Bets
 
-- In reading the tea leaves with people who cover this team — or generally analyze college football — you’d think this team is live to rack up double-digit wins. *(p. 138)*
+- The guide explicitly notes the prevailing sentiment — that people covering the team or analysing the sport make TCU live for double-digit wins — before setting out why it disagrees. *(p. 138)*
+- Recommendation is Under 7.5 wins, citing tricky schedule spots and defensive holes. *(p. 138)*
+- Its summary of the bear case names three things together: a tough schedule, an offensive overhaul that feels a bit ambitious, and uncertainty at linebacker. *(p. 138)*
 
 ## 22. Historical / Situational Trends
 
-- Sonny Dykes took TCU to the College Football Playoff National Championship Game in 2022, but he has achieved modest results since. *(p. 138)*
-- In 2023, the hangover from a deep run resulted in a 5-7 season. *(p. 138)*
-- TCU is looking to contend for the Big 12 title, as 13 players who started in 2025 are projected to start for a Horned Frogs team that has also recruited and developed at a high level. *(p. 138)*
-- The Huskies were actually sixth in the nation in EPA/Play (0.13) last year, according to Game on Paper. *(p. 139)*
-- In 2024, he threw for 3,949 yards with 27 touchdowns and 11 picks. *(p. 139)*
-- He then threw for 3,472 yards with 29 touchdowns and 13 picks last year. *(p. 139)*
-- Last year, TCU was just outside the nation’s top 50 in EPA/Play and Adjusted EPA/Play at Game on Paper. *(p. 139)*
+- Sonny Dykes reached the national championship game in 2022 but has had modest results since: a 5-7 hangover in 2023 followed by back-to-back 9-4 seasons. *(p. 138)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Since getting crushed 65-7 by Georgia in the 2022 national championship game, TCU has posted records of 5-7, 9-4 and 9-4. *(p. 20)*
+Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -270,41 +254,39 @@ As printed on p. 139. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.3 wins** against a posted total of 6.5 — **+0.8** in this team's favour.
-- In 2023, the hangover from a deep run resulted in a 5-7 season. *(p. 138)*
-- TCU is looking to contend for the Big 12 title, as 13 players who started in 2025 are projected to start for a Horned Frogs team that has also recruited and developed at a high level. *(p. 138)*
-- The Horned Frogs also host BYU and Utah, which are two of the best teams in the Big 12. *(p. 138)*
-- His job will be to distribute the ball to TCU’s playmakers, and this team has plenty of them — including talented wideout Jordan Dwyer. *(p. 139)*
-- The defensive line should be a strength, and the secondary is absolutely loaded. *(p. 139)*
+- Expectations are now higher, with TCU aiming to contend for the Big 12 title. Thirteen players who started in 2025 are projected to start, and the guide credits high-level recruiting and development. *(p. 138)*
+- The opener against North Carolina in Dublin is called huge and revealing, with a loss there ending the Over. Road games come at UCF, Baylor, Arizona and Texas Tech, and TCU hosts BYU and Utah, two of the conference's best. *(p. 138)*
+- The guide is even-handed: Hoover threw some bad interceptions but was spectacular, with 3,949 yards, 27 touchdowns and 11 interceptions in 2024 and 3,472 yards, 29 touchdowns and 13 interceptions last year. TCU will look different without his arm, but it expects Craig to be productive — less aggressive than Hoover, but less mistake-prone and more mobile. His job is distributing to playmakers, of which TCU has plenty including talented receiver Jordan Dwyer. *(p. 139)*
+- With the offense moving away from high-octane spread, the guide argues improving defensively is a must. TCU sat just outside the top 50 in both EPA per play and Adjusted EPA per play, and needs to be nearer the top 25. The defensive line should be a strength and the secondary is described as absolutely loaded. The single biggest question is a linebacking corps made up mostly of first-time starters, and the guide states the consequence: without consistent play there from coordinator Andy Avalos's group, the season could disappoint. *(p. 139)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- That matchup in Dublin will tell us a lot about the new- look Horned Frogs, but a loss there would mean curtains for the Over. *(p. 138)*
-- TCU plays several tough road games, as the team will go on the road to battle UCF, Baylor, Arizona, and Texas Tech. *(p. 138)*
-- There might be a lot of buzz surrounding this TCU squad, but the schedule is tough, the overhaul of the offense feels a bit ambitious, and having uncertainty at linebacker could be a bit problematic. *(p. 138)*
-- The biggest question mark is the linebacking corps, which mostly features first-time starters. *(p. 139)*
-- The Cougars have some tough games on the schedule, including road games against TCU and Utah and a home game against Notre Dame. *(p. 9)*
+- The opener against North Carolina in Dublin is called huge and revealing, with a loss there ending the Over. Road games come at UCF, Baylor, Arizona and Texas Tech, and TCU hosts BYU and Utah, two of the conference's best. *(p. 138)*
+- Its summary of the bear case names three things together: a tough schedule, an offensive overhaul that feels a bit ambitious, and uncertainty at linebacker. *(p. 138)*
+- With the offense moving away from high-octane spread, the guide argues improving defensively is a must. TCU sat just outside the top 50 in both EPA per play and Adjusted EPA per play, and needs to be nearer the top 25. The defensive line should be a strength and the secondary is described as absolutely loaded. The single biggest question is a linebacking corps made up mostly of first-time starters, and the guide states the consequence: without consistent play there from coordinator Andy Avalos's group, the season could disappoint. *(p. 139)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 139)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 139)*. Its analysis, in reference form:
 
 ### What will TCU look like with Gordon Sammis as offensive coordinator?
 
-Sammis is coming off a very successful stint as UConn’s OC. The Huskies were actually sixth in the nation in EPA/Play (0.13) last year, according to Game on Paper. However, there’s a good chance this looks nothing like a standard Dykes team. We usually see the Air Raid from TCU, but Sammis runs a pro-style offense. The timing could be perfect though. Hoover is no longer under center for the Horned Frogs, so hitting the field and slinging the ball around for an hour is no longer an option. Instead, TCU will look to get more out of a massive offensive line and a good group of running backs. That doesn’t mean the Horned Frogs won’t be throwing, but this should be a more physical football team.
+Sammis arrives from a successful spell at UConn, whose offense ranked sixth nationally in EPA per play at 0.13 per Game on Paper. The guide flags a real stylistic break: TCU normally runs the Air Raid and Sammis runs a pro-style offense, so this may look nothing like a standard Dykes team. It argues the timing could be ideal precisely because Hoover has gone, so spending an hour slinging the ball is no longer an option. Instead TCU will lean on a massive offensive line and a good running back group — still throwing, but as a more physical team. *(p. 139)*
 
 ### How much will the team miss Hoover?
 
-Hoover threw some bad interceptions, but he was a spectacular quarterback for Dykes. In 2024, he threw for 3,949 yards with 27 touchdowns and 11 picks. He then threw for 3,472 yards with 29 touchdowns and 13 picks last year. TCU will have a different look without Hoover’s massive arm, but Craig should be productive in the Big 12. The Harvard transfer doesn’t have the same aggressiveness as Hoover, but he’s less mistake-prone and offers more mobility. His job will be to distribute the ball to TCU’s playmakers, and this team has plenty of them — including talented wideout Jordan Dwyer.
+The guide is even-handed: Hoover threw some bad interceptions but was spectacular, with 3,949 yards, 27 touchdowns and 11 interceptions in 2024 and 3,472 yards, 29 touchdowns and 13 interceptions last year. TCU will look different without his arm, but it expects Craig to be productive — less aggressive than Hoover, but less mistake-prone and more mobile. His job is distributing to playmakers, of which TCU has plenty including talented receiver Jordan Dwyer. *(p. 139)*
 
 ### Is there a world in which TCU is a top-25 defense?
 
-With the Horned Frogs moving away from a high-octane spread offense, being better defensively is a must. Last year, TCU was just outside the nation’s top 50 in EPA/Play and Adjusted EPA/Play at Game on Paper. This year’s team needs to be closer to the top 25. The defensive line should be a strength, and the secondary is absolutely loaded. The biggest question mark is the linebacking corps, which mostly features first-time starters. If defensive coordinator Andy Avalos doesn’t get consistent play from his linebackers, the Horned Frogs could be in for a disappointing season.
+With the offense moving away from high-octane spread, the guide argues improving defensively is a must. TCU sat just outside the top 50 in both EPA per play and Adjusted EPA per play, and needs to be nearer the top 25. The defensive line should be a strength and the secondary is described as absolutely loaded. The single biggest question is a linebacking corps made up mostly of first-time starters, and the guide states the consequence: without consistent play there from coordinator Andy Avalos's group, the season could disappoint. *(p. 139)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -322,6 +304,8 @@ No source conflict identified for this team.
 | 9, 15, 18, 20, 98, 117, 140, 149, 153, 180, 333 | Other pages naming this team |
 
 This team is named in **31 sentences across 13 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 9, 15, 18, 20, 98, 117, 140, 149, 153, 180, 333.
 
 ## 29. Cross-Links
 

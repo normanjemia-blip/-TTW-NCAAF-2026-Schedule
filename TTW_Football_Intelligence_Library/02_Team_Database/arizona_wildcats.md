@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 7.8–4.2 overall, 5.0–4.0 in conference |
 | **Schedule strength** | 44.57 (#46 toughest of 138) |
 
-### Season outlook as written in the guide (p. 116)
+### Season outlook — VSiN's analysis in reference form (p. 116)
 
-Brent Brennan was put in a rough spot when he was hired by the Wildcats. After a wildly successful run at San Jose State, he was tasked with filling Jedd Fisch’s massive shoes in Tucson. Fisch completely turned this program around, then he understandably bolted for a good Big Ten job. Unfortunately, all of that led to a late start for Brennan, who didn’t have time to get things right. Arizona then stumbled to a 4-8 season in 2024, putting Brennan on the hot seat to start 2025. Brennan responded to all of that with a fantastic 2025 season, with the Wildcats going 9-4 and being a couple very close losses away from achieving much bigger things. His coaching staff changes were a home run, he did great work in the transfer portal, and he seems to have a good pulse on recruiting. Brennan is now in good standing with the university, and expectations are somewhat high with star quarterback Noah Fifita returning with 13 other starters. What does 2026 have in store? Under 7.5 The Wildcats will be getting points against the Cougars and Red Raiders, and they play six other games that I’d consider coin-flip contests. So, while this Arizona team has the potential to be just as good as last year’s squad, it feels unrealistic to expect eight wins. It’s also worth noting that the Wildcats had a +18 turnover margin last year, meaning some regression is likely coming there. Brennan is doing good work with this program, but a slight dip could be coming.
+- Brent Brennan inherited a hard job, following Jedd Fisch after a successful run at San Jose State. Fisch had turned Arizona around before leaving for a good Big Ten job, and the guide notes the late start left Brennan no time to get things right. *(p. 116)*
+- Arizona fell to 4-8 in 2024, putting Brennan on the hot seat, and he answered with a 9-4 season in 2025 that the guide says was a couple of very close losses from something bigger. *(p. 116)*
+- His staff changes are called a home run, his portal work strong and his recruiting instincts sound, leaving him in good standing with the university. *(p. 116)*
+- Expectations are somewhat high with star quarterback Noah Fifita back alongside 13 other starters. *(p. 116)*
+- Recommendation is Under 7.5 wins. The guide's arithmetic: Arizona will be an underdog against BYU and Texas Tech and plays six further games it treats as coin flips, so eight wins feels unrealistic even if the team is as good as last year's. *(p. 116)*
+- A regression argument is added explicitly — Arizona had a +18 turnover margin last year, and the guide expects some of that to come back. Its conclusion is that Brennan is doing good work but a slight dip may be coming. *(p. 116)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -79,16 +86,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Brent Brennan was put in a rough spot when he was hired by the Wildcats. *(p. 116)*
-- His coaching staff changes were a home run, he did great work in the transfer portal, and he seems to have a good pulse on recruiting. *(p. 116)*
-- Fifita has a solid group of weapons, a decent running game, and an established rapport with returning offensive coordinator Seth Doege. *(p. 117)*
-- DC Danny Gonzales did an awesome job with his defensive backs last season, but he’ll need to do an even better job in 2026. *(p. 117)*
+- Brent Brennan inherited a hard job, following Jedd Fisch after a successful run at San Jose State. Fisch had turned Arizona around before leaving for a good Big Ten job, and the guide notes the late start left Brennan no time to get things right. *(p. 116)*
+- Arizona fell to 4-8 in 2024, putting Brennan on the hot seat, and he answered with a 9-4 season in 2025 that the guide says was a couple of very close losses from something bigger. *(p. 116)*
+- His staff changes are called a home run, his portal work strong and his recruiting instincts sound, leaving him in good standing with the university. *(p. 116)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Carter was on Brennan’s staffs at both San Jose State and Arizona, serving most recently as the assistant head coach and running backs coach. *(p. 34)*
-- He’s been at San Jose State and Arizona on Brent Brennan’s staff over the last five years and now gets his own program. *(p. 237)*
-- There are major questions in the trenches on both sides and obviously new playbooks to learn with OC Eric Kiesau from Florida and DC Adam Clark from Northern Arizona. *(p. 237)*
+Also referenced on **pp. 34, 237** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -96,10 +98,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 116)*.
 
-- Brennan is now in good standing with the university, and expectations are somewhat high with star quarterback Noah Fifita returning with 13 other starters. *(p. 116)*
-- Last year, Fifita threw for 3,228 yards with 29 touchdowns and six interceptions, and he also happened to finish the 2025 season as PFF’s 17th-ranked passer. *(p. 117)*
-- It was a major bounceback campaign after a down 2024 season, and he’s now considered one of the top returning signal-callers in football heading into 2026. *(p. 117)*
-- However, last year’s Wildcats defense was special because of its ability to slow down some of the conference’s most explosive passing games. *(p. 117)*
+- Expectations are somewhat high with star quarterback Noah Fifita back alongside 13 other starters. *(p. 116)*
+- **What type of year can be expected from Noah Fifita?** Fifita threw for 3,228 yards with 29 touchdowns and six interceptions and finished as PFF's 17th-ranked passer, a major bounceback from a poor 2024 that makes him one of the top returning starters. He has solid weapons, a decent run game and an established rapport with returning coordinator Seth Doege. The guide then deliberately withholds the easy conclusion, listing three reasons for doubt: the 2024 season is hard to ignore entirely, Arizona must replace three offensive line starters, and Fifita occasionally has injury trouble. Its closing line is a caution — replicating or building on 2025 is the hope, but that is also what Tucson hoped for in 2024. *(p. 117)*
 
 ## 10. Returning Production
 
@@ -117,24 +117,20 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
-- His coaching staff changes were a home run, he did great work in the transfer portal, and he seems to have a good pulse on recruiting. *(p. 116)*
-- Brennan and Gonzales did hit the portal hard, bringing in several players with the potential to be instant-impact starters. *(p. 117)*
+- His staff changes are called a home run, his portal work strong and his recruiting instincts sound, leaving him in good standing with the university. *(p. 116)*
+- **Can the Arizona passing defense survive key losses in the secondary?** Arizona tied for seventh in Game on Paper's Adjusted EPA per play allowed at -0.14, driven by a third-ranked EPA per dropback allowed of -0.24. Coordinator Danny Gonzales is credited with excellent work but faces a harder task: four defensive backs left for the NFL, including second-round pick and All-Big 12 corner Treydan Stukes and All-Big 12 safety Dalton Johnson. Brennan and Gonzales hit the portal hard for potential instant-impact starters. The guide's warning is precise — last year's defense was special specifically because it slowed the conference's most explosive passing games, so any substantial secondary dropoff will hurt. *(p. 117)*
 
 ## 12. Recruiting / Roster Notes
 
-- His coaching staff changes were a home run, he did great work in the transfer portal, and he seems to have a good pulse on recruiting. *(p. 116)*
+- His staff changes are called a home run, his portal work strong and his recruiting instincts sound, leaving him in good standing with the university. *(p. 116)*
 
 ## 13. Offensive Identity
 
-- Fifita has a solid group of weapons, a decent running game, and an established rapport with returning offensive coordinator Seth Doege. *(p. 117)*
-- It’s hard to completely ignore that 2024 season, Arizona has to replace three starters along the offensive line, and Fifita does occasionally run into trouble with injuries. *(p. 117)*
+- **What type of year can be expected from Noah Fifita?** Fifita threw for 3,228 yards with 29 touchdowns and six interceptions and finished as PFF's 17th-ranked passer, a major bounceback from a poor 2024 that makes him one of the top returning starters. He has solid weapons, a decent run game and an established rapport with returning coordinator Seth Doege. The guide then deliberately withholds the easy conclusion, listing three reasons for doubt: the 2024 season is hard to ignore entirely, Arizona must replace three offensive line starters, and Fifita occasionally has injury trouble. Its closing line is a caution — replicating or building on 2025 is the hope, but that is also what Tucson hoped for in 2024. *(p. 117)*
 
 ## 14. Defensive Identity
 
-- DC Danny Gonzales did an awesome job with his defensive backs last season, but he’ll need to do an even better job in 2026. *(p. 117)*
-- Arizona lost four defensive backs to the NFL, with one of them being second-round pick and All- Big 12 corner Treydan Stukes and another being All-Big 12 safety Dalton Johnson. *(p. 117)*
-- However, last year’s Wildcats defense was special because of its ability to slow down some of the conference’s most explosive passing games. *(p. 117)*
-- Any substantial dropoff in the secondary will hurt. *(p. 117)*
+- **Can the Arizona passing defense survive key losses in the secondary?** Arizona tied for seventh in Game on Paper's Adjusted EPA per play allowed at -0.14, driven by a third-ranked EPA per dropback allowed of -0.24. Coordinator Danny Gonzales is credited with excellent work but faces a harder task: four defensive backs left for the NFL, including second-round pick and All-Big 12 corner Treydan Stukes and All-Big 12 safety Dalton Johnson. Brennan and Gonzales hit the portal hard for potential instant-impact starters. The guide's warning is precise — last year's defense was special specifically because it slowed the conference's most explosive passing games, so any substantial secondary dropoff will hurt. *(p. 117)*
 
 ## 15. Key Strengths
 
@@ -198,25 +194,16 @@ Prices printed on the team page *(p. 117)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 7.5 wins. The guide's arithmetic: Arizona will be an underdog against BYU and Texas Tech and plays six further games it treats as coin flips, so eight wins feels unrealistic even if the team is as good as last year's. *(p. 116)*
+- A regression argument is added explicitly — Arizona had a +18 turnover margin last year, and the guide expects some of that to come back. Its conclusion is that Brennan is doing good work but a slight dip may be coming. *(p. 116)*
 
 ## 22. Historical / Situational Trends
 
-- Arizona then stumbled to a 4-8 season in 2024, putting Brennan on the hot seat to start 2025. *(p. 116)*
-- So, while this Arizona team has the potential to be just as good as last year’s squad, it feels unrealistic to expect eight wins. *(p. 116)*
-- It’s also worth noting that the Wildcats had a +18 turnover margin last year, meaning some regression is likely coming there. *(p. 116)*
-- Last year, Fifita threw for 3,228 yards with 29 touchdowns and six interceptions, and he also happened to finish the 2025 season as PFF’s 17th-ranked passer. *(p. 117)*
-- But that’s also what fans in Tucson were hoping for in 2024. *(p. 117)*
-- Arizona finished tied for seventh in Game on Paper’s Adjusted EPA/ Play Allowed (-0.14) last year, and a third-ranked EPA/Dropback Allowed (-0.24) played a big role in that. *(p. 117)*
-- DC Danny Gonzales did an awesome job with his defensive backs last season, but he’ll need to do an even better job in 2026. *(p. 117)*
-- However, last year’s Wildcats defense was special because of its ability to slow down some of the conference’s most explosive passing games. *(p. 117)*
-- Also, West Virginia has historically been a tough place to play when the team is good, and the Mountaineers are expected to be much better in 2026. *(p. 117)*
+- Brent Brennan inherited a hard job, following Jedd Fisch after a successful run at San Jose State. Fisch had turned Arizona around before leaving for a good Big Ten job, and the guide notes the late start left Brennan no time to get things right. *(p. 116)*
+- Arizona fell to 4-8 in 2024, putting Brennan on the hot seat, and he answered with a 9-4 season in 2025 that the guide says was a couple of very close losses from something bigger. *(p. 116)*
+- A regression argument is added explicitly — Arizona had a +18 turnover margin last year, and the guide expects some of that to come back. Its conclusion is that Brennan is doing good work but a slight dip may be coming. *(p. 116)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Arizona (9-4) lost three games by six points or fewer last season. *(p. 19)*
-- Last year’s team was 8-4 in the regular season and beat Arizona in the Holiday Bowl. *(p. 102)*
-- In 2025, he took over a Fresno State team that went 6-7 the previous season and guided the Bulldogs to a 9-4 finish punctuated by a win in the Arizona Bowl. *(p. 270)*
+Referenced in the guide on **pp. 19, 102, 270** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -262,41 +249,36 @@ As printed on p. 117. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.8 wins** against a posted total of 7.5 — **+0.3** in this team's favour.
-- ARIZONA With 72 touchdown passes as a three-year starter in Tucson, Noah Fifita is one of the Big 12’s best and he gives the Wildcats a shot in almost every game. *(p. 19)*
-- Next up will be home games against Arizona and Fresno State, which could be the Pac-12’s second-best team. *(p. 280)*
+- His staff changes are called a home run, his portal work strong and his recruiting instincts sound, leaving him in good standing with the university. *(p. 116)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- Brennan responded to all of that with a fantastic 2025 season, with the Wildcats going 9-4 and being a couple very close losses away from achieving much bigger things. *(p. 116)*
-- It’s also worth noting that the Wildcats had a +18 turnover margin last year, meaning some regression is likely coming there. *(p. 116)*
-- It’s hard to completely ignore that 2024 season, Arizona has to replace three starters along the offensive line, and Fifita does occasionally run into trouble with injuries. *(p. 117)*
-- Arizona lost four defensive backs to the NFL, with one of them being second-round pick and All- Big 12 corner Treydan Stukes and another being All-Big 12 safety Dalton Johnson. *(p. 117)*
-- Also, West Virginia has historically been a tough place to play when the team is good, and the Mountaineers are expected to be much better in 2026. *(p. 117)*
-- Arizona (9-4) lost three games by six points or fewer last season. *(p. 19)*
-- TCU plays several tough road games, as the team will go on the road to battle UCF, Baylor, Arizona, and Texas Tech. *(p. 138)*
-- There are major questions in the trenches on both sides and obviously new playbooks to learn with OC Eric Kiesau from Florida and DC Adam Clark from Northern Arizona. *(p. 237)*
+- Arizona fell to 4-8 in 2024, putting Brennan on the hot seat, and he answered with a 9-4 season in 2025 that the guide says was a couple of very close losses from something bigger. *(p. 116)*
+- A regression argument is added explicitly — Arizona had a +18 turnover margin last year, and the guide expects some of that to come back. Its conclusion is that Brennan is doing good work but a slight dip may be coming. *(p. 116)*
+- Fifita threw for 3,228 yards with 29 touchdowns and six interceptions and finished as PFF's 17th-ranked passer, a major bounceback from a poor 2024 that makes him one of the top returning starters. He has solid weapons, a decent run game and an established rapport with returning coordinator Seth Doege. The guide then deliberately withholds the easy conclusion, listing three reasons for doubt: the 2024 season is hard to ignore entirely, Arizona must replace three offensive line starters, and Fifita occasionally has injury trouble. Its closing line is a caution — replicating or building on 2025 is the hope, but that is also what Tucson hoped for in 2024. *(p. 117)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 117)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 117)*. Its analysis, in reference form:
 
 ### What type of year can be expected from Noah Fifita?
 
-Last year, Fifita threw for 3,228 yards with 29 touchdowns and six interceptions, and he also happened to finish the 2025 season as PFF’s 17th-ranked passer. It was a major bounceback campaign after a down 2024 season, and he’s now considered one of the top returning signal-callers in football heading into 2026. Fifita has a solid group of weapons, a decent running game, and an established rapport with returning offensive coordinator Seth Doege. All of that should amount to a solid season, right? We’ll see. It’s hard to completely ignore that 2024 season, Arizona has to replace three starters along the offensive line, and Fifita does occasionally run into trouble with injuries. The hope will be that Fifita can replicate his 2025 success — and possibly even build on it. But that’s also what fans in Tucson were hoping for in 2024.
+Fifita threw for 3,228 yards with 29 touchdowns and six interceptions and finished as PFF's 17th-ranked passer, a major bounceback from a poor 2024 that makes him one of the top returning starters. He has solid weapons, a decent run game and an established rapport with returning coordinator Seth Doege. The guide then deliberately withholds the easy conclusion, listing three reasons for doubt: the 2024 season is hard to ignore entirely, Arizona must replace three offensive line starters, and Fifita occasionally has injury trouble. Its closing line is a caution — replicating or building on 2025 is the hope, but that is also what Tucson hoped for in 2024. *(p. 117)*
 
 ### Can the Arizona passing defense survive key losses in the secondary?
 
-Arizona finished tied for seventh in Game on Paper’s Adjusted EPA/ Play Allowed (-0.14) last year, and a third-ranked EPA/Dropback Allowed (-0.24) played a big role in that. DC Danny Gonzales did an awesome job with his defensive backs last season, but he’ll need to do an even better job in 2026. Arizona lost four defensive backs to the NFL, with one of them being second-round pick and All- Big 12 corner Treydan Stukes and another being All-Big 12 safety Dalton Johnson. Brennan and Gonzales did hit the portal hard, bringing in several players with the potential to be instant-impact starters. However, last year’s Wildcats defense was special because of its ability to slow down some of the conference’s most explosive passing games. Any substantial dropoff in the secondary will hurt.
+Arizona tied for seventh in Game on Paper's Adjusted EPA per play allowed at -0.14, driven by a third-ranked EPA per dropback allowed of -0.24. Coordinator Danny Gonzales is credited with excellent work but faces a harder task: four defensive backs left for the NFL, including second-round pick and All-Big 12 corner Treydan Stukes and All-Big 12 safety Dalton Johnson. Brennan and Gonzales hit the portal hard for potential instant-impact starters. The guide's warning is precise — last year's defense was special specifically because it slowed the conference's most explosive passing games, so any substantial secondary dropoff will hurt. *(p. 117)*
 
 ### Is the schedule simply too tough for the Wildcats?
 
-Arizona will play road games against BYU, Texas Tech, Kansas State, and West Virginia. The first two teams are expected to finish near the top of the Big 12, while K-State’s win total of 7.5 suggests it’s right on par with U of A and would likely be favored in Manhattan. Also, West Virginia has historically been a tough place to play when the team is good, and the Mountaineers are expected to be much better in 2026. The Wildcats also happen to host Utah, TCU, Cincinnati, and Arizona State. Finishing above .500 in conference play will be a challenge.
+Road games come at BYU, Texas Tech, Kansas State and West Virginia. The first two are expected near the top of the Big 12; Kansas State's 7.5 win total suggests it is on par with Arizona and would likely be favored in Manhattan; and the guide notes West Virginia has historically been a hard place to play when the team is good, with the Mountaineers expected to be much better. Arizona also hosts Utah, TCU, Cincinnati and Arizona State. Its conclusion is that finishing above .500 in conference play will be a challenge. *(p. 117)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -314,6 +296,8 @@ Arizona will play road games against BYU, Texas Tech, Kansas State, and West Vir
 | 15, 19, 34, 101, 102, 134, 138, 218, 237, 254, 265, 270, 280 | Other pages naming this team |
 
 This team is named in **30 sentences across 16 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 15, 19, 34, 101, 102, 134, 138, 218, 237, 254, 265, 270, 280.
 
 ## 29. Cross-Links
 

@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 5.9–6.1 overall, 3.7–5.3 in conference |
 | **Schedule strength** | 45.99 (#37 toughest of 138) |
 
-### Season outlook as written in the guide (p. 120)
+### Season outlook — VSiN's analysis in reference form (p. 120)
 
-Things started so well for Dave Aranda. After going 2-7 in his first year in Waco, Aranda led the Bears to a 12-2 record and a Sugar Bowl victory in Year 2. However, Baylor has now had three losing seasons in the last four years, and it’s honestly shocking that Aranda still has his job. Can Aranda reward the program’s decision-makers for having the faith to keep him around another season? That’s the big question. This defense is expected to be a little better than it was a year ago, and DJ Lagway is a high-profile addition at quarterback. So, there’s plenty to be excited about if you’re a Baylor fan — or backer. But the schedule is rather tough, and the team’s win total sits at 5.5. If Over bettors don’t cash their season-long plays, Aranda’s likely looking for a defensive coordinator job next year. Over 5.5 Baylor has a really tough schedule. A neutral-site game against Auburn on September 5 could ultimately decide whether this team hits the six-win mark, but the Over still feels like a better play than the Under. The Bears have the talent required to take a huge step forward on defense, and it’s hard not to be excited about Lagway potentially finding himself in a more quarterback- friendly offense.
+- Dave Aranda's start was excellent — 2-7 in year one, then 12-2 and a Sugar Bowl win in year two — but Baylor has had three losing seasons in the last four, and the guide says it is honestly shocking he still has his job. *(p. 120)*
+- Reasons for optimism are the defense expected to be a little better and DJ Lagway a high-profile addition at quarterback. *(p. 120)*
+- The guide states the stakes bluntly: with a tough schedule and a 5.5 win total, failure to cash the Over likely means Aranda is looking for a defensive coordinator job next year. *(p. 120)*
+- Recommendation is Over 5.5 wins. It flags a neutral-site game against Auburn on 5 September as potentially decisive for reaching six, while judging the Over the better side. *(p. 120)*
+- Its supporting case is the talent to take a huge step forward on defense and excitement about Lagway in a more quarterback-friendly offense. *(p. 120)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,7 +84,10 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- If Over bettors don’t cash their season-long plays, Aranda’s likely looking for a defensive coordinator job next year. *(p. 120)*
+- Dave Aranda's start was excellent — 2-7 in year one, then 12-2 and a Sugar Bowl win in year two — but Baylor has had three losing seasons in the last four, and the guide says it is honestly shocking he still has his job. *(p. 120)*
+- The guide states the stakes bluntly: with a tough schedule and a 5.5 win total, failure to cash the Over likely means Aranda is looking for a defensive coordinator job next year. *(p. 120)*
+- **Can Jake Spavital unlock DJ Lagway?** Lagway was the top-ranked quarterback in the 2024 class and once seen as Florida's saviour, with strong early film, before things turned: 14 interceptions and 19 sacks last year, too many mistakes at the most important position. The guide credits accumulated injuries as a factor while agreeing a change of scenery was needed. He now plays for an elite play-caller in Spavital, inheriting an offense that scored 31.1 points per game. Conditional on the line keeping him upright, the guide sees a major turnaround available, noting Sawyer Robertson put up big numbers in this system and rating Lagway arguably more talented — with deep-ball touch likely to produce big plays in a scheme known for receivers running free. *(p. 121)*
+- **Is the Baylor defense going to be a mess again?** Aranda has stopped calling the defense, which the guide calls a wise step aside despite his reputation as a defensive mind. Joe Klanderman takes over after six years at Kansas State and has been open about wanting activity in the opposing backfield, so the guide expects plenty of blitzing. It follows the trade-off honestly: that exposes the secondary more than usual, but rates the defensive backs good enough to manage. Its conclusion is that the defense has improved at all three levels and last year's 32.6 points allowed per game should come down considerably. *(p. 121)*
 
 ## 9. Quarterback Situation
 
@@ -86,17 +95,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 120)*.
 
-- This defense is expected to be a little better than it was a year ago, and DJ Lagway is a high-profile addition at quarterback. *(p. 120)*
-- The Bears have the talent required to take a huge step forward on defense, and it’s hard not to be excited about Lagway potentially finding himself in a more quarterback- friendly offense. *(p. 120)*
-- He was the top-ranked quarterback in the 2024 recruiting class, and he put some great stuff on film when he first got opportunities in Gainesville. *(p. 121)*
-- Unfortunately, things turned quickly for the dual-threat quarterback. *(p. 121)*
-- Last year, he threw 14 picks and took 19 sacks, making far too many mistakes at the most important position on the field. *(p. 121)*
+- Reasons for optimism are the defense expected to be a little better and DJ Lagway a high-profile addition at quarterback. *(p. 120)*
+- Its supporting case is the talent to take a huge step forward on defense and excitement about Lagway in a more quarterback-friendly offense. *(p. 120)*
+- **Can Jake Spavital unlock DJ Lagway?** Lagway was the top-ranked quarterback in the 2024 class and once seen as Florida's saviour, with strong early film, before things turned: 14 interceptions and 19 sacks last year, too many mistakes at the most important position. The guide credits accumulated injuries as a factor while agreeing a change of scenery was needed. He now plays for an elite play-caller in Spavital, inheriting an offense that scored 31.1 points per game. Conditional on the line keeping him upright, the guide sees a major turnaround available, noting Sawyer Robertson put up big numbers in this system and rating Lagway arguably more talented — with deep-ball touch likely to produce big plays in a scheme known for receivers running free. *(p. 121)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- BAYLOR After everything fell apart at Florida, young quarterback DJ Lagway transferred to Baylor. *(p. 20)*
-- Like most G6 teams, a lot of players moved on, but QB Baylor Hayes was not one of them and that could make a major difference. *(p. 72)*
-- Kansas might be able to make something out of home games against Baylor and UCF, but this isn’t a team that can be trusted in 50-50 games with these quarterback options and a mediocre defense. *(p. 132)*
+Also referenced on **pp. 20, 72, 132** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -112,48 +115,31 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
+- Reasons for optimism are the defense expected to be a little better and DJ Lagway a high-profile addition at quarterback. *(p. 120)*
+- **Can Jake Spavital unlock DJ Lagway?** Lagway was the top-ranked quarterback in the 2024 class and once seen as Florida's saviour, with strong early film, before things turned: 14 interceptions and 19 sacks last year, too many mistakes at the most important position. The guide credits accumulated injuries as a factor while agreeing a change of scenery was needed. He now plays for an elite play-caller in Spavital, inheriting an offense that scored 31.1 points per game. Conditional on the line keeping him upright, the guide sees a major turnaround available, noting Sawyer Robertson put up big numbers in this system and rating Lagway arguably more talented — with deep-ball touch likely to produce big plays in a scheme known for receivers running free. *(p. 121)*
+- **How will the Bears stack up in the trenches?** A revamped offensive line must protect Lagway. Kaden Sieracki returns at right tackle, with four new faces elsewhere, three of them previous starters. The guide expects Baylor to be bigger and deeper up front with real potential for improvement, and pairs that with a loaded defensive line to suggest the team could be far more physical than in 2025 — enough toughness to compete regularly in the Big 12. *(p. 121)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
-- BAYLOR After everything fell apart at Florida, young quarterback DJ Lagway transferred to Baylor. *(p. 20)*
+Referenced in the guide on **pp. 10, 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- He was the top-ranked quarterback in the 2024 recruiting class, and he put some great stuff on film when he first got opportunities in Gainesville. *(p. 121)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
+Referenced in the guide on **pp. 10, 121** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The Bears have the talent required to take a huge step forward on defense, and it’s hard not to be excited about Lagway potentially finding himself in a more quarterback- friendly offense. *(p. 120)*
-- Well, Lagway will now be playing for an elite play-caller in Spavital, and he’s taking control of an offense that put up 31.1 points per game last year. *(p. 121)*
-- Sawyer Robertson put up massive numbers in this offense, and Lagway is arguably more talented. *(p. 121)*
-- If Lagway has his deep-ball touch this season, we should see plenty of big plays in a Spavital offense that is known for wideouts streaking down the field with defenders nowhere in sight. *(p. 121)*
-- Keeping Lagway upright was mentioned in the previous burning question and it’ll be a revamped offensive line tasked with doing so. *(p. 121)*
+- **Can Jake Spavital unlock DJ Lagway?** Lagway was the top-ranked quarterback in the 2024 class and once seen as Florida's saviour, with strong early film, before things turned: 14 interceptions and 19 sacks last year, too many mistakes at the most important position. The guide credits accumulated injuries as a factor while agreeing a change of scenery was needed. He now plays for an elite play-caller in Spavital, inheriting an offense that scored 31.1 points per game. Conditional on the line keeping him upright, the guide sees a major turnaround available, noting Sawyer Robertson put up big numbers in this system and rating Lagway arguably more talented — with deep-ball touch likely to produce big plays in a scheme known for receivers running free. *(p. 121)*
+- **How will the Bears stack up in the trenches?** A revamped offensive line must protect Lagway. Kaden Sieracki returns at right tackle, with four new faces elsewhere, three of them previous starters. The guide expects Baylor to be bigger and deeper up front with real potential for improvement, and pairs that with a loaded defensive line to suggest the team could be far more physical than in 2025 — enough toughness to compete regularly in the Big 12. *(p. 121)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
+Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- This defense is expected to be a little better than it was a year ago, and DJ Lagway is a high-profile addition at quarterback. *(p. 120)*
-- If Over bettors don’t cash their season-long plays, Aranda’s likely looking for a defensive coordinator job next year. *(p. 120)*
-- The Bears have the talent required to take a huge step forward on defense, and it’s hard not to be excited about Lagway potentially finding himself in a more quarterback- friendly offense. *(p. 120)*
-- Last year, he threw 14 picks and took 19 sacks, making far too many mistakes at the most important position on the field. *(p. 121)*
-- The Bears also have a loaded defensive line, so there’s a chance this team is way more physical than it was in 2025. *(p. 121)*
-- Aranda is no longer calling the defense. *(p. 121)*
-- While he’s viewed as a great defensive mind, he’s wisely stepping aside and allowing a new voice to step in. *(p. 121)*
-- Joe Klanderman is the guy hoping to solve Baylor’s recent defensive issues. *(p. 121)*
-- That will leave the secondary a little more exposed than usual, but the defensive backs on this team are good enough to manage that. *(p. 121)*
-- Realistically, this defense has improved at all three levels, so last year’s 32.6 opponent points per game should come down considerably. *(p. 121)*
+- Reasons for optimism are the defense expected to be a little better and DJ Lagway a high-profile addition at quarterback. *(p. 120)*
+- **How will the Bears stack up in the trenches?** A revamped offensive line must protect Lagway. Kaden Sieracki returns at right tackle, with four new faces elsewhere, three of them previous starters. The guide expects Baylor to be bigger and deeper up front with real potential for improvement, and pairs that with a loaded defensive line to suggest the team could be far more physical than in 2025 — enough toughness to compete regularly in the Big 12. *(p. 121)*
+- **Is the Baylor defense going to be a mess again?** Aranda has stopped calling the defense, which the guide calls a wise step aside despite his reputation as a defensive mind. Joe Klanderman takes over after six years at Kansas State and has been open about wanting activity in the opposing backfield, so the guide expects plenty of blitzing. It follows the trade-off honestly: that exposes the secondary more than usual, but rates the defensive backs good enough to manage. Its conclusion is that the defense has improved at all three levels and last year's 32.6 points allowed per game should come down considerably. *(p. 121)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kansas might be able to make something out of home games against Baylor and UCF, but this isn’t a team that can be trusted in 50-50 games with these quarterback options and a mediocre defense. *(p. 132)*
+Referenced in the guide on **pp. 132** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -224,22 +210,17 @@ Prices printed on the team page *(p. 121)*:
 
 ## 21. Betting Notes / Best Bets
 
+- The guide states the stakes bluntly: with a tough schedule and a 5.5 win total, failure to cash the Over likely means Aranda is looking for a defensive coordinator job next year. *(p. 120)*
+- Recommendation is Over 5.5 wins. It flags a neutral-site game against Auburn on 5 September as potentially decisive for reaching six, while judging the Over the better side. *(p. 120)*
+- Its supporting case is the talent to take a huge step forward on defense and excitement about Lagway in a more quarterback-friendly offense. *(p. 120)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- And most importantly, they rebuilt this offensive line with four-star transfers in Tennessee OT Lance Heard, Ohio State OG Tegra Tshabola, and Baylor center Coleton Price. *(p. 10)*
+Also referenced on **pp. 10** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Last year, he threw 14 picks and took 19 sacks, making far too many mistakes at the most important position on the field. *(p. 121)*
-- Well, Lagway will now be playing for an elite play-caller in Spavital, and he’s taking control of an offense that put up 31.1 points per game last year. *(p. 121)*
-- Aranda and Co. have Kaden Sieracki, a starter last year, back at right tackle, but four fresh faces were brought in at the other spots. *(p. 121)*
-- The Bears also have a loaded defensive line, so there’s a chance this team is way more physical than it was in 2025. *(p. 121)*
-- Realistically, this defense has improved at all three levels, so last year’s 32.6 opponent points per game should come down considerably. *(p. 121)*
+- Dave Aranda's start was excellent — 2-7 in year one, then 12-2 and a Sugar Bowl win in year two — but Baylor has had three losing seasons in the last four, and the guide says it is honestly shocking he still has his job. *(p. 120)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- In 2023, Matt Rhule came to Lincoln with the reputation of a quick rebuilder of programs from what he did at Temple and then at Baylor. *(p. 164)*
+Referenced in the guide on **pp. 164** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -285,42 +266,38 @@ As printed on p. 121. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 5.5**.
-- Well, Lagway will now be playing for an elite play-caller in Spavital, and he’s taking control of an offense that put up 31.1 points per game last year. *(p. 121)*
-- Sawyer Robertson put up massive numbers in this offense, and Lagway is arguably more talented. *(p. 121)*
-- If Lagway has his deep-ball touch this season, we should see plenty of big plays in a Spavital offense that is known for wideouts streaking down the field with defenders nowhere in sight. *(p. 121)*
-- Baylor should be bigger and deeper along the line, so the potential is there for this group to be much improved from a year ago. *(p. 121)*
-- Realistically, this defense has improved at all three levels, so last year’s 32.6 opponent points per game should come down considerably. *(p. 121)*
+- Reasons for optimism are the defense expected to be a little better and DJ Lagway a high-profile addition at quarterback. *(p. 120)*
+- Lagway was the top-ranked quarterback in the 2024 class and once seen as Florida's saviour, with strong early film, before things turned: 14 interceptions and 19 sacks last year, too many mistakes at the most important position. The guide credits accumulated injuries as a factor while agreeing a change of scenery was needed. He now plays for an elite play-caller in Spavital, inheriting an offense that scored 31.1 points per game. Conditional on the line keeping him upright, the guide sees a major turnaround available, noting Sawyer Robertson put up big numbers in this system and rating Lagway arguably more talented — with deep-ball touch likely to produce big plays in a scheme known for receivers running free. *(p. 121)*
+- A revamped offensive line must protect Lagway. Kaden Sieracki returns at right tackle, with four new faces elsewhere, three of them previous starters. The guide expects Baylor to be bigger and deeper up front with real potential for improvement, and pairs that with a loaded defensive line to suggest the team could be far more physical than in 2025 — enough toughness to compete regularly in the Big 12. *(p. 121)*
+- Aranda has stopped calling the defense, which the guide calls a wise step aside despite his reputation as a defensive mind. Joe Klanderman takes over after six years at Kansas State and has been open about wanting activity in the opposing backfield, so the guide expects plenty of blitzing. It follows the trade-off honestly: that exposes the secondary more than usual, but rates the defensive backs good enough to manage. Its conclusion is that the defense has improved at all three levels and last year's 32.6 points allowed per game should come down considerably. *(p. 121)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **5.9 wins** against a posted total of 6.5 — **-0.6** against this team.
-- But the schedule is rather tough, and the team’s win total sits at 5.5. *(p. 120)*
-- Over 5.5 Baylor has a really tough schedule. *(p. 120)*
-- Some piled-up injuries definitely played a role in that, but it was clear a change in scenery was needed. *(p. 121)*
-- Keeping Lagway upright was mentioned in the previous burning question and it’ll be a revamped offensive line tasked with doing so. *(p. 121)*
-- TCU plays several tough road games, as the team will go on the road to battle UCF, Baylor, Arizona, and Texas Tech. *(p. 138)*
-- The West Division is the weaker of the two in the Sun Belt, but it is an objectively stronger conference on the whole and Baylor joins LSU on the non-conference schedule. *(p. 338)*
+- The guide states the stakes bluntly: with a tough schedule and a 5.5 win total, failure to cash the Over likely means Aranda is looking for a defensive coordinator job next year. *(p. 120)*
+- Lagway was the top-ranked quarterback in the 2024 class and once seen as Florida's saviour, with strong early film, before things turned: 14 interceptions and 19 sacks last year, too many mistakes at the most important position. The guide credits accumulated injuries as a factor while agreeing a change of scenery was needed. He now plays for an elite play-caller in Spavital, inheriting an offense that scored 31.1 points per game. Conditional on the line keeping him upright, the guide sees a major turnaround available, noting Sawyer Robertson put up big numbers in this system and rating Lagway arguably more talented — with deep-ball touch likely to produce big plays in a scheme known for receivers running free. *(p. 121)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 121)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 121)*. Its analysis, in reference form:
 
 ### Can Jake Spavital unlock DJ Lagway?
 
-Lagway was once viewed as the savior in Florida. He was the top-ranked quarterback in the 2024 recruiting class, and he put some great stuff on film when he first got opportunities in Gainesville. Unfortunately, things turned quickly for the dual-threat quarterback. Last year, he threw 14 picks and took 19 sacks, making far too many mistakes at the most important position on the field. Some piled-up injuries definitely played a role in that, but it was clear a change in scenery was needed. Well, Lagway will now be playing for an elite play-caller in Spavital, and he’s taking control of an offense that put up 31.1 points per game last year. If the group up front can do a good job of keeping Lagway upright, we could see a major turnaround. Sawyer Robertson put up massive numbers in this offense, and Lagway is arguably more talented. If Lagway has his deep-ball touch this season, we should see plenty of big plays in a Spavital offense that is known for wideouts streaking down the field with defenders nowhere in sight.
+Lagway was the top-ranked quarterback in the 2024 class and once seen as Florida's saviour, with strong early film, before things turned: 14 interceptions and 19 sacks last year, too many mistakes at the most important position. The guide credits accumulated injuries as a factor while agreeing a change of scenery was needed. He now plays for an elite play-caller in Spavital, inheriting an offense that scored 31.1 points per game. Conditional on the line keeping him upright, the guide sees a major turnaround available, noting Sawyer Robertson put up big numbers in this system and rating Lagway arguably more talented — with deep-ball touch likely to produce big plays in a scheme known for receivers running free. *(p. 121)*
 
 ### How will the Bears stack up in the trenches?
 
-Keeping Lagway upright was mentioned in the previous burning question and it’ll be a revamped offensive line tasked with doing so. Aranda and Co. have Kaden Sieracki, a starter last year, back at right tackle, but four fresh faces were brought in at the other spots. Three of those four were starters. Baylor should be bigger and deeper along the line, so the potential is there for this group to be much improved from a year ago. The Bears also have a loaded defensive line, so there’s a chance this team is way more physical than it was in 2025. And overall, the squad should have the toughness required to compete regularly in the Big 12.
+A revamped offensive line must protect Lagway. Kaden Sieracki returns at right tackle, with four new faces elsewhere, three of them previous starters. The guide expects Baylor to be bigger and deeper up front with real potential for improvement, and pairs that with a loaded defensive line to suggest the team could be far more physical than in 2025 — enough toughness to compete regularly in the Big 12. *(p. 121)*
 
 ### Is the Baylor defense going to be a mess again?
 
-Aranda is no longer calling the defense. While he’s viewed as a great defensive mind, he’s wisely stepping aside and allowing a new voice to step in. Joe Klanderman is the guy hoping to solve Baylor’s recent defensive issues. Klanderman spent the last six years with Kansas State, and he has been open about wanting his team to be active in the opposing backfield. We should see a good amount of blitzing. That will leave the secondary a little more exposed than usual, but the defensive backs on this team are good enough to manage that. Realistically, this defense has improved at all three levels, so last year’s 32.6 opponent points per game should come down considerably.
+Aranda has stopped calling the defense, which the guide calls a wise step aside despite his reputation as a defensive mind. Joe Klanderman takes over after six years at Kansas State and has been open about wanting activity in the opposing backfield, so the guide expects plenty of blitzing. It follows the trade-off honestly: that exposes the secondary more than usual, but rates the defensive backs good enough to manage. Its conclusion is that the defense has improved at all three levels and last year's 32.6 points allowed per game should come down considerably. *(p. 121)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -338,6 +315,8 @@ No source conflict identified for this team.
 | 10, 20, 72, 126, 132, 138, 140, 164, 338 | Other pages naming this team |
 
 This team is named in **17 sentences across 11 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 20, 72, 126, 132, 138, 140, 164, 338.
 
 ## 29. Cross-Links
 

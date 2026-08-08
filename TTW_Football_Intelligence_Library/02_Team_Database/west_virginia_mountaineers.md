@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 5.6–6.4 overall, 3.4–5.6 in conference |
 | **Schedule strength** | 44.94 (#44 toughest of 138) |
 
-### Season outlook as written in the guide (p. 146)
+### Season outlook — VSiN's analysis in reference form (p. 146)
 
-Rich Rodriguez went 4-8 in his return to West Virginia. It wasn’t the greatest season in the world, but his team won the Backyard Brawl against Pittsburgh and hung around in some games against good teams. Now, with a more talented roster and a much easier schedule, people are expecting the Mountaineers to flirt with bowl eligibility. After having only 10 returning starters heading into last season, Rodriguez has 12 entering the 2026 season. West Virginia did well by adding some big-time transfer talent on offense, so this team should be a bit harder to stop. However, this was a shaky team on the defensive side of the ball last year. If the Mountaineers’ defense can’t find ways to consistently get off the field, Year 2 of the Rich Rod return won’t be much better than Year 1. Under 5.5 West Virginia should get off to a 2-0 start, as the team will take on Coastal Carolina and Tennessee-Martin. From there, things get a little tougher. The Mountaineers will face a tough Virginia team before hosting Oklahoma State to kick off the Big 12 season. The outcome of that meeting with the Cowboys could determine whether they go Over or Under 5.5. The lean here is Under, though. Hawkins is a good running quarterback, but he has been underwhelming as a passer. Also, this defense needs to be much better after getting torched last year. If not, the offense needs to be flat-out special, which doesn’t seem likely.
+- Rich Rodriguez went 4-8 in his return. The guide's balanced read is that it was not a great season but his team won the Backyard Brawl against Pittsburgh and hung around against good opposition. *(p. 146)*
+- With a more talented roster and a much easier schedule, expectations are for West Virginia to flirt with bowl eligibility. Returning starters rise from 10 to 12. *(p. 146)*
+- The Mountaineers added big-time transfer talent on offense and should be harder to stop. *(p. 146)*
+- The guide's central condition is defensive: this was a shaky unit, and unless it can get off the field consistently, year two will not be much better than year one. *(p. 146)*
+- Recommendation is Under 5.5 wins. It expects a 2-0 start against Coastal Carolina and Tennessee-Martin before a tough Virginia game and then Oklahoma State at home to open Big 12 play — a result it says could decide the Over or Under. *(p. 146)*
+- Its lean rests on two specifics: Michael Hawkins is a good runner but underwhelming as a passer, and the defense needs to be much better after being torched — otherwise the offense would have to be flat-out special, which it doubts. *(p. 146)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +85,9 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
+- Rich Rodriguez went 4-8 in his return. The guide's balanced read is that it was not a great season but his team won the Backyard Brawl against Pittsburgh and hung around against good opposition. *(p. 146)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- I can’t say that about North Texas’s hire of Brown, who was let go from West Virginia in 2024 and served as Steve Sarkisian’s assistant in 2025. *(p. 29)*
-- With Rich Rod back at West Virginia where it all started, the Gamecocks made what turned out to be a savvy hire of Kelly, who was an assistant here way back in the mid-90s. *(p. 192)*
-- Gibson was a DC for a decade at West Virginia and NC State before getting his first crack as a head coach here with the Herd. *(p. 329)*
-- Many weren’t sure about the hire of Parker, who was the OC at Notre Dame, but was an attractive candidate to Troy because he was the OC at West Virginia under former Trojans head coach Neal Brown. *(p. 344)*
+Also referenced on **pp. 29, 192, 329, 344** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,14 +95,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 146)*.
 
-- Hawkins is a good running quarterback, but he has been underwhelming as a passer. *(p. 146)*
-- The Mountaineers are going to need to be much better in 2026, and that’s especially true when looking at the passing defense. *(p. 147)*
-- West Virginia looked to address the weak passing defense by adding some bigger corners from smaller programs, and the team also looks a bit better at safety. *(p. 147)*
-- Michael Hawkins should be a good quarterback in the Rich Rod offense. *(p. 147)*
+- Its lean rests on two specifics: Michael Hawkins is a good runner but underwhelming as a passer, and the defense needs to be much better after being torched — otherwise the offense would have to be flat-out special, which it doubts. *(p. 146)*
+- **What can be expected from some of these offensive pieces?** Hawkins should suit the Rodriguez offense — clear room to improve as a thrower, but an electric runner who made big plays at Oklahoma. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. The guide names receiver as the one group that disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. *(p. 147)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
+Also referenced on **pp. 75** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -115,45 +114,32 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- West Virginia did well by adding some big-time transfer talent on offense, so this team should be a bit harder to stop. *(p. 146)*
-- Western Kentucky transfer Jack Cassidy is set to be the kicker for the Mountaineers, but he’s just 3 of 3 on field goals in his career. *(p. 147)*
-- If he can’t, Alabama transfer Peter Notaro will get his crack at it. *(p. 147)*
+- The Mountaineers added big-time transfer talent on offense and should be harder to stop. *(p. 146)*
+- **Will the Mountaineers get any better defensively?** West Virginia allowed 30.8 points per game and ranked 64th nationally in Adjusted EPA per play allowed at -0.01, with the pass defense the acute problem at 265.0 yards allowed per game, 129th in FBS. The response was bigger corners from smaller programmes and an apparently improved safety group. The guide declines to buy a complete turnaround, and identifies the trade-off precisely: the defensive line looks weak, so gains against the pass could be handed back against the run. *(p. 147)*
+- **What can be expected from some of these offensive pieces?** Hawkins should suit the Rodriguez offense — clear room to improve as a thrower, but an electric runner who made big plays at Oklahoma. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. The guide names receiver as the one group that disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. *(p. 147)*
+- **Will special teams be a problem for West Virginia?** Western Kentucky transfer Jack Cassidy is set to kick but is only 3 of 3 in his career, though 2 of 2 from 50-plus, so the guide credits the leg while questioning how he handles pressure at a big programme, with Alabama transfer Peter Notaro next in line. On punting it raises a specific caveat about Bryan Hansen, who averaged 47.9 yards at Colorado: that is high-level production, but distance is easier at altitude, so Morgantown will be the real test. *(p. 147)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
+Referenced in the guide on **pp. 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Only West Virginia got more class of 2026 commits. *(p. 99)*
+Referenced in the guide on **pp. 99** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- West Virginia did well by adding some big-time transfer talent on offense, so this team should be a bit harder to stop. *(p. 146)*
-- If not, the offense needs to be flat-out special, which doesn’t seem likely. *(p. 146)*
-- Michael Hawkins should be a good quarterback in the Rich Rod offense. *(p. 147)*
-- An improved offensive line should also help there. *(p. 147)*
-- The only position group that leaves a bit to be desired is the wide receiver room. *(p. 147)*
+- The Mountaineers added big-time transfer talent on offense and should be harder to stop. *(p. 146)*
+- **What can be expected from some of these offensive pieces?** Hawkins should suit the Rodriguez offense — clear room to improve as a thrower, but an electric runner who made big plays at Oklahoma. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. The guide names receiver as the one group that disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. *(p. 147)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
+Referenced in the guide on **pp. 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- However, this was a shaky team on the defensive side of the ball last year. *(p. 146)*
-- If the Mountaineers’ defense can’t find ways to consistently get off the field, Year 2 of the Rich Rod return won’t be much better than Year 1. *(p. 146)*
-- Also, this defense needs to be much better after getting torched last year. *(p. 146)*
-- The Mountaineers are going to need to be much better in 2026, and that’s especially true when looking at the passing defense. *(p. 147)*
-- West Virginia looked to address the weak passing defense by adding some bigger corners from smaller programs, and the team also looks a bit better at safety. *(p. 147)*
-- However, it’s still hard to fully buy into a complete turnaround here, and the team looks weak along the defensive line. *(p. 147)*
+- The guide's central condition is defensive: this was a shaky unit, and unless it can get off the field consistently, year two will not be much better than year one. *(p. 146)*
+- Its lean rests on two specifics: Michael Hawkins is a good runner but underwhelming as a passer, and the defense needs to be much better after being torched — otherwise the offense would have to be flat-out special, which it doubts. *(p. 146)*
+- **Will the Mountaineers get any better defensively?** West Virginia allowed 30.8 points per game and ranked 64th nationally in Adjusted EPA per play allowed at -0.01, with the pass defense the acute problem at 265.0 yards allowed per game, 129th in FBS. The response was bigger corners from smaller programmes and an apparently improved safety group. The guide declines to buy a complete turnaround, and identifies the trade-off precisely: the defensive line looks weak, so gains against the pass could be handed back against the run. *(p. 147)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- For example, Jimmori Robinson had 10.5 sacks in 2024 and played at West Virginia last season. *(p. 77)*
+Referenced in the guide on **pp. 77** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -226,25 +212,14 @@ Prices printed on the team page *(p. 147)*:
 
 ## 21. Betting Notes / Best Bets
 
-- The best bet is probably Jaden Bray. *(p. 147)*
+- Recommendation is Under 5.5 wins. It expects a 2-0 start against Coastal Carolina and Tennessee-Martin before a tough Virginia game and then Oklahoma State at home to open Big 12 play — a result it says could decide the Over or Under. *(p. 146)*
+- Its lean rests on two specifics: Michael Hawkins is a good runner but underwhelming as a passer, and the defense needs to be much better after being torched — otherwise the offense would have to be flat-out special, which it doubts. *(p. 146)*
 
 ## 22. Historical / Situational Trends
 
-- After having only 10 returning starters heading into last season, Rodriguez has 12 entering the 2026 season. *(p. 146)*
-- However, this was a shaky team on the defensive side of the ball last year. *(p. 146)*
-- Also, this defense needs to be much better after getting torched last year. *(p. 146)*
-- West Virginia allowed 30.8 points per game last year, and the team was also just 64th in the nation in Adjusted EPA/Play Allowed (-0.01). *(p. 147)*
-- The Mountaineers are going to need to be much better in 2026, and that’s especially true when looking at the passing defense. *(p. 147)*
-- They gave up 265.0 yards per game through the air last season, ranking 129th in FBS. *(p. 147)*
-- Last season, Cook rushed for 1,659 yards and 16 touchdowns. *(p. 147)*
-- He should be one of the best running backs in the conference this year, giving West Virginia a running element the team lacked in 2025. *(p. 147)*
-- He averaged 47.9 yards per punt last season, so he has performed at a high level before. *(p. 147)*
+- Rich Rodriguez went 4-8 in his return. The guide's balanced read is that it was not a great season but his team won the Backyard Brawl against Pittsburgh and hung around against good opposition. *(p. 146)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- I can’t say that about North Texas’s hire of Brown, who was let go from West Virginia in 2024 and served as Steve Sarkisian’s assistant in 2025. *(p. 29)*
-- For example, Jimmori Robinson had 10.5 sacks in 2024 and played at West Virginia last season. *(p. 77)*
-- Also, West Virginia has historically been a tough place to play when the team is good, and the Mountaineers are expected to be much better in 2026. *(p. 117)*
+Referenced in the guide on **pp. 29, 77, 117** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -290,42 +265,39 @@ As printed on p. 147. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.6 wins** against a posted total of 5.5 — **+0.1** in this team's favour.
-- Rich Rodriguez went 4-8 in his return to West Virginia. *(p. 146)*
-- Now, with a more talented roster and a much easier schedule, people are expecting the Mountaineers to flirt with bowl eligibility. *(p. 146)*
-- If the Mountaineers’ defense can’t find ways to consistently get off the field, Year 2 of the Rich Rod return won’t be much better than Year 1. *(p. 146)*
-- He undoubtedly has room to improve as a thrower, but he’s an electric runner and made some big plays at Oklahoma. *(p. 147)*
-- He should be one of the best running backs in the conference this year, giving West Virginia a running element the team lacked in 2025. *(p. 147)*
-- An improved offensive line should also help there. *(p. 147)*
-- The best bet is probably Jaden Bray. *(p. 147)*
+- Rich Rodriguez went 4-8 in his return. The guide's balanced read is that it was not a great season but his team won the Backyard Brawl against Pittsburgh and hung around against good opposition. *(p. 146)*
+- With a more talented roster and a much easier schedule, expectations are for West Virginia to flirt with bowl eligibility. Returning starters rise from 10 to 12. *(p. 146)*
+- West Virginia allowed 30.8 points per game and ranked 64th nationally in Adjusted EPA per play allowed at -0.01, with the pass defense the acute problem at 265.0 yards allowed per game, 129th in FBS. The response was bigger corners from smaller programmes and an apparently improved safety group. The guide declines to buy a complete turnaround, and identifies the trade-off precisely: the defensive line looks weak, so gains against the pass could be handed back against the run. *(p. 147)*
+- Hawkins should suit the Rodriguez offense — clear room to improve as a thrower, but an electric runner who made big plays at Oklahoma. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. The guide names receiver as the one group that disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. *(p. 147)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- The Mountaineers will face a tough Virginia team before hosting Oklahoma State to kick off the Big 12 season. *(p. 146)*
-- West Virginia looked to address the weak passing defense by adding some bigger corners from smaller programs, and the team also looks a bit better at safety. *(p. 147)*
-- However, it’s still hard to fully buy into a complete turnaround here, and the team looks weak along the defensive line. *(p. 147)*
-- Also, West Virginia has historically been a tough place to play when the team is good, and the Mountaineers are expected to be much better in 2026. *(p. 117)*
+- Recommendation is Under 5.5 wins. It expects a 2-0 start against Coastal Carolina and Tennessee-Martin before a tough Virginia game and then Oklahoma State at home to open Big 12 play — a result it says could decide the Over or Under. *(p. 146)*
+- West Virginia allowed 30.8 points per game and ranked 64th nationally in Adjusted EPA per play allowed at -0.01, with the pass defense the acute problem at 265.0 yards allowed per game, 129th in FBS. The response was bigger corners from smaller programmes and an apparently improved safety group. The guide declines to buy a complete turnaround, and identifies the trade-off precisely: the defensive line looks weak, so gains against the pass could be handed back against the run. *(p. 147)*
+- Western Kentucky transfer Jack Cassidy is set to kick but is only 3 of 3 in his career, though 2 of 2 from 50-plus, so the guide credits the leg while questioning how he handles pressure at a big programme, with Alabama transfer Peter Notaro next in line. On punting it raises a specific caveat about Bryan Hansen, who averaged 47.9 yards at Colorado: that is high-level production, but distance is easier at altitude, so Morgantown will be the real test. *(p. 147)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 147)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 147)*. Its analysis, in reference form:
 
 ### Will the Mountaineers get any better defensively?
 
-West Virginia allowed 30.8 points per game last year, and the team was also just 64th in the nation in Adjusted EPA/Play Allowed (-0.01). The Mountaineers are going to need to be much better in 2026, and that’s especially true when looking at the passing defense. They gave up 265.0 yards per game through the air last season, ranking 129th in FBS. West Virginia looked to address the weak passing defense by adding some bigger corners from smaller programs, and the team also looks a bit better at safety. However, it’s still hard to fully buy into a complete turnaround here, and the team looks weak along the defensive line. So, anything the Mountaineers gain defending the pass could be given back defending the run.
+West Virginia allowed 30.8 points per game and ranked 64th nationally in Adjusted EPA per play allowed at -0.01, with the pass defense the acute problem at 265.0 yards allowed per game, 129th in FBS. The response was bigger corners from smaller programmes and an apparently improved safety group. The guide declines to buy a complete turnaround, and identifies the trade-off precisely: the defensive line looks weak, so gains against the pass could be handed back against the run. *(p. 147)*
 
 ### What can be expected from some of these offensive pieces?
 
-Michael Hawkins should be a good quarterback in the Rich Rod offense. He undoubtedly has room to improve as a thrower, but he’s an electric runner and made some big plays at Oklahoma. The Mountaineers also added Cam Cook from Jacksonville State. Last season, Cook rushed for 1,659 yards and 16 touchdowns. He should be one of the best running backs in the conference this year, giving West Virginia a running element the team lacked in 2025. An improved offensive line should also help there. The only position group that leaves a bit to be desired is the wide receiver room. It’s unclear who will step up and make plays for Hawkins on money downs. The best bet is probably Jaden Bray.
+Hawkins should suit the Rodriguez offense — clear room to improve as a thrower, but an electric runner who made big plays at Oklahoma. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. The guide names receiver as the one group that disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. *(p. 147)*
 
 ### Will special teams be a problem for West Virginia?
 
-Western Kentucky transfer Jack Cassidy is set to be the kicker for the Mountaineers, but he’s just 3 of 3 on field goals in his career. He did go 2 of 2 on 50+ yarders, so he clearly has a leg. But it’ll be interesting to see how he handles the pressure of playing for a massive program. If he can’t, Alabama transfer Peter Notaro will get his crack at it. We’ll also have to see how Bryan Hansen looks playing outside of Colorado. He averaged 47.9 yards per punt last season, so he has performed at a high level before. But it’s easier to kick for distance at that altitude. Let’s see how he looks in Morgantown.
+Western Kentucky transfer Jack Cassidy is set to kick but is only 3 of 3 in his career, though 2 of 2 from 50-plus, so the guide credits the leg while questioning how he handles pressure at a big programme, with Alabama transfer Peter Notaro next in line. On punting it raises a specific caveat about Bryan Hansen, who averaged 47.9 yards at Colorado: that is high-level production, but distance is easier at altitude, so Morgantown will be the real test. *(p. 147)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -343,6 +315,8 @@ No source conflict identified for this team.
 | 24, 29, 63, 75, 77, 99, 108, 117, 125, 136, 192, 329, 344 | Other pages naming this team |
 
 This team is named in **30 sentences across 15 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 24, 29, 63, 75, 77, 99, 108, 117, 125, 136, 192, 329, 344.
 
 ## 29. Cross-Links
 

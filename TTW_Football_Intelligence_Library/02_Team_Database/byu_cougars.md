@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 9.0–3.0 overall, 6.8–2.2 in conference |
 | **Schedule strength** | 44.1 (#49 toughest of 138) |
 
-### Season outlook as written in the guide (p. 122)
+### Season outlook — VSiN's analysis in reference form (p. 122)
 
-Kalani Sitake has done absurd things as the head coach of his alma mater. BYU has won double-digit games in four of the last six seasons, and last year’s Cougars squad had a real case for making the College Football Playoff field. Sitake has been so successful that Penn State was dying for him to take over the Nittany Lions program. In the end, BYU’s boosters dipped into their bottomless pit of money to bring him back. Sitake will now look to take a step forward this season, meaning he’ll be looking to get the Cougars into the CFP for the first time ever. Doing so will be difficult, as the Big 12 is loaded with talented teams. However, BYU returns nearly every impactful player from last year’s 12-win team. Over 8.5 You can nitpick some things when looking at this year’s BYU team, but it’s pretty clear this squad has the goods. Winning nine games will be tough with the Cougars’ difficult schedule, but they do get Notre Dame at LaVell Edwards Stadium. That helps in one of their biggest challenges of the season, and there’s a real chance that’ll be the only game of the season in which they’ll be getting points. If that’s not the case, perhaps they’ll be ‘dogs at Utah on November 7. Either way, there should be nine wins here.
+- Kalani Sitake has won double-digit games in four of the last six seasons, and last year's team had a real case for the playoff field. *(p. 122)*
+- His success drew Penn State, which the guide says was desperate for him; BYU's boosters brought him back with what it describes as a bottomless pit of money. *(p. 122)*
+- The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
+- Recommendation is Over 8.5 wins. The guide allows that things can be nitpicked but says the squad clearly has the goods. *(p. 122)*
+- Nine wins will be tough on a difficult schedule, though BYU hosts Notre Dame at LaVell Edwards Stadium. The guide makes a market observation: that may be the only game all season in which the Cougars receive points, with a possible exception at Utah on 7 November. Either way it expects nine wins. *(p. 122)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,15 +84,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Kalani Sitake has done absurd things as the head coach of his alma mater. *(p. 122)*
-- But BYU will have a new coach leading the defense, as Jay Hill went to join Kyle Whittingham at Michigan. *(p. 123)*
+- Kalani Sitake has won double-digit games in four of the last six seasons, and last year's team had a real case for the playoff field. *(p. 122)*
+- His success drew Penn State, which the guide says was desperate for him; BYU's boosters brought him back with what it describes as a bottomless pit of money. *(p. 122)*
+- **Will new DC Kelly Poppinga hit the ground running?** BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- UTAH (GAME OF THE YEAR - NOV. 7) Long-time Utah defensive coordinator Morgan Scalley is now a first-time head coach there, while BYU’s Kalani Sitake, who worked with Scalley for almost a decade in Salt Lake City, is entering his 11th season as the Cougars’ head man. *(p. 7)*
-- On top of the perceived coaching edge, I believe BYU has the superior roster. *(p. 7)*
-- BYU The second choice on the Big 12 odds board is BYU (+550), but coach Kalani Sitake does not draw an easy schedule. *(p. 18)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
+Also referenced on **pp. 7, 18, 159** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -96,16 +98,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 122)*.
 
-- He threw for 3,033 yards with 15 touchdowns and only seven picks, and he also ran for 527 yards and 11 touchdowns. *(p. 123)*
-- However, Bachmeier was far more comfortable running than he was passing, and improving his accuracy to become a more cerebral pocket passer is the next stage in his development. *(p. 123)*
-- Bachmeier had an overall PFF grade of 78.9 last year, so he graded out as a top-50 quarterback. *(p. 123)*
-- If the passing grade can surpass the rushing grade in 2026, BYU has something special at the quarterback spot. *(p. 123)*
-- That said, Bachmeier will not only be hoping to progress as a passer, he’ll be doing so without receivers he’s comfortable working with. *(p. 123)*
+- **How much better will Bear Bachmeier be as a passer?** Bachmeier was not meant to start as a freshman but seized the job, throwing for 3,033 yards with 15 touchdowns and seven interceptions while running for 527 yards and 11 touchdowns. The guide's diagnosis is that he was far more comfortable running than passing, and that becoming a more cerebral pocket passer with better accuracy is the next stage. It uses the grades to make the point precisely: an overall PFF grade of 78.9 put him in the top 50, but his 77.0 rushing grade was what raised the profile. If the passing grade surpasses the rushing grade, BYU has something special. *(p. 123)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- BEAR BACHMEIER, BYU As a true freshman, Bachmeier threw for 3,000 yards or more, rushed for 500 or more, accounted for at least 25 TDs, and had 10 or fewer turnovers, becoming only the 19th power conference quarterback to accomplish that feat in the past 20 years. *(p. 45)*
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
+Also referenced on **pp. 45, 75** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -121,44 +116,30 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 ## 11. Transfer Portal
 
-- It’ll be interesting to see who emerges as the top dog, but don’t sleep on Oregon transfer Kyle Kasper. *(p. 123)*
-- Last year, the Cougars actually gave up only 19.1, so the vibes should be nothing but positive with eight players who started games in 2025 back — including talented Cal transfer Cade Uluave. *(p. 123)*
+- **Can the wide receiver group overcome the loss of Parker Kingston?** Kingston had 97 catches for 928 yards and five touchdowns and BYU hoped to keep the shifty slot man, but he was expelled from school over off-field conduct. That leaves heavy reliance on an unproven group, and the guide draws out the compounding problem: Bachmeier must develop as a passer while working without receivers he is comfortable with. It flags Oregon transfer Kyle Kasper as one to watch, a 6-foot-6 contested-catch target who moves well for his size. *(p. 123)*
+- **Will new DC Kelly Poppinga hit the ground running?** BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
+Referenced in the guide on **pp. 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Bachmeier wasn’t supposed to be a freshman starter for BYU, but he ran with the opportunity. *(p. 123)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- BEAR BACHMEIER, BYU As a true freshman, Bachmeier threw for 3,000 yards or more, rushed for 500 or more, accounted for at least 25 TDs, and had 10 or fewer turnovers, becoming only the 19th power conference quarterback to accomplish that feat in the past 20 years. *(p. 45)*
+Referenced in the guide on **pp. 45, 123** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- It was, however, his rushing grade (77.0) that raised his overall profile. *(p. 123)*
-- If the passing grade can surpass the rushing grade in 2026, BYU has something special at the quarterback spot. *(p. 123)*
-- That said, Bachmeier will not only be hoping to progress as a passer, he’ll be doing so without receivers he’s comfortable working with. *(p. 123)*
+- The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
+- **How much better will Bear Bachmeier be as a passer?** Bachmeier was not meant to start as a freshman but seized the job, throwing for 3,033 yards with 15 touchdowns and seven interceptions while running for 527 yards and 11 touchdowns. The guide's diagnosis is that he was far more comfortable running than passing, and that becoming a more cerebral pocket passer with better accuracy is the next stage. It uses the grades to make the point precisely: an overall PFF grade of 78.9 put him in the top 50, but his 77.0 rushing grade was what raised the profile. If the passing grade surpasses the rushing grade, BYU has something special. *(p. 123)*
+- **Can the wide receiver group overcome the loss of Parker Kingston?** Kingston had 97 catches for 928 yards and five touchdowns and BYU hoped to keep the shifty slot man, but he was expelled from school over off-field conduct. That leaves heavy reliance on an unproven group, and the guide draws out the compounding problem: Bachmeier must develop as a passer while working without receivers he is comfortable with. It flags Oregon transfer Kyle Kasper as one to watch, a 6-foot-6 contested-catch target who moves well for his size. *(p. 123)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Portal pickups from every corner of the country make up that unit, along with most of the offense, though QB Ryder Burton, who came to UAB by way of BYU and West Virginia, is at least a starting point. *(p. 75)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
+Referenced in the guide on **pp. 75, 159** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- BYU is coming off back-to-back seasons in which the defense has allowed 19.6 or fewer points per game. *(p. 123)*
-- But BYU will have a new coach leading the defense, as Jay Hill went to join Kyle Whittingham at Michigan. *(p. 123)*
-- Things should be fine considering the playmakers the Cougars have scattered throughout the defense, but you never quite know. *(p. 123)*
+- The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
+- **Will new DC Kelly Poppinga hit the ground running?** BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- UTAH (GAME OF THE YEAR - NOV. 7) Long-time Utah defensive coordinator Morgan Scalley is now a first-time head coach there, while BYU’s Kalani Sitake, who worked with Scalley for almost a decade in Salt Lake City, is entering his 11th season as the Cougars’ head man. *(p. 7)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
-- The leader of this defense could be well-traveled linebacker Harrison Taggart, who previously played at Oregon, BYU and California. *(p. 279)*
-- Mendenhall was known for producing strong defenses at BYU, but his reputation on that side of the ball has faded the past few years. *(p. 279)*
+Referenced in the guide on **pp. 7, 159, 279** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -199,7 +180,8 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- BYU is coming off back-to-back seasons in which the defense has allowed 19.6 or fewer points per game. *(p. 123)*
+
+Referenced in the guide on **pp. 123** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -229,27 +211,16 @@ Prices printed on the team page *(p. 123)*:
 
 ## 21. Betting Notes / Best Bets
 
+- Recommendation is Over 8.5 wins. The guide allows that things can be nitpicked but says the squad clearly has the goods. *(p. 122)*
+- Nine wins will be tough on a difficult schedule, though BYU hosts Notre Dame at LaVell Edwards Stadium. The guide makes a market observation: that may be the only game all season in which the Cougars receive points, with a possible exception at Utah on 7 November. Either way it expects nine wins. *(p. 122)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Texas Tech is an odds-on favorite to win the Big 12 Conference Championship, but BYU and Utah aren’t too far back on the oddsboard. *(p. 115)*
+Also referenced on **pp. 115** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- BYU has won double-digit games in four of the last six seasons, and last year’s Cougars squad had a real case for making the College Football Playoff field. *(p. 122)*
-- Sitake will now look to take a step forward this season, meaning he’ll be looking to get the Cougars into the CFP for the first time ever. *(p. 122)*
-- However, BYU returns nearly every impactful player from last year’s 12-win team. *(p. 122)*
-- Bachmeier had an overall PFF grade of 78.9 last year, so he graded out as a top-50 quarterback. *(p. 123)*
-- If the passing grade can surpass the rushing grade in 2026, BYU has something special at the quarterback spot. *(p. 123)*
-- Kingston had 97 receptions for 928 yards and five touchdowns last year, so BYU was hoping to have the shifty slot man back for another season. *(p. 123)*
-- Last year, the Cougars actually gave up only 19.1, so the vibes should be nothing but positive with eight players who started games in 2025 back — including talented Cal transfer Cade Uluave. *(p. 123)*
+- Kalani Sitake has won double-digit games in four of the last six seasons, and last year's team had a real case for the playoff field. *(p. 122)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- But those games also give BYU a shot at picking up the kind of wins the committee wanted to see last year. *(p. 9)*
-- Who knows what would have happened for Tulane last season if Jake Retzlaff hadn’t violated the Honor Code at BYU. *(p. 70)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
-- Utah State is his third stop since leaving Provo in 2015, and he has had a losing record since ditching BYU. *(p. 278)*
+Referenced in the guide on **pp. 9, 70, 159, 278** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -296,44 +267,35 @@ As printed on p. 123. Each category carries a value and a national rank.
 
 - Makinen projects **9.0 wins** against a posted total of 8.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 8.5**.
-- Doing so will be difficult, as the Big 12 is loaded with talented teams. *(p. 122)*
-- However, BYU returns nearly every impactful player from last year’s 12-win team. *(p. 122)*
-- Winning nine games will be tough with the Cougars’ difficult schedule, but they do get Notre Dame at LaVell Edwards Stadium. *(p. 122)*
-- Last year, the Cougars actually gave up only 19.1, so the vibes should be nothing but positive with eight players who started games in 2025 back — including talented Cal transfer Cade Uluave. *(p. 123)*
-- With no Texas Tech or BYU on the 2026 slate, I think this team has an outside shot at contending for a Big 12 title game berth. *(p. 23)*
-- The only other double-digit win projections go to Ohio State and Georgia. • Assuming the projections play out accurately, besides Texas Tech, Oregon, Indiana, Miami (FL), and Ohio State the other Power Four conference teams that would be expected to contend for a spot in the College Football Playoff this year would be Georgia, Texas, Penn State, BYU, and perhaps SMU or Utah. *(p. 46)*
-- We also saw a tremendous season out of conference runner-up BYU, we witnessed Utah and Houston win double-digit games, and the depth of the league was impressive with nine teams finishing with winning records. *(p. 115)*
-- The Horned Frogs also host BYU and Utah, which are two of the best teams in the Big 12. *(p. 138)*
-- Former Weber State head coach Jay Hill was the defensive coordinator for the last three years at BYU, Whittingham’s alma mater, and improved the Cougars to a top-20 scoring defense last season. *(p. 159)*
-- Mendenhall was known for producing strong defenses at BYU, but his reputation on that side of the ball has faded the past few years. *(p. 279)*
+- The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
+- BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Doing so will be difficult, as the Big 12 is loaded with talented teams. *(p. 122)*
-- Winning nine games will be tough with the Cougars’ difficult schedule, but they do get Notre Dame at LaVell Edwards Stadium. *(p. 122)*
-- The team avoids playing BYU and Utah in the regular season, and their most difficult conference opponents are all at home. *(p. 11)*
-- The Wildcats will get tough tests on the road in September (BYU), October (Texas Tech) and November (Kansas State). 29. *(p. 19)*
+- The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
+- Nine wins will be tough on a difficult schedule, though BYU hosts Notre Dame at LaVell Edwards Stadium. The guide makes a market observation: that may be the only game all season in which the Cougars receive points, with a possible exception at Utah on 7 November. Either way it expects nine wins. *(p. 122)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 123)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 123)*. Its analysis, in reference form:
 
 ### How much better will Bear Bachmeier be as a passer?
 
-Bachmeier wasn’t supposed to be a freshman starter for BYU, but he ran with the opportunity. He threw for 3,033 yards with 15 touchdowns and only seven picks, and he also ran for 527 yards and 11 touchdowns. However, Bachmeier was far more comfortable running than he was passing, and improving his accuracy to become a more cerebral pocket passer is the next stage in his development. Bachmeier had an overall PFF grade of 78.9 last year, so he graded out as a top-50 quarterback. It was, however, his rushing grade (77.0) that raised his overall profile. If the passing grade can surpass the rushing grade in 2026, BYU has something special at the quarterback spot.
+Bachmeier was not meant to start as a freshman but seized the job, throwing for 3,033 yards with 15 touchdowns and seven interceptions while running for 527 yards and 11 touchdowns. The guide's diagnosis is that he was far more comfortable running than passing, and that becoming a more cerebral pocket passer with better accuracy is the next stage. It uses the grades to make the point precisely: an overall PFF grade of 78.9 put him in the top 50, but his 77.0 rushing grade was what raised the profile. If the passing grade surpasses the rushing grade, BYU has something special. *(p. 123)*
 
 ### Can the wide receiver group overcome the loss of Parker Kingston?
 
-Kingston had 97 receptions for 928 yards and five touchdowns last year, so BYU was hoping to have the shifty slot man back for another season. But that possibility was thrown out the window when the skilled wideout was expelled from school for his off-field conduct. BYU will now be relying heavily on an unproven group of pass catchers. That said, Bachmeier will not only be hoping to progress as a passer, he’ll be doing so without receivers he’s comfortable working with. It’ll be interesting to see who emerges as the top dog, but don’t sleep on Oregon transfer Kyle Kasper. He’s a 6-foot-6 contested-catch weapon who also moves pretty well for a player his size.
+Kingston had 97 catches for 928 yards and five touchdowns and BYU hoped to keep the shifty slot man, but he was expelled from school over off-field conduct. That leaves heavy reliance on an unproven group, and the guide draws out the compounding problem: Bachmeier must develop as a passer while working without receivers he is comfortable with. It flags Oregon transfer Kyle Kasper as one to watch, a 6-foot-6 contested-catch target who moves well for his size. *(p. 123)*
 
 ### Will new DC Kelly Poppinga hit the ground running?
 
-BYU is coming off back-to-back seasons in which the defense has allowed 19.6 or fewer points per game. Last year, the Cougars actually gave up only 19.1, so the vibes should be nothing but positive with eight players who started games in 2025 back — including talented Cal transfer Cade Uluave. But BYU will have a new coach leading the defense, as Jay Hill went to join Kyle Whittingham at Michigan. Things should be fine considering the playmakers the Cougars have scattered throughout the defense, but you never quite know.
+BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -351,6 +313,8 @@ No source conflict identified for this team.
 | 7, 8, 9, 11, 15, 17, 18, 19, 23, 45, 46, 70, 75, 90, 117, 138, 159, 172, 212, 213, 265, 268, 278, 279 | Other pages naming this team |
 
 This team is named in **46 sentences across 27 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 7, 8, 9, 11, 15, 17, 18, 19, 23, 45, 46, 70, 75, 90, 117, 138, 159, 172, 212, 213, 265, 268, 278, 279.
 
 ## 29. Cross-Links
 
