@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 7.8–4.2 overall, 5.2–3.8 in conference |
 | **Schedule strength** | 41.5 (#68 toughest of 138) |
 
-### Season outlook as written in the guide (p. 108)
+### Season outlook — VSiN's analysis in reference form (p. 108)
 
-After three underwhelming seasons in Charlottesville, Tony Elliott struck gold last season. Investment into the offensive line paid tremendous dividends, as the Cavaliers went from 47 sacks down to 18 and from 3.7 yards per carry up to 4.6. With those improvements, the offense jumped up 8.1 PPG and the defense improved by 9.2 PPG, all leading to an 11-3 season and a spot in the ACC Championship Game as the conference’s only team to go 7-1 in league play. But, the obvious, burning question is whether or not that was a one-year flash in the pan or something more. Elliott won 11 games combined in his first three seasons at the helm. Even though the OL remains mostly intact and provides a really good foundation for the offense, virtually everybody else on that side of the ball is new and that is the major area of concern going into the 2026 season. Under 7.5 This isn’t a bet for me, but just a pick for the Guide. The truth is that it depends on what you think about teams like North Carolina, Virginia Tech, Syracuse, and Florida State because the Cavaliers avoid Clemson and Miami yet again. They do play at SMU and play West Virginia in Charlotte, so the schedule is harder overall. While 8-4 is the most likely outcome, that feels closer to the ceiling for this team with the harder schedule and some regression signs, even though my projection is 7.79 wins.
+- After three underwhelming seasons Tony Elliott struck gold. The guide traces it to a specific investment: the offensive line, which cut sacks allowed from 47 to 18 and raised yards per carry from 3.7 to 4.6. *(p. 108)*
+- Those gains produced an 8.1-point rise in scoring and a 9.2-point improvement defensively, yielding 11-3, an ACC Championship Game place and the conference's only 7-1 league record. *(p. 108)*
+- The guide poses the burning question plainly — one-year flash or something more — noting Elliott won 11 games total across his first three seasons. *(p. 108)*
+- The line remains mostly intact as a good foundation, but virtually everyone else on offense is new, which it names as the major concern. *(p. 108)*
+- Recommendation is Under 7.5 wins, though the guide states openly this is not a bet it would make, only a pick for the guide. *(p. 108)*
+- It makes the call conditional on views of other teams: the answer depends on what you think of North Carolina, Virginia Tech, Syracuse and Florida State, because Virginia again avoids Clemson and Miami while playing at SMU and meeting West Virginia in Charlotte, making the schedule harder overall. *(p. 108)*
+- Its conclusion is that 8-4 is the most likely outcome but feels closer to the ceiling given the harder schedule and regression signs, even with a projection of 7.79 wins. *(p. 108)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,11 +86,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Last season’s uptick came under second-year DC John Rudzinski, so maybe it was just a matter of players knowing the scheme and thriving within it. *(p. 109)*
+- After three underwhelming seasons Tony Elliott struck gold. The guide traces it to a specific investment: the offensive line, which cut sacks allowed from 47 to 18 and raised yards per carry from 3.7 to 4.6. *(p. 108)*
+- The guide poses the burning question plainly — one-year flash or something more — noting Elliott won 11 games total across his first three seasons. *(p. 108)*
+- **Is the defense sustainable?** Under Elliott the defense allowed 24.0, 33.8 and 28.8 points before last season's 19.6. Four of the top six tacklers return, and the guide judges Virginia's defensive portal haul more proven than its offensive one. It offers a mechanism for the improvement — it came in coordinator John Rudzinski's second year, so players may simply have learned the scheme — while noting top pass rushers Daniel Rickert and Mitchell Melton and leading tackler Devin Neal are gone. Its verdict is that a repeat is possible but seems unlikely, pointing out Virginia had 31 sacks last season after 30 in the previous two combined. *(p. 109)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- VIRGINIA The Cavaliers cashed in on close-game luck last season by going 3-0 in overtime games and winning another by two points, so don’t count on another 11-win season for coach Tony Elliott. *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -90,12 +98,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 108)*.
 
-- Veteran QB Chandler Morris is gone after throwing for 3,000 yards and a 16/9 TD/INT ratio. *(p. 109)*
-- So, this will be a brand new offense in that regard with Penn State/Missouri transfer Beau Pribula and also Pitt transfer Eli Holstein at QB. 247Sports has Virginia with the eighth-ranked transfer class in the ACC, which includes those two, plus RB Peyton Lewis and WR Da’Shawn Martin. *(p. 109)*
+- **Is the offense sustainable?** The guide calls it a simple question with a complex answer. It first gives evidence Virginia was genuinely good: in its three losses it was +98, +124 and +11 in yardage, and was outgained only three times — all in wins. Then it details the losses, which are heavy at skill positions: quarterback Chandler Morris after 3,000 yards and a 16-to-9 ratio, and more importantly J'Mari Taylor, who ran for over 1,000 yards with 14 touchdowns and was fourth in receptions and receiving yards, with everyone ahead of him also gone. The rebuild brings Penn State and Missouri transfer Beau Pribula plus Pitt transfer Eli Holstein at quarterback, and 247Sports ranks Virginia's portal class eighth in the ACC, also including running back Peyton Lewis and receiver Da'Shawn Martin. *(p. 109)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Virginia has two new quarterbacks, Beau Pribula (Missouri) and Eli Holstein (Pitt). *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -111,43 +116,26 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
-- So, this will be a brand new offense in that regard with Penn State/Missouri transfer Beau Pribula and also Pitt transfer Eli Holstein at QB. 247Sports has Virginia with the eighth-ranked transfer class in the ACC, which includes those two, plus RB Peyton Lewis and WR Da’Shawn Martin. *(p. 109)*
-- Four of the top six tacklers are back and Virginia’s portal haul on defense seems more proven than their portal haul on offense. *(p. 109)*
+- **Is the offense sustainable?** The guide calls it a simple question with a complex answer. It first gives evidence Virginia was genuinely good: in its three losses it was +98, +124 and +11 in yardage, and was outgained only three times — all in wins. Then it details the losses, which are heavy at skill positions: quarterback Chandler Morris after 3,000 yards and a 16-to-9 ratio, and more importantly J'Mari Taylor, who ran for over 1,000 yards with 14 touchdowns and was fourth in receptions and receiving yards, with everyone ahead of him also gone. The rebuild brings Penn State and Missouri transfer Beau Pribula plus Pitt transfer Eli Holstein at quarterback, and 247Sports ranks Virginia's portal class eighth in the ACC, also including running back Peyton Lewis and receiver Da'Shawn Martin. *(p. 109)*
+- **Is the defense sustainable?** Under Elliott the defense allowed 24.0, 33.8 and 28.8 points before last season's 19.6. Four of the top six tacklers return, and the guide judges Virginia's defensive portal haul more proven than its offensive one. It offers a mechanism for the improvement — it came in coordinator John Rudzinski's second year, so players may simply have learned the scheme — while noting top pass rushers Daniel Rickert and Mitchell Melton and leading tackler Devin Neal are gone. Its verdict is that a repeat is possible but seems unlikely, pointing out Virginia had 31 sacks last season after 30 in the previous two combined. *(p. 109)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Trever Jackson from Arkansas and JUCO transfer Tre Guerra, who also had offers from Texas Tech, Kentucky, Florida State, LSU, and Virginia, are other options. *(p. 321)*
+Referenced in the guide on **pp. 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Perhaps it will be 6-foot5 Ashton Hollis from Illinois or Andre Greene, a highly-touted recruit who didn’t do much at Virginia. *(p. 323)*
+Referenced in the guide on **pp. 323** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Investment into the offensive line paid tremendous dividends, as the Cavaliers went from 47 sacks down to 18 and from 3.7 yards per carry up to 4.6. *(p. 108)*
-- With those improvements, the offense jumped up 8.1 PPG and the defense improved by 9.2 PPG, all leading to an 11-3 season and a spot in the ACC Championship Game as the conference’s only team to go 7-1 in league play. *(p. 108)*
-- Even though the OL remains mostly intact and provides a really good foundation for the offense, virtually everybody else on that side of the ball is new and that is the major area of concern going into the 2026 season. *(p. 108)*
-- More importantly, J’Mari Taylor is gone after rushing for over 1,000 yards with 14 TDs. *(p. 109)*
-- He was also fourth in receptions and receiving yards. *(p. 109)*
-- So, this will be a brand new offense in that regard with Penn State/Missouri transfer Beau Pribula and also Pitt transfer Eli Holstein at QB. 247Sports has Virginia with the eighth-ranked transfer class in the ACC, which includes those two, plus RB Peyton Lewis and WR Da’Shawn Martin. *(p. 109)*
-- Four of the top six tacklers are back and Virginia’s portal haul on defense seems more proven than their portal haul on offense. *(p. 109)*
-- Essentially, the root of the concept is that performance with runners in scoring position, both offensively and defensively, dictates a large chunk of what happens during the season. *(p. 109)*
-- To bring it back to Virginia football, the Cavaliers were 11th in third- down conversion rate on offense and second on defense. *(p. 109)*
-- UVA had nearly twice as many offensive third-down conversions than their opponents and 35 more in conference games. *(p. 109)*
+- After three underwhelming seasons Tony Elliott struck gold. The guide traces it to a specific investment: the offensive line, which cut sacks allowed from 47 to 18 and raised yards per carry from 3.7 to 4.6. *(p. 108)*
+- The line remains mostly intact as a good foundation, but virtually everyone else on offense is new, which it names as the major concern. *(p. 108)*
+- **Is the offense sustainable?** The guide calls it a simple question with a complex answer. It first gives evidence Virginia was genuinely good: in its three losses it was +98, +124 and +11 in yardage, and was outgained only three times — all in wins. Then it details the losses, which are heavy at skill positions: quarterback Chandler Morris after 3,000 yards and a 16-to-9 ratio, and more importantly J'Mari Taylor, who ran for over 1,000 yards with 14 touchdowns and was fourth in receptions and receiving yards, with everyone ahead of him also gone. The rebuild brings Penn State and Missouri transfer Beau Pribula plus Pitt transfer Eli Holstein at quarterback, and 247Sports ranks Virginia's portal class eighth in the ACC, also including running back Peyton Lewis and receiver Da'Shawn Martin. *(p. 109)*
 
 ## 14. Defensive Identity
 
-- Investment into the offensive line paid tremendous dividends, as the Cavaliers went from 47 sacks down to 18 and from 3.7 yards per carry up to 4.6. *(p. 108)*
-- With those improvements, the offense jumped up 8.1 PPG and the defense improved by 9.2 PPG, all leading to an 11-3 season and a spot in the ACC Championship Game as the conference’s only team to go 7-1 in league play. *(p. 108)*
-- In the other seasons under Elliott, the defense allowed 24.0, 33.8, and 28.8 points before last season’s 19.6 PPG. *(p. 109)*
-- Four of the top six tacklers are back and Virginia’s portal haul on defense seems more proven than their portal haul on offense. *(p. 109)*
-- Top pass rushers Daniel Rickert and Mitchell Melton are both gone, along with leading tackler Devin Neal. *(p. 109)*
-- UVA had 31 sacks last season after racking up 30 over the previous two seasons combined. *(p. 109)*
-- Essentially, the root of the concept is that performance with runners in scoring position, both offensively and defensively, dictates a large chunk of what happens during the season. *(p. 109)*
-- To bring it back to Virginia football, the Cavaliers were 11th in third- down conversion rate on offense and second on defense. *(p. 109)*
+- Those gains produced an 8.1-point rise in scoring and a 9.2-point improvement defensively, yielding 11-3, an ACC Championship Game place and the conference's only 7-1 league record. *(p. 108)*
+- **Is the defense sustainable?** Under Elliott the defense allowed 24.0, 33.8 and 28.8 points before last season's 19.6. Four of the top six tacklers return, and the guide judges Virginia's defensive portal haul more proven than its offensive one. It offers a mechanism for the improvement — it came in coordinator John Rudzinski's second year, so players may simply have learned the scheme — while noting top pass rushers Daniel Rickert and Mitchell Melton and leading tackler Devin Neal are gone. Its verdict is that a repeat is possible but seems unlikely, pointing out Virginia had 31 sacks last season after 30 in the previous two combined. *(p. 109)*
 
 ## 15. Key Strengths
 
@@ -196,9 +184,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Virginia, at Louisville on a short week, at Miami, vs. *(p. 13)*
+Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -220,30 +206,20 @@ Prices printed on the team page *(p. 109)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Under 7.5 This isn’t a bet for me, but just a pick for the Guide. *(p. 108)*
+- Recommendation is Under 7.5 wins, though the guide states openly this is not a bet it would make, only a pick for the guide. *(p. 108)*
+- It makes the call conditional on views of other teams: the answer depends on what you think of North Carolina, Virginia Tech, Syracuse and Florida State, because Virginia again avoids Clemson and Miami while playing at SMU and meeting West Virginia in Charlotte, making the schedule harder overall. *(p. 108)*
+- Its conclusion is that 8-4 is the most likely outcome but feels closer to the ceiling given the harder schedule and regression signs, even with a projection of 7.79 wins. *(p. 108)*
+- **"Cluster Luck" or scheme?** The guide borrows the term from Joe Peta's book Trading Bases, explaining the concept as performance with runners in scoring position driving a large share of season outcomes while being too volatile to project forward. Applied to Virginia, it cites third-down conversion rate — 11th on offense and second on defense — with nearly twice as many offensive third-down conversions as opponents and 35 more in conference games, plus 163 more plays run than opponents. It ends on the open question of whether any of that repeats. *(p. 109)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Obviously that’s been accounted for in the market number here, but the road schedule is tough, plus Miami and then the two (for better or worse) ACC Championship Game teams in Virginia and Duke at home. *(p. 112)*
-- Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. *(p. 113)*
+Also referenced on **pp. 112, 113** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- After three underwhelming seasons in Charlottesville, Tony Elliott struck gold last season. *(p. 108)*
-- Even in UVA’s three losses last season, they were +98, +124, and +11 yards, only getting outgained three times, which, ironically, all came in wins. *(p. 109)*
-- In the other seasons under Elliott, the defense allowed 24.0, 33.8, and 28.8 points before last season’s 19.6 PPG. *(p. 109)*
-- Last season’s uptick came under second-year DC John Rudzinski, so maybe it was just a matter of players knowing the scheme and thriving within it. *(p. 109)*
-- It’s entirely possible that Rudzinski’s third year will live up to last season, but it seems unlikely. *(p. 109)*
-- UVA had 31 sacks last season after racking up 30 over the previous two seasons combined. *(p. 109)*
+- Those gains produced an 8.1-point rise in scoring and a 9.2-point improvement defensively, yielding 11-3, an ACC Championship Game place and the conference's only 7-1 league record. *(p. 108)*
+- The guide poses the burning question plainly — one-year flash or something more — noting Elliott won 11 games total across his first three seasons. *(p. 108)*
+- **"Cluster Luck" or scheme?** The guide borrows the term from Joe Peta's book Trading Bases, explaining the concept as performance with runners in scoring position driving a large share of season outcomes while being too volatile to project forward. Applied to Virginia, it cites third-down conversion rate — 11th on offense and second on defense — with nearly twice as many offensive third-down conversions as opponents and 35 more in conference games, plus 163 more plays run than opponents. It ends on the open question of whether any of that repeats. *(p. 109)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Thinking back to last year, Florida State reached No. 8 in the AP Poll before losing a Friday night game in OT to Virginia. *(p. 15)*
-- VIRGINIA The Cavaliers cashed in on close-game luck last season by going 3-0 in overtime games and winning another by two points, so don’t count on another 11-win season for coach Tony Elliott. *(p. 20)*
-- Incredibly, Miami didn’t even play in the ACC Championship Game last season, as that was between Duke and Virginia. *(p. 79)*
-- Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. *(p. 113)*
-- He went 36-38 in six seasons at Virginia, 5-7 in one year at New Mexico and 6-7 last year with the Aggies. *(p. 278)*
-- They have just one bowl win since the Orange Bowl victory over Virginia in 2019, and the program has not appeared in the CFP rankings since 2020. *(p. 290)*
+Referenced in the guide on **pp. 15, 20, 79, 113, 278, 290** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -289,41 +265,39 @@ As printed on p. 109. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.8 wins** against a posted total of 7.5 — **+0.3** in this team's favour.
-- With those improvements, the offense jumped up 8.1 PPG and the defense improved by 9.2 PPG, all leading to an 11-3 season and a spot in the ACC Championship Game as the conference’s only team to go 7-1 in league play. *(p. 108)*
-- VIRGINIA The Cavaliers cashed in on close-game luck last season by going 3-0 in overtime games and winning another by two points, so don’t count on another 11-win season for coach Tony Elliott. *(p. 20)*
+- Those gains produced an 8.1-point rise in scoring and a 9.2-point improvement defensively, yielding 11-3, an ACC Championship Game place and the conference's only 7-1 league record. *(p. 108)*
+- Under Elliott the defense allowed 24.0, 33.8 and 28.8 points before last season's 19.6. Four of the top six tacklers return, and the guide judges Virginia's defensive portal haul more proven than its offensive one. It offers a mechanism for the improvement — it came in coordinator John Rudzinski's second year, so players may simply have learned the scheme — while noting top pass rushers Daniel Rickert and Mitchell Melton and leading tackler Devin Neal are gone. Its verdict is that a repeat is possible but seems unlikely, pointing out Virginia had 31 sacks last season after 30 in the previous two combined. *(p. 109)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- But, the obvious, burning question is whether or not that was a one-year flash in the pan or something more. *(p. 108)*
-- Even though the OL remains mostly intact and provides a really good foundation for the offense, virtually everybody else on that side of the ball is new and that is the major area of concern going into the 2026 season. *(p. 108)*
-- While 8-4 is the most likely outcome, that feels closer to the ceiling for this team with the harder schedule and some regression signs, even though my projection is 7.79 wins. *(p. 108)*
-- Even in UVA’s three losses last season, they were +98, +124, and +11 yards, only getting outgained three times, which, ironically, all came in wins. *(p. 109)*
-- But, the losses are really heavy at the skill positions. *(p. 109)*
-- The obvious follow-up question. *(p. 109)*
-- Obviously that’s been accounted for in the market number here, but the road schedule is tough, plus Miami and then the two (for better or worse) ACC Championship Game teams in Virginia and Duke at home. *(p. 112)*
-- The Mountaineers will face a tough Virginia team before hosting Oklahoma State to kick off the Big 12 season. *(p. 146)*
+- The guide poses the burning question plainly — one-year flash or something more — noting Elliott won 11 games total across his first three seasons. *(p. 108)*
+- The line remains mostly intact as a good foundation, but virtually everyone else on offense is new, which it names as the major concern. *(p. 108)*
+- Its conclusion is that 8-4 is the most likely outcome but feels closer to the ceiling given the harder schedule and regression signs, even with a projection of 7.79 wins. *(p. 108)*
+- The guide calls it a simple question with a complex answer. It first gives evidence Virginia was genuinely good: in its three losses it was +98, +124 and +11 in yardage, and was outgained only three times — all in wins. Then it details the losses, which are heavy at skill positions: quarterback Chandler Morris after 3,000 yards and a 16-to-9 ratio, and more importantly J'Mari Taylor, who ran for over 1,000 yards with 14 touchdowns and was fourth in receptions and receiving yards, with everyone ahead of him also gone. The rebuild brings Penn State and Missouri transfer Beau Pribula plus Pitt transfer Eli Holstein at quarterback, and 247Sports ranks Virginia's portal class eighth in the ACC, also including running back Peyton Lewis and receiver Da'Shawn Martin. *(p. 109)*
+- The guide borrows the term from Joe Peta's book Trading Bases, explaining the concept as performance with runners in scoring position driving a large share of season outcomes while being too volatile to project forward. Applied to Virginia, it cites third-down conversion rate — 11th on offense and second on defense — with nearly twice as many offensive third-down conversions as opponents and 35 more in conference games, plus 163 more plays run than opponents. It ends on the open question of whether any of that repeats. *(p. 109)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 109)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 109)*. Its analysis, in reference form:
 
 ### Is the offense sustainable?
 
-Simple question. Complex answer. Even in UVA’s three losses last season, they were +98, +124, and +11 yards, only getting outgained three times, which, ironically, all came in wins. But, the losses are really heavy at the skill positions. Veteran QB Chandler Morris is gone after throwing for 3,000 yards and a 16/9 TD/INT ratio. More importantly, J’Mari Taylor is gone after rushing for over 1,000 yards with 14 TDs. He was also fourth in receptions and receiving yards. Everybody who finished ahead of him is also gone. So, this will be a brand new offense in that regard with Penn State/Missouri transfer Beau Pribula and also Pitt transfer Eli Holstein at QB. 247Sports has Virginia with the eighth-ranked transfer class in the ACC, which includes those two, plus RB Peyton Lewis and WR Da’Shawn Martin.
+The guide calls it a simple question with a complex answer. It first gives evidence Virginia was genuinely good: in its three losses it was +98, +124 and +11 in yardage, and was outgained only three times — all in wins. Then it details the losses, which are heavy at skill positions: quarterback Chandler Morris after 3,000 yards and a 16-to-9 ratio, and more importantly J'Mari Taylor, who ran for over 1,000 yards with 14 touchdowns and was fourth in receptions and receiving yards, with everyone ahead of him also gone. The rebuild brings Penn State and Missouri transfer Beau Pribula plus Pitt transfer Eli Holstein at quarterback, and 247Sports ranks Virginia's portal class eighth in the ACC, also including running back Peyton Lewis and receiver Da'Shawn Martin. *(p. 109)*
 
 ### Is the defense sustainable?
 
-The obvious follow-up question. In the other seasons under Elliott, the defense allowed 24.0, 33.8, and 28.8 points before last season’s 19.6 PPG. Four of the top six tacklers are back and Virginia’s portal haul on defense seems more proven than their portal haul on offense. Last season’s uptick came under second-year DC John Rudzinski, so maybe it was just a matter of players knowing the scheme and thriving within it. Top pass rushers Daniel Rickert and Mitchell Melton are both gone, along with leading tackler Devin Neal. It’s entirely possible that Rudzinski’s third year will live up to last season, but it seems unlikely. UVA had 31 sacks last season after racking up 30 over the previous two seasons combined.
+Under Elliott the defense allowed 24.0, 33.8 and 28.8 points before last season's 19.6. Four of the top six tacklers return, and the guide judges Virginia's defensive portal haul more proven than its offensive one. It offers a mechanism for the improvement — it came in coordinator John Rudzinski's second year, so players may simply have learned the scheme — while noting top pass rushers Daniel Rickert and Mitchell Melton and leading tackler Devin Neal are gone. Its verdict is that a repeat is possible but seems unlikely, pointing out Virginia had 31 sacks last season after 30 in the previous two combined. *(p. 109)*
 
-### “Cluster Luck” or scheme?
+### "Cluster Luck" or scheme?
 
-I was first introduced to the term “Cluster Luck” in Joe Peta’s book, Trading Bases. Essentially, the root of the concept is that performance with runners in scoring position, both offensively and defensively, dictates a large chunk of what happens during the season. Because performance with RISP is volatile from season to season, it isn’t really a stat to rely on for projecting future results. To bring it back to Virginia football, the Cavaliers were 11th in third- down conversion rate on offense and second on defense. UVA had nearly twice as many offensive third-down conversions than their opponents and 35 more in conference games. The Cavaliers ran 163 more plays than their opponents. Will they achieve something similar this season?
+The guide borrows the term from Joe Peta's book Trading Bases, explaining the concept as performance with runners in scoring position driving a large share of season outcomes while being too volatile to project forward. Applied to Virginia, it cites third-down conversion rate — 11th on offense and second on defense — with nearly twice as many offensive third-down conversions as opponents and 35 more in conference games, plus 163 more plays run than opponents. It ends on the open question of whether any of that repeats. *(p. 109)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -341,6 +315,8 @@ No source conflict identified for this team.
 | 10, 13, 15, 20, 89, 96, 100, 112, 113, 146, 278, 290, 321, 323 | Other pages naming this team |
 
 This team is named in **26 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 13, 15, 20, 89, 96, 100, 112, 113, 146, 278, 290, 321, 323.
 
 ## 29. Cross-Links
 

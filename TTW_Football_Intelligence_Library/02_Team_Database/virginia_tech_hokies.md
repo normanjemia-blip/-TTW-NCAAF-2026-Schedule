@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 7.3–4.7 overall, 4.8–4.2 in conference |
 | **Schedule strength** | 43.23 (#60 toughest of 138) |
 
-### Season outlook as written in the guide (p. 110)
+### Season outlook — VSiN's analysis in reference form (p. 110)
 
-This won’t be the best team in the ACC, but could very well be the most compelling. James Franklin gets a fresh start in Blacksburg and the program is in the midst of a badly needed refresh. Of course, the likeliest scenario given what we saw Franklin do for years at Penn State is that the Hokies go 9-3 while losing to Clemson, SMU, and Miami. Kidding aside, that would be a huge year for Virginia Tech as they try to get back to the standards that they had under Frank Beamer and for a little bit under Justin Fuente. Those three aforementioned games are all on the road, so that does limit the ceiling for the Hokies in Year 1, but the schedule is set up to get the hype machine moving quickly. Franklin’s hiring should add just a little more juice to the Enter Sandman entrance at Lane Stadium and elevate the talent level of the program in a hurry. Over 6.5 The juice is somewhat pricey here, but the Hokies getting off to a 5-0 start prior to a trip out west to Cal is very much on the table. The latter portion of the schedule is where things really ramp up, but that may also be about the time Franklin finds a groove with his team. The talent pipeline in the DMV and the old stomping grounds for Franklin in Pennsylvania should really elevate the baseline for this team in short order, probably as soon as this season. The thing about Franklin is that he doesn’t often lose games he should win, something that trips up nearly every other ACC program. My projection is 7.1 wins.
+- The guide's framing is that this will not be the ACC's best team but may be its most compelling, with James Franklin getting a fresh start amid a badly needed refresh. *(p. 110)*
+- It makes a joke that carries a real forecast — that the likeliest outcome based on Franklin's Penn State pattern is 9-3 with losses to Clemson, SMU and Miami — then notes that would be a huge year as Virginia Tech tries to return to Frank Beamer, and briefly Justin Fuente, standards. *(p. 110)*
+- All three of those games are on the road, limiting the year-one ceiling, though the schedule is set up to get the hype moving quickly. *(p. 110)*
+- Franklin's arrival should add juice to the Enter Sandman entrance at Lane Stadium and raise the talent level quickly. *(p. 110)*
+- Recommendation is Over 6.5 wins. The guide flags the price as somewhat expensive while calling a 5-0 start before the trip to Cal very much on the table. *(p. 110)*
+- The later schedule ramps up, but it suggests that may coincide with Franklin finding a groove, and expects talent pipelines in the DMV and his old Pennsylvania territory to raise the baseline quickly. *(p. 110)*
+- Its sharpest argument is comparative: Franklin does not often lose games he should win, something that trips up nearly every other ACC programme. Projection is 7.1 wins. *(p. 110)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,14 +88,13 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Probably not directly, but Franklin likely gained some trust from the players and respect from the athletic department by keeping Brent Pry within the program as the DC. *(p. 111)*
+- The guide's framing is that this will not be the ACC's best team but may be its most compelling, with James Franklin getting a fresh start amid a badly needed refresh. *(p. 110)*
+- It makes a joke that carries a real forecast — that the likeliest outcome based on Franklin's Penn State pattern is 9-3 with losses to Clemson, SMU and Miami — then notes that would be a huge year as Virginia Tech tries to return to Frank Beamer, and briefly Justin Fuente, standards. *(p. 110)*
+- Franklin's arrival should add juice to the Enter Sandman entrance at Lane Stadium and raise the talent level quickly. *(p. 110)*
+- Its sharpest argument is comparative: Franklin does not often lose games he should win, something that trips up nearly every other ACC programme. Projection is 7.1 wins. *(p. 110)*
+- **Can you quantify continuity?** The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Penn State fans are happy to get rid of coach James Franklin after 12 years and Virginia Tech fans are thrilled to have him. *(p. 19)*
-- Can former Virginia Tech DC Chris Marve get the defense on track? *(p. 127)*
-- Virginia Tech, who both have new head coaches. *(p. 156)*
-- Quinn, who was the outside linebackers coach at Virginia Tech, went 16-6 as the head coach at Savannah State before joining the Hokies. *(p. 197)*
+Also referenced on **pp. 19, 127, 156, 197** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -95,9 +102,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 110)*.
 
-- Per 247Sports, VT brought in the fourth-ranked transfer portal class in the conference, which is a list that includes Penn State QB Ethan Grunkemeyer, UNC QB Bryce Baker, WR Que’Sean Brown. *(p. 111)*
-- Marcellous Hawkins had over six yards per carry and should be featured more prominently without a running threat like Kyron Drones at QB. *(p. 111)*
-- It’s entirely possible, as the Hokies hit the portal for passers and the talent level has been elevated with virtually each position group. *(p. 111)*
+- **How talented are the Hokies?** Per 247Sports Virginia Tech brought in the conference's fourth-ranked portal class, including Penn State quarterback Ethan Grunkemeyer, North Carolina quarterback Bryce Baker and receiver Que'Sean Brown, who had over 1,200 yards at Duke at 5-foot-8. Grunkemeyer started seven games for Penn State and has chemistry with new tight end Luke Reynolds. Marcellous Hawkins averaged over six yards per carry and should feature more without a running quarterback like Kyron Drones. The guide adds a useful piece of context: the offense managed only 21.4 points per game but 4.9 yards per carry even with Drones dragging the average down, so Franklin could focus on skill positions rather than rebuilding the line. *(p. 111)*
 
 ## 10. Returning Production
 
@@ -113,28 +118,23 @@ The Stability Score table prints the same figure independently: **17 returning s
 
 ## 11. Transfer Portal
 
-- Per 247Sports, VT brought in the fourth-ranked transfer portal class in the conference, which is a list that includes Penn State QB Ethan Grunkemeyer, UNC QB Bryce Baker, WR Que’Sean Brown. *(p. 111)*
-- It’s entirely possible, as the Hokies hit the portal for passers and the talent level has been elevated with virtually each position group. *(p. 111)*
+- **How talented are the Hokies?** Per 247Sports Virginia Tech brought in the conference's fourth-ranked portal class, including Penn State quarterback Ethan Grunkemeyer, North Carolina quarterback Bryce Baker and receiver Que'Sean Brown, who had over 1,200 yards at Duke at 5-foot-8. Grunkemeyer started seven games for Penn State and has chemistry with new tight end Luke Reynolds. Marcellous Hawkins averaged over six yards per carry and should feature more without a running quarterback like Kyron Drones. The guide adds a useful piece of context: the offense managed only 21.4 points per game but 4.9 yards per carry even with Drones dragging the average down, so Franklin could focus on skill positions rather than rebuilding the line. *(p. 111)*
+- **Can you quantify continuity?** The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
 
 ## 12. Recruiting / Roster Notes
 
-Not addressed in guide.
+- Franklin's arrival should add juice to the Enter Sandman entrance at Lane Stadium and raise the talent level quickly. *(p. 110)*
+- The later schedule ramps up, but it suggests that may coincide with Franklin finding a groove, and expects talent pipelines in the DMV and his old Pennsylvania territory to raise the baseline quickly. *(p. 110)*
 
 ## 13. Offensive Identity
 
-- The offense only mustered 21.4 PPG, but had 4.9 YPC, even with Drones bringing the average down, so Franklin was able to focus on the skill spots instead of rebuilding the OL. *(p. 111)*
+- **How talented are the Hokies?** Per 247Sports Virginia Tech brought in the conference's fourth-ranked portal class, including Penn State quarterback Ethan Grunkemeyer, North Carolina quarterback Bryce Baker and receiver Que'Sean Brown, who had over 1,200 yards at Duke at 5-foot-8. Grunkemeyer started seven games for Penn State and has chemistry with new tight end Luke Reynolds. Marcellous Hawkins averaged over six yards per carry and should feature more without a running quarterback like Kyron Drones. The guide adds a useful piece of context: the offense managed only 21.4 points per game but 4.9 yards per carry even with Drones dragging the average down, so Franklin could focus on skill positions rather than rebuilding the line. *(p. 111)*
 
 ## 14. Defensive Identity
 
-- The defense didn’t experience a mass exodus, as four of the top six tacklers returned and a lot of guys who played in some capacity last season. *(p. 111)*
-- With Pry able to focus more on the defense, he brought in Jaquez White from Troy to fill a need at corner. *(p. 111)*
-- The defense was uncharacteristically bad last season with over 30 PPG allowed, but improvement seems imminent. *(p. 111)*
+- **Can you quantify continuity?** The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Can former Virginia Tech DC Chris Marve get the defense on track? *(p. 127)*
-- Virginia Tech almost always has a strong defense and this is a guy who can identify talent in the DMV at a very high level. *(p. 196)*
-- Quinn, who was the outside linebackers coach at Virginia Tech, went 16-6 as the head coach at Savannah State before joining the Hokies. *(p. 197)*
+Referenced in the guide on **pp. 127, 196, 197** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -184,9 +184,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- They’ll catch Virginia Tech and new HC James Franklin on November 7 with a rest disadvantage. *(p. 102)*
+Referenced in the guide on **pp. 102** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -227,23 +225,18 @@ Prices printed on the team page *(p. 111)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Over 6.5 The juice is somewhat pricey here, but the Hokies getting off to a 5-0 start prior to a trip out west to Cal is very much on the table. *(p. 110)*
+- Recommendation is Over 6.5 wins. The guide flags the price as somewhat expensive while calling a 5-0 start before the trip to Cal very much on the table. *(p. 110)*
+- Its sharpest argument is comparative: Franklin does not often lose games he should win, something that trips up nearly every other ACC programme. Projection is 7.1 wins. *(p. 110)*
+- **Is Virginia Tech this year's Virginia?** The parallel is that Virginia won 11 games across three seasons then went 11-3 with an ACC title game appearance. The guide calls it entirely possible, with Virginia Tech hitting the portal for passers and raising talent at virtually every position group. It names the key difference precisely: Virginia did not have to play SMU, Clemson or Miami, and Virginia Tech does. It closes by flagging the season-ending Commonwealth Clash as potentially intriguing if Franklin can flip the script from his Penn State habit of losing to Ohio State and Michigan as the conference's class. *(p. 111)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. *(p. 113)*
+Also referenced on **pp. 113** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- Grunkemeyer wound up starting seven games for the Nittany Lions last season and has some chemistry with new TE Luke Reynolds. *(p. 111)*
-- The defense didn’t experience a mass exodus, as four of the top six tacklers returned and a lot of guys who played in some capacity last season. *(p. 111)*
-- The defense was uncharacteristically bad last season with over 30 PPG allowed, but improvement seems imminent. *(p. 111)*
-- The Cavaliers won 11 games over three seasons before going 11-3 last season with an appearance in the ACC Title Game. *(p. 111)*
+- It makes a joke that carries a real forecast — that the likeliest outcome based on Franklin's Penn State pattern is 9-3 with losses to Clemson, SMU and Miami — then notes that would be a huge year as Virginia Tech tries to return to Frank Beamer, and briefly Justin Fuente, standards. *(p. 110)*
+- **Is Virginia Tech this year's Virginia?** The parallel is that Virginia won 11 games across three seasons then went 11-3 with an ACC title game appearance. The guide calls it entirely possible, with Virginia Tech hitting the portal for passers and raising talent at virtually every position group. It names the key difference precisely: Virginia did not have to play SMU, Clemson or Miami, and Virginia Tech does. It closes by flagging the season-ending Commonwealth Clash as potentially intriguing if Franklin can flip the script from his Penn State habit of losing to Ohio State and Michigan as the conference's class. *(p. 111)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
-- Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. *(p. 113)*
+Referenced in the guide on **pp. 100, 113** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -290,34 +283,36 @@ As printed on p. 111. Each category carries a value and a national rank.
 
 - Makinen projects **7.3 wins** against a posted total of 6.5 — **+0.8** in this team's favour.
 - The team page recommends **OVER 6.5**.
-- This won’t be the best team in the ACC, but could very well be the most compelling. *(p. 110)*
-- The defense was uncharacteristically bad last season with over 30 PPG allowed, but improvement seems imminent. *(p. 111)*
-- VSIN college football best bets DAVE ROSS VIRGINIA TECH OVER 6.5 WINS (-140) & ALT OVER 7.5 WINS (+120 I’m going with the silver-bullet approach: one shot. *(p. 5)*
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
-- Virginia Tech almost always has a strong defense and this is a guy who can identify talent in the DMV at a very high level. *(p. 196)*
+- The guide's framing is that this will not be the ACC's best team but may be its most compelling, with James Franklin getting a fresh start amid a badly needed refresh. *(p. 110)*
+- It makes a joke that carries a real forecast — that the likeliest outcome based on Franklin's Penn State pattern is 9-3 with losses to Clemson, SMU and Miami — then notes that would be a huge year as Virginia Tech tries to return to Frank Beamer, and briefly Justin Fuente, standards. *(p. 110)*
+- The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-Not addressed in guide.
+- It makes a joke that carries a real forecast — that the likeliest outcome based on Franklin's Penn State pattern is 9-3 with losses to Clemson, SMU and Miami — then notes that would be a huge year as Virginia Tech tries to return to Frank Beamer, and briefly Justin Fuente, standards. *(p. 110)*
+- The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
+
+> *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 111)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 111)*. Its analysis, in reference form:
 
 ### How talented are the Hokies?
 
-Per 247Sports, VT brought in the fourth-ranked transfer portal class in the conference, which is a list that includes Penn State QB Ethan Grunkemeyer, UNC QB Bryce Baker, WR Que’Sean Brown. The 5-foot-8 Brown had over 1,200 yards at Duke. Grunkemeyer wound up starting seven games for the Nittany Lions last season and has some chemistry with new TE Luke Reynolds. Marcellous Hawkins had over six yards per carry and should be featured more prominently without a running threat like Kyron Drones at QB. The offense only mustered 21.4 PPG, but had 4.9 YPC, even with Drones bringing the average down, so Franklin was able to focus on the skill spots instead of rebuilding the OL.
+Per 247Sports Virginia Tech brought in the conference's fourth-ranked portal class, including Penn State quarterback Ethan Grunkemeyer, North Carolina quarterback Bryce Baker and receiver Que'Sean Brown, who had over 1,200 yards at Duke at 5-foot-8. Grunkemeyer started seven games for Penn State and has chemistry with new tight end Luke Reynolds. Marcellous Hawkins averaged over six yards per carry and should feature more without a running quarterback like Kyron Drones. The guide adds a useful piece of context: the offense managed only 21.4 points per game but 4.9 yards per carry even with Drones dragging the average down, so Franklin could focus on skill positions rather than rebuilding the line. *(p. 111)*
 
 ### Can you quantify continuity?
 
-Probably not directly, but Franklin likely gained some trust from the players and respect from the athletic department by keeping Brent Pry within the program as the DC. Franklin and Pry do go way back, so it was just a perfect-storm situation, but one that should ease the transition of leadership. The defense didn’t experience a mass exodus, as four of the top six tacklers returned and a lot of guys who played in some capacity last season. With Pry able to focus more on the defense, he brought in Jaquez White from Troy to fill a need at corner. Also, several Penn State players followed Franklin. The defense was uncharacteristically bad last season with over 30 PPG allowed, but improvement seems imminent.
+The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
 
-### Is Virginia Tech this year’s Virginia?
+### Is Virginia Tech this year's Virginia?
 
-The Cavaliers won 11 games over three seasons before going 11-3 last season with an appearance in the ACC Title Game. It’s entirely possible, as the Hokies hit the portal for passers and the talent level has been elevated with virtually each position group. The biggest difference between VT and UVA is that the Cavaliers didn’t have to play SMU, Clemson, or Miami and the Hokies do. The Commonwealth Clash at the end of the season could be a really intriguing game if Franklin can flip the script from his Penn State days of losing to Ohio State and Michigan as the class of the conference.
+The parallel is that Virginia won 11 games across three seasons then went 11-3 with an ACC title game appearance. The guide calls it entirely possible, with Virginia Tech hitting the portal for passers and raising talent at virtually every position group. It names the key difference precisely: Virginia did not have to play SMU, Clemson or Miami, and Virginia Tech does. It closes by flagging the season-ending Commonwealth Clash as potentially intriguing if Franklin can flip the script from his Penn State habit of losing to Ohio State and Michigan as the conference's class. *(p. 111)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -335,6 +330,8 @@ No source conflict identified for this team.
 | 5, 19, 24, 30, 90, 100, 102, 104, 108, 113, 127, 156, 196, 197, 233 | Other pages naming this team |
 
 This team is named in **22 sentences across 17 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 5, 19, 24, 30, 90, 100, 102, 104, 108, 113, 127, 156, 196, 197, 233.
 
 ## 29. Cross-Links
 

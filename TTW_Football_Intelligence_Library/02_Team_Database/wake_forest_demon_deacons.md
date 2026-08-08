@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 6.2–5.8 overall, 3.5–5.5 in conference |
 | **Schedule strength** | 43.47 (#57 toughest of 138) |
 
-### Season outlook as written in the guide (p. 112)
+### Season outlook — VSiN's analysis in reference form (p. 112)
 
-One of the more surprising performances from a first- year head coach came out of Winston-Salem, where Jake Dickert led the Demon Deacons to a 9-4 record. The hire was met with mixed feelings when Dave Clawson amicably parted ways with the program, but Dickert came over from Washington State and immediately had success. Sustaining that success will be a chore, though. There are a ton of new faces here, even though Wake Forest has been doing some pretty good fundraising of late for their NIL budget. The offense is basically brand new aside from leading receiver Carlos Hernandez. The defense has a fair number of holdovers and DC Scottie Hazelton did an outstanding job with that group last season. With a much more difficult schedule, we’ll see how Dickert does in Year 2. Under 5.5 I think Dickert is a good coach and I thought that at Washington State, too, but there are a lot of red flags blowing violently in the breeze with this team coming off of last season. Obviously that’s been accounted for in the market number here, but the road schedule is tough, plus Miami and then the two (for better or worse) ACC Championship Game teams in Virginia and Duke at home. Even the non-conference roadie at Purdue could be a tricky one. With one of the worst portal hauls in the conference and a lot of lost production on offense, a downturn should be expected, even though my projection is 6.01 wins.
+- The guide calls Jake Dickert's 9-4 debut one of the more surprising first-year performances, noting the hire met mixed feelings when Dave Clawson amicably parted ways, and that Dickert arrived from Washington State and immediately succeeded. *(p. 112)*
+- Sustaining it will be a chore given a great many new faces, even though Wake Forest has been fundraising well for its NIL budget. *(p. 112)*
+- The offense is basically brand new apart from leading receiver Carlos Hernandez, while the defense has a fair number of holdovers and coordinator Scottie Hazelton did an outstanding job. *(p. 112)*
+- Recommendation is Under 5.5 wins. The guide is careful to separate its view of the coach from its view of the season, saying it rated Dickert at Washington State and still does. *(p. 112)*
+- It describes a lot of red flags blowing violently and acknowledges the market has accounted for them in the number. *(p. 112)*
+- Schedule specifics: a tough road slate, Miami plus both ACC Championship Game teams in Virginia and Duke at home, and even the non-conference trip to Purdue looks tricky. *(p. 112)*
+- Its conclusion cites one of the conference's worst portal hauls and heavy lost offensive production as reasons a downturn should be expected, even with a projection of 6.01 wins. *(p. 112)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,16 +86,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- One of the more surprising performances from a first- year head coach came out of Winston-Salem, where Jake Dickert led the Demon Deacons to a 9-4 record. *(p. 112)*
-- The hire was met with mixed feelings when Dave Clawson amicably parted ways with the program, but Dickert came over from Washington State and immediately had success. *(p. 112)*
-- The defense has a fair number of holdovers and DC Scottie Hazelton did an outstanding job with that group last season. *(p. 112)*
-- Under 5.5 I think Dickert is a good coach and I thought that at Washington State, too, but there are a lot of red flags blowing violently in the breeze with this team coming off of last season. *(p. 112)*
-- The Demon Deacons shaved off over 10 PPG and 1.4 YPP year over year with the new coaching staff. *(p. 113)*
+- The guide calls Jake Dickert's 9-4 debut one of the more surprising first-year performances, noting the hire met mixed feelings when Dave Clawson amicably parted ways, and that Dickert arrived from Washington State and immediately succeeded. *(p. 112)*
+- The offense is basically brand new apart from leading receiver Carlos Hernandez, while the defense has a fair number of holdovers and coordinator Scottie Hazelton did an outstanding job. *(p. 112)*
+- Recommendation is Under 5.5 wins. The guide is careful to separate its view of the coach from its view of the season, saying it rated Dickert at Washington State and still does. *(p. 112)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He was the DC at Wake Forest prior to Jake Dickert’s arrival and then a defensive assistant at Kentucky. *(p. 329)*
-- OC Rob Ezell left for the same position at Wake Forest following a very successful 2024 season. *(p. 341)*
+Also referenced on **pp. 329, 341** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -95,7 +98,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 112)*.
 
-Not addressed in guide.
+- **Should Wake Forest have aimed higher at QB?** Robby Ashford and Deshawn Purdie gave more than expected, with an 18-to-11 ratio and Ashford's nine rushing touchdowns and 554 yards, though there was no clear starter for a while before Ashford, previously at Auburn and South Carolina, settled in. The guide makes a specific causal link: his mobility meant Wake Forest allowed only 17 sacks after surrendering 91 across the two prior seasons and at least 35 in each of the last four. Left-handed Gio Lopez is not that type of player and the line is rebuilt. With only a 10-to-5 ratio at nearby North Carolina, it judges him a very underwhelming addition for co-coordinators Rob Ezell and Dan Enos. *(p. 113)*
 
 ## 10. Returning Production
 
@@ -111,43 +114,29 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- There are a ton of new faces here, even though Wake Forest has been doing some pretty good fundraising of late for their NIL budget. *(p. 112)*
-- With one of the worst portal hauls in the conference and a lot of lost production on offense, a downturn should be expected, even though my projection is 6.01 wins. *(p. 112)*
-- The strength of the returnees on defense, coupled with some plug-and-play transfers, brings me back to the first question. *(p. 113)*
+- Sustaining it will be a chore given a great many new faces, even though Wake Forest has been fundraising well for its NIL budget. *(p. 112)*
+- Its conclusion cites one of the conference's worst portal hauls and heavy lost offensive production as reasons a downturn should be expected, even with a projection of 6.01 wins. *(p. 112)*
+- **Should Wake Forest have aimed higher at QB?** Robby Ashford and Deshawn Purdie gave more than expected, with an 18-to-11 ratio and Ashford's nine rushing touchdowns and 554 yards, though there was no clear starter for a while before Ashford, previously at Auburn and South Carolina, settled in. The guide makes a specific causal link: his mobility meant Wake Forest allowed only 17 sacks after surrendering 91 across the two prior seasons and at least 35 in each of the last four. Left-handed Gio Lopez is not that type of player and the line is rebuilt. With only a 10-to-5 ratio at nearby North Carolina, it judges him a very underwhelming addition for co-coordinators Rob Ezell and Dan Enos. *(p. 113)*
+- **Can the defense orchestrate a repeat performance?** Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Vasko is still on the roster, but Chadwell also went to the transfer portal store and picked out Deshawn Purdie, formerly at Wake Forest. *(p. 197)*
-- Mountain Lions after transferring out of Wake Forest. *(p. 219)*
-- In order to fix the issues, Sarkisian helped his group by hitting the portal, bringing in a few bodies, but right tackle Melvin Siani from Wake Forest was the crown jewel. *(p. 311)*
+Referenced in the guide on **pp. 197, 219, 311** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-Not addressed in guide.
+- Sustaining it will be a chore given a great many new faces, even though Wake Forest has been fundraising well for its NIL budget. *(p. 112)*
 
 ## 13. Offensive Identity
 
-- The offense is basically brand new aside from leading receiver Carlos Hernandez. *(p. 112)*
-- With one of the worst portal hauls in the conference and a lot of lost production on offense, a downturn should be expected, even though my projection is 6.01 wins. *(p. 112)*
-- Robby Ashford and Deshawn Purdie gave the Demon Deacons probably more than they were expecting with an 18/11 TD/INT ratio and Ashford’s nine rushing scores with 554 yards. *(p. 113)*
-- Southpaw slinger Gio Lopez isn’t that same type of player and this is a rebuilt offensive line. *(p. 113)*
-- It doesn’t seem like Wake Forest had to shell out a lot to keep the defense intact, so why not shoot higher on offense? *(p. 113)*
-- Similarly, the offense was tied for 86th in red zone attempts and tied for 104th in red zone TDs. *(p. 113)*
+- The offense is basically brand new apart from leading receiver Carlos Hernandez, while the defense has a fair number of holdovers and coordinator Scottie Hazelton did an outstanding job. *(p. 112)*
+- **Should Wake Forest have aimed higher at QB?** Robby Ashford and Deshawn Purdie gave more than expected, with an 18-to-11 ratio and Ashford's nine rushing touchdowns and 554 yards, though there was no clear starter for a while before Ashford, previously at Auburn and South Carolina, settled in. The guide makes a specific causal link: his mobility meant Wake Forest allowed only 17 sacks after surrendering 91 across the two prior seasons and at least 35 in each of the last four. Left-handed Gio Lopez is not that type of player and the line is rebuilt. With only a 10-to-5 ratio at nearby North Carolina, it judges him a very underwhelming addition for co-coordinators Rob Ezell and Dan Enos. *(p. 113)*
 
 ## 14. Defensive Identity
 
-- The defense has a fair number of holdovers and DC Scottie Hazelton did an outstanding job with that group last season. *(p. 112)*
-- Because of his mobility, Wake Forest only allowed 17 sacks after surrendering 91 over the two previous seasons and at least 35 in each of the last four seasons. *(p. 113)*
-- In fact, Wake Forest was ninth in YPP nationally and had a top-10 red zone defense. *(p. 113)*
-- Leading tackler Nick Anderson is gone, but top pass rusher Langston Hardy is back after he had seven sacks and 10 tackles for loss. *(p. 113)*
-- Safety Davaughn Patterson couldn’t declare for the NFL Draft, but he’ll be in it this upcoming April. *(p. 113)*
-- The strength of the returnees on defense, coupled with some plug-and-play transfers, brings me back to the first question. *(p. 113)*
-- It doesn’t seem like Wake Forest had to shell out a lot to keep the defense intact, so why not shoot higher on offense? *(p. 113)*
-- The defense was spectacular in the red zone, but they seemed to bend a lot up until that point, as the Deacs were tied for 119th in red zone attempts against, but tied for 57th in red zone TDs allowed and finished 10th in red zone TD%. *(p. 113)*
+- The offense is basically brand new apart from leading receiver Carlos Hernandez, while the defense has a fair number of holdovers and coordinator Scottie Hazelton did an outstanding job. *(p. 112)*
+- **Can the defense orchestrate a repeat performance?** Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
+- **Have you seen the Regression Monster?** The guide lays out the case in detail. Wake Forest beat Virginia Tech, SMU and Virginia as an underdog. The defense was spectacular in the red zone but bent a lot beforehand: tied for 119th in red zone attempts against, yet tied for 57th in red zone touchdowns allowed and 10th in red zone touchdown percentage. The offense was similarly skewed, tied for 86th in red zone attempts and 104th in red zone touchdowns. Wake Forest also tied Texas State for the most plays of 60-plus yards with 11 and tied for second with 15 plays of 50-plus. Its conclusion is that it strongly questions the ability to sustain those situational numbers. *(p. 113)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- He was the DC at Wake Forest prior to Jake Dickert’s arrival and then a defensive assistant at Kentucky. *(p. 329)*
+Referenced in the guide on **pp. 329** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -212,19 +201,17 @@ Prices printed on the team page *(p. 113)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Obviously that’s been accounted for in the market number here, but the road schedule is tough, plus Miami and then the two (for better or worse) ACC Championship Game teams in Virginia and Duke at home. *(p. 112)*
-- Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. *(p. 113)*
+- Recommendation is Under 5.5 wins. The guide is careful to separate its view of the coach from its view of the season, saying it rated Dickert at Washington State and still does. *(p. 112)*
+- It describes a lot of red flags blowing violently and acknowledges the market has accounted for them in the number. *(p. 112)*
+- Its conclusion cites one of the conference's worst portal hauls and heavy lost offensive production as reasons a downturn should be expected, even with a projection of 6.01 wins. *(p. 112)*
+- **Have you seen the Regression Monster?** The guide lays out the case in detail. Wake Forest beat Virginia Tech, SMU and Virginia as an underdog. The defense was spectacular in the red zone but bent a lot beforehand: tied for 119th in red zone attempts against, yet tied for 57th in red zone touchdowns allowed and 10th in red zone touchdown percentage. The offense was similarly skewed, tied for 86th in red zone attempts and 104th in red zone touchdowns. Wake Forest also tied Texas State for the most plays of 60-plus yards with 11 and tied for second with 15 plays of 50-plus. Its conclusion is that it strongly questions the ability to sustain those situational numbers. *(p. 113)*
 
 ## 22. Historical / Situational Trends
 
-- The defense has a fair number of holdovers and DC Scottie Hazelton did an outstanding job with that group last season. *(p. 112)*
-- Under 5.5 I think Dickert is a good coach and I thought that at Washington State, too, but there are a lot of red flags blowing violently in the breeze with this team coming off of last season. *(p. 112)*
-- Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. *(p. 113)*
+- The guide calls Jake Dickert's 9-4 debut one of the more surprising first-year performances, noting the hire met mixed feelings when Dave Clawson amicably parted ways, and that Dickert arrived from Washington State and immediately succeeded. *(p. 112)*
+- **Have you seen the Regression Monster?** The guide lays out the case in detail. Wake Forest beat Virginia Tech, SMU and Virginia as an underdog. The defense was spectacular in the red zone but bent a lot beforehand: tied for 119th in red zone attempts against, yet tied for 57th in red zone touchdowns allowed and 10th in red zone touchdown percentage. The offense was similarly skewed, tied for 86th in red zone attempts and 104th in red zone touchdowns. Wake Forest also tied Texas State for the most plays of 60-plus yards with 11 and tied for second with 15 plays of 50-plus. Its conclusion is that it strongly questions the ability to sustain those situational numbers. *(p. 113)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Edwards committed to Wake Forest in 2020 and enrolled in 2021. *(p. 99)*
-- Even though there is only one clear loss on the schedule in non-conference as opposed to what we all assumed was two last season (only lost 10-9 to Wake Forest), the conference schedule is tough and it does seem like the teams in some of the toss-up games may have improved more than the Owls. *(p. 194)*
+Referenced in the guide on **pp. 99, 194** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -270,42 +257,37 @@ As printed on p. 113. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **6.2 wins** against a posted total of 5.5 — **+0.7** in this team's favour.
-- The strength of the returnees on defense, coupled with some plug-and-play transfers, brings me back to the first question. *(p. 113)*
-- Even though there is only one clear loss on the schedule in non-conference as opposed to what we all assumed was two last season (only lost 10-9 to Wake Forest), the conference schedule is tough and it does seem like the teams in some of the toss-up games may have improved more than the Owls. *(p. 194)*
-- An eight-win improvement year over year was just incredible, especially with two Power Four teams to start the season in Wake Forest and Indiana. *(p. 195)*
+- Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- With a much more difficult schedule, we’ll see how Dickert does in Year 2. *(p. 112)*
-- Obviously that’s been accounted for in the market number here, but the road schedule is tough, plus Miami and then the two (for better or worse) ACC Championship Game teams in Virginia and Duke at home. *(p. 112)*
-- With one of the worst portal hauls in the conference and a lot of lost production on offense, a downturn should be expected, even though my projection is 6.01 wins. *(p. 112)*
-- Leading tackler Nick Anderson is gone, but top pass rusher Langston Hardy is back after he had seven sacks and 10 tackles for loss. *(p. 113)*
-- The strength of the returnees on defense, coupled with some plug-and-play transfers, brings me back to the first question. *(p. 113)*
-- I strongly question their ability to keep up those types of situational numbers. *(p. 113)*
-- Even though there is only one clear loss on the schedule in non-conference as opposed to what we all assumed was two last season (only lost 10-9 to Wake Forest), the conference schedule is tough and it does seem like the teams in some of the toss-up games may have improved more than the Owls. *(p. 194)*
-- Against Ole Miss and Wake Forest, he completed 28-of-53 passes for 419 yards with a touchdown and an interception. *(p. 299)*
+- Schedule specifics: a tough road slate, Miami plus both ACC Championship Game teams in Virginia and Duke at home, and even the non-conference trip to Purdue looks tricky. *(p. 112)*
+- Its conclusion cites one of the conference's worst portal hauls and heavy lost offensive production as reasons a downturn should be expected, even with a projection of 6.01 wins. *(p. 112)*
+- Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
+- The guide lays out the case in detail. Wake Forest beat Virginia Tech, SMU and Virginia as an underdog. The defense was spectacular in the red zone but bent a lot beforehand: tied for 119th in red zone attempts against, yet tied for 57th in red zone touchdowns allowed and 10th in red zone touchdown percentage. The offense was similarly skewed, tied for 86th in red zone attempts and 104th in red zone touchdowns. Wake Forest also tied Texas State for the most plays of 60-plus yards with 11 and tied for second with 15 plays of 50-plus. Its conclusion is that it strongly questions the ability to sustain those situational numbers. *(p. 113)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 113)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 113)*. Its analysis, in reference form:
 
 ### Should Wake Forest have aimed higher at QB?
 
-Robby Ashford and Deshawn Purdie gave the Demon Deacons probably more than they were expecting with an 18/11 TD/INT ratio and Ashford’s nine rushing scores with 554 yards. There was no clear-cut No. 1 for a while, as Ashford, who was originally at Auburn and then South Carolina, eventually settled in as the starter. Because of his mobility, Wake Forest only allowed 17 sacks after surrendering 91 over the two previous seasons and at least 35 in each of the last four seasons. Southpaw slinger Gio Lopez isn’t that same type of player and this is a rebuilt offensive line. Lopez only had a 10/5 TD/INT ratio at nearby North Carolina and seems like a very underwhelming addition for co-OCs Rob Ezell and Dan Enos.
+Robby Ashford and Deshawn Purdie gave more than expected, with an 18-to-11 ratio and Ashford's nine rushing touchdowns and 554 yards, though there was no clear starter for a while before Ashford, previously at Auburn and South Carolina, settled in. The guide makes a specific causal link: his mobility meant Wake Forest allowed only 17 sacks after surrendering 91 across the two prior seasons and at least 35 in each of the last four. Left-handed Gio Lopez is not that type of player and the line is rebuilt. With only a 10-to-5 ratio at nearby North Carolina, it judges him a very underwhelming addition for co-coordinators Rob Ezell and Dan Enos. *(p. 113)*
 
 ### Can the defense orchestrate a repeat performance?
 
-Hazelton’s unit was truly stellar. The Demon Deacons shaved off over 10 PPG and 1.4 YPP year over year with the new coaching staff. In fact, Wake Forest was ninth in YPP nationally and had a top-10 red zone defense. Leading tackler Nick Anderson is gone, but top pass rusher Langston Hardy is back after he had seven sacks and 10 tackles for loss. Safety Davaughn Patterson couldn’t declare for the NFL Draft, but he’ll be in it this upcoming April. The strength of the returnees on defense, coupled with some plug-and-play transfers, brings me back to the first question. It doesn’t seem like Wake Forest had to shell out a lot to keep the defense intact, so why not shoot higher on offense?
+Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
 
 ### Have you seen the Regression Monster?
 
-If you haven’t, you’re about to. Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. The defense was spectacular in the red zone, but they seemed to bend a lot up until that point, as the Deacs were tied for 119th in red zone attempts against, but tied for 57th in red zone TDs allowed and finished 10th in red zone TD%. Similarly, the offense was tied for 86th in red zone attempts and tied for 104th in red zone TDs. They tied with Texas State for the most plays of 60+ yards with 11 and tied for second in plays of 50+ yards with 15. I strongly question their ability to keep up those types of situational numbers.
+The guide lays out the case in detail. Wake Forest beat Virginia Tech, SMU and Virginia as an underdog. The defense was spectacular in the red zone but bent a lot beforehand: tied for 119th in red zone attempts against, yet tied for 57th in red zone touchdowns allowed and 10th in red zone touchdown percentage. The offense was similarly skewed, tied for 86th in red zone attempts and 104th in red zone touchdowns. Wake Forest also tied Texas State for the most plays of 60-plus yards with 11 and tied for second with 15 plays of 50-plus. Its conclusion is that it strongly questions the ability to sustain those situational numbers. *(p. 113)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -323,6 +305,8 @@ No source conflict identified for this team.
 | 10, 90, 99, 104, 194, 195, 197, 219, 281, 299, 311, 329, 341 | Other pages naming this team |
 
 This team is named in **22 sentences across 15 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 90, 99, 104, 194, 195, 197, 219, 281, 299, 311, 329, 341.
 
 ## 29. Cross-Links
 

@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 3.2–8.8 overall, 1.6–7.4 in conference |
 | **Schedule strength** | 49.52 (#15 toughest of 138) |
 
-### Season outlook as written in the guide (p. 104)
+### Season outlook — VSiN's analysis in reference form (p. 104)
 
-Armed with a $50 million donation to the NIL collective, Stanford will go into the season with Davis Warren at QB and a first-time head coach. Time will tell if Andrew Luck will get this program going in the right direction, as the Cardinal haven’t won more than four games since 2018. But, the roster looks underwhelming again this season and Tavita Pritchard will have his hands full with a whole lot of travel and a first-time offensive coordinator - er, excuse me, “Andrew Luck Director of Offense”. Life in the ACC is not easy and Stanford will play roadies at Duke, Wake Forest, Louisville, and Virginia Tech, as well as a road trip to South Bend in mid-October to take on Notre Dame. With high academic requirements, the portal isn’t as much of a shopping spree for Stanford as it is for other schools and that looks like it will hold the program back once again. Under 3.5 Last year’s team was pretty awful in a lot of ways and still got to four wins, even after starting 0-2. But, the schedule is very worrisome, especially with all the travel, plus Stanford faces NC State and Louisville with both of those teams off of their byes. In their four wins last season, Stanford was +10, -43, -151, and -15 in yardage differential, so they got fortunate to win the games that they did. Realistically, the product on the field will probably look better, but that doesn’t mean it will translate into victories. My projection is 3.65 wins.
+- Stanford enters with a $50 million NIL collective donation, Davis Warren at quarterback and a first-time head coach, with the guide noting the Cardinal have not won more than four games since 2018. *(p. 104)*
+- Whether Andrew Luck can turn the programme is left open. The roster looks underwhelming again, and Tavita Pritchard faces heavy travel and a first-time offensive coordinator — a role the guide notes is titled Andrew Luck Director of Offense. *(p. 104)*
+- ACC life is hard: road games at Duke, Wake Forest, Louisville and Virginia Tech plus a mid-October trip to Notre Dame. *(p. 104)*
+- A structural constraint is identified: high academic requirements make the portal far less of a shopping spree than at other schools, which the guide expects to hold the programme back again. *(p. 104)*
+- Recommendation is Under 3.5 wins. The guide acknowledges last year's team was pretty awful in many ways and still reached four wins after an 0-2 start. *(p. 104)*
+- Its concerns are the schedule and travel, plus facing NC State and Louisville when both are coming off byes. *(p. 104)*
+- It provides the underlying evidence for regression: in the four 2025 wins Stanford's yardage differentials were +10, -43, -151 and -15, so it was fortunate to win them. Its conclusion separates quality from results — the product will probably look better without translating into victories. Projection is 3.65 wins. *(p. 104)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,15 +88,11 @@ Profiled among the guide's new head coaches in The Coaching Carousel *(p. 30)*.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Armed with a $50 million donation to the NIL collective, Stanford will go into the season with Davis Warren at QB and a first-time head coach. *(p. 104)*
-- But, the roster looks underwhelming again this season and Tavita Pritchard will have his hands full with a whole lot of travel and a first-time offensive coordinator - er, excuse me, “Andrew Luck Director of Offense”. *(p. 104)*
-- If nothing else with Pritchard, he’s been working with Jayden Daniels over the last couple of seasons and had five seasons as the Commanders OC, so he may find success with one of the QBs. *(p. 105)*
-- First-time OC Terry Heffernan has spent a lot of time as an offensive line coach in his career and that can only be a good thing for this team. *(p. 105)*
-- Richard, the longtime NFL DC and DB coach, has been named the “David Shaw Director of Defense” and this will be his first time at the collegiate level since he was a grad assistant at USC in 2008-09. *(p. 105)*
+- Whether Andrew Luck can turn the programme is left open. The roster looks underwhelming again, and Tavita Pritchard faces heavy travel and a first-time offensive coordinator — a role the guide notes is titled Andrew Luck Director of Offense. *(p. 104)*
+- **Will there be more protection in Palo Alto?** First-time coordinator Terry Heffernan has spent much of his career coaching offensive lines, which the guide calls a good thing here. It lays out five years of sack figures — 31, 41, 41, 39 and 41 allowed against 15, 23, 23, 26 and 23 generated — and notes all three quarterback options are more mobile than their predecessors. Its measured conclusion is that sack differential is not the only reason Stanford has struggled, but being -83 over five seasons certainly has not helped. *(p. 105)*
+- **Can Kris Richard fix the defense?** The guide is careful to show the defense has declined too, not just the offense. Last year was the first since 2019 to allow under 30 points per game, though it qualifies that 29.2 is not much better, and the first to allow under 6.0 yards per play since 2018. Richard, a longtime NFL coordinator and defensive backs coach now titled David Shaw Director of Defense, has not worked in college since a graduate assistant role at USC in 2008-09. It offers a genuine advantage — Stanford has a lot of smart players who should grasp a complex NFL-caliber scheme — while noting few returnees, one being Matt Rose, who had nearly twice as many tackles as anyone else. *(p. 105)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Even with the weight that a Stanford degree carries, Andrew Luck, and now Pritchard, who played for the Cardinal from 2006-09 and coached for them from 2011-22, know the academic requirements in Palo Alto severely limit the player pool. *(p. 30)*
+Also referenced on **pp. 30** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -96,12 +100,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 104)*.
 
-- Armed with a $50 million donation to the NIL collective, Stanford will go into the season with Davis Warren at QB and a first-time head coach. *(p. 104)*
-- Ben Gulbranson, who got the bulk of the passing reps, had more interceptions (10) than touchdowns (9) and the team collectively posted a 14/12 TD/INT ratio. *(p. 105)*
+- Stanford enters with a $50 million NIL collective donation, Davis Warren at quarterback and a first-time head coach, with the guide noting the Cardinal have not won more than four games since 2018. *(p. 104)*
+- **Will Stanford finally protect the football?** The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Among teams with exactly 12 games played, only Stanford allowed more passing yards. *(p. 205)*
+Also referenced on **pp. 205** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -117,33 +119,23 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
-- Armed with a $50 million donation to the NIL collective, Stanford will go into the season with Davis Warren at QB and a first-time head coach. *(p. 104)*
-- With high academic requirements, the portal isn’t as much of a shopping spree for Stanford as it is for other schools and that looks like it will hold the program back once again. *(p. 104)*
-- UCF transfer Dylan Rizk could be an option or true freshman Mike Mitchell, who originally committed to Vanderbilt, may get some looks. *(p. 105)*
+- A structural constraint is identified: high academic requirements make the portal far less of a shopping spree than at other schools, which the guide expects to hold the programme back again. *(p. 104)*
+- **Will Stanford finally protect the football?** The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Additionally, going from Tommy Castellanos to Ashton Daniels, who transferred from Stanford and Auburn, is a big drop-off. *(p. 15)*
+Referenced in the guide on **pp. 15** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- UCF transfer Dylan Rizk could be an option or true freshman Mike Mitchell, who originally committed to Vanderbilt, may get some looks. *(p. 105)*
+- Stanford enters with a $50 million NIL collective donation, Davis Warren at quarterback and a first-time head coach, with the guide noting the Cardinal have not won more than four games since 2018. *(p. 104)*
+- A structural constraint is identified: high academic requirements make the portal far less of a shopping spree than at other schools, which the guide expects to hold the programme back again. *(p. 104)*
 
 ## 13. Offensive Identity
 
-- But, the roster looks underwhelming again this season and Tavita Pritchard will have his hands full with a whole lot of travel and a first-time offensive coordinator - er, excuse me, “Andrew Luck Director of Offense”. *(p. 104)*
-- First-time OC Terry Heffernan has spent a lot of time as an offensive line coach in his career and that can only be a good thing for this team. *(p. 105)*
-- The offensive shortcomings of the program have certainly been on display, but this defense has really taken a turn for the worst as well. *(p. 105)*
+- **Will there be more protection in Palo Alto?** First-time coordinator Terry Heffernan has spent much of his career coaching offensive lines, which the guide calls a good thing here. It lays out five years of sack figures — 31, 41, 41, 39 and 41 allowed against 15, 23, 23, 26 and 23 generated — and notes all three quarterback options are more mobile than their predecessors. Its measured conclusion is that sack differential is not the only reason Stanford has struggled, but being -83 over five seasons certainly has not helped. *(p. 105)*
 
 ## 14. Defensive Identity
 
-- Over the last five seasons, along with turning the ball over too much and not forcing enough turnovers, the Cardinal have allowed 31, 41, 41, 39, and 41 sacks, while only getting 15, 23, 23, 26, and 23 of their own. *(p. 105)*
-- The sack differential isn’t the only reason why Stanford has struggled, but being -83 over the last five seasons sure isn’t helping. *(p. 105)*
-- The offensive shortcomings of the program have certainly been on display, but this defense has really taken a turn for the worst as well. *(p. 105)*
-- Last year’s defense was the first since 2019 to allow fewer than 30 PPG, not that 29.2 PPG is that much better. *(p. 105)*
-- It was also the first defense to allow under 6.0 YPP since 2018. *(p. 105)*
-- Richard, the longtime NFL DC and DB coach, has been named the “David Shaw Director of Defense” and this will be his first time at the collegiate level since he was a grad assistant at USC in 2008-09. *(p. 105)*
-- There aren’t many returnees on defense, but one of them is Matt Rose, who had nearly twice as many tackles as any other player. *(p. 105)*
+- **Can Kris Richard fix the defense?** The guide is careful to show the defense has declined too, not just the offense. Last year was the first since 2019 to allow under 30 points per game, though it qualifies that 29.2 is not much better, and the first to allow under 6.0 yards per play since 2018. Richard, a longtime NFL coordinator and defensive backs coach now titled David Shaw Director of Defense, has not worked in college since a graduate assistant role at USC in 2008-09. It offers a genuine advantage — Stanford has a lot of smart players who should grasp a complex NFL-caliber scheme — while noting few returnees, one being Matt Rose, who had nearly twice as many tackles as anyone else. *(p. 105)*
 
 ## 15. Key Strengths
 
@@ -189,7 +181,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- Its concerns are the schedule and travel, plus facing NC State and Louisville when both are coming off byes. *(p. 104)*
 
 ## 19. Win Total Discussion
 
@@ -211,18 +203,13 @@ Prices printed on the team page *(p. 105)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 3.5 wins. The guide acknowledges last year's team was pretty awful in many ways and still reached four wins after an 0-2 start. *(p. 104)*
+- It provides the underlying evidence for regression: in the four 2025 wins Stanford's yardage differentials were +10, -43, -151 and -15, so it was fortunate to win them. Its conclusion separates quality from results — the product will probably look better without translating into victories. Projection is 3.65 wins. *(p. 104)*
 
 ## 22. Historical / Situational Trends
 
-- Time will tell if Andrew Luck will get this program going in the right direction, as the Cardinal haven’t won more than four games since 2018. *(p. 104)*
-- Under 3.5 Last year’s team was pretty awful in a lot of ways and still got to four wins, even after starting 0-2. *(p. 104)*
-- In their four wins last season, Stanford was +10, -43, -151, and -15 in yardage differential, so they got fortunate to win the games that they did. *(p. 104)*
-- Since then, they are -33 over the last five seasons combined. *(p. 105)*
-- Warren, who missed last season with a torn ACL, had a 7/9 TD/INT ratio at Michigan. *(p. 105)*
-- Last year’s defense was the first since 2019 to allow fewer than 30 PPG, not that 29.2 PPG is that much better. *(p. 105)*
-- It was also the first defense to allow under 6.0 YPP since 2018. *(p. 105)*
-- Richard, the longtime NFL DC and DB coach, has been named the “David Shaw Director of Defense” and this will be his first time at the collegiate level since he was a grad assistant at USC in 2008-09. *(p. 105)*
+- Stanford enters with a $50 million NIL collective donation, Davis Warren at quarterback and a first-time head coach, with the guide noting the Cardinal have not won more than four games since 2018. *(p. 104)*
+- It provides the underlying evidence for regression: in the four 2025 wins Stanford's yardage differentials were +10, -43, -151 and -15, so it was fortunate to win them. Its conclusion separates quality from results — the product will probably look better without translating into victories. Projection is 3.65 wins. *(p. 104)*
 
 ## 23. Important Statistics
 
@@ -267,7 +254,7 @@ As printed on p. 105. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- In his career at Stanford and Auburn, he’s been inconsistent at best and erratic and turnover-prone at his worst. *(p. 13)*
+- The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -275,28 +262,30 @@ As printed on p. 105. Each category carries a value and a national rank.
 
 - Makinen projects **3.2 wins** against a posted total of 3.5 — **-0.3** against this team.
 - The team page recommends **UNDER 3.5**.
-- Warren, who missed last season with a torn ACL, had a 7/9 TD/INT ratio at Michigan. *(p. 105)*
-- The sack differential isn’t the only reason why Stanford has struggled, but being -83 over the last five seasons sure isn’t helping. *(p. 105)*
-- Alejado had an incredible 2025 despite dealing with a nagging ankle injury, which he suffered in the season-opener against Stanford. *(p. 247)*
+- Its concerns are the schedule and travel, plus facing NC State and Louisville when both are coming off byes. *(p. 104)*
+- It provides the underlying evidence for regression: in the four 2025 wins Stanford's yardage differentials were +10, -43, -151 and -15, so it was fortunate to win them. Its conclusion separates quality from results — the product will probably look better without translating into victories. Projection is 3.65 wins. *(p. 104)*
+- The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
+- First-time coordinator Terry Heffernan has spent much of his career coaching offensive lines, which the guide calls a good thing here. It lays out five years of sack figures — 31, 41, 41, 39 and 41 allowed against 15, 23, 23, 26 and 23 generated — and notes all three quarterback options are more mobile than their predecessors. Its measured conclusion is that sack differential is not the only reason Stanford has struggled, but being -83 over five seasons certainly has not helped. *(p. 105)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 105)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 105)*. Its analysis, in reference form:
 
 ### Will Stanford finally protect the football?
 
-The Cardinal only played six games during the 2020 COVID season and were +2 in turnover margin. Since then, they are -33 over the last five seasons combined. Ben Gulbranson, who got the bulk of the passing reps, had more interceptions (10) than touchdowns (9) and the team collectively posted a 14/12 TD/INT ratio. Warren, who missed last season with a torn ACL, had a 7/9 TD/INT ratio at Michigan. UCF transfer Dylan Rizk could be an option or true freshman Mike Mitchell, who originally committed to Vanderbilt, may get some looks. If nothing else with Pritchard, he’s been working with Jayden Daniels over the last couple of seasons and had five seasons as the Commanders OC, so he may find success with one of the QBs.
+The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
 
 ### Will there be more protection in Palo Alto?
 
-First-time OC Terry Heffernan has spent a lot of time as an offensive line coach in his career and that can only be a good thing for this team. Over the last five seasons, along with turning the ball over too much and not forcing enough turnovers, the Cardinal have allowed 31, 41, 41, 39, and 41 sacks, while only getting 15, 23, 23, 26, and 23 of their own. Whether it is Warren, Rizk, or Mitchell, all three are more mobile than their predecessors, so that should also help the cause. The sack differential isn’t the only reason why Stanford has struggled, but being -83 over the last five seasons sure isn’t helping.
+First-time coordinator Terry Heffernan has spent much of his career coaching offensive lines, which the guide calls a good thing here. It lays out five years of sack figures — 31, 41, 41, 39 and 41 allowed against 15, 23, 23, 26 and 23 generated — and notes all three quarterback options are more mobile than their predecessors. Its measured conclusion is that sack differential is not the only reason Stanford has struggled, but being -83 over five seasons certainly has not helped. *(p. 105)*
 
 ### Can Kris Richard fix the defense?
 
-The offensive shortcomings of the program have certainly been on display, but this defense has really taken a turn for the worst as well. Last year’s defense was the first since 2019 to allow fewer than 30 PPG, not that 29.2 PPG is that much better. It was also the first defense to allow under 6.0 YPP since 2018. Richard, the longtime NFL DC and DB coach, has been named the “David Shaw Director of Defense” and this will be his first time at the collegiate level since he was a grad assistant at USC in 2008-09. Fortunately, Stanford has a lot of smart kids, so they should be able to grasp a complex NFL- caliber scheme. There aren’t many returnees on defense, but one of them is Matt Rose, who had nearly twice as many tackles as any other player.
+The guide is careful to show the defense has declined too, not just the offense. Last year was the first since 2019 to allow under 30 points per game, though it qualifies that 29.2 is not much better, and the first to allow under 6.0 yards per play since 2018. Richard, a longtime NFL coordinator and defensive backs coach now titled David Shaw Director of Defense, has not worked in college since a graduate assistant role at USC in 2008-09. It offers a genuine advantage — Stanford has a lot of smart players who should grasp a complex NFL-caliber scheme — while noting few returnees, one being Matt Rose, who had nearly twice as many tackles as anyone else. *(p. 105)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -314,6 +303,8 @@ No source conflict identified for this team.
 | 6, 10, 13, 15, 30, 40, 89, 96, 205, 212, 247, 265 | Other pages naming this team |
 
 This team is named in **25 sentences across 14 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 10, 13, 15, 30, 40, 89, 96, 205, 212, 247, 265.
 
 ## 29. Cross-Links
 

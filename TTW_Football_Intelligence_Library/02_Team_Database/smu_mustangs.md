@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 8.9–3.1 overall, 6.8–2.2 in conference |
 | **Schedule strength** | 43.62 (#56 toughest of 138) |
 
-### Season outlook as written in the guide (p. 102)
+### Season outlook — VSiN's analysis in reference form (p. 102)
 
-It is fair to wonder if this will be the last season in Dallas for Rhett Lashlee. He inherited a decent foundation from Sonny Dykes, but he has taken the Mustangs to a new level, posting two 11-win seasons in 2023 and 2024 and another successful campaign in 2025. While the Mustangs didn’t reach the CFP like they did the previous season, they were still lumped into the five-way tie for second place and beat Miami, but the tiebreakers didn’t fall in their favor after doing themselves no favors in the loss at Cal to end the regular season. Lashlee is 38-16 here and senior QB Kevin Jennings will run out of eligibility after this season, barring major injury and a potential waiver, so there’s a good chance that suitors will come a-callin’ and he’ll have some tough decisions to make. For now, he has another premier ACC contender in the Lone Star State. Under 8.5 While I don’t expect Lashlee’s team to regress too much, especially with the consistency in their metrics over the last three seasons, we’ll find out a lot about them right away with road games against Florida State and Louisville in September. A road trip to South Bend is also on the slate this season. They’ll catch Virginia Tech and new HC James Franklin on November 7 with a rest disadvantage. Last year’s team was 8-4 in the regular season and beat Arizona in the Holiday Bowl. I could see a similar season this year, though my projection is 8.66 wins.
+- The guide opens by asking whether this is Rhett Lashlee's last season in Dallas. He inherited a decent foundation from Sonny Dykes and raised the level, with 11-win seasons in 2023 and 2024 and another successful 2025. *(p. 102)*
+- SMU missed the playoff but was in the five-way tie for second and beat Miami, with tiebreakers going against them after a damaging regular-season-ending loss at Cal. *(p. 102)*
+- Lashlee is 38-16, and with senior quarterback Kevin Jennings out of eligibility after this season barring injury and a waiver, the guide expects suitors to come calling and tough decisions to follow. *(p. 102)*
+- Recommendation is Under 8.5 wins. The guide is explicit that it does not expect much regression, given consistent metrics across three seasons. *(p. 102)*
+- September road games at Florida State and Louisville will reveal a lot immediately, with a trip to Notre Dame also on the slate. *(p. 102)*
+- A situational note is flagged: SMU meets Virginia Tech and new head coach James Franklin on 7 November at a rest disadvantage. *(p. 102)*
+- Its expectation is a season similar to last year's 8-4 regular season plus a Holiday Bowl win over Arizona, with a projection of 8.66 wins. *(p. 102)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,16 +88,12 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Lashlee is his own OC, but did lose right-hand man Casey Woods to the HC job at Missouri State. *(p. 103)*
-- Former DC Scott Symons is still in Dallas, but now with the Cowboys. *(p. 103)*
-- On the other side, it will be interesting to see if new DC Maurice Crum and holdover co-DC Ricky Hunley Jr. can keep up the pressure on defense, considering all four Mustangs with at least five sacks have moved on. *(p. 103)*
+- The guide opens by asking whether this is Rhett Lashlee's last season in Dallas. He inherited a decent foundation from Sonny Dykes and raised the level, with 11-win seasons in 2023 and 2024 and another successful 2025. *(p. 102)*
+- Lashlee is 38-16, and with senior quarterback Kevin Jennings out of eligibility after this season barring injury and a waiver, the guide expects suitors to come calling and tough decisions to follow. *(p. 102)*
+- **Has SMU done enough to reload on offense?** Jennings posted a 26-to-13 touchdown-to-interception ratio and did virtually nothing as a runner, which the guide identifies as the biggest year-over-year change — he was never prolific, but had 300 more rushing yards in 2024. With double-digit interceptions in each of the last two seasons, offsetting that elsewhere matters. He now loses his top two receivers by yardage and four of the top five, plus leading rushers TJ Harden and Chris Johnson. SMU added running back Kendrick Raphael, now at his third ACC school, with help at receiver and tight end. Lashlee calls his own plays but lost right-hand man Casey Woods to the Missouri State head job, and the guide notes wryly that D'Eriq King is now a co-coordinator. *(p. 103)*
+- **Is the defense the bigger worry?** SMU has exceeded six yards per play on offense in all four Lashlee seasons, with last year's 32.2 points the lowest of that span, but the guide argues defense has been the separator between his 7-6 debut and 31-10 over three years. Last year's unit was 0.5 yards per play worse yet allowed 1.6 fewer points. Over three seasons SMU has 125 sacks, and last year it was +9 in turnover margin with 28 takeaways despite Jennings' interceptions. Former coordinator Scott Symons is still in Dallas but with the Cowboys, and Lashlee promoted from within. Five of the top seven tacklers are gone including sack leader Isaiah Smith, and per 247Sports SMU brought in only the sixth-ranked portal class among 17 ACC teams with many needs at impact positions. *(p. 103)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Casey Woods, who last served as SMU’s offensive coordinator, takes the reins in his first chance as a head coach. *(p. 25)*
-- With Beard off to Coastal Carolina following the program’s first FBS season, AD Patrick Ransdell, who got the job just before the start of the football season, moved quickly to hire Woods from SMU. *(p. 33)*
-- Former SMU OC Casey Woods is now the head coach and returning production is hard to find on the depth chart, as a lot of players followed head coach Ryan Beard to Coastal Carolina or found homes elsewhere. *(p. 200)*
-- Woods brought Hussam Ouri with him from SMU to serve as the offensive line coach and he might be the most important guy on that sideline this season. *(p. 201)*
+Also referenced on **pp. 25, 33, 200, 201** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -97,12 +101,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 102)*.
 
-- Lashlee is 38-16 here and senior QB Kevin Jennings will run out of eligibility after this season, barring major injury and a potential waiver, so there’s a good chance that suitors will come a-callin’ and he’ll have some tough decisions to make. *(p. 102)*
+- Lashlee is 38-16, and with senior quarterback Kevin Jennings out of eligibility after this season barring injury and a waiver, the guide expects suitors to come calling and tough decisions to follow. *(p. 102)*
+- **Has SMU done enough to reload on offense?** Jennings posted a 26-to-13 touchdown-to-interception ratio and did virtually nothing as a runner, which the guide identifies as the biggest year-over-year change — he was never prolific, but had 300 more rushing yards in 2024. With double-digit interceptions in each of the last two seasons, offsetting that elsewhere matters. He now loses his top two receivers by yardage and four of the top five, plus leading rushers TJ Harden and Chris Johnson. SMU added running back Kendrick Raphael, now at his third ACC school, with help at receiver and tight end. Lashlee calls his own plays but lost right-hand man Casey Woods to the Missouri State head job, and the guide notes wryly that D'Eriq King is now a co-coordinator. *(p. 103)*
+- **Let's talk more about sacks, shall we?** The guide introduces sack differential as a metric some handicappers it respects treat as a major tenet. SMU was +16 last season, down from +25 and +31 in the two prior years. On the offensive side it argues Jennings manages this well despite ball-security issues: only 33 sacks taken on well over 800 dropbacks, and while not an explosive runner, 171 carries over two seasons that turned potential negatives into neutral or slightly positive plays. On defense it flags the open question for new coordinator Maurice Crum and holdover co-coordinator Ricky Hunley Jr, since all four Mustangs with at least five sacks have gone. *(p. 103)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SMU TO REACH ACC CHAMPIONSHIP GAME (+200) If veteran QB Kevin Jennings can lead his team to at least one win during SMU’s first two conference games of the season (at Florida State and at Louisville), the Mustangs will be set up nicely for the remainder of ACC play. *(p. 6)*
-- SMU Senior quarterback Kevin Jennings has playoff experience from two years ago, and although he slipped some and turned the ball over too often last season, hopes are high for the offense (32.2 ppg) with the addition of Cal transfer running back Kendrick Raphael. *(p. 19)*
+Also referenced on **pp. 6, 19** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -118,40 +121,26 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
-- SMU went portal shopping for RB Kendrick Raphael, who is at his third ACC school now, and some help at WR and TE. *(p. 103)*
-- Per 247Sports, SMU brought in the sixth-ranked transfer portal class in the 17-team ACC with a lot of needs at impact positions on both sides of the ball. *(p. 103)*
+- **Has SMU done enough to reload on offense?** Jennings posted a 26-to-13 touchdown-to-interception ratio and did virtually nothing as a runner, which the guide identifies as the biggest year-over-year change — he was never prolific, but had 300 more rushing yards in 2024. With double-digit interceptions in each of the last two seasons, offsetting that elsewhere matters. He now loses his top two receivers by yardage and four of the top five, plus leading rushers TJ Harden and Chris Johnson. SMU added running back Kendrick Raphael, now at his third ACC school, with help at receiver and tight end. Lashlee calls his own plays but lost right-hand man Casey Woods to the Missouri State head job, and the guide notes wryly that D'Eriq King is now a co-coordinator. *(p. 103)*
+- **Is the defense the bigger worry?** SMU has exceeded six yards per play on offense in all four Lashlee seasons, with last year's 32.2 points the lowest of that span, but the guide argues defense has been the separator between his 7-6 debut and 31-10 over three years. Last year's unit was 0.5 yards per play worse yet allowed 1.6 fewer points. Over three seasons SMU has 125 sacks, and last year it was +9 in turnover margin with 28 takeaways despite Jennings' interceptions. Former coordinator Scott Symons is still in Dallas but with the Cowboys, and Lashlee promoted from within. Five of the top seven tacklers are gone including sack leader Isaiah Smith, and per 247Sports SMU brought in only the sixth-ranked portal class among 17 ACC teams with many needs at impact positions. *(p. 103)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SMU Senior quarterback Kevin Jennings has playoff experience from two years ago, and although he slipped some and turned the ball over too often last season, hopes are high for the offense (32.2 ppg) with the addition of Cal transfer running back Kendrick Raphael. *(p. 19)*
+Referenced in the guide on **pp. 19** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Chris Johnson had over seven yards per carry at SMU and Gideon Davidson was a four-star recruit and top-five RB in the 2025 class per 247. *(p. 85)*
+Referenced in the guide on **pp. 85** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Jennings wasn’t a prolific runner by any means, but he had 300 more rushing yards in ‘24 compared to ‘25. *(p. 103)*
-- But, he heads into this season without his two top receivers in yardage from last season and four of the top five, plus leading rushers TJ Harden and Chris Johnson both moved on. *(p. 103)*
-- The Mustangs have surpassed six yards per play on offense in each of Lashlee’s four seasons at the helm and last year’s 32.2 PPG were the lowest in that span. *(p. 103)*
-- While Jennings has had some issues taking care of the football, this is a pass-first offense and he has only been sacked 33 times on well over 800 dropbacks. *(p. 103)*
+- **Has SMU done enough to reload on offense?** Jennings posted a 26-to-13 touchdown-to-interception ratio and did virtually nothing as a runner, which the guide identifies as the biggest year-over-year change — he was never prolific, but had 300 more rushing yards in 2024. With double-digit interceptions in each of the last two seasons, offsetting that elsewhere matters. He now loses his top two receivers by yardage and four of the top five, plus leading rushers TJ Harden and Chris Johnson. SMU added running back Kendrick Raphael, now at his third ACC school, with help at receiver and tight end. Lashlee calls his own plays but lost right-hand man Casey Woods to the Missouri State head job, and the guide notes wryly that D'Eriq King is now a co-coordinator. *(p. 103)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SMU Senior quarterback Kevin Jennings has playoff experience from two years ago, and although he slipped some and turned the ball over too often last season, hopes are high for the offense (32.2 ppg) with the addition of Cal transfer running back Kendrick Raphael. *(p. 19)*
-- Casey Woods, who last served as SMU’s offensive coordinator, takes the reins in his first chance as a head coach. *(p. 25)*
-- Woods brought Hussam Ouri with him from SMU to serve as the offensive line coach and he might be the most important guy on that sideline this season. *(p. 201)*
+Referenced in the guide on **pp. 19, 25, 201** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- But, the defense has been the separator from Lashlee’s first year record of 7-6 to the 31-10 over the last three seasons. *(p. 103)*
-- Over the last three seasons, SMU has racked up 125 sacks, and last season, even with Jennings’ interception issue, the Mustangs were +9 in TO margin with 28 takeaways. *(p. 103)*
-- Lashlee kept it in-house and promoted from within, but five of the top seven tackles are gone, including leading sack man Isaiah Smith. *(p. 103)*
-- Some handicappers I respect greatly look at sack differential as a major tenet of their handicapping. *(p. 103)*
-- On the other side, it will be interesting to see if new DC Maurice Crum and holdover co-DC Ricky Hunley Jr. can keep up the pressure on defense, considering all four Mustangs with at least five sacks have moved on. *(p. 103)*
+- **Is the defense the bigger worry?** SMU has exceeded six yards per play on offense in all four Lashlee seasons, with last year's 32.2 points the lowest of that span, but the guide argues defense has been the separator between his 7-6 debut and 31-10 over three years. Last year's unit was 0.5 yards per play worse yet allowed 1.6 fewer points. Over three seasons SMU has 125 sacks, and last year it was +9 in turnover margin with 28 takeaways despite Jennings' interceptions. Former coordinator Scott Symons is still in Dallas but with the Cowboys, and Lashlee promoted from within. Five of the top seven tacklers are gone including sack leader Isaiah Smith, and per 247Sports SMU brought in only the sixth-ranked portal class among 17 ACC teams with many needs at impact positions. *(p. 103)*
+- **Let's talk more about sacks, shall we?** The guide introduces sack differential as a metric some handicappers it respects treat as a major tenet. SMU was +16 last season, down from +25 and +31 in the two prior years. On the offensive side it argues Jennings manages this well despite ball-security issues: only 33 sacks taken on well over 800 dropbacks, and while not an explosive runner, 171 carries over two seasons that turned potential negatives into neutral or slightly positive plays. On defense it flags the open question for new coordinator Maurice Crum and holdover co-coordinator Ricky Hunley Jr, since all four Mustangs with at least five sacks have gone. *(p. 103)*
 
 ## 15. Key Strengths
 
@@ -204,7 +193,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-- They’ll catch Virginia Tech and new HC James Franklin on November 7 with a rest disadvantage. *(p. 102)*
+- A situational note is flagged: SMU meets Virginia Tech and new head coach James Franklin on 7 November at a rest disadvantage. *(p. 102)*
 
 ## 19. Win Total Discussion
 
@@ -241,32 +230,18 @@ Prices printed on the team page *(p. 103)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
+- Recommendation is Under 8.5 wins. The guide is explicit that it does not expect much regression, given consistent metrics across three seasons. *(p. 102)*
+- Its expectation is a season similar to last year's 8-4 regular season plus a Holiday Bowl win over Arizona, with a projection of 8.66 wins. *(p. 102)*
+- **Let's talk more about sacks, shall we?** The guide introduces sack differential as a metric some handicappers it respects treat as a major tenet. SMU was +16 last season, down from +25 and +31 in the two prior years. On the offensive side it argues Jennings manages this well despite ball-security issues: only 33 sacks taken on well over 800 dropbacks, and while not an explosive runner, 171 carries over two seasons that turned potential negatives into neutral or slightly positive plays. On defense it flags the open question for new coordinator Maurice Crum and holdover co-coordinator Ricky Hunley Jr, since all four Mustangs with at least five sacks have gone. *(p. 103)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. *(p. 113)*
+Also referenced on **pp. 113** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- It is fair to wonder if this will be the last season in Dallas for Rhett Lashlee. *(p. 102)*
-- He inherited a decent foundation from Sonny Dykes, but he has taken the Mustangs to a new level, posting two 11-win seasons in 2023 and 2024 and another successful campaign in 2025. *(p. 102)*
-- Last year’s team was 8-4 in the regular season and beat Arizona in the Holiday Bowl. *(p. 102)*
-- Jennings posted a 26/13 TD/INT ratio last season and did virtually nothing as a runner, which was the biggest difference from 2024 to 2025. *(p. 103)*
-- But, he heads into this season without his two top receivers in yardage from last season and four of the top five, plus leading rushers TJ Harden and Chris Johnson both moved on. *(p. 103)*
-- The Mustangs have surpassed six yards per play on offense in each of Lashlee’s four seasons at the helm and last year’s 32.2 PPG were the lowest in that span. *(p. 103)*
-- Last year’s unit was 0.5 YPP worse than the previous one, but allowed 1.6 fewer PPG. *(p. 103)*
-- Over the last three seasons, SMU has racked up 125 sacks, and last season, even with Jennings’ interception issue, the Mustangs were +9 in TO margin with 28 takeaways. *(p. 103)*
-- SMU was +16 last season, a decrease from +25 the season prior and +31 the year before that. *(p. 103)*
-- While he’s not an explosive runner, he has 171 carries over the past two seasons that have turned potential negative plays into slightly positive or at least not completely detrimental plays. *(p. 103)*
+- The guide opens by asking whether this is Rhett Lashlee's last season in Dallas. He inherited a decent foundation from Sonny Dykes and raised the level, with 11-win seasons in 2023 and 2024 and another successful 2025. *(p. 102)*
+- SMU missed the playoff but was in the five-way tie for second and beat Miami, with tiebreakers going against them after a damaging regular-season-ending loss at Cal. *(p. 102)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SMU Senior quarterback Kevin Jennings has playoff experience from two years ago, and although he slipped some and turned the ball over too often last season, hopes are high for the offense (32.2 ppg) with the addition of Cal transfer running back Kendrick Raphael. *(p. 19)*
-- Florida State had a cameo appearance back in 2014 and relative newcomer SMU, who joined the conference in 2024, had a very short-lived appearance that same season. *(p. 79)*
-- The other ACC teams were Florida State in 2014 and SMU in 2024 prior to the Hurricanes’ run last season. *(p. 94)*
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
-- Wake Forest beat Virginia Tech, SMU, and Virginia in underdog roles last season. *(p. 113)*
-- Keldric Luster barely played over two years at SMU and then barely played at Texas State last season. *(p. 219)*
+Referenced in the guide on **pp. 19, 79, 94, 100, 113, 219** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -312,41 +287,37 @@ As printed on p. 103. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **8.9 wins** against a posted total of 8.5 — **+0.4** in this team's favour.
-- For now, he has another premier ACC contender in the Lone Star State. *(p. 102)*
-- The only other double-digit win projections go to Ohio State and Georgia. • Assuming the projections play out accurately, besides Texas Tech, Oregon, Indiana, Miami (FL), and Ohio State the other Power Four conference teams that would be expected to contend for a spot in the College Football Playoff this year would be Georgia, Texas, Penn State, BYU, and perhaps SMU or Utah. *(p. 46)*
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- While the Mustangs didn’t reach the CFP like they did the previous season, they were still lumped into the five-way tie for second place and beat Miami, but the tiebreakers didn’t fall in their favor after doing themselves no favors in the loss at Cal to end the regular season. *(p. 102)*
-- Lashlee is 38-16 here and senior QB Kevin Jennings will run out of eligibility after this season, barring major injury and a potential waiver, so there’s a good chance that suitors will come a-callin’ and he’ll have some tough decisions to make. *(p. 102)*
-- Under 8.5 While I don’t expect Lashlee’s team to regress too much, especially with the consistency in their metrics over the last three seasons, we’ll find out a lot about them right away with road games against Florida State and Louisville in September. *(p. 102)*
-- Road trips to Cincinnati, SMU, Georgia Tech, Duke, Notre Dame, and Miami all look like clear losses, which accounts for half of their scheduled games. *(p. 80)*
-- With roadies at Alabama, Miami, and Louisville plus home games against SMU, Clemson, and Florida, it’s a tough-looking slate that leaves minimal margin for error. *(p. 88)*
-- To be fair, one of the 2024 losses in that role was to SMU, who wound up being a surprise CFP team. *(p. 92)*
-- With arguably the softest conference schedule, one missing Miami, Clemson, Pitt, SMU, and Georgia Tech, perhaps this could be the season in which the bar gets raised. *(p. 96)*
+- SMU missed the playoff but was in the five-way tie for second and beat Miami, with tiebreakers going against them after a damaging regular-season-ending loss at Cal. *(p. 102)*
+- Lashlee is 38-16, and with senior quarterback Kevin Jennings out of eligibility after this season barring injury and a waiver, the guide expects suitors to come calling and tough decisions to follow. *(p. 102)*
+- Recommendation is Under 8.5 wins. The guide is explicit that it does not expect much regression, given consistent metrics across three seasons. *(p. 102)*
+- Jennings posted a 26-to-13 touchdown-to-interception ratio and did virtually nothing as a runner, which the guide identifies as the biggest year-over-year change — he was never prolific, but had 300 more rushing yards in 2024. With double-digit interceptions in each of the last two seasons, offsetting that elsewhere matters. He now loses his top two receivers by yardage and four of the top five, plus leading rushers TJ Harden and Chris Johnson. SMU added running back Kendrick Raphael, now at his third ACC school, with help at receiver and tight end. Lashlee calls his own plays but lost right-hand man Casey Woods to the Missouri State head job, and the guide notes wryly that D'Eriq King is now a co-coordinator. *(p. 103)*
+- The guide introduces sack differential as a metric some handicappers it respects treat as a major tenet. SMU was +16 last season, down from +25 and +31 in the two prior years. On the offensive side it argues Jennings manages this well despite ball-security issues: only 33 sacks taken on well over 800 dropbacks, and while not an explosive runner, 171 carries over two seasons that turned potential negatives into neutral or slightly positive plays. On defense it flags the open question for new coordinator Maurice Crum and holdover co-coordinator Ricky Hunley Jr, since all four Mustangs with at least five sacks have gone. *(p. 103)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 103)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 103)*. Its analysis, in reference form:
 
 ### Has SMU done enough to reload on offense?
 
-Jennings posted a 26/13 TD/INT ratio last season and did virtually nothing as a runner, which was the biggest difference from 2024 to 2025. Jennings wasn’t a prolific runner by any means, but he had 300 more rushing yards in ‘24 compared to ‘25. As a guy with double-digit interceptions in each of the last two seasons, offsetting those with production in other ways is important. But, he heads into this season without his two top receivers in yardage from last season and four of the top five, plus leading rushers TJ Harden and Chris Johnson both moved on. SMU went portal shopping for RB Kendrick Raphael, who is at his third ACC school now, and some help at WR and TE. Lashlee is his own OC, but did lose right-hand man Casey Woods to the HC job at Missouri State. As a reminder of how old we’re all getting, D’Eriq King is one of the co-OCs.
+Jennings posted a 26-to-13 touchdown-to-interception ratio and did virtually nothing as a runner, which the guide identifies as the biggest year-over-year change — he was never prolific, but had 300 more rushing yards in 2024. With double-digit interceptions in each of the last two seasons, offsetting that elsewhere matters. He now loses his top two receivers by yardage and four of the top five, plus leading rushers TJ Harden and Chris Johnson. SMU added running back Kendrick Raphael, now at his third ACC school, with help at receiver and tight end. Lashlee calls his own plays but lost right-hand man Casey Woods to the Missouri State head job, and the guide notes wryly that D'Eriq King is now a co-coordinator. *(p. 103)*
 
 ### Is the defense the bigger worry?
 
-The Mustangs have surpassed six yards per play on offense in each of Lashlee’s four seasons at the helm and last year’s 32.2 PPG were the lowest in that span. But, the defense has been the separator from Lashlee’s first year record of 7-6 to the 31-10 over the last three seasons. Last year’s unit was 0.5 YPP worse than the previous one, but allowed 1.6 fewer PPG. Over the last three seasons, SMU has racked up 125 sacks, and last season, even with Jennings’ interception issue, the Mustangs were +9 in TO margin with 28 takeaways. Former DC Scott Symons is still in Dallas, but now with the Cowboys. Lashlee kept it in-house and promoted from within, but five of the top seven tackles are gone, including leading sack man Isaiah Smith. Per 247Sports, SMU brought in the sixth-ranked transfer portal class in the 17-team ACC with a lot of needs at impact positions on both sides of the ball.
+SMU has exceeded six yards per play on offense in all four Lashlee seasons, with last year's 32.2 points the lowest of that span, but the guide argues defense has been the separator between his 7-6 debut and 31-10 over three years. Last year's unit was 0.5 yards per play worse yet allowed 1.6 fewer points. Over three seasons SMU has 125 sacks, and last year it was +9 in turnover margin with 28 takeaways despite Jennings' interceptions. Former coordinator Scott Symons is still in Dallas but with the Cowboys, and Lashlee promoted from within. Five of the top seven tacklers are gone including sack leader Isaiah Smith, and per 247Sports SMU brought in only the sixth-ranked portal class among 17 ACC teams with many needs at impact positions. *(p. 103)*
 
-### Let’s talk more about sacks, shall we?
+### Let's talk more about sacks, shall we?
 
-Some handicappers I respect greatly look at sack differential as a major tenet of their handicapping. SMU was +16 last season, a decrease from +25 the season prior and +31 the year before that. While Jennings has had some issues taking care of the football, this is a pass-first offense and he has only been sacked 33 times on well over 800 dropbacks. While he’s not an explosive runner, he has 171 carries over the past two seasons that have turned potential negative plays into slightly positive or at least not completely detrimental plays. On the other side, it will be interesting to see if new DC Maurice Crum and holdover co-DC Ricky Hunley Jr. can keep up the pressure on defense, considering all four Mustangs with at least five sacks have moved on.
+The guide introduces sack differential as a metric some handicappers it respects treat as a major tenet. SMU was +16 last season, down from +25 and +31 in the two prior years. On the offensive side it argues Jennings manages this well despite ball-security issues: only 33 sacks taken on well over 800 dropbacks, and while not an explosive runner, 171 carries over two seasons that turned potential negatives into neutral or slightly positive plays. On defense it flags the open question for new coordinator Maurice Crum and holdover co-coordinator Ricky Hunley Jr, since all four Mustangs with at least five sacks have gone. *(p. 103)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -364,6 +335,8 @@ No source conflict identified for this team.
 | 6, 11, 13, 15, 19, 25, 33, 46, 80, 85, 88, 92, 94, 96, 100, 106, 108, 110, 111, 113, 200, 201, 219 | Other pages naming this team |
 
 This team is named in **38 sentences across 26 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 11, 13, 15, 19, 25, 33, 46, 80, 85, 88, 92, 94, 96, 100, 106, 108, 110, 111, 113, 200, 201, 219.
 
 ## 29. Cross-Links
 

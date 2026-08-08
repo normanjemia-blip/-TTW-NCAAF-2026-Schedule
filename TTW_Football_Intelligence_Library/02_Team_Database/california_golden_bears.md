@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 5.7–6.3 overall, 3.8–5.2 in conference |
 | **Schedule strength** | 44.12 (#48 toughest of 138) |
 
-### Season outlook as written in the guide (p. 82)
+### Season outlook — VSiN's analysis in reference form (p. 82)
 
-The boosters in Berkeley were ready to make a change and that’s precisely what happened, as first-time HC Tosh Lupoi has taken over at his alma mater. The Walnut Creek native played at Cal from 2000-05 and also got his coaching career underway there in 2008. For Lupoi, who has coached under some pretty esteemed mentors, this isn’t a total teardown and rebuild because of the presence of QB Jaron- Keawe Sagapolutele, but he will have a mostly blank slate to work with on defense. Cal has co-OCs and co-DCs, so we’ll see if everybody can work in harmony and raise the ceiling of this program. Being in the ACC presents a lot of logistical challenges and some rough travel, so depth is a priority with this program and it could take some time to build that up. That’s especially true given some of the academic requirements to call Berkeley home. Under 6.5 Even though Cal may not match last season’s seven- win total, there’s a very good chance that they are a much more aesthetically-pleasing football team this season. JKS has the chance to grow and this should be a much more innovative squad on both sides of the ball. Unfortunately, with a completely new coaching staff, Cal doesn’t have a bye until early November and, while they avoid Miami, Florida State, Louisville, and Georgia Tech, growing pains are inevitable and I like this bet with a projection of 5.74 wins.
+- Berkeley's boosters wanted change and got it: first-time head coach Tosh Lupoi takes over at his alma mater. A Walnut Creek native, he played at Cal from 2000 to 2005 and began coaching there in 2008. *(p. 82)*
+- The guide notes he has coached under esteemed mentors and frames this as not a total teardown because quarterback Jaron-Keawe Sagapolutele is in place, while the defense is a mostly blank slate. *(p. 82)*
+- Cal has co-coordinators on both sides, and the guide leaves open whether everyone can work in harmony and raise the programme's ceiling. *(p. 82)*
+- A structural difficulty is raised: ACC membership means logistical challenges and rough travel, making depth a priority that may take time to build — particularly given Berkeley's academic requirements. *(p. 82)*
+- Recommendation is Under 6.5 wins. The guide separates quality from wins deliberately: Cal may not match last season's seven wins yet has a very good chance of being a much more aesthetically pleasing team. *(p. 82)*
+- It expects Sagapolutele to grow and a more innovative squad on both sides, then sets against that a completely new staff, no bye until early November, and inevitable growing pains despite avoiding Miami, Florida State, Louisville and Georgia Tech. Its projection is 5.74 wins. *(p. 82)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -80,18 +87,12 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- The Walnut Creek native played at Cal from 2000-05 and also got his coaching career underway there in 2008. *(p. 82)*
-- For Lupoi, who has coached under some pretty esteemed mentors, this isn’t a total teardown and rebuild because of the presence of QB Jaron- Keawe Sagapolutele, but he will have a mostly blank slate to work with on defense. *(p. 82)*
-- Unfortunately, with a completely new coaching staff, Cal doesn’t have a bye until early November and, while they avoid Miami, Florida State, Louisville, and Georgia Tech, growing pains are inevitable and I like this bet with a projection of 5.74 wins. *(p. 82)*
-- Michael Hutchings and Lupoi didn’t really cross paths at Oregon, as Lupoi came in as the DC in 2022 and Hutchings had moved from Eugene to Bowling Green, coaching up linebackers at Western Kentucky. *(p. 83)*
-- That was also a one-year stop, as the now 31-year-old spent the last three seasons coaching defensive backs with the Vikings. *(p. 83)*
+- Berkeley's boosters wanted change and got it: first-time head coach Tosh Lupoi takes over at his alma mater. A Walnut Creek native, he played at Cal from 2000 to 2005 and began coaching there in 2008. *(p. 82)*
+- Cal has co-coordinators on both sides, and the guide leaves open whether everyone can work in harmony and raise the programme's ceiling. *(p. 82)*
+- **Will it work out better this time?** The guide highlights a striking fact: Cal had No. 1 overall pick and national champion Fernando Mendoza for two seasons and went 6-7 both times. It credits Justin Wilcox with doing what was expected defensively, holding opponents under 28 points per game in six of the last seven seasons, and places blame on an offense that never got going despite returning starters and production. Hiring another defensive-minded head coach might work, but it puts the onus on Jordan Somerville and former NFL receiver Ike Hilliard to find explosiveness — noting Somerville is only 30, with a single year as an Oregon offensive assistant in 2022 enough for Lupoi to want him again. *(p. 83)*
+- **Can the defense turn positives into negatives?** Michael Hutchings and Lupoi barely overlapped at Oregon; Hutchings had moved on to Bowling Green and Western Kentucky before three seasons coaching Vikings defensive backs, and is now 31. Cal managed only 21 sacks and 13 takeaways. The guide acknowledges the talent gap with Oregon while using Lupoi's defense there as the benchmark: tied for 26th nationally with 21 takeaways in 15 games and 30 sacks. Cal allowed 4.7 yards per carry and a 61.7% completion rate. Only three starters return, which it suggests is probably a good thing. *(p. 83)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OREGON Ducks coach Dan Lanning lost his defensive coordinator (Tosh Lupoi, California) and offensive coordinator (Will Stein, Kentucky) to head coaching jobs, but he doesn’t lose often. *(p. 18)*
-- CALIFORNIA Tosh Lupoi, the former Oregon defensive coordinator, takes over in Berkeley. *(p. 20)*
-- Tosh Lupoi California Lupoi’s first crack at being a head coach is with his alma mater and allows his coaching career to come full circle. *(p. 30)*
-- Jackson was based on a California high school basketball coach who had a talented team that wasn’t showing up in the classroom and he put the season on hold to put academics first. *(p. 237)*
+Also referenced on **pp. 18, 20, 30, 237** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -99,9 +100,8 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 82)*.
 
-- For Lupoi, who has coached under some pretty esteemed mentors, this isn’t a total teardown and rebuild because of the presence of QB Jaron- Keawe Sagapolutele, but he will have a mostly blank slate to work with on defense. *(p. 82)*
-- He got the keys to this offense and posted over 3,400 passing yards with an 18/9 TD/INT ratio and a 64.2% completion rate as a true freshman. *(p. 83)*
-- Cal allowed 4.7 yards per carry and a 61.7% completion rate. *(p. 83)*
+- The guide notes he has coached under esteemed mentors and frames this as not a total teardown because quarterback Jaron-Keawe Sagapolutele is in place, while the defense is a mostly blank slate. *(p. 82)*
+- **Is JKS going to be a sophomore sensation?** Sagapolutele, from Ewa Beach, Hawaii, was originally committed to Oregon before transferring to Cal for a better opportunity ahead of his freshman year. He threw for over 3,400 yards with an 18-to-9 touchdown-to-interception ratio and 64.2% completions as a true freshman. The guide sets out the obstacles — a new scheme and new receivers, with Jacob De Jesus and Trond Grizzell having taken 163 catches and over 1,800 yards elsewhere — and the supports: Hilliard's presence, 1,000-yard Ohio transfer Chase Henderson, big-bodied Rutgers transfer Ian Strong, and considerable starting experience on the line. Its conclusion is that he could have a monster season. *(p. 83)*
 
 ## 10. Returning Production
 
@@ -119,44 +119,27 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- He was originally committed to Oregon, but transferred to Cal to get a better opportunity prior to his freshman season. *(p. 83)*
-- Hilliard’s presence should really help here, especially with 1,000-yard Ohio standout Chase Henderson and big-bodied Rutgers transfer Ian Strong. *(p. 83)*
+- **Is JKS going to be a sophomore sensation?** Sagapolutele, from Ewa Beach, Hawaii, was originally committed to Oregon before transferring to Cal for a better opportunity ahead of his freshman year. He threw for over 3,400 yards with an 18-to-9 touchdown-to-interception ratio and 64.2% completions as a true freshman. The guide sets out the obstacles — a new scheme and new receivers, with Jacob De Jesus and Trond Grizzell having taken 163 catches and over 1,800 yards elsewhere — and the supports: Hilliard's presence, 1,000-yard Ohio transfer Chase Henderson, big-bodied Rutgers transfer Ian Strong, and considerable starting experience on the line. Its conclusion is that he could have a monster season. *(p. 83)*
 
 ## 12. Recruiting / Roster Notes
 
-- He was originally committed to Oregon, but transferred to Cal to get a better opportunity prior to his freshman season. *(p. 83)*
-- He got the keys to this offense and posted over 3,400 passing yards with an 18/9 TD/INT ratio and a 64.2% completion rate as a true freshman. *(p. 83)*
+- A structural difficulty is raised: ACC membership means logistical challenges and rough travel, making depth a priority that may take time to build — particularly given Berkeley's academic requirements. *(p. 82)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Meanwhile, Potter, who was a higher-graded recruit, was willing to come all the way from Washington State and head to the other coast as a California native. *(p. 331)*
+Referenced in the guide on **pp. 331** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- But, it was the offense that never really seemed to be able to get it going, despite a good amount of returning starters and returning production. *(p. 83)*
-- Somerville is just 30 years old, but his one year as an offensive assistant with Oregon in 2022 was enough for Lupoi to want him as a co-worker again. *(p. 83)*
-- He got the keys to this offense and posted over 3,400 passing yards with an 18/9 TD/INT ratio and a 64.2% completion rate as a true freshman. *(p. 83)*
+- **Will it work out better this time?** The guide highlights a striking fact: Cal had No. 1 overall pick and national champion Fernando Mendoza for two seasons and went 6-7 both times. It credits Justin Wilcox with doing what was expected defensively, holding opponents under 28 points per game in six of the last seven seasons, and places blame on an offense that never got going despite returning starters and production. Hiring another defensive-minded head coach might work, but it puts the onus on Jordan Somerville and former NFL receiver Ike Hilliard to find explosiveness — noting Somerville is only 30, with a single year as an Oregon offensive assistant in 2022 enough for Lupoi to want him again. *(p. 83)*
+- **Is JKS going to be a sophomore sensation?** Sagapolutele, from Ewa Beach, Hawaii, was originally committed to Oregon before transferring to Cal for a better opportunity ahead of his freshman year. He threw for over 3,400 yards with an 18-to-9 touchdown-to-interception ratio and 64.2% completions as a true freshman. The guide sets out the obstacles — a new scheme and new receivers, with Jacob De Jesus and Trond Grizzell having taken 163 catches and over 1,800 yards elsewhere — and the supports: Hilliard's presence, 1,000-yard Ohio transfer Chase Henderson, big-bodied Rutgers transfer Ian Strong, and considerable starting experience on the line. Its conclusion is that he could have a monster season. *(p. 83)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OREGON Ducks coach Dan Lanning lost his defensive coordinator (Tosh Lupoi, California) and offensive coordinator (Will Stein, Kentucky) to head coaching jobs, but he doesn’t lose often. *(p. 18)*
+Referenced in the guide on **pp. 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- For Lupoi, who has coached under some pretty esteemed mentors, this isn’t a total teardown and rebuild because of the presence of QB Jaron- Keawe Sagapolutele, but he will have a mostly blank slate to work with on defense. *(p. 82)*
-- For the most part, Justin Wilcox did what he was expected to do defensively, as the Golden Bears held opponents under 28 PPG in six of the last seven seasons. *(p. 83)*
-- Hiring another defensive-minded HC in Lupoi might work out, but the onus is really on Jordan Somerville and former NFL WR Ike Hilliard to find some more explosiveness on that side of the ball. *(p. 83)*
-- Michael Hutchings and Lupoi didn’t really cross paths at Oregon, as Lupoi came in as the DC in 2022 and Hutchings had moved from Eugene to Bowling Green, coaching up linebackers at Western Kentucky. *(p. 83)*
-- That was also a one-year stop, as the now 31-year-old spent the last three seasons coaching defensive backs with the Vikings. *(p. 83)*
-- Cal only had 21 sacks last season and 13 takeaways. *(p. 83)*
-- Of course there is a big talent gap between Cal and Oregon, but Lupoi’s defense tied for 26th in takeaways with 21 in 15 games and racked up 30 sacks. *(p. 83)*
-- Only three starters are back on defense, but that’s probably a good thing. *(p. 83)*
+- The guide notes he has coached under esteemed mentors and frames this as not a total teardown because quarterback Jaron-Keawe Sagapolutele is in place, while the defense is a mostly blank slate. *(p. 82)*
+- **Can the defense turn positives into negatives?** Michael Hutchings and Lupoi barely overlapped at Oregon; Hutchings had moved on to Bowling Green and Western Kentucky before three seasons coaching Vikings defensive backs, and is now 31. Cal managed only 21 sacks and 13 takeaways. The guide acknowledges the talent gap with Oregon while using Lupoi's defense there as the benchmark: tied for 26th nationally with 21 takeaways in 15 games and 30 sacks. Cal allowed 4.7 yards per carry and a 61.7% completion rate. Only three starters return, which it suggests is probably a good thing. *(p. 83)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- OREGON Ducks coach Dan Lanning lost his defensive coordinator (Tosh Lupoi, California) and offensive coordinator (Will Stein, Kentucky) to head coaching jobs, but he doesn’t lose often. *(p. 18)*
-- CALIFORNIA Tosh Lupoi, the former Oregon defensive coordinator, takes over in Berkeley. *(p. 20)*
-- The leader of this defense could be well-traveled linebacker Harrison Taggart, who previously played at Oregon, BYU and California. *(p. 279)*
+Referenced in the guide on **pp. 18, 20, 279** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -202,9 +185,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While the travel is certainly a talking point, it should be noted that there are no back-to-back road games for the Hornets outside of the end of the season with a bye week in between and that they only leave California once prior to October 10. *(p. 237)*
+Referenced in the guide on **pp. 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -225,19 +206,14 @@ Prices printed on the team page *(p. 83)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Unfortunately, with a completely new coaching staff, Cal doesn’t have a bye until early November and, while they avoid Miami, Florida State, Louisville, and Georgia Tech, growing pains are inevitable and I like this bet with a projection of 5.74 wins. *(p. 82)*
+- Recommendation is Under 6.5 wins. The guide separates quality from wins deliberately: Cal may not match last season's seven wins yet has a very good chance of being a much more aesthetically pleasing team. *(p. 82)*
+- It expects Sagapolutele to grow and a more innovative squad on both sides, then sets against that a completely new staff, no bye until early November, and inevitable growing pains despite avoiding Miami, Florida State, Louisville and Georgia Tech. Its projection is 5.74 wins. *(p. 82)*
 
 ## 22. Historical / Situational Trends
 
-- The Walnut Creek native played at Cal from 2000-05 and also got his coaching career underway there in 2008. *(p. 82)*
-- Under 6.5 Even though Cal may not match last season’s seven- win total, there’s a very good chance that they are a much more aesthetically-pleasing football team this season. *(p. 82)*
-- Somerville is just 30 years old, but his one year as an offensive assistant with Oregon in 2022 was enough for Lupoi to want him as a co-worker again. *(p. 83)*
-- Michael Hutchings and Lupoi didn’t really cross paths at Oregon, as Lupoi came in as the DC in 2022 and Hutchings had moved from Eugene to Bowling Green, coaching up linebackers at Western Kentucky. *(p. 83)*
-- Cal only had 21 sacks last season and 13 takeaways. *(p. 83)*
+- **Will it work out better this time?** The guide highlights a striking fact: Cal had No. 1 overall pick and national champion Fernando Mendoza for two seasons and went 6-7 both times. It credits Justin Wilcox with doing what was expected defensively, holding opponents under 28 points per game in six of the last seven seasons, and places blame on an offense that never got going despite returning starters and production. Hiring another defensive-minded head coach might work, but it puts the onus on Jordan Somerville and former NFL receiver Ike Hilliard to find explosiveness — noting Somerville is only 30, with a single year as an Oregon offensive assistant in 2022 enough for Lupoi to want him again. *(p. 83)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With UMass rejoining the MAC last season, the conference has 13 teams, with three in Michigan, one in New York, six in Ohio, one in Indiana, one in Massachusetts, and then one in California. *(p. 215)*
+Referenced in the guide on **pp. 215** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -282,8 +258,8 @@ As printed on p. 83. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Hilliard’s presence should really help here, especially with 1,000-yard Ohio standout Chase Henderson and big-bodied Rutgers transfer Ian Strong. *(p. 83)*
-- Jackson was based on a California high school basketball coach who had a talented team that wasn’t showing up in the classroom and he put the season on hold to put academics first. *(p. 237)*
+- Sagapolutele, from Ewa Beach, Hawaii, was originally committed to Oregon before transferring to Cal for a better opportunity ahead of his freshman year. He threw for over 3,400 yards with an 18-to-9 touchdown-to-interception ratio and 64.2% completions as a true freshman. The guide sets out the obstacles — a new scheme and new receivers, with Jacob De Jesus and Trond Grizzell having taken 163 catches and over 1,800 yards elsewhere — and the supports: Hilliard's presence, 1,000-yard Ohio transfer Chase Henderson, big-bodied Rutgers transfer Ian Strong, and considerable starting experience on the line. Its conclusion is that he could have a monster season. *(p. 83)*
+- Michael Hutchings and Lupoi barely overlapped at Oregon; Hutchings had moved on to Bowling Green and Western Kentucky before three seasons coaching Vikings defensive backs, and is now 31. Cal managed only 21 sacks and 13 takeaways. The guide acknowledges the talent gap with Oregon while using Lupoi's defense there as the benchmark: tied for 26th nationally with 21 takeaways in 15 games and 30 sacks. Cal allowed 4.7 yards per carry and a 61.7% completion rate. Only three starters return, which it suggests is probably a good thing. *(p. 83)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -291,26 +267,27 @@ As printed on p. 83. Each category carries a value and a national rank.
 
 - Makinen projects **5.7 wins** against a posted total of 6.5 — **-0.8** against this team.
 - The team page recommends **UNDER 6.5**.
-- OREGON Ducks coach Dan Lanning lost his defensive coordinator (Tosh Lupoi, California) and offensive coordinator (Will Stein, Kentucky) to head coaching jobs, but he doesn’t lose often. *(p. 18)*
+- A structural difficulty is raised: ACC membership means logistical challenges and rough travel, making depth a priority that may take time to build — particularly given Berkeley's academic requirements. *(p. 82)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 83)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 83)*. Its analysis, in reference form:
 
 ### Will it work out better this time?
 
-It is wild to think that Cal had No. 1 overall pick and National Championship winner Fernando Mendoza for two seasons and went just 6-7 both times. For the most part, Justin Wilcox did what he was expected to do defensively, as the Golden Bears held opponents under 28 PPG in six of the last seven seasons. But, it was the offense that never really seemed to be able to get it going, despite a good amount of returning starters and returning production. Hiring another defensive-minded HC in Lupoi might work out, but the onus is really on Jordan Somerville and former NFL WR Ike Hilliard to find some more explosiveness on that side of the ball. Somerville is just 30 years old, but his one year as an offensive assistant with Oregon in 2022 was enough for Lupoi to want him as a co-worker again.
+The guide highlights a striking fact: Cal had No. 1 overall pick and national champion Fernando Mendoza for two seasons and went 6-7 both times. It credits Justin Wilcox with doing what was expected defensively, holding opponents under 28 points per game in six of the last seven seasons, and places blame on an offense that never got going despite returning starters and production. Hiring another defensive-minded head coach might work, but it puts the onus on Jordan Somerville and former NFL receiver Ike Hilliard to find explosiveness — noting Somerville is only 30, with a single year as an Oregon offensive assistant in 2022 enough for Lupoi to want him again. *(p. 83)*
 
 ### Is JKS going to be a sophomore sensation?
 
-Jaron-Keawe Sagapolutele is a mouthful, but the ‘Ewa Beach, HI native might be a name everybody has to learn to pronounce this season. He was originally committed to Oregon, but transferred to Cal to get a better opportunity prior to his freshman season. He got the keys to this offense and posted over 3,400 passing yards with an 18/9 TD/INT ratio and a 64.2% completion rate as a true freshman. He’ll have to learn a new scheme and will have to develop a rapport with some new WRs, as Jacob De Jesus and Trond Grizzell combined for 163 catches and over 1,800 yards prior to leaving. Hilliard’s presence should really help here, especially with 1,000-yard Ohio standout Chase Henderson and big-bodied Rutgers transfer Ian Strong. With a lot of starting experience on the OL, JKS could have a monster season.
+Sagapolutele, from Ewa Beach, Hawaii, was originally committed to Oregon before transferring to Cal for a better opportunity ahead of his freshman year. He threw for over 3,400 yards with an 18-to-9 touchdown-to-interception ratio and 64.2% completions as a true freshman. The guide sets out the obstacles — a new scheme and new receivers, with Jacob De Jesus and Trond Grizzell having taken 163 catches and over 1,800 yards elsewhere — and the supports: Hilliard's presence, 1,000-yard Ohio transfer Chase Henderson, big-bodied Rutgers transfer Ian Strong, and considerable starting experience on the line. Its conclusion is that he could have a monster season. *(p. 83)*
 
 ### Can the defense turn positives into negatives?
 
-Michael Hutchings and Lupoi didn’t really cross paths at Oregon, as Lupoi came in as the DC in 2022 and Hutchings had moved from Eugene to Bowling Green, coaching up linebackers at Western Kentucky. That was also a one-year stop, as the now 31-year-old spent the last three seasons coaching defensive backs with the Vikings. Cal only had 21 sacks last season and 13 takeaways. Of course there is a big talent gap between Cal and Oregon, but Lupoi’s defense tied for 26th in takeaways with 21 in 15 games and racked up 30 sacks. Cal allowed 4.7 yards per carry and a 61.7% completion rate. Only three starters are back on defense, but that’s probably a good thing.
+Michael Hutchings and Lupoi barely overlapped at Oregon; Hutchings had moved on to Bowling Green and Western Kentucky before three seasons coaching Vikings defensive backs, and is now 31. Cal managed only 21 sacks and 13 takeaways. The guide acknowledges the talent gap with Oregon while using Lupoi's defense there as the benchmark: tied for 26th nationally with 21 takeaways in 15 games and 30 sacks. Cal allowed 4.7 yards per carry and a 61.7% completion rate. Only three starters return, which it suggests is probably a good thing. *(p. 83)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -328,6 +305,8 @@ Michael Hutchings and Lupoi didn’t really cross paths at Oregon, as Lupoi came
 | 18, 20, 30, 41, 215, 236, 237, 274, 279, 331 | Other pages naming this team |
 
 This team is named in **13 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 18, 20, 30, 41, 215, 236, 237, 274, 279, 331.
 
 ## 29. Cross-Links
 

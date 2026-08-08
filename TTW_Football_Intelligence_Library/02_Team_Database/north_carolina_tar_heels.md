@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 4.6–7.4 overall, 2.6–5.4 in conference |
 | **Schedule strength** | 48.71 (#24 toughest of 138) |
 
-### Season outlook as written in the guide (p. 98)
+### Season outlook — VSiN's analysis in reference form (p. 98)
 
-On the whole, the Bill Belichick experiment looked like a failure in Year 1. The program’s PR department was hard at work thanks to Bill’s grad- student-aged girlfriend and the play on the field was about as messy. That said, Belichick has long been known as a defensive genius and the Tar Heels did have their best unit on that side of the ball in quite some time. They only allowed 4.9 yards per play, just 3.5 yards per carry, and just 24.5 PPG, including just 25 PPG to conference opponents. But, the offense was putrid, a shocking contrast to what we’ve come to expect UNC football to display. Largely because of the offense, the Tar Heels fell short of bowl eligibility for the first time since 2018 and sent OC Freddie Kitchens packing, bringing in Bobby Petrino for that role. Now that UNC seems to have settled into the Belichick era, are better days ahead? Over 4.5 The schedule is definitely rough with an overseas opener in Dublin against TCU, a road game at Clemson, Miami, Louisville, and Notre Dame at home, and two September bye weeks. That said, the talent level seems greatly improved. I’ll like the Tar Heels more if they go with O’Neill or Burgess at QB over Edwards, but Belichick looks closer to having this whole thing work out. They will need to pull some upsets, though, something they didn’t really do last season. My projection is 4.81 wins.
+- The guide's overall verdict on year one of the Bill Belichick experiment is that it looked like a failure, with the PR department busy over his much younger girlfriend and messy play on the field. *(p. 98)*
+- It gives the counterweight in detail: Belichick is a defensive genius and North Carolina had its best defense in some time, allowing 4.9 yards per play, 3.5 yards per carry and 24.5 points per game, including 25 against conference opponents. *(p. 98)*
+- The offense was putrid, a shocking contrast with expectations, and largely responsible for missing bowl eligibility for the first time since 2018. Coordinator Freddie Kitchens was dismissed and Bobby Petrino hired. *(p. 98)*
+- Recommendation is Over 4.5 wins. The schedule is rough — an overseas opener in Dublin against TCU, a road game at Clemson, Miami, Louisville and Notre Dame at home, and two September byes. *(p. 98)*
+- Its case is improved talent and a sense that Belichick is closer to making this work, with an explicit preference stated: it likes North Carolina more if O'Neill or Burgess start over Edwards. *(p. 98)*
+- It is candid about the requirement — upsets are needed, something the team did not really produce last season — and projects 4.81 wins. *(p. 98)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,12 +85,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Largely because of the offense, the Tar Heels fell short of bowl eligibility for the first time since 2018 and sent OC Freddie Kitchens packing, bringing in Bobby Petrino for that role. *(p. 98)*
-- Now we’ll see how the coaches and recruiting coordinators did to bolster it. *(p. 99)*
+- The guide's overall verdict on year one of the Bill Belichick experiment is that it looked like a failure, with the PR department busy over his much younger girlfriend and messy play on the field. *(p. 98)*
+- The offense was putrid, a shocking contrast with expectations, and largely responsible for missing bowl eligibility for the first time since 2018. Coordinator Freddie Kitchens was dismissed and Bobby Petrino hired. *(p. 98)*
+- **What is the perception of the program?** The guide acknowledges heavy early coverage and poor optics from the outside given the hiring and off-field matters. It then sets a concrete counter-fact: North Carolina signed the 19th-ranked recruiting class with over 40 recruits, and only West Virginia took more 2026 commitments — so whatever the school is selling, players are buying. Combined with Belichick's ability to identify talent and fits, it says a case can be made for real hope this season. *(p. 99)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- In his place, Pitt hired Mike Priefer, who was fired from the same role at North Carolina last season. *(p. 101)*
+Also referenced on **pp. 101** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -91,14 +97,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 98)*.
 
-- I’ll like the Tar Heels more if they go with O’Neill or Burgess at QB over Edwards, but Belichick looks closer to having this whole thing work out. *(p. 98)*
-- O’Neill was a Petrino recruit to Texas A&M and Burgess is a dual-threat four-star and the No. 9 QB in the class for 247. *(p. 99)*
-- The QB position looks to be in flux, but the Tar Heels kept their leading rusher, leading receiver, and leading sack man even though there was a mass exodus to the transfer portal. *(p. 99)*
+- Its case is improved talent and a sense that Belichick is closer to making this work, with an explicit preference stated: it likes North Carolina more if O'Neill or Burgess start over Edwards. *(p. 98)*
+- **Does Billy Edwards start all season long? Or at all?** Edwards committed to Wake Forest in 2020 and enrolled in 2021, then moved to Maryland, Wisconsin and now North Carolina, starting only two games last season and not looking the part before a season-ending injury. The guide reports that Wisconsin was said to have paid around $1 million in NIL compensation and suggests North Carolina may have got a deal, since he needed a medical waiver to be eligible and did virtually nothing. It weighs the alternatives — 6-foot-5 Miles O'Neill, a Petrino recruit at Texas A&M, and 6-foot-4 freshman Travis Burgess, a dual-threat four-star and 247's No. 9 quarterback in the class — and argues North Carolina should bet on upside rather than on Edwards, a mediocre Maryland starter two seasons ago. *(p. 99)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Charlotte’s boosters and supporters did open their wallets to try and get Albin a real QB last season, picking up Grayson Loftis from Duke and Conner Harrell from North Carolina. *(p. 53)*
-- To be fair to Applewhite, he thought his starting QB Gio Lopez was coming back, but North Carolina showed up with a bag after spring practices. *(p. 340)*
+Also referenced on **pp. 53, 340** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -114,39 +116,27 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- It was said that Wisconsin paid about $1 million in total NIL compensation to Edwards. *(p. 99)*
-- The QB position looks to be in flux, but the Tar Heels kept their leading rusher, leading receiver, and leading sack man even though there was a mass exodus to the transfer portal. *(p. 99)*
+- **Does Billy Edwards start all season long? Or at all?** Edwards committed to Wake Forest in 2020 and enrolled in 2021, then moved to Maryland, Wisconsin and now North Carolina, starting only two games last season and not looking the part before a season-ending injury. The guide reports that Wisconsin was said to have paid around $1 million in NIL compensation and suggests North Carolina may have got a deal, since he needed a medical waiver to be eligible and did virtually nothing. It weighs the alternatives — 6-foot-5 Miles O'Neill, a Petrino recruit at Texas A&M, and 6-foot-4 freshman Travis Burgess, a dual-threat four-star and 247's No. 9 quarterback in the class — and argues North Carolina should bet on upside rather than on Edwards, a mediocre Maryland starter two seasons ago. *(p. 99)*
+- **Did the Tar Heels prioritize the right players?** Despite a mass exodus to the portal, North Carolina kept its leading rusher, leading receiver and leading sack man, which the guide reads as Belichick and former VSiN personality Michael Lombardi identifying who to pay to stay and who to pay to come. Running back Demon June had only 464 yards on a team averaging 3.7 per carry but was clearly the best back; receiver Jordan Shipp led with 60 catches for 671 yards, with June third in receiving yards; Melkart Abou-Jaoude had 10.5 sacks; and Kaleb Cost and Jaiden Patterson stayed in the secondary. It calls that a solid core, with the open question being how well the staff bolstered it. *(p. 99)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The offensive line is inexperienced, but size matters and the linemen are big, highlighted by 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
+Referenced in the guide on **pp. 277** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Would UNC be better off with 6-foot-5 Miles O’Neill or 6-foot-4 freshman Travis Burgess? *(p. 99)*
-- O’Neill was a Petrino recruit to Texas A&M and Burgess is a dual-threat four-star and the No. 9 QB in the class for 247. *(p. 99)*
-- Now we’ll see how the coaches and recruiting coordinators did to bolster it. *(p. 99)*
-- However, the Tar Heels pulled in the 19th-ranked recruiting class of incoming freshmen and over 40 recruits, so whatever the school is selling, some players certainly seem to be buying. *(p. 99)*
-- Only West Virginia got more class of 2026 commits. *(p. 99)*
+- **Does Billy Edwards start all season long? Or at all?** Edwards committed to Wake Forest in 2020 and enrolled in 2021, then moved to Maryland, Wisconsin and now North Carolina, starting only two games last season and not looking the part before a season-ending injury. The guide reports that Wisconsin was said to have paid around $1 million in NIL compensation and suggests North Carolina may have got a deal, since he needed a medical waiver to be eligible and did virtually nothing. It weighs the alternatives — 6-foot-5 Miles O'Neill, a Petrino recruit at Texas A&M, and 6-foot-4 freshman Travis Burgess, a dual-threat four-star and 247's No. 9 quarterback in the class — and argues North Carolina should bet on upside rather than on Edwards, a mediocre Maryland starter two seasons ago. *(p. 99)*
+- **What is the perception of the program?** The guide acknowledges heavy early coverage and poor optics from the outside given the hiring and off-field matters. It then sets a concrete counter-fact: North Carolina signed the 19th-ranked recruiting class with over 40 recruits, and only West Virginia took more 2026 commitments — so whatever the school is selling, players are buying. Combined with Belichick's ability to identify talent and fits, it says a case can be made for real hope this season. *(p. 99)*
 
 ## 13. Offensive Identity
 
-- They only allowed 4.9 yards per play, just 3.5 yards per carry, and just 24.5 PPG, including just 25 PPG to conference opponents. *(p. 98)*
-- But, the offense was putrid, a shocking contrast to what we’ve come to expect UNC football to display. *(p. 98)*
-- Largely because of the offense, the Tar Heels fell short of bowl eligibility for the first time since 2018 and sent OC Freddie Kitchens packing, bringing in Bobby Petrino for that role. *(p. 98)*
-- The QB position looks to be in flux, but the Tar Heels kept their leading rusher, leading receiver, and leading sack man even though there was a mass exodus to the transfer portal. *(p. 99)*
-- WR Jordan Shipp easily paced the team with 60 receptions for 671 yards and June was actually third in receiving yards. *(p. 99)*
+- The offense was putrid, a shocking contrast with expectations, and largely responsible for missing bowl eligibility for the first time since 2018. Coordinator Freddie Kitchens was dismissed and Bobby Petrino hired. *(p. 98)*
+- **Did the Tar Heels prioritize the right players?** Despite a mass exodus to the portal, North Carolina kept its leading rusher, leading receiver and leading sack man, which the guide reads as Belichick and former VSiN personality Michael Lombardi identifying who to pay to stay and who to pay to come. Running back Demon June had only 464 yards on a team averaging 3.7 per carry but was clearly the best back; receiver Jordan Shipp led with 60 catches for 671 yards, with June third in receiving yards; Melkart Abou-Jaoude had 10.5 sacks; and Kaleb Cost and Jaiden Patterson stayed in the secondary. It calls that a solid core, with the open question being how well the staff bolstered it. *(p. 99)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The offensive line is inexperienced, but size matters and the linemen are big, highlighted by 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
+Referenced in the guide on **pp. 277** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- That said, Belichick has long been known as a defensive genius and the Tar Heels did have their best unit on that side of the ball in quite some time. *(p. 98)*
-- The QB position looks to be in flux, but the Tar Heels kept their leading rusher, leading receiver, and leading sack man even though there was a mass exodus to the transfer portal. *(p. 99)*
-- Melkart Abou-Jaoude had 10.5 sacks. *(p. 99)*
-- Kaleb Cost and Jaiden Patterson were also holdovers at defensive back. *(p. 99)*
+- It gives the counterweight in detail: Belichick is a defensive genius and North Carolina had its best defense in some time, allowing 4.9 yards per play, 3.5 yards per carry and 24.5 points per game, including 25 against conference opponents. *(p. 98)*
+- **Did the Tar Heels prioritize the right players?** Despite a mass exodus to the portal, North Carolina kept its leading rusher, leading receiver and leading sack man, which the guide reads as Belichick and former VSiN personality Michael Lombardi identifying who to pay to stay and who to pay to come. Running back Demon June had only 464 yards on a team averaging 3.7 per carry but was clearly the best back; receiver Jordan Shipp led with 60 catches for 671 yards, with June third in receiving yards; Melkart Abou-Jaoude had 10.5 sacks; and Kaleb Cost and Jaiden Patterson stayed in the secondary. It calls that a solid core, with the open question being how well the staff bolstered it. *(p. 99)*
 
 ## 15. Key Strengths
 
@@ -217,23 +207,15 @@ Prices printed on the team page *(p. 99)*:
 
 ## 21. Betting Notes / Best Bets
 
-- It sure seems like the Tar Heels should bet on upside and not on Edwards, who was a mediocre starter for the Terps two seasons ago. *(p. 99)*
-- There was certainly a lot of coverage early about North Carolina football with the hiring of Belichick and all of the off-the-field stuff with his girlfriend and others around the program. *(p. 99)*
+- Recommendation is Over 4.5 wins. The schedule is rough — an overseas opener in Dublin against TCU, a road game at Clemson, Miami, Louisville and Notre Dame at home, and two September byes. *(p. 98)*
+- Its case is improved talent and a sense that Belichick is closer to making this work, with an explicit preference stated: it likes North Carolina more if O'Neill or Burgess start over Edwards. *(p. 98)*
+- It is candid about the requirement — upsets are needed, something the team did not really produce last season — and projects 4.81 wins. *(p. 98)*
 
 ## 22. Historical / Situational Trends
 
-- Largely because of the offense, the Tar Heels fell short of bowl eligibility for the first time since 2018 and sent OC Freddie Kitchens packing, bringing in Bobby Petrino for that role. *(p. 98)*
-- They will need to pull some upsets, though, something they didn’t really do last season. *(p. 98)*
-- Edwards committed to Wake Forest in 2020 and enrolled in 2021. *(p. 99)*
-- Since then, he’s been at Maryland, Wisconsin, and now North Carolina, as he only started two games last season and didn’t really look the part before suffering a season-ending injury. *(p. 99)*
-- Perhaps UNC got a deal given that he needed a medical waiver to be eligible for this season and did virtually nothing last season. *(p. 99)*
+- The guide's overall verdict on year one of the Bill Belichick experiment is that it looked like a failure, with the PR department busy over his much younger girlfriend and messy play on the field. *(p. 98)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Dykes destroyed Bill Belichick and North Carolina 48-14 in last season’s opener. *(p. 20)*
-- Charlotte’s boosters and supporters did open their wallets to try and get Albin a real QB last season, picking up Grayson Loftis from Duke and Conner Harrell from North Carolina. *(p. 53)*
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
-- In his place, Pitt hired Mike Priefer, who was fired from the same role at North Carolina last season. *(p. 101)*
+Referenced in the guide on **pp. 20, 53, 100, 101** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -280,37 +262,38 @@ As printed on p. 99. Each category carries a value and a national rank.
 
 - Makinen projects **4.6 wins** against a posted total of 4.5 — **+0.1** in this team's favour.
 - The team page recommends **OVER 4.5**.
-- That said, Belichick has long been known as a defensive genius and the Tar Heels did have their best unit on that side of the ball in quite some time. *(p. 98)*
-- That said, the talent level seems greatly improved. *(p. 98)*
-- It sure seems like the Tar Heels should bet on upside and not on Edwards, who was a mediocre starter for the Terps two seasons ago. *(p. 99)*
-- RB Demon June only had 464 yards, as the team only ran for 3.7 yards per carry, but he was clearly the best of the backs. *(p. 99)*
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
+- It gives the counterweight in detail: Belichick is a defensive genius and North Carolina had its best defense in some time, allowing 4.9 yards per play, 3.5 yards per carry and 24.5 points per game, including 25 against conference opponents. *(p. 98)*
+- Its case is improved talent and a sense that Belichick is closer to making this work, with an explicit preference stated: it likes North Carolina more if O'Neill or Burgess start over Edwards. *(p. 98)*
+- Edwards committed to Wake Forest in 2020 and enrolled in 2021, then moved to Maryland, Wisconsin and now North Carolina, starting only two games last season and not looking the part before a season-ending injury. The guide reports that Wisconsin was said to have paid around $1 million in NIL compensation and suggests North Carolina may have got a deal, since he needed a medical waiver to be eligible and did virtually nothing. It weighs the alternatives — 6-foot-5 Miles O'Neill, a Petrino recruit at Texas A&M, and 6-foot-4 freshman Travis Burgess, a dual-threat four-star and 247's No. 9 quarterback in the class — and argues North Carolina should bet on upside rather than on Edwards, a mediocre Maryland starter two seasons ago. *(p. 99)*
+- Despite a mass exodus to the portal, North Carolina kept its leading rusher, leading receiver and leading sack man, which the guide reads as Belichick and former VSiN personality Michael Lombardi identifying who to pay to stay and who to pay to come. Running back Demon June had only 464 yards on a team averaging 3.7 per carry but was clearly the best back; receiver Jordan Shipp led with 60 catches for 671 yards, with June third in receiving yards; Melkart Abou-Jaoude had 10.5 sacks; and Kaleb Cost and Jaiden Patterson stayed in the secondary. It calls that a solid core, with the open question being how well the staff bolstered it. *(p. 99)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Since then, he’s been at Maryland, Wisconsin, and now North Carolina, as he only started two games last season and didn’t really look the part before suffering a season-ending injury. *(p. 99)*
-- The offensive line is inexperienced, but size matters and the linemen are big, highlighted by 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
+- The offense was putrid, a shocking contrast with expectations, and largely responsible for missing bowl eligibility for the first time since 2018. Coordinator Freddie Kitchens was dismissed and Bobby Petrino hired. *(p. 98)*
+- Edwards committed to Wake Forest in 2020 and enrolled in 2021, then moved to Maryland, Wisconsin and now North Carolina, starting only two games last season and not looking the part before a season-ending injury. The guide reports that Wisconsin was said to have paid around $1 million in NIL compensation and suggests North Carolina may have got a deal, since he needed a medical waiver to be eligible and did virtually nothing. It weighs the alternatives — 6-foot-5 Miles O'Neill, a Petrino recruit at Texas A&M, and 6-foot-4 freshman Travis Burgess, a dual-threat four-star and 247's No. 9 quarterback in the class — and argues North Carolina should bet on upside rather than on Edwards, a mediocre Maryland starter two seasons ago. *(p. 99)*
+- Despite a mass exodus to the portal, North Carolina kept its leading rusher, leading receiver and leading sack man, which the guide reads as Belichick and former VSiN personality Michael Lombardi identifying who to pay to stay and who to pay to come. Running back Demon June had only 464 yards on a team averaging 3.7 per carry but was clearly the best back; receiver Jordan Shipp led with 60 catches for 671 yards, with June third in receiving yards; Melkart Abou-Jaoude had 10.5 sacks; and Kaleb Cost and Jaiden Patterson stayed in the secondary. It calls that a solid core, with the open question being how well the staff bolstered it. *(p. 99)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 99)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 99)*. Its analysis, in reference form:
 
 ### Does Billy Edwards start all season long? Or at all?
 
-Edwards committed to Wake Forest in 2020 and enrolled in 2021. Since then, he’s been at Maryland, Wisconsin, and now North Carolina, as he only started two games last season and didn’t really look the part before suffering a season-ending injury. It was said that Wisconsin paid about $1 million in total NIL compensation to Edwards. Perhaps UNC got a deal given that he needed a medical waiver to be eligible for this season and did virtually nothing last season. Would UNC be better off with 6-foot-5 Miles O’Neill or 6-foot-4 freshman Travis Burgess? O’Neill was a Petrino recruit to Texas A&M and Burgess is a dual-threat four-star and the No. 9 QB in the class for 247. It sure seems like the Tar Heels should bet on upside and not on Edwards, who was a mediocre starter for the Terps two seasons ago.
+Edwards committed to Wake Forest in 2020 and enrolled in 2021, then moved to Maryland, Wisconsin and now North Carolina, starting only two games last season and not looking the part before a season-ending injury. The guide reports that Wisconsin was said to have paid around $1 million in NIL compensation and suggests North Carolina may have got a deal, since he needed a medical waiver to be eligible and did virtually nothing. It weighs the alternatives — 6-foot-5 Miles O'Neill, a Petrino recruit at Texas A&M, and 6-foot-4 freshman Travis Burgess, a dual-threat four-star and 247's No. 9 quarterback in the class — and argues North Carolina should bet on upside rather than on Edwards, a mediocre Maryland starter two seasons ago. *(p. 99)*
 
 ### Did the Tar Heels prioritize the right players?
 
-The QB position looks to be in flux, but the Tar Heels kept their leading rusher, leading receiver, and leading sack man even though there was a mass exodus to the transfer portal. It sure seems like Belichick and former VSiN personality Michael Lombardi isolated the in-house players they were willing to pay to stay and those they were willing to pay to come to Chapel Bill. RB Demon June only had 464 yards, as the team only ran for 3.7 yards per carry, but he was clearly the best of the backs. WR Jordan Shipp easily paced the team with 60 receptions for 671 yards and June was actually third in receiving yards. Melkart Abou-Jaoude had 10.5 sacks. Kaleb Cost and Jaiden Patterson were also holdovers at defensive back. It’s a solid core. Now we’ll see how the coaches and recruiting coordinators did to bolster it.
+Despite a mass exodus to the portal, North Carolina kept its leading rusher, leading receiver and leading sack man, which the guide reads as Belichick and former VSiN personality Michael Lombardi identifying who to pay to stay and who to pay to come. Running back Demon June had only 464 yards on a team averaging 3.7 per carry but was clearly the best back; receiver Jordan Shipp led with 60 catches for 671 yards, with June third in receiving yards; Melkart Abou-Jaoude had 10.5 sacks; and Kaleb Cost and Jaiden Patterson stayed in the secondary. It calls that a solid core, with the open question being how well the staff bolstered it. *(p. 99)*
 
 ### What is the perception of the program?
 
-There was certainly a lot of coverage early about North Carolina football with the hiring of Belichick and all of the off-the-field stuff with his girlfriend and others around the program. From the outside, the optics weren’t great. However, the Tar Heels pulled in the 19th-ranked recruiting class of incoming freshmen and over 40 recruits, so whatever the school is selling, some players certainly seem to be buying. Only West Virginia got more class of 2026 commits. We know Belichick can identify talent and the players that fit what he wants to do. A case could be made that there’s a lot of hope this season.
+The guide acknowledges heavy early coverage and poor optics from the outside given the hiring and off-field matters. It then sets a concrete counter-fact: North Carolina signed the 19th-ranked recruiting class with over 40 recruits, and only West Virginia took more 2026 commitments — so whatever the school is selling, players are buying. Combined with Belichick's ability to identify talent and fits, it says a case can be made for real hope this season. *(p. 99)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -328,6 +311,8 @@ No source conflict identified for this team.
 | 6, 10, 20, 53, 100, 101, 108, 113, 138, 212, 213, 277, 323, 340 | Other pages naming this team |
 
 This team is named in **23 sentences across 16 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 10, 20, 53, 100, 101, 108, 113, 138, 212, 213, 277, 323, 340.
 
 ## 29. Cross-Links
 

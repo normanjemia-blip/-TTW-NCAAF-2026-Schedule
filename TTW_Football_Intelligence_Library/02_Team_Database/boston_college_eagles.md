@@ -24,9 +24,17 @@
 | **Makinen projected wins** | 3.0–9.0 overall, 1.4–6.6 in conference |
 | **Schedule strength** | 49.01 (#19 toughest of 138) |
 
-### Season outlook as written in the guide (p. 80)
+### Season outlook — VSiN's analysis in reference form (p. 80)
 
-Bill O’Brien has spent a big chunk of his coaching career working with quarterbacks and that has to be his primary focus for this season. Dylan Lonergan and Grayson James split time last season, collectively posting a 19/10 TD/ INT ratio, but this was a very poor football team. O’Brien was 7-6 in his first season, but the Eagles fell to 2-10 in Year 2 and didn’t have nearly enough offensive firepower to overcome a defense that ranked 132nd in the nation in yards per play allowed. He has virtually no D-I experience at the QB position heading into this season and very little in the way of returning production, but a team that went 2-10 needs an overhaul anyway and that’s precisely what has happened in Chestnut Hill, as the program looks to bounce back from its worst season since 2012. If there is no bounce back, it could very well be O’Brien’s last season at the helm. Under 3.5 The Eagles don’t play in the best conference, but the only clear favorite role will be at home against Maine in Week 3. Road trips to Cincinnati, SMU, Georgia Tech, Duke, Notre Dame, and Miami all look like clear losses, which accounts for half of their scheduled games. In their five FBS home games, they’ll face a talent disadvantage and two of them - Rutgers and Virginia Tech - come so early in the season with a brand new roster that they’re likely to get off to a very poor start and this isn’t the kind of team or schedule you want to be chasing with, as my projections call for 3.42 wins.
+- Bill O'Brien has spent much of his career with quarterbacks and the guide says that must be his focus. Dylan Lonergan and Grayson James split time for a 19-to-10 touchdown-to-interception ratio, but this was a very poor team. *(p. 80)*
+- O'Brien went 7-6 in year one before falling to 2-10, with too little offensive firepower to cover a defense ranked 132nd nationally in yards per play allowed. *(p. 80)*
+- He enters with virtually no Division I experience at quarterback and little returning production, though the guide argues a 2-10 team needed an overhaul anyway — which is what has happened as the programme tries to rebound from its worst season since 2012. *(p. 80)*
+- It states the stakes: without a bounce back this could be O'Brien's last season. *(p. 80)*
+- Recommendation is Under 3.5 wins. The only clear favorite role is at home against Maine in Week 3. *(p. 80)*
+- Road trips to Cincinnati, SMU, Georgia Tech, Duke, Notre Dame and Miami all look like clear losses — half the schedule. In the five FBS home games Boston College faces a talent disadvantage, and two of them, Rutgers and Virginia Tech, come early with a brand new roster. *(p. 80)*
+- The guide's conclusion is about bet construction as much as the team: a likely poor start makes this the wrong sort of team and schedule to chase with, and its projection is 3.42 wins. *(p. 80)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,11 +86,9 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Bill O’Brien has spent a big chunk of his coaching career working with quarterbacks and that has to be his primary focus for this season. *(p. 80)*
-- O’Brien, who will serve as his own OC, also has a freshman in Femi Babalola to consider, as he had several D-I offers and might be the best long-term option. *(p. 81)*
-- The two worked together at Georgia Tech in the ‘90s and again at Duke when Roof was the head coach from 2003-07, which is the only time he has ever been a head coach. *(p. 81)*
-- He went 6-45 with the Blue Devils, which is probably why he’s only been a DC and a position coach ever since. *(p. 81)*
-- The top returnee is actually TE Kaelan Chudzinski, son of former Browns head coach Rob Chudzinski. *(p. 81)*
+- Bill O'Brien has spent much of his career with quarterbacks and the guide says that must be his focus. Dylan Lonergan and Grayson James split time for a 19-to-10 touchdown-to-interception ratio, but this was a very poor team. *(p. 80)*
+- It states the stakes: without a bounce back this could be O'Brien's last season. *(p. 80)*
+- **Will Ted raise the Roof?** O'Brien turned to longtime friend Ted Roof, with whom he worked at Georgia Tech in the 1990s and at Duke during Roof's only head coaching stint from 2003 to 2007. The guide does not soften the record: Roof went 6-45 with the Blue Devils, which is probably why he has been a coordinator and position coach since. He was semi-retired after being dismissed by UCF in October 2024. The unit he inherits allowed over 6.5 yards per play overall and almost 470 yards per game in ACC play. He has a mostly blank slate with leading tackler KP Price back, and the stated goal is finding sacks after Boston College managed 17. *(p. 81)*
 
 ## 9. Quarterback Situation
 
@@ -90,13 +96,11 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 80)*.
 
-- Bill O’Brien has spent a big chunk of his coaching career working with quarterbacks and that has to be his primary focus for this season. *(p. 80)*
-- He has virtually no D-I experience at the QB position heading into this season and very little in the way of returning production, but a team that went 2-10 needs an overhaul anyway and that’s precisely what has happened in Chestnut Hill, as the program looks to bounce back from its worst season since 2012. *(p. 80)*
-- Liberty transfer Evan Dickens and holdover true sophomore Bo MacCormack may have to help in the passing game given all the unproven wideouts. *(p. 81)*
+- Bill O'Brien has spent much of his career with quarterbacks and the guide says that must be his focus. Dylan Lonergan and Grayson James split time for a 19-to-10 touchdown-to-interception ratio, but this was a very poor team. *(p. 80)*
+- He enters with virtually no Division I experience at quarterback and little returning production, though the guide argues a 2-10 team needed an overhaul anyway — which is what has happened as the programme tries to rebound from its worst season since 2012. *(p. 80)*
+- **Can O'Brien find a quarterback?** The early leader is Saginaw Valley State transfer Mason McKenzie, who had no FBS offers out of high school. Billed as a dual threat with nearly 6,000 total yards and close to 50 touchdowns, he faces what the guide calls a serious step up from Division II. Grayson Wilson at least drew multiple FBS offers and enrolled at Arkansas without playing, so he starts with a clean slate. O'Brien, serving as his own coordinator, also has freshman Femi Babalola, who had several Division I offers and may be the best long-term option. *(p. 81)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Sophomore AJ Surace saw limited action last season behind Kaliakmanis and now he battles Boston College transfer Dylan Lonergan (66.9% completions, 2,025 yards, 12/5 TD/INT, nine starts). *(p. 177)*
+Also referenced on **pp. 177** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -112,44 +116,28 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 11. Transfer Portal
 
-- The early leader in the clubhouse looks to be Saginaw Valley State transfer Mason McKenzie, who had zero FBS offers coming out of high school. *(p. 81)*
-- Liberty transfer Evan Dickens and holdover true sophomore Bo MacCormack may have to help in the passing game given all the unproven wideouts. *(p. 81)*
+- He enters with virtually no Division I experience at quarterback and little returning production, though the guide argues a 2-10 team needed an overhaul anyway — which is what has happened as the programme tries to rebound from its worst season since 2012. *(p. 80)*
+- **Can O'Brien find a quarterback?** The early leader is Saginaw Valley State transfer Mason McKenzie, who had no FBS offers out of high school. Billed as a dual threat with nearly 6,000 total yards and close to 50 touchdowns, he faces what the guide calls a serious step up from Division II. Grayson Wilson at least drew multiple FBS offers and enrolled at Arkansas without playing, so he starts with a clean slate. O'Brien, serving as his own coordinator, also has freshman Femi Babalola, who had several Division I offers and may be the best long-term option. *(p. 81)*
+- **How much will the growing pains hurt?** The Eagles retain almost none of last season's skill production. Leading receiver Lewis Bond (88 catches, 993 yards) is gone along with the next two, leaving tight end Kaelan Chudzinski, son of former Browns head coach Rob Chudzinski, as the top returnee. The top two rushers, who produced 13 touchdowns and over 1,100 yards, have also left. The guide expects Liberty transfer Evan Dickens and sophomore Bo MacCormack to help in the passing game given unproven receivers, noting Dickens ran for 1,339 yards at Liberty. *(p. 81)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Boston College transfer Dylan Lonergan and returner AJ Surace are battling for the starting job. *(p. 12)*
-- The majority of those passes and handoffs came from Tommy Castellanos, the Boston College transfer who led the team in rushing with just 557 yards and had a 15/9 TD/INT ratio. *(p. 89)*
-- Boley has all the tools to be a high-level starter, the offensive line looks to be improved, and the Sun Devils have weapons at wideout — including intriguing Boston College transfer Reed Harris. *(p. 119)*
-- There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). *(p. 153)*
-- They went to the portal to add Owen Stoudmire (Boston College), Jahsear Whittington (Pitt), and Anthony Jones Jr (UCLA) up front. *(p. 165)*
-- Sophomore AJ Surace saw limited action last season behind Kaliakmanis and now he battles Boston College transfer Dylan Lonergan (66.9% completions, 2,025 yards, 12/5 TD/INT, nine starts). *(p. 177)*
+Referenced in the guide on **pp. 12, 89, 119, 153, 165, 177** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- O’Brien, who will serve as his own OC, also has a freshman in Femi Babalola to consider, as he had several D-I offers and might be the best long-term option. *(p. 81)*
+- **Can O'Brien find a quarterback?** The early leader is Saginaw Valley State transfer Mason McKenzie, who had no FBS offers out of high school. Billed as a dual threat with nearly 6,000 total yards and close to 50 touchdowns, he faces what the guide calls a serious step up from Division II. Grayson Wilson at least drew multiple FBS offers and enrolled at Arkansas without playing, so he starts with a clean slate. O'Brien, serving as his own coordinator, also has freshman Femi Babalola, who had several Division I offers and may be the best long-term option. *(p. 81)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Personally, I think we see true freshman Qur’an McNeill sooner rather than later, as he had offers from Arkansas, Cincinnati, UConn, Syracuse, and Boston College, but opted for Buffalo. *(p. 223)*
+Referenced in the guide on **pp. 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- O’Brien was 7-6 in his first season, but the Eagles fell to 2-10 in Year 2 and didn’t have nearly enough offensive firepower to overcome a defense that ranked 132nd in the nation in yards per play allowed. *(p. 80)*
-- He’s billed as a dual-threat guy with nearly 6,000 yards of total offense and nearly 50 touchdowns to his name, but this is a serious step up from playing Division II football. *(p. 81)*
-- Roof was semi-retired after getting dismissed by UCF in October 2024, but O’Brien coaxed him off the couch to help a unit that allowed over 6.5 yards per play overall and almost 470 yards per game in ACC play. *(p. 81)*
-- Leading WR Lewis Bond had 88 catches for 993 yards and he’s gone, along with the other two top receivers. *(p. 81)*
+- **How much will the growing pains hurt?** The Eagles retain almost none of last season's skill production. Leading receiver Lewis Bond (88 catches, 993 yards) is gone along with the next two, leaving tight end Kaelan Chudzinski, son of former Browns head coach Rob Chudzinski, as the top returnee. The top two rushers, who produced 13 touchdowns and over 1,100 yards, have also left. The guide expects Liberty transfer Evan Dickens and sophomore Bo MacCormack to help in the passing game given unproven receivers, noting Dickens ran for 1,339 yards at Liberty. *(p. 81)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The majority of those passes and handoffs came from Tommy Castellanos, the Boston College transfer who led the team in rushing with just 557 yards and had a 15/9 TD/INT ratio. *(p. 89)*
-- Boley has all the tools to be a high-level starter, the offensive line looks to be improved, and the Sun Devils have weapons at wideout — including intriguing Boston College transfer Reed Harris. *(p. 119)*
-- There is still talent at receiver with Charlie Becker (Charlie B from Nashville, Tennessee as constantly described by FOX’s Gus Johnson) and Michigan State transfer Nick Marsh (1311 yards, nine TDs L2Y) and at running back with Khobie Martin (508 yards, six TDs) and Turbo Richard (1027 yards, 11 TDs L2Y at Boston College). *(p. 153)*
+Referenced in the guide on **pp. 89, 119, 153** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- O’Brien was 7-6 in his first season, but the Eagles fell to 2-10 in Year 2 and didn’t have nearly enough offensive firepower to overcome a defense that ranked 132nd in the nation in yards per play allowed. *(p. 80)*
-- In hopes of fixing the putrid defense, O’Brien has gone to a longtime friend in Ted Roof. *(p. 81)*
-- Roof has a mostly blank slate with leading tackler KP Price back, but his goal will be to find sacks, as BC only had 17 last season. *(p. 81)*
+- O'Brien went 7-6 in year one before falling to 2-10, with too little offensive firepower to cover a defense ranked 132nd nationally in yards per play allowed. *(p. 80)*
+- **Will Ted raise the Roof?** O'Brien turned to longtime friend Ted Roof, with whom he worked at Georgia Tech in the 1990s and at Duke during Roof's only head coaching stint from 2003 to 2007. The guide does not soften the record: Roof went 6-45 with the Blue Devils, which is probably why he has been a coordinator and position coach since. He was semi-retired after being dismissed by UCF in October 2024. The unit he inherits allowed over 6.5 yards per play overall and almost 470 yards per game in ACC play. He has a mostly blank slate with leading tackler KP Price back, and the stated goal is finding sacks after Boston College managed 17. *(p. 81)*
 
 ## 15. Key Strengths
 
@@ -224,23 +212,14 @@ Prices printed on the team page *(p. 81)*:
 
 ## 21. Betting Notes / Best Bets
 
-- Under 3.5 The Eagles don’t play in the best conference, but the only clear favorite role will be at home against Maine in Week 3. *(p. 80)*
-- Roof has a mostly blank slate with leading tackler KP Price back, but his goal will be to find sacks, as BC only had 17 last season. *(p. 81)*
+- Recommendation is Under 3.5 wins. The only clear favorite role is at home against Maine in Week 3. *(p. 80)*
+- The guide's conclusion is about bet construction as much as the team: a likely poor start makes this the wrong sort of team and schedule to chase with, and its projection is 3.42 wins. *(p. 80)*
 
 ## 22. Historical / Situational Trends
 
-- Dylan Lonergan and Grayson James split time last season, collectively posting a 19/10 TD/ INT ratio, but this was a very poor football team. *(p. 80)*
-- He has virtually no D-I experience at the QB position heading into this season and very little in the way of returning production, but a team that went 2-10 needs an overhaul anyway and that’s precisely what has happened in Chestnut Hill, as the program looks to bounce back from its worst season since 2012. *(p. 80)*
-- If there is no bounce back, it could very well be O’Brien’s last season at the helm. *(p. 80)*
-- The two worked together at Georgia Tech in the ‘90s and again at Duke when Roof was the head coach from 2003-07, which is the only time he has ever been a head coach. *(p. 81)*
-- He went 6-45 with the Blue Devils, which is probably why he’s only been a DC and a position coach ever since. *(p. 81)*
-- Roof has a mostly blank slate with leading tackler KP Price back, but his goal will be to find sacks, as BC only had 17 last season. *(p. 81)*
-- In terms of skill-position production, the Eagles have basically none of what they got last season. *(p. 81)*
+- O'Brien went 7-6 in year one before falling to 2-10, with too little offensive firepower to cover a defense ranked 132nd nationally in yards per play allowed. *(p. 80)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The Scarlet Knights avoid Oregon and Ohio State on the schedule, so on paper they look to have one of the easier schedules in the Big Ten and all three non-conference games are winnable, including at Boston College where Lonergan would face the school where he started nine games last season. *(p. 176)*
-- Sophomore AJ Surace saw limited action last season behind Kaliakmanis and now he battles Boston College transfer Dylan Lonergan (66.9% completions, 2,025 yards, 12/5 TD/INT, nine starts). *(p. 177)*
+Referenced in the guide on **pp. 176, 177** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -285,9 +264,7 @@ As printed on p. 81. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Under 3.5 The Eagles don’t play in the best conference, but the only clear favorite role will be at home against Maine in Week 3. *(p. 80)*
-- O’Brien, who will serve as his own OC, also has a freshman in Femi Babalola to consider, as he had several D-I offers and might be the best long-term option. *(p. 81)*
-- Boley has all the tools to be a high-level starter, the offensive line looks to be improved, and the Sun Devils have weapons at wideout — including intriguing Boston College transfer Reed Harris. *(p. 119)*
+- The early leader is Saginaw Valley State transfer Mason McKenzie, who had no FBS offers out of high school. Billed as a dual threat with nearly 6,000 total yards and close to 50 touchdowns, he faces what the guide calls a serious step up from Division II. Grayson Wilson at least drew multiple FBS offers and enrolled at Arkansas without playing, so he starts with a clean slate. O'Brien, serving as his own coordinator, also has freshman Femi Babalola, who had several Division I offers and may be the best long-term option. *(p. 81)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -295,26 +272,27 @@ As printed on p. 81. Each category carries a value and a national rank.
 
 - Makinen projects **3.0 wins** against a posted total of 3.5 — **-0.5** against this team.
 - The team page recommends **UNDER 3.5**.
-- Road trips to Cincinnati, SMU, Georgia Tech, Duke, Notre Dame, and Miami all look like clear losses, which accounts for half of their scheduled games. *(p. 80)*
+- Road trips to Cincinnati, SMU, Georgia Tech, Duke, Notre Dame and Miami all look like clear losses — half the schedule. In the five FBS home games Boston College faces a talent disadvantage, and two of them, Rutgers and Virginia Tech, come early with a brand new roster. *(p. 80)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 81)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 81)*. Its analysis, in reference form:
 
-### Can O’Brien find a quarterback?
+### Can O'Brien find a quarterback?
 
-The early leader in the clubhouse looks to be Saginaw Valley State transfer Mason McKenzie, who had zero FBS offers coming out of high school. He’s billed as a dual-threat guy with nearly 6,000 yards of total offense and nearly 50 touchdowns to his name, but this is a serious step up from playing Division II football. At least Grayson Wilson was offered by multiple FBS teams and ultimately enrolled at Arkansas. The North Little Rock native didn’t play, so he gets a clean slate now. O’Brien, who will serve as his own OC, also has a freshman in Femi Babalola to consider, as he had several D-I offers and might be the best long-term option.
+The early leader is Saginaw Valley State transfer Mason McKenzie, who had no FBS offers out of high school. Billed as a dual threat with nearly 6,000 total yards and close to 50 touchdowns, he faces what the guide calls a serious step up from Division II. Grayson Wilson at least drew multiple FBS offers and enrolled at Arkansas without playing, so he starts with a clean slate. O'Brien, serving as his own coordinator, also has freshman Femi Babalola, who had several Division I offers and may be the best long-term option. *(p. 81)*
 
 ### Will Ted raise the Roof?
 
-In hopes of fixing the putrid defense, O’Brien has gone to a longtime friend in Ted Roof. The two worked together at Georgia Tech in the ‘90s and again at Duke when Roof was the head coach from 2003-07, which is the only time he has ever been a head coach. He went 6-45 with the Blue Devils, which is probably why he’s only been a DC and a position coach ever since. Roof was semi-retired after getting dismissed by UCF in October 2024, but O’Brien coaxed him off the couch to help a unit that allowed over 6.5 yards per play overall and almost 470 yards per game in ACC play. Roof has a mostly blank slate with leading tackler KP Price back, but his goal will be to find sacks, as BC only had 17 last season.
+O'Brien turned to longtime friend Ted Roof, with whom he worked at Georgia Tech in the 1990s and at Duke during Roof's only head coaching stint from 2003 to 2007. The guide does not soften the record: Roof went 6-45 with the Blue Devils, which is probably why he has been a coordinator and position coach since. He was semi-retired after being dismissed by UCF in October 2024. The unit he inherits allowed over 6.5 yards per play overall and almost 470 yards per game in ACC play. He has a mostly blank slate with leading tackler KP Price back, and the stated goal is finding sacks after Boston College managed 17. *(p. 81)*
 
 ### How much will the growing pains hurt?
 
-In terms of skill-position production, the Eagles have basically none of what they got last season. Leading WR Lewis Bond had 88 catches for 993 yards and he’s gone, along with the other two top receivers. The top returnee is actually TE Kaelan Chudzinski, son of former Browns head coach Rob Chudzinski. Not only is the WR room a ghost town when it comes to statistics, but the team’s top two leading rushers, who accumulated 13 TD and over 1,100 yards, are also gone. Liberty transfer Evan Dickens and holdover true sophomore Bo MacCormack may have to help in the passing game given all the unproven wideouts. If nothing else, Dickens ran for 1,339 yards for the Flames.
+The Eagles retain almost none of last season's skill production. Leading receiver Lewis Bond (88 catches, 993 yards) is gone along with the next two, leaving tight end Kaelan Chudzinski, son of former Browns head coach Rob Chudzinski, as the top returnee. The top two rushers, who produced 13 touchdowns and over 1,100 yards, have also left. The guide expects Liberty transfer Evan Dickens and sophomore Bo MacCormack to help in the passing game given unproven receivers, noting Dickens ran for 1,339 yards at Liberty. *(p. 81)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -332,6 +310,8 @@ No source conflict identified for this team.
 | 12, 41, 89, 119, 125, 153, 165, 176, 177, 223 | Other pages naming this team |
 
 This team is named in **13 sentences across 12 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 12, 41, 89, 119, 125, 153, 165, 176, 177, 223.
 
 ## 29. Cross-Links
 

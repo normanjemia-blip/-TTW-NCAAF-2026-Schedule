@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 7.6–4.4 overall, 5.0–4.0 in conference |
 | **Schedule strength** | 42.72 (#62 toughest of 138) |
 
-### Season outlook as written in the guide (p. 100)
+### Season outlook — VSiN's analysis in reference form (p. 100)
 
-The 2025 season for Pitt might as well have been sponsored by nearby Kennywood Amusement Park. It was almost as if the Panthers borrowed a roller coaster and transported it roughly 20 miles up the road to Acrisure Stadium. When the hills, drops, barrel rolls, and inverted loops finished, the Pitt Train rolled into the station with an 8-5 record. In their eight wins, they scored 61, 45, 48, 34, 30, 53, 35, and 42. You never really knew week in and week out which Pitt offense would show up. We have a pretty good idea this season, as Mason Heintschel officially has the job because Eli Holstein is now with Virginia. Heintschel was solid as a true freshman in his nine starts. He’ll have to develop a rapport with a bunch of new receivers, but knowing what Pat Narduzzi is capable of on defense, the Panthers may be able to take advantage of a friendly schedule and put themselves on the CFP radar. Under 7.5 The schedule is favorable, there’s no denying that and why the vig on Over 7.5 is what it is. Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. Pitt has a late bye with a lot of new faces and will play five of the last eight games on the road, including a trip to Berkeley, another team that could greatly improve, to finish the regular season. My projection is 7.43 wins.
+- The guide characterizes Pitt's 2025 as a roller coaster, finishing 8-5 with wildly variable output — 61, 45, 48, 34, 30, 53, 35 and 42 points in the eight wins — so you never knew which offense would appear. *(p. 100)*
+- There is more clarity now: Mason Heintschel has the job outright because Eli Holstein is at Virginia, and he was solid as a true freshman across nine starts. *(p. 100)*
+- He must build rapport with many new receivers, but with Pat Narduzzi's defensive record the guide sees a friendly schedule potentially putting Pitt on the playoff radar. *(p. 100)*
+- Recommendation is Under 7.5 wins. It concedes the schedule is genuinely favorable — which is why the Over carries the vig it does — with Pitt avoiding Clemson, SMU and Notre Dame. *(p. 100)*
+- Its counter is about the opponents improving: a strong possibility Virginia Tech is markedly better under James Franklin, and that North Carolina and Florida State are much better than last season. *(p. 100)*
+- Structural schedule detail seals the case: a late bye with many new faces, five of the last eight on the road, and a season-ending trip to Berkeley against another team that could greatly improve. Projection is 7.43 wins. *(p. 100)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,8 +85,7 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Well, that’s another big question because special teams coordinator Jacob Bronowski now holds that position at Auburn. *(p. 101)*
-- In his place, Pitt hired Mike Priefer, who was fired from the same role at North Carolina last season. *(p. 101)*
+- **Will the special teams be special again?** This matters because coordinator Jacob Bronowski left for Auburn, replaced by Mike Priefer, who was fired from the same role at North Carolina. Pitt also needs a new kicker after Trey Butkowski went 20-of-23 on field goals and 43-of-44 on extra points; Sam Hunsaker was only 15-of-22 at Northern Arizona with a long of 50, and the guide flags the altitude there at over 7,000 feet against a Pittsburgh stadium that can be very tough for kickers. With a new punter and new returners too, it calls this an underrated facet that helped Pitt a lot last season and may not this time. *(p. 101)*
 
 ## 9. Quarterback Situation
 
@@ -87,7 +93,7 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 100)*.
 
-- Well, those who have been around the last two years have experience in letting defenders get to the QB. *(p. 101)*
+- There is more clarity now: Mason Heintschel has the job outright because Eli Holstein is at Virginia, and he was solid as a true freshman across nine starts. *(p. 100)*
 
 ## 10. Returning Production
 
@@ -103,31 +109,25 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 ## 11. Transfer Portal
 
-- While Heintschel will have new blind side protection from Penn transfer Netinho Olivieri, a lot of guys are back who contributed to the 44 sacks and the 3.5 YPC that ranked 119th in the nation. *(p. 101)*
+- There is more clarity now: Mason Heintschel has the job outright because Eli Holstein is at Virginia, and he was solid as a true freshman across nine starts. *(p. 100)*
+- **Will the special teams be special again?** This matters because coordinator Jacob Bronowski left for Auburn, replaced by Mike Priefer, who was fired from the same role at North Carolina. Pitt also needs a new kicker after Trey Butkowski went 20-of-23 on field goals and 43-of-44 on extra points; Sam Hunsaker was only 15-of-22 at Northern Arizona with a long of 50, and the guide flags the altitude there at over 7,000 feet against a Pittsburgh stadium that can be very tough for kickers. With a new punter and new returners too, it calls this an underrated facet that helped Pitt a lot last season and may not this time. *(p. 101)*
+- **Can anybody find the block button?** The guide pushes back directly on other previews talking up the line's experience, observing that the experience in question is in letting defenders reach the quarterback — 87 sacks allowed over two seasons. Heintschel gets new blind-side protection from Penn transfer Netinho Olivieri, but many contributors to the 44 sacks and the 3.5 yards per carry, 119th nationally, are back. It allows year three of the Kade Bell offense may improve things while calling this another reason to view last season's point total sceptically. *(p. 101)*
 
 ## 12. Recruiting / Roster Notes
 
-- Heintschel was solid as a true freshman in his nine starts. *(p. 100)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- PITTSBURGH As a freshman, Mason Heintschel passed for 16 touchdowns and showed some running ability in his nine starts. *(p. 20)*
+Referenced in the guide on **pp. 20, 100** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- You never really knew week in and week out which Pitt offense would show up. *(p. 100)*
-- He’ll have to develop a rapport with a bunch of new receivers, but knowing what Pat Narduzzi is capable of on defense, the Panthers may be able to take advantage of a friendly schedule and put themselves on the CFP radar. *(p. 100)*
-- The Panthers had some big scoring barrages, but this was an offense that was 20th in PPG while sitting just 67th in yards per play and 120th in third-down conversion rate. *(p. 101)*
-- It was actually a similar story for Pitt in 2024, as they were 30th in scoring offense and 69th in YPP. *(p. 101)*
-- Some publications and previews are talking up the Pitt offensive line because of their experience. *(p. 101)*
-- Perhaps it does get better in Year 3 of the Kade Bell offense, but it is yet another reason to look at last season’s point output with some skepticism. *(p. 101)*
+- The guide characterizes Pitt's 2025 as a roller coaster, finishing 8-5 with wildly variable output — 61, 45, 48, 34, 30, 53, 35 and 42 points in the eight wins — so you never knew which offense would appear. *(p. 100)*
+- He must build rapport with many new receivers, but with Pat Narduzzi's defensive record the guide sees a friendly schedule potentially putting Pitt on the playoff radar. *(p. 100)*
+- **What should we think about the perplexing Pitt offense?** The guide dismantles the scoring numbers with underlying metrics: 20th in points per game while ranking 67th in yards per play and 120th in third-down conversion rate, allowing 44 sacks — fifth-most nationally — and averaging just 3.5 yards per carry. It identifies where the points actually came from, noting four pick-sixes among 15 interceptions, a couple of punt return touchdowns, and four kick returns of 40-plus yards contributing to field position. It then shows the pattern is not new, with Pitt 30th in scoring but 69th in yards per play in 2024. Its conclusion is unusually candid — it does not know what to make of it, but special teams prowess has a lot to do with it. *(p. 101)*
+- **Can anybody find the block button?** The guide pushes back directly on other previews talking up the line's experience, observing that the experience in question is in letting defenders reach the quarterback — 87 sacks allowed over two seasons. Heintschel gets new blind-side protection from Penn transfer Netinho Olivieri, but many contributors to the 44 sacks and the 3.5 yards per carry, 119th nationally, are back. It allows year three of the Kade Bell offense may improve things while calling this another reason to view last season's point total sceptically. *(p. 101)*
 
 ## 14. Defensive Identity
 
-- He’ll have to develop a rapport with a bunch of new receivers, but knowing what Pat Narduzzi is capable of on defense, the Panthers may be able to take advantage of a friendly schedule and put themselves on the CFP radar. *(p. 100)*
-- They allowed 44 sacks, which was the fifth-most in the nation. *(p. 101)*
-- Pitt has allowed 87 sacks over the last two seasons. *(p. 101)*
-- While Heintschel will have new blind side protection from Penn transfer Netinho Olivieri, a lot of guys are back who contributed to the 44 sacks and the 3.5 YPC that ranked 119th in the nation. *(p. 101)*
+- He must build rapport with many new receivers, but with Pat Narduzzi's defensive record the guide sees a friendly schedule potentially putting Pitt on the playoff radar. *(p. 100)*
 
 ## 15. Key Strengths
 
@@ -178,7 +178,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- Structural schedule detail seals the case: a late bye with many new faces, five of the last eight on the road, and a season-ending trip to Berkeley against another team that could greatly improve. Projection is 7.43 wins. *(p. 100)*
 
 ## 19. Win Total Discussion
 
@@ -200,15 +200,14 @@ Prices printed on the team page *(p. 101)*:
 
 ## 21. Betting Notes / Best Bets
 
-Not addressed in guide.
+- Recommendation is Under 7.5 wins. It concedes the schedule is genuinely favorable — which is why the Over carries the vig it does — with Pitt avoiding Clemson, SMU and Notre Dame. *(p. 100)*
+- Its counter is about the opponents improving: a strong possibility Virginia Tech is markedly better under James Franklin, and that North Carolina and Florida State are much better than last season. *(p. 100)*
+- Structural schedule detail seals the case: a late bye with many new faces, five of the last eight on the road, and a season-ending trip to Berkeley against another team that could greatly improve. Projection is 7.43 wins. *(p. 100)*
+- **What should we think about the perplexing Pitt offense?** The guide dismantles the scoring numbers with underlying metrics: 20th in points per game while ranking 67th in yards per play and 120th in third-down conversion rate, allowing 44 sacks — fifth-most nationally — and averaging just 3.5 yards per carry. It identifies where the points actually came from, noting four pick-sixes among 15 interceptions, a couple of punt return touchdowns, and four kick returns of 40-plus yards contributing to field position. It then shows the pattern is not new, with Pitt 30th in scoring but 69th in yards per play in 2024. Its conclusion is unusually candid — it does not know what to make of it, but special teams prowess has a lot to do with it. *(p. 101)*
 
 ## 22. Historical / Situational Trends
 
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
-- It was actually a similar story for Pitt in 2024, as they were 30th in scoring offense and 69th in YPP. *(p. 101)*
-- In his place, Pitt hired Mike Priefer, who was fired from the same role at North Carolina last season. *(p. 101)*
-- It is an underrated facet of the game, but one that seemed to help Pitt a lot last season and that may not be the case this season. *(p. 101)*
-- Perhaps it does get better in Year 3 of the Kade Bell offense, but it is yet another reason to look at last season’s point output with some skepticism. *(p. 101)*
+- The guide characterizes Pitt's 2025 as a roller coaster, finishing 8-5 with wildly variable output — 61, 45, 48, 34, 30, 53, 35 and 42 points in the eight wins — so you never knew which offense would appear. *(p. 100)*
 
 ## 23. Important Statistics
 
@@ -254,37 +253,38 @@ As printed on p. 101. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.6 wins** against a posted total of 7.5 — **+0.1** in this team's favour.
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
-- Pitt has a late bye with a lot of new faces and will play five of the last eight games on the road, including a trip to Berkeley, another team that could greatly improve, to finish the regular season. *(p. 100)*
-- It should be noted here that Pitt had four pick-sixes out of their 15 interceptions, plus a couple of punt return touchdowns. *(p. 101)*
-- In fact, Pitt special teams played a huge role in their field position, racking up four kick returns of 40+ yards. *(p. 101)*
+- Its counter is about the opponents improving: a strong possibility Virginia Tech is markedly better under James Franklin, and that North Carolina and Florida State are much better than last season. *(p. 100)*
+- Structural schedule detail seals the case: a late bye with many new faces, five of the last eight on the road, and a season-ending trip to Berkeley against another team that could greatly improve. Projection is 7.43 wins. *(p. 100)*
+- The guide dismantles the scoring numbers with underlying metrics: 20th in points per game while ranking 67th in yards per play and 120th in third-down conversion rate, allowing 44 sacks — fifth-most nationally — and averaging just 3.5 yards per carry. It identifies where the points actually came from, noting four pick-sixes among 15 interceptions, a couple of punt return touchdowns, and four kick returns of 40-plus yards contributing to field position. It then shows the pattern is not new, with Pitt 30th in scoring but 69th in yards per play in 2024. Its conclusion is unusually candid — it does not know what to make of it, but special teams prowess has a lot to do with it. *(p. 101)*
+- The guide pushes back directly on other previews talking up the line's experience, observing that the experience in question is in letting defenders reach the quarterback — 87 sacks allowed over two seasons. Heintschel gets new blind-side protection from Penn transfer Netinho Olivieri, but many contributors to the 44 sacks and the 3.5 yards per carry, 119th nationally, are back. It allows year three of the Kade Bell offense may improve things while calling this another reason to view last season's point total sceptically. *(p. 101)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- Well, that’s another big question because special teams coordinator Jacob Bronowski now holds that position at Auburn. *(p. 101)*
-- Acrisure Stadium/Heinz Field can be very tough for kickers. *(p. 101)*
+- This matters because coordinator Jacob Bronowski left for Auburn, replaced by Mike Priefer, who was fired from the same role at North Carolina. Pitt also needs a new kicker after Trey Butkowski went 20-of-23 on field goals and 43-of-44 on extra points; Sam Hunsaker was only 15-of-22 at Northern Arizona with a long of 50, and the guide flags the altitude there at over 7,000 feet against a Pittsburgh stadium that can be very tough for kickers. With a new punter and new returners too, it calls this an underrated facet that helped Pitt a lot last season and may not this time. *(p. 101)*
+- The guide pushes back directly on other previews talking up the line's experience, observing that the experience in question is in letting defenders reach the quarterback — 87 sacks allowed over two seasons. Heintschel gets new blind-side protection from Penn transfer Netinho Olivieri, but many contributors to the 44 sacks and the 3.5 yards per carry, 119th nationally, are back. It allows year three of the Kade Bell offense may improve things while calling this another reason to view last season's point total sceptically. *(p. 101)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 101)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 101)*. Its analysis, in reference form:
 
 ### What should we think about the perplexing Pitt offense?
 
-The Panthers had some big scoring barrages, but this was an offense that was 20th in PPG while sitting just 67th in yards per play and 120th in third-down conversion rate. They allowed 44 sacks, which was the fifth-most in the nation. Collectively, the ball carriers mustered just 3.5 yards per carry. It should be noted here that Pitt had four pick-sixes out of their 15 interceptions, plus a couple of punt return touchdowns. In fact, Pitt special teams played a huge role in their field position, racking up four kick returns of 40+ yards. It was actually a similar story for Pitt in 2024, as they were 30th in scoring offense and 69th in YPP. So, what should we think? I honestly don’t know, but their special teams prowess has a lot to do with it.
+The guide dismantles the scoring numbers with underlying metrics: 20th in points per game while ranking 67th in yards per play and 120th in third-down conversion rate, allowing 44 sacks — fifth-most nationally — and averaging just 3.5 yards per carry. It identifies where the points actually came from, noting four pick-sixes among 15 interceptions, a couple of punt return touchdowns, and four kick returns of 40-plus yards contributing to field position. It then shows the pattern is not new, with Pitt 30th in scoring but 69th in yards per play in 2024. Its conclusion is unusually candid — it does not know what to make of it, but special teams prowess has a lot to do with it. *(p. 101)*
 
 ### Will the special teams be special again?
 
-Well, that’s another big question because special teams coordinator Jacob Bronowski now holds that position at Auburn. In his place, Pitt hired Mike Priefer, who was fired from the same role at North Carolina last season. The Panthers have a new kicker after Trey Butkowski went 20-of-23 on field goals and 43-of-44 on extra points. Sam Hunsaker was only 15-of-22 on field goals at Northern Arizona with a long of 50, a place where the elevation is up over 7,000 feet. Acrisure Stadium/Heinz Field can be very tough for kickers. Pitt also has a new punter and new kick/punt returners. It is an underrated facet of the game, but one that seemed to help Pitt a lot last season and that may not be the case this season.
+This matters because coordinator Jacob Bronowski left for Auburn, replaced by Mike Priefer, who was fired from the same role at North Carolina. Pitt also needs a new kicker after Trey Butkowski went 20-of-23 on field goals and 43-of-44 on extra points; Sam Hunsaker was only 15-of-22 at Northern Arizona with a long of 50, and the guide flags the altitude there at over 7,000 feet against a Pittsburgh stadium that can be very tough for kickers. With a new punter and new returners too, it calls this an underrated facet that helped Pitt a lot last season and may not this time. *(p. 101)*
 
 ### Can anybody find the block button?
 
-Some publications and previews are talking up the Pitt offensive line because of their experience. Well, those who have been around the last two years have experience in letting defenders get to the QB. Pitt has allowed 87 sacks over the last two seasons. While Heintschel will have new blind side protection from Penn transfer Netinho Olivieri, a lot of guys are back who contributed to the 44 sacks and the 3.5 YPC that ranked 119th in the nation. Perhaps it does get better in Year 3 of the Kade Bell offense, but it is yet another reason to look at last season’s point output with some skepticism.
+The guide pushes back directly on other previews talking up the line's experience, observing that the experience in question is in letting defenders reach the quarterback — 87 sacks allowed over two seasons. Heintschel gets new blind-side protection from Penn transfer Netinho Olivieri, but many contributors to the 44 sacks and the 3.5 yards per carry, 119th nationally, are back. It allows year three of the Kade Bell offense may improve things while calling this another reason to view last season's point total sceptically. *(p. 101)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -302,6 +302,8 @@ No source conflict identified for this team.
 | 15, 20, 146 | Other pages naming this team |
 
 This team is named in **7 sentences across 5 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 15, 20, 146.
 
 ## 29. Cross-Links
 

@@ -24,9 +24,15 @@
 | **Makinen projected wins** | 6.5–5.5 overall, 4.4–3.6 in conference |
 | **Schedule strength** | 46.97 (#30 toughest of 138) |
 
-### Season outlook as written in the guide (p. 90)
+### Season outlook — VSiN's analysis in reference form (p. 90)
 
-With three straight losses to end the season, Georgia Tech’s last 10-win season moved another year back in the rearview mirror, but Brent Key got very close in his fourth full season at the helm. The Yellow Jackets actually started the season 8-0 and had a clear path to the College Football Playoff, but inexplicably ran out of gas late in the year, dropping three of their last four and also the bowl game to BYU. Key and the coaches had success with Texas A&M transfer Haynes King and they’ve turned to the portal again for Alberto Mendoza, the younger brother of Fernando Mendoza, the reigning National Championship QB and No. 1 overall pick. We have no idea what to expect from him since Curt Cignetti rarely took his foot off the gas at Indiana and he didn’t play very much. Over 6.5 The schedule isn’t overly kind to the Yellow Jackets, especially late in the season. If James Franklin has Virginia Tech going in the right direction, the year ends with the Hokies, Pitt, Louisville, Clemson, Wake Forest, and Georgia. Getting to seven wins will be a task. But, given what Key has done thus far, the caliber of coordinators he has hired, and how well the program has done in the portal, I see more reasons for optimism than pessimism, even with a projection of 6.02 wins.
+- Three straight losses to end the season pushed Georgia Tech's last ten-win season further into the past, though the guide says Brent Key came very close in his fourth full year. *(p. 90)*
+- The collapse is described precisely: an 8-0 start with a clear playoff path, then inexplicably running out of gas, dropping three of the last four plus the bowl game to BYU. *(p. 90)*
+- After success with Texas A&M transfer Haynes King, the staff went back to the portal for Alberto Mendoza, younger brother of Fernando Mendoza. The guide is candid that nobody knows what to expect from him, since Curt Cignetti rarely eased off at Indiana and he played little. *(p. 90)*
+- Recommendation is Over 6.5 wins, despite a schedule the guide calls unkind late: the year ends with Virginia Tech, Pitt, Louisville, Clemson, Wake Forest and Georgia, making seven wins a task. *(p. 90)*
+- Its case rests on three things it names together — what Key has done so far, the caliber of coordinators he has hired, and the programme's portal success — giving more reasons for optimism than pessimism even with a projection of 6.02 wins. *(p. 90)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -81,18 +87,12 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Key and the coaches had success with Texas A&M transfer Haynes King and they’ve turned to the portal again for Alberto Mendoza, the younger brother of Fernando Mendoza, the reigning National Championship QB and No. 1 overall pick. *(p. 90)*
-- But, given what Key has done thus far, the caliber of coordinators he has hired, and how well the program has done in the portal, I see more reasons for optimism than pessimism, even with a projection of 6.02 wins. *(p. 90)*
-- Three starting offensive lineman and the OL coach are also gone. *(p. 91)*
-- OC Buster Faulkner took the same role at Florida and DC Blake Gideon went back to Texas. *(p. 91)*
-- So, to summarize - new QB, new feature back, all new WR, two new, albeit very productive, transfer TEs, and new coordinators on both sides of the ball. *(p. 91)*
-- New DC Jason Semore has spent the last three seasons with Charles Huff, first at Marshall and then at Southern Miss. *(p. 91)*
-- New OC George Godsey, who played QB for Georgia Tech from 1998-2001, heads back to his alma mater after four seasons as the Ravens’ TE coach. *(p. 91)*
+- Three straight losses to end the season pushed Georgia Tech's last ten-win season further into the past, though the guide says Brent Key came very close in his fourth full year. *(p. 90)*
+- Its case rests on three things it names together — what Key has done so far, the caliber of coordinators he has hired, and the programme's portal success — giving more reasons for optimism than pessimism even with a projection of 6.02 wins. *(p. 90)*
+- **How coordinated will Georgia Tech be to start the season?** The guide inventories the turnover: only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone; coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. Its summary is deliberately cumulative — new quarterback, new feature back, an entirely new receiver room, two new but productive transfer tight ends, and new coordinators on both sides — and while it credits Key and notes turnover is nothing new, it calls this a lot. *(p. 91)*
+- **Did Key make the right hires?** The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The two worked together at Georgia Tech in the ‘90s and again at Duke when Roof was the head coach from 2003-07, which is the only time he has ever been a head coach. *(p. 81)*
-- Philo was not only brought in by Sumrall, but he also played under offensive coordinator Buster Faulkner at Georgia Tech the last two seasons. *(p. 291)*
+Also referenced on **pp. 81, 291** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -100,14 +100,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 90)*.
 
-- Key and the coaches had success with Texas A&M transfer Haynes King and they’ve turned to the portal again for Alberto Mendoza, the younger brother of Fernando Mendoza, the reigning National Championship QB and No. 1 overall pick. *(p. 90)*
-- So, to summarize - new QB, new feature back, all new WR, two new, albeit very productive, transfer TEs, and new coordinators on both sides of the ball. *(p. 91)*
-- New OC George Godsey, who played QB for Georgia Tech from 1998-2001, heads back to his alma mater after four seasons as the Ravens’ TE coach. *(p. 91)*
+- After success with Texas A&M transfer Haynes King, the staff went back to the portal for Alberto Mendoza, younger brother of Fernando Mendoza. The guide is candid that nobody knows what to expect from him, since Curt Cignetti rarely eased off at Indiana and he played little. *(p. 90)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Whether the Gators finish in the top half of the SEC will depend on who wins the QB job (Georgia Tech transfer Aaron Philo or last year’s backup, Tramell Jones) and how well he plays. *(p. 19)*
-- GEORGIA TECH Dual-threat quarterback Haynes King led the Yellow Jackets to nine wins and put a scare into Georgia, but he’s gone and replaced by Alberto Mendoza. *(p. 20)*
+Also referenced on **pp. 19, 20** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -123,18 +118,11 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- Key and the coaches had success with Texas A&M transfer Haynes King and they’ve turned to the portal again for Alberto Mendoza, the younger brother of Fernando Mendoza, the reigning National Championship QB and No. 1 overall pick. *(p. 90)*
-- But, given what Key has done thus far, the caliber of coordinators he has hired, and how well the program has done in the portal, I see more reasons for optimism than pessimism, even with a projection of 6.02 wins. *(p. 90)*
-- Justice Haynes transferred in from Michigan and looks to be the starter at RB in front of Malachi Hosley, who is easily the most productive skill player back for the Yellow Jackets, even though King led the team in rushing yards and rushing touchdowns. *(p. 91)*
-- So, to summarize - new QB, new feature back, all new WR, two new, albeit very productive, transfer TEs, and new coordinators on both sides of the ball. *(p. 91)*
-- Given that a couple of Tech’s best portal pulls were tight ends, Godsey might be an excellent fit. *(p. 91)*
+- After success with Texas A&M transfer Haynes King, the staff went back to the portal for Alberto Mendoza, younger brother of Fernando Mendoza. The guide is candid that nobody knows what to expect from him, since Curt Cignetti rarely eased off at Indiana and he played little. *(p. 90)*
+- Its case rests on three things it names together — what Key has done so far, the caliber of coordinators he has hired, and the programme's portal success — giving more reasons for optimism than pessimism even with a projection of 6.02 wins. *(p. 90)*
+- **How coordinated will Georgia Tech be to start the season?** The guide inventories the turnover: only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone; coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. Its summary is deliberately cumulative — new quarterback, new feature back, an entirely new receiver room, two new but productive transfer tight ends, and new coordinators on both sides — and while it credits Key and notes turnover is nothing new, it calls this a lot. *(p. 91)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The wide receiver room is certainly a question mark entering the year, with the departure of Zachariah Branch and TE Oscar Delp, but Georgia Tech transfer WR Isiah Canion has the potential to be a breakout star. *(p. 15)*
-- Whether the Gators finish in the top half of the SEC will depend on who wins the QB job (Georgia Tech transfer Aaron Philo or last year’s backup, Tramell Jones) and how well he plays. *(p. 19)*
-- Georgia Tech transfer Zion Taylor is probably the most notable WR added to the mix, but Jyzaiah Rockwell was a 1,100-yard receiver at the FCS ranks last season. *(p. 207)*
-- The likely answer to this question is Georgia Tech transfer Aaron Philo. *(p. 291)*
+Referenced in the guide on **pp. 15, 19, 207, 291** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -142,19 +130,14 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- Justice Haynes transferred in from Michigan and looks to be the starter at RB in front of Malachi Hosley, who is easily the most productive skill player back for the Yellow Jackets, even though King led the team in rushing yards and rushing touchdowns. *(p. 91)*
-- Three starting offensive lineman and the OL coach are also gone. *(p. 91)*
-- From a schematic standpoint, I’d look more of a ball-control offense from the Yellow Jackets. *(p. 91)*
+- **How coordinated will Georgia Tech be to start the season?** The guide inventories the turnover: only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone; coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. Its summary is deliberately cumulative — new quarterback, new feature back, an entirely new receiver room, two new but productive transfer tight ends, and new coordinators on both sides — and while it credits Key and notes turnover is nothing new, it calls this a lot. *(p. 91)*
+- **Did Key make the right hires?** The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- The wide receiver room is certainly a question mark entering the year, with the departure of Zachariah Branch and TE Oscar Delp, but Georgia Tech transfer WR Isiah Canion has the potential to be a breakout star. *(p. 15)*
-- Georgia Tech transfer Zion Taylor is probably the most notable WR added to the mix, but Jyzaiah Rockwell was a 1,100-yard receiver at the FCS ranks last season. *(p. 207)*
-- Philo was not only brought in by Sumrall, but he also played under offensive coordinator Buster Faulkner at Georgia Tech the last two seasons. *(p. 291)*
+Referenced in the guide on **pp. 15, 207, 291** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-Not addressed in guide.
+- **Did Key make the right hires?** The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
 
 ## 15. Key Strengths
 
@@ -201,7 +184,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
-Not addressed in guide.
+- Recommendation is Over 6.5 wins, despite a schedule the guide calls unkind late: the year ends with Virginia Tech, Pitt, Louisville, Clemson, Wake Forest and Georgia, making seven wins a task. *(p. 90)*
 
 ## 19. Win Total Discussion
 
@@ -235,27 +218,19 @@ Prices printed on the team page *(p. 91)*:
 
 ## 21. Betting Notes / Best Bets
 
-- They’ve covered every Georgia game under Key, but this one is back on the road. *(p. 91)*
+- Recommendation is Over 6.5 wins, despite a schedule the guide calls unkind late: the year ends with Virginia Tech, Pitt, Louisville, Clemson, Wake Forest and Georgia, making seven wins a task. *(p. 90)*
+- Its case rests on three things it names together — what Key has done so far, the caliber of coordinators he has hired, and the programme's portal success — giving more reasons for optimism than pessimism even with a projection of 6.02 wins. *(p. 90)*
+- **Is this the year?** The guide notes Georgia Tech can reasonably believe in playoff contention, since the ACC is the weakest Power Four conference and a home game with Tennessee early gives it a chance to be in the conversation when the first rankings appear. But it redefines the question: what it means is whether this is the year Georgia Tech beats Georgia, which it calls a monumental achievement regardless of how the ACC or playoff shake out. The Yellow Jackets last won in 2016 but have come close, losing in eight overtimes two seasons ago and 16-9 in a rock fight last year. They have covered every Georgia game under Key, though this one is back on the road. *(p. 91)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Here’s the thing - even in a 10-win season two years ago, Miami lost to Georgia Tech and Syracuse in big favorite roles. *(p. 95)*
-- Cristobal lost to Georgia Tech as a 20-point favorite in 2023. *(p. 95)*
+Also referenced on **pp. 95** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- We have no idea what to expect from him since Curt Cignetti rarely took his foot off the gas at Indiana and he didn’t play very much. *(p. 90)*
-- The Golden Eagles had 29 takeaways last season, which was the fourth-most in FBS, and 23 of those were interceptions, which led the nation. *(p. 91)*
-- GT was 97th in average time of possession last season. *(p. 91)*
-- Georgia Tech should enter the season believing that they can be in contention for the College Football Playoff, since the ACC is the weakest of the Power Four conferences and the schedule, with Tennessee at home early in the season, gives them a chance to be in that discussion as the first CFP rankings come out. *(p. 91)*
-- The Bees last won in 2016, but they’ve come very close, losing in eight overtimes two seasons ago and losing 16-9 in a total rock fight last season. *(p. 91)*
+- Three straight losses to end the season pushed Georgia Tech's last ten-win season further into the past, though the guide says Brent Key came very close in his fourth full year. *(p. 90)*
+- The collapse is described precisely: an 8-0 start with a clear playoff path, then inexplicably running out of gas, dropping three of the last four plus the bowl game to BYU. *(p. 90)*
+- **Is this the year?** The guide notes Georgia Tech can reasonably believe in playoff contention, since the ACC is the weakest Power Four conference and a home game with Tennessee early gives it a chance to be in the conversation when the first rankings appear. But it redefines the question: what it means is whether this is the year Georgia Tech beats Georgia, which it calls a monumental achievement regardless of how the ACC or playoff shake out. The Yellow Jackets last won in 2016 but have come close, losing in eight overtimes two seasons ago and 16-9 in a rock fight last year. They have covered every Georgia game under Key, though this one is back on the road. *(p. 91)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Whether the Gators finish in the top half of the SEC will depend on who wins the QB job (Georgia Tech transfer Aaron Philo or last year’s backup, Tramell Jones) and how well he plays. *(p. 19)*
-- The two worked together at Georgia Tech in the ‘90s and again at Duke when Roof was the head coach from 2003-07, which is the only time he has ever been a head coach. *(p. 81)*
-- Cristobal lost to Georgia Tech as a 20-point favorite in 2023. *(p. 95)*
-- Georgia Tech transfer Zion Taylor is probably the most notable WR added to the mix, but Jyzaiah Rockwell was a 1,100-yard receiver at the FCS ranks last season. *(p. 207)*
+Referenced in the guide on **pp. 19, 81, 95, 207** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -301,42 +276,37 @@ As printed on p. 91. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 6.5**.
-- But, given what Key has done thus far, the caliber of coordinators he has hired, and how well the program has done in the portal, I see more reasons for optimism than pessimism, even with a projection of 6.02 wins. *(p. 90)*
-- Given that a couple of Tech’s best portal pulls were tight ends, Godsey might be an excellent fit. *(p. 91)*
-- The wide receiver room is certainly a question mark entering the year, with the departure of Zachariah Branch and TE Oscar Delp, but Georgia Tech transfer WR Isiah Canion has the potential to be a breakout star. *(p. 15)*
+- Its case rests on three things it names together — what Key has done so far, the caliber of coordinators he has hired, and the programme's portal success — giving more reasons for optimism than pessimism even with a projection of 6.02 wins. *(p. 90)*
+- The guide inventories the turnover: only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone; coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. Its summary is deliberately cumulative — new quarterback, new feature back, an entirely new receiver room, two new but productive transfer tight ends, and new coordinators on both sides — and while it credits Key and notes turnover is nothing new, it calls this a lot. *(p. 91)*
+- The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- With three straight losses to end the season, Georgia Tech’s last 10-win season moved another year back in the rearview mirror, but Brent Key got very close in his fourth full season at the helm. *(p. 90)*
-- New DC Jason Semore has spent the last three seasons with Charles Huff, first at Marshall and then at Southern Miss. *(p. 91)*
-- Georgia Tech should enter the season believing that they can be in contention for the College Football Playoff, since the ACC is the weakest of the Power Four conferences and the schedule, with Tennessee at home early in the season, gives them a chance to be in that discussion as the first CFP rankings come out. *(p. 91)*
-- The wide receiver room is certainly a question mark entering the year, with the departure of Zachariah Branch and TE Oscar Delp, but Georgia Tech transfer WR Isiah Canion has the potential to be a breakout star. *(p. 15)*
-- Road trips to Cincinnati, SMU, Georgia Tech, Duke, Notre Dame, and Miami all look like clear losses, which accounts for half of their scheduled games. *(p. 80)*
-- Here’s the thing - even in a 10-win season two years ago, Miami lost to Georgia Tech and Syracuse in big favorite roles. *(p. 95)*
-- Cristobal lost to Georgia Tech as a 20-point favorite in 2023. *(p. 95)*
-- With arguably the softest conference schedule, one missing Miami, Clemson, Pitt, SMU, and Georgia Tech, perhaps this could be the season in which the bar gets raised. *(p. 96)*
-- The likely answer to this question is Georgia Tech transfer Aaron Philo. *(p. 291)*
+- Three straight losses to end the season pushed Georgia Tech's last ten-win season further into the past, though the guide says Brent Key came very close in his fourth full year. *(p. 90)*
+- The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
+- The guide notes Georgia Tech can reasonably believe in playoff contention, since the ACC is the weakest Power Four conference and a home game with Tennessee early gives it a chance to be in the conversation when the first rankings appear. But it redefines the question: what it means is whether this is the year Georgia Tech beats Georgia, which it calls a monumental achievement regardless of how the ACC or playoff shake out. The Yellow Jackets last won in 2016 but have come close, losing in eight overtimes two seasons ago and 16-9 in a rock fight last year. They have covered every Georgia game under Key, though this one is back on the road. *(p. 91)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 91)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 91)*. Its analysis, in reference form:
 
 ### How coordinated will Georgia Tech be to start the season?
 
-There are a lot of new faces. Only one player with at least six receptions is back among the WR and TE rooms. Justice Haynes transferred in from Michigan and looks to be the starter at RB in front of Malachi Hosley, who is easily the most productive skill player back for the Yellow Jackets, even though King led the team in rushing yards and rushing touchdowns. Three starting offensive lineman and the OL coach are also gone. OC Buster Faulkner took the same role at Florida and DC Blake Gideon went back to Texas. So, to summarize - new QB, new feature back, all new WR, two new, albeit very productive, transfer TEs, and new coordinators on both sides of the ball. Key has done a magnificent job and turnover is nothing new, but this is a lot.
+The guide inventories the turnover: only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone; coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. Its summary is deliberately cumulative — new quarterback, new feature back, an entirely new receiver room, two new but productive transfer tight ends, and new coordinators on both sides — and while it credits Key and notes turnover is nothing new, it calls this a lot. *(p. 91)*
 
 ### Did Key make the right hires?
 
-There are silver linings on both sides of the ball, though. New DC Jason Semore has spent the last three seasons with Charles Huff, first at Marshall and then at Southern Miss. The Golden Eagles had 29 takeaways last season, which was the fourth-most in FBS, and 23 of those were interceptions, which led the nation. New OC George Godsey, who played QB for Georgia Tech from 1998-2001, heads back to his alma mater after four seasons as the Ravens’ TE coach. Given that a couple of Tech’s best portal pulls were tight ends, Godsey might be an excellent fit. From a schematic standpoint, I’d look more of a ball-control offense from the Yellow Jackets. GT was 97th in average time of possession last season. Expect a jump there.
+The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
 
 ### Is this the year?
 
-Georgia Tech should enter the season believing that they can be in contention for the College Football Playoff, since the ACC is the weakest of the Power Four conferences and the schedule, with Tennessee at home early in the season, gives them a chance to be in that discussion as the first CFP rankings come out. But, what I’m talking about is whether or not this is the year that Georgia Tech beats Georgia. Regardless of how the ACC and the CFP shake out, that would be a monumental achievement for Key and the program. The Bees last won in 2016, but they’ve come very close, losing in eight overtimes two seasons ago and losing 16-9 in a total rock fight last season. They’ve covered every Georgia game under Key, but this one is back on the road.
+The guide notes Georgia Tech can reasonably believe in playoff contention, since the ACC is the weakest Power Four conference and a home game with Tennessee early gives it a chance to be in the conversation when the first rankings appear. But it redefines the question: what it means is whether this is the year Georgia Tech beats Georgia, which it calls a monumental achievement regardless of how the ACC or playoff shake out. The Yellow Jackets last won in 2016 but have come close, losing in eight overtimes two seasons ago and 16-9 in a rock fight last year. They have covered every Georgia game under Key, though this one is back on the road. *(p. 91)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -354,6 +324,8 @@ No source conflict identified for this team.
 | 15, 19, 20, 41, 69, 80, 81, 95, 96, 207, 291, 308, 325 | Other pages naming this team |
 
 This team is named in **24 sentences across 15 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 15, 19, 20, 41, 69, 80, 81, 95, 96, 207, 291, 308, 325.
 
 ## 29. Cross-Links
 

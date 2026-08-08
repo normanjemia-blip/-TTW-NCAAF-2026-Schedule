@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 10.1–1.9 overall, 7.9–1.1 in conference |
 | **Schedule strength** | 42.83 (#61 toughest of 138) |
 
-### Season outlook as written in the guide (p. 94)
+### Season outlook — VSiN's analysis in reference form (p. 94)
 
-Clemson finally has some company. No, Miami didn’t finish the job and become the second champion from the ACC in the College Football Playoff era, but at least they were able to make a run. The Tigers have played 11 CFP games. The other ACC teams were Florida State in 2014 and SMU in 2024 prior to the Hurricanes’ run last season. In other words, it took a decade for an ACC team other than Clemson to play more than one CFP game. Ultimately, winning the last game of the season is what matters, but the Hurricanes did make some conference history and much-maligned head coach Mario Cristobal exterminated some demons, which was good to see given that those demons were once again present in the regular season with two losses as a double-digit favorite. With some raised expectations as the odds-on conference favorite, we’ll see if he can avoid those bumps in the road. Under 10.5 Road games at Clemson and Notre Dame absolutely stand out here because of Cristobal’s penchant for losing a game that he shouldn’t as a big favorite. If the ‘Canes drop one of those two, then they have to run the table otherwise for this bet to go through because season win total wagers don’t include conference title games or the playoff. Miami should be in both, but that doesn’t mean Over 10.5 is the way to go here, though this looks like an excellent team on paper. My projection is for 10.62 wins.
+- The guide places Miami's run in ACC context: Clemson has played 11 playoff games, while the only other ACC entrants were Florida State in 2014 and SMU in 2024 — so it took a decade for a non-Clemson ACC team to play more than one playoff game. *(p. 94)*
+- Miami did not win the title but made conference history, and the guide says much-maligned Mario Cristobal exterminated some demons — while noting those demons were present in the regular season with two losses as a double-digit favorite. *(p. 94)*
+- Miami now enters as the odds-on conference favorite with raised expectations, and the open question is whether Cristobal avoids those bumps. *(p. 94)*
+- Recommendation is Under 10.5 wins. Road games at Clemson and Notre Dame stand out precisely because of Cristobal's habit of losing as a big favorite. *(p. 94)*
+- A mechanical point about the market is made: season win total wagers exclude conference title games and the playoff, so dropping either of those road games would require running the table otherwise. *(p. 94)*
+- The guide expects Miami in both the title game and playoff and calls this an excellent team on paper, while still not recommending the Over. Its projection is 10.62 wins. *(p. 94)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,18 +85,10 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Ultimately, winning the last game of the season is what matters, but the Hurricanes did make some conference history and much-maligned head coach Mario Cristobal exterminated some demons, which was good to see given that those demons were once again present in the regular season with two losses as a double-digit favorite. *(p. 94)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- He’s been extremely well-coached throughout his career and enters a great situation here with Mark Fletcher & Co. all back at RB and 1,200- yard WR Malachi Toney back to lead a rebuilt group that includes Mensah’s Duke teammate Cooper Barkate, who had 1,100 yards himself. *(p. 95)*
-- Corey Hetherman, another stellar coordinator, got a ton of production out of last season’s defense. *(p. 95)*
+- Miami did not win the title but made conference history, and the guide says much-maligned Mario Cristobal exterminated some demons — while noting those demons were present in the regular season with two losses as a double-digit favorite. *(p. 94)*
+- **But, how much will the defense drop off?** Coordinator Corey Hetherman got a great deal from last year's defense, but most of that production is gone. Leading tackler Mohamed Toure returns, yet replacing 22 combined sacks from Akheem Mesidor and Rueben Bain will not be easy, Jakobe Thomas — second in tackles and first in interceptions — was drafted by the Vikings, and Keionte Scott went in the fourth round to the Buccaneers. The guide leans on the programme's recruiting pipeline, especially defensively, and makes a comparative judgement: offensive losses would concern it far more than defensive ones given Miami's reputation. Hetherman must still find new go-to players quickly. *(p. 95)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Miami has never won the ACC and coach Mario Cristobal’s team is the odds-on favorite (-135). 8. *(p. 18)*
-- Rhett Lashlee has been a bet-on coach in ACC play — the Mustangs upset Miami as 10-point underdogs last year — with a 38-16 record in four years in Dallas. 26. *(p. 19)*
-- One of the more stable teams prepping for 2026 across the country is head coach Mike Elko’s Texas A&M squad, a team that reached the CFP last year but was stymied by Miami at home. *(p. 23)*
-- Turner has a bit of a checkered past dating back to being fired as the Miami Dolphins OL coach for a pattern of harassment and bullying. *(p. 177)*
-- It’s possible, but it is interesting to note that Hauser was the coDC at Miami of Ohio, so he was one of the few external hires in recent seasons. *(p. 235)*
+Also referenced on **pp. 18, 19, 23, 177, 235** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -99,14 +98,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 94)*.
 
-- He ultimately threw for over 3,800 yards and completed over 70% of his passes, but you have to wonder if Shannon Dawson’s offense has another gear with an objectively more talented QB. *(p. 95)*
+- **Is the Miami offense even better?** Beck posted a 30-to-12 touchdown-to-interception ratio, four of those interceptions in the regular-season loss to Louisville, finishing with over 3,800 yards and above 70% completions. The guide asks whether Shannon Dawson's offense has another gear with an objectively more talented quarterback in Darian Mensah, who had a 34-to-6 ratio at Duke after a strong Tulane season and has been extremely well coached throughout. It rates the situation excellent — Mark Fletcher and the backfield all back, 1,200-yard receiver Malachi Toney leading a rebuilt group that adds Mensah's Duke teammate Cooper Barkate and his own 1,100 yards. Its verdict is that Dawson impressed in the playoff and the offense looks loaded. *(p. 95)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Sophomore quarterback CJ Carr, who debuted in a 27-24 loss at Miami last year, is one of the Heisman Trophy favorites along with Texas quarterback Arch Manning. *(p. 17)*
-- Only 52 teams are returning their starting quarterbacks from last season, and several of the country’s most prominent teams from a year ago are not, most notably title game participants Indiana and Miami (FL). *(p. 46)*
-- Mensah was really good for Duke after transferring in from Tulane and now he’s leveled up again as the expected starting QB for, ironically, Miami. *(p. 87)*
-- A program rich with resources relative to the rest of the conference opted not to pick up an impact transfer at QB, instead putting some faith in Evans, a 6-foot-5 sophomore from the Miami area. *(p. 327)*
+Also referenced on **pp. 17, 46, 87, 327** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -122,50 +116,27 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 ## 11. Transfer Portal
 
+- **Is the Miami offense even better?** Beck posted a 30-to-12 touchdown-to-interception ratio, four of those interceptions in the regular-season loss to Louisville, finishing with over 3,800 yards and above 70% completions. The guide asks whether Shannon Dawson's offense has another gear with an objectively more talented quarterback in Darian Mensah, who had a 34-to-6 ratio at Duke after a strong Tulane season and has been extremely well coached throughout. It rates the situation excellent — Mark Fletcher and the backfield all back, 1,200-yard receiver Malachi Toney leading a rebuilt group that adds Mensah's Duke teammate Cooper Barkate and his own 1,100 yards. Its verdict is that Dawson impressed in the playoff and the offense looks loaded. *(p. 95)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Maybe no team has been better at finding QBs in the portal and maximizing their abilities than the Miami Hurricanes. *(p. 10)*
-- The Wolfpack also added two underutilized Miami WR transfers in JoJo Trader and Chance Robinson. *(p. 10)*
-- JOHN MCKECHNIE MIAMI (FL) TO WIN NATIONAL CHAMPIONSHIP (11-1) Roster continuity is overrated in this era, and the elite teams are able to reload on the fly by being the best at transfer portal management. *(p. 15)*
-- DARIAN MENSAH MIAMI (12-1) Nobody’s raiding the portal quite like Mario Cristobal. *(p. 39)*
-- With the help of offensive guru Shannon Dawson, Miami has landed Cam Ward, Carson Beck, and now Mensah in the portal era. *(p. 39)*
-- Miami transfer Emory Williams and now four-time transfer Mitch Griffis, who was at Texas Tech last season, are the main options. *(p. 55)*
+Referenced in the guide on **pp. 10, 15, 39, 55, 87, 97, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- This is and has always been a strong recruiting pipeline, especially on defense. *(p. 95)*
+- **But, how much will the defense drop off?** Coordinator Corey Hetherman got a great deal from last year's defense, but most of that production is gone. Leading tackler Mohamed Toure returns, yet replacing 22 combined sacks from Akheem Mesidor and Rueben Bain will not be easy, Jakobe Thomas — second in tackles and first in interceptions — was drafted by the Vikings, and Keionte Scott went in the fourth round to the Buccaneers. The guide leans on the programme's recruiting pipeline, especially defensively, and makes a comparative judgement: offensive losses would concern it far more than defensive ones given Miami's reputation. Hetherman must still find new go-to players quickly. *(p. 95)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Poffenbarger, who was originally recruited to Miami (FL) after a strong season at Albany, will attempt to take advantage of a fresh start in Akron. *(p. 217)*
+Referenced in the guide on **pp. 217** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- He ultimately threw for over 3,800 yards and completed over 70% of his passes, but you have to wonder if Shannon Dawson’s offense has another gear with an objectively more talented QB. *(p. 95)*
-- Dawson impressed me a lot in the CFP and this offense looks loaded. *(p. 95)*
-- Truth be told, offensive losses would concern me way more than defensive ones based on the program’s reputation. *(p. 95)*
+- **Is the Miami offense even better?** Beck posted a 30-to-12 touchdown-to-interception ratio, four of those interceptions in the regular-season loss to Louisville, finishing with over 3,800 yards and above 70% completions. The guide asks whether Shannon Dawson's offense has another gear with an objectively more talented quarterback in Darian Mensah, who had a 34-to-6 ratio at Duke after a strong Tulane season and has been extremely well coached throughout. It rates the situation excellent — Mark Fletcher and the backfield all back, 1,200-yard receiver Malachi Toney leading a rebuilt group that adds Mensah's Duke teammate Cooper Barkate and his own 1,100 yards. Its verdict is that Dawson impressed in the playoff and the offense looks loaded. *(p. 95)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- With the help of offensive guru Shannon Dawson, Miami has landed Cam Ward, Carson Beck, and now Mensah in the portal era. *(p. 39)*
-- Malachi Toney was one of the best players in college football last season, Cooper Barkate was Mensah’s top receiver at Duke, and Miami has high hopes for 6-foot-4 sophomore Joshua Moore. *(p. 39)*
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
+Referenced in the guide on **pp. 39, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- Corey Hetherman, another stellar coordinator, got a ton of production out of last season’s defense. *(p. 95)*
-- While leading tackler Mohamed Toure is back, it won’t be easy to replace 22 combined sacks from Akheem Mesidor and Rueben Bain. *(p. 95)*
-- This is and has always been a strong recruiting pipeline, especially on defense. *(p. 95)*
-- Truth be told, offensive losses would concern me way more than defensive ones based on the program’s reputation. *(p. 95)*
+- **But, how much will the defense drop off?** Coordinator Corey Hetherman got a great deal from last year's defense, but most of that production is gone. Leading tackler Mohamed Toure returns, yet replacing 22 combined sacks from Akheem Mesidor and Rueben Bain will not be easy, Jakobe Thomas — second in tackles and first in interceptions — was drafted by the Vikings, and Keionte Scott went in the fourth round to the Buccaneers. The guide leans on the programme's recruiting pipeline, especially defensively, and makes a comparative judgement: offensive losses would concern it far more than defensive ones given Miami's reputation. Hetherman must still find new go-to players quickly. *(p. 95)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Factor in the Miami defense lost some major pieces to the NFL, which could result in more shootouts and gaudy stats for Mensah. *(p. 10)*
-- Then, they gave up five sacks against Indiana and five more against Miami. *(p. 169)*
-- Over 11.5 The pressure of going perfect may ultimately be too much, but Miami feels like the only major stumbling block and they’ve had to do a lot of retooling on defense. *(p. 212)*
-- The Aztecs ranked No. 6 in the nation in scoring defense at 15.4 PPG, in the same neighborhood with heavyweights Ohio State, Indiana, Miami and Texas Tech. *(p. 275)*
+Referenced in the guide on **pp. 10, 169, 212, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -214,13 +185,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+- Recommendation is Under 10.5 wins. Road games at Clemson and Notre Dame stand out precisely because of Cristobal's habit of losing as a big favorite. *(p. 94)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Virginia, at Louisville on a short week, at Miami, vs. *(p. 13)*
-- At his worst, the Nashville product has turned the ball over 21 times in 21 career starts - including a total of five in back-to-back losses to Texas and Miami to end the 2025 season. 13. *(p. 45)*
-- The Falcons play Nebraska, Iowa State, and South Florida in non-conference, so that’ll be a tough stretch, plus conference play starts with perennial contender Miami of Ohio on the road. *(p. 220)*
-- While the Bobcats do avoid reigning champ Western Michigan, they get Miami and Toledo over a three-week stretch, have to go out to Sacramento, and have some non-conference tossups. *(p. 234)*
+Referenced in the guide on **pp. 13, 45, 220, 234** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -261,37 +228,21 @@ Prices printed on the team page *(p. 95)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Ultimately, winning the last game of the season is what matters, but the Hurricanes did make some conference history and much-maligned head coach Mario Cristobal exterminated some demons, which was good to see given that those demons were once again present in the regular season with two losses as a double-digit favorite. *(p. 94)*
-- With some raised expectations as the odds-on conference favorite, we’ll see if he can avoid those bumps in the road. *(p. 94)*
-- Under 10.5 Road games at Clemson and Notre Dame absolutely stand out here because of Cristobal’s penchant for losing a game that he shouldn’t as a big favorite. *(p. 94)*
-- If the ‘Canes drop one of those two, then they have to run the table otherwise for this bet to go through because season win total wagers don’t include conference title games or the playoff. *(p. 94)*
-- Here’s the thing - even in a 10-win season two years ago, Miami lost to Georgia Tech and Syracuse in big favorite roles. *(p. 95)*
-- Cristobal lost to Georgia Tech as a 20-point favorite in 2023. *(p. 95)*
+- Miami did not win the title but made conference history, and the guide says much-maligned Mario Cristobal exterminated some demons — while noting those demons were present in the regular season with two losses as a double-digit favorite. *(p. 94)*
+- Recommendation is Under 10.5 wins. Road games at Clemson and Notre Dame stand out precisely because of Cristobal's habit of losing as a big favorite. *(p. 94)*
+- A mechanical point about the market is made: season win total wagers exclude conference title games and the playoff, so dropping either of those road games would require running the table otherwise. *(p. 94)*
+- The guide expects Miami in both the title game and playoff and calls this an excellent team on paper, while still not recommending the Over. Its projection is 10.62 wins. *(p. 94)*
+- **How do we evaluate last season?** The guide's answer is that a lot went right at once: Carson Beck was excellent, the defense ferocious, both coordinators outstanding, and Miami beat Texas A&M, Ohio State and Ole Miss before losing to Indiana. It then supplies the counter-pattern — even in a ten-win season two years ago Miami lost to Georgia Tech and Syracuse as a big favorite, and Cristobal lost to Georgia Tech as a 20-point favorite in 2023. Its characterization is a month-long perfect storm arriving at the right time, with Miami also somewhat fortunate to backdoor into the playoff as an at-large without playing in the ACC title game. It leaves the question unresolved: which Miami is the real one? *(p. 95)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- “One could throw Texas, Georgia, Ohio State, Oregon, Indiana, Miami and Notre Dame into a hat and pull them out in any order and I’d probably say, ‘OK, I can buy that.’” Notre Dame will be favored in all 12 games and likely a double-digit favorite in 10 of those games. *(p. 17)*
-- Sophomore quarterback CJ Carr, who debuted in a 27-24 loss at Miami last year, is one of the Heisman Trophy favorites along with Texas quarterback Arch Manning. *(p. 17)*
-- Miami has never won the ACC and coach Mario Cristobal’s team is the odds-on favorite (-135). 8. *(p. 18)*
-- Rhett Lashlee has been a bet-on coach in ACC play — the Mustangs upset Miami as 10-point underdogs last year — with a 38-16 record in four years in Dallas. 26. *(p. 19)*
-- Obviously that’s been accounted for in the market number here, but the road schedule is tough, plus Miami and then the two (for better or worse) ACC Championship Game teams in Virginia and Duke at home. *(p. 112)*
-- Miami was an underdog in all seven losses and a favorite in all seven wins. *(p. 232)*
+Also referenced on **pp. 17, 18, 19, 112, 232** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
-- The other ACC teams were Florida State in 2014 and SMU in 2024 prior to the Hurricanes’ run last season. *(p. 94)*
-- Cristobal lost to Georgia Tech as a 20-point favorite in 2023. *(p. 95)*
-- Darian Mensah had a 34/6 TD/INT ratio last season at Duke after a strong season at Tulane. *(p. 95)*
-- Corey Hetherman, another stellar coordinator, got a ton of production out of last season’s defense. *(p. 95)*
+- The guide places Miami's run in ACC context: Clemson has played 11 playoff games, while the only other ACC entrants were Florida State in 2014 and SMU in 2024 — so it took a decade for a non-Clemson ACC team to play more than one playoff game. *(p. 94)*
+- Miami did not win the title but made conference history, and the guide says much-maligned Mario Cristobal exterminated some demons — while noting those demons were present in the regular season with two losses as a double-digit favorite. *(p. 94)*
+- **How do we evaluate last season?** The guide's answer is that a lot went right at once: Carson Beck was excellent, the defense ferocious, both coordinators outstanding, and Miami beat Texas A&M, Ohio State and Ole Miss before losing to Indiana. It then supplies the counter-pattern — even in a ten-win season two years ago Miami lost to Georgia Tech and Syracuse as a big favorite, and Cristobal lost to Georgia Tech as a 20-point favorite in 2023. Its characterization is a month-long perfect storm arriving at the right time, with Miami also somewhat fortunate to backdoor into the playoff as an at-large without playing in the ACC title game. It leaves the question unresolved: which Miami is the real one? *(p. 95)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- While there is some revenge to exact against Miami, the Irish are focused on the bigger picture and will be playing the role of avengers — an angry group seeking to inflict punishment and setting out for retributive justice for the way last year’s team was wronged by the committee and the system. *(p. 17)*
-- Sophomore quarterback CJ Carr, who debuted in a 27-24 loss at Miami last year, is one of the Heisman Trophy favorites along with Texas quarterback Arch Manning. *(p. 17)*
-- MIAMI Cignetti got a few scares last season, and one came from the Hurricanes in a 27-21 national title game. *(p. 18)*
-- His 11-2 record last season was a bit of a downer considering the Aggies lost their final two games to Texas and Miami. *(p. 18)*
-- Rhett Lashlee has been a bet-on coach in ACC play — the Mustangs upset Miami as 10-point underdogs last year — with a 38-16 record in four years in Dallas. 26. *(p. 19)*
-- One of the more stable teams prepping for 2026 across the country is head coach Mike Elko’s Texas A&M squad, a team that reached the CFP last year but was stymied by Miami at home. *(p. 23)*
+Referenced in the guide on **pp. 17, 18, 19, 23, 38, 39, 46, 55, 79, 92, 97, 168, 190, 209, 212, 215, 217** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -336,16 +287,8 @@ As printed on p. 95. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Ultimately, winning the last game of the season is what matters, but the Hurricanes did make some conference history and much-maligned head coach Mario Cristobal exterminated some demons, which was good to see given that those demons were once again present in the regular season with two losses as a double-digit favorite. *(p. 94)*
-- A lot of things have to go right to legitimately contend for a championship and that did happen for Miami, as they saved some of their best football for the CFP. *(p. 95)*
-- He ultimately threw for over 3,800 yards and completed over 70% of his passes, but you have to wonder if Shannon Dawson’s offense has another gear with an objectively more talented QB. *(p. 95)*
-- Darian Mensah had a 34/6 TD/INT ratio last season at Duke after a strong season at Tulane. *(p. 95)*
-- This is and has always been a strong recruiting pipeline, especially on defense. *(p. 95)*
-- JOHN MCKECHNIE MIAMI (FL) TO WIN NATIONAL CHAMPIONSHIP (11-1) Roster continuity is overrated in this era, and the elite teams are able to reload on the fly by being the best at transfer portal management. *(p. 15)*
-- Clemson hosts Miami on Oct. 3 and could contend for the ACC title. 25. *(p. 19)*
-- Malachi Toney was one of the best players in college football last season, Cooper Barkate was Mensah’s top receiver at Duke, and Miami has high hopes for 6-foot-4 sophomore Joshua Moore. *(p. 39)*
-- The only other double-digit win projections go to Ohio State and Georgia. • Assuming the projections play out accurately, besides Texas Tech, Oregon, Indiana, Miami (FL), and Ohio State the other Power Four conference teams that would be expected to contend for a spot in the College Football Playoff this year would be Georgia, Texas, Penn State, BYU, and perhaps SMU or Utah. *(p. 46)*
-- Poffenbarger, who was originally recruited to Miami (FL) after a strong season at Albany, will attempt to take advantage of a fresh start in Akron. *(p. 217)*
+- Beck posted a 30-to-12 touchdown-to-interception ratio, four of those interceptions in the regular-season loss to Louisville, finishing with over 3,800 yards and above 70% completions. The guide asks whether Shannon Dawson's offense has another gear with an objectively more talented quarterback in Darian Mensah, who had a 34-to-6 ratio at Duke after a strong Tulane season and has been extremely well coached throughout. It rates the situation excellent — Mark Fletcher and the backfield all back, 1,200-yard receiver Malachi Toney leading a rebuilt group that adds Mensah's Duke teammate Cooper Barkate and his own 1,100 yards. Its verdict is that Dawson impressed in the playoff and the offense looks loaded. *(p. 95)*
+- Coordinator Corey Hetherman got a great deal from last year's defense, but most of that production is gone. Leading tackler Mohamed Toure returns, yet replacing 22 combined sacks from Akheem Mesidor and Rueben Bain will not be easy, Jakobe Thomas — second in tackles and first in interceptions — was drafted by the Vikings, and Keionte Scott went in the fourth round to the Buccaneers. The guide leans on the programme's recruiting pipeline, especially defensively, and makes a comparative judgement: offensive losses would concern it far more than defensive ones given Miami's reputation. Hetherman must still find new go-to players quickly. *(p. 95)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -353,35 +296,31 @@ As printed on p. 95. Each category carries a value and a national rank.
 
 - Makinen projects **10.1 wins** against a posted total of 10.5 — **-0.4** against this team.
 - The team page recommends **UNDER 10.5**.
-- Ultimately, winning the last game of the season is what matters, but the Hurricanes did make some conference history and much-maligned head coach Mario Cristobal exterminated some demons, which was good to see given that those demons were once again present in the regular season with two losses as a double-digit favorite. *(p. 94)*
-- Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. *(p. 95)*
-- Here’s the thing - even in a 10-win season two years ago, Miami lost to Georgia Tech and Syracuse in big favorite roles. *(p. 95)*
-- Cristobal lost to Georgia Tech as a 20-point favorite in 2023. *(p. 95)*
-- Beck posted a 30/12 TD/INT ratio, with four of those interceptions coming in the regular-season loss to Louisville. *(p. 95)*
-- Truth be told, offensive losses would concern me way more than defensive ones based on the program’s reputation. *(p. 95)*
-- Factor in the Miami defense lost some major pieces to the NFL, which could result in more shootouts and gaudy stats for Mensah. *(p. 10)*
-- The ACC being this down means that Miami is almost a shoo-in to make the dance; the question will center on whether they’re battle-tested enough come CFP time. *(p. 15)*
-- Sophomore quarterback CJ Carr, who debuted in a 27-24 loss at Miami last year, is one of the Heisman Trophy favorites along with Texas quarterback Arch Manning. *(p. 17)*
-- His 11-2 record last season was a bit of a downer considering the Aggies lost their final two games to Texas and Miami. *(p. 18)*
+- Miami did not win the title but made conference history, and the guide says much-maligned Mario Cristobal exterminated some demons — while noting those demons were present in the regular season with two losses as a double-digit favorite. *(p. 94)*
+- Miami now enters as the odds-on conference favorite with raised expectations, and the open question is whether Cristobal avoids those bumps. *(p. 94)*
+- The guide's answer is that a lot went right at once: Carson Beck was excellent, the defense ferocious, both coordinators outstanding, and Miami beat Texas A&M, Ohio State and Ole Miss before losing to Indiana. It then supplies the counter-pattern — even in a ten-win season two years ago Miami lost to Georgia Tech and Syracuse as a big favorite, and Cristobal lost to Georgia Tech as a 20-point favorite in 2023. Its characterization is a month-long perfect storm arriving at the right time, with Miami also somewhat fortunate to backdoor into the playoff as an at-large without playing in the ACC title game. It leaves the question unresolved: which Miami is the real one? *(p. 95)*
+- Beck posted a 30-to-12 touchdown-to-interception ratio, four of those interceptions in the regular-season loss to Louisville, finishing with over 3,800 yards and above 70% completions. The guide asks whether Shannon Dawson's offense has another gear with an objectively more talented quarterback in Darian Mensah, who had a 34-to-6 ratio at Duke after a strong Tulane season and has been extremely well coached throughout. It rates the situation excellent — Mark Fletcher and the backfield all back, 1,200-yard receiver Malachi Toney leading a rebuilt group that adds Mensah's Duke teammate Cooper Barkate and his own 1,100 yards. Its verdict is that Dawson impressed in the playoff and the offense looks loaded. *(p. 95)*
+- Coordinator Corey Hetherman got a great deal from last year's defense, but most of that production is gone. Leading tackler Mohamed Toure returns, yet replacing 22 combined sacks from Akheem Mesidor and Rueben Bain will not be easy, Jakobe Thomas — second in tackles and first in interceptions — was drafted by the Vikings, and Keionte Scott went in the fourth round to the Buccaneers. The guide leans on the programme's recruiting pipeline, especially defensively, and makes a comparative judgement: offensive losses would concern it far more than defensive ones given Miami's reputation. Hetherman must still find new go-to players quickly. *(p. 95)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 95)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 95)*. Its analysis, in reference form:
 
 ### How do we evaluate last season?
 
-A lot of things have to go right to legitimately contend for a championship and that did happen for Miami, as they saved some of their best football for the CFP. Carson Beck was excellent, the defense was ferocious, both coordinators were outstanding, and the Hurricanes beat Texas A&M, Ohio State, and Ole Miss before falling to Indiana. Here’s the thing - even in a 10-win season two years ago, Miami lost to Georgia Tech and Syracuse in big favorite roles. Cristobal lost to Georgia Tech as a 20-point favorite in 2023. A month-long perfect storm came at the right time, but Miami also got a little bit fortunate to backdoor into the CFP as an at-large after not even playing in the ACC Title Game. Which Miami was the real one?
+The guide's answer is that a lot went right at once: Carson Beck was excellent, the defense ferocious, both coordinators outstanding, and Miami beat Texas A&M, Ohio State and Ole Miss before losing to Indiana. It then supplies the counter-pattern — even in a ten-win season two years ago Miami lost to Georgia Tech and Syracuse as a big favorite, and Cristobal lost to Georgia Tech as a 20-point favorite in 2023. Its characterization is a month-long perfect storm arriving at the right time, with Miami also somewhat fortunate to backdoor into the playoff as an at-large without playing in the ACC title game. It leaves the question unresolved: which Miami is the real one? *(p. 95)*
 
 ### Is the Miami offense even better?
 
-Beck posted a 30/12 TD/INT ratio, with four of those interceptions coming in the regular-season loss to Louisville. He ultimately threw for over 3,800 yards and completed over 70% of his passes, but you have to wonder if Shannon Dawson’s offense has another gear with an objectively more talented QB. Darian Mensah had a 34/6 TD/INT ratio last season at Duke after a strong season at Tulane. He’s been extremely well-coached throughout his career and enters a great situation here with Mark Fletcher & Co. all back at RB and 1,200- yard WR Malachi Toney back to lead a rebuilt group that includes Mensah’s Duke teammate Cooper Barkate, who had 1,100 yards himself. Dawson impressed me a lot in the CFP and this offense looks loaded.
+Beck posted a 30-to-12 touchdown-to-interception ratio, four of those interceptions in the regular-season loss to Louisville, finishing with over 3,800 yards and above 70% completions. The guide asks whether Shannon Dawson's offense has another gear with an objectively more talented quarterback in Darian Mensah, who had a 34-to-6 ratio at Duke after a strong Tulane season and has been extremely well coached throughout. It rates the situation excellent — Mark Fletcher and the backfield all back, 1,200-yard receiver Malachi Toney leading a rebuilt group that adds Mensah's Duke teammate Cooper Barkate and his own 1,100 yards. Its verdict is that Dawson impressed in the playoff and the offense looks loaded. *(p. 95)*
 
 ### But, how much will the defense drop off?
 
-Corey Hetherman, another stellar coordinator, got a ton of production out of last season’s defense. Unfortunately, most of that production is gone. While leading tackler Mohamed Toure is back, it won’t be easy to replace 22 combined sacks from Akheem Mesidor and Rueben Bain. Jakobe Thomas was second in tackles and first in interceptions and he was drafted by the Vikings, while Keionte Scott was taken in the fourth round by the Bucs. This is and has always been a strong recruiting pipeline, especially on defense. Truth be told, offensive losses would concern me way more than defensive ones based on the program’s reputation. But, Hetherman will need to find new go-to guys pretty quickly.
+Coordinator Corey Hetherman got a great deal from last year's defense, but most of that production is gone. Leading tackler Mohamed Toure returns, yet replacing 22 combined sacks from Akheem Mesidor and Rueben Bain will not be easy, Jakobe Thomas — second in tackles and first in interceptions — was drafted by the Vikings, and Keionte Scott went in the fourth round to the Buccaneers. The guide leans on the programme's recruiting pipeline, especially defensively, and makes a comparative judgement: offensive losses would concern it far more than defensive ones given Miami's reputation. Hetherman must still find new go-to players quickly. *(p. 95)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -399,6 +338,8 @@ No source conflict identified for this team.
 | 6, 10, 13, 15, 17, 18, 19, 20, 23, 36, 38, 39, 45, 46, 55, 65, 80, 86, 87, 88, 89, 92, 96, 97, 98, 102, 108, 110, 111, 112, 168, 169, 177, 190, 202, 209, 212, 215, 217, 220, 232, 233, 234, 235, 238, 275, 304, 327 | Other pages naming this team |
 
 This team is named in **85 sentences across 51 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 10, 13, 15, 17, 18, 19, 20, 23, 36, 38, 39, 45, 46, 55, 65, 80, 86, 87, 88, 89, 92, 96, 97, 98, 102, 108, 110, 111, 112, 168, 169, 177, 190, 202, 209, 212, 215, 217, 220, 232, 233, 234, 235, 238, 275, 304, 327.
 
 ## 29. Cross-Links
 

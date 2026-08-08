@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 8.2–3.8 overall, 6.3–2.7 in conference |
 | **Schedule strength** | 45.67 (#40 toughest of 138) |
 
-### Season outlook as written in the guide (p. 92)
+### Season outlook — VSiN's analysis in reference form (p. 92)
 
-Getting to the next level is what Jeff Brohm needs to do at Louisville. Since coming back in 2023, the Cardinals have won 10, 9, and 9 games, but have only made the ACC Title Game one time and have played in the Holiday, Sun, and Boca Raton Bowls. For all of the wins and the strong players that have gone through the program, Brohm has lost as a touchdown or better favorite at least twice in each of the last three seasons. To be fair, one of the 2024 losses in that role was to SMU, who wound up being a surprise CFP team. The others? Pitt, Kentucky, Stanford, Virginia, and Cal. Those devastating losses illustrate the slim wiggle room for Louisville because Brohm has also led upset wins over Miami, Clemson, and Notre Dame in the last three seasons, with last year’s win over the runner-up Hurricanes in Coral Gables when they were No. 2 in the nation. It is remarkable how consistent Brohm has been in three seasons, not just with the overall record, but also with the path taken to get there. Over 8.5 The conference schedule does not have Miami or Clemson and the games against SMU and Pitt are at home. The season opener against Mississippi in Nashville will be a good litmus test for both teams, especially since the Rebels bid a not-so-fond farewell to Lane Kiffin prior to last year’s CFP. Brohm always finds ways to make the passing game work and this might be his first 200-yards-per-game rushing attack. If Brohm can cut two of his trademark losses down to one, I think this gets home at a nice plus-money price, even though my projection is 8.02 wins.
+- Jeff Brohm has won 10, 9 and 9 games since returning in 2023 but reached the ACC title game only once, playing in the Holiday, Sun and Boca Raton Bowls. The guide frames the task as getting to the next level. *(p. 92)*
+- It identifies a specific recurring flaw: Brohm has lost as a touchdown-or-better favorite at least twice in each of the last three seasons — to Pitt, Kentucky, Stanford, Virginia and Cal, and fairly notes one 2024 loss was to SMU, who became a surprise playoff team. *(p. 92)*
+- The same volatility runs the other way: Brohm has produced upset wins over Miami, Clemson and Notre Dame in three seasons, including last year at Coral Gables against a Miami side ranked No. 2. The guide calls the consistency remarkable, not only in record but in the path taken to it. *(p. 92)*
+- Recommendation is Over 8.5 wins. The conference schedule misses Miami and Clemson, and the games against SMU and Pitt are at home. *(p. 92)*
+- The opener against Ole Miss in Nashville is called a good litmus test for both, noting the Rebels' unfriendly parting with Lane Kiffin before last year's playoff. *(p. 92)*
+- Its case is that Brohm always makes the passing game work and this could be his first 200-yards-per-game rushing attack. The conditional is precise — cutting the trademark losses from two to one gets this home at a nice plus-money price, even though its own projection is 8.02 wins. *(p. 92)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +85,11 @@ Not addressed in guide.
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Brohm kept things internal and promoted LB coach Mark Ivey, who was a holdover from Scott Satterfield’s staff, and DB coach Steve Ellis. *(p. 93)*
+- Jeff Brohm has won 10, 9 and 9 games since returning in 2023 but reached the ACC title game only once, playing in the Holiday, Sun and Boca Raton Bowls. The guide frames the task as getting to the next level. *(p. 92)*
+- It identifies a specific recurring flaw: Brohm has lost as a touchdown-or-better favorite at least twice in each of the last three seasons — to Pitt, Kentucky, Stanford, Virginia and Cal, and fairly notes one 2024 loss was to SMU, who became a surprise playoff team. *(p. 92)*
+- **Does the defensive dominance continue?** The guide argues Brohm's habit of losing games he should not has obscured a stellar defense. Co-coordinators Ron English and Mark Hagen are gone, English stepping away for his son's senior season at Navy, and Brohm promoted internally — linebackers coach Mark Ivey, a Scott Satterfield holdover, and defensive backs coach Steve Ellis. Louisville allowed just over 21 points per game in two of three seasons and just over 24 in the other, has never allowed more than 3.7 yards per carry under Brohm, and gave up 4.7 yards per play last year, 15th nationally. With only one of the top six tacklers back it may struggle to hold that bar, though the guide notes the programme has responded strongly to major losses before. *(p. 93)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Kienholz is a unique athlete, and that is something that could be unlocked by Louisville head coach Jeff Brohm. *(p. 15)*
-- Jeff Brohm, who coached Purdue to the Big Ten title game in 2022 and has a 28-12 record at Louisville, is an overachiever. *(p. 19)*
-- The new hire is a Louisville guy, as Will Stein played quarterback there for five years and started his coaching career there some 13 years ago. *(p. 25)*
+Also referenced on **pp. 15, 19, 25** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -92,17 +97,10 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 92)*.
 
-- Brohm always finds ways to make the passing game work and this might be his first 200-yards-per-game rushing attack. *(p. 92)*
-- The multi-sport star athlete out of South Dakota only threw 36 passes over three seasons in Columbus. *(p. 93)*
-- The talent should be there, and Brohm does have a more experienced option in two- year West Georgia starter Davin Wydner, but getting the QB position right would be a huge start for the Cardinals. *(p. 93)*
+- **Is Kienholz the missing "Linc"?** Miller Moss was not the answer, posting pedestrian numbers after taking over from Tyler Shough — under 3,000 yards with 16 touchdown passes — though the guide notes both he and Shough at least arrived with substantial college experience. Brohm went to the portal again for Ohio State's Lincoln Kienholz, a multi-sport star from South Dakota who threw only 36 passes in three seasons at Columbus. It judges the talent should be there, notes a more experienced alternative in two-year West Georgia starter Davin Wydner, and calls getting the position right a huge start. *(p. 93)*
+- **What can Brown do for Louisville?** Isaac and Keyjuan Brown, unrelated, combined for just under 1,600 rushing yards and 13 touchdowns. Isaac did not match his 1,173-yard freshman season but missed several games, and with 8.8 yards per carry the guide wonders what better health would have produced; Keyjuan averaged over seven. It ties this to a bigger problem: Chris Bell and Caullin Lacy accounted for 132 of the team's 268 receptions and over 54% of its receiving yards and are both gone, making Kienholz's running plus the two Browns the keys to offsetting an entirely new receiver corps. *(p. 93)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SMU TO REACH ACC CHAMPIONSHIP GAME (+200) If veteran QB Kevin Jennings can lead his team to at least one win during SMU’s first two conference games of the season (at Florida State and at Louisville), the Mustangs will be set up nicely for the remainder of ACC play. *(p. 6)*
-- Back in 2016, Louisville QB Lamar Jackson entered the season 100-1 to win the Heisman. *(p. 15)*
-- LOUISVILLE A year after losing the quarterback competition at Ohio State, Lincoln Kienholz will probably help the Cardinals win a lot of games in the ACC. *(p. 19)*
-- The new hire is a Louisville guy, as Will Stein played quarterback there for five years and started his coaching career there some 13 years ago. *(p. 25)*
-- Stein, the mastermind of the Oregon offense the last three seasons, is a Louisville native and played QB there from 2008-12. *(p. 36)*
+Also referenced on **pp. 6, 15, 19, 25, 36** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -118,31 +116,25 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
-- Miller Moss turned out not to be the answer, as the USC transfer took over for Tyler Shough and put up some pretty pedestrian numbers last season, falling short of 3,000 yards with just 16 TD passes. *(p. 93)*
-- This time, Brohm has gone the portal route again, but with Ohio State’s Lincoln Kienholz. *(p. 93)*
+- **Is Kienholz the missing "Linc"?** Miller Moss was not the answer, posting pedestrian numbers after taking over from Tyler Shough — under 3,000 yards with 16 touchdown passes — though the guide notes both he and Shough at least arrived with substantial college experience. Brohm went to the portal again for Ohio State's Lincoln Kienholz, a multi-sport star from South Dakota who threw only 36 passes in three seasons at Columbus. It judges the talent should be there, notes a more experienced alternative in two-year West Georgia starter Davin Wydner, and calls getting the position right a huge start. *(p. 93)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- After spending three seasons at Ohio State, Kienholz transferred to Louisville this offseason. *(p. 15)*
+Referenced in the guide on **pp. 15** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Isaac couldn’t live up to his freshman season with 1,173 rushing yards, but he also missed a handful of games. *(p. 93)*
+
+Referenced in the guide on **pp. 93** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- Brohm always finds ways to make the passing game work and this might be his first 200-yards-per-game rushing attack. *(p. 92)*
-- Isaac couldn’t live up to his freshman season with 1,173 rushing yards, but he also missed a handful of games. *(p. 93)*
-- Given that Chris Bell and Caullin Lacy, who had 132 of the team’s 268 receptions and over 54% of the team’s receiving yards, are both gone, Kienholz as a runner and the two Browns are the keys to offsetting a brand-new WR corps. *(p. 93)*
+- Its case is that Brohm always makes the passing game work and this could be his first 200-yards-per-game rushing attack. The conditional is precise — cutting the trademark losses from two to one gets this home at a nice plus-money price, even though its own projection is 8.02 wins. *(p. 92)*
+- **What can Brown do for Louisville?** Isaac and Keyjuan Brown, unrelated, combined for just under 1,600 rushing yards and 13 touchdowns. Isaac did not match his 1,173-yard freshman season but missed several games, and with 8.8 yards per carry the guide wonders what better health would have produced; Keyjuan averaged over seven. It ties this to a bigger problem: Chris Bell and Caullin Lacy accounted for 132 of the team's 268 receptions and over 54% of its receiving yards and are both gone, making Kienholz's running plus the two Browns the keys to offsetting an entirely new receiver corps. *(p. 93)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Stein, the mastermind of the Oregon offense the last three seasons, is a Louisville native and played QB there from 2008-12. *(p. 36)*
+Referenced in the guide on **pp. 36** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Lost in the fact that Brohm always loses a game or two that he shouldn’t is that the Cardinals have had a stellar defense on his watch. *(p. 93)*
-- With only one of the top six tacklers back, it could be a struggle to keep the bar that high, but they’ve come out strong from major losses in Brohm’s other seasons. *(p. 93)*
+- **Does the defensive dominance continue?** The guide argues Brohm's habit of losing games he should not has obscured a stellar defense. Co-coordinators Ron English and Mark Hagen are gone, English stepping away for his son's senior season at Navy, and Brohm promoted internally — linebackers coach Mark Ivey, a Scott Satterfield holdover, and defensive backs coach Steve Ellis. Louisville allowed just over 21 points per game in two of three seasons and just over 24 in the other, has never allowed more than 3.7 yards per carry under Brohm, and gave up 4.7 yards per play last year, 15th nationally. With only one of the top six tacklers back it may struggle to hold that bar, though the guide notes the programme has responded strongly to major losses before. *(p. 93)*
 
 ## 15. Key Strengths
 
@@ -184,9 +176,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Virginia, at Louisville on a short week, at Miami, vs. *(p. 13)*
+Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -214,21 +204,18 @@ Prices printed on the team page *(p. 93)*:
 
 ## 21. Betting Notes / Best Bets
 
-- For all of the wins and the strong players that have gone through the program, Brohm has lost as a touchdown or better favorite at least twice in each of the last three seasons. *(p. 92)*
-- If Brohm can cut two of his trademark losses down to one, I think this gets home at a nice plus-money price, even though my projection is 8.02 wins. *(p. 92)*
+- It identifies a specific recurring flaw: Brohm has lost as a touchdown-or-better favorite at least twice in each of the last three seasons — to Pitt, Kentucky, Stanford, Virginia and Cal, and fairly notes one 2024 loss was to SMU, who became a surprise playoff team. *(p. 92)*
+- The same volatility runs the other way: Brohm has produced upset wins over Miami, Clemson and Notre Dame in three seasons, including last year at Coral Gables against a Miami side ranked No. 2. The guide calls the consistency remarkable, not only in record but in the path taken to it. *(p. 92)*
+- Recommendation is Over 8.5 wins. The conference schedule misses Miami and Clemson, and the games against SMU and Pitt are at home. *(p. 92)*
+- Its case is that Brohm always makes the passing game work and this could be his first 200-yards-per-game rushing attack. The conditional is precise — cutting the trademark losses from two to one gets this home at a nice plus-money price, even though its own projection is 8.02 wins. *(p. 92)*
 
 ## 22. Historical / Situational Trends
 
-- Since coming back in 2023, the Cardinals have won 10, 9, and 9 games, but have only made the ACC Title Game one time and have played in the Holiday, Sun, and Boca Raton Bowls. *(p. 92)*
-- Those devastating losses illustrate the slim wiggle room for Louisville because Brohm has also led upset wins over Miami, Clemson, and Notre Dame in the last three seasons, with last year’s win over the runner-up Hurricanes in Coral Gables when they were No. 2 in the nation. *(p. 92)*
-- The season opener against Mississippi in Nashville will be a good litmus test for both teams, especially since the Rebels bid a not-so-fond farewell to Lane Kiffin prior to last year’s CFP. *(p. 92)*
-- Miller Moss turned out not to be the answer, as the USC transfer took over for Tyler Shough and put up some pretty pedestrian numbers last season, falling short of 3,000 yards with just 16 TD passes. *(p. 93)*
-- The Cardinals haven’t allowed more than 3.7 yards per carry under Brohm and even allowed just 4.7 YPP last season, finishing 15th in that department. *(p. 93)*
+- Jeff Brohm has won 10, 9 and 9 games since returning in 2023 but reached the ACC title game only once, playing in the Holiday, Sun and Boca Raton Bowls. The guide frames the task as getting to the next level. *(p. 92)*
+- It identifies a specific recurring flaw: Brohm has lost as a touchdown-or-better favorite at least twice in each of the last three seasons — to Pitt, Kentucky, Stanford, Virginia and Cal, and fairly notes one 2024 loss was to SMU, who became a surprise playoff team. *(p. 92)*
+- The same volatility runs the other way: Brohm has produced upset wins over Miami, Clemson and Notre Dame in three seasons, including last year at Coral Gables against a Miami side ranked No. 2. The guide calls the consistency remarkable, not only in record but in the path taken to it. *(p. 92)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Back in 2016, Louisville QB Lamar Jackson entered the season 100-1 to win the Heisman. *(p. 15)*
-- Jeff Brohm, who coached Purdue to the Big Ten title game in 2022 and has a 28-12 record at Louisville, is an overachiever. *(p. 19)*
+Referenced in the guide on **pp. 15, 19** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -274,44 +261,38 @@ As printed on p. 93. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 8.5**.
-- For all of the wins and the strong players that have gone through the program, Brohm has lost as a touchdown or better favorite at least twice in each of the last three seasons. *(p. 92)*
-- The talent should be there, and Brohm does have a more experienced option in two- year West Georgia starter Davin Wydner, but getting the QB position right would be a huge start for the Cardinals. *(p. 93)*
-- With only one of the top six tacklers back, it could be a struggle to keep the bar that high, but they’ve come out strong from major losses in Brohm’s other seasons. *(p. 93)*
+- Miller Moss was not the answer, posting pedestrian numbers after taking over from Tyler Shough — under 3,000 yards with 16 touchdown passes — though the guide notes both he and Shough at least arrived with substantial college experience. Brohm went to the portal again for Ohio State's Lincoln Kienholz, a multi-sport star from South Dakota who threw only 36 passes in three seasons at Columbus. It judges the talent should be there, notes a more experienced alternative in two-year West Georgia starter Davin Wydner, and calls getting the position right a huge start. *(p. 93)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **8.2 wins** against a posted total of 8.5 — **-0.3** against this team.
-- For all of the wins and the strong players that have gone through the program, Brohm has lost as a touchdown or better favorite at least twice in each of the last three seasons. *(p. 92)*
-- To be fair, one of the 2024 losses in that role was to SMU, who wound up being a surprise CFP team. *(p. 92)*
-- Those devastating losses illustrate the slim wiggle room for Louisville because Brohm has also led upset wins over Miami, Clemson, and Notre Dame in the last three seasons, with last year’s win over the runner-up Hurricanes in Coral Gables when they were No. 2 in the nation. *(p. 92)*
-- If Brohm can cut two of his trademark losses down to one, I think this gets home at a nice plus-money price, even though my projection is 8.02 wins. *(p. 92)*
-- Isaac couldn’t live up to his freshman season with 1,173 rushing yards, but he also missed a handful of games. *(p. 93)*
-- Lost in the fact that Brohm always loses a game or two that he shouldn’t is that the Cardinals have had a stellar defense on his watch. *(p. 93)*
-- With only one of the top six tacklers back, it could be a struggle to keep the bar that high, but they’ve come out strong from major losses in Brohm’s other seasons. *(p. 93)*
-- This team looks weaker, but a soft schedule excludes Miami, Clemson and Louisville. 35. *(p. 20)*
-- His dismissal came after an embarrassing 41-0 seasonending loss to Louisville, as university brass decided it was time to move on. *(p. 25)*
-- With roadies at Alabama, Miami, and Louisville plus home games against SMU, Clemson, and Florida, it’s a tough-looking slate that leaves minimal margin for error. *(p. 88)*
+- It identifies a specific recurring flaw: Brohm has lost as a touchdown-or-better favorite at least twice in each of the last three seasons — to Pitt, Kentucky, Stanford, Virginia and Cal, and fairly notes one 2024 loss was to SMU, who became a surprise playoff team. *(p. 92)*
+- The opener against Ole Miss in Nashville is called a good litmus test for both, noting the Rebels' unfriendly parting with Lane Kiffin before last year's playoff. *(p. 92)*
+- Its case is that Brohm always makes the passing game work and this could be his first 200-yards-per-game rushing attack. The conditional is precise — cutting the trademark losses from two to one gets this home at a nice plus-money price, even though its own projection is 8.02 wins. *(p. 92)*
+- Isaac and Keyjuan Brown, unrelated, combined for just under 1,600 rushing yards and 13 touchdowns. Isaac did not match his 1,173-yard freshman season but missed several games, and with 8.8 yards per carry the guide wonders what better health would have produced; Keyjuan averaged over seven. It ties this to a bigger problem: Chris Bell and Caullin Lacy accounted for 132 of the team's 268 receptions and over 54% of its receiving yards and are both gone, making Kienholz's running plus the two Browns the keys to offsetting an entirely new receiver corps. *(p. 93)*
+- The guide argues Brohm's habit of losing games he should not has obscured a stellar defense. Co-coordinators Ron English and Mark Hagen are gone, English stepping away for his son's senior season at Navy, and Brohm promoted internally — linebackers coach Mark Ivey, a Scott Satterfield holdover, and defensive backs coach Steve Ellis. Louisville allowed just over 21 points per game in two of three seasons and just over 24 in the other, has never allowed more than 3.7 yards per carry under Brohm, and gave up 4.7 yards per play last year, 15th nationally. With only one of the top six tacklers back it may struggle to hold that bar, though the guide notes the programme has responded strongly to major losses before. *(p. 93)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 93)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 93)*. Its analysis, in reference form:
 
-### Is Kienholz the missing “Linc”?
+### Is Kienholz the missing "Linc"?
 
-Miller Moss turned out not to be the answer, as the USC transfer took over for Tyler Shough and put up some pretty pedestrian numbers last season, falling short of 3,000 yards with just 16 TD passes. But, at least Moss had a lot of collegiate experience and so did Shough when he came over from Texas Tech. This time, Brohm has gone the portal route again, but with Ohio State’s Lincoln Kienholz. The multi-sport star athlete out of South Dakota only threw 36 passes over three seasons in Columbus. The talent should be there, and Brohm does have a more experienced option in two- year West Georgia starter Davin Wydner, but getting the QB position right would be a huge start for the Cardinals.
+Miller Moss was not the answer, posting pedestrian numbers after taking over from Tyler Shough — under 3,000 yards with 16 touchdown passes — though the guide notes both he and Shough at least arrived with substantial college experience. Brohm went to the portal again for Ohio State's Lincoln Kienholz, a multi-sport star from South Dakota who threw only 36 passes in three seasons at Columbus. It judges the talent should be there, notes a more experienced alternative in two-year West Georgia starter Davin Wydner, and calls getting the position right a huge start. *(p. 93)*
 
 ### What can Brown do for Louisville?
 
-That’s actually the law offices of Brown & Brown, as Isaac and Keyjuan (no relation) racked up just shy of 1,600 yards on the ground and 13 touchdowns. Isaac couldn’t live up to his freshman season with 1,173 rushing yards, but he also missed a handful of games. Given that he had 8.8 yards per carry, who knows what he would have done with better health fortunes. Keyjuan had over seven yards per carry. Given that Chris Bell and Caullin Lacy, who had 132 of the team’s 268 receptions and over 54% of the team’s receiving yards, are both gone, Kienholz as a runner and the two Browns are the keys to offsetting a brand-new WR corps.
+Isaac and Keyjuan Brown, unrelated, combined for just under 1,600 rushing yards and 13 touchdowns. Isaac did not match his 1,173-yard freshman season but missed several games, and with 8.8 yards per carry the guide wonders what better health would have produced; Keyjuan averaged over seven. It ties this to a bigger problem: Chris Bell and Caullin Lacy accounted for 132 of the team's 268 receptions and over 54% of its receiving yards and are both gone, making Kienholz's running plus the two Browns the keys to offsetting an entirely new receiver corps. *(p. 93)*
 
 ### Does the defensive dominance continue?
 
-Lost in the fact that Brohm always loses a game or two that he shouldn’t is that the Cardinals have had a stellar defense on his watch. Co-DCs Ron English and Mark Hagen are gone, with English stepping away for his son’s senior season at Navy. Brohm kept things internal and promoted LB coach Mark Ivey, who was a holdover from Scott Satterfield’s staff, and DB coach Steve Ellis. Louisville has allowed slightly over 21 PPG in two of Brohm’s three seasons and slightly over 24 PPG in the other. The Cardinals haven’t allowed more than 3.7 yards per carry under Brohm and even allowed just 4.7 YPP last season, finishing 15th in that department. With only one of the top six tacklers back, it could be a struggle to keep the bar that high, but they’ve come out strong from major losses in Brohm’s other seasons.
+The guide argues Brohm's habit of losing games he should not has obscured a stellar defense. Co-coordinators Ron English and Mark Hagen are gone, English stepping away for his son's senior season at Navy, and Brohm promoted internally — linebackers coach Mark Ivey, a Scott Satterfield holdover, and defensive backs coach Steve Ellis. Louisville allowed just over 21 points per game in two of three seasons and just over 24 in the other, has never allowed more than 3.7 yards per carry under Brohm, and gave up 4.7 yards per play last year, 15th nationally. With only one of the top six tacklers back it may struggle to hold that bar, though the guide notes the programme has responded strongly to major losses before. *(p. 93)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -329,6 +310,8 @@ No source conflict identified for this team.
 | 6, 9, 11, 13, 15, 19, 20, 25, 36, 88, 90, 95, 96, 98, 102, 104, 106, 304 | Other pages naming this team |
 
 This team is named in **33 sentences across 21 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 9, 11, 13, 15, 19, 20, 25, 36, 88, 90, 95, 96, 98, 102, 104, 106, 304.
 
 ## 29. Cross-Links
 

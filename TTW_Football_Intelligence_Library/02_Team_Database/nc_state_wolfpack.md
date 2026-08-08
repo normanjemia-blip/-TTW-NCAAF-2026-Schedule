@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 7.2–4.8 overall, 4.9–4.1 in conference |
 | **Schedule strength** | 42.44 (#63 toughest of 138) |
 
-### Season outlook as written in the guide (p. 96)
+### Season outlook — VSiN's analysis in reference form (p. 96)
 
-In a college football world where the longtime head coaches are riding off into the sunset or can’t seem to keep up with how frantic the offseason is nowadays, Dave Doeren is starting his 14th season at NC State. While the ceiling in Raleigh doesn’t seem to be very high, the floor certainly is, as the Wolfpack have gone bowling in each of the last six seasons (the 2021 Holiday Bowl was canceled) and all but two seasons under Doeren, one of which was his first year with the program. However, the Wolfpack haven’t won more than nine games since 2002 and, even in a lackluster ACC, haven’t really been a College Football Playoff contender. With arguably the softest conference schedule, one missing Miami, Clemson, Pitt, SMU, and Georgia Tech, perhaps this could be the season in which the bar gets raised. There are worse preseason bets than NC State at 22-1 to win the ACC where you can hedge in the title game if they get there and face one of those five teams not on the regular season schedule or have a rematch with Louisville or Virginia, as the regular-season opener against the Cavaliers is not considered a conference game. Over 7.5 The schedule is the primary reason to buy stock in NC State for this season. Avoiding most of the projected top ACC teams is a huge help. The road trip to Stanford is out of a bye week and Cal comes across the country the following week. The non-conference game at Vanderbilt is a tough one, but App State is a winnable non-con game at home. Again, this has been a high-floor program under Doeren and the floor is even higher this season with the friendly schedule, even though my projection is for 7.09 wins.
+- Dave Doeren begins a 14th season, which the guide frames against a landscape where long-tenured coaches are retiring or struggling to keep up with the modern offseason. *(p. 96)*
+- Its read on the programme is floor-not-ceiling: bowls in each of the last six seasons and in all but two under Doeren, one of them his first year, but no more than nine wins since 2002 and no real playoff contention even in a lackluster ACC. *(p. 96)*
+- This year the conference schedule is arguably the softest available, missing Miami, Clemson, Pitt, SMU and Georgia Tech. *(p. 96)*
+- A specific futures construction is offered: NC State at 22-1 to win the ACC is called a worse-than-average bet to avoid, since a title-game appearance would allow hedging against one of those five unplayed teams or a rematch with Louisville or Virginia — the opener against Virginia not counting as a conference game. *(p. 96)*
+- Recommendation is Over 7.5 wins, with the schedule the primary reason to buy in. *(p. 96)*
+- Schedule detail: the trip to Stanford follows a bye and Cal travels across the country the next week; Vanderbilt away is tough while App State at home is winnable. The guide notes this has been a high-floor programme and the floor is higher still this year, even with a projection of 7.09 wins. *(p. 96)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,13 +85,10 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- In a college football world where the longtime head coaches are riding off into the sunset or can’t seem to keep up with how frantic the offseason is nowadays, Dave Doeren is starting his 14th season at NC State. *(p. 96)*
-- So, second-year OC Kurt Roper and second-year DC DJ Eliot have a lot of work to do with a lot of younger players and a ton of transfers. *(p. 97)*
+- Dave Doeren begins a 14th season, which the guide frames against a landscape where long-tenured coaches are retiring or struggling to keep up with the modern offseason. *(p. 96)*
+- **Who are the impact players on defense?** The guide runs the same audit and finds the same answer. Leading tackler Caden Fordham (143 stops, 3.5 sacks, 6.5 tackles for loss) is gone; so is Travali Price, tied with him for second in sacks, and Tra Thomas, who led with four; so are top pass rusher Cian Sloane with 16 quarterback hits and Sabastian Harsh with 13; and so is Devon Marshall with 16 pass breakups. Its conclusion is that second-year coordinators Kurt Roper and DJ Eliot have a lot of work to do with many younger players and a large number of transfers. *(p. 97)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TEXAS Big checks were written to get Arch Manning more offensive help as coach Steve Sarkisian brought in Auburn receiver Cam Coleman and NC State running back Hollywood Smothers. *(p. 18)*
-- Gibson was a DC for a decade at West Virginia and NC State before getting his first crack as a head coach here with the Herd. *(p. 329)*
+Also referenced on **pp. 18, 329** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -94,13 +98,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** yes — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 96)*.
 
-- QB CJ Bailey had 31 total touchdowns and threw for over 3,100 yards last season while adding 215 more on the ground, but he’s without his five top receivers from last season and leading rusher Hollywood Smothers, who had 5.9 yards per carry. *(p. 97)*
-- Backup QB Will Wilson is still around, as he was a short-yardage ball carrier with 10 touchdowns, but he only threw five passes, which means Coastal Carolina transfer Tad Hudson is the backup. *(p. 97)*
-- So is top pass rusher Cian Sloane, who had 16 QB hits, and Sabastian Harsh, who had 13 QB hits. *(p. 97)*
+- **Who are the impact players on offense?** CJ Bailey produced 31 total touchdowns with over 3,100 passing yards and 215 rushing, but has lost his top five receivers and leading rusher Hollywood Smothers, who averaged 5.9 yards per carry. Backup Will Wilson remains as a short-yardage runner with 10 touchdowns but only five pass attempts, making Coastal Carolina transfer Tad Hudson the backup. The guide describes the receiving picture as genuinely distributed rather than empty — nobody exceeded 629 yards, but four players had 430 or more and seven had at least 37 catches. Top returnee Keenan Jackson started 13 games for only 28 catches and 281 yards, so it looks to Buffalo transfer Victor Snow, Miami transfer Joshisa Trader and holdover back Jayden Scott to stand out rather than repeat the committee approach. *(p. 97)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NORTH CAROLINA STATE Junior quarterback CJ Bailey had offers if he hit the transfer portal, but the 6-6, 210-pounder stayed with the Wolfpack. *(p. 20)*
+Also referenced on **pp. 20** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -116,15 +116,10 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
-- Backup QB Will Wilson is still around, as he was a short-yardage ball carrier with 10 touchdowns, but he only threw five passes, which means Coastal Carolina transfer Tad Hudson is the backup. *(p. 97)*
-- Maybe Buffalo transfer Victor Snow and Miami transfer Joshisa Trader, along with holdover RB Jayden Scott, can stand out instead of last season’s by-committee approach. *(p. 97)*
-- So, second-year OC Kurt Roper and second-year DC DJ Eliot have a lot of work to do with a lot of younger players and a ton of transfers. *(p. 97)*
+- **Who are the impact players on offense?** CJ Bailey produced 31 total touchdowns with over 3,100 passing yards and 215 rushing, but has lost his top five receivers and leading rusher Hollywood Smothers, who averaged 5.9 yards per carry. Backup Will Wilson remains as a short-yardage runner with 10 touchdowns but only five pass attempts, making Coastal Carolina transfer Tad Hudson the backup. The guide describes the receiving picture as genuinely distributed rather than empty — nobody exceeded 629 yards, but four players had 430 or more and seven had at least 37 catches. Top returnee Keenan Jackson started 13 games for only 28 catches and 281 yards, so it looks to Buffalo transfer Victor Snow, Miami transfer Joshisa Trader and holdover back Jayden Scott to stand out rather than repeat the committee approach. *(p. 97)*
+- **Who are the impact players on defense?** The guide runs the same audit and finds the same answer. Leading tackler Caden Fordham (143 stops, 3.5 sacks, 6.5 tackles for loss) is gone; so is Travali Price, tied with him for second in sacks, and Tra Thomas, who led with four; so are top pass rusher Cian Sloane with 16 quarterback hits and Sabastian Harsh with 13; and so is Devon Marshall with 16 pass breakups. Its conclusion is that second-year coordinators Kurt Roper and DJ Eliot have a lot of work to do with many younger players and a large number of transfers. *(p. 97)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NORTH CAROLINA STATE Junior quarterback CJ Bailey had offers if he hit the transfer portal, but the 6-6, 210-pounder stayed with the Wolfpack. *(p. 20)*
-- Fitzgerald will turn to NC State transfer Kenny Soares, who was with him at Northwestern, to spark a pass rush. *(p. 161)*
-- NC State transfer Terrell Anderson had 628 yards last year on 16.1 yards per reception. *(p. 181)*
+Referenced in the guide on **pp. 20, 161, 181** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -132,28 +127,17 @@ Not addressed in guide.
 
 ## 13. Offensive Identity
 
-- QB CJ Bailey had 31 total touchdowns and threw for over 3,100 yards last season while adding 215 more on the ground, but he’s without his five top receivers from last season and leading rusher Hollywood Smothers, who had 5.9 yards per carry. *(p. 97)*
-- While nobody had more than 629 receiving yards, four players had 430+ receiving yards and seven players had 37+ receptions. *(p. 97)*
-- The obvious follow-up question, but the same concerns with the offense carry over to this side of the ball, too. *(p. 97)*
-- As mentioned, there are a lot of impact players gone on both sides of the ball, but even then, this was a slightly above average offense, a pretty average defense, and a team that lacked explosiveness. *(p. 97)*
-- They were 128th in third-down defense and 51st in third-down offense. *(p. 97)*
+- **Who are the impact players on offense?** CJ Bailey produced 31 total touchdowns with over 3,100 passing yards and 215 rushing, but has lost his top five receivers and leading rusher Hollywood Smothers, who averaged 5.9 yards per carry. Backup Will Wilson remains as a short-yardage runner with 10 touchdowns but only five pass attempts, making Coastal Carolina transfer Tad Hudson the backup. The guide describes the receiving picture as genuinely distributed rather than empty — nobody exceeded 629 yards, but four players had 430 or more and seven had at least 37 catches. Top returnee Keenan Jackson started 13 games for only 28 catches and 281 yards, so it looks to Buffalo transfer Victor Snow, Miami transfer Joshisa Trader and holdover back Jayden Scott to stand out rather than repeat the committee approach. *(p. 97)*
+- **How can Doeren's team raise the ceiling?** Beyond the departures, the guide notes this was a slightly above average offense, a roughly average defense and a team lacking explosiveness. The specifics: 20 sacks, tied for 107th; nine interceptions; 128th in third-down defense against 51st in third-down offense; second in red-zone touchdown percentage, its one standout; and over 200 plays of 10-plus yards allowed. It then widens the sample honestly, observing that only 2021 was statistically special at +11.4 points and +1.2 yards per play — and that team still went only 9-4. *(p. 97)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- TEXAS Big checks were written to get Arch Manning more offensive help as coach Steve Sarkisian brought in Auburn receiver Cam Coleman and NC State running back Hollywood Smothers. *(p. 18)*
+Referenced in the guide on **pp. 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Leading tackler Caden Fordham had 143 stops with 3.5 sacks and 6.5 tackles for loss. *(p. 97)*
-- His 3.5 sacks tied for second with Travali Price, who is also gone, and right behind Tra Thomas with four. *(p. 97)*
-- So is top pass rusher Cian Sloane, who had 16 QB hits, and Sabastian Harsh, who had 13 QB hits. *(p. 97)*
-- As mentioned, there are a lot of impact players gone on both sides of the ball, but even then, this was a slightly above average offense, a pretty average defense, and a team that lacked explosiveness. *(p. 97)*
-- The Wolfpack had 20 sacks, which was tied for 107th, and just nine interceptions. *(p. 97)*
-- They were 128th in third-down defense and 51st in third-down offense. *(p. 97)*
+- **Who are the impact players on defense?** The guide runs the same audit and finds the same answer. Leading tackler Caden Fordham (143 stops, 3.5 sacks, 6.5 tackles for loss) is gone; so is Travali Price, tied with him for second in sacks, and Tra Thomas, who led with four; so are top pass rusher Cian Sloane with 16 quarterback hits and Sabastian Harsh with 13; and so is Devon Marshall with 16 pass breakups. Its conclusion is that second-year coordinators Kurt Roper and DJ Eliot have a lot of work to do with many younger players and a large number of transfers. *(p. 97)*
+- **How can Doeren's team raise the ceiling?** Beyond the departures, the guide notes this was a slightly above average offense, a roughly average defense and a team lacking explosiveness. The specifics: 20 sacks, tied for 107th; nine interceptions; 128th in third-down defense against 51st in third-down offense; second in red-zone touchdown percentage, its one standout; and over 200 plays of 10-plus yards allowed. It then widens the sample honestly, observing that only 2021 was statistically special at +11.4 points and +1.2 yards per play — and that team still went only 9-4. *(p. 97)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Fitzgerald will turn to NC State transfer Kenny Soares, who was with him at Northwestern, to spark a pass rush. *(p. 161)*
+Referenced in the guide on **pp. 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -227,19 +211,17 @@ Prices printed on the team page *(p. 97)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- His 3.5 sacks tied for second with Travali Price, who is also gone, and right behind Tra Thomas with four. *(p. 97)*
+- A specific futures construction is offered: NC State at 22-1 to win the ACC is called a worse-than-average bet to avoid, since a title-game appearance would allow hedging against one of those five unplayed teams or a rematch with Louisville or Virginia — the opener against Virginia not counting as a conference game. *(p. 96)*
+- Recommendation is Over 7.5 wins, with the schedule the primary reason to buy in. *(p. 96)*
+- Schedule detail: the trip to Stanford follows a bye and Cal travels across the country the next week; Vanderbilt away is tough while App State at home is winnable. The guide notes this has been a high-floor programme and the floor is higher still this year, even with a projection of 7.09 wins. *(p. 96)*
 
 ## 22. Historical / Situational Trends
 
-- However, the Wolfpack haven’t won more than nine games since 2002 and, even in a lackluster ACC, haven’t really been a College Football Playoff contender. *(p. 96)*
-- QB CJ Bailey had 31 total touchdowns and threw for over 3,100 yards last season while adding 215 more on the ground, but he’s without his five top receivers from last season and leading rusher Hollywood Smothers, who had 5.9 yards per carry. *(p. 97)*
-- Maybe Buffalo transfer Victor Snow and Miami transfer Joshisa Trader, along with holdover RB Jayden Scott, can stand out instead of last season’s by-committee approach. *(p. 97)*
+- Dave Doeren begins a 14th season, which the guide frames against a landscape where long-tenured coaches are retiring or struggling to keep up with the modern offseason. *(p. 96)*
+- Its read on the programme is floor-not-ceiling: bowls in each of the last six seasons and in all but two under Doeren, one of them his first year, but no more than nine wins since 2002 and no real playoff contention even in a lackluster ACC. *(p. 96)*
+- **How can Doeren's team raise the ceiling?** Beyond the departures, the guide notes this was a slightly above average offense, a roughly average defense and a team lacking explosiveness. The specifics: 20 sacks, tied for 107th; nine interceptions; 128th in third-down defense against 51st in third-down offense; second in red-zone touchdown percentage, its one standout; and over 200 plays of 10-plus yards allowed. It then widens the sample honestly, observing that only 2021 was statistically special at +11.4 points and +1.2 yards per play — and that team still went only 9-4. *(p. 97)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- NC STATE OVER 7.5 WINS (+105) Dave Doeren enters Year 16 at NC State, where he has only failed to get to eight wins one time since 2020. *(p. 10)*
-- Harrell also owns upset wins over two ACC programs in bowl games, including in-state rival NC State, who did get revenge in the season opener last year, but in a very competitive 24-17 game. *(p. 54)*
-- NC State transfer Terrell Anderson had 628 yards last year on 16.1 yards per reception. *(p. 181)*
+Referenced in the guide on **pp. 10, 54, 181** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -285,36 +267,37 @@ As printed on p. 97. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 7.5**.
-- However, the Wolfpack haven’t won more than nine games since 2002 and, even in a lackluster ACC, haven’t really been a College Football Playoff contender. *(p. 96)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **7.2 wins** against a posted total of 7.5 — **-0.3** against this team.
-- With arguably the softest conference schedule, one missing Miami, Clemson, Pitt, SMU, and Georgia Tech, perhaps this could be the season in which the bar gets raised. *(p. 96)*
-- The non-conference game at Vanderbilt is a tough one, but App State is a winnable non-con game at home. *(p. 96)*
-- The obvious follow-up question, but the same concerns with the offense carry over to this side of the ball, too. *(p. 97)*
-- Leading tackler Caden Fordham had 143 stops with 3.5 sacks and 6.5 tackles for loss. *(p. 97)*
+- Dave Doeren begins a 14th season, which the guide frames against a landscape where long-tenured coaches are retiring or struggling to keep up with the modern offseason. *(p. 96)*
+- This year the conference schedule is arguably the softest available, missing Miami, Clemson, Pitt, SMU and Georgia Tech. *(p. 96)*
+- Schedule detail: the trip to Stanford follows a bye and Cal travels across the country the next week; Vanderbilt away is tough while App State at home is winnable. The guide notes this has been a high-floor programme and the floor is higher still this year, even with a projection of 7.09 wins. *(p. 96)*
+- CJ Bailey produced 31 total touchdowns with over 3,100 passing yards and 215 rushing, but has lost his top five receivers and leading rusher Hollywood Smothers, who averaged 5.9 yards per carry. Backup Will Wilson remains as a short-yardage runner with 10 touchdowns but only five pass attempts, making Coastal Carolina transfer Tad Hudson the backup. The guide describes the receiving picture as genuinely distributed rather than empty — nobody exceeded 629 yards, but four players had 430 or more and seven had at least 37 catches. Top returnee Keenan Jackson started 13 games for only 28 catches and 281 yards, so it looks to Buffalo transfer Victor Snow, Miami transfer Joshisa Trader and holdover back Jayden Scott to stand out rather than repeat the committee approach. *(p. 97)*
+- The guide runs the same audit and finds the same answer. Leading tackler Caden Fordham (143 stops, 3.5 sacks, 6.5 tackles for loss) is gone; so is Travali Price, tied with him for second in sacks, and Tra Thomas, who led with four; so are top pass rusher Cian Sloane with 16 quarterback hits and Sabastian Harsh with 13; and so is Devon Marshall with 16 pass breakups. Its conclusion is that second-year coordinators Kurt Roper and DJ Eliot have a lot of work to do with many younger players and a large number of transfers. *(p. 97)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 97)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 97)*. Its analysis, in reference form:
 
 ### Who are the impact players on offense?
 
-QB CJ Bailey had 31 total touchdowns and threw for over 3,100 yards last season while adding 215 more on the ground, but he’s without his five top receivers from last season and leading rusher Hollywood Smothers, who had 5.9 yards per carry. Backup QB Will Wilson is still around, as he was a short-yardage ball carrier with 10 touchdowns, but he only threw five passes, which means Coastal Carolina transfer Tad Hudson is the backup. While nobody had more than 629 receiving yards, four players had 430+ receiving yards and seven players had 37+ receptions. The top returnee is Keenan Jackson, who started 13 games and only had 28 catches for 281 yards. Maybe Buffalo transfer Victor Snow and Miami transfer Joshisa Trader, along with holdover RB Jayden Scott, can stand out instead of last season’s by-committee approach.
+CJ Bailey produced 31 total touchdowns with over 3,100 passing yards and 215 rushing, but has lost his top five receivers and leading rusher Hollywood Smothers, who averaged 5.9 yards per carry. Backup Will Wilson remains as a short-yardage runner with 10 touchdowns but only five pass attempts, making Coastal Carolina transfer Tad Hudson the backup. The guide describes the receiving picture as genuinely distributed rather than empty — nobody exceeded 629 yards, but four players had 430 or more and seven had at least 37 catches. Top returnee Keenan Jackson started 13 games for only 28 catches and 281 yards, so it looks to Buffalo transfer Victor Snow, Miami transfer Joshisa Trader and holdover back Jayden Scott to stand out rather than repeat the committee approach. *(p. 97)*
 
 ### Who are the impact players on defense?
 
-The obvious follow-up question, but the same concerns with the offense carry over to this side of the ball, too. Leading tackler Caden Fordham had 143 stops with 3.5 sacks and 6.5 tackles for loss. His 3.5 sacks tied for second with Travali Price, who is also gone, and right behind Tra Thomas with four. Guess what? He’s gone as well. So is top pass rusher Cian Sloane, who had 16 QB hits, and Sabastian Harsh, who had 13 QB hits. Devon Marshall had 16 pass breakups. He’s also gone. So, second-year OC Kurt Roper and second-year DC DJ Eliot have a lot of work to do with a lot of younger players and a ton of transfers.
+The guide runs the same audit and finds the same answer. Leading tackler Caden Fordham (143 stops, 3.5 sacks, 6.5 tackles for loss) is gone; so is Travali Price, tied with him for second in sacks, and Tra Thomas, who led with four; so are top pass rusher Cian Sloane with 16 quarterback hits and Sabastian Harsh with 13; and so is Devon Marshall with 16 pass breakups. Its conclusion is that second-year coordinators Kurt Roper and DJ Eliot have a lot of work to do with many younger players and a large number of transfers. *(p. 97)*
 
-### How can Doeren’s team raise the ceiling?
+### How can Doeren's team raise the ceiling?
 
-As mentioned, there are a lot of impact players gone on both sides of the ball, but even then, this was a slightly above average offense, a pretty average defense, and a team that lacked explosiveness. The Wolfpack had 20 sacks, which was tied for 107th, and just nine interceptions. They were 128th in third-down defense and 51st in third-down offense. They were second TD% in the red zone, so that was one area where they stood out. Conversely, they gave up over 200 plays of 10+ yards. While that’s just a one-year sample size, only the 2021 season was special from a stats standpoint, as the team was +11.4 in PPG and +1.2 in YPP. That team also went just 9-4.
+Beyond the departures, the guide notes this was a slightly above average offense, a roughly average defense and a team lacking explosiveness. The specifics: 20 sacks, tied for 107th; nine interceptions; 128th in third-down defense against 51st in third-down offense; second in red-zone touchdown percentage, its one standout; and over 200 plays of 10-plus yards allowed. It then widens the sample honestly, observing that only 2021 was statistically special at +11.4 points and +1.2 yards per play — and that team still went only 9-4. *(p. 97)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -332,6 +315,8 @@ No source conflict identified for this team.
 | 10, 13, 15, 18, 20, 45, 54, 89, 104, 161, 181, 329 | Other pages naming this team |
 
 This team is named in **18 sentences across 14 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 10, 13, 15, 18, 20, 45, 54, 89, 104, 161, 181, 329.
 
 ## 29. Cross-Links
 

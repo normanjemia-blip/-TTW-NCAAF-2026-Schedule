@@ -24,9 +24,16 @@
 | **Makinen projected wins** | 6.2–5.8 overall, 3.7–4.3 in conference |
 | **Schedule strength** | 46.93 (#31 toughest of 138) |
 
-### Season outlook as written in the guide (p. 88)
+### Season outlook — VSiN's analysis in reference form (p. 88)
 
-Letting go of the head coach has gotten increasingly expensive in recent years, as agents have been doing one heck of a job securing buyouts for their clients. In some cases, it doesn’t matter and the school and the boosters come together and raise the necessary cash. Other times, the chopping block finds assistants and position coaches as they wear the blame and the shame for things going wrong. In Tallahassee, it seems to be the latter, as Mike Norvell is still employed, but with a new special teams coordinator, a new OC after Gus Malzahn retired, and a second-year DC. With Norvell’s buyout still sitting north of $50 million at the conclusion of this season, it will be interesting to see if a third straight season of non-contention and not even a bowl game appearance will be tolerated by the decision- makers. After all, Florida State has never had a head coach with three straight losing seasons. That dark cloud could hang over the program throughout the course of the season, especially with a slow start. Under 6.5 This isn’t a bet due to the cost- prohibitive vig and the fact that the Seminoles do project to have a good defense. Even if Daniels is an average QB, they can find their way into 7-5 or so, but I do think that the floor is lower than the ceiling is high. With roadies at Alabama, Miami, and Louisville plus home games against SMU, Clemson, and Florida, it’s a tough-looking slate that leaves minimal margin for error. My projection is 6.35 wins.
+- The guide frames the season through buyout economics: dismissing head coaches has become expensive, and where schools cannot raise the cash, assistants take the blame instead. In Tallahassee it reads as the latter — Mike Norvell remains, with a new special teams coordinator, a new offensive coordinator after Gus Malzahn retired, and a second-year defensive coordinator. *(p. 88)*
+- With Norvell's buyout still north of $50 million at season's end, it questions whether a third straight season without contention or a bowl would be tolerated. *(p. 88)*
+- A historical marker is supplied: Florida State has never had a head coach with three straight losing seasons, and the guide expects that cloud to hang over the programme, especially with a slow start. *(p. 88)*
+- Recommendation is Under 6.5 wins, though the guide explicitly says this is not a bet — the vig is cost-prohibitive and Florida State projects to have a good defense. *(p. 88)*
+- Its reasoning is asymmetric rather than pessimistic: even an average quarterback could produce 7-5, but the floor is lower than the ceiling is high. *(p. 88)*
+- Road games at Alabama, Miami and Louisville plus home dates with SMU, Clemson and Florida make a tough slate with minimal margin for error. Projection is 6.35 wins. *(p. 88)*
+
+*TTW reference notes summarising VSiN's analysis. GUIDE CONTENT — facts, conclusions and reasoning are the guide's; the wording is TTW's.*
 
 
 ## 2. Conference
@@ -78,16 +85,11 @@ Printed on the team page as `field ratings (HOME/ROAD)` and verified against the
 
 Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coordinator 3, starting quarterback 4, plus points for returning starters. A returning transfer quarterback counts as a **new** quarterback in this system *(p. 41)*.
 
-- Letting go of the head coach has gotten increasingly expensive in recent years, as agents have been doing one heck of a job securing buyouts for their clients. *(p. 88)*
-- Other times, the chopping block finds assistants and position coaches as they wear the blame and the shame for things going wrong. *(p. 88)*
-- In Tallahassee, it seems to be the latter, as Mike Norvell is still employed, but with a new special teams coordinator, a new OC after Gus Malzahn retired, and a second-year DC. *(p. 88)*
-- After all, Florida State has never had a head coach with three straight losing seasons. *(p. 88)*
-- Is that bad luck or is that bad coaching? *(p. 89)*
-- First-year DC Tony White fashioned a really good unit. *(p. 89)*
+- The guide frames the season through buyout economics: dismissing head coaches has become expensive, and where schools cannot raise the cash, assistants take the blame instead. In Tallahassee it reads as the latter — Mike Norvell remains, with a new special teams coordinator, a new offensive coordinator after Gus Malzahn retired, and a second-year defensive coordinator. *(p. 88)*
+- With Norvell's buyout still north of $50 million at season's end, it questions whether a third straight season without contention or a bowl would be tolerated. *(p. 88)*
+- **What are the biggest concerns on defense?** First-year coordinator Tony White built a genuinely good unit. The guide acknowledges Florida State was shredded by Florida in the finale and gave up 46 to Virginia, while noting most data points were solid: White cut 6.0 points per game, 1.0 yards per carry and 0.8 yards per play year over year. Only one player had more than 50 tackles and he is gone, but the sack leader, the tackles-for-loss leader and a 133-tackle addition from Southern Miss give a good foundation — one the guide says they are likely to need. *(p. 89)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- At USF, most of those players are quarterbacks, as Hartline and OC Tim Beck got Michael Van Buren by way of Mississippi State and LSU and Luke Kromenhoek by way of Florida State and Mississippi State. *(p. 67)*
+Also referenced on **pp. 67** — not reproduced here.
 
 ## 9. Quarterback Situation
 
@@ -95,12 +97,9 @@ Scoring is the guide's own: head coach 4, offensive coordinator 3, defensive coo
 
 **Returning starting quarterback:** no — the guide marks returning quarterbacks with an asterisk on the returning-starters line *(p. 88)*.
 
-- Even if Daniels is an average QB, they can find their way into 7-5 or so, but I do think that the floor is lower than the ceiling is high. *(p. 88)*
+- **Is Ashton Daniels the missing piece?** The guide first establishes the surrounding talent: Duce Robinson, once the nation's No. 1 tight end recruit, broke out with 56 catches for 1,081 yards, freshman Micahi Danzy averaged over 21 yards per reception, Ousmane Kromah managed 5.7 yards per carry and Samuel Singleton over seven. Most of that came from Tommy Castellanos, who led the team in rushing with only 557 yards and posted a 15-to-9 ratio. Daniels flashed at Stanford but started only three games at Auburn. The guide's blunt conclusion links football to finance: Norvell's buyout appears to hold the programme hostage, since Daniels and redshirt freshman Kevin Sperry are not the quarterbacks a programme like Florida State should have — and neither, it adds, was Castellanos. *(p. 89)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- SMU TO REACH ACC CHAMPIONSHIP GAME (+200) If veteran QB Kevin Jennings can lead his team to at least one win during SMU’s first two conference games of the season (at Florida State and at Louisville), the Mustangs will be set up nicely for the remainder of ACC play. *(p. 6)*
-- At USF, most of those players are quarterbacks, as Hartline and OC Tim Beck got Michael Van Buren by way of Mississippi State and LSU and Luke Kromenhoek by way of Florida State and Mississippi State. *(p. 67)*
+Also referenced on **pp. 6, 67** — not reproduced here.
 
 ## 10. Returning Production
 
@@ -116,39 +115,28 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
-- The majority of those passes and handoffs came from Tommy Castellanos, the Boston College transfer who led the team in rushing with just 557 yards and had a 15/9 TD/INT ratio. *(p. 89)*
+- **Is Ashton Daniels the missing piece?** The guide first establishes the surrounding talent: Duce Robinson, once the nation's No. 1 tight end recruit, broke out with 56 catches for 1,081 yards, freshman Micahi Danzy averaged over 21 yards per reception, Ousmane Kromah managed 5.7 yards per carry and Samuel Singleton over seven. Most of that came from Tommy Castellanos, who led the team in rushing with only 557 yards and posted a 15-to-9 ratio. Daniels flashed at Stanford but started only three games at Auburn. The guide's blunt conclusion links football to finance: Norvell's buyout appears to hold the programme hostage, since Daniels and redshirt freshman Kevin Sperry are not the quarterbacks a programme like Florida State should have — and neither, it adds, was Castellanos. *(p. 89)*
+- **What are the biggest concerns on defense?** First-year coordinator Tony White built a genuinely good unit. The guide acknowledges Florida State was shredded by Florida in the finale and gave up 46 to Virginia, while noting most data points were solid: White cut 6.0 points per game, 1.0 yards per carry and 0.8 yards per play year over year. Only one player had more than 50 tackles and he is gone, but the sack leader, the tackles-for-loss leader and a 133-tackle addition from Southern Miss give a good foundation — one the guide says they are likely to need. *(p. 89)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Entering 2024, Florida State brought in 23 transfers, which was rated the sixth-best transfer portal class according to 247 Sports. *(p. 15)*
-- Other transfers that will start included Earl Little Jr. (Florida State) and Terry Moore (Duke) at free safety to go along with corners Jermaine Matthews Jr (two INTs) and Devin Sanchez along with strong safety Jaylen McClain (53 tackles). *(p. 169)*
-- Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). *(p. 185)*
-- Florida State transfer Brock Glenn has a chance at a fresh start here if Tisdale falters or gets hurt. *(p. 207)*
-- Trever Jackson from Arkansas and JUCO transfer Tre Guerra, who also had offers from Texas Tech, Kentucky, Florida State, LSU, and Virginia, are other options. *(p. 321)*
-- He only played one game at Florida State and transferred to FAU. *(p. 321)*
+Referenced in the guide on **pp. 15, 169, 185, 207, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
-- Duce Robinson, the 6-foot-6 one-time No. 1 TE recruit in the nation, had his breakout season with 56 catches for 1,081 yards and freshman Micahi Danzy had over 21 yards per reception. *(p. 89)*
-- It sure seems like Norvell’s albatross buyout is holding the program hostage financially, as Daniels and redshirt freshman Kevin Sperry are not the types of QBs programs like FSU should have given the current landscape. *(p. 89)*
+
+Referenced in the guide on **pp. 89** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
-- The majority of those passes and handoffs came from Tommy Castellanos, the Boston College transfer who led the team in rushing with just 557 yards and had a 15/9 TD/INT ratio. *(p. 89)*
+- **Is Ashton Daniels the missing piece?** The guide first establishes the surrounding talent: Duce Robinson, once the nation's No. 1 tight end recruit, broke out with 56 catches for 1,081 yards, freshman Micahi Danzy averaged over 21 yards per reception, Ousmane Kromah managed 5.7 yards per carry and Samuel Singleton over seven. Most of that came from Tommy Castellanos, who led the team in rushing with only 557 yards and posted a 15-to-9 ratio. Daniels flashed at Stanford but started only three games at Auburn. The guide's blunt conclusion links football to finance: Norvell's buyout appears to hold the programme hostage, since Daniels and redshirt freshman Kevin Sperry are not the quarterbacks a programme like Florida State should have — and neither, it adds, was Castellanos. *(p. 89)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- One way to do that is to rely on a triple-threat rushing attack led by the returning Caleb Komolafe (941 yards, 11 TDs), speedy gadget back Joseph Hinton (486 yards), and Gavin Sawchuk (486 yards last year at Florida State). *(p. 167)*
+Referenced in the guide on **pp. 167** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
-- Under 6.5 This isn’t a bet due to the cost- prohibitive vig and the fact that the Seminoles do project to have a good defense. *(p. 88)*
-- Only one player had more than 50 tackles and, while he’s gone, the team’s sack leader, tackles for loss leader, and a 133-tackle monster from Southern Miss give White and his assistants a good foundation to build off of and one that they’re likely to need. *(p. 89)*
+- Recommendation is Under 6.5 wins, though the guide explicitly says this is not a bet — the vig is cost-prohibitive and Florida State projects to have a good defense. *(p. 88)*
+- **What are the biggest concerns on defense?** First-year coordinator Tony White built a genuinely good unit. The guide acknowledges Florida State was shredded by Florida in the finale and gave up 46 to Virginia, while noting most data points were solid: White cut 6.0 points per game, 1.0 yards per carry and 0.8 yards per play year over year. Only one player had more than 50 tackles and he is gone, but the sack leader, the tackles-for-loss leader and a 133-tackle addition from Southern Miss give a good foundation — one the guide says they are likely to need. *(p. 89)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Other transfers that will start included Earl Little Jr. (Florida State) and Terry Moore (Duke) at free safety to go along with corners Jermaine Matthews Jr (two INTs) and Devin Sanchez along with strong safety Jaylen McClain (53 tackles). *(p. 169)*
-- Aside from Jung, the secondary is all portal guys including Marvin Burks Jr. (Missouri), Javan Robinson (Arizona State), Cai Bates (Florida State), and Eric Fletcher (East Carolina). *(p. 185)*
+Referenced in the guide on **pp. 169, 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -222,20 +210,17 @@ Prices printed on the team page *(p. 89)*:
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
-- Under 6.5 This isn’t a bet due to the cost- prohibitive vig and the fact that the Seminoles do project to have a good defense. *(p. 88)*
+- Recommendation is Under 6.5 wins, though the guide explicitly says this is not a bet — the vig is cost-prohibitive and Florida State projects to have a good defense. *(p. 88)*
+- Its reasoning is asymmetric rather than pessimistic: even an average quarterback could produce 7-5, but the floor is lower than the ceiling is high. *(p. 88)*
+- Road games at Alabama, Miami and Louisville plus home dates with SMU, Clemson and Florida make a tough slate with minimal margin for error. Projection is 6.35 wins. *(p. 88)*
+- **Will the luck level out?** Florida State was 0-5 on the road and 2-6 in conference play. The guide warns full-season stats mislead because of 77-3 and 66-10 routs of East Texas A&M and Kent State, worth +1,101 yards between them. But it grants the point still holds in conference: +0.84 yards per play in ACC games, losing with a yardage edge to Virginia, Miami, Stanford, Clemson and NC State. It then asks the genuinely open question — bad luck or bad coaching — and adds that the Seminoles were -5 in turnover margin with only 14 takeaways in 12 games, while recovering just two of the 14 fumbles they forced. *(p. 89)*
 
 ## 22. Historical / Situational Trends
 
-- The Seminoles were 0-5 on the road last season and 2-6 overall in conference play. *(p. 89)*
+- A historical marker is supplied: Florida State has never had a head coach with three straight losing seasons, and the guide expects that cloud to hang over the programme, especially with a slow start. *(p. 88)*
+- **Will the luck level out?** Florida State was 0-5 on the road and 2-6 in conference play. The guide warns full-season stats mislead because of 77-3 and 66-10 routs of East Texas A&M and Kent State, worth +1,101 yards between them. But it grants the point still holds in conference: +0.84 yards per play in ACC games, losing with a yardage edge to Virginia, Miami, Stanford, Clemson and NC State. It then asks the genuinely open question — bad luck or bad coaching — and adds that the Seminoles were -5 in turnover margin with only 14 takeaways in 12 games, while recovering just two of the 14 fumbles they forced. *(p. 89)*
 
-**Elsewhere in the guide** — matched by team name, so check the page before relying on a line where the school name is also a place name:
-
-- Florida State plays a pair of SEC teams, at Alabama and Florida, including a revenge game against the Crimson Tide after the Seminoles beat Alabama 31-17 last year in Week 1. *(p. 15)*
-- Thinking back to last year, Florida State reached No. 8 in the AP Poll before losing a Friday night game in OT to Virginia. *(p. 15)*
-- Florida State could be due for some positive regression after losing four one-score games last season, but the talent is questionable. *(p. 15)*
-- Florida State had a cameo appearance back in 2014 and relative newcomer SMU, who joined the conference in 2024, had a very short-lived appearance that same season. *(p. 79)*
-- The other ACC teams were Florida State in 2014 and SMU in 2024 prior to the Hurricanes’ run last season. *(p. 94)*
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
+Referenced in the guide on **pp. 15, 79, 94, 100, 167** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -280,43 +265,36 @@ As printed on p. 89. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Duce Robinson, the 6-foot-6 one-time No. 1 TE recruit in the nation, had his breakout season with 56 catches for 1,081 yards and freshman Micahi Danzy had over 21 yards per reception. *(p. 89)*
-- Entering 2024, Florida State brought in 23 transfers, which was rated the sixth-best transfer portal class according to 247 Sports. *(p. 15)*
-- Pitt avoids Clemson and SMU, plus they do not face Notre Dame this season, but there is a very strong possibility that Virginia Tech is markedly better under James Franklin and that teams like North Carolina and Florida State are much better than what we saw last season. *(p. 100)*
-- Other transfers that will start included Earl Little Jr. (Florida State) and Terry Moore (Duke) at free safety to go along with corners Jermaine Matthews Jr (two INTs) and Devin Sanchez along with strong safety Jaylen McClain (53 tackles). *(p. 169)*
-
-> *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
+Not addressed in guide.
 
 ## 25. Bear Case
 
 - Makinen projects **6.2 wins** against a posted total of 6.5 — **-0.3** against this team.
 - The team page recommends **UNDER 6.5**.
-- With roadies at Alabama, Miami, and Louisville plus home games against SMU, Clemson, and Florida, it’s a tough-looking slate that leaves minimal margin for error. *(p. 88)*
-- Only one player had more than 50 tackles and, while he’s gone, the team’s sack leader, tackles for loss leader, and a 133-tackle monster from Southern Miss give White and his assistants a good foundation to build off of and one that they’re likely to need. *(p. 89)*
-- Florida State could be due for some positive regression after losing four one-score games last season, but the talent is questionable. *(p. 15)*
-- The overall numbers look a lot worse given losses of 62-14, 66-10, and 44-0 to Texas Tech, Florida State, and Oklahoma in non-conference play. *(p. 34)*
-- Under 8.5 While I don’t expect Lashlee’s team to regress too much, especially with the consistency in their metrics over the last three seasons, we’ll find out a lot about them right away with road games against Florida State and Louisville in September. *(p. 102)*
-- Kent State lost 62-14 to Texas Tech, 66-10 to Florida State, and 44-0 to Oklahoma, getting outgained by over 1,000 yards combined. *(p. 228)*
-- The biggest loss by far is CB Nehemiah Chandler, who is now at Florida State. *(p. 341)*
+- With Norvell's buyout still north of $50 million at season's end, it questions whether a third straight season without contention or a bowl would be tolerated. *(p. 88)*
+- Road games at Alabama, Miami and Louisville plus home dates with SMU, Clemson and Florida make a tough slate with minimal margin for error. Projection is 6.35 wins. *(p. 88)*
+- Florida State was 0-5 on the road and 2-6 in conference play. The guide warns full-season stats mislead because of 77-3 and 66-10 routs of East Texas A&M and Kent State, worth +1,101 yards between them. But it grants the point still holds in conference: +0.84 yards per play in ACC games, losing with a yardage edge to Virginia, Miami, Stanford, Clemson and NC State. It then asks the genuinely open question — bad luck or bad coaching — and adds that the Seminoles were -5 in turnover margin with only 14 takeaways in 12 games, while recovering just two of the 14 fumbles they forced. *(p. 89)*
+- First-year coordinator Tony White built a genuinely good unit. The guide acknowledges Florida State was shredded by Florida in the finale and gave up 46 to Virginia, while noting most data points were solid: White cut 6.0 points per game, 1.0 yards per carry and 0.8 yards per play year over year. Only one player had more than 50 tackles and he is gone, but the sack leader, the tackles-for-loss leader and a 133-tackle addition from Southern Miss give a good foundation — one the guide says they are likely to need. *(p. 89)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 
-The guide's *Three Burning Questions for the 2026 Season* *(p. 89)*, with the answers as written:
+VSiN poses *Three Burning Questions for the 2026 Season* *(p. 89)*. Its analysis, in reference form:
 
 ### Will the luck level out?
 
-The Seminoles were 0-5 on the road last season and 2-6 overall in conference play. Don’t let their full-season stats fool you because they completely slaughtered East Texas A&M 77-3 and Kent State 66-10. In those two games, they were +1,101 yards, so their per-play stats and total stats look as though they deserved a far better fate than 5-7. That being said, they were still +0.84 YPP in ACC games, losing with a yardage edge to Virginia, Miami, Stanford, Clemson, and NC State. Is that bad luck or is that bad coaching? Even with more production on both sides of the ball, the Seminoles were still -5 in TO margin and only mustered 14 takeaways in 12 games. However, they also only recovered two of the 14 fumbles they forced, so that weirdly-shaped ball simply didn’t bounce their way.
+Florida State was 0-5 on the road and 2-6 in conference play. The guide warns full-season stats mislead because of 77-3 and 66-10 routs of East Texas A&M and Kent State, worth +1,101 yards between them. But it grants the point still holds in conference: +0.84 yards per play in ACC games, losing with a yardage edge to Virginia, Miami, Stanford, Clemson and NC State. It then asks the genuinely open question — bad luck or bad coaching — and adds that the Seminoles were -5 in turnover margin with only 14 takeaways in 12 games, while recovering just two of the 14 fumbles they forced. *(p. 89)*
 
 ### Is Ashton Daniels the missing piece?
 
-Duce Robinson, the 6-foot-6 one-time No. 1 TE recruit in the nation, had his breakout season with 56 catches for 1,081 yards and freshman Micahi Danzy had over 21 yards per reception. Ousmane Kromah had 5.7 yards per carry on 72 attempts and Samuel Singleton had over seven yards per pop on 51 totes. The majority of those passes and handoffs came from Tommy Castellanos, the Boston College transfer who led the team in rushing with just 557 yards and had a 15/9 TD/INT ratio. Daniels, who had flashes at Stanford, only started three games at Auburn, but now he’s on this roster. It sure seems like Norvell’s albatross buyout is holding the program hostage financially, as Daniels and redshirt freshman Kevin Sperry are not the types of QBs programs like FSU should have given the current landscape. Frankly, neither was Castellanos.
+The guide first establishes the surrounding talent: Duce Robinson, once the nation's No. 1 tight end recruit, broke out with 56 catches for 1,081 yards, freshman Micahi Danzy averaged over 21 yards per reception, Ousmane Kromah managed 5.7 yards per carry and Samuel Singleton over seven. Most of that came from Tommy Castellanos, who led the team in rushing with only 557 yards and posted a 15-to-9 ratio. Daniels flashed at Stanford but started only three games at Auburn. The guide's blunt conclusion links football to finance: Norvell's buyout appears to hold the programme hostage, since Daniels and redshirt freshman Kevin Sperry are not the quarterbacks a programme like Florida State should have — and neither, it adds, was Castellanos. *(p. 89)*
 
 ### What are the biggest concerns on defense?
 
-First-year DC Tony White fashioned a really good unit. While the Seminoles did get shredded by Florida in the finale and also gave up 46 points to Virginia, most of their data points were really solid. In all, White shaved 6.0 PPG, 1.0 YPC, and 0.8 YPP off of the team’s stat sheet year over year. Only one player had more than 50 tackles and, while he’s gone, the team’s sack leader, tackles for loss leader, and a 133-tackle monster from Southern Miss give White and his assistants a good foundation to build off of and one that they’re likely to need.
+First-year coordinator Tony White built a genuinely good unit. The guide acknowledges Florida State was shredded by Florida in the finale and gave up 46 to Virginia, while noting most data points were solid: White cut 6.0 points per game, 1.0 yards per carry and 0.8 yards per play year over year. Only one player had more than 50 tackles and he is gone, but the sack leader, the tackles-for-loss leader and a 133-tackle addition from Southern Miss give a good foundation — one the guide says they are likely to need. *(p. 89)*
 
+*TTW reference notes. The questions are VSiN's; the answers summarise VSiN's reasoning in TTW's wording.*
 
 ## 27. Source Conflicts
 
@@ -334,6 +312,8 @@ No source conflict identified for this team.
 | 6, 10, 13, 15, 34, 67, 94, 100, 102, 108, 167, 169, 185, 197, 207, 228, 290, 321, 341 | Other pages naming this team |
 
 This team is named in **31 sentences across 22 pages** of the guide.
+
+Every page naming this team outside its own spread: pp. 6, 10, 13, 15, 34, 67, 94, 100, 102, 108, 167, 169, 185, 197, 207, 228, 290, 321, 341.
 
 ## 29. Cross-Links
 
