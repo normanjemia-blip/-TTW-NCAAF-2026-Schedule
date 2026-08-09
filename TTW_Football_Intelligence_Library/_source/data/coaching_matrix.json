@@ -214,7 +214,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Nebraska Cornhuskers",
@@ -235,17 +235,17 @@
   "stability_score": 10,
   "record_2025": "7-6",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "oc": "Dana Holgorsen.",
+  "dc": "Rob Aurich, in from a top-10 San Diego State defense, replacing the dismissed John Butler.",
+  "play_caller": "Not addressed in guide by name. The offense is identified as Dana Holgorsen's Air Raid.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "164-165",
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Northwestern Wildcats",
@@ -266,17 +266,17 @@
   "stability_score": 9,
   "record_2025": "7-6",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
+  "oc": "Chip Kelly, with Jerry Neuheisel as quarterbacks coach.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "play_caller": "Chip Kelly, as the new coordinator.",
+  "scheme_change": true,
   "staff_turnover_major": false,
-  "qb_developer": false,
+  "qb_developer": true,
   "pages": "166-167",
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Ohio State Buckeyes",
@@ -297,17 +297,17 @@
   "stability_score": 17,
   "record_2025": "12-2",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "oc": "Arthur Smith, an NFL hire.",
+  "dc": "Matt Patricia, an NFL hire, entering his second season.",
+  "play_caller": "Not addressed in guide by name. The guide attributes the expected tactical change to Arthur Smith.",
+  "scheme_change": true,
   "staff_turnover_major": false,
   "qb_developer": false,
   "pages": "168-169",
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Oregon Ducks",
@@ -328,9 +328,9 @@
   "stability_score": 14,
   "record_2025": "13-2",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Drew Mehringer, promoted internally after Will Stein left for Kentucky.",
+  "dc": "Chris Hampton, promoted internally after Tosh Lupoi left for Cal. The guide records that Dan Lanning calls the defense himself.",
+  "play_caller": "Dan Lanning on defense, explicitly — the guide states he calls it himself and on that basis expects another elite unit.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -338,7 +338,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Penn State Nittany Lions",
@@ -359,17 +359,17 @@
   "stability_score": 3,
   "record_2025": "7-6",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "oc": "Taylor Mouser, brought from Iowa State among 11 assistants.",
+  "dc": "D'Anton Lynn, a Texas native and former Penn State player, hired immediately after improving USC's defense over two years.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "172-173",
   "stability_page": 43,
   "carousel_page": 32,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Purdue Boilermakers",

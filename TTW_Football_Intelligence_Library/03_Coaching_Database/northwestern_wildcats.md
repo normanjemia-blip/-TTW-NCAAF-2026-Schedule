@@ -15,26 +15,26 @@
 | 3 | Head coach | David Braun |
 | 4 | Head-coach tenure | 5th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 43) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Not addressed as head-coaching experience beyond Northwestern. The guide records David Braun's background as extensively FCS, at Northern Iowa and North Dakota State, and notes he was 2023 Big Ten Coach of the Year. |
+| 7 | Offensive coordinator | Chip Kelly, with Jerry Neuheisel as quarterbacks coach. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
-| 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 9 | New / returning OC | New — the Stability Score table (p. 43) awards 0 points for a returning offensive coordinator, and the guide records Kelly's arrival as finally giving Northwestern a creative offensive mind. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Chip Kelly, as the new coordinator. |
+| 12 | Offensive scheme / philosophy | Named. The guide describes a fast no-huddle spread and says Aidan Chiles is the athletic, mobile quarterback Kelly wants in it. |
+| 13 | Defensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 14 | Tempo tendencies | Stated as fast — the guide describes Kelly's offense as a fast no-huddle spread. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. The guide identifies a three-pronged run game with Caleb Komolafe, gadget back Joseph Hinton and Gavin Sawchuk as one route to rebuilding the quarterback. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Framed as an explicit coaching assignment. The guide asks whether Kelly can rebuild Chiles — benched after nine games at Michigan State and 8-12 as a starter across two seasons — sees the scheme fit, and insists Kelly must also restore his confidence. It notes quarterbacks coach Jerry Neuheisel recruited Chiles out of high school. |
+| 18 | Coordinator/head-coach continuity | Head coach and defensive coordinator return; the offensive coordinator and quarterback both change. The Stability Score table (p. 43) prints 4, 0, 3 and 0, plus 2 for 12 returning starters, totalling 9. |
+| 19 | Staff turnover | Confined to the offensive side, where Kelly and Neuheisel arrive. |
+| 20 | Prior-school relationships | Michigan State, twice over — the guide notes the symmetry that Michigan State has Northwestern's old coach in Pat Fitzgerald and Northwestern has Michigan State's old quarterback in Aidan Chiles, and that the two meet on 17 October. Other additions recorded are Gavin Sawchuk from Florida State, Grant Seagren from Oklahoma State and Jamaal Johnson from UCF. |
+| 21 | Portal/recruiting implications tied to staff | Tied to the coaching problem the guide sets out: Braun will have to coach up players from Group of Six, FCS and Division II programmes who are in line to start. |
+| 22 | VSiN author's assessment of coaching | Credit for what Braun has managed, with the talent gap stated plainly. The guide records him doing more with less as 2023 Big Ten Coach of the Year while navigating the fallout from Fitzgerald's termination, and marks the Fitzgerald chapter as finally closed following the settled lawsuit and his return to coaching at Michigan State. Its concrete caveat is that Braun must coach up lower-division starters, and its closing judgement is that the defense can only carry the team so far against this schedule. |
+| 23 | Coaching strengths | A head coach the guide credits with doing more with less, a coordinator hire it calls a creative offensive mind with a scheme that fits the incoming quarterback, five of the top six pass catchers returning, a settled offensive line, and a secondary the guide calls the team's best unit. |
+| 24 | Coaching concerns | Aidan Chiles' accuracy and ball security potentially reappearing, a pass rush that ranked 14th in the Big Ten with 23 sacks and lost nearly half of them, and a starting lineup drawing on Group of Six, FCS and Division II talent. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **9** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 166–167; Stability Score p. 43 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

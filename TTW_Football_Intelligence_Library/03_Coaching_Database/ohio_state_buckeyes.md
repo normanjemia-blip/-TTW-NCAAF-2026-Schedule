@@ -16,25 +16,25 @@
 | 4 | Head-coach tenure | 8th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 43) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
-| 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 7 | Offensive coordinator | Arthur Smith, an NFL hire. |
+| 8 | Defensive coordinator | Matt Patricia, an NFL hire, entering his second season. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 43) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. The guide attributes the expected tactical change to Arthur Smith. |
+| 12 | Offensive scheme / philosophy | Not addressed as a named scheme. The guide states the direction of travel instead: Arthur Smith wants to run more aggressively and will let Julian Sayin use his legs. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records Patricia producing the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game in his first year while replacing eight starters. |
+| 14 | Tempo tendencies | Stated and expected to change. The guide records that Ohio State ran the slowest-paced offense in college football, asks whether the tempo was too slow and answers yes, and expects the training wheels to come off Sayin. |
+| 15 | Run/pass tendencies | Addressed as a stated intention: while the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Addressed as an expectation of released constraint rather than a coaching record: the guide expects the training wheels to come off Sayin and suggests Arthur Smith could do for the offense what Patricia did for the defense. |
+| 18 | Coordinator/head-coach continuity | Complete. The Stability Score table (p. 43) awards points for a returning head coach, offensive coordinator, defensive coordinator and quarterback — 4, 3, 3 and 4, plus 3 for 14 returning starters — totalling 17, among the highest in the guide. |
+| 19 | Staff turnover | None recorded. The guide's staff observation is about method: having succeeded with an NFL hire in Matt Patricia, Ryan Day repeated the approach on offense with Arthur Smith. |
+| 20 | Prior-school relationships | Not addressed in guide for the staff. On the roster the guide records James Smith from Alabama, John Walker from UCF, Earl Little Jr from Florida State, Terry Moore from Duke and Devin McCuin from UTSA. |
+| 21 | Portal/recruiting implications tied to staff | Aggressive despite the results. The guide notes Ohio State has not stood pat: 18 portal additions, 50 new players and another top-five recruiting class. |
+| 22 | VSiN author's assessment of coaching | Self-critical on the coach's behalf. The guide entertains whether Day became too conservative and whether the tempo was too slow, answers yes to both, then concludes the clearest reason for the two losses is that the line was beaten up front. It credits the NFL hiring method through Patricia's No. 1 defense. |
+| 23 | Coaching strengths | A Stability Score of 17 with both NFL-hire coordinators retained, arguably the best quarterback-receiver combination in the country, a coordinator who produced the No. 1 defense while replacing eight starters, four returning offensive line starters, and continuing top-five recruiting. |
+| 24 | Coaching concerns | Replacing eight more drafted defensive starters with no superstar equivalent to last year's, an offensive line that conceded five sacks against Indiana and five more against Miami after allowing six all regular season, and finding a second receiving option behind Jeremiah Smith. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **17** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 168–169; Stability Score p. 43 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
