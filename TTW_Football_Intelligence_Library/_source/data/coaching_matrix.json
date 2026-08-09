@@ -390,9 +390,9 @@
   "stability_score": 13,
   "record_2025": "2-10",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Josh Henson.",
+  "dc": "Kevin Kane, previously Purdue's coordinator under Ryan Walters in 2023 and 2024, returning after a season coaching Minnesota's linebackers.",
+  "play_caller": "Kevin Kane on defense, and the guide treats the arrangement as changed: he now has more autonomy calling the defense than he had under Ryan Walters.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -400,7 +400,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Rutgers Scarlet Knights",
@@ -421,17 +421,17 @@
   "stability_score": 9,
   "record_2025": "5-7",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Kirk Ciarrocca.",
+  "dc": "Travis Johansen, hired after taking South Dakota to the FCS playoffs.",
+  "play_caller": "Not addressed in guide by name. The guide records that Schiano will stay involved on defense as always, but that Johansen gets more autonomy than his predecessors.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "176-177",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "UCLA Bruins",
@@ -452,17 +452,17 @@
   "stability_score": 8,
   "record_2025": "3-9",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "oc": "Dean Kennedy, from James Madison.",
+  "dc": "Colin Hitschler, from James Madison.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "178-179",
   "stability_page": 44,
   "carousel_page": 32,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "USC Trojans",
@@ -484,16 +484,16 @@
   "record_2025": "9-4",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "dc": "Gary Patterson, the former TCU head coach, lured from semi-retirement after D'Anton Lynn returned to his alma mater Penn State.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
   "staff_turnover_major": false,
   "qb_developer": false,
   "pages": "180-181",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Washington Huskies",
@@ -524,7 +524,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Wisconsin Badgers",
@@ -545,16 +545,16 @@
   "stability_score": 12,
   "record_2025": "4-8",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
+  "oc": "Jeff Grimes.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "184-185",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  }
 ]
