@@ -1,0 +1,348 @@
+{
+ "generated_from": {
+  "layer1": "2026 VSiN College Football Betting Guide (this library)",
+  "layer2": {
+   "generated": "2026-08-04",
+   "phase": "7D.5",
+   "counts": {
+    "L": 33,
+    "M": 40,
+    "H": 65
+   },
+   "status": {
+    "UNCERTAIN": 39,
+    "OK": 99
+   },
+   "blank_D": 39,
+   "zero_D": 99,
+   "nonzero_qb_values": 0,
+   "backlog_remaining": 0,
+   "audit_trail_gap_tier1": 0,
+   "h_coded_tier2_unstamped": 61,
+   "sha256": "661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7"
+  }
+ },
+ "records": [
+  {
+   "team": "Alabama Crimson Tide",
+   "abbrev": "ALA",
+   "conference": "SEC",
+   "vsin_starter": "Keelon Russell",
+   "vsin_pages": "284-285",
+   "verified_starter": "Keelon Russell",
+   "confidence": "L",
+   "verification_date": "2026-08-04",
+   "verification_status": "VERIFIED 7D.5",
+   "relationship": "PARTIALLY ALIGNED",
+   "reason": "Verified state still lists this quarterback but the job is not settled; confidence is L.",
+   "priority": 80,
+   "priority_drivers": [
+    "low-confidence verification (L)",
+    "partial VSiN/current-state disagreement",
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Arkansas Razorbacks",
+   "abbrev": "ARK",
+   "conference": "SEC",
+   "vsin_starter": "KJ Jackson",
+   "vsin_pages": "286-287",
+   "verified_starter": "Open (KJ Jackson / AJ Hill)",
+   "confidence": "L",
+   "verification_date": "2026-08-03",
+   "verification_status": "VERIFIED 7D.3A",
+   "relationship": "PARTIALLY ALIGNED",
+   "reason": "Both sources describe an unsettled competition, but they do not name the same leading quarterback.",
+   "priority": 85,
+   "priority_drivers": [
+    "low-confidence verification (L)",
+    "unresolved competition in verified state",
+    "partial VSiN/current-state disagreement",
+    "transfer context in verification note"
+   ],
+   "qb_dependent": false,
+   "has_note": true
+  },
+  {
+   "team": "Auburn Tigers",
+   "abbrev": "AUB",
+   "conference": "SEC",
+   "vsin_starter": "Byrum Brown",
+   "vsin_pages": "288-289",
+   "verified_starter": "Byrum Brown (USF transfer)",
+   "confidence": "M",
+   "verification_date": "2026-08-04",
+   "verification_status": "VERIFIED 7D.5",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 50,
+   "priority_drivers": [
+    "medium-confidence verification (M)",
+    "VSiN handicap depends heavily on QB play",
+    "transfer context in verification note"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Florida Gators",
+   "abbrev": "FLA",
+   "conference": "SEC",
+   "vsin_starter": "Aaron Philo",
+   "vsin_pages": "290-291",
+   "verified_starter": "Aaron Philo",
+   "confidence": "L",
+   "verification_date": "2026-08-04",
+   "verification_status": "VERIFIED 7D.5",
+   "relationship": "PARTIALLY ALIGNED",
+   "reason": "Verified state still lists this quarterback but the job is not settled; confidence is L.",
+   "priority": 85,
+   "priority_drivers": [
+    "low-confidence verification (L)",
+    "partial VSiN/current-state disagreement",
+    "VSiN handicap depends heavily on QB play",
+    "transfer context in verification note"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Georgia Bulldogs",
+   "abbrev": "UGA",
+   "conference": "SEC",
+   "vsin_starter": "Gunner Stockton",
+   "vsin_pages": "292-293",
+   "verified_starter": "Gunner Stockton",
+   "confidence": "H",
+   "verification_date": "2026-07-21",
+   "verification_status": "H-coded (tier 2)",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
+   "priority_drivers": [
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Kentucky Wildcats",
+   "abbrev": "UK",
+   "conference": "SEC",
+   "vsin_starter": "Kenny Minchey",
+   "vsin_pages": "294-295",
+   "verified_starter": "Kenny Minchey (Notre Dame transfer)",
+   "confidence": "M",
+   "verification_date": "2026-08-04",
+   "verification_status": "VERIFIED 7D.5",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 50,
+   "priority_drivers": [
+    "medium-confidence verification (M)",
+    "VSiN handicap depends heavily on QB play",
+    "transfer context in verification note"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "LSU Tigers",
+   "abbrev": "LSU",
+   "conference": "SEC",
+   "vsin_starter": "Sam Leavitt",
+   "vsin_pages": "296-297",
+   "verified_starter": "Sam Leavitt",
+   "confidence": "H",
+   "verification_date": "2026-07-21",
+   "verification_status": "verified 7A-7D",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 40,
+   "priority_drivers": [
+    "VSiN handicap depends heavily on QB play",
+    "injury or availability language in verification note",
+    "transfer context in verification note"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Mississippi State Bulldogs",
+   "abbrev": "MSST",
+   "conference": "SEC",
+   "vsin_starter": "KaMario Taylor",
+   "vsin_pages": "298-299",
+   "verified_starter": "Kamario Taylor",
+   "confidence": "H",
+   "verification_date": "2026-08-03",
+   "verification_status": "VERIFIED 7D.3A",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
+   "priority_drivers": [
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Missouri Tigers",
+   "abbrev": "MIZ",
+   "conference": "SEC",
+   "vsin_starter": "Austin Simmons",
+   "vsin_pages": "300-301",
+   "verified_starter": "Austin Simmons (OFFICIALLY NAMED 2026-03-19)",
+   "confidence": "H",
+   "verification_date": "2026-08-04",
+   "verification_status": "VERIFIED 7D.5",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 30,
+   "priority_drivers": [
+    "VSiN handicap depends heavily on QB play",
+    "transfer context in verification note"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Oklahoma Sooners",
+   "abbrev": "OU",
+   "conference": "SEC",
+   "vsin_starter": "John Mateer",
+   "vsin_pages": "302-303",
+   "verified_starter": "John Mateer",
+   "confidence": "H",
+   "verification_date": "2026-07-21",
+   "verification_status": "H-coded (tier 2)",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
+   "priority_drivers": [
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Ole Miss Rebels",
+   "abbrev": "MISS",
+   "conference": "SEC",
+   "vsin_starter": "Trinidad Chambliss",
+   "vsin_pages": "304-305",
+   "verified_starter": "Trinidad Chambliss",
+   "confidence": "H",
+   "verification_date": "2026-07-21",
+   "verification_status": "verified 7A-7D",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 0,
+   "priority_drivers": [],
+   "qb_dependent": false,
+   "has_note": true
+  },
+  {
+   "team": "South Carolina Gamecocks",
+   "abbrev": "SCAR",
+   "conference": "SEC",
+   "vsin_starter": "LaNorris Sellers",
+   "vsin_pages": "306-307",
+   "verified_starter": "LaNorris Sellers",
+   "confidence": "H",
+   "verification_date": "2026-07-21",
+   "verification_status": "verified 7A-7D",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
+   "priority_drivers": [
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Tennessee Volunteers",
+   "abbrev": "TENN",
+   "conference": "SEC",
+   "vsin_starter": "Faizon Brandon",
+   "vsin_pages": "308-309",
+   "verified_starter": "Faizon Brandon",
+   "confidence": "L",
+   "verification_date": "2026-08-04",
+   "verification_status": "VERIFIED 7D.5",
+   "relationship": "PARTIALLY ALIGNED",
+   "reason": "Verified state still lists this quarterback but the job is not settled; confidence is L.",
+   "priority": 80,
+   "priority_drivers": [
+    "low-confidence verification (L)",
+    "partial VSiN/current-state disagreement",
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Texas A&M Aggies",
+   "abbrev": "TAMU",
+   "conference": "SEC",
+   "vsin_starter": "Marcel Reed",
+   "vsin_pages": "312-313",
+   "verified_starter": "Marcel Reed",
+   "confidence": "H",
+   "verification_date": "2026-07-21",
+   "verification_status": "H-coded (tier 2)",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
+   "priority_drivers": [
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Texas Longhorns",
+   "abbrev": "TEX",
+   "conference": "SEC",
+   "vsin_starter": "Arch Manning",
+   "vsin_pages": "310-311",
+   "verified_starter": "Arch Manning",
+   "confidence": "H",
+   "verification_date": "2026-07-21",
+   "verification_status": "H-coded (tier 2)",
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
+   "priority_drivers": [
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  },
+  {
+   "team": "Vanderbilt Commodores",
+   "abbrev": "VAN",
+   "conference": "SEC",
+   "vsin_starter": "Jared Curtis",
+   "vsin_pages": "314-315",
+   "verified_starter": "Jared Curtis",
+   "confidence": "L",
+   "verification_date": "2026-08-04",
+   "verification_status": "VERIFIED 7D.5",
+   "relationship": "PARTIALLY ALIGNED",
+   "reason": "Verified state still lists this quarterback but the job is not settled; confidence is L.",
+   "priority": 80,
+   "priority_drivers": [
+    "low-confidence verification (L)",
+    "partial VSiN/current-state disagreement",
+    "VSiN handicap depends heavily on QB play"
+   ],
+   "qb_dependent": true,
+   "has_note": true
+  }
+ ]
+}
