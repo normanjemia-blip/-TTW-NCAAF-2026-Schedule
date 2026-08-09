@@ -15,26 +15,26 @@
 | 3 | Head coach | Matt Entz |
 | 4 | Head-coach tenure | 2nd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Extensive and highly rated. The guide says Matt Entz is about as good as it gets — he coached North Dakota State to two FCS national titles in five years and left 60-11 — and notes he won eight regular-season games in his Fresno debut. |
 | 7 | Offensive coordinator | Not addressed in guide. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 42) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed as a named scheme, but the guide states a clear building philosophy: Entz builds winning teams by building a physical offensive line first. |
+| 13 | Defensive scheme / philosophy | Not addressed in guide as a named scheme. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Run-first by construction. The guide records Fresno running the ball well last season while being limited by what EJ Warner could not do, and judges Fresno could have the most effective ground offense in a conference rich in running back talent. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide diagnoses last season precisely — an accurate passer without the arm to stretch the field — and is honest that Maryland transfer Khristian Martin's impact is a mystery while noting he has the physical skills for major impact. |
+| 18 | Coordinator/head-coach continuity | Head coach and both coordinators return; the quarterback changes. The Stability Score table (p. 42) prints 4, 3, 3 and 0, plus 3 for 13 returning starters, totalling 13. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
+| 20 | Prior-school relationships | North Dakota State for Entz. On the roster the guide records Khristian Martin from Maryland. |
+| 21 | Portal/recruiting implications tied to staff | Addressed at quarterback, where Entz brought in Martin to replace EJ Warner. |
+| 22 | VSiN author's assessment of coaching | A strong endorsement of the coach with a matchup-level argument attached. The guide says Entz is about as good as it gets, treats the upgraded quarterback position as reason for opponents to beware, and states its conditional precisely: if Khristian Martin matures quickly Fresno can win almost every game, while the team is solid enough everywhere to win seven or eight even with mediocre quarterback play. It explains Entz's method — physical offensive line first — and applies it to a specific game, arguing Fresno's line could push USC around since Lincoln Riley is known for finesse teams that are not the most physical up front. |
+| 23 | Coaching strengths | A head coach with two FCS national titles and a 60-11 record at his previous stop, both coordinators returning, arguably the biggest and best offensive line in the Pac-12 with three of the league's best linemen, two backs who combined for 1,302 yards, four of the top five pass catchers back, and a physically upgraded quarterback. |
+| 24 | Coaching concerns | A new quarterback whose impact the guide calls a mystery, and last season's ceiling set by passing limitations the new man has yet to prove he removes. |
+| 25 | Betting implications explicitly tied to coaching | The guide's conclusion returns to the coach: Entz won eight regular-season games in his debut, has a better team and a manageable schedule, so bet on the Bulldogs being big overachievers. It applies this to two specific games, expecting the USC line to be bet higher by kickoff and flagging a potentially dangerous underdog, recalling Entz coached Fresno to a 30-7 win at Boise as a 17-point underdog last year, and advising bettors to circle both and consider taking the points. |
 | 26 | Stability Score information | **13** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 270–271; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

@@ -15,26 +15,26 @@
 | 3 | Head coach | G. J. Kinne |
 | 4 | Head-coach tenure | 5th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 44) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Yes. The guide records G.J. Kinne's first head-coaching stop as Incarnate Word in 2022, where he went 12-2 and was hired away by Texas State, and traces his coaching apprenticeship under Gus Malzahn, Sonny Dykes and Chad Morris. |
 | 7 | Offensive coordinator | Not addressed in guide. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 44) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | New — the Stability Score table (p. 44) awards 0 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not named, but attributed to the head coach: Kinne is described as a former college and NFL quarterback known for creating prolific passing offenses, and the guide records Texas State ranking 12th nationally in scoring offense at 36.5 points per game and fifth in yards at 472 per game. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records a defense that allowed 164.8 rushing yards per game and 29 points per game with four starters returning. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. The guide's emphasis is on Brad Jackson's dual-threat production — 3,224 passing yards with 21 touchdowns plus 744 rushing yards and 17 touchdowns. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Addressed through the head coach's own background. The guide records Kinne as a big-time passer at Tulsa who finished with 9,472 yards and 81 touchdowns, describes him as known for creating prolific passing offenses, and says the numbers will point to Jackson as the marquee Pac-12 quarterback. |
+| 18 | Coordinator/head-coach continuity | Head coach, offensive coordinator and quarterback return; the defensive coordinator changes. The Stability Score table (p. 44) prints 4, 3, 0 and 4, plus 2 for 11 returning starters, totalling 13. |
+| 19 | Staff turnover | Confined to the defensive coordinator per the Stability Score table. |
+| 20 | Prior-school relationships | Incarnate Word for Kinne's head-coaching debut; Tulsa for his playing career; and coaching apprenticeships under Gus Malzahn, Sonny Dykes and Chad Morris. On the roster the guide records William Boone from North Carolina and DonTerry Russell as a former Mississippi State transfer. |
+| 21 | Portal/recruiting implications tied to staff | Addressed at specific positions — a 6-foot-6, 375-pound North Carolina transfer at right tackle, and a former Mississippi State transfer at defensive end. |
+| 22 | VSiN author's assessment of coaching | Consistency credited and the coach identified as a rising commodity. The guide leads with three years producing 8-5, 8-5 and 7-6, each ending in a bowl win, describes Kinne as a former college and NFL quarterback known for creating prolific passing offenses, and projects that in an era when innovative offensive coaches are in high demand he will likely become a hot candidate for bigger jobs, with this season's high-powered offense helping that rise. Its stated risk is the defense, which it calls definitely a concern. |
+| 23 | Coaching strengths | Three straight bowl-winning seasons under a head coach the guide expects to attract bigger jobs, a returning quarterback the guide says will be the conference's marquee passer, two of the league's top receivers returning, offensive-coordinator continuity, and a scoring offense ranked 12th nationally. |
+| 24 | Coaching concerns | A defense that allowed 164.8 rushing yards and 29 points per game with only four starters returning and a new coordinator, and an inexperienced offensive line. |
+| 25 | Betting implications explicitly tied to coaching | The guide draws a direct betting instruction from the coaching profile: look to bet Over the total in most Texas State games this season. It also suggests Jackson could post bigger numbers than Arch Manning both in the opener and over the season. |
 | 26 | Stability Score information | **13** total (p. 44) — see the component table below |
 | 27 | Relevant page references | team pp. 276–277; Stability Score p. 44 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
