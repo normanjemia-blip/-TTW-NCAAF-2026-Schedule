@@ -16,25 +16,25 @@
 | 4 | Head-coach tenure | 3rd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 44) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
+| 7 | Offensive coordinator | Craig Stutzmann. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 44) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | New — the Stability Score table (p. 44) awards 0 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Named. The guide records Craig Stutzmann's Spread and Shred offense taking the conference by storm two seasons ago before fizzling in 2025, and identifies a genuine pattern within it — a previously unheralded receiver erupting, with Nick Nash producing 1,382 yards and 16 touchdowns in year one and Danny Scudero catching 88 passes for 1,297 yards and 10 touchdowns last season. |
+| 13 | Defensive scheme / philosophy | Not addressed in guide as a named scheme. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split beyond the scheme name. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Addressed as scheme fit rather than a record. The guide judges Luke Weaver — a seasoned and well-travelled redshirt senior who worked his way up from Modesto Junior College and started two Hawaii games in place of the injured Micah Alejado — likely gives San Jose State the best chance specifically in this system. |
+| 18 | Coordinator/head-coach continuity | Head coach and offensive coordinator return; the defensive coordinator and quarterback change. The Stability Score table (p. 44) prints 4, 3, 0 and 0, plus 0 for 3 returning starters, totalling 7. |
+| 19 | Staff turnover | The guide credits staff continuity as one of Ken Niumatalolo's assets while the Stability Score table records the defensive coordinator position changing. |
+| 20 | Prior-school relationships | Not addressed in guide for the staff. On the roster the guide records Luke Weaver from Hawaii, Robert McDaniel as a one-time UCLA transfer, and Anthony Ivey as a former four-star from Penn State. |
+| 21 | Portal/recruiting implications tied to staff | The programme's defining problem this year. Per Phil Steele, San Jose State lost 24 starters to the portal and brought in two, with only three full-time starters returning from a three-win team. The guide notes some former Power Four transfers are involved while adding the realistic caveat that all are making this move for a reason. |
+| 22 | VSiN author's assessment of coaching | Credit for a previous rebuild, with the reason it may not repeat named precisely. The guide credits Niumatalolo's fantastic first season in a similar situation while identifying the difference: that came with an ingenious offense that surprised the league, and in his third season many opponents have now seen the tendencies. Its conclusion credits him as a good coach with staff continuity while judging that he would need one of the best coaching jobs of a long career to get this group into the mix. |
+| 23 | Coaching strengths | A head coach who has already rebuilt this roster once, staff continuity, a distinctive named offense with a documented record of producing an unheralded 1,300-yard receiver in each of its two seasons, and a former four-star receiver arriving into that system. |
+| 24 | Coaching concerns | Only three returning starters with 24 lost to the portal and two added, receiver, defensive line and defensive back all losing every starter, a new defensive coordinator, and the guide's own point that opponents have now seen the offense's tendencies. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **7** total (p. 44) — see the component table below |
 | 27 | Relevant page references | team pp. 256–257; Stability Score p. 44 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

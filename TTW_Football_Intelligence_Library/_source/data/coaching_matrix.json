@@ -174,16 +174,16 @@
   "record_2025": "3-9",
   "in_carousel": true,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "dc": "Not addressed by name for 2026. Harley himself ran the unit last season.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "254-255",
   "stability_page": 43,
   "carousel_page": 35,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "San Jose State Spartans",
@@ -204,9 +204,9 @@
   "stability_score": 7,
   "record_2025": "3-9",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
+  "oc": "Craig Stutzmann.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -214,7 +214,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "UNLV Rebels",
@@ -236,16 +236,16 @@
   "record_2025": "10-4",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Paul Guenther, who joined last March as associate head coach and safeties coach before being thrust into the coordinator role when Zach Arnett resigned in April.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
-  "qb_developer": false,
+  "qb_developer": true,
   "pages": "258-259",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "UTEP Miners",
@@ -267,8 +267,8 @@
   "record_2025": "2-10",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Kyle Beyer, who served as an analyst last season.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -276,7 +276,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Wyoming Cowboys",
@@ -297,16 +297,16 @@
   "stability_score": 7,
   "record_2025": "4-8",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
+  "oc": "Christian Taylor, most recently an offensive advisor with the Buffalo Bills and William & Mary's coordinator from 2020 to 2023.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
   "staff_turnover_major": false,
   "qb_developer": false,
   "pages": "262-263",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  }
 ]
