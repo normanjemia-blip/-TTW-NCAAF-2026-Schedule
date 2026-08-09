@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Oregon Ducks |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Dante Moore |
+| 4 | Returning starter / new starter / transfer | Returning starter — turned down the NFL Draft. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Junior; 2025 was his first year starting at Oregon. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 3,565 yards and 30 touchdowns in his first year starting. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 11 | Turnover information | Four turnovers across the two meetings with Indiana, including a pick-six on the opening snap of the Peach Bowl. |
+| 12 | Competition status | None described — Moore is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | High on production, explicitly open on the biggest stage. The guide calls him justifiably a Heisman favorite and expects monster numbers again, while keeping the big-stage question open. |
+| 15 | Author's positive case | Heisman-favorite production with abundant support, on a roster the guide says may be the most talented in college football. |
+| 16 | Author's concerns | Big-game performance. The guide cites the two meetings with Indiana in which Moore was sacked nine times with four turnovers, including a pick-six on the opening snap of the Peach Bowl. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Deep. Jordon Davison and Dierre Hill Jr combined for 1,323 rushing yards as freshman backups, sophomore receivers Dakorien Moore and Jeremiah McClellan should start, and Evan Stewart returns from a knee injury. The line is the stated risk: Rimington Trophy finalist Iapani Laloulu anchors at center for a third season with Dave Iuli back at right guard, but three starters need replacing — and the guide poses a genuine puzzle about why the only line to be a Joe Moore Award finalist three years running struggles in big games, citing 11 three-and-outs, 11 sacks allowed and 21 tackles for loss across two playoff exits. |
+| 19 | Relevant portal context | Not addressed in guide for the quarterback position. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 10.5 wins, with the guide immediately conceding there is never much margin for error above 10.5, especially with trips to USC and Ohio State. What must go right: the offensive line gelling, and young skill players stepping up from productive backup roles. |
+| 21 | VSiN team outlook dependency on QB performance | High. Oregon returns 66% of net production headlined by Moore turning down the draft, and the guide's title case runs through him performing when it matters most. |
 | 22 | Relevant page references | pp. 170–171 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/oregon_ducks.md](../02_Team_Database/oregon_duck
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Dante Moore |
 | Current verified state | Dante Moore |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

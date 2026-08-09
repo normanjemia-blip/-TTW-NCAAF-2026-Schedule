@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Illinois Fighting Illini |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Katin Houser |
+| 4 | Returning starter / new starter / transfer | Transfer — from East Carolina, returning to the Big Ten after an earlier spell at Michigan State. |
+| 5 | Previous school | East Carolina; previously Michigan State. |
+| 6 | Career experience | Redshirted in 2022 and could not beat out Noah Kim at Michigan State, then started full-time at East Carolina, where he went 13-6 as a starter. |
+| 7 | Previous starts | Not addressed in guide as a start count; the guide records a 13-6 record as an East Carolina starter. |
+| 8 | Passing production | 3,300 yards on 65.9% completions with 19 touchdowns at East Carolina. |
+| 9 | Rushing contribution | Nine rushing touchdowns at East Carolina. |
+| 10 | Efficiency statistics | 65.9% completions. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Houser is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Cautiously positive. The guide judges he has a better supporting cast in Champaign than he had in East Lansing, while flagging two offsetting factors. |
+| 15 | Author's positive case | A better supporting cast than at Michigan State, following a productive full-time starting season at East Carolina. |
+| 16 | Author's concerns | A new system, and an offensive line replacing four starters. |
+| 17 | Scheme / coordinator fit | Flagged as a risk — the guide names the new system as one of two offsetting factors. |
+| 18 | Supporting-cast considerations | Weak up front. Four offensive line starters leave through graduation or the portal, including first-team All-Big Ten tackle J.C. Davis, and last year's group already struggled to run consistently — Duke, Indiana, Ohio State and Wisconsin averaged five sacks against them. Bielema is content with his backfield, having moved second-leading rusher Kaden Feagin to tight end, and imported only one Power Four transfer, Wisconsin center Jake Renfro. |
+| 19 | Relevant portal context | Houser arrives from East Carolina; only one Power Four offensive line transfer was added. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins. The decisive argument is the schedule and the lines, not the quarterback: three of the last four games are at home but all are coin flips — Nebraska, Iowa and Northwestern — and the guide concludes rebuilding both lines cannot be finished in one season. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. Illinois' 19 wins over two seasons are attributed largely to departed three-year starter Luke Altmyer, so the position matters, but the guide argues its Under from line rebuilding and schedule. |
 | 22 | Relevant page references | pp. 150–151 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/illinois_fighting_illini.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Katin Houser |
 | Current verified state | Katin Houser |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 5 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

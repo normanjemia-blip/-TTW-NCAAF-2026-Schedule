@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Rutgers Scarlet Knights |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Dylan Lonergan |
+| 4 | Returning starter / new starter / transfer | Transfer — from Boston College; described as likely to win the job rather than confirmed. |
+| 5 | Previous school | Boston College; previously taken to Alabama by Nick Saban as a four-star recruit. |
+| 6 | Career experience | Nine starts at Boston College; once a four-star recruit at Alabama. |
+| 7 | Previous starts | Nine at Boston College. |
+| 8 | Passing production | 66.9% completions for 2,025 yards with 12 touchdowns to five interceptions across nine starts. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 10 | Efficiency statistics | 66.9% completions. |
+| 11 | Turnover information | Five interceptions against 12 touchdown passes. |
+| 12 | Competition status | Live. Sophomore AJ Surace saw limited action behind Athan Kaliakmanis and now faces Lonergan; the guide expects Lonergan to win. |
+| 13 | Backup / challenger information | Sophomore AJ Surace, who saw limited action behind Kaliakmanis. |
+| 14 | Author's confidence in the QB situation | Moderate. The guide expects Lonergan to win the job and expects points regardless, without making a strong claim about him. |
+| 15 | Author's positive case | Efficient nine-start production at Boston College, with weapons available around him. |
+| 16 | Author's concerns | Replacing a two-year starter in Athan Kaliakmanis, behind a line with three spots open going into camp. |
+| 17 | Scheme / coordinator fit | Not addressed in guide directly; the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control given the defensive problems. |
+| 18 | Supporting-cast considerations | Better than Rutgers usually retains. The guide makes a structural point in passing — Rutgers consistently has player retention problems because of NIL — yet kept running back Antwan Raymond (1,275 yards, 13 touchdowns) and 6-foot-6 receiver K.J. Duff (60 catches, 1,084 yards, seven touchdowns). The line returns senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard with three spots open; Hank Zilinskas (Colorado), Everett Small (Eastern Michigan) and Isaiah Cook (Delaware State) bring starting experience. |
+| 19 | Relevant portal context | Lonergan and three offensive linemen arrived through the portal; the guide notes Rutgers is rebuilding its defense through the portal for a second straight season. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins. Even with the defensive problems the guide expects points, with Lonergan likely to win the job alongside Antwan Raymond and K.J. Duff — but it is clear the Over still requires winning a coin flip or two, naming Maryland and Northwestern away plus Michigan State. |
+| 21 | VSiN team outlook dependency on QB performance | High. The Over is argued from expected scoring, which the guide attaches to the quarterback plus the two retained skill players. |
 | 22 | Relevant page references | pp. 176–177 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/rutgers_scarlet_knights.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Dylan Lonergan |
 | Current verified state | Dylan Lonergan (likely starter; AJ Surace competing) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 30 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 50 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

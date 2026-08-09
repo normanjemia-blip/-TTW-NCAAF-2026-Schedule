@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Michigan State Spartans |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Alessio Milivojevic |
+| 4 | Returning starter / new starter / transfer | Returning — the incumbent who took over for the final four games of 2025, expected to hold the job. |
+| 5 | Previous school | Not applicable — incumbent. |
+| 6 | Career experience | Took over for the final four games of 2025, going 1-3. |
+| 7 | Previous starts | Four. |
+| 8 | Passing production | 986 yards in four starts. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 12 | Competition status | Live but with an expected winner. Cam Fancher, with 28 starts across Marshall, Florida Atlantic and UCF, will push him, but the guide expects the incumbent to hold the job. |
+| 13 | Backup / challenger information | Cam Fancher, 28 career starts across Marshall, Florida Atlantic and UCF. |
+| 14 | Author's confidence in the QB situation | Relatively positive by Michigan State's recent standards. The guide argues the programme should feel better about quarterback than in several seasons, while noting the position has been a revolving door since 2021. |
+| 15 | Author's positive case | The guide notes two of Milivojevic's three losses came by three points, and observes wryly that he produced a run of backdoor covers against Nebraska, Indiana and Michigan. |
+| 16 | Author's concerns | The position has failed repeatedly since Payton Thorne — neither Katin Houser, Noah Kim nor Aidan Chiles succeeded — and the receiver room has been stripped. |
+| 17 | Scheme / coordinator fit | New coordinator Nick Sheridan arrives from the same role at Alabama; the guide expects Milivojevic to hold the job for him and Fitzgerald. |
+| 18 | Supporting-cast considerations | Thin at receiver. All three top receivers are gone, including Nick Marsh to Indiana. Chrishon McCray (24 catches, 320 yards, two touchdowns) leads the returners but at 5-foot-10 lacks the size of a typical No. 1; KK Smith from Notre Dame and Fred Moore from Michigan were never featured previously. The guide concludes the run game, led by UConn transfer Cam Edwards (1,240 yards in 2025), will have to carry more. Five offensive line transfers arrive with 72 career starts, including FCS Rimington Award winner Trent Fraley. |
+| 19 | Relevant portal context | Fancher, Smith, Moore, Edwards and five offensive linemen with 72 combined career starts all arrived through the portal; the guide stresses this group must gel quickly after 72 sacks allowed over two years. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 3.5 wins, and the guide says laying around -150 is worth it. Its stated edge is that the market may be underestimating Fitzgerald as a proven programme builder. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. Quarterback is named as a reason to feel better, but the guide's edge is the coach and the market's read of him. |
 | 22 | Relevant page references | pp. 160–161 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/michigan_state_spartans.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Alessio Milivojevic |
 | Current verified state | Alessio Milivojevic |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 20 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M).
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

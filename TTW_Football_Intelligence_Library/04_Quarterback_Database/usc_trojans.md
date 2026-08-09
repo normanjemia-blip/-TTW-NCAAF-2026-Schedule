@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | USC Trojans |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Jayden Maiava |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Not addressed in guide as a career summary; named among the 14 returning starters. |
 | 7 | Previous starts | Not addressed in guide. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Maiava is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Implicitly positive but undeveloped. Maiava is named as part of what may be Riley's most talented group in five seasons; the guide's doubts are about the team's big-game record and a new coordinator, not the quarterback specifically. |
+| 15 | Author's positive case | Part of a group with 14 returning starters and the nation's No. 1 recruiting class, in an offense the guide expects to score plenty of points as always under Riley. |
+| 16 | Author's concerns | Not addressed as a quarterback concern; the guide flags a new coordinator installing a new system, and that most of the recruiting class may be a year away from real impact. |
+| 17 | Scheme / coordinator fit | Flagged as an unknown — the guide expresses concern about a new coordinator installing a new system. |
+| 18 | Supporting-cast considerations | Weakened at receiver, strong on the ground. Biletnikoff winner Makai Lemon and Ja'Kobi Lane take 1,900 receiving yards and 15 touchdowns with them; Tanook Hines (34 catches, 561 yards, two touchdowns) gets first chance as top target, with NC State transfer Terrell Anderson adding 628 yards at 16.1 per reception. The guide judges the group's talent slightly below USC's usual level and draws the tactical consequence that the Trojans may run more with King Miller and Waymond Jordan, who combined for over 1,500 yards and 15 touchdowns behind a line returning all five starters. |
+| 19 | Relevant portal context | Terrell Anderson arrives at receiver from NC State. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 8.5 wins. USC avoids none of the elite Big Ten teams; after a soft September in which 4-0 is likely it is thrown into the deep end. The guide grounds its case in record — USC is 5-11 against ranked opposition in Riley's four seasons and 10-10 in true Big Ten road games — and concludes that until the Trojans prove it in big games this looks like a repeat of last season. |
+| 21 | VSiN team outlook dependency on QB performance | Low to moderate. The guide's Under is argued from big-game and road record and from coordinator change, not from quarterback risk. |
 | 22 | Relevant page references | pp. 180–181 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/usc_trojans.md](../02_Team_Database/usc_trojans.
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Jayden Maiava |
 | Current verified state | Jayden Maiava |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

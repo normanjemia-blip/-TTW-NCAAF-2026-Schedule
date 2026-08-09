@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Maryland Terrapins |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Malik Washington |
+| 4 | Returning starter / new starter / transfer | Returning starter — started as a true freshman in 2025. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | True freshman starter in the Big Ten in 2025. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Just under 3,000 passing yards with a 17-to-9 touchdown-to-interception ratio. |
+| 9 | Rushing contribution | Four rushing scores. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate; the guide notes he can throw the ball anywhere. |
+| 11 | Turnover information | Nine interceptions against 17 touchdown passes. |
+| 12 | Competition status | None described — Washington is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive. The guide credits Washington with about all you could ask of a true freshman starting in the Big Ten and calls him a potential star. |
+| 15 | Author's positive case | Strong true-freshman production, an offensive line that allowed only nine sacks, and a new coordinator who wants to use his legs more. |
+| 16 | Author's concerns | A receiving corps plagued by drops that needs to become more reliable, and a running game the guide says has been absent for years. |
+| 17 | Scheme / coordinator fit | Changing and favourable in intent — Pep Hamilton moves to an advisory role and Clint Trickett takes over, wanting more RPO, more designed running from Washington, and increased tempo through more motion and more snaps. |
+| 18 | Supporting-cast considerations | Mixed. Four offensive line starters return and the group allowed only nine sacks, but run-blocking is poor: Maryland ranked second-to-last in the Big Ten at 104.3 rushing yards per game, 122nd nationally, with no 1,000-yard rusher since Roman Hemby in 2022. Leading rusher DeJuan Williams (501 yards, three touchdowns) returns and Harry Dalton III transfers in from USC. Maryland returns 71% of its production, second nationally to Notre Dame per ESPN's Bill Connelly. |
+| 19 | Relevant portal context | Harry Dalton III arrives from USC to support Washington and Williams. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins, with the guide flagging the price honestly — roughly -170 to -175 is called a juicy amount to lay. The path runs through an opener against Hampton, games at UConn and against Virginia Tech, both with new head coaches, then UCLA, Rutgers, Wisconsin and Purdue away. |
+| 21 | VSiN team outlook dependency on QB performance | High but conditional on others. The guide's conclusion is explicitly conditional: Washington is a potential star, but the group needs more production for him to realize it. |
 | 22 | Relevant page references | pp. 156–157 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/maryland_terrapins.md](../02_Team_Database/maryl
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Malik Washington |
 | Current verified state | Malik Washington |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

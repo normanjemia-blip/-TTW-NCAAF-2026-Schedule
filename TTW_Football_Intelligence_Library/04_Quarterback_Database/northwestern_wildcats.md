@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Northwestern Wildcats |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Aidan Chiles |
+| 4 | Returning starter / new starter / transfer | Transfer — from Michigan State, where he was benched after nine games. |
+| 5 | Previous school | Michigan State; before that he followed Jonathan Smith from Oregon State. |
+| 6 | Career experience | 8-12 as a starter across two seasons at Michigan State before being benched after nine games. |
+| 7 | Previous starts | Not addressed in guide as a start count; the guide records a 8-12 record across two seasons and a benching after nine games. |
 | 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 9 | Rushing contribution | Not addressed in guide as production; the guide describes him as the athletic, mobile quarterback Kelly wants. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 11 | Turnover information | Not addressed in guide as a count; accuracy and ball security are named as the risks that could reappear. |
+| 12 | Competition status | None described — Chiles is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Guarded. The guide sees a scheme fit while insisting Kelly must also restore his confidence, and closes on accuracy and ball security potentially reappearing as problems. |
+| 15 | Author's positive case | A clear scheme fit — he is the athletic, mobile quarterback Chip Kelly wants in a fast no-huddle spread — reunited with quarterbacks coach Jerry Neuheisel, who recruited him out of high school. |
+| 16 | Author's concerns | Accuracy and ball security potentially reappearing, and confidence needing to be rebuilt after the benching. |
+| 17 | Scheme / coordinator fit | Explicitly good. The guide says Kelly finally gives Northwestern a creative offensive mind, and that Chiles is the quarterback type that offense wants. |
+| 18 | Supporting-cast considerations | Solid. A three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State); five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns); the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. |
+| 19 | Relevant portal context | Chiles, Sawchuk and Seagren all arrived through the portal. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins. The guide acknowledges genuine excitement around the new stadium before applying what it calls a dose of reality, and its closing reservations are Chiles' accuracy and ball security potentially reappearing, plus a judgement that the defense can only carry the team so far against this schedule. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The quarterback's accuracy and ball security head the guide's list of closing reservations behind the Under. |
 | 22 | Relevant page references | pp. 166–167 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/northwestern_wildcats.md](../02_Team_Database/no
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Aidan Chiles |
 | Current verified state | Aidan Chiles |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 30 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

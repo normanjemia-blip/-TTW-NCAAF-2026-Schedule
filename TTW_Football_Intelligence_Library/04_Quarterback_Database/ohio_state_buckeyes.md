@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Ohio State Buckeyes |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Julian Sayin |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Not addressed in guide as a career summary; the guide treats him as the established starter. |
 | 7 | Previous starts | Not addressed in guide. |
 | 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 9 | Rushing contribution | Not addressed in guide as production; the guide notes Arthur Smith will let Sayin use his legs. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Sayin is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | High. Sayin and Jeremiah Smith are called arguably the best quarterback-receiver combination in the country. |
+| 15 | Author's positive case | Arguably the best quarterback-receiver combination in the country, on one of the sport's most talented rosters, with the guide expecting the training wheels to come off. |
+| 16 | Author's concerns | Not addressed in guide as a quarterback concern; the guide's reservations are 51 newcomers and the schedule. |
+| 17 | Scheme / coordinator fit | Expected to change in his favour. Ohio State ran the slowest-paced offense in college football, and the guide expects Arthur Smith to loosen it — suggesting Smith could do for the offense what Patricia did for the defense — while wanting to run more aggressively and letting Sayin use his legs. |
+| 18 | Supporting-cast considerations | Elite. Jeremiah Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option; Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. Four offensive line starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. |
+| 19 | Relevant portal context | 18 portal additions, 50 new players and another top-five recruiting class; Devin McCuin arrives at receiver from UTSA. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 9.5 wins. The guide notes a single-digit total would ordinarily be an obvious Over given Ohio State has not won fewer than ten in a full season since 2011, setting against that 51 newcomers and a loaded schedule. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The quarterback is treated as a settled strength rather than a risk; the guide's stated risks are roster turnover and schedule. |
 | 22 | Relevant page references | pp. 168–169 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/ohio_state_buckeyes.md](../02_Team_Database/ohio
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Julian Sayin |
 | Current verified state | Julian Sayin |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

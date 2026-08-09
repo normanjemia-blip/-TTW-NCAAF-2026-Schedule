@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Washington Huskies |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Demond Williams Jr |
+| 4 | Returning starter / new starter / transfer | Returning starter — after entering the transfer portal and returning to Seattle. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established starter who led Washington to fourth nationally in scoring and fifth in total offense. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Across Washington's four defeats he managed just 645 yards with three touchdowns and six interceptions. Team-level: fourth nationally in scoring at 34.1 points and fifth in total offense at 409.9 yards. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | Against the four best defenses Washington faced — Ohio State, Michigan, Wisconsin and Oregon — the Huskies averaged 9.3 points and 4.3 yards per play. |
+| 11 | Turnover information | Six interceptions across the four defeats. |
+| 12 | Competition status | None described — Williams is the settled starter, with the guide's concern being commitment and big-game form rather than competition. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive on talent, pointed about the rest. The guide calls him among the conference's more dynamic quarterbacks if the portal episode is behind everyone, then insists he simply has to be better against better teams. |
+| 15 | Author's positive case | He led Washington to fourth nationally in scoring at 34.1 points and fifth in total offense at 409.9 yards, and the guide treats his return as a necessary condition for the programme's next step. |
+| 16 | Author's concerns | Two: the near-departure, and big-game production. The guide records that days after signing a $4 million NIL deal to return, Williams entered the portal and was reportedly close to signing for more money with LSU; it did not reach court, and he returned. It suggests he received bad advice from his representatives. On the field, 645 yards with three touchdowns and six interceptions across four defeats is the stated problem. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Diminished at the skill positions, solid up front. Receiver Denzel Boston and running back Jonah Coleman are gone; receiver Dezmen Roebuck (42 catches, 560 yards, seven touchdowns) and tight end Decker DeGraaf return, with four-star receivers Jordan Clay, Mason James and Trez Davis part of Washington's highest-rated recruiting class in school history. At running back, Coleman's heir apparent Adam Mohammed transferred to Cal; seniors Jayden Limar (Oregon) and Trey Cooley (Troy) arrived but both missed spring with injuries, and Jordan Washington was also hurt, so redshirt freshman Quaid Carr and true freshman Brian Bonner took most reps. Four line starters return including the Hatchett brothers, center Landen and right guard Geirean, with five-star freshman Kodi Greene expected at left tackle. |
+| 19 | Relevant portal context | Williams himself entered and exited the portal. Jayden Limar and Trey Cooley arrived at running back; Adam Mohammed left for Cal. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins. Washington opens with an all-home September, so 4-0 is expected before the trip to USC, which the guide suggests could build confidence toward finally beating a good team. The counterweight it supplies is the 9.3 points and 4.3 yards per play against the four best defenses faced. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide states Williams' return is a necessary condition for the next step and puts the weight on him for the signature win Washington still lacks. |
 | 22 | Relevant page references | pp. 182–183 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/washington_huskies.md](../02_Team_Database/washi
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Demond Williams Jr |
 | Current verified state | Demond Williams Jr. |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

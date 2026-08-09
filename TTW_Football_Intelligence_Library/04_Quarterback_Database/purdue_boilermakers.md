@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Purdue Boilermakers |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Ryan Browne |
+| 4 | Returning starter / new starter / transfer | Returning starter — no portal quarterback was added, so the job is his again. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Incumbent starter who played through an ankle injury in 2025. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 2,153 yards with nine touchdowns to ten interceptions. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 11 | Turnover information | Ten interceptions against nine touchdown passes. |
+| 12 | Competition status | None — the guide states explicitly that no portal quarterback was added, making this Browne's job again. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Mixed but fair. The guide holds Browne to improvement while noting fairly that he had little help, and lists a settled quarterback among the reasons four wins is doable. |
+| 15 | Author's positive case | A settled quarterback situation, with far more skill-position help arriving and better line personnel. |
+| 16 | Author's concerns | A negative touchdown-to-interception ratio while playing hurt, in an offense that struggled in short yardage (85th on third downs) and the red zone (119th). |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Substantially rebuilt. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi (Minnesota), Jerrick Gibson (Texas) and Travis Terrell (Jackson State), plus three portal receivers all expected to start — Bisi Owens (Penn), Assad Wassem (Florida Atlantic) and Xavier Townsend (Iowa State) — with De'Nylon Morrissette back from an ankle injury. Left tackle Joey Tanona returns with as many as four new portal starters possible. |
+| 19 | Relevant portal context | Heavy at the skill positions and on the offensive line, but deliberately not at quarterback. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC; the guide rates the change an upgrade. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 3.5 wins. The guide is candid that Purdue is far from the competitiveness of the Jeff Brohm years while rating Odom and staff an upgrade on Ryan Walters' tenure, and concludes that a settled quarterback, better line personnel and some conference games with a smaller talent gap make four wins doable — but that is likely the ceiling. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. A settled quarterback is one of three stated reasons four wins is achievable, and the guide caps the ceiling regardless. |
 | 22 | Relevant page references | pp. 174–175 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/purdue_boilermakers.md](../02_Team_Database/purd
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Ryan Browne |
 | Current verified state | Ryan Browne |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 20 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M).
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

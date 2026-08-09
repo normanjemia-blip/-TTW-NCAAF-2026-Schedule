@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Wisconsin Badgers |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Colton Joseph |
+| 4 | Returning starter / new starter / transfer | Transfer — from Old Dominion; the fourth straight year Wisconsin's starting quarterback has come from the portal. |
+| 5 | Previous school | Old Dominion. |
+| 6 | Career experience | Sun Belt Player of the Year at Old Dominion. |
+| 7 | Previous starts | Not addressed in guide as a start count; the guide reports two seasons of production. |
+| 8 | Passing production | 4,251 passing yards and 32 touchdowns over two seasons. |
+| 9 | Rushing contribution | 1,654 rushing yards and 24 touchdowns over two seasons. The guide's sharpest illustration: Joseph individually had more runs of 10-plus yards last season, 37, than Wisconsin managed as a team, 33. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Joseph is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive on the player, pessimistic about what surrounds him. The guide sees him as a potential jolt and says he certainly makes the offense better, while judging the ceiling stays low with few proven playmakers. |
+| 15 | Author's positive case | Sun Belt Player of the Year production, and a running threat who individually out-produced the entire Wisconsin team in explosive runs. |
+| 16 | Author's concerns | The context rather than the player: the worst scoring offense in the Power Four at 12.8 points per game, 133rd nationally, and 81 points across nine Big Ten games in 2025, with few proven playmakers around him. |
+| 17 | Scheme / coordinator fit | Favourable in intent — coordinator Jeff Grimes is expected to go run-heavy, especially with a mobile quarterback, though the guide insists some receiver production is still required. |
+| 18 | Supporting-cast considerations | Thin. Very little receiving production returns — the leading receiver managed under 400 yards — with Chris Brooks Jr and Eugene Hilton back, joined by Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. On the ground Wisconsin ranked 115th nationally at 116.7 yards per game; leading rusher Darrion Dupree (83 carries, 363 yards, two touchdowns) returns with Abu Sama III from Iowa State (1,933 yards, 13 touchdowns across three seasons) and USC transfer Bryan Jackson II. Three offensive line starters are back. |
+| 19 | Relevant portal context | A complete roster makeover with 33 transfers; the guide judges the heavy portal reliance looks like a search for a quick fix. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 6.5 wins. After the Notre Dame opener at Lambeau Field the schedule eases, with three of the next four at home and Wisconsin avoiding Ohio State, Oregon and Indiana — yet the guide judges seven wins a big ask for a team lacking talent at many positions. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide states wins will stay scarce unless the offense improves, and Joseph is the named mechanism for that improvement — while capping the ceiling regardless. |
 | 22 | Relevant page references | pp. 184–185 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/wisconsin_badgers.md](../02_Team_Database/wiscon
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Colton Joseph |
 | Current verified state | Colton Joseph |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

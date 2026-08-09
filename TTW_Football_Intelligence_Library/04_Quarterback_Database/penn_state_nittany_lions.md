@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Penn State Nittany Lions |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Rocco Becht |
+| 4 | Returning starter / new starter / transfer | Transfer — from Iowa State, arriving with head coach Matt Campbell. |
+| 5 | Previous school | Iowa State. |
+| 6 | Career experience | Made 39 consecutive starts at Iowa State. |
+| 7 | Previous starts | 39 consecutive at Iowa State. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 12 | Competition status | None described — Becht is presented as the starter, with the guide's concern being availability rather than competition. |
+| 13 | Backup / challenger information | Thin and injured. Fellow Iowa State transfer Alex Manske also missed spring with injury, and Connor Barry, a Division III transfer from Christopher Newport, is the only other quarterback on the roster to have taken a college snap. |
+| 14 | Author's confidence in the QB situation | Positive but conditioned entirely on health — the guide's question is literally whether Becht can stay healthy. |
+| 15 | Author's positive case | 39 consecutive starts, arriving with his head coach, his coordinator and his top four pass catchers from Iowa State. |
+| 16 | Author's concerns | Durability. He made those starts despite a torn labrum, a sprained AC joint and two concussions last season, then had offseason surgery limiting him to 7-on-7 work — behind a depth chart with almost no experience. |
+| 17 | Scheme / coordinator fit | Maximal continuity — Campbell brought 11 assistants including coordinator Taylor Mouser plus 24 players from Ames. |
+| 18 | Supporting-cast considerations | Familiar. Running back Carson Hansen (1,771 yards, 19 touchdowns over two years) plus Ben Brahmer, Gabe Burkle, Chase Sowell and Brett Eskildsen — his top four pass catchers at Iowa State — with Ohio State transfer James Peoples and Quentin Martin Jr adding backfield depth. |
+| 19 | Relevant portal context | Campbell brought 24 from Iowa State within 40 total transfers, as Penn State replaces 70 players including eight drafted last spring. Thirty-six of the 40 are from Power Four schools; the guide draws an explicit comparison with Cignetti's 29 transfers to Indiana in 2024 and closes with the caution that the Big Ten is still a step above the Big 12. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 9.5 wins, built through a comparison — pundits spent last season asking who the next Indiana would be, and the guide suggests Penn State this year. Penn State avoids Ohio State, Oregon and Indiana entirely, travels to Michigan and Washington, and should be favored in every home game. |
+| 21 | VSiN team outlook dependency on QB performance | High, and specifically on availability. The guide's lead quarterback question is health, and the backup situation is described as thin. |
 | 22 | Relevant page references | pp. 172–173 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/penn_state_nittany_lions.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Rocco Becht |
 | Current verified state | Rocco Becht |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 30 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

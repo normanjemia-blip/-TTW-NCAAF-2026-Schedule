@@ -16,26 +16,26 @@
 | 1 | Team | Iowa Hawkeyes |
 | 2 | Conference | Big Ten |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | New starter, identity undetermined — the guide states coordinator Tim Lester chooses between two candidates without naming an expected winner. |
+| 5 | Previous school | Hank Brown was at Auburn; Jeremy Hecklinski's previous school is not addressed in guide. |
+| 6 | Career experience | Hank Brown started one game for Auburn two years ago; Jeremy Hecklinski has two career passing attempts. |
+| 7 | Previous starts | Hank Brown one; Jeremy Hecklinski none. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
+| 10 | Efficiency statistics | Team-level only: Iowa's passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 12 | Competition status | Genuinely open and unresolved in the guide. The candidates are Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide names no favourite. |
+| 13 | Backup / challenger information | The two named candidates are Hank Brown and Jeremy Hecklinski; the guide does not rank them. |
+| 14 | Author's confidence in the QB situation | Low, expressed as avoidance. The guide sets the bar by the problem — three straight seasons at 129th or 130th nationally in passing offense — and expects Iowa to lean on the run instead. |
+| 15 | Author's positive case | Not addressed in guide for either candidate; the guide's positive case is the run game rather than the quarterback. |
+| 16 | Author's concerns | Both candidates are effectively unproven, and Iowa has just lost Mark Gronowski and his 58 career wins after leaning on the portal for starters in recent seasons. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Strong, and expected to carry the offense: a talented line plus the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). |
+| 19 | Relevant portal context | Iowa responded to replacing 27 seniors, 16 of them starters, with a programme-record 16 transfers — which the guide presents as an acknowledgement that development alone is no longer sufficient. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins, but the guide is candid that 7.5 is the correct number given the questions and that there is little true betting edge. The supporting argument is Ferentz's floor — never fewer than eight wins since 2015 apart from 2020 and 2023 — and the guide gives the staff the benefit of the doubt despite an inexperienced quarterback. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide names the inexperienced quarterback as a reason for caution but rests its Over on Ferentz's floor and the running game. |
 | 22 | Relevant page references | pp. 154–155 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide names two candidates and declines to state an expected starter; this record therefore carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 154):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 5.
 

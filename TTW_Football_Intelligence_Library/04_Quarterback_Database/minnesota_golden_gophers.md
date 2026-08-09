@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Minnesota Golden Gophers |
 | 2 | Conference | Big Ten |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Drake Lindsey |
+| 4 | Returning starter / new starter / transfer | Returning starter — started all 13 games as a freshman in 2025. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Redshirt sophomore who started all 13 games as a freshman. |
+| 7 | Previous starts | 13. |
+| 8 | Passing production | 63.5% completions for 2,432 yards with 19 touchdowns to six interceptions. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | 63.5% completions. |
+| 11 | Turnover information | Six interceptions against 19 touchdown passes. |
+| 12 | Competition status | None described — Lindsey is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive with named limits. The guide says Lindsey has the potential to be special but lacks a true No. 1 receiver. |
+| 15 | Author's positive case | Solid freshman production across a full season, with Minnesota returning 68% of its 2025 production per ESPN's Bill Connelly and three of the top four pass catchers back. |
+| 16 | Author's concerns | No true No. 1 receiver, with Auburn transfer Perry Thompson the open question, plus doubts on the interior of both lines. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | The stated constraint. Minnesota ranked 116th nationally on the ground at 3.57 yards per carry and 127th in total offense. Running back Darius Taylor, who has almost 2,500 yards in 28 career games and managed 915 scrimmage yards despite missing five games, turned down portal interest to stay and should be clear of hamstring problems. The line returns three starters and adds Tennessee transfer right tackle Bennett Warren — and the guide concludes Lindsey's progress depends on it. |
+| 19 | Relevant portal context | Auburn transfer Perry Thompson is the open question at receiver; Bennett Warren arrives at right tackle from Tennessee. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 6.5 wins. The schedule offers a break in avoiding Ohio State and Oregon but still requires trips to Indiana, Penn State and Washington. The guide offers a situational path to clearing the number: Minnesota has beaten a ranked opponent as a home underdog in each of the last two years and likely needs the same against Michigan or Iowa. |
+| 21 | VSiN team outlook dependency on QB performance | High, but routed through the line. The guide states directly that Lindsey's progress depends on the offensive line. |
 | 22 | Relevant page references | pp. 162–163 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/minnesota_golden_gophers.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Drake Lindsey |
 | Current verified state | Drake Lindsey |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 
