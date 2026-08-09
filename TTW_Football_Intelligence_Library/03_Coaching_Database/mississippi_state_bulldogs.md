@@ -17,24 +17,24 @@
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 43) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
 | 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
+| 8 | Defensive coordinator | Zach Arnett, brought back as coordinator. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 43) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | New — the guide records Lebby addressing the defense by bringing back Zach Arnett as coordinator, and the Stability Score table (p. 43) awards 0 points for a returning defensive coordinator. |
 | 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. The guide's stated plan is Lebby building an offense around KaMario Taylor's explosive running ability. |
 | 13 | Defensive scheme / philosophy | Not addressed in guide. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated tendency. The guide records the 2025 run game as average at 3.7 yards per carry and 158 yards per game, and expects improvement with a dual-threat quarterback. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide expects Taylor's explosiveness to unlock more for Lebby's offense. |
+| 18 | Coordinator/head-coach continuity | Partial. Head coach and offensive coordinator return; the defensive coordinator and quarterback both change. |
+| 19 | Staff turnover | Confined to the defensive side, where Lebby brought Zach Arnett back. |
 | 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 21 | Portal/recruiting implications tied to staff | Not addressed in guide as a staff-driven effect. |
+| 22 | VSiN author's assessment of coaching | Pointed. The guide frames year three as make-or-break, noting Lebby is still seeking a second SEC win as head coach and is 1-15 straight up in conference play. It is careful to add he is 9-7 against the spread in those games, so he beats market expectations even while losing, then is blunt that he needs actual wins to keep his job. |
+| 23 | Coaching strengths | Offensive continuity at coordinator, year-to-year improvement from two wins to five, and a market record that outperforms the results. |
+| 24 | Coaching concerns | A 1-15 SEC record, a defense that allowed 30.4 points per game, and a schedule on which the guide says any SEC wins would come as major upsets. |
+| 25 | Betting implications explicitly tied to coaching | Recommendation is Over 4.5 wins. The coaching link is explicit in both directions: the bull case is Lebby building around Taylor's explosiveness, and the requirement is that Arnett improve a defense that allowed 30.4 points per game. The guide also notes Lebby's 9-7 ATS record in SEC games as evidence he beats market expectations while losing. |
 | 26 | Stability Score information | **9** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 298–299; Stability Score p. 43 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

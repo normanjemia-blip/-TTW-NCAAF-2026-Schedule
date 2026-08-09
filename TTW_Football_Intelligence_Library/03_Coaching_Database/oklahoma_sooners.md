@@ -16,25 +16,25 @@
 | 4 | Head-coach tenure | 5th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 43) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
+| 7 | Offensive coordinator | Ben Arbuckle. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 43) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name, though the guide says better play-calling is needed on the ground alongside the new offensive linemen. |
 | 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 13 | Defensive scheme / philosophy | Not addressed in guide as a named scheme. The guide records the unit finished third in defensive efficiency by EPA and led the country in success rate. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated tendency. The guide records a team-wide rushing failure — 3.5 yards per carry, 127th in rushing EPA per play and 128th in success rate — that coordinator Ben Arbuckle has to fix. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record, but a pre-existing relationship is central: Arbuckle was John Mateer's coordinator at Washington State, and the guide benchmarks Mateer's Oklahoma season against his form there. |
+| 18 | Coordinator/head-coach continuity | Complete. Head coach, offensive coordinator, defensive coordinator and quarterback all return, for a Stability Score of 17. |
 | 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 20 | Prior-school relationships | Washington State, where Arbuckle coached Mateer before both arrived at Oklahoma. |
+| 21 | Portal/recruiting implications tied to staff | Not addressed in guide as a staff-driven effect. |
+| 22 | VSiN author's assessment of coaching | The guide describes Brent Venables as consistently inconsistent — two 10-win seasons and two 6-7 seasons in Norman, with 2025 producing a fifth playoff appearance. |
+| 23 | Coaching strengths | Total continuity, an elite defense the guide expects to repeat, and a coordinator who already knows the quarterback from a more productive season together. |
+| 24 | Coaching concerns | The head coach's alternating record, and an offense that failed on the ground badly enough that the guide says play-calling must improve as well as personnel. |
+| 25 | Betting implications explicitly tied to coaching | Recommendation is Over 7.5 wins. The guide's logic runs through the coaching split: if the defense is close to its 2025 level — which it expects — the win floor is very high, leaving the offense as the open question. |
 | 26 | Stability Score information | **17** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 302–303; Stability Score p. 43 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

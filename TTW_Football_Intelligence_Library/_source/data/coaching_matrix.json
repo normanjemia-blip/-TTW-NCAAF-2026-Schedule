@@ -204,17 +204,17 @@
   "stability_score": 6,
   "record_2025": "7-6",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
+  "oc": "Charlie Weis Jr., brought from Ole Miss — the Ole Miss spread (p. 305) describes him as central to that offense and records him going to Baton Rouge.",
+  "dc": "Blake Baker.",
   "play_caller": "Not addressed in guide.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "296-297",
   "stability_page": 43,
   "carousel_page": 36,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Mississippi State Bulldogs",
@@ -236,7 +236,7 @@
   "record_2025": "5-8",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
+  "dc": "Zach Arnett, brought back as coordinator.",
   "play_caller": "Not addressed in guide.",
   "scheme_change": false,
   "staff_turnover_major": false,
@@ -245,7 +245,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Missouri Tigers",
@@ -276,7 +276,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Oklahoma Sooners",
@@ -297,9 +297,9 @@
   "stability_score": 17,
   "record_2025": "10-3",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
+  "oc": "Ben Arbuckle.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "play_caller": "Not addressed in guide by name, though the guide says better play-calling is needed on the ground alongside the new offensive linemen.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -307,7 +307,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Ole Miss Rebels",
@@ -328,17 +328,17 @@
   "stability_score": 10,
   "record_2025": "13-2",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
+  "oc": "John David Baker, East Carolina's coordinator in 2025.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "play_caller": "Changed, and the guide treats it as material: Golding had Weis calling plays in the postseason and now does not.",
+  "scheme_change": true,
   "staff_turnover_major": false,
   "qb_developer": false,
   "pages": "304-305",
   "stability_page": 43,
   "carousel_page": 36,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "South Carolina Gamecocks",

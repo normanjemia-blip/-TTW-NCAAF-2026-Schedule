@@ -15,26 +15,26 @@
 | 3 | Head coach | Pete Golding |
 | 4 | Head-coach tenure | 1st season |
 | 5 | New / returning head coach | **New** — the Stability Score table (p. 43) awards 0 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
+| 6 | Previous head-coaching experience | None as a head coach beyond the interim spell the guide describes — Golding is a first-time head coach charged with sustaining what he achieved on an interim basis. |
+| 7 | Offensive coordinator | John David Baker, East Carolina's coordinator in 2025. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
+| 9 | New / returning OC | New — Baker replaces Charlie Weis Jr., and the Stability Score table (p. 43) awards 0 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Changed, and the guide treats it as material: Golding had Weis calling plays in the postseason and now does not. |
+| 12 | Offensive scheme / philosophy | Not addressed as a named scheme. The guide flags the practical consequences of the change as new terminology and unknown play structure and flow. |
 | 13 | Defensive scheme / philosophy | Not addressed in guide. |
 | 14 | Tempo tendencies | Not addressed in guide. |
 | 15 | Run/pass tendencies | Not addressed in guide. |
 | 16 | Personnel tendencies | Not addressed in guide. |
 | 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 18 | Coordinator/head-coach continuity | Broken where it mattered most. The quarterback and defensive coordinator return, but the head coach is new in a permanent capacity and the offensive coordinator who ran the unit has left. |
+| 19 | Staff turnover | Golding replaced his offensive staff and retooled the skill positions; the guide notes he has had to hire a coordinator, rebuild groups such as receiver, and take charge of every facet. |
+| 20 | Prior-school relationships | The Coaching Carousel lists Golding's lineage: Todd Monken at Southern Miss, Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin. Coordinator John David Baker comes from East Carolina. |
+| 21 | Portal/recruiting implications tied to staff | Not addressed as a staff-driven effect beyond the retooled skill positions. |
+| 22 | VSiN author's assessment of coaching | Doubtful, and stated plainly. The guide poses the question directly — does Golding have head-coaching ability, or did he benefit from inheriting Lane Kiffin's team mid-run — and states its doubt about him openly. The Coaching Carousel is sympathetic to the athletic director's position while calling it hard not to feel underwhelmed, given Kiffin's offensive reputation and recruiting, though it credits the Rebels for playing extremely well in the CFP, beating Tulane and Georgia before falling short to Miami. |
+| 23 | Coaching strengths | Player buy-in — the Coaching Carousel notes the players rallied around Golding amid the drama of Kiffin's exit — a broad coaching lineage, and a genuine CFP run under him. |
+| 24 | Coaching concerns | A first-time head coach steering a programme with national title ambitions through a brutal conference, without the play-caller who ran the postseason offense. As a defensive coach, the guide expects his coordinator choice to hang over the season if the offense starts slowly. |
+| 25 | Betting implications explicitly tied to coaching | Recommendation is Under 7.5 wins, argued directly from coaching: the departures of the architects of one of the country's better offenses matter more than 16 returning starters, and combined with a taxing schedule the guide says it could mean a disappointing season in Oxford. |
 | 26 | Stability Score information | **10** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 304–305; Stability Score p. 43; Coaching Carousel p. 36 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
@@ -58,7 +58,7 @@ Steve Makinen's Stability Score (pp. 41–44), reproduced exactly. This library 
 
 *Adam Burke, p. 36. GUIDE CONTENT — TTW reference notes summarising the guide's assessment; the judgement is the guide's.*
 
-Not addressed in guide.
+The guide frames this as a tough situation for AD Keith Carter: the players rallied around Golding amid the made-for-TV drama of Kiffin's exit, yet set against Kiffin's offensive reputation and recruiting — including in the JUCO ranks — it says it is hard not to feel underwhelmed. It gives the counterweight fairly, noting the Rebels played extremely well in the CFP, beating Tulane and Georgia before falling short to Miami. It closes by listing the coaches Golding has worked under: Todd Monken at Southern Miss, Ron Roberts at SE Louisiana, Frank Wilson at UTSA, Nick Saban at Alabama, and Kiffin.
 
 ## 29. Cross-links
 
