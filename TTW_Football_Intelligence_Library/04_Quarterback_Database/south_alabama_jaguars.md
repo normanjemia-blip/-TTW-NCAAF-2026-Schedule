@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | South Alabama Jaguars |
 | 2 | Conference | Sun Belt |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Bishop Davenport |
+| 4 | Returning starter / new starter / transfer | Returning starter — the guide notes he prepared all summer knowing the team is his. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Took over after Gio Lopez left for North Carolina following spring practices. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | Completed 68% of his passes, 12th nationally as a team figure, with a 12-to-6 touchdown-to-interception ratio. |
+| 9 | Rushing contribution | 116 carries for only 326 yards. |
+| 10 | Efficiency statistics | 68% completions, 12th nationally as a team figure. |
+| 11 | Turnover information | Six interceptions against 12 touchdown passes. |
+| 12 | Competition status | None described — Davenport is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive. Asked whether the offense improves, the guide's stated answer, with Applewhite calling plays, is yes. |
+| 15 | Author's positive case | A high completion rate with a positive touchdown-to-interception ratio, a full summer of preparation as the settled starter, and the head coach taking over play-calling. |
+| 16 | Author's concerns | Modest rushing efficiency — 116 carries for only 326 yards — while the guide expects him to be asked to throw and run more with Kentrell Bullock gone. |
+| 17 | Scheme / coordinator fit | Applewhite will serve as his own offensive coordinator, and the guide expects more tempo to use the receivers' speed. |
+| 18 | Supporting-cast considerations | Diminished. 1,000-yard rusher Kentrell Bullock and receiver Devin Voisin, whose 67 catches were 27 more than anyone else, are gone. Returning production is modest: Keenan Phillips at 4.8 yards per carry on 126 attempts, PJ Martin at 5.4, and Anthony Eager second in catches with 40 for only 339 yards. The guide states surprise that the Jaguars did not pursue portal receivers with more fervour. |
+| 19 | Relevant portal context | A split verdict — the fourth-ranked freshman class per 247Sports alongside the second-worst transfer portal class. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins, described as trusting its own numbers, with a projection of 5.12 wins. It attaches an unusually strong variance warning: this is as high-variance a team as you will see in the Sun Belt. Faster tempo and explosive plays would change the story, but could also hurt a team very short on depth and very green in the secondary. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide expects quarterback-led improvement while taking the Under on depth, secondary inexperience and the cross-division draw. |
 | 22 | Relevant page references | pp. 340–341 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/south_alabama_jaguars.md](../02_Team_Database/so
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Bishop Davenport |
 | Current verified state | Bishop Davenport |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

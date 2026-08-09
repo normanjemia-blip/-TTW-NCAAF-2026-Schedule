@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Louisiana Ragin’ Cajuns |
 | 2 | Conference | Sun Belt |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Lunch Winfield |
+| 4 | Returning starter / new starter / transfer | Returning starter — the guide notes the job is officially his now. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Lost out to Walker Howard at the start of last season, then split time with Daniel Beale once Howard was hurt, before leading a four-game winning streak to reach a bowl. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | An 11-to-7 touchdown-to-interception ratio at 58.8% completions. |
+| 9 | Rushing contribution | 667 rushing yards and nine rushing touchdowns. |
+| 10 | Efficiency statistics | 58.8% completions — the guide calls him a mediocre-at-best passer. |
+| 11 | Turnover information | Seven interceptions against 11 touchdown passes. |
+| 12 | Competition status | Resolved — the guide says the job is officially his now. |
+| 13 | Backup / challenger information | Daniel Beale is named as the player he split time with last season. |
+| 14 | Author's confidence in the QB situation | Split by skill. The guide's assessment is a mediocre-at-best passer but a genuine runner, and it suggests the clarity of having the job may help. |
+| 15 | Author's positive case | He led a four-game winning streak to reach a bowl, is a genuine runner, and coordinator Tim Leger can now scheme the offense exclusively around him. |
+| 16 | Author's concerns | Passing quality, and how narrow last season's run was — three of those four wins came by four points or fewer, as did four of the team's five conference wins. |
+| 17 | Scheme / coordinator fit | Favourable in intent — the guide says Leger can now scheme the offense exclusively around him. |
+| 18 | Supporting-cast considerations | Built to run. The guide says this is a big offensive line group and the plan is plainly to run the ball as much as possible, with the supporting evidence that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. That line was battered last season, with three players suffering long-term injuries early. |
+| 19 | Relevant portal context | The fewest portal additions in the conference, which the guide names as its central worry, offering two possible explanations: either there is not much money there, or nobody is willing to invest it. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins. The guide states it does not know that things are working with Desormeaux and that the athletic department may face a big decision. Its central worry is the complete lack of portal involvement while other conference programmes improve externally. Projection is 7.25 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Under is argued from the coach's trajectory and roster building rather than from the quarterback, whose role it treats as now settled. |
 | 22 | Relevant page references | pp. 334–335 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/louisiana_ragin_cajuns.md](../02_Team_Database/l
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Lunch Winfield |
 | Current verified state | Lunch Winfield |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Coastal Carolina Chanticleers |
 | 2 | Conference | Sun Belt |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Deuce Bailey |
+| 4 | Returning starter / new starter / transfer | Transfer — from Missouri State, following head coach Ryan Beard. |
+| 5 | Previous school | Missouri State. |
+| 6 | Career experience | Jacob Clark's backup at Missouri State, who got his chance when Clark was hurt. |
+| 7 | Previous starts | Not addressed in guide as a count. |
 | 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 9 | Rushing contribution | Not addressed in guide as production; the guide's comparison is to a dual-threat profile. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 12 | Competition status | Live. Other options are Trever Jackson from Arkansas and JUCO transfer Tre Guerra, whose offer list the guide gives as Texas Tech, Kentucky, Florida State, LSU and Virginia. |
+| 13 | Backup / challenger information | Trever Jackson (Arkansas) and Tre Guerra (JUCO). |
+| 14 | Author's confidence in the QB situation | Positive about the group rather than the individual: the guide's overall verdict is that the talent level at the position looks a lot better. |
+| 15 | Author's positive case | Beard's familiarity with Bailey is treated as an advantage, and the guide's comparison is to Samari Collier, who injected a major spark into the Coastal offense last season — a dual-threat at six yards per carry who led the team to over 40 PPG before getting hurt. It observes that a dual-threat quarterback looks like a luxury in this conference. |
+| 16 | Author's concerns | None of the current quarterback options are experienced at this level, and the guide expects negative plays from sacks to be a real worry. |
+| 17 | Scheme / coordinator fit | Beard brought his coordinators with him, which the guide credits as sideline continuity, and Bailey already knows the staff. |
+| 18 | Supporting-cast considerations | The guide's biggest worry. Its warning comes from Missouri State's numbers: even with a very experienced quarterback, Clark was sacked 48 times and the team allowed 52 sacks overall, while the Bears managed just 3.5 yards per carry. On the line itself: a girthy group of very big bodies, but none who have played together, and only Daughtry Richardson was a high-ranked recruit. It calls this easily the most questionable position group. |
+| 19 | Relevant portal context | Roughly 60 new players including a conference-high 42 transfers per 247Sports. The guide notes all the quarterbacks Beard brought in, and virtually all the skill players, have eligibility beyond this season. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 4.5 wins, argued as a timing question rather than a talent one: this season is about building for next season, with eligibility the supporting evidence. Projection is 4.86 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Under is argued from the scale of the rebuild and forward-looking eligibility rather than from quarterback quality, which it rates improved. |
 | 22 | Relevant page references | pp. 320–321 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/coastal_carolina_chanticleers.md](../02_Team_Dat
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state still lists this quarterback but the job is not settled; confidence is L.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Deuce Bailey |
 | Current verified state | Open (Deuce Bailey among candidates) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 75 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 85 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position; transfer context in verification note.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; partial VSiN/current-state disagreement; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

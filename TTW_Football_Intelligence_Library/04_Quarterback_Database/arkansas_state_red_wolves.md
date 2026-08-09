@@ -16,26 +16,26 @@
 | 1 | Team | Arkansas State Red Wolves |
 | 2 | Conference | Sun Belt |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | New starter, identity undetermined — the guide expects the competition to take time and lists four candidates without choosing. |
+| 5 | Previous school | Trey Owens from Texas; Drew Dickey and Jeremy St-Hilaire from Vanderbilt; Ethan Crawford is the holdover. |
+| 6 | Career experience | Crawford did not play last season; Owens was a four-star Texas prospect who never saw the field; Dickey and St-Hilaire sat behind Diego Pavia at Vanderbilt. The guide's summary is essentially zero experience on the roster. |
+| 7 | Previous starts | None recorded for any candidate. |
+| 8 | Passing production | Not addressed in guide for any candidate. Departing starter Jaylen Raynor posted a career-best 3,361 passing yards on a Sun Belt-leading 501 attempts. |
+| 9 | Rushing contribution | Not addressed in guide for any candidate; Raynor managed 2.7 yards per carry. |
+| 10 | Efficiency statistics | Not addressed in guide for any candidate. |
+| 11 | Turnover information | Not addressed in guide for any candidate; team-level, Arkansas State posted a -7 turnover margin. |
+| 12 | Competition status | Open among Ethan Crawford, Trey Owens, Drew Dickey and Jeremy St-Hilaire, with the guide giving a distinct reason to believe in each: the ex-Commodores already know Altman's philosophy, Owens probably has the most untapped upside, and Crawford knows the returning skill players. |
+| 13 | Backup / challenger information | The four named candidates are Crawford, Owens, Dickey and St-Hilaire. |
+| 14 | Author's confidence in the QB situation | Low on identity, positive on the offense. The guide expects the competition to take time while concluding Altman may well create a much more explosive offense. |
+| 15 | Author's positive case | Coordinator Garrett Altman's pedigree — still playing at TCU a decade ago, an analyst at New Mexico State when Pavia was there and therefore instrumental in every phase of that quarterback's development, with Vanderbilt leading the nation at 7.47 yards per play last season. |
+| 16 | Author's concerns | Essentially zero experience on the roster, and the loss of all-time leading receiver Corey Rucker alongside the quarterback. |
+| 17 | Scheme / coordinator fit | A fresh installation is going in anyway with Altman's arrival, and two of the candidates already know his philosophy. |
+| 18 | Supporting-cast considerations | Reasonable. Top rushers Devin Spencer and Kenyon Clay return, plus 5-foot-6 receiver Chauncy Cobb, who had 73 catches last season. |
+| 19 | Relevant portal context | Dickey and St-Hilaire followed Altman's system from Vanderbilt; Owens arrives from Texas. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 5.5 wins, though the guide reframes the question — the vig is heavy on 5.5, so the better question is whether to venture Over 6.5. It prefers a different market entirely, betting Over the game total weekly, with an explicit timing argument: if a quarterback emerges the books will catch up, but if Altman picks the right player from the outset there is an edge before the market adjusts. Projection is 6.36 wins. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide's preferred market position is constructed around the timing of the quarterback resolution relative to the books. |
 | 22 | Relevant page references | pp. 332–333 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide names four candidates and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 332):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 7.
 
@@ -73,9 +73,9 @@ The guide names no expected starter clearly enough to test.
 | VSiN preseason expectation | Not addressed in guide. |
 | Current verified state | Open (Owens / Dickey / St. Hilare / Haly) |
 | Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 70 |
+| Monitoring priority score | 95 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position; VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

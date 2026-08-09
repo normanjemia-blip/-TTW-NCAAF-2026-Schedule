@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Marshall Thundering Herd |
 | 2 | Conference | Sun Belt |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Carlos Del Rio-Wilson |
+| 4 | Returning starter / new starter / transfer | Returning starter — the guide records him finding a home after bouncing around. |
+| 5 | Previous school | Florida and Syracuse before Marshall. |
+| 6 | Career experience | First crack as a starter last season after stops at Florida and Syracuse. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | Threw for more than 2,000 yards, accounting for 23 total touchdowns. |
+| 9 | Rushing contribution | Led the team in rushing with 661 yards. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate; the guide notes team-level gains in yardage per game and completions. |
+| 11 | Turnover information | Not addressed in guide individually; Marshall posted a +6 turnover margin. |
+| 12 | Competition status | None described — Del Rio-Wilson is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive and conditional on health. The guide says that if he stays healthy he should be fine. |
+| 15 | Author's positive case | He took advantage of his first starting opportunity, leading the team in rushing while throwing for over 2,000 yards and accounting for 23 total touchdowns, in an offense that was nearly as good as the year before despite the coaching upheaval. |
+| 16 | Author's concerns | The supporting cast is the open question — running back was a committee approach and three backs who averaged 5-plus yards per carry are gone, as is leading receiver Demarcus Lacey, who had 28 more receptions than anyone else. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Weakened but partly rebuilt. Receiver was a focal point in the portal and tight end Toby Payne is rated one of the best in the conference at his position. |
+| 19 | Relevant portal context | A 5-7 team did not really improve through the portal or the freshman class, judged by conference ranking, though receiver and cornerback were focal points. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins, explicitly labelled not a bet but a gamble on the schedule. The favourable half: Marshall draws South Alabama and UL Monroe from the West and all conference home games are winnable. The unfavourable half: daunting road games at Penn State, James Madison and Old Dominion. It adds a specific warning about Ryan Beard, who put 474 yards on the Herd last season. Projection is 7.35 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The quarterback is treated as a settled strength; the guide's Under is a schedule position. |
 | 22 | Relevant page references | pp. 328–329 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/marshall_thundering_herd.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Carlos Del Rio-Wilson |
 | Current verified state | Carlos Del Rio-Wilson |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

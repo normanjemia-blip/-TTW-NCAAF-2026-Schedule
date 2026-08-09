@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | Louisiana Tech Bulldogs |
 | 2 | Conference | Sun Belt |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Trey Kukuk |
+| 4 | Returning starter / new starter / transfer | Returning — the guide treats him as the quarterback whose running held last season's offense together. |
+| 5 | Previous school | Not applicable — returning. |
+| 6 | Career experience | Not addressed in guide as a career summary. |
 | 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 8 | Passing production | Not addressed individually; the guide reports Louisiana Tech's quarterbacks collectively posted an 8-to-9 touchdown-to-interception ratio while the team completed over 62% of its passes. |
+| 9 | Rushing contribution | Better than six yards per carry — the guide argues things could have gone very differently without his running. |
+| 10 | Efficiency statistics | Team-level: over 62% completions from the quarterback group. |
+| 11 | Turnover information | He threw more interceptions than touchdowns; the group ratio was 8 to 9. |
+| 12 | Competition status | None described. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Sceptical of the offense as a whole rather than of him individually. The guide's answer to whether to buy stock in the offense is built on concentration risk. |
+| 15 | Author's positive case | His running was the load-bearing element — better than six yards per carry — in an offense that finally carried its weight. |
+| 16 | Author's concerns | A negative touchdown-to-interception ratio, and an offense whose rushing profile came from very few games: almost 11 yards per carry against Sam Houston, 5.9 against Liberty and 7.6 against Missouri State, rendered as 353 rushing yards against New Mexico State, 426 against Sam Houston, 319 against Liberty and 388 against Missouri State — four games accounting for 1,486 of 2,540 rushing yards, leaving just 1,054 across the other nine. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Not addressed in guide in detail beyond the rushing profile above. |
+| 19 | Relevant portal context | Not addressed in guide at quarterback. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins, available at plus money, from a team that produced 3, 3 and 5 regular-season wins for Cumbie before last season's 7-5 mark. Its projection is 5.76 wins, above the number, but it calls the defense very ripe for regression and says the abundance of closely lined games makes that a prominent factor — Louisiana Tech is favoured by more than two points only three times. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Under is argued from defensive regression, the conference step up and personnel losses; the quarterback appears mainly as the reason last season's rushing worked. |
 | 22 | Relevant page references | pp. 338–339 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide's rushing passage names three opponents by yards-per-carry then lists four by total rushing yards, adding New Mexico State. Both formulations are reproduced in the Team Database as printed and neither is corrected here. |
 
 **Returning-QB marker on the team spread (p. 338):** present — the guide marks this team as returning its quarterback. Printed offensive returning starters: 5.
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/louisiana_tech_bulldogs.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### STALE
 
-The guide names no expected starter clearly enough to test.
+Verified state names a different quarterback from the guide's expected starter.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Trey Kukuk |
 | Current verified state | Blake Baker |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | No — superseded by verified information. |
+| Monitoring priority score | 30 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN/current-state disagreement.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

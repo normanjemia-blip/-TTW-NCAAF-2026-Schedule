@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Georgia Southern Eagles |
 | 2 | Conference | Sun Belt |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Max Johnson |
+| 4 | Returning starter / new starter / transfer | Transfer — a much-travelled veteran in his final year of eligibility, replacing all-time leading passer JC French. |
+| 5 | Previous school | LSU, Texas A&M and North Carolina across seven seasons. |
+| 6 | Career experience | Seven seasons at LSU, Texas A&M and North Carolina. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | Not addressed in guide. The benchmark it sets is Kyle Vantrease, third on the programme list with 4,253 yards from one season in 2022, with departing starter JC French leading at 5,882. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Johnson is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive. The guide presents him as capable of a Vantrease-like season or better and says he has a chance at a massive season in his final year of eligibility. |
+| 15 | Author's positive case | The guide notes the obvious joke about his longevity, then makes the serious point that schools keep paying him to come. It adds context that Helton moved the Eagles from an option offense to a spread, which has produced productive quarterback play in relative terms. |
+| 16 | Author's concerns | The top five pass-catchers are gone, including 1,000-yard receiver Camden Brown, now with the Cowboys. |
+| 17 | Scheme / coordinator fit | The spread Helton installed has produced productive quarterback play in relative terms; the guide argues the scheme itself will produce numbers. |
+| 18 | Supporting-cast considerations | Rebuilt. Marcus Sanders and Dalen Cobb combined for 107 catches and eight touchdowns and are gone, as is Camden Brown, who had 65 catches with 14 going for scores. Candidates named are 6-foot-5 Ashton Hollis from Illinois and Andre Greene, a highly touted recruit who did little at Virginia, plus Josh Dallas and River Helms, both back after being lost early last season. Its conclusion is that the WR1 may be unknown but many players can put up statistics in this offense, especially with Johnson throwing. |
+| 19 | Relevant portal context | Johnson, Hollis and Greene all arrived through the portal; JC French left for Cincinnati. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins, described as tough: the price is juicy, but six wins is a challenge given the schedule. Its conclusion is bullish anyway — a really high ceiling, possibly higher than anyone expects if Mutz can fix the defense — and it calls this one of its biggest overlays, with a projection of 5.49 wins putting the alt Over 5.5 in play. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide frames the defense as the swing factor precisely because the offensive upside with a very experienced quarterback is already assumed. |
 | 22 | Relevant page references | pp. 322–323 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/georgia_southern_eagles.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Max Johnson |
 | Current verified state | Max Johnson (leader; Turner Helton competing) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 40 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 60 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; injury or availability language in verification note; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play; injury or availability language in verification note; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

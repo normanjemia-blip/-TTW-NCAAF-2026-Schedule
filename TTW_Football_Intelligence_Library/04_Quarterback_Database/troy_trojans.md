@@ -16,26 +16,26 @@
 | 1 | Team | Troy Trojans |
 | 2 | Conference | Sun Belt |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | Returning pair, unresolved — both 2025 starters are back and the guide states its own curiosity about how the competition resolves. |
+| 5 | Previous school | Not applicable — both are holdovers. |
+| 6 | Career experience | Both Tucker Kilcrease and Goose Crowder sat behind Matthew Caldwell in 2024 and entered 2025 as 1a and 1b, flipping places depending on the day. |
+| 7 | Previous starts | Not addressed as counts; the guide gives the sequence — Crowder won the job but was hurt in the third game, Kilcrease still started against Old Dominion on Crowder's return, then was hurt himself, and Crowder finished the season. |
+| 8 | Passing production | Troy's quarterbacks posted a 20-to-11 touchdown-to-interception ratio while under duress on seemingly every dropback. |
+| 9 | Rushing contribution | Kilcrease had 116 carries and Crowder 57. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 11 | Turnover information | 11 interceptions against 20 touchdown passes; Troy was exactly even in turnover margin. |
+| 12 | Competition status | Genuinely open. The guide treats it as a rarity in the transfer era that two quarterbacks both stayed, and its evidence on their relative standing comes from the market: when Crowder was hurt and Kilcrease took over, the betting action indicated Kilcrease was seen as a clear downgrade. |
+| 13 | Backup / challenger information | The two incumbents are Tucker Kilcrease and Goose Crowder; 6-foot-5 East Mississippi CC quarterback Rodge Waldrop is also on the roster. |
+| 14 | Author's confidence in the QB situation | Explicitly curious rather than settled — the guide states its own curiosity about how this plays out. |
+| 15 | Author's positive case | The quarterbacks posted a 20-to-11 ratio while under constant duress, which the guide calls incredible, and health luck should improve. |
+| 16 | Author's concerns | Protection above all: 59 sacks allowed, which the guide verified was not a typo and was seven more than the next closest team. |
+| 17 | Scheme / coordinator fit | New coordinator Adam Austin led a Tarleton offense with five 50-point games that was the highest-scoring team at the FCS level and second only to North Texas across all of Division I. |
+| 18 | Supporting-cast considerations | A couple of starters return on the offensive line, which the guide does not treat as automatically good news, with the portal heavily used to fill out the rest. |
+| 19 | Relevant portal context | A number of East Mississippi CC players are now on the roster, including quarterback Rodge Waldrop; the guide infers from the 2024-to-2025 defensive improvement that this staff is adept at finding talent in the portal. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 6.5 wins — called juicy but considered a bet — with Over 7.5 also liked on an alt win total. Its projection is 6.86 wins. The closing case is health-based: Parker reached eight wins with a dumpster fire on the offensive line and two injured quarterbacks, the roster is better now, and it cannot imagine the health luck being that bad again. |
+| 21 | VSiN team outlook dependency on QB performance | Very high, and specifically on availability. The guide's Over is built on quarterback health luck reverting. |
 | 22 | Relevant page references | pp. 344–345 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide declines to name a starter between two returning quarterbacks, so this record carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 344):** present — the guide marks this team as returning its quarterback. Printed offensive returning starters: 4.
 
@@ -73,9 +73,9 @@ The guide names no expected starter clearly enough to test.
 | VSiN preseason expectation | Not addressed in guide. |
 | Current verified state | Goose Crowder |
 | Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Monitoring priority score | 30 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: no VSiN preseason position; VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 
