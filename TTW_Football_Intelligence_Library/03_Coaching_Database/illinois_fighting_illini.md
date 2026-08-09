@@ -15,26 +15,26 @@
 | 3 | Head coach | Bret Bielema |
 | 4 | Head-coach tenure | 6th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Not addressed in guide for Bret Bielema. The guide does record the incoming defensive coordinator's head-coaching background: Bobby Hauck arrives after an eight-year second spell as Montana head coach. |
 | 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
+| 8 | Defensive coordinator | Bobby Hauck, in from Montana after Aaron Henry left for Notre Dame. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | New — the guide records Aaron Henry leaving for Notre Dame and Hauck arriving, and the Stability Score table (p. 42) awards 0 points for a returning defensive coordinator. |
 | 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme, though the guide describes a new system for the incoming quarterback and names it as one of two offsetting risks. |
+| 13 | Defensive scheme / philosophy | Named. The guide describes Hauck installing a new 3-3-5 defense and allows the scheme could catch opponents by surprise. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Stated as an identity the results do not match. The guide records that Illinois prides itself on old-school physical Big Ten football under Bielema, yet ranked 13th in the conference rushing at 138.1 yards per game. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide judges Katin Houser has a better supporting cast in Champaign than he had at Michigan State, while flagging the new system and a rebuilt line against him. |
+| 18 | Coordinator/head-coach continuity | Head coach and offensive coordinator return; the defensive coordinator and quarterback both change. The Stability Score table (p. 42) prints 4, 3, 0 and 0, plus 2 for 11 returning starters, totalling 9. |
+| 19 | Staff turnover | Concentrated on defense: Aaron Henry left for Notre Dame and Hauck was hired to reinvent what the guide calls a stale defense. |
+| 20 | Prior-school relationships | Montana for Hauck. On the roster the guide records Katin Houser returning to the Big Ten from East Carolina having previously been at Michigan State, and Wisconsin center Jake Renfro arriving as the only Power Four transfer on the line. |
+| 21 | Portal/recruiting implications tied to staff | Tied directly to the staff. The guide rates Bielema among the country's better evaluators and developers of linemen, then cautions that he imported only one Power Four transfer for a line replacing four starters, and notes the defensive line's five departing rotational players are replaced by Group of Six or FCS talent. |
+| 22 | VSiN author's assessment of coaching | Credit for the record, scepticism about the identity. The guide notes Illinois won 19 games across the last two seasons, the most in programme history over a two-year span, then sets out a gap between identity and output — an old-school physical programme that ranked 13th in the Big Ten rushing and 12th in scoring defense at 23.6 points allowed. |
+| 23 | Coaching strengths | A head coach the guide rates among the country's better evaluators and developers of offensive linemen, a coordinator hire with top-20 FCS scoring defenses and top-10 takeaway finishes in three of the last five years, four returning senior defensive backs including All-Big Ten free safety Xavier Scott, and a new scheme the guide says could catch opponents by surprise. |
+| 24 | Coaching concerns | A defensive line replacing five rotational players including second-round pick Gabe Jacas with Group of Six and FCS talent — which the guide calls the roster's biggest question — a line already overmatched against better fronts, and a new quarterback learning a new system behind it. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **9** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 150–151; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
