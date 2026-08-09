@@ -155,7 +155,7 @@
    "verification_date": "2026-08-03",
    "verification_status": "VERIFIED 7D.3A",
    "relationship": "PARTIALLY ALIGNED",
-   "reason": "Both sources describe an unsettled competition, but they do not name the same leading quarterback.",
+   "reason": "Verified state still lists this quarterback but the job is not settled; confidence is L.",
    "priority": 85,
    "priority_drivers": [
     "low-confidence verification (L)",
@@ -1571,7 +1571,7 @@
    "verification_date": "2026-08-04",
    "verification_status": "VERIFIED 7D.5",
    "relationship": "PARTIALLY ALIGNED",
-   "reason": "Both sources describe an unsettled competition, but they do not name the same leading quarterback.",
+   "reason": "Verified state still lists this quarterback but the job is not settled; confidence is L.",
    "priority": 120,
    "priority_drivers": [
     "low-confidence verification (L)",
@@ -2471,13 +2471,13 @@
    "confidence": "L",
    "verification_date": "2026-08-04",
    "verification_status": "VERIFIED 7D.5",
-   "relationship": "UNRESOLVED",
-   "reason": "Verified state records an open competition that does not confirm or refute the guide's expectation.",
-   "priority": 115,
+   "relationship": "PARTIALLY ALIGNED",
+   "reason": "Verified state still lists this quarterback but the job is not settled; confidence is L.",
+   "priority": 110,
    "priority_drivers": [
     "low-confidence verification (L)",
     "unresolved competition in verified state",
-    "relationship unresolved",
+    "partial VSiN/current-state disagreement",
     "VSiN handicap depends heavily on QB play",
     "transfer context in verification note"
    ],
@@ -2690,13 +2690,13 @@
    "confidence": "L",
    "verification_date": "2026-08-04",
    "verification_status": "VERIFIED 7D.4A",
-   "relationship": "UNRESOLVED",
-   "reason": "Verified state records an open competition that does not confirm or refute the guide's expectation.",
-   "priority": 115,
+   "relationship": "PARTIALLY ALIGNED",
+   "reason": "Verified state still lists this quarterback but the job is not settled; confidence is L.",
+   "priority": 110,
    "priority_drivers": [
     "low-confidence verification (L)",
     "unresolved competition in verified state",
-    "relationship unresolved",
+    "partial VSiN/current-state disagreement",
     "VSiN handicap depends heavily on QB play",
     "transfer context in verification note"
    ],

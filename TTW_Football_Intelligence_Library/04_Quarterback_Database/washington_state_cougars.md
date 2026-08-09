@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/washington_state_cougars.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### UNRESOLVED
+### PARTIALLY ALIGNED
 
-Verified state records an open competition that does not confirm or refute the guide's expectation.
+Verified state still lists this quarterback but the job is not settled; confidence is L.
 
 | | |
 | --- | --- |
 | VSiN preseason expectation | Caden Pinnick |
 | Current verified state | Open (Caden Pinnick / Owen Eshelman / Julian Dugger) |
-| Does the VSiN assumption still appear current? | Cannot be determined from existing evidence. |
-| Monitoring priority score | 115 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 110 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; relationship unresolved; VSiN handicap depends heavily on QB play; transfer context in verification note.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

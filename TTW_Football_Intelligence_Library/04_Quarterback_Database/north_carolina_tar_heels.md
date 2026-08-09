@@ -66,7 +66,7 @@ Team file: [../02_Team_Database/north_carolina_tar_heels.md](../02_Team_Database
 
 ### PARTIALLY ALIGNED
 
-Both sources describe an unsettled competition, but they do not name the same leading quarterback.
+Verified state still lists this quarterback but the job is not settled; confidence is L.
 
 | | |
 | --- | --- |

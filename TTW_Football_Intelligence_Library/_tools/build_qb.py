@@ -87,6 +87,28 @@ def is_open(s):
     return bool(s) and bool(re.search(r"\bopen\b|\bundecided\b|\bcompetition\b|/", s, re.I))
 
 
+def names_same_player(vsin, active):
+    """Does the verified entry refer to the quarterback the guide expected?
+
+    Two passes. The first compares surname tokens with parentheticals
+    stripped, which handles "Byrum Brown (USF transfer)". That is not
+    enough on its own: the verified dataset also writes unresolved
+    competitions as "Open (Jackson Arnold / Alex Orji)", where stripping
+    the parenthetical would discard the very names being compared. So the
+    second pass looks for the guide's full name as a substring of the raw
+    entry, which is specific enough not to collide with school names.
+    """
+    if not vsin or not active:
+        return False
+    if norm_name(vsin) & norm_name(active):
+        return True
+    v = re.sub(r"[^a-z ]", " ", vsin.lower())
+    v = " ".join(v.split())
+    a = re.sub(r"[^a-z ]", " ", active.lower())
+    a = " ".join(a.split())
+    return bool(v) and v in a
+
+
 def classify(note, ver):
     """Return (relationship, reason). Both inputs may be None."""
     vsin_qb = (note or {}).get("expected_starter", NA)
@@ -104,8 +126,7 @@ def classify(note, ver):
         return ("UNRESOLVED",
                 "Verified state records no active quarterback for this team.")
 
-    a, v = norm_name(active), norm_name(vsin_qb)
-    overlap = bool(a & v)
+    overlap = names_same_player(vsin_qb, active)
 
     # Verified state is itself an unresolved competition.
     if is_open(active) or conf == "L":
