@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Florida State Seminoles |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Ashton Daniels |
+| 4 | Returning starter / new starter / transfer | Transfer — via Auburn, having previously been at Stanford. |
+| 5 | Previous school | Auburn; previously Stanford. |
+| 6 | Career experience | Flashed at Stanford but started only three games at Auburn. |
+| 7 | Previous starts | Three at Auburn. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 12 | Competition status | Not described as live; the guide names redshirt freshman Kevin Sperry alongside him. |
+| 13 | Backup / challenger information | Redshirt freshman Kevin Sperry. |
+| 14 | Author's confidence in the QB situation | Low, and stated bluntly. The guide says Daniels and Sperry are not the quarterbacks a programme like Florida State should have — and adds that neither was Tommy Castellanos. |
+| 15 | Author's positive case | He flashed at Stanford, and the surrounding talent is real: Duce Robinson, once the nation's No. 1 tight end recruit, broke out with 56 catches for 1,081 yards; freshman Micahi Danzy averaged over 21 yards per reception; Ousmane Kromah managed 5.7 yards per carry and Samuel Singleton over seven. |
+| 16 | Author's concerns | Only three starts at Auburn, and the guide's blunt conclusion that the position is below the programme's standard — which it links to finance, saying Norvell's buyout appears to hold the programme hostage. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Better than the quarterback. Most of last season's skill production came with Castellanos, who led the team in rushing with only 557 yards and posted a 15-to-9 ratio. |
+| 19 | Relevant portal context | Daniels arrives via Auburn; Castellanos has departed. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 6.5 wins, though the guide explicitly says this is not a bet — the vig is cost-prohibitive and Florida State projects to have a good defense. Its reasoning is asymmetric rather than pessimistic: even an average quarterback could produce 7-5, but the floor is lower than the ceiling is high. Projection is 6.35 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide's entire asymmetry argument is stated in quarterback terms — an average quarterback produces 7-5, and the floor is low because it doubts it has one. |
 | 22 | Relevant page references | pp. 88–89 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/florida_state_seminoles.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Ashton Daniels |
 | Current verified state | Ashton Daniels |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 30 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

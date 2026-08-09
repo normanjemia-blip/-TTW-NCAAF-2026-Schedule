@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Syracuse Orange |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Steve Angeli |
+| 4 | Returning starter / new starter / transfer | Returning starter — back from the season-ending injury that the guide says was the nation's most impactful. |
+| 5 | Previous school | Notre Dame — he had transferred in before 2025. |
+| 6 | Career experience | Threw only 80 passes at Notre Dame, albeit with a 10-to-1 ratio and 72.5% completions, then produced over 1,300 yards in four starts for Syracuse before the injury. |
+| 7 | Previous starts | Four at Syracuse. |
+| 8 | Passing production | Over 1,300 yards in four Syracuse starts with a 10-to-2 touchdown-to-interception ratio; at Notre Dame, 80 passes at 72.5% with a 10-to-1 ratio. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 10 | Efficiency statistics | 72.5% completions at Notre Dame. |
+| 11 | Turnover information | Two interceptions in his Syracuse starts; his replacements went 7 to 13. |
+| 12 | Competition status | Not described as live, but the guide names fallbacks: Amari Odom started at Kennesaw State and Malachi Nelson is on his fourth team after being a top recruit. |
+| 13 | Backup / challenger information | Amari Odom (Kennesaw State) and Malachi Nelson. |
+| 14 | Author's confidence in the QB situation | Genuinely open in both directions, and the guide says so. It notes he was a three-star freshman in 2022 and a three-star transfer in 2025 per 247Sports, so he may simply have been thriving in his first real chance to start. |
+| 15 | Author's positive case | Syracuse were 3-1 and had beaten Clemson as a 17-point underdog with Angeli playing, and the split with his replacements is stark: 10-to-2 against 7-to-13, with the Orange losing eight straight by 35, 13, 17, 25, 17, 28, 63 and 22 points after he went down. |
+| 16 | Author's concerns | A small career sample, and an entirely new receiver group — the top returnee having caught eight passes. |
+| 17 | Scheme / coordinator fit | Explicitly good — the guide says he thrived in Jeff Nixon's system. |
+| 18 | Supporting-cast considerations | Thin at receiver: the top returning pass-catcher caught eight passes. |
+| 19 | Relevant portal context | Angeli arrived from Notre Dame before 2025; Odom and Nelson are the alternatives. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins, with the schedule the main thing to hold against them. The offsetting factors are travel and venue — no long road trips, all six road games in the Eastern time zone, and the toughest games on paper against Louisville, SMU, Clemson and Notre Dame all at home. Despite expecting Syracuse to be an underdog often, the guide calls this one of its favorite ACC win-total bets, even with a projection of just 4.68 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide's entire case is built on the difference Angeli's presence made, quantified through the before-and-after split. |
 | 22 | Relevant page references | pp. 106–107 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/syracuse_orange.md](../02_Team_Database/syracuse
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state still lists this quarterback but the job is not settled; confidence is L.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Steve Angeli |
 | Current verified state | Steve Angeli |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 60 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 95 |
 
-Priority drivers: low-confidence verification (L); no VSiN preseason position; injury or availability language in verification note; transfer context in verification note.
+Priority drivers: low-confidence verification (L); partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play; injury or availability language in verification note; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | SMU Mustangs |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Kevin Jennings |
+| 4 | Returning starter / new starter / transfer | Returning starter — a senior out of eligibility after this season barring injury and a waiver. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established multi-year starter. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | A 26-to-13 touchdown-to-interception ratio; well over 800 dropbacks across two seasons. |
+| 9 | Rushing contribution | Did virtually nothing as a runner last season, which the guide identifies as the biggest year-over-year change — he was never prolific, but had 300 more rushing yards in 2024. Across two seasons, 171 carries that turned potential negatives into neutral or slightly positive plays. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate; the guide notes only 33 sacks taken on well over 800 dropbacks. |
+| 11 | Turnover information | Double-digit interceptions in each of the last two seasons, 13 last year. |
+| 12 | Competition status | None described — Jennings is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Steady. The guide does not expect much regression from SMU given consistent metrics across three seasons, while naming the loss of Jennings' rushing as the biggest year-over-year change. |
+| 15 | Author's positive case | A 26-to-13 ratio and excellent sack avoidance — only 33 sacks taken on well over 800 dropbacks — which the guide says he manages well despite ball-security issues. |
+| 16 | Author's concerns | Double-digit interceptions in consecutive seasons, and a rushing contribution that has all but disappeared, which the guide says must be offset elsewhere. |
+| 17 | Scheme / coordinator fit | Lashlee calls his own plays but lost right-hand man Casey Woods to the Missouri State head job; the guide notes wryly that D'Eriq King is now a co-coordinator. |
+| 18 | Supporting-cast considerations | Heavily rebuilt. Jennings loses his top two receivers by yardage and four of the top five, plus leading rushers TJ Harden and Chris Johnson. SMU added running back Kendrick Raphael, now at his third ACC school, with help at receiver and tight end. |
+| 19 | Relevant portal context | Kendrick Raphael arrives at running back. Per 247Sports SMU brought in only the sixth-ranked portal class among 17 ACC teams with many needs at impact positions. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 8.5 wins, with the guide explicit that it does not expect much regression. Its expectation is a season similar to last year's 8-4 regular season plus a Holiday Bowl win. Projection is 8.66 wins. The guide also introduces sack differential as a metric some handicappers it respects treat as a major tenet, noting SMU was +16 last season, down from +25 and +31. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's stated separator for SMU under Lashlee is the defense, not the quarterback, though it flags the loss of Jennings' rushing as the biggest offensive change. |
 | 22 | Relevant page references | pp. 102–103 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/smu_mustangs.md](../02_Team_Database/smu_mustang
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Kevin Jennings |
 | Current verified state | Kevin Jennings |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

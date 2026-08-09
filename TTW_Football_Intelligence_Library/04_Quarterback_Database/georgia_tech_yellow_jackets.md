@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Georgia Tech Yellow Jackets |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Alberto Mendoza |
+| 4 | Returning starter / new starter / transfer | Transfer — from Indiana; younger brother of Fernando Mendoza. |
+| 5 | Previous school | Indiana. |
+| 6 | Career experience | Played little at Indiana, since Curt Cignetti rarely eased off. |
 | 7 | Previous starts | Not addressed in guide. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Mendoza is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Explicitly unknown. The guide is candid that nobody knows what to expect from him. |
+| 15 | Author's positive case | The staff has succeeded with a portal quarterback before, in Texas A&M transfer Haynes King, and went back to the portal for Mendoza. |
+| 16 | Author's concerns | He played little at Indiana, so there is no body of evidence — and he arrives into wholesale turnover elsewhere. |
+| 17 | Scheme / coordinator fit | New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It predicts a more ball-control offense, since Georgia Tech ranked 97th in average time of possession. |
+| 18 | Supporting-cast considerations | Almost entirely new. Only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though Haynes King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone. The guide's summary is deliberately cumulative and it calls this a lot. |
+| 19 | Relevant portal context | Mendoza from Indiana, Justice Haynes from Michigan, plus two productive transfer tight ends. Coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 6.5 wins, despite a schedule the guide calls unkind late — the year ends with Virginia Tech, Pitt, Louisville, Clemson, Wake Forest and Georgia. Its case rests on three things it names together: what Key has done so far, the caliber of coordinators he has hired, and the programme's portal success. Projection is 6.02 wins. |
+| 21 | VSiN team outlook dependency on QB performance | High but diffuse. The quarterback is one element of a wholesale turnover the guide backs the coaching staff to manage, rather than the single stated hinge. |
 | 22 | Relevant page references | pp. 90–91 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/georgia_tech_yellow_jackets.md](../02_Team_Datab
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Alberto Mendoza |
 | Current verified state | Alberto Mendoza |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 5 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

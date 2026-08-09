@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | North Carolina Tar Heels |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Billy Edwards |
+| 4 | Returning starter / new starter / transfer | Transfer — arriving via Wisconsin, having previously been at Wake Forest and Maryland; treated as the default starter the guide would rather see replaced. |
+| 5 | Previous school | Wisconsin; previously Maryland, and originally committed to Wake Forest in 2020. |
+| 6 | Career experience | Committed to Wake Forest in 2020 and enrolled in 2021, then moved to Maryland, Wisconsin and now North Carolina. A mediocre Maryland starter two seasons ago. |
+| 7 | Previous starts | Two last season, before a season-ending injury. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
+| 10 | Efficiency statistics | Not addressed in guide; the guide says he did not look the part in his two starts. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 12 | Competition status | Live, and the guide takes a side. It weighs 6-foot-5 Miles O'Neill, a Petrino recruit at Texas A&M, and 6-foot-4 freshman Travis Burgess, a dual-threat four-star and 247's No. 9 quarterback in the class, and argues North Carolina should bet on upside rather than on Edwards. Its own preference is stated: it likes North Carolina more if O'Neill or Burgess start. |
+| 13 | Backup / challenger information | Miles O'Neill (Texas A&M) and freshman Travis Burgess. |
+| 14 | Author's confidence in the QB situation | Low in the incumbent, explicitly higher in the alternatives. The guide reports Wisconsin was said to have paid around $1 million in NIL compensation and suggests North Carolina may have got a deal, since Edwards needed a medical waiver to be eligible and did virtually nothing. |
+| 15 | Author's positive case | The alternatives carry upside — O'Neill is a Petrino recruit and Burgess a four-star rated No. 9 at the position in his class — and Bobby Petrino has been hired to run the offense. |
+| 16 | Author's concerns | Edwards started only two games last season, did not look the part, and suffered a season-ending injury; the guide calls him a mediocre Maryland starter two seasons ago. |
+| 17 | Scheme / coordinator fit | Coordinator Freddie Kitchens was dismissed and Bobby Petrino hired; O'Neill is described as a Petrino recruit. |
+| 18 | Supporting-cast considerations | A retained core. Despite a mass exodus to the portal North Carolina kept its leading rusher, leading receiver and leading sack man — running back Demon June (464 yards on a team averaging 3.7 per carry, and third in receiving yards), receiver Jordan Shipp (60 catches, 671 yards), Melkart Abou-Jaoude (10.5 sacks), plus Kaleb Cost and Jaiden Patterson in the secondary. The guide reads this as Belichick and Michael Lombardi identifying who to pay to stay and who to pay to come. |
+| 19 | Relevant portal context | Edwards and O'Neill both arrived through the portal amid a mass exodus. The guide notes North Carolina signed the 19th-ranked recruiting class with over 40 recruits, and only West Virginia took more 2026 commitments. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins, with an explicit quarterback preference attached: the guide likes North Carolina more if O'Neill or Burgess start over Edwards. The schedule is rough — an overseas opener in Dublin against TCU, a road game at Clemson, Miami, Louisville and Notre Dame at home, and two September byes — and it is candid that upsets are needed. Projection is 4.81 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide conditions how much it likes the team on which quarterback starts. |
 | 22 | Relevant page references | pp. 98–99 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide treats Edwards as the default starter while arguing the programme should start someone else; it does not resolve which will happen. |
 
 **Returning-QB marker on the team spread (p. 98):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 4.
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/north_carolina_tar_heels.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Both sources describe an unsettled competition, but they do not name the same leading quarterback.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Billy Edwards |
 | Current verified state | Open (Billy Edwards Jr. / Miles O'Neill / Au'Tori Newkirk / Travis Burgess) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 85 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 120 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position; injury or availability language in verification note; transfer context in verification note.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play; injury or availability language in verification note; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

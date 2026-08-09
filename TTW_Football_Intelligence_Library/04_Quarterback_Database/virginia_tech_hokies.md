@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Virginia Tech Hokies |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Ethan Grunkemeyer |
+| 4 | Returning starter / new starter / transfer | Transfer — from Penn State, following James Franklin. |
+| 5 | Previous school | Penn State. |
+| 6 | Career experience | Started seven games for Penn State. |
+| 7 | Previous starts | Seven at Penn State. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 12 | Competition status | Not described as live, but the guide notes Virginia Tech also brought in North Carolina quarterback Bryce Baker in the same portal class. |
+| 13 | Backup / challenger information | Bryce Baker, from North Carolina. |
+| 14 | Author's confidence in the QB situation | Positive and specific. The guide notes Grunkemeyer has chemistry with new tight end Luke Reynolds, and rates the portal class fourth-best in the conference. |
+| 15 | Author's positive case | Seven Penn State starts, pre-existing chemistry with tight end Luke Reynolds, and a receiver addition in Que'Sean Brown, who had over 1,200 yards at Duke at 5-foot-8. |
+| 16 | Author's concerns | Not addressed as a quarterback concern. |
+| 17 | Scheme / coordinator fit | Continuity with the head coach and several Penn State players who followed Franklin. |
+| 18 | Supporting-cast considerations | Improved and well-directed. Marcellous Hawkins averaged over six yards per carry and should feature more without a running quarterback like Kyron Drones. The guide adds useful context: the offense managed only 21.4 points per game but 4.9 yards per carry even with Drones dragging the average down, so Franklin could focus on skill positions rather than rebuilding the line. |
+| 19 | Relevant portal context | Per 247Sports Virginia Tech brought in the conference's fourth-ranked portal class, including Grunkemeyer, Bryce Baker and Que'Sean Brown; several Penn State players followed Franklin. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 6.5 wins. The guide flags the price as somewhat expensive while calling a 5-0 start before the trip to Cal very much on the table, and its sharpest argument is comparative: Franklin does not often lose games he should win, something that trips up nearly every other ACC programme. Projection is 7.1 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Over rests principally on Franklin's record as a favorite and on raised talent across the roster, with the quarterback one part of a broad upgrade. |
 | 22 | Relevant page references | pp. 110–111 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/virginia_tech_hokies.md](../02_Team_Database/vir
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Ethan Grunkemeyer |
 | Current verified state | Ethan Grunkemeyer |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 5 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | California Golden Bears |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Jaron-Keawe Sagapolutele |
+| 4 | Returning starter / new starter / transfer | Returning starter — the guide frames the coaching change as not a total teardown precisely because he is in place. |
+| 5 | Previous school | Not applicable as a 2026 move — originally committed to Oregon before transferring to Cal ahead of his freshman year. |
+| 6 | Career experience | True freshman starter in 2025. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Over 3,400 yards with an 18-to-9 touchdown-to-interception ratio and 64.2% completions as a true freshman. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | 64.2% completions. |
+| 11 | Turnover information | Nine interceptions against 18 touchdown passes. |
+| 12 | Competition status | None described — Sagapolutele is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive. The guide expects him to grow and concludes he could have a monster season. |
+| 15 | Author's positive case | Strong true-freshman production, plus support from former NFL receiver Ike Hilliard on staff, a 1,000-yard Ohio transfer at running back, a big-bodied receiver addition and considerable starting experience on the line. |
+| 16 | Author's concerns | A new scheme and new receivers — Jacob De Jesus and Trond Grizzell took 163 catches and over 1,800 yards elsewhere. |
+| 17 | Scheme / coordinator fit | New and unproven. The guide puts the onus on coordinator Jordan Somerville and Hilliard to find explosiveness, noting Somerville is only 30, with a single year as an Oregon offensive assistant in 2022 enough for Lupoi to want him again. |
+| 18 | Supporting-cast considerations | Rebuilt but credible: 1,000-yard Ohio transfer Chase Henderson, big-bodied Rutgers transfer Ian Strong, and considerable starting experience on the offensive line. |
+| 19 | Relevant portal context | Chase Henderson from Ohio and Ian Strong from Rutgers arrive; De Jesus and Grizzell departed. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 6.5 wins. The guide separates quality from wins deliberately: Cal may not match last season's seven wins yet has a very good chance of being a much more aesthetically pleasing team. It sets against Sagapolutele's expected growth a completely new staff, no bye until early November, and inevitable growing pains. Projection is 5.74 wins. |
+| 21 | VSiN team outlook dependency on QB performance | High on quality, low on wins. The guide expects the quarterback to improve while explicitly not expecting that to convert into more victories. |
 | 22 | Relevant page references | pp. 82–83 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide prints total 11 returning starters with offense 8 and defense 6 on p. 82; offense plus defense is 14, which does not equal the printed total. All three figures are reproduced as printed in the Team Database and none is corrected here. |
 
 **Returning-QB marker on the team spread (p. 82):** present — the guide marks this team as returning its quarterback. Printed offensive returning starters: 8.
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/california_golden_bears.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Jaron-Keawe Sagapolutele |
 | Current verified state | Jaron-Keawe Sagapolutele |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

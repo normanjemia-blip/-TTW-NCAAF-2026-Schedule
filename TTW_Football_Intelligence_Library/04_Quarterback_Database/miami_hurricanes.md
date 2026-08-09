@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Miami Hurricanes |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Darian Mensah |
+| 4 | Returning starter / new starter / transfer | Transfer — from Duke, replacing Carson Beck. |
+| 5 | Previous school | Duke; before that Tulane. |
+| 6 | Career experience | A strong Tulane season followed by a season at Duke; the guide says he has been extremely well coached throughout. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | A 34-to-6 touchdown-to-interception ratio at Duke, where he completed over two-thirds of his passes for nearly 4,000 yards and led the conference in attempts, yards and touchdowns. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | Over two-thirds completions at Duke. |
+| 11 | Turnover information | Six interceptions against 34 touchdown passes at Duke. |
+| 12 | Competition status | None described — Mensah is the expected starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | High. The guide calls him an objectively more talented quarterback than Carson Beck, who himself was excellent, and rates the situation excellent. |
+| 15 | Author's positive case | A 34-to-6 ratio at Duke after a strong Tulane season, extremely well coached throughout, joining an offense the guide says looks loaded. |
+| 16 | Author's concerns | Not addressed as a quarterback concern; the guide's doubts are about Cristobal's record as a big favorite and about defensive attrition. |
+| 17 | Scheme / coordinator fit | The guide asks whether Shannon Dawson's offense has another gear with a more talented quarterback, and notes Dawson impressed in the playoff. |
+| 18 | Supporting-cast considerations | Excellent. Mark Fletcher and the backfield are all back, and 1,200-yard receiver Malachi Toney leads a rebuilt group that adds Mensah's Duke teammate Cooper Barkate and his own 1,100 yards. |
+| 19 | Relevant portal context | Mensah and Cooper Barkate both arrive from Duke. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 10.5 wins. Road games at Clemson and Notre Dame stand out precisely because of Cristobal's habit of losing as a big favorite, and a mechanical point about the market is made: season win total wagers exclude conference title games and the playoff, so dropping either road game would require running the table otherwise. The guide expects Miami in both the title game and playoff and calls this an excellent team on paper while still not recommending the Over. Projection is 10.62 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The quarterback is treated as an upgrade and a strength; the Under is argued from Cristobal's favorite-role record and the mechanics of the win-total market. |
 | 22 | Relevant page references | pp. 94–95 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/miami_hurricanes.md](../02_Team_Database/miami_h
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Darian Mensah |
 | Current verified state | Darian Mensah |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 5 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

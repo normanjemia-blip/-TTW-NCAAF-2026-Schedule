@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Duke Blue Devils |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Walker Eget |
+| 4 | Returning starter / new starter / transfer | Transfer — from San Jose State; the third straight season Manny Diaz has had to find a quarterback in the portal. |
+| 5 | Previous school | San Jose State. |
+| 6 | Career experience | Played extensively at San Jose State. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Over 5,500 yards but only 30 touchdowns against 19 interceptions at San Jose State. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate. |
+| 11 | Turnover information | 19 interceptions against 30 touchdowns — the ratio the guide sets against Mensah's 34-to-6. |
+| 12 | Competition status | Live. The guide raises redshirt freshman Dan Mahan as a live alternative, since he took all the spring opportunities available while Eget was hurt. |
+| 13 | Backup / challenger information | Redshirt freshman Dan Mahan. |
+| 14 | Author's confidence in the QB situation | Low. The guide sets Eget's 30-to-19 ratio directly against Darian Mensah's 34-to-6 and raises a redshirt freshman as a live alternative. |
+| 15 | Author's positive case | Extensive playing experience with over 5,500 yards. |
+| 16 | Author's concerns | A poor touchdown-to-interception ratio replacing a quarterback who completed over two-thirds of his passes for nearly 4,000 yards and led the conference in attempts, yards and touchdowns; plus an injury that cost him spring reps. |
+| 17 | Scheme / coordinator fit | Coordinator Jonathan Brewer improved the group by a full yard per play and 8.3 points per game in year two, but the guide notes he is mostly starting from scratch in year three. |
+| 18 | Supporting-cast considerations | Strong on the ground, thin outside. Nate Sheppard ran for 1,132 yards and 11 touchdowns at 5.7 per carry as a true freshman and Duke remains big and experienced up front despite losing an NFL-caliber lineman. The receiving picture is thinner: Penn's 1,000-yard receiver Jared Richardson is an intriguing transfer, but the other two primary targets look like 5-foot-8 Jayden Moore and 5-foot-9 Charlotte transfer Javen Nicholas. |
+| 19 | Relevant portal context | Eget from San Jose State, Richardson from Penn, Nicholas from Charlotte. The guide's framing is structural: portal poaching is hard for mid-tier Power Four schools to overcome annually, and it wonders whether this is the season it hits hard. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins, with the guide stating the tension in its own view openly by giving a projection of 5.94 wins alongside the Under. It suggests a ground-and-pound approach early and draws the betting implication that this could create value on Unders. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide's own inference is that Duke was fortunate Mensah played as well as he did, having been comfortably outgained per play in ACC games — which makes the quarterback downgrade central. |
 | 22 | Relevant page references | pp. 86–87 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/duke_blue_devils.md](../02_Team_Database/duke_bl
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state still lists this quarterback but the job is not settled; confidence is M.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Walker Eget |
 | Current verified state | Walker Eget (expected Week 1 starter; 5-way competition) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 55 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 90 |
 
-Priority drivers: medium-confidence verification (M); unresolved competition in verified state; no VSiN preseason position; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); unresolved competition in verified state; partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

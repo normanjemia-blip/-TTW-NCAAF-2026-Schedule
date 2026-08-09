@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | NC State Wolfpack |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | CJ Bailey |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established starter. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Over 3,100 passing yards as part of 31 total touchdowns. |
+| 9 | Rushing contribution | 215 rushing yards, included in the 31 total touchdowns. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 12 | Competition status | None described — Bailey is the settled starter. |
+| 13 | Backup / challenger information | Coastal Carolina transfer Tad Hudson. Backup Will Wilson remains as a short-yardage runner with 10 touchdowns but only five pass attempts. |
+| 14 | Author's confidence in the QB situation | Neutral on the quarterback, concerned about everything around him. The guide's audit focuses on departures rather than on Bailey's ability. |
+| 15 | Author's positive case | 31 total touchdowns with over 3,100 passing yards and 215 rushing. |
+| 16 | Author's concerns | He has lost his top five receivers and leading rusher Hollywood Smothers, who averaged 5.9 yards per carry. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Rebuilt from a committee. The guide describes the previous receiving picture as genuinely distributed rather than empty — nobody exceeded 629 yards, but four players had 430 or more and seven had at least 37 catches. Top returnee Keenan Jackson started 13 games for only 28 catches and 281 yards, so the guide looks to Buffalo transfer Victor Snow, Miami transfer Joshisa Trader and holdover back Jayden Scott to stand out rather than repeat the committee approach. |
+| 19 | Relevant portal context | Victor Snow from Buffalo, Joshisa Trader from Miami and Tad Hudson from Coastal Carolina arrive. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins, with the schedule the primary reason to buy in — the trip to Stanford follows a bye and Cal travels across the country the next week; Vanderbilt away is tough while App State at home is winnable. A specific futures construction is offered: NC State at 22-1 to win the ACC is called a worse-than-average bet to avoid. Projection is 7.09 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Over rests on schedule and a high programme floor rather than on quarterback improvement. |
 | 22 | Relevant page references | pp. 96–97 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/nc_state_wolfpack.md](../02_Team_Database/nc_sta
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | CJ Bailey |
 | Current verified state | CJ Bailey |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

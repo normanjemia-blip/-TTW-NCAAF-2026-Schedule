@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | Pittsburgh Panthers |
 | 2 | Conference | ACC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Mason Heintschel |
+| 4 | Returning starter / new starter / transfer | Returning starter — the guide says he has the job outright because Eli Holstein is at Virginia. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Solid as a true freshman across nine starts. |
+| 7 | Previous starts | Nine. |
+| 8 | Passing production | Not addressed in guide as a season line. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 11 | Turnover information | Not addressed in guide for Heintschel individually. |
+| 12 | Competition status | None — the guide states he has the job outright. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive on clarity rather than on ceiling. The guide's phrase is that there is more clarity now, and it calls him solid as a true freshman. |
+| 15 | Author's positive case | Solid true-freshman production across nine starts, with the job settled and Pat Narduzzi's defensive record behind him — the guide sees a friendly schedule potentially putting Pitt on the playoff radar. |
+| 16 | Author's concerns | He must build rapport with many new receivers, and the guide pushes back hard on the offense he inherits: 20th in points per game while ranking 67th in yards per play, 120th in third-down conversion rate, 44 sacks allowed — fifth-most nationally — and just 3.5 yards per carry. |
+| 17 | Scheme / coordinator fit | The guide allows year three of the Kade Bell offense may improve things. |
+| 18 | Supporting-cast considerations | The guide's main worry. It pushes back directly on other previews talking up the line's experience, observing that the experience in question is in letting defenders reach the quarterback — 87 sacks allowed over two seasons. Heintschel gets new blind-side protection from Penn transfer Netinho Olivieri, but many contributors to the 44 sacks and the 3.5 yards per carry, 119th nationally, are back. |
+| 19 | Relevant portal context | Eli Holstein left for Virginia, which is what settles the position; Netinho Olivieri arrives from Penn. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins. The guide concedes the schedule is genuinely favorable — which is why the Over carries the vig it does — with Pitt avoiding Clemson, SMU and Notre Dame, then counters that Virginia Tech, North Carolina and Florida State should all be markedly better. Structural schedule detail seals the case: a late bye with many new faces, five of the last eight on the road, and a season-ending trip to Berkeley. Projection is 7.43 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's scepticism is aimed at the offense's underlying metrics and at special teams regression rather than at the quarterback specifically. |
 | 22 | Relevant page references | pp. 100–101 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide is unusually candid that it does not know what to make of Pitt's scoring output relative to its underlying metrics, attributing much of it to special teams. It leaves that unresolved. |
 
 **Returning-QB marker on the team spread (p. 100):** present — the guide marks this team as returning its quarterback. Printed offensive returning starters: 7.
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/pittsburgh_panthers.md](../02_Team_Database/pitt
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Mason Heintschel |
 | Current verified state | Mason Heintschel |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 
