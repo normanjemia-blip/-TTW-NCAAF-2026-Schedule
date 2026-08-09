@@ -174,8 +174,8 @@
   "record_2025": "4-8",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Not addressed by name for 2026. The guide records Creighton promoting two defensive assistants rather than hiring outside to replace coordinator Ben Needham.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -183,7 +183,7 @@
   "stability_page": 42,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Kent State Golden Flashes",
@@ -204,17 +204,17 @@
   "stability_score": 10,
   "record_2025": "5-7",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Not addressed by name for 2026. Carney himself held the role before the promotion.",
+  "dc": "Cherokee Valeria.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "228-229",
   "stability_page": 43,
   "carousel_page": 34,
   "conflicts": 1,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Massachusetts Minutemen",
@@ -235,9 +235,9 @@
   "stability_score": 8,
   "record_2025": "0-12",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Max Warner, previously an offensive assistant at Toledo, replacing Mike Bajakian, who left to be the Cleveland Browns' quarterbacks coach.",
+  "dc": "Jared Keyte.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -245,7 +245,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Miami (Ohio) RedHawks",
@@ -266,9 +266,9 @@
   "stability_score": 9,
   "record_2025": "7-7",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
+  "oc": "Pat Welsh.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -276,7 +276,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Ohio U Bobcats",
