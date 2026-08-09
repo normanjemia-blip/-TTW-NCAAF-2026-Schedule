@@ -16,26 +16,26 @@
 | 1 | Team | Tulane Green Wave |
 | 2 | Conference | American |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | New starter, identity undetermined — the guide names two candidates and answers its own question with “we do not know”. |
+| 5 | Previous school | Kadin Semonza started at Ball State; Zeon Chriss-Gremillion's previous schools are not addressed. |
+| 6 | Career experience | Zeon Chriss-Gremillion has played a very long time in college; Kadin Semonza redshirted without playing after starting at Ball State. |
+| 7 | Previous starts | Not addressed in guide as counts. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
+| 12 | Competition status | Open between Zeon Chriss-Gremillion and Kadin Semonza, with the guide dryly noting that the most notable development about the former is his hyphenated name. |
+| 13 | Backup / challenger information | The two named candidates are Zeon Chriss-Gremillion and Kadin Semonza. |
+| 14 | Author's confidence in the QB situation | Explicitly none. Asked who the impact players on offense are, the guide's answer is simply that we do not know. |
 | 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 16 | Author's concerns | The guide observes that neither Darian Mensah, Jake Retzlaff nor all-time passing leader Michael Pratt is walking through the door, and raises a counterfactual: had Retzlaff not violated BYU's Honor Code, Tulane may have been great enough to be the Group of Five playoff representative. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Weak. The guide argues Retzlaff's availability was a gift because Tulane was poorly set at running back after Makhi Hughes transferred: Jamauri McClure averaged 6.5 yards per carry on 83 attempts while Javin Gordon managed 4.0 on 128. Leading receiver Shazz Preston is gone, leaving Anthony Brown-Stevenson, who had only two fewer catches. |
+| 19 | Relevant portal context | Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins, with the guide explicitly noting the tension — and yet the schedule should help in a big way. It also revises its own view of the coach openly: Will Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure had earned him. Projection is 7.56 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide's regression case offers Retzlaff — who led the team in rushing with 16 rushing scores — as one of three candidate explanations for last season's record, and it does not know who replaces him. |
 | 22 | Relevant page references | pp. 70–71 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide names two candidates and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 70):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 3.
 
@@ -73,9 +73,9 @@ The guide names no expected starter clearly enough to test.
 | VSiN preseason expectation | Not addressed in guide. |
 | Current verified state | Kadin Semonza |
 | Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 50 |
+| Monitoring priority score | 75 |
 
-Priority drivers: low-confidence verification (L); no VSiN preseason position; transfer context in verification note.
+Priority drivers: low-confidence verification (L); no VSiN preseason position; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

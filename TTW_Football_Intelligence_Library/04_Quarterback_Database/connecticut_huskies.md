@@ -16,26 +16,26 @@
 | 1 | Team | Connecticut Huskies |
 | 2 | Conference | Independents |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | New starter, identity undetermined — the guide states there is no clear starting quarterback and many position battles. |
+| 5 | Previous school | Kalieb Osborne comes from Toledo; Jake Merklinger from Tennessee. |
 | 6 | Career experience | Not addressed in guide. |
 | 7 | Previous starts | Not addressed in guide. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 12 | Competition status | Open and explicitly unresolved. Kalieb Osborne, a Toledo player who followed Jason Candle, will compete with Tennessee's Jake Merklinger and in-house options. |
+| 13 | Backup / challenger information | The named candidates are Kalieb Osborne and Jake Merklinger, plus unspecified in-house options. |
+| 14 | Author's confidence in the QB situation | Low. The guide states there is no clear starting quarterback and says the offense has major question marks. |
+| 15 | Author's positive case | Not addressed in guide at quarterback; the guide's positive case is the defense, since coordinator Ryan Manalac is a Pat Narduzzi disciple and Toledo ranked second nationally in yards allowed per game. |
+| 16 | Author's concerns | No clear starter, and UConn ranks 138th in Phil Steele's Experience chart — which the guide notes is officially dead last now that North Dakota State and Sacramento State are in FBS. |
+| 17 | Scheme / coordinator fit | Coordinator Nunzio Campanile was at Syracuse from 2023-25 and Rutgers before; the guide finds it surprising that a decade-long Toledo head coach has so many new colleagues. |
+| 18 | Supporting-cast considerations | Thin and unfamiliar. The guide notes even the transfers are largely not recognizable names, the exception being K'Von Sherman with 93 tackles at Toledo. Running back Kenji Christian is at his fourth school, most recently Toledo, and three potential offensive line starters were together at Toledo without playing much. |
+| 19 | Relevant portal context | Candle brought some Toledo players so he is not starting with zero familiar faces, but the guide identifies the specific shortfall: none of his extremely productive offensive players followed, and only a couple on defense. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins, and the guide is explicit that the coaching transition is not its whole reason. Despite only five road games it expects UConn to fall short of bowl eligibility. It closes with the bar UConn is falling from — 31.9 and 35.3 points per game the last two seasons and 6.7 yards per play last year — and says the fan base probably will not see those numbers. Projection is 5.39 wins. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide separates the sides explicitly: the offense has major question marks while the defense has a good chance of being solid. |
 | 22 | Relevant page references | pp. 210–211 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide declines to name a starter, so this record carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 210):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 1.
 
@@ -73,9 +73,9 @@ The guide names no expected starter clearly enough to test.
 | VSiN preseason expectation | Not addressed in guide. |
 | Current verified state | Unverified (room in flux after HC departure) |
 | Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 45 |
+| Monitoring priority score | 70 |
 
-Priority drivers: low-confidence verification (L); no VSiN preseason position.
+Priority drivers: low-confidence verification (L); no VSiN preseason position; VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

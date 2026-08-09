@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Notre Dame Fighting Irish |
 | 2 | Conference | Independents |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | CJ Carr |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established starter; spent spring and summer as Heisman favorite. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | A 24-to-6 touchdown-to-interception ratio. |
+| 9 | Rushing contribution | Three rushing scores; the guide notes he is not the running threat Riley Leonard was. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate. |
+| 11 | Turnover information | Six interceptions against 24 touchdown passes. The guide flags a team-level caution — Notre Dame is +31 in turnover margin over two seasons, an area of concern unless Carr protects the ball. |
+| 12 | Competition status | None described — Carr is the settled starter. |
+| 13 | Backup / challenger information | Not addressed by name; the guide calls the depth behind him a major worry if anything happens. |
+| 14 | Author's confidence in the QB situation | High. Asked whether there are any weaknesses on offense, the guide's answer is no. |
+| 15 | Author's positive case | A 24-to-6 ratio, a very good offensive line with Charles Jagusah back, and a schedule the guide says should produce numbers for a very visible programme. |
+| 16 | Author's concerns | Two, both stated plainly: he is not the running threat Riley Leonard was, and the depth behind him is a major worry if anything happens. The guide also attributes his Heisman favoritism substantially to the schedule. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Strong despite losses. Jeremiyah Love and Jadarian Price take over 2,000 rushing yards and 29 scores with them, but Aneyas Williams should keep the standard; Jordan Faison is the only notable returning receiver though Jaden Greathouse returns from injury; and the line looks very good with Charles Jagusah back. |
+| 19 | Relevant portal context | The guide offers a culture signal as evidence: the Irish were so aggrieved by the playoff snub that they skipped a bowl, and the only notable departures went to the NFL rather than to other schools. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 11.5 wins, with the guide naming the risk honestly: the pressure of going perfect may prove too much. Miami is treated as the only major stumbling block. Projection is 11.42 wins, with Notre Dame favored by 8.5 or more in every game. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate on performance, high on availability. The guide finds no weakness in Carr's play, but names quarterback depth as a major worry and ties turnover regression to his ball security. |
 | 22 | Relevant page references | pp. 212–213 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/notre_dame_fighting_irish.md](../02_Team_Databas
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | CJ Carr |
 | Current verified state | CJ Carr |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

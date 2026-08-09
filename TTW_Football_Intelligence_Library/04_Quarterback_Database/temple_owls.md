@@ -16,26 +16,26 @@
 | 1 | Team | Temple Owls |
 | 2 | Conference | American |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | New starter, identity undetermined — Evan Simon and backup Gevani McCoy are gone and the guide says there is virtually no experience. |
+| 5 | Previous school | Jaxon Smolik comes from Penn State; Ajani Sheppard from Rutgers, having also been at Washington State. |
+| 6 | Career experience | Jaxon Smolik played four games in three years at Penn State; Ajani Sheppard played five games at Rutgers and none at Washington State. |
+| 7 | Previous starts | Not addressed in guide as counts. |
+| 8 | Passing production | Not addressed in guide for either candidate. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 11 | Turnover information | Not addressed in guide for either candidate. The departing starter Evan Simon posted a 25-to-2 ratio and led Temple to its first positive turnover margin in some time, against -10, -20 and -11 under Stan Drayton. |
+| 12 | Competition status | Open between two inexperienced transfers, Jaxon Smolik and Ajani Sheppard, with the guide naming no favourite. |
+| 13 | Backup / challenger information | The two named candidates are Jaxon Smolik and Ajani Sheppard. |
+| 14 | Author's confidence in the QB situation | Very low. The guide's conclusion is that a huge downturn looks likely. |
+| 15 | Author's positive case | Not addressed in guide for either candidate. |
+| 16 | Author's concerns | Virtually no experience, replacing a quarterback whose specific value the guide characterizes precisely: safe, reliable throws that did not generate much yardage — only 19 touchdown passes after six in the opener against UMass — but which protected the ball and gave an undermanned defense a better chance. |
+| 17 | Scheme / coordinator fit | Not addressed in guide for the new candidates; under K.C. Keeler and former Montana State coordinator Tyler Walker the offense improved by more than a touchdown per game last season. |
+| 18 | Supporting-cast considerations | Not addressed in guide in detail; the guide notes more returnees on offense than defense. |
+| 19 | Relevant portal context | Smolik from Penn State and Sheppard from Rutgers are the named additions. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins, with the guide asking directly where the wins come from. Its decisive argument is that Keeler could not reach six wins with a +11 turnover margin last season, and this group looks worse at the most important position. Projection is 5.33 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The quarterback downgrade is the guide's decisive stated argument for the Under. |
 | 22 | Relevant page references | pp. 68–69 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide names two candidates and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 68):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 7.
 
@@ -73,9 +73,9 @@ The guide names no expected starter clearly enough to test.
 | VSiN preseason expectation | Not addressed in guide. |
 | Current verified state | Jaxon Smolik (inside track; Ajani Sheppard competing) |
 | Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 30 |
+| Monitoring priority score | 55 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); no VSiN preseason position; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

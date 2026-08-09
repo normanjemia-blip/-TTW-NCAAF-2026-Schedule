@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | UTSA Roadrunners |
 | 2 | Conference | American |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Owen McCown |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | The programme's third-leading passer, who will pass Eric Soza for second in Week 1 against UTRGV but will not catch Frank Harris, whose job he took over fully in 2024. |
+| 7 | Previous starts | Not addressed in guide as a start count; the guide records he took the job over fully in 2024. |
+| 8 | Passing production | Fell just short of 3,000 passing yards with 30 touchdown passes. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — McCown is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | High. The guide ties UTSA's ceiling to McCown and asks directly whether he will be the best quarterback in the conference. |
+| 15 | Author's positive case | Nearly 3,000 yards with 30 touchdown passes, rapport with returning receivers, and a coordinator the guide expects to unlock more. |
+| 16 | Author's concerns | Top receiver Devin McCuin was taken by Ohio State — and the guide notes drily that they know something about receivers. |
+| 17 | Scheme / coordinator fit | Rated an interesting hire: Rick Bowie arrives after Western Kentucky last season, Abilene Christian in 2024 and Valdosta State in 2022-23, having led prolific passing offenses, and the guide calls him a very intriguing fit for one of the American's most experienced offenses. |
+| 18 | Supporting-cast considerations | Solid. McCown has rapport with David Amador and AJ Wilson plus longer-tenured players, on one of the American's most experienced offenses. |
+| 19 | Relevant portal context | Per 247Sports UTSA brought in 21 transfers, 12 on defense, though its class ranks 11th of the 12 American teams with portal access; a good chunk of money was earmarked to improve the roster. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins. UTSA has lost to Army in all three American seasons but avoids them this year, while drawing Navy at home along with South Florida and an improved Tulsa; the toughest conference test is a late-October trip to Tulane. The guide's conclusion is that Jeff Traylor must avoid bad losses but this may well be the best team in the conference. Projection is 7.77 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide states directly that UTSA's ceiling is tied to McCown. |
 | 22 | Relevant page references | pp. 76–77 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/utsa_roadrunners.md](../02_Team_Database/utsa_ro
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Owen McCown |
 | Current verified state | Owen McCown |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

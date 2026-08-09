@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | Navy Midshipmen |
 | 2 | Conference | American |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Braxton Woodson |
+| 4 | Returning starter / new starter / transfer | New starter — promoted from within after Blake Horvath exhausted eligibility. |
+| 5 | Previous school | Not applicable. |
+| 6 | Career experience | Started games in each of the last two seasons when Horvath was banged up, and knows the scheme. |
+| 7 | Previous starts | Not addressed in guide as a count; the guide records starts in each of the last two seasons. |
+| 8 | Passing production | A 46.3% career completion rate — set directly against Horvath's 58.8%, which trailed only Roger Staubach among Navy passers with at least 120 attempts. |
+| 9 | Rushing contribution | 9.4 yards per carry on 44 attempts. |
+| 10 | Efficiency statistics | 46.3% completions. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Woodson is presented as the successor. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Guarded, with the gap quantified. The guide says he has enormous shoes to fill and identifies the specific shortfall as accuracy. |
+| 15 | Author's positive case | He knows the scheme, has started games in each of the last two seasons, and averaged 9.4 yards per carry on 44 attempts. |
+| 16 | Author's concerns | Accuracy — 46.3% against Horvath's 58.8% — and the scale of what has left around him. |
+| 17 | Scheme / coordinator fit | Established. Coordinator Drew Cronic's Wing-T modified triple option gives opponents much to prepare for, and Woodson knows it. |
+| 18 | Supporting-cast considerations | Devastated. Alex Tecza ran for 902 yards at 5.7 per carry with 10 touchdowns and finished 12th in Navy rushing yards at 2,236; all-time leading receiver Eli Heidenreich, a seventh-round Steelers pick, had over 500 rushing yards and 941 receiving yards on 51 catches; fourth-leading rusher and second-leading receiver Brandon Chatman also exhausted eligibility. The guide quantifies the hole: Navy is missing 93.5% of its passing yards, over 83% of its rushing yards and over 84% of its receiving yards. |
 | 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins. The conference schedule is not too demanding and Navy should again be better than both service academies, but the guide concludes that with two years of film on the Cronic offense and massive personnel losses, heavy regression is possible — while candidly noting its own projection is 7.56 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide poses the central question as whether Navy's production came from Cronic's scheme or from a generational run of offensive leaders, with Horvath first among them. |
 | 22 | Relevant page references | pp. 60–61 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide gives Brian Newberry's tenure differently in two places, described in the Team Database from pp. 49 and 60. It does not bear on the quarterback record. |
 
 **Returning-QB marker on the team spread (p. 60):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 5.
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/navy_midshipmen.md](../02_Team_Database/navy_mid
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Braxton Woodson |
 | Current verified state | Braxton Woodson |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

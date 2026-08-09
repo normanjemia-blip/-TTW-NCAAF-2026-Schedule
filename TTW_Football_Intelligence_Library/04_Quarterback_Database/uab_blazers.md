@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | UAB Blazers |
 | 2 | Conference | American |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Ryder Burton |
+| 4 | Returning starter / new starter / transfer | Transfer — arriving via West Virginia, having previously been at BYU. |
+| 5 | Previous school | West Virginia; previously BYU. |
 | 6 | Career experience | Not addressed in guide. |
 | 7 | Previous starts | Not addressed in guide. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Burton is presented as at least a starting point. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Minimal, and phrased as such: the guide calls Burton at least a starting point, and states that nobody on the two-deep is proven. |
+| 15 | Author's positive case | The guide offers only that he is a starting point. |
+| 16 | Author's concerns | It is frank that many offensive players are multi-time transfers who have not latched on anywhere, including a patchwork line, and that UAB returns one player with more than 20 tackles. |
+| 17 | Scheme / coordinator fit | Trent Dilfer's successor Alex Mortensen was coordinator when promoted, kept calling plays as interim and will continue while overseeing the whole programme; the guide finds a mitigating factor in veteran defensive coordinator Todd Grantham, who does not need supervision. |
+| 18 | Supporting-cast considerations | Almost entirely new and unproven, with a patchwork offensive line. Georgia transfer Rod Robinson and ULM transfer Bam McReynolds are named as focal points, since the guide notes little changed for the offense late last season beyond running more often. |
+| 19 | Relevant portal context | Portal additions from all over make up the defense and most of the offense; the guide is frank that many are multi-time transfers who have not latched on anywhere. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 3.5 wins. The guide acknowledges UAB reached four wins amid turmoil while calling the schedule pretty rough, and reasons through specific games: ULM should be a win but comes second with many new players and schemes, making it high-variance either way. A game-state argument closes it: because the guide expects the pass game to become less important, it worries UAB projects to trail often. Projection is 3.63 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Under rests on wholesale roster turnover and schedule rather than on quarterback play specifically. |
 | 22 | Relevant page references | pp. 74–75 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/uab_blazers.md](../02_Team_Database/uab_blazers.
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Ryder Burton |
 | Current verified state | Ryder Burton |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

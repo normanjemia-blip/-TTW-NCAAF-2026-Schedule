@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | South Florida Bulls |
 | 2 | Conference | American |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Michael Van Buren |
+| 4 | Returning starter / new starter / transfer | Transfer — arriving via LSU, having previously been at Mississippi State; replacing Byrum Brown, who left with Alex Golesh. |
+| 5 | Previous school | LSU; previously Mississippi State. |
+| 6 | Career experience | Four starts and relief work at LSU last season. |
+| 7 | Previous starts | Four at LSU. |
+| 8 | Passing production | An 8-to-2 touchdown-to-interception ratio at LSU across four starts and relief work. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate. |
+| 11 | Turnover information | Two interceptions against eight touchdown passes at LSU. |
+| 12 | Competition status | Not described as settled. The guide notes Hartline and coordinator Tim Beck added both Van Buren and Luke Kromenhoek, via Florida State and Mississippi State. |
+| 13 | Backup / challenger information | Luke Kromenhoek, via Florida State and Mississippi State. |
+| 14 | Author's confidence in the QB situation | Positive on the individual, uncertain about the whole. The guide credits Van Buren with genuine success while framing the roster as highly touted recruits dropping down to get back on the radar. |
+| 15 | Author's positive case | An 8-to-2 ratio at LSU, and a roster philosophy the guide explains rather than dismisses: the portal lets highly touted recruits who did not make it drop to a Group of Six programme to get back on the radar, and at South Florida most such players are quarterbacks. |
+| 16 | Author's concerns | He replaces enormous production — South Florida was one of five teams averaging 40-plus points, and 49 in American play, with Byrum Brown producing over 4,000 yards and 42 touchdowns — and most of the surrounding portal acquisitions did not play much previously. |
+| 17 | Scheme / coordinator fit | The guide states its reservation about coordinator Tim Beck openly: it took him 35 years to get a head job, Coastal Carolina did not go well at 20-18, and it personally finds him underwhelming as a coordinator. |
+| 18 | Supporting-cast considerations | Almost entirely new. The guide notes most portal acquisitions did not play much previously, then supplies the counterweight: 247Sports graded South Florida's portal haul the best in the conference and 58th nationally with 44 commits. |
+| 19 | Relevant portal context | 44 portal commits, graded best in the conference and 58th nationally by 247Sports; Van Buren and Kromenhoek are the quarterback additions. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 8.5 wins, with a basically new roster and a first-time head coach. The guide makes a sharp market observation: South Florida could be favored in 10 or 11 games, yet the vig slants toward the Under, reflecting how many unanswered questions have the market down on the programme. Projection is 8.56 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide's first stated task for Hartline is sustaining Golesh's offensive standards after losing the quarterback who produced them. |
 | 22 | Relevant page references | pp. 66–67 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/south_florida_bulls.md](../02_Team_Database/sout
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Both sources describe an unsettled competition, but they do not name the same leading quarterback.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Michael Van Buren |
 | Current verified state | OPEN (Kromenhoek / Van Buren Jr. / Cooper) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 75 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 110 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position; transfer context in verification note.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

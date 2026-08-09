@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Florida Atlantic Owls |
 | 2 | Conference | American |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Caden Veltkamp |
+| 4 | Returning starter / new starter / transfer | Returning starter — the guide calls him effectively the only starting option. |
+| 5 | Previous school | Western Kentucky — the guide compares his three seasons there with his Florida Atlantic season. |
+| 6 | Career experience | Three seasons at Western Kentucky before Florida Atlantic. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Not addressed in guide as a yardage line; the guide records 17 interceptions in 2025 against only 11 in three seasons at Western Kentucky. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate. |
+| 11 | Turnover information | 17 interceptions — the single figure the guide builds the team's case around, since Florida Atlantic was -21 in turnover margin. It defends him partially: he was asked to throw a lot and Florida Atlantic trailed often, and he had only 11 interceptions in three seasons at Western Kentucky. It ends on a genuine silver lining — seven interceptions came in the first three games and six in the last three, so he protected the ball through the middle of the season. |
+| 12 | Competition status | Effectively none — the guide says he is effectively the only starting option. |
+| 13 | Backup / challenger information | Rice transfer Drew Devillier and redshirt freshman Jordan Magwood, who threw nine passes. |
+| 14 | Author's confidence in the QB situation | Sympathetic and qualified. The guide divides responsibility rather than blaming one player, noting coordinator Brett Dewhurst's defense forced only eight turnovers. |
+| 15 | Author's positive case | A much lower interception rate across three Western Kentucky seasons, a mid-season stretch in which he protected the ball, and year two in the system with more talent around him. |
+| 16 | Author's concerns | 17 interceptions, and a structural problem the guide identifies precisely: Easton Messer, who caught 104 balls for 1,052 yards, is still the only true go-to target, which could keep holding Veltkamp and the team back. |
+| 17 | Scheme / coordinator fit | Year two under Zach Kittley, the youngest head coach in FBS and a big Air Raid proponent, who also did double duty as coordinator in his first head-coaching year and has had far more time to evaluate fits. |
+| 18 | Supporting-cast considerations | Thin at the top and weak on the ground. The guide calls the rushing numbers laughable — 105 yards per game at 3.5 per carry, falling to 82 yards and 2.9 in American play — and offers a possible explanation in the line shifting to a very pass-heavy blocking scheme. It finds the running back room more intriguing: Kaden Shields-Dutton averaged 5.5 yards per carry and Kittley went the junior college route for Leonard Farrow, who averaged over seven at Fairmont State. |
+| 19 | Relevant portal context | 30 portal additions including defenders capable of creating negative plays; Drew Devillier arrives from Rice and Leonard Farrow from Fairmont State. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 5.5 wins. The guide is unusually explicit about conviction, calling this not a strong opinion but a lean: a 4-8 team with a -21 turnover margin now has more talent in year two of the system. It expects another high-variance team given heavy pass volume, and argues cleaning up the turnover margin could change everything. Projection is 5.64 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide's whole case turns on the turnover margin, and 17 of the giveaways were the quarterback's interceptions. |
 | 22 | Relevant page references | pp. 56–57 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/florida_atlantic_owls.md](../02_Team_Database/fl
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Caden Veltkamp |
 | Current verified state | Caden Veltkamp (returning starter) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 30 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 50 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

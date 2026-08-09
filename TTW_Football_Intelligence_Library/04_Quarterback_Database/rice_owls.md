@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Rice Owls |
 | 2 | Conference | American |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Jacurri Brown |
+| 4 | Returning starter / new starter / transfer | Transfer — via UCF, having previously been at Miami. |
+| 5 | Previous school | UCF; previously Miami. |
+| 6 | Career experience | Two years each at Miami and UCF. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Only 148 career passes, with more interceptions than touchdowns — nine to six. |
+| 9 | Rushing contribution | 137 carries for 821 yards, better than six per carry. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate. |
+| 11 | Turnover information | Nine interceptions against six touchdown passes across 148 attempts. |
+| 12 | Competition status | None described — Brown is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Qualified. The guide allows Brown could be a difference-maker as a better runner than Chase Jenkins, while doubting the scheme's viability in this conference. |
+| 15 | Author's positive case | A genuine runner at better than six yards per carry, and a better runner than his predecessor. |
+| 16 | Author's concerns | A negative touchdown-to-interception ratio on a small passing sample, in an offense the guide expects to throw even less. |
+| 17 | Scheme / coordinator fit | Central and quantified. The guide supplies the schematic precedent from Scott Abell's Davidson, where quarterbacks attempted only 152 passes in 11 games while the team ran 640 times for 3,720 yards, with quarterback Andrew Frazier third in both rushing attempts and yards. With Rice at 647 rushing attempts against 224 passes last season, it expects an even starker split. |
+| 18 | Supporting-cast considerations | Thin. Quinton Jackson was Rice's best offensive player with 889 yards at 4.9 per carry. |
+| 19 | Relevant portal context | Abell brought in a decent number of Power Four transfers, Brown among them. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 3.5 wins. The schedule is the crux: favorable last season, not now — Rice faces all the teams projected average or better apart from Navy and does not play Charlotte or UAB, its only two conference wins. The guide flags the finale specifically: if Rice is 3-8 going in, which it calls plausible, the last game is against Army, a terrible matchup for a less accomplished option team. Projection is 3.72 wins. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide's scheme argument runs through the quarterback, while its conclusion is that this may not be the best conference for the approach regardless of who plays. |
 | 22 | Relevant page references | pp. 64–65 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/rice_owls.md](../02_Team_Database/rice_owls.md)
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Jacurri Brown |
 | Current verified state | Jacurri Brown |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

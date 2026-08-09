@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | North Texas Eagles |
 | 2 | Conference | American |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Tayven Jackson |
+| 4 | Returning starter / new starter / transfer | Transfer — the guide calls him the clubhouse leader rather than a confirmed starter. |
+| 5 | Previous school | UCF; previously Indiana and originally Tennessee. |
+| 6 | Career experience | Originally went to Tennessee and started games for Indiana and UCF; this is his first non-Power Four team. |
+| 7 | Previous starts | Not addressed in guide as a count; the guide records starts at Indiana and UCF. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 11 | Turnover information | Characterized rather than counted: the guide says he has not taken great care of the football. |
+| 12 | Competition status | The guide calls him the clubhouse leader at quarterback without naming rivals. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Low. The guide notes he steps down in class with his first non-Power Four team but has not taken great care of the football. |
+| 15 | Author's positive case | Genuine Power Four starting experience at Indiana and UCF, on a roster where the guide says most players simply did not latch on at their previous schools. |
+| 16 | Author's concerns | Ball security, and a supporting cast the guide describes as possibly the most stripped-down programme it has seen. |
+| 17 | Scheme / coordinator fit | Uncertain. Neal Brown will call his own plays, which the guide says may work well or not at all, qualifying his record: Troy did not play with much tempo or light up scoreboards, though it scored 30-plus in each of his last three seasons, and West Virginia averaged 30-plus in only two of six. |
+| 18 | Supporting-cast considerations | Almost nothing returns. The top returning rusher had 95 yards on 21 carries, the top pass catcher seven grabs for 80 yards, the top tackler 32 stops and 1.5 sacks, the top defensive back four pass breakups — and even the kicker and punter are gone. Jahiem White averaged 6.5 yards per carry at West Virginia and rejoins Brown. |
+| 19 | Relevant portal context | The roster is described as players who barely featured plus transfers from every corner of the country; Jackson, White and Aaron Alexander (91 tackles at Arkansas State) are the named exceptions. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins. The schedule opens at Indiana, then hosts UNLV before a trip to Texas State, with further road games at Navy, UTSA and Tulane. Its structural read is that the home games are all attainable but North Texas might lose every road game, leaving no margin for error at home. Projection is 5.81 wins, and it states plainly that it still likes the Under. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide names the quarterback's ball security among its reasons for the Under despite a projection above the number. |
 | 22 | Relevant page references | pp. 62–63 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/north_texas_eagles.md](../02_Team_Database/north
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state still lists this quarterback but the job is not settled; confidence is M.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Tayven Jackson |
 | Current verified state | Tayven Jackson (slight lead; Ditta / Jimerson competing) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 55 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 90 |
 
-Priority drivers: medium-confidence verification (M); unresolved competition in verified state; no VSiN preseason position; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); unresolved competition in verified state; partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 
