@@ -16,25 +16,25 @@
 | 4 | Head-coach tenure | 5th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 7 | Offensive coordinator | Marcus Arroyo. |
+| 8 | Defensive coordinator | Brian Ward. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 42) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Marcus Arroyo, and the guide treats the arrangement as an open question. It records that Kenny Dillingham mostly called plays in 2024 and Arizona State averaged 6.1 yards per play; with Arroyo calling them last year that fell to 5.6. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed in guide as a named scheme. |
 | 14 | Tempo tendencies | Not addressed in guide. |
 | 15 | Run/pass tendencies | Not addressed in guide. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Addressed as an expectation attached to the head coach's reputation. The guide notes Dillingham once tried to recruit Cutter Boley to Oregon, which it reads as genuine belief, and contextualizes Boley's 15-to-12 touchdown-to-interception season at Kentucky by noting he had an unreliable supporting cast and no one of Dillingham's reputation. |
+| 18 | Coordinator/head-coach continuity | Head coach and both coordinators return; the quarterback changes. The Stability Score table (p. 42) prints 4, 3, 3 and 0, plus 2 for 12 returning starters, totalling 12. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
+| 20 | Prior-school relationships | Oregon is raised as a recruiting connection for Dillingham and Boley. On the roster the guide records Cutter Boley from Kentucky, Reed Harris from Boston College, Owen Long from Colorado State and Ashton Stamps from LSU. |
+| 21 | Portal/recruiting implications tied to staff | Notable transfers were added on the defensive line and at linebacker, with Colorado State's Owen Long singled out as someone who could turn heads at a higher level, and LSU's Ashton Stamps called a good addition at corner. |
+| 22 | VSiN author's assessment of coaching | Expectations recalibrated, and one coaching arrangement questioned. The guide frames an 8-5 season feeling like a massive disappointment as outrageous given Arizona State went 3-9 in 2023, and attributes the shift to Dillingham reaching the playoff in his second year. Its stated criticism is not of the head coach but of the division of labour: with one of college football's brightest offensive minds on the sideline, fans will keep asking why he is not calling plays, especially after a year ranked 49th in Adjusted EPA per play at 0.01. |
+| 23 | Coaching strengths | A head coach the guide calls one of college football's brightest offensive minds who has already delivered a playoff run, full coordinator continuity, and a portal class the guide rates on the defensive line and at linebacker. |
+| 24 | Coaching concerns | The play-calling arrangement and the drop from 6.1 to 5.6 yards per play that came with it, the loss of Sam Leavitt following the earlier loss of Cam Skattebo, a secondary the guide identifies as the pressing need, significant roster turnover and a tough schedule. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. Its coaching-linked judgement is that the odds are stacked against Dillingham, while noting he has been in that position before. |
 | 26 | Stability Score information | **12** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 118–119; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | See the labelled block below. |

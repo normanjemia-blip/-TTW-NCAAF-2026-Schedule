@@ -16,25 +16,25 @@
 | 4 | Head-coach tenure | 7th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 7 | Offensive coordinator | Jake Spavital, whom the guide calls an elite play-caller. |
+| 8 | Defensive coordinator | Joe Klanderman, in after six years at Kansas State. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | New — the guide records Klanderman taking over, and the Stability Score table (p. 42) awards 0 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Changed on defense in a way the guide treats as significant: Dave Aranda has stopped calling the defense, which it calls a wise step aside despite his reputation as a defensive mind, with Klanderman taking over. Jake Spavital calls the offense. |
+| 12 | Offensive scheme / philosophy | Not addressed as a named scheme, but characterised functionally: the guide describes a more quarterback-friendly offense known for receivers running free, in which deep-ball touch should produce big plays. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme, but a stated preference is recorded: Klanderman has been open about wanting activity in the opposing backfield, so the guide expects plenty of blitzing. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Framed as the season's central coaching question. The guide asks whether Spavital can unlock DJ Lagway, records Lagway as the top-ranked quarterback in the 2024 class whose Florida season produced 14 interceptions and 19 sacks, credits accumulated injuries as a factor, and sees a major turnaround available conditional on the line — noting Sawyer Robertson put up big numbers in this system and rating Lagway arguably more talented. |
+| 18 | Coordinator/head-coach continuity | Head coach and offensive coordinator return; the defensive coordinator and quarterback both change, and the head coach has given up defensive play-calling. The Stability Score table (p. 42) prints 4, 3, 0 and 0, plus 2 for 12 returning starters, totalling 9. |
+| 19 | Staff turnover | Confined to the defensive side, but structurally significant because the head coach also handed over the play-calling. |
+| 20 | Prior-school relationships | Kansas State for Klanderman. On the roster the guide records DJ Lagway from Florida. |
+| 21 | Portal/recruiting implications tied to staff | Not addressed as a staff-driven effect. The guide records DJ Lagway as a high-profile addition at quarterback and agrees a change of scenery was needed for him. |
+| 22 | VSiN author's assessment of coaching | Blunt about the record, hopeful about the changes. The guide records an excellent start — 2-7 in year one, then 12-2 and a Sugar Bowl win — then three losing seasons in the last four, and says it is honestly shocking Aranda still has his job. It rates the decision to hand over the defense a wise step aside, expects the defense to improve at all three levels, and says last year's 32.6 points allowed per game should come down considerably. |
+| 23 | Coaching strengths | An elite play-caller on offense inheriting a unit that scored 31.1 points per game, a defensive coordinator with six years at Kansas State and a clear aggressive identity, a head coach willing to delegate his own specialty, a loaded defensive line, and a bigger and deeper offensive line. |
+| 24 | Coaching concerns | Three losing seasons in four, an offensive line rebuilt around one returning starter, a quarterback coming off 14 interceptions and 19 sacks, and the guide's own note that heavy blitzing exposes the secondary more than usual. |
+| 25 | Betting implications explicitly tied to coaching | The guide states the stakes explicitly in market terms: with a tough schedule and a 5.5 win total, failure to cash the Over likely means Aranda is looking for a defensive coordinator job next year. Its supporting case is the talent to take a huge step forward on defense and excitement about Lagway in a more quarterback-friendly offense. |
 | 26 | Stability Score information | **9** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 120–121; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

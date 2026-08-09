@@ -15,26 +15,26 @@
 | 3 | Head coach | Brent Brennan |
 | 4 | Head-coach tenure | 3rd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Yes. The guide records Brent Brennan arriving after a successful run at San Jose State, following Jedd Fisch, and notes the late start left him no time to get things right. |
+| 7 | Offensive coordinator | Seth Doege. |
+| 8 | Defensive coordinator | Danny Gonzales. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 42) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records Arizona tying for seventh in Game on Paper's Adjusted EPA per play allowed at -0.14, driven by a third-ranked EPA per dropback allowed of -0.24. |
 | 14 | Tempo tendencies | Not addressed in guide. |
 | 15 | Run/pass tendencies | Not addressed in guide. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Addressed through a documented bounceback and an established relationship. The guide records Noah Fifita throwing for 3,228 yards with 29 touchdowns and six interceptions and finishing as PFF's 17th-ranked passer, a major recovery from a poor 2024, and credits an established rapport with returning coordinator Seth Doege. |
+| 18 | Coordinator/head-coach continuity | Complete. The Stability Score table (p. 42) awards points for a returning head coach, offensive coordinator, defensive coordinator and quarterback — 4, 3, 3 and 4, plus 3 for 14 returning starters — totalling 17, among the highest in the guide. |
+| 19 | Staff turnover | Addressed retrospectively and favourably: the guide calls Brennan's staff changes a home run and says they leave him in good standing with the university. |
+| 20 | Prior-school relationships | San Jose State for Brennan. |
+| 21 | Portal/recruiting implications tied to staff | Credited to the head coach directly — the guide calls his portal work strong and his recruiting instincts sound, and records that Brennan and Gonzales hit the portal hard for potential instant-impact starters in the secondary. |
+| 22 | VSiN author's assessment of coaching | A recovery credited to the coach, with the ceiling questioned. The guide records Arizona falling to 4-8 in 2024 and putting Brennan on the hot seat, then answering with a 9-4 season it says was a couple of very close losses from something bigger. It calls his staff changes a home run. Its caution is stated as a warning against extrapolation: replicating or building on 2025 is the hope, but that is also what Tucson hoped for in 2024. |
+| 23 | Coaching strengths | A Stability Score of 17 with head coach, both coordinators and the quarterback all returning; staff changes the guide calls a home run; a coordinator credited with excellent work on a defense that ranked among the best in EPA per dropback allowed; and 14 returning starters. |
+| 24 | Coaching concerns | Four defensive backs lost to the NFL including a second-round pick and two all-conference selections on a unit the guide says was special specifically because it slowed the conference's most explosive passing games; three offensive line starters to replace; the quarterback's 2024 season and occasional injury trouble; and a schedule the guide says makes finishing above .500 in conference play a challenge. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **17** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 116–117; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | See the labelled block below. |

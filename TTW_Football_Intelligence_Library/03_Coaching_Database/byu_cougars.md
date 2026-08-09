@@ -17,24 +17,24 @@
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
 | 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 8 | Defensive coordinator | Kelly Poppinga, replacing Jay Hill, who left to join Kyle Whittingham at Michigan. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | New — the guide records Jay Hill's departure and Poppinga's promotion, and the Stability Score table (p. 42) awards 0 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records BYU allowing 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated philosophy. The guide's quarterback diagnosis is that Bear Bachmeier was far more comfortable running than passing. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Framed as a specific developmental target rather than a coaching record. The guide says becoming a more cerebral pocket passer with better accuracy is the next stage for Bachmeier and uses the PFF grades to make the point precisely — a 78.9 overall grade put him in the top 50, but his 77.0 rushing grade was what raised the profile, and if the passing grade surpasses the rushing grade BYU has something special. |
+| 18 | Coordinator/head-coach continuity | Head coach, offensive coordinator and quarterback return; the defensive coordinator changes. The Stability Score table (p. 42) prints 4, 3, 0 and 4, plus 3 for 13 returning starters, totalling 14. |
+| 19 | Staff turnover | Confined to the defensive coordinator, where Jay Hill left for Michigan and Kelly Poppinga took over. |
+| 20 | Prior-school relationships | Michigan is where Jay Hill went, to join Kyle Whittingham. On the roster the guide records Cade Uluave from Cal and Kyle Kasper from Oregon. |
+| 21 | Portal/recruiting implications tied to staff | Not addressed as a staff-driven effect. The guide's retention point is about the head coach: his success drew Penn State, which it says was desperate for him, and BYU's boosters brought him back with what it describes as a bottomless pit of money. |
+| 22 | VSiN author's assessment of coaching | Strong on the head coach, unresolved on the coordinator change. The guide records Kalani Sitake winning double-digit games in four of the last six seasons and says last year's team had a real case for the playoff field. On the defensive change its conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. |
+| 23 | Coaching strengths | A head coach with four double-digit-win seasons in six who was retained against a Power Four programme's pursuit, offensive-coordinator and quarterback continuity, nearly every impactful player back from a 12-win team, two straight seasons under 19.6 points allowed, and eight defenders who started games returning. |
+| 24 | Coaching concerns | A new defensive coordinator taking over a unit that lost its architect to Michigan, a quarterback whose passing lags his running, and the loss of leading receiver Parker Kingston, who the guide records was expelled from school over off-field conduct, leaving heavy reliance on an unproven group. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **14** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 122–123; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
