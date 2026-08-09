@@ -297,9 +297,9 @@
   "stability_score": 3,
   "record_2025": "9-4",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Scott Isphording.",
+  "dc": "Kurt Mattix, returning after a season in Charlotte with Tim Albin.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -307,7 +307,7 @@
   "stability_page": 43,
   "carousel_page": 34,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Sacramento State Hornets",
@@ -328,17 +328,17 @@
   "stability_score": 0,
   "record_2025": "7-5",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "oc": "Eric Kiesau, from Florida.",
+  "dc": "Adam Clark, from Northern Arizona.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "236-237",
   "stability_page": 44,
   "carousel_page": 34,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Toledo Rockets",
@@ -359,17 +359,17 @@
   "stability_score": 0,
   "record_2025": "8-5",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "oc": "Cris Reisert, the former Tiffin and Ohio Dominican head coach.",
+  "dc": "Jahmal Brown, a Cleveland native who came from Youngstown State.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "238-239",
   "stability_page": 44,
   "carousel_page": 34,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Western Michigan Broncos",
@@ -390,9 +390,9 @@
   "stability_score": 13,
   "record_2025": "10-4",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Walt Bell.",
+  "dc": "Greer Martini, 30, promoted from linebackers coach after Chris O'Leary returned to Jim Harbaugh's Chargers staff as defensive coordinator.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -400,6 +400,6 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  }
 ]
