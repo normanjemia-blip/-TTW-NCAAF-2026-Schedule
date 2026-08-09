@@ -15,26 +15,26 @@
 | 3 | Head coach | Tim Albin |
 | 4 | Head-coach tenure | 2nd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Yes. The guide records Tim Albin having three straight double-digit winning seasons at Ohio before leaving for Charlotte, and notes he primarily coached offensive linemen and running backs before becoming Ohio's coordinator. |
 | 7 | Offensive coordinator | Not addressed in guide. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 42) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed in guide as a named scheme. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. The guide records 2.7 yards per carry and 4.6 yards per play. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide's verdict on the room is blunt — none of the options are particularly good — and it records Conner Harrell, probably the best quarterback on the roster, being out until around mid-October. |
+| 18 | Coordinator/head-coach continuity | Complete as printed. The Stability Score table (p. 42) awards points for a returning head coach, offensive coordinator, defensive coordinator and quarterback — 4, 3, 3 and 4, plus 1 for 9 returning starters — totalling 15, against a 1-11 record. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
+| 20 | Prior-school relationships | Ohio for Albin. On the roster the guide records Grayson Loftis from Duke, Conner Harrell from North Carolina and Cole Gonzales from Western Carolina. |
+| 21 | Portal/recruiting implications tied to staff | Assessed deliberately modestly. The guide says neither the incoming class nor the portal class graded highly for 247Sports relative to the conference, but there are many more bodies and some are probably better at football than what was there. It records that Charlotte's boosters did fund a real attempt at quarterback last season. |
+| 22 | VSiN author's assessment of coaching | The job rated harder than the coach. The guide says Albin left a good job at Ohio for what it calls arguably the biggest challenge in the American, rating Charlotte probably the second-toughest job behind Rice — though it notes results point to Charlotte as the toughest. It attributes much of the collapse to how painfully thin the roster was when Albin arrived, and identifies a multi-year structural problem: Charlotte is not big or strong enough up front, with a -2.3 yards-per-carry differential last year and -1.6 the year before, against a positive differential for the 2019 bowl team. It observes that Albin primarily coached offensive linemen and running backs, and that the athletic department showed the same instinct when hiring Biff Poggi over trench toughness. |
+| 23 | Coaching strengths | A head coach with three straight double-digit winning seasons at his previous stop whose own coaching background is in the trenches — which the guide identifies as exactly the programme's structural weakness — full staff continuity per the Stability Score table, and many more bodies on the roster. |
+| 24 | Coaching concerns | A 1-11 season with 14.3 points scored and more than 36 allowed per game, being outgained by nearly two yards per play, no conference loss closer than 11 points, 14 sacks, 2.7 yards per carry, a quarterback room the guide calls not particularly good with the best option out until mid-October, and portal and recruiting classes that did not grade highly. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. Its projection is 1.81 wins, and its coaching-linked conclusion is conditional: improving up front is how Albin finds momentum. |
 | 26 | Stability Score information | **15** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 52–53; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
