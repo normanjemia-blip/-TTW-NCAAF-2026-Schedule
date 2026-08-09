@@ -15,26 +15,26 @@
 | 3 | Head coach | Mike Uremovich |
 | 4 | Head-coach tenure | 2nd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
-| 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Not addressed in guide. The guide records that Mike Uremovich brought his Butler coordinator with him. |
+| 7 | Offensive coordinator | Mike Uremovich himself — the guide records he is his own play-caller. |
+| 8 | Defensive coordinator | Jeff Knowles, Uremovich's Butler coordinator and longtime best friend. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator, consistent with the head coach retaining the role. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 42) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Mike Uremovich, explicitly, and the guide is direct about the result: as his own play-caller, last year's results were pathetic. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records Knowles taking a unit that had allowed over 40 points per game in Mike Neu's final defense down to 29.8 while shaving a full yard per play. |
+| 14 | Tempo tendencies | Slow, and deliberately so. The guide argues Ball State played slowly to protect the defense, averaging just 60.8 plays per game while the defense faced 67.3, and says the unit deserves extra credit for that workload. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. The guide records the quarterback leading the team with just 600 rushing yards at 2.8 per carry. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide says there is no clear evidence any of the candidates can be an FBS-level starter, even in the MAC, sets the baseline as exceedingly low — 15.8 points per game, 4.5 yards per play, 49 sacks and a starting quarterback who threw for just 1,583 yards — and still concludes the bar does not seem likely to move much higher. |
+| 18 | Coordinator/head-coach continuity | Head coach and both coordinators return; the quarterback changes. The Stability Score table (p. 42) prints 4, 3, 3 and 0, plus 0 for 6 returning starters, totalling 10. |
+| 19 | Staff turnover | None recorded. The guide's staffing note is the original hire: Uremovich brought Jeff Knowles from Butler to Muncie. |
+| 20 | Prior-school relationships | Butler for both Uremovich and Knowles. On the roster the guide records Keldric Luster from SMU by way of Texas State, and Tyler Mizzell from Concord after leaving Wake Forest. |
+| 21 | Portal/recruiting implications tied to staff | Addressed as a preference rather than a strength. The guide allows Uremovich may well prefer his own portal class and two freshman classes to what he inherited from Mike Neu, while judging the roster's talent level similarly low. |
+| 22 | VSiN author's assessment of coaching | Urgent on the offense, genuinely positive on the defense. The guide says Ball State needs to figure something out fast after a dismal 15.8 points per game produced a fourth straight season without a bowl, and finds very little to be excited about in year one — brutal special teams, 272 yards of offense per game, and a -26 sack differential including 49 sacks allowed. On the other side it finds a success story in Jeff Knowles, crediting him with a drop from over 40 points per game to 29.8 and a full yard per play, with extra credit for the workload his unit absorbed. |
+| 23 | Coaching strengths | Full staff continuity, a defensive coordinator the guide credits with a substantial one-year turnaround under heavy workload, a head coach with his own portal and two freshman classes now in place, and an offensive line the guide says might be better. |
+| 24 | Coaching concerns | A fourth straight season without a bowl on 15.8 points per game, 49 sacks allowed for a -26 differential, brutal special teams, a quarterback room the guide says shows no clear FBS-level starter, returning production of one rushing and two receiving touchdowns, and only two returning defensive starters. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **10** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 218–219; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
