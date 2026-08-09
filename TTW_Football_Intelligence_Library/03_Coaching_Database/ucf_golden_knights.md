@@ -15,26 +15,26 @@
 | 3 | Head coach | Scott Frost |
 | 4 | Head-coach tenure | 2nd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 44) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Yes, at the same programme. The guide records that Scott Frost's first UCF spell took an 0-12 team to 13-0 in two years, and is clear nobody expects a repeat. |
 | 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 8 | Defensive coordinator | Alex Grinch. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 44) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — Grinch enters his second season in Orlando, and the Stability Score table (p. 44) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed as a named scheme. The guide's conditional expectation is something closer to the 2017 UCF offense, provided the line improves. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records UCF cutting from 26.9 points allowed per game in 2024 to 23.6, with the pass defense especially impressive at 185.0 yards allowed per game. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide says the quarterback position goes from a mess to a strength with Alonza Barnett III, a high-level dual threat it also describes as a leader and proven winner. |
+| 18 | Coordinator/head-coach continuity | Head coach and both coordinators return; the quarterback changes. The Stability Score table (p. 44) prints 4, 3, 3 and 0, plus 2 for 12 returning starters, totalling 12. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
+| 20 | Prior-school relationships | UCF itself for Frost, given his earlier spell. On the roster the guide records Alonza Barnett III from James Madison, Preston Cushman having been at Ole Miss two years ago, and Josh Derry from Monmouth. |
+| 21 | Portal/recruiting implications tied to staff | Credited as improving. The guide records recruiting and portal work moving in the right direction under Frost, and notes instant-impact signings on defense from both the Group of Five and Power Four. |
+| 22 | VSiN author's assessment of coaching | Improvement credited without inflating it. The guide records Frost winning five games in 2025, improving on the 4-8 season under Gus Malzahn, with recruiting and portal work moving in the right direction, while being clear nobody expects a repeat of 13-0. On the coordinator it notes Alex Grinch's career has been up and down while crediting a very good job last year. |
+| 23 | Coaching strengths | A head coach who has already built this programme once, both coordinators returning, a documented defensive improvement with four secondary starters back, a quarterback upgrade the guide calls a move from a mess to a strength, and plentiful skill-position talent. |
+| 24 | Coaching concerns | An offensive line that lost four of five starters and which the guide says will still not be one of the better Big 12 units, and a coordinator whose career record the guide describes as up and down. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **12** total (p. 44) — see the component table below |
 | 27 | Relevant page references | team pp. 142–143; Stability Score p. 44 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

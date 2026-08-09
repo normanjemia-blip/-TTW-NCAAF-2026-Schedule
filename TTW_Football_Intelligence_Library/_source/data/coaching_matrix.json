@@ -359,17 +359,17 @@
   "stability_score": 12,
   "record_2025": "9-4",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "oc": "Gordon Sammis, in from a successful spell at UConn.",
+  "dc": "Andy Avalos.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
   "staff_turnover_major": false,
   "qb_developer": false,
   "pages": "138-139",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Texas Tech Red Raiders",
@@ -391,8 +391,8 @@
   "record_2025": "12-2",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Shiel Wood, whom the guide calls a fantastic play-caller.",
+  "play_caller": "Shiel Wood on defense, whom the guide says has proven a fantastic play-caller.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -400,7 +400,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "UCF Golden Knights",
@@ -422,8 +422,8 @@
   "record_2025": "5-7",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Alex Grinch.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -431,7 +431,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Utah Utes",
@@ -452,17 +452,17 @@
   "stability_score": 5,
   "record_2025": "11-2",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Not addressed in guide. The guide records that Jason Beck left for Michigan with Kyle Whittingham.",
+  "dc": "Not addressed in guide. Scalley himself was the defensive coordinator for the last 10 seasons.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "144-145",
   "stability_page": 44,
   "carousel_page": 31,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "West Virginia Mountaineers",
@@ -485,7 +485,7 @@
   "in_carousel": false,
   "oc": "Not addressed in guide.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "play_caller": "Not addressed in guide by name. The guide refers to the offense as the Rodriguez offense.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -493,6 +493,6 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  }
 ]
