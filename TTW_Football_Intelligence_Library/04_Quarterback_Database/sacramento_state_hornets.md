@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Sacramento State Hornets |
 | 2 | Conference | MAC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Carson Conklin |
+| 4 | Returning starter / new starter / transfer | Transfer — returning to the programme from Fresno State, where he went when Brennan Marion took over. |
+| 5 | Previous school | Fresno State; started at Sacramento State in 2024. |
+| 6 | Career experience | Started at Sacramento State in 2024 before transferring to Fresno State. |
+| 7 | Previous starts | Not addressed in guide as a count; the guide records he was the starter in 2024. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Conklin is named as the returning quarterback. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Neutral. Conklin's return is listed as evidence for competitiveness rather than assessed on his own merits. |
+| 15 | Author's positive case | He returns to the place where he was the starter in 2024, and 247Sports graded Sacramento State's portal class second in the MAC. |
+| 16 | Author's concerns | Major questions in the trenches on both sides plus entirely new playbooks, with the very few returning offensive players facing a more traditional offense. |
+| 17 | Scheme / coordinator fit | Discontinuous. Brennan Marion's up-tempo offense produced 33.8 PPG, but the scheme will be different this season under new coordinator Eric Kiesau, from Florida. |
+| 18 | Supporting-cast considerations | Depleted. The production being replaced is Rodney Hammond with over 1,200 rushing yards and Ernest Campbell with 755 yards on just 37 catches. |
+| 19 | Relevant portal context | A great many new faces under new head coach Alonzo Carter; 247Sports graded the portal class second in the MAC. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 4.5 wins, with Mississippi Valley State and UMass identified as the best and perhaps only hopes for wins. Ohio, Kent State and Toledo all travel west in conference play. Its summary is that this is obviously a transitional year. Projection is 4.82 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Low. The guide's Under is argued from the FCS-to-FBS transition, travel and trench questions rather than from quarterback play. |
 | 22 | Relevant page references | pp. 236–237 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/sacramento_state_hornets.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Carson Conklin |
 | Current verified state | Carson Conklin |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 20 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M).
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

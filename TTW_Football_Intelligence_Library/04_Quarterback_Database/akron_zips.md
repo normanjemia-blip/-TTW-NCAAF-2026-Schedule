@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Akron Zips |
 | 2 | Conference | MAC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Reese Poffenbarger |
+| 4 | Returning starter / new starter / transfer | Transfer — arriving via North Texas, having previously been at Miami (FL) and Albany. |
+| 5 | Previous school | North Texas; previously Miami (FL) and Albany. |
+| 6 | Career experience | Originally recruited to Miami (FL) after a strong season at Albany; held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | 14 total passes across the last two seasons. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | The guide describes minimal resistance for the job. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive about the situation rather than the résumé. What the guide likes is what he inherits, not what he has done. |
+| 15 | Author's positive case | Minimal resistance for the job, a head coach who was a longtime coordinator and quarterbacks coach, a 1,000-yard rusher in Jordan Gant representing genuine growth in the run game, and returning pass-catchers including leading receiver Marcel Williams. |
+| 16 | Author's concerns | He has barely played — 14 passes across two seasons. |
+| 17 | Scheme / coordinator fit | Joe Moorhead was a longtime coordinator and quarterbacks coach before taking this job, which the guide treats as the developmental asset. |
+| 18 | Supporting-cast considerations | Better than usual for Akron: a 1,000-yard rusher in Jordan Gant and returning pass-catchers including Marcel Williams. Up front the guide tracks improvement — 63 sacks allowed in 2021 and 56 in 2022, improving to 30 in 2024 and 35 in 2025, with last year's -9 sack differential easily the best in a very long time. |
+| 19 | Relevant portal context | Poffenbarger arrives from North Texas. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins. The single data point the guide finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State. Its conclusion is that this was possibly a better team than 5-7 suggested and that Moorhead is finally gaining ground. Projection is 4.29 wins, with a stated liking for the team. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Over rests on programme trajectory and a corrected reading of last season rather than on quarterback play. |
 | 22 | Relevant page references | pp. 216–217 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/akron_zips.md](../02_Team_Database/akron_zips.md
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state still lists this quarterback but the job is not settled; confidence is L.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Reese Poffenbarger |
 | Current verified state | Open (Reese Poffenbarger / Brayden Roggow) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 75 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 85 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position; transfer context in verification note.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; partial VSiN/current-state disagreement; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

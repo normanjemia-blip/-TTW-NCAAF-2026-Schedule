@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Western Michigan Broncos |
 | 2 | Conference | MAC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Broc Lowry |
+| 4 | Returning starter / new starter / transfer | Returning starter — the conference's reigning Offensive Player of the Year. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Took the job full-time after a timeshare with Brady Jones to start last year, and won conference Offensive Player of the Year. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | 1,803 passing yards as part of 23 total touchdowns. |
+| 9 | Rushing contribution | 963 rushing yards on 203 carries; the guide identifies his running as the separator for the offense and for him personally. |
+| 10 | Efficiency statistics | Team-level: 109th in yards per play at 5.2, which the guide explains as a function of run-pass distribution with over 600 rushing attempts — seventh nationally in total rush attempts. |
+| 11 | Turnover information | Not addressed in guide individually; Western Michigan had a +9 turnover margin. |
+| 12 | Competition status | None described — Lowry is the settled starter. |
+| 13 | Backup / challenger information | Brady Jones shared the job at the start of last season; the guide states there is not much depth behind Lowry. |
+| 14 | Author's confidence in the QB situation | High on the player, cautious about sustainability. The guide calls returning the conference's Offensive Player of the Year at quarterback rare, then warns staying on top could be harder than it looks. |
+| 15 | Author's positive case | A dual-threat conference Offensive Player of the Year returning alongside a 1,000-yard running back, behind a pretty experienced offensive line — the foundation the guide says makes something special possible. |
+| 16 | Author's concerns | A specific durability worry — there is a great deal of depth behind Buckley but not behind Lowry, who had 203 carries, a lot for a 6-foot-1 quarterback — and an open question about whether Western Michigan can pass enough to keep defenses honest. |
+| 17 | Scheme / coordinator fit | Established. The guide describes something of a throwback under coordinator Walt Bell, running double tight ends, and says it worked, with Western Michigan playing keep-away at 4.6 yards per carry. |
+| 18 | Supporting-cast considerations | Strong. Jalen Buckley shook off an injury-plagued 2024 to average 5.6 yards per carry, behind a pretty experienced offensive line, with the portal used for depth rather than impact on offense. |
+| 19 | Relevant portal context | The guide names the asymmetry directly: using the portal for depth rather than impact is a luxury, and that is the case on offense, but the defense is a major work in progress. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins. The schedule hardens with no UMass or Ball State and Michigan, Rice and Boise State in non-conference, and the guide works through the Rice game in detail — a running-clock game between teams averaging 49.8 and 44.5 rushing attempts, so the margin for error could be thin. Projection is 7.39 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high, and specifically on availability. The guide's stated durability concern about Lowry's carry count sits alongside the defensive rebuild as the reasons for the Under. |
 | 22 | Relevant page references | pp. 240–241 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/western_michigan_broncos.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Broc Lowry |
 | Current verified state | Broc Lowry (returning starter) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

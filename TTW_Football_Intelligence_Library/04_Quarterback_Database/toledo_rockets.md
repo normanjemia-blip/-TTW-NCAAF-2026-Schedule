@@ -16,26 +16,26 @@
 | 1 | Team | Toledo Rockets |
 | 2 | Conference | MAC |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | Undetermined — the guide's account of the roster names no quarterback among 37 transfers. |
 | 5 | Previous school | Not addressed in guide. |
 | 6 | Career experience | Not addressed in guide. |
 | 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
+| 8 | Passing production | Not addressed in guide. The scheme benchmark it gives is Mercer's, where Jacobs' offense threw for over 3,800 yards. |
+| 9 | Rushing contribution | Not addressed in guide at quarterback. |
+| 10 | Efficiency statistics | Not addressed in guide at quarterback; Mercer racked up 6.8 yards per play last season under Jacobs. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | Not addressed in guide — no candidates are named. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Not expressed at the position; the guide's confidence is in the coaching hire. |
+| 15 | Author's positive case | Not addressed at quarterback. The guide's positive case is the scheme and the coach: Mercer under Jacobs posted 6.8 yards per play with a balanced approach that ranked third nationally in yards per game. |
+| 16 | Author's concerns | Near-total turnover — the top returning tackler had 35 tackles and the top returnee in yards of any kind had 194 receiving yards. |
+| 17 | Scheme / coordinator fit | Projected from Mercer: 4.9 yards per carry on more than 400 rushing attempts and over 3,800 passing yards, with the guide expecting a lean on the run at the outset. |
+| 18 | Supporting-cast considerations | Rebuilt around familiar players. The incoming group is heavy with Mercer transfers who followed Jacobs, including running back CJ Miller and receiver Adjatay Dabbs, plus offensive linemen familiar to coordinator Cris Reisert who came with him from Gardner-Webb, Penn State transfer Cory Smith and two senior tackles who played for Toledo last season. |
+| 19 | Relevant portal context | 247Sports lists 37 transfers for Toledo, the third-best MAC class in its ranking; John Alan Richter is named as a returnee Rockets fans may recognise. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins, resting first on a soft Year 1 schedule: Toledo misses Miami of Ohio, hosts reigning champion Western Michigan, and gets a visit from San Diego State. Its conclusion is that Jacobs seems like a good hire, with at least some familiarity thanks to transfers from a team that finished in the FCS Top 25 in each of the last two seasons. Projection is 8.04 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Low as stated. The guide's Over is argued from the coaching hire, the scheme and the schedule; it does not name a quarterback at all. |
 | 22 | Relevant page references | pp. 238–239 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide names no quarterback for Toledo anywhere in the spread, so this record carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 238):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 2.
 

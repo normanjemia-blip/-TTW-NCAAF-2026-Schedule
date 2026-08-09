@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Massachusetts Minutemen |
 | 2 | Conference | MAC |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Pop Watson |
+| 4 | Returning starter / new starter / transfer | Transfer — described as a possible starter rather than a confirmed one; a homecoming for a Massachusetts native. |
 | 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 6 | Career experience | Never really given a chance to start; a three-star recruit and the MaxPreps High School Quarterback of the Year in Massachusetts in 2021. |
 | 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 8 | Passing production | Not addressed in guide for Watson. Last season's quarterbacks collectively posted an 8-to-9 touchdown-to-interception ratio. |
+| 9 | Rushing contribution | Not addressed in guide for Watson; the guide notes six different players, including two quarterbacks, had at least 40 rushing attempts last season. |
+| 10 | Efficiency statistics | Team-level: 3.9 yards per play. |
+| 11 | Turnover information | Nine interceptions against eight touchdowns from the quarterback group. |
+| 12 | Competition status | Not settled — the guide calls Watson a possible starter heading what it describes as a much better room. |
+| 13 | Backup / challenger information | Not addressed by name; the guide notes three different quarterbacks started last season. |
+| 14 | Author's confidence in the QB situation | Cautiously improved. The guide calls this a much better room while stating its wider hesitation is that it does not even know whether Harasymiak is a good coach. |
+| 15 | Author's positive case | A three-star recruit and state high-school player of the year returning home, in a room the guide rates much better, with new coordinator Max Warner — previously an offensive assistant at Toledo — seen as an upgrade. |
+| 16 | Author's concerns | The baseline is dire: 3.9 yards per play with an 8-to-9 ratio, and last season's churn saw three different quarterbacks start. |
+| 17 | Scheme / coordinator fit | Mike Bajakian left to be the Cleveland Browns' quarterbacks coach; the guide's judgement is unsentimental — given the offense's numbers he is not really a big loss, and Warner seems like an upgrade. |
+| 18 | Supporting-cast considerations | Improving through the portal. The guide counts quite a few Power Four transfers across this cycle and the staff's first. Last season Jacquon Gibson had 63 catches while nobody else had more than 27. |
+| 19 | Relevant portal context | Quite a few Power Four transfers across two cycles; Watson is the named quarterback addition. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 2.5 wins. The guide reads the market as confident in three wins coming from Sacred Heart, Stonehill, Sacramento State, Eastern Michigan, Ball State and Akron, and says it cannot blame them: this team is absolutely better on paper and the schedule is absolutely friendlier. Projection is 2.77 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Over rests on the schedule and on FCS opponents rather than on quarterback play. |
 | 22 | Relevant page references | pp. 230–231 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/massachusetts_minutemen.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Pop Watson |
 | Current verified state | William 'Pop' Watson |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 30 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 
