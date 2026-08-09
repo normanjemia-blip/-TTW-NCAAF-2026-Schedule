@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Middle Tennessee Blue Raiders |
 | 2 | Conference | Conference USA |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Roman Gagliano |
+| 4 | Returning starter / new starter / transfer | Returning — a redshirt freshman who took over late last season and stayed with the programme. |
+| 5 | Previous school | Not applicable — returning. |
+| 6 | Career experience | Three starts and a couple of relief appearances as a redshirt freshman. |
+| 7 | Previous starts | Three. |
+| 8 | Passing production | Over 1,000 yards with a 7-to-0 touchdown-to-interception ratio. Under him the offense scored 26, 31 and 31 points with 541, 460 and 459 yards. |
+| 9 | Rushing contribution | 4.3 yards per carry on 39 attempts. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate; the guide calls the offensive figures under him almost untouchable before Nicholas Vattiato's injury. |
+| 11 | Turnover information | No interceptions in the three-start sample. |
+| 12 | Competition status | None described — Gagliano stayed with the programme despite opening eyes. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive, and pointed about why he did not play sooner. The guide asks directly why he was not starting to begin with and answers structurally rather than personally: it notes the redshirt freshman was surely earning less NIL money than the programme's all-time second-leading passer, and that some teams — especially at the Group of Six level — seem unwilling to move on from entrenched starters they have invested in. |
+| 15 | Author's positive case | Three starts producing 26, 31 and 31 points on 541, 460 and 459 yards, with a 7-to-0 ratio and useful running. |
+| 16 | Author's concerns | A small sample and a rebuilt supporting cast; the guide answers its own question about rebuilding the offense in a day with a probably not. |
+| 17 | Scheme / coordinator fit | New coordinator Anthony Scelfo has coached under his father at Southeastern Louisiana since 2021, making this his first time calling plays at FBS level. The guide's wider reasoning is scheme plus conference context — a more robust running game with a more mobile quarterback should help, particularly in Conference USA, where teams that run the ball efficiently often fare better. |
+| 18 | Supporting-cast considerations | Rebuilt. Cam'ron Lacy is back after leading the team with 549 yards, but nobody else with 30-plus catches returns and leading rusher Jekail Middlebrook has moved on. The running back room the guide rates much stronger: holdover DJ Taylor at 7.7 yards per carry on 26 attempts, Saginaw Valley State transfer Terence Brown, and Antonio Martin, who averaged over five yards per carry for Southeastern Louisiana in Scelfo's first season as coordinator. |
+| 19 | Relevant portal context | Terence Brown from Saginaw Valley State and Antonio Martin from Southeastern Louisiana; the defense is described as mostly rebuilt via the portal across two cycles. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins: bowl eligibility still looks a tall task, but five wins is attainable, especially at the plus-money price offered. The path runs through non-conference — MTSU lost by 20 to FCS Austin Peay to open last season, so the guide presumes it will be ready for Murray State. Projection is 4.1 wins, with the value stated to be on the Over. |
+| 21 | VSiN team outlook dependency on QB performance | High. The Over is argued from a more mobile quarterback in a new scheme, though the guide's conclusion holds even if the quarterback disappoints — MTSU should run the ball a lot better. |
 | 22 | Relevant page references | pp. 198–199 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/middle_tennessee_blue_raiders.md](../02_Team_Dat
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Roman Gagliano |
 | Current verified state | Roman Gagliano |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

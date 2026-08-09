@@ -16,26 +16,26 @@
 | 1 | Team | Liberty Flames |
 | 2 | Conference | Conference USA |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | Undetermined — the guide says Chadwell has options and that it remains to be seen if any of them are good. |
+| 5 | Previous school | Deshawn Purdie comes from Wake Forest; Ethan Vasko was a Coastal Carolina transfer already on the roster. |
+| 6 | Career experience | Purdie is described only through his passing rate; Vasko transferred in from Coastal Carolina and started last season. |
+| 7 | Previous starts | Not addressed in guide as counts. |
+| 8 | Passing production | Vasko posted a 10-to-12 touchdown-to-interception ratio and threw for under 2,000 yards; Purdie is only a 50% passer over 282 attempts. |
+| 9 | Rushing contribution | Vasko managed just 2.6 yards per carry on 100 attempts. |
+| 10 | Efficiency statistics | Purdie at 50% across 282 attempts; Vasko's rate is not given. |
+| 11 | Turnover information | Vasko threw 12 interceptions against 10 touchdowns. |
+| 12 | Competition status | Open. Vasko is still on the roster and Chadwell added Purdie from the portal; the guide concludes that while Chadwell has options, it remains to be seen if any of them are good. |
+| 13 | Backup / challenger information | The named candidates are Ethan Vasko and Deshawn Purdie. |
+| 14 | Author's confidence in the QB situation | Low. The guide keeps the question explicit — whether quarterback is actually better — while noting depth is stronger. |
+| 15 | Author's positive case | The guide's own case is that just about every unit has been improved in some way, and that depth is stronger at quarterback as well as running back. |
+| 16 | Author's concerns | The scheme requirement is specific and unmet: Chadwell's offense is predicated on heavy pre-snap motion to get players into space, and Vasko did not make those throws, while Purdie completes only half his passes. |
+| 17 | Scheme / coordinator fit | The guide frames it as a coincidence of timing — it is hardly a coincidence Chadwell was preparing to leave Coastal Carolina just as Grayson McCall ran out of eligibility. |
+| 18 | Supporting-cast considerations | Improved. Former Army running back Kanye Udoh is called one of the top free-agent pickups in the conference after 1,117 rushing yards in 2024, with Peyton Jones from Duke and Kam Davis from Florida State also promising, and the offensive line looks significantly better. The guide's structural point is that Chadwell's offense is now run-first — 508 carries against 316 pass attempts last season — so the quarterbacks only need to complete enough passes to keep defenses honest. |
+| 19 | Relevant portal context | Purdie from Wake Forest, plus receiver transfers from Charleston Southern and Indiana, and Udoh via Arizona State from Army. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 8.5 wins, on the basis that just about every unit has been improved in some way. Its biggest selling point is the Shawn Quinn hire at coordinator, and it expects the defense to be better against the run. Projection is 8.24 wins, with a stated liking for Liberty's chances to win more of the close games. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide takes the Over while explicitly leaving the quarterback question open, arguing the run-first structure lowers what the position must deliver. |
 | 22 | Relevant page references | pp. 196–197 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide names two candidates and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 196):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 6.
 

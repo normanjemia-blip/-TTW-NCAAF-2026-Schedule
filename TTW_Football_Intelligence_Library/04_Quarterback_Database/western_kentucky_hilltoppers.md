@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Western Kentucky Hilltoppers |
 | 2 | Conference | Conference USA |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Rodney Tisdale |
+| 4 | Returning starter / new starter / transfer | Returning starter — took over from Maverick McIvor as a true freshman. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | True freshman last season who took over from McIvor. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | Just under 66% completions with a 9-to-7 touchdown-to-interception ratio. |
+| 9 | Rushing contribution | 2.1 yards per carry. |
+| 10 | Efficiency statistics | Just under 66% completions. |
+| 11 | Turnover information | Seven interceptions against nine touchdown passes. |
+| 12 | Competition status | None described as live, but the guide names a fallback: Florida State transfer Brock Glenn has a chance at a fresh start if Tisdale falters or is hurt. |
+| 13 | Backup / challenger information | Florida State transfer Brock Glenn. |
+| 14 | Author's confidence in the QB situation | Contextually positive. The guide's judgement is that the numbers were not great, but he was a true freshman, and although he must learn a new playbook he is the most dynamic option on the roster. |
+| 15 | Author's positive case | A near-66% completion rate as a true freshman, and the most dynamic option on the roster. |
+| 16 | Author's concerns | A near-even touchdown-to-interception ratio, minimal rushing production at 2.1 yards per carry, and a new playbook to learn. |
+| 17 | Scheme / coordinator fit | New coordinator Bodie Reeder has run some pretty potent passing offenses and the guide judges him a better fit here than at his previous stop at Middle Tennessee. Rick Bowie, who arrived with McIvor from Abilene Christian, was one-and-done. |
+| 18 | Supporting-cast considerations | Rebuilt, with the line the genuine upgrade. KD Hutchinson is the only returnee of consequence at the skill positions; Tulsa transfer Ajay Allen will likely lead a by-committee backfield, Georgia Tech transfer Zion Taylor is the most notable receiver added, and Jyzaiah Rockwell arrives after a 1,100-yard FCS season. The offensive line is a hodgepodge of transfers but with a lot more experience and size than last season's group, including an Alabama transfer. |
+| 19 | Relevant portal context | Allen from Tulsa, Taylor from Georgia Tech, Rockwell from the FCS ranks, Glenn from Florida State, plus an Alabama transfer on the line. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins, flagged as something of an alt win total because 6.5 is the prevailing number with very heavy Over vig. The difficulty is the start — Western Kentucky may well go 0-3 — but the guide argues the stage is set to reach the bye at 4-3, with four of the five toughest conference games late in the year. Projection is 7.2 wins. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide's conditional is explicit: if Tisdale can distribute the ball without turning it over and prove more of a running threat, this unit will be cooking with gas quickly. |
 | 22 | Relevant page references | pp. 206–207 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/western_kentucky_hilltoppers.md](../02_Team_Data
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Rodney Tisdale |
 | Current verified state | Rodney Tisdale Jr. |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 30 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 50 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

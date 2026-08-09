@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Delaware Fightin’ Blue Hens |
 | 2 | Conference | Conference USA |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Nick Minicucci |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established starter through Delaware's first FBS season. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | Nearly 3,700 yards with a 23-to-7 touchdown-to-interception ratio. |
+| 9 | Rushing contribution | 112 carries for just 235 yards, an average of 2.1 that dragged the team rate down. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate. |
+| 11 | Turnover information | Seven interceptions against 23 touchdown passes. |
+| 12 | Competition status | None described — Minicucci is the settled starter. |
+| 13 | Backup / challenger information | Virtually non-existent, which the guide names as a specific durability risk. |
+| 14 | Author's confidence in the QB situation | Positive on production, specific about the risk. The guide starts its returning-production case with him, then flags that he takes a lot of hits with almost nothing behind him. |
+| 15 | Author's positive case | Nearly 3,700 yards with a 23-to-7 ratio, with all the running backs and top receiver Sean Wilson returning around him — the guide says Delaware is in really good shape on returning production, especially relative to its Conference USA peers. |
+| 16 | Author's concerns | Durability. He takes a lot of hits and the depth behind him is virtually non-existent, and his own rushing average of 2.1 dragged the team to 3.8 yards per carry. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Mostly intact but weaker up front. All the running backs and top receiver Sean Wilson return, though his two best offensive linemen do not — Patrick Shupp and Fintan Brose, tackles who combined for 24 starts, with the centre returning. The guide notes the line technically allowed 27 sacks, and just 14 in conference play, saying Minicucci was pretty clearly the reason through scrambles and designed short-yardage runs. |
+| 19 | Relevant portal context | The offensive line was not an area Delaware filled through the portal, so the guide concludes the programme must hope internal options improve. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins, with the guide conceding 6-6 is the most likely outcome given the heavy vig on the Over. Its durability concern is named as a reason. The schedule is called a bit trickier — the long trek to New Mexico State, reigning champion Kennesaw State, and two road games against better Power Four opponents. Projection is 5.73 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high, and specifically on availability. Quarterback durability with no backup is one of the two stated reasons for the Under. |
 | 22 | Relevant page references | pp. 188–189 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/delaware_fightin_blue_hens.md](../02_Team_Databa
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Nick Minicucci |
 | Current verified state | Nick Minicucci |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

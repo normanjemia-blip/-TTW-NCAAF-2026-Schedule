@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Sam Houston State Bearkats |
 | 2 | Conference | Conference USA |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Landyn Locke |
+| 4 | Returning starter / new starter / transfer | Returning — the guide names him the projected starter. |
+| 5 | Previous school | Not applicable — returning. |
+| 6 | Career experience | Not addressed in guide as a career summary. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | 765 yards while completing 50.4% of his passes. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | 50.4% completions. |
+| 11 | Turnover information | Not addressed individually; Sam Houston's quarterbacks combined for a 12-to-10 touchdown-to-interception ratio on just 2,209 yards. |
+| 12 | Competition status | None described — the guide names him the projected starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Very low. The guide isolates the position as responsible, stating that finishing 127th in PPG falls on the players calling out the offense and the person calling it. |
 | 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 16 | Author's concerns | A 50.4% completion rate, in a quarterback group that produced a 12-to-10 ratio on just 2,209 yards. The guide explicitly defends the run game against the same charge — serviceable at 4.3 yards per carry, with running backs averaging 5.8, 6.7 and 4.2, the overall figure dragged down badly by the quarterbacks. |
+| 17 | Scheme / coordinator fit | Poor by the guide's own image: Phil Longo is a longtime coordinator who likes tempo and the Air Raid, but is in Year 2 of installing a new system and is attempting to put a Dodge Dart engine into a Geo Prizm. |
+| 18 | Supporting-cast considerations | The line was far from great at 36 sacks allowed; the running backs are the one element the guide defends. |
+| 19 | Relevant portal context | 247Sports rated the Bearkats' portal haul the best in the conference, with the secondary a huge focal point — but on defense rather than at quarterback. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 3.5 wins, and the guide observes the betting market agrees, with heavy juice on another 3-9 or worse campaign. This year's roster may be closer to what Longo wants, though probably not close enough for much improvement. Projection is 2.66 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide isolates the quarterback position as the root of the offensive collapse it expects to persist. |
 | 22 | Relevant page references | pp. 204–205 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/sam_houston_state_bearkats.md](../02_Team_Databa
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Landyn Locke |
 | Current verified state | Landyn Locke |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

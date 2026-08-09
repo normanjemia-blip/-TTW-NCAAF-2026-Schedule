@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | New Mexico State Aggies |
 | 2 | Conference | Conference USA |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Trey Hedden |
+| 4 | Returning starter / new starter / transfer | Transfer — from Furman; described as the leader in the clubhouse rather than a confirmed starter. |
+| 5 | Previous school | Furman. |
+| 6 | Career experience | Roughly 20 starts at Furman. |
+| 7 | Previous starts | Roughly 20 at Furman. |
+| 8 | Passing production | More than 4,700 yards over roughly 20 starts, with a 30-to-22 touchdown-to-interception ratio. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate. |
+| 11 | Turnover information | 22 interceptions against 30 touchdowns — the guide calls these turnover issues. |
+| 12 | Competition status | Live. Adam Damante started two games last season and is the top holdover; Kalani McLeod took his only FBS offer, transferring in from Diablo Valley College. The guide's read is that Hedden's Division I experience makes him the leader in the clubhouse, with everyone likely to get a look at some point. |
+| 13 | Backup / challenger information | Adam Damante and Kalani McLeod. |
+| 14 | Author's confidence in the QB situation | Modest. The guide's framing is that Sanchez and coordinator David Yost have choices rather than an answer. |
+| 15 | Author's positive case | Substantial Division I passing volume, and a coordinator in David Yost who has run productive offenses at Texas Tech and Utah State. |
+| 16 | Author's concerns | Turnover issues at Furman, and a supporting cast the guide describes at length as inadequate. |
+| 17 | Scheme / coordinator fit | David Yost has run productive offenses at Texas Tech and Utah State. |
+| 18 | Supporting-cast considerations | The worst rushing attack in the nation at just 77 yards per game, crossing 100 only twice; three of the top four pass-catchers are gone, though the guide notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: the offensive line is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Sprinter James Jones arrives from Delaware State and true freshman Xavier Rucker is the highest-rated freshman to join the programme. |
+| 19 | Relevant portal context | 247Sports credits the programme with 26 portal players but ranks the class seventh of the conference's 10 teams. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 4.5 wins. It allows this may be Sanchez's best team, while noting others in Conference USA look improved too. Travel is treated as a structural cost: every road trip is a hike, with conference trips to Miami and the Nashville area plus non-conference journeys to Tallahassee and Honolulu. Projection is 4.61 wins. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Under is argued from travel, depth and the strength of the rest of the conference rather than from quarterback play. |
 | 22 | Relevant page references | pp. 202–203 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/new_mexico_state_aggies.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Both sources describe an unsettled competition, but they do not name the same leading quarterback.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Trey Hedden |
 | Current verified state | Open competition |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 70 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 80 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; partial VSiN/current-state disagreement.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

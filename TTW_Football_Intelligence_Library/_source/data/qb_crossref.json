@@ -562,20 +562,20 @@
    "team": "Delaware Fightin\u2019 Blue Hens",
    "abbrev": "DEL",
    "conference": "Conference USA",
-   "vsin_starter": "Not addressed in guide.",
+   "vsin_starter": "Nick Minicucci",
    "vsin_pages": "188-189",
    "verified_starter": "Nick Minicucci",
    "confidence": "H",
    "verification_date": "2026-07-21",
    "verification_status": "H-coded (tier 2)",
-   "relationship": "NO VSIN POSITION",
-   "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 5,
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
    "priority_drivers": [
-    "no VSiN preseason position"
+    "VSiN handicap depends heavily on QB play"
    ],
-   "qb_dependent": false,
-   "has_note": false
+   "qb_dependent": true,
+   "has_note": true
   },
   {
    "team": "Duke Blue Devils",
@@ -642,22 +642,21 @@
    "team": "FIU Golden Panthers",
    "abbrev": "FIU",
    "conference": "Conference USA",
-   "vsin_starter": "Not addressed in guide.",
+   "vsin_starter": "JJ Kohl",
    "vsin_pages": "190-191",
    "verified_starter": "JJ Kohl",
    "confidence": "M",
    "verification_date": "2026-08-03",
    "verification_status": "VERIFIED 7D.4",
-   "relationship": "NO VSIN POSITION",
-   "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 30,
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
    "priority_drivers": [
     "medium-confidence verification (M)",
-    "no VSiN preseason position",
     "transfer context in verification note"
    ],
    "qb_dependent": false,
-   "has_note": false
+   "has_note": true
   },
   {
    "team": "Florida Atlantic Owls",
@@ -944,20 +943,20 @@
    "team": "Jacksonville State Gamecocks",
    "abbrev": "JVST",
    "conference": "Conference USA",
-   "vsin_starter": "Not addressed in guide.",
+   "vsin_starter": "Caden Creel",
    "vsin_pages": "192-193",
    "verified_starter": "Caden Creel",
    "confidence": "H",
    "verification_date": "2026-07-21",
    "verification_status": "H-coded (tier 2)",
-   "relationship": "NO VSIN POSITION",
-   "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 5,
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 25,
    "priority_drivers": [
-    "no VSiN preseason position"
+    "VSiN handicap depends heavily on QB play"
    ],
-   "qb_dependent": false,
-   "has_note": false
+   "qb_dependent": true,
+   "has_note": true
   },
   {
    "team": "James Madison Dukes",
@@ -1033,14 +1032,15 @@
    "verification_status": "VERIFIED 7D.4",
    "relationship": "NO VSIN POSITION",
    "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 30,
+   "priority": 55,
    "priority_drivers": [
     "medium-confidence verification (M)",
     "no VSiN preseason position",
+    "VSiN handicap depends heavily on QB play",
     "transfer context in verification note"
    ],
-   "qb_dependent": false,
-   "has_note": false
+   "qb_dependent": true,
+   "has_note": true
   },
   {
    "team": "Kent State Golden Flashes",
@@ -1123,7 +1123,7 @@
     "transfer context in verification note"
    ],
    "qb_dependent": false,
-   "has_note": false
+   "has_note": true
   },
   {
    "team": "Louisiana Ragin\u2019 Cajuns",
@@ -1341,21 +1341,21 @@
    "team": "Middle Tennessee Blue Raiders",
    "abbrev": "MTSU",
    "conference": "Conference USA",
-   "vsin_starter": "Not addressed in guide.",
+   "vsin_starter": "Roman Gagliano",
    "vsin_pages": "198-199",
    "verified_starter": "Roman Gagliano",
    "confidence": "M",
    "verification_date": "2026-08-03",
    "verification_status": "VERIFIED 7D.2",
-   "relationship": "NO VSIN POSITION",
-   "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 25,
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 45,
    "priority_drivers": [
     "medium-confidence verification (M)",
-    "no VSiN preseason position"
+    "VSiN handicap depends heavily on QB play"
    ],
-   "qb_dependent": false,
-   "has_note": false
+   "qb_dependent": true,
+   "has_note": true
   },
   {
    "team": "Minnesota Golden Gophers",
@@ -1408,14 +1408,15 @@
    "verification_status": "VERIFIED 7D.4",
    "relationship": "NO VSIN POSITION",
    "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 70,
+   "priority": 95,
    "priority_drivers": [
     "low-confidence verification (L)",
     "unresolved competition in verified state",
-    "no VSiN preseason position"
+    "no VSiN preseason position",
+    "VSiN handicap depends heavily on QB play"
    ],
-   "qb_dependent": false,
-   "has_note": false
+   "qb_dependent": true,
+   "has_note": true
   },
   {
    "team": "Missouri Tigers",
@@ -1541,22 +1542,22 @@
    "team": "New Mexico State Aggies",
    "abbrev": "NMSU",
    "conference": "Conference USA",
-   "vsin_starter": "Not addressed in guide.",
+   "vsin_starter": "Trey Hedden",
    "vsin_pages": "202-203",
    "verified_starter": "Open competition",
    "confidence": "L",
    "verification_date": "2026-08-03",
    "verification_status": "VERIFIED 7D.4",
-   "relationship": "NO VSIN POSITION",
-   "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 70,
+   "relationship": "PARTIALLY ALIGNED",
+   "reason": "Both sources describe an unsettled competition, but they do not name the same leading quarterback.",
+   "priority": 80,
    "priority_drivers": [
     "low-confidence verification (L)",
     "unresolved competition in verified state",
-    "no VSiN preseason position"
+    "partial VSiN/current-state disagreement"
    ],
    "qb_dependent": false,
-   "has_note": false
+   "has_note": true
   },
   {
    "team": "North Carolina Tar Heels",
@@ -1977,21 +1978,21 @@
    "team": "Sam Houston State Bearkats",
    "abbrev": "SHSU",
    "conference": "Conference USA",
-   "vsin_starter": "Not addressed in guide.",
+   "vsin_starter": "Landyn Locke",
    "vsin_pages": "204-205",
    "verified_starter": "Landyn Locke",
    "confidence": "M",
    "verification_date": "2026-08-03",
    "verification_status": "VERIFIED 7D.2",
-   "relationship": "NO VSIN POSITION",
-   "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 25,
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 45,
    "priority_drivers": [
     "medium-confidence verification (M)",
-    "no VSiN preseason position"
+    "VSiN handicap depends heavily on QB play"
    ],
-   "qb_dependent": false,
-   "has_note": false
+   "qb_dependent": true,
+   "has_note": true
   },
   {
    "team": "San Diego State Aztecs",
@@ -2727,22 +2728,22 @@
    "team": "Western Kentucky Hilltoppers",
    "abbrev": "WKU",
    "conference": "Conference USA",
-   "vsin_starter": "Not addressed in guide.",
+   "vsin_starter": "Rodney Tisdale",
    "vsin_pages": "206-207",
    "verified_starter": "Rodney Tisdale Jr.",
    "confidence": "M",
    "verification_date": "2026-08-03",
    "verification_status": "VERIFIED 7D.2",
-   "relationship": "NO VSIN POSITION",
-   "reason": "The guide names no expected starter clearly enough to test.",
-   "priority": 30,
+   "relationship": "ALIGNED",
+   "reason": "Verified state names the same quarterback the guide expected.",
+   "priority": 50,
    "priority_drivers": [
     "medium-confidence verification (M)",
-    "no VSiN preseason position",
+    "VSiN handicap depends heavily on QB play",
     "transfer context in verification note"
    ],
-   "qb_dependent": false,
-   "has_note": false
+   "qb_dependent": true,
+   "has_note": true
   },
   {
    "team": "Western Michigan Broncos",

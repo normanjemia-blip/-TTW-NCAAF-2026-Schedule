@@ -1,6 +1,6 @@
 # TTW Football Intelligence Library
 
-**Version 1.2 — Phases 1–3 complete**
+**Version 1.3 — Phases 1–4 complete**
 
 TTW's permanent football research encyclopedia, built from the 2026 VSiN College
 Football Betting Guide. The goal is that the 345-page guide never has to be
@@ -28,7 +28,7 @@ That file is the navigation system for everything else.
 | 2 | Conference Database | `01_Conference_Database` | ✅ **Complete** |
 | 3 | Team Database | `02_Team_Database` | ✅ **Complete** |
 | 3A | Team Database paraphrase pass | `02_Team_Database` | ✅ **Complete — 138/138** |
-| 4 | Quarterback Database | `04_Quarterback_Database` | ⏸ Awaiting approval |
+| 4 | Quarterback Database | `04_Quarterback_Database` | ✅ **Complete** |
 | 5 | Coaching Database | `03_Coaching_Database` | ⏸ Pending |
 | 6 | Power Ratings | `05_Power_Ratings` | ⏸ Pending |
 | 7 | Win Totals | `06_Win_Totals` | ⏸ Pending |
@@ -89,6 +89,29 @@ files:
 python3 _tools/snapshot_fields.py _source/data/fields_before.json --compare
 ```
 
+---
+
+## Phase 4 — Quarterback Intelligence Database
+
+Two layers that are never merged, one file per team in
+`04_Quarterback_Database/`:
+
+- **Layer 1 — VSiN preseason QB intelligence.** `GUIDE CONTENT`: 23 fields
+  per team from the 2026 guide, via Phases 1–3A.
+- **Layer 2 — Current verified QB state.** `POST-PUBLICATION UPDATE`: the
+  TTW Power Ratings QB verification project (Phases 7A–7D.5 / 8.x), read
+  verbatim from `_source/verified/` and never recomputed.
+
+Each team file then classifies the relationship between them as
+**ALIGNED**, **PARTIALLY ALIGNED**, **STALE**, **UNRESOLVED** or
+**NO VSIN POSITION**. The classification adjudicates nothing: it does not
+decide which layer is right, and it never changes an H/M/L code or a
+workbook value.
+
+```bash
+PYTHONPATH=_tools python3 _tools/validate_qb.py    # 12 checks
+```
+
 ## Standing rules
 
 1. **Three source classes, never mixed.**
@@ -118,7 +141,10 @@ TTW_Football_Intelligence_Library/
 ├── _source/
 │   ├── SOURCE_MANIFEST.md    provenance, integrity, extraction method
 │   ├── extracted/            full guide text, whole and per page
-│   └── data/                 machine-readable entity tables (JSON)
+│   ├── data/                 machine-readable entity tables (JSON)
+│   ├── paraphrase/           authored Phase 3A reference notes
+│   ├── qb/                   authored Phase 4A VSiN QB records
+│   └── verified/             READ-ONLY copy of the TTW QB verification project
 └── _tools/
     ├── extract_guide.py      PDF → JSON + text, with validation
     ├── build_index.py        JSON → the Master Index
@@ -129,7 +155,11 @@ TTW_Football_Intelligence_Library/
     ├── extract_stability.py  Stability Scores (pp. 41–44)
     ├── extract_mentions.py   cross-guide mention index
     ├── build_teams.py        JSON → the Team Database
-    └── validate_teams.py     Phase 3 completion checks
+    ├── validate_teams.py     Phase 3 completion checks
+    ├── qb_lib.py             Phase 4 canonical identity map + loaders
+    ├── build_qb.py           two-layer Quarterback Database renderer
+    ├── build_qb_reports.py   discrepancy index + monitoring queue
+    └── validate_qb.py        Phase 4 layer-separation and reproduction checks
 ```
 
 ## Rebuilding
