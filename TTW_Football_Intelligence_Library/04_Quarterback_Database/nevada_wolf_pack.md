@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | Nevada Wolf Pack |
 | 2 | Conference | Mountain West |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Luke Duncan |
+| 4 | Returning starter / new starter / transfer | Transfer — from UCLA; expected to win an open three-way competition rather than confirmed. |
+| 5 | Previous school | UCLA. |
+| 6 | Career experience | 6-foot-6 and started on the road at Ohio State. |
+| 7 | Previous starts | Not addressed in guide as a count. |
+| 8 | Passing production | Not addressed in guide for Duncan. Incumbent Carter Jones returns with 1,019 yards, six touchdowns and eight interceptions. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 10 | Efficiency statistics | Team-level: 114th in passing success rate, 133rd in passing EPA per play and in the 34th percentile in explosive pass rate. |
+| 11 | Turnover information | Not addressed in guide for Duncan; Carter Jones threw eight interceptions against six touchdowns. |
+| 12 | Competition status | A genuine three-way race. The guide records that Choate insists the race is tight going into camp, while expecting Duncan to win eventually. |
+| 13 | Backup / challenger information | Incumbent Carter Jones and three-year Reno stalwart AJ Bianco. |
+| 14 | Author's confidence in the QB situation | Moderate. The guide judges Duncan showed enough in his Hawaii starts to expect he wins the job and performs admirably, while concluding that whoever wins, Nevada needs far more from the position. |
+| 15 | Author's positive case | Duncan is 6-foot-6 with a start at Ohio State behind him, and the guide expects a steadier hand at the position to unlock enough offensive talent to be much more effective. |
+| 16 | Author's concerns | One of the country's least efficient passing attacks last season, and a race the head coach says is still tight. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Improving. Leading rusher Caleb Ramseur is gone but Herschel Turner returns after 395 yards at 5.1 per carry, behind a line that looks strong on paper with three starters back including preseason all-conference left tackle Jack Foster and right tackle Zach Cochnauer. Choate added Jacob Norcross and Ethan Newman Jr from Memphis at center and right guard. |
+| 19 | Relevant portal context | Duncan from UCLA; Norcross and Newman from Memphis. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins. Quarterback is an obvious question, but the guide judges Duncan showed enough to expect he wins the job and performs admirably. The schedule is hard — road games at North Dakota State and UNLV plus home games with Air Force, New Mexico and Hawaii — but the guide concludes the defense's potential under Choate plus offensive upside could produce an upstart season. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide's Over is built on a steadier hand at quarterback unlocking the offense. |
 | 22 | Relevant page references | pp. 248–249 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide expects Duncan to win while recording that the head coach insists the race is tight. Both are stated; neither is resolved. |
 
 **Returning-QB marker on the team spread (p. 248):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 2.
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/nevada_wolf_pack.md](../02_Team_Database/nevada_
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Both sources describe an unsettled competition, but they do not name the same leading quarterback.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Luke Duncan |
 | Current verified state | Open competition (fall camp) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 70 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 105 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

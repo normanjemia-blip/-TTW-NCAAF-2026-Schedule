@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | UNLV Rebels |
 | 2 | Conference | Mountain West |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Jackson Arnold |
+| 4 | Returning starter / new starter / transfer | Transfer — from Auburn; a one-time five-star, and the presumed starter. |
+| 5 | Previous school | Auburn. |
+| 6 | Career experience | A one-time five-star recruit. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
 | 8 | Passing production | Not addressed in guide. |
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 12 | Competition status | Not described as live, but the guide asks directly what happens if Arnold struggles and loses the job while Alex Orji is not the same athlete. |
+| 13 | Backup / challenger information | Former Michigan quarterback Alex Orji, coming off a catastrophic leg injury and not fully healthy in spring, whom the guide also describes as somewhat limited as a passer. |
+| 14 | Author's confidence in the QB situation | Sceptical about sustainability rather than about Arnold specifically. The guide's logic is that UNLV cannot keep sustaining the quarterback success of the last three seasons, with this depth chart looking more flawed. |
+| 15 | Author's positive case | The precedent is drawn directly: Mullen took in Anthony Colandrea last season, made him Mountain West Offensive Player of the Year and sent him to Nebraska for a payday. UNLV has not returned a starting quarterback since Doug Brumfield in 2023, with five different starters over that span, yet still accumulated 30 wins and three title game appearances. |
+| 16 | Author's concerns | A flawed depth chart, with Orji coming off a horrendous injury and limited as a passer, and the guide's stated doubt that the run of quarterback success can continue. |
+| 17 | Scheme / coordinator fit | Dan Mullen's record of developing incoming portal quarterbacks is the stated mechanism. |
+| 18 | Supporting-cast considerations | Thin outside the backfield. Running back Jai'den Thomas is the known quantity, having run for 1,036 yards at 7.2 per carry with 13 total touchdowns, but beyond the first-team all-conference back there is little returning production, with all three top receivers gone; Taeshaun Lyons is the leading returnee at 13 receptions for 222 yards. Both running back depth and the receiver room consist of transfers expected to carry large loads. |
+| 19 | Relevant portal context | Another roster built on transfers; Arnold from Auburn and Orji from Michigan are the quarterback additions. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 8.5 wins. Its logic is that UNLV cannot keep sustaining the quarterback success of the last three seasons, and it adds that it finds the staff's explanation for last season's defensive effort hard to buy. Its conclusion is that the schedule plus roster flaws make eight wins extremely likely — not that the team will be bad, but that nine-plus is a real challenge. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide states the co-favorite's season rests on Mullen working his magic at the position again. |
 | 22 | Relevant page references | pp. 258–259 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/unlv_rebels.md](../02_Team_Database/unlv_rebels.
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### UNRESOLVED
 
-The guide names no expected starter clearly enough to test.
+Verified state records an open competition that does not confirm or refute the guide's expectation.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Jackson Arnold |
 | Current verified state | Open (Jackson Arnold / Alex Orji) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 75 |
+| Does the VSiN assumption still appear current? | Cannot be determined from existing evidence. |
+| Monitoring priority score | 115 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position; transfer context in verification note.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; relationship unresolved; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

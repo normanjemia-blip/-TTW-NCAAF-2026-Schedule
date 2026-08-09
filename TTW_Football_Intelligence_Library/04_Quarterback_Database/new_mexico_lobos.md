@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | New Mexico Lobos |
 | 2 | Conference | Mountain West |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Jack Layne |
+| 4 | Returning starter / new starter / transfer | Returning starter — but the guide argues he may not be a lock. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Led New Mexico to nine wins and a bowl. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 10 | Efficiency statistics | 7.6 yards per attempt — which the guide characterizes as good rather than great. |
+| 11 | Turnover information | 10 interceptions against 13 touchdown passes. |
+| 12 | Competition status | Live and injury-shadowed. Layne missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and Oregon transfer Luke Moga reportedly made the most of his absence and dazzled the media in Albuquerque. |
+| 13 | Backup / challenger information | Oregon transfer Luke Moga, a former three-star and strong athlete with enough upside for Oregon to have recruited him. |
+| 14 | Author's confidence in the QB situation | Guarded. The guide's conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. |
+| 15 | Author's positive case | He led New Mexico to nine wins and a bowl, and returns among 12 starters alongside reigning Defensive Player of the Year Jaxton Eck. |
+| 16 | Author's concerns | Elbow surgery that cost him spring camp, and production the guide calls good rather than great. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Twelve starters return overall; the guide does not itemise the offensive skill positions. |
+| 19 | Relevant portal context | Luke Moga arrives from Oregon. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 8.5 wins, with the guide openly noting the juice on Over 7.5 and Under 8.5 makes this a tough play. Its core evidence is the favorite-role record: New Mexico closed as an underdog in seven games, but in the six where it was favored it went 3-3 straight up and just 1-5 against the spread — and this season it will be favored in most contests. Its conclusion is that this is a good team whose damage last season came as an underdog and which now looks overvalued as a favorite. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Under is argued from role change and favorite-role record rather than from quarterback risk, though it flags the position as not actually settled. |
 | 22 | Relevant page references | pp. 250–251 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/new_mexico_lobos.md](../02_Team_Database/new_mex
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Jack Layne |
 | Current verified state | Jack Layne |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

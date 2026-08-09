@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Fresno State Bulldogs |
 | 2 | Conference | Pac-12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Khristian Martin |
+| 4 | Returning starter / new starter / transfer | Transfer — from Maryland; expected to beat out two others rather than confirmed. |
+| 5 | Previous school | Maryland. |
+| 6 | Career experience | A sophomore; the guide does not give a start count. |
 | 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 8 | Passing production | Not addressed in guide for Martin. Predecessor EJ Warner finished with 2,030 yards, 13 touchdowns and 11 interceptions. |
+| 9 | Rushing contribution | Not addressed in guide as production; Martin is described as a 6-foot-4, 230-pound dual-threat sophomore. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 11 | Turnover information | Not addressed in guide for Martin. |
+| 12 | Competition status | Martin is expected to beat out junior Jayden Mandal and freshman Deagan Rose. |
+| 13 | Backup / challenger information | Junior Jayden Mandal and freshman Deagan Rose. |
+| 14 | Author's confidence in the QB situation | Positive on the upgrade, honest about the unknown. The guide says the position appears upgraded and treats that as reason for opponents to beware, while being explicit that Martin's impact is a mystery. |
+| 15 | Author's positive case | Physical skills for major impact at 6-foot-4 and 230 pounds as a dual threat, plus a solid support system of experienced backs, receivers and linemen. The guide diagnoses the predecessor precisely: EJ Warner was an accurate passer without the arm to stretch the field. |
+| 16 | Author's concerns | No FBS body of work to judge — the guide calls his impact a mystery. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Excellent. Four of the top five pass catchers return including leading receiver Josiah Freeman with 52 catches and six touchdowns. The guide explains Entz's method — he builds winning teams by building a physical offensive line first — and names tackles Brayden Walton and Rolan Fullwood and guard Edward Fonua, three of the league's best, anchoring arguably the biggest and best line in the Pac-12, clearing the way for Bryson Donelson and Rayshon Luke, who combined for 1,302 rushing yards and 11 touchdowns. |
+| 19 | Relevant portal context | Martin arrives from Maryland. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 6.5 wins. Its conditional is precise: the quarterback is the key, because if Martin matures quickly Fresno can win almost every game — while the team is solid enough everywhere to win seven or eight even with mediocre quarterback play. Market detail: DraftKings prices 6.5 on 11 games with Over at even money, while Circa offers the better bet at 6.5 Over -120 including the 12th game. The guide also states its handicapping framework explicitly — head coach and quarterback are the two most important positions of emphasis when projecting teams. |
+| 21 | VSiN team outlook dependency on QB performance | Very high on the ceiling, low on the floor. The guide states the quarterback is the key to winning almost every game, while explicitly saying seven or eight wins is available even with mediocre quarterback play. |
 | 22 | Relevant page references | pp. 270–271 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/fresno_state_bulldogs.md](../02_Team_Database/fr
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### PARTIALLY ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Both sources describe an unsettled competition, but they do not name the same leading quarterback.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Khristian Martin |
 | Current verified state | Open (three-way battle into August) |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 75 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 110 |
 
-Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position; transfer context in verification note.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

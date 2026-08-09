@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | North Dakota State Bison |
 | 2 | Conference | Mountain West |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Nathan Hayes |
+| 4 | Returning starter / new starter / transfer | New starter — promoted from within after Cole Payton was drafted. |
+| 5 | Previous school | Not applicable — in the programme since 2022. |
+| 6 | Career experience | Appeared in 10 games and has been in the system since 2022, so the guide says there should be no learning curve. |
+| 7 | Previous starts | Not addressed in guide as a start count; the guide records 10 appearances. |
+| 8 | Passing production | 57% completions for 381 yards with four touchdowns and one interception. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | 57% completions. |
+| 11 | Turnover information | One interception against four touchdown passes. |
+| 12 | Competition status | None described — Hayes is presented as the successor. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Neutral, framed through programme history rather than the player. The guide notes Cole Payton going to the Eagles at pick 178 marked the fifth Bison starting quarterback drafted in 11 years, and that Hayes now carries that pressure. |
+| 15 | Author's positive case | Four years in the system with no learning curve, and a programme record of developing draftable quarterbacks. |
+| 16 | Author's concerns | The supporting cast: he takes over an offense missing its top two rushers and top two receivers. |
+| 17 | Scheme / coordinator fit | Established — he has been in the system since 2022. |
+| 18 | Supporting-cast considerations | Depleted. The offense is missing its top two rushers and top two receivers, and North Dakota State lost two First-Team All-MVFC offensive linemen. |
+| 19 | Relevant portal context | North Dakota State took a different approach from most, signing 29 high school players and only nine transfers, of whom three played at Power Four programmes last season — one being punter Caleb McGrath. Just 10 starters return and zero portal starters were added. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 8.5 wins. The guide understands why NDSU is a short price to win the conference given its record, while judging expectations somewhat high: portal losses were immense with little brought back, and these are teams built with former Power Four players carrying real talent. Road games come at Air Force, UNLV, Hawaii and New Mexico — trips to every contender — and it answers its own question about winning most of those with a blunt doubtful. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The guide's Under is argued from roster construction and schedule rather than from the quarterback, though it raises the position as a programme tradition now under test. |
 | 22 | Relevant page references | pp. 252–253 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/north_dakota_state_bison.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Nathan Hayes |
 | Current verified state | Nathan Hayes |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 20 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M).
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

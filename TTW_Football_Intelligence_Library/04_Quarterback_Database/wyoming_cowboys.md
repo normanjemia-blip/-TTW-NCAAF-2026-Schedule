@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Wyoming Cowboys |
 | 2 | Conference | Mountain West |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Tyler Hughes |
+| 4 | Returning starter / new starter / transfer | Transfer — a former William & Mary recruit of coordinator Christian Taylor's, following him to Wyoming. |
+| 5 | Previous school | Not stated directly; the guide identifies him as one of Sawvel's former William & Mary recruits who already knows the system. |
+| 6 | Career experience | Not addressed in guide as a start count. |
 | 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 8 | Passing production | Totalled 3,000 passing and rushing yards with 31 touchdowns; the guide does not split passing out. |
+| 9 | Rushing contribution | Included in the 3,000 combined yards and 31 touchdowns; described as a dual threat. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Hughes is presented as the addition that addresses the position. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive and conditional. The guide says the needle clearly points up with Hughes adding a dynamic Wyoming has missed, while framing its number as a probability question. |
+| 15 | Author's positive case | A dual threat with 3,000 combined yards and 31 touchdowns who already knows the system, paired with a coordinator whose offenses generated explosive runs, used backs out of the backfield and led the country in passing efficiency. |
+| 16 | Author's concerns | The baseline is dire — despite nine returning starters last season Wyoming averaged 16 points and 315 yards per game, ranking 128th nationally in EPA per play and 124th in success rate. |
+| 17 | Scheme / coordinator fit | Maximal — Hughes was recruited by Christian Taylor at William & Mary and already knows the system. |
+| 18 | Supporting-cast considerations | Mixed. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. |
+| 19 | Relevant portal context | Wyoming lost talent to the portal, but the guide cites Phil Steele that 77.2% of the roster is homegrown, meaning many players have been in the programme. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins, with the upside case stated first: if Hughes and coordinator Christian Taylor are the match they look on paper, the offense could stun the conference and let Sawvel focus on a defense with a strong foundation. Its conclusion is framed as a probability question: this asks Wyoming to come out on the right side of 50-50 contests more often than not. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide's entire upside case is the quarterback-coordinator pairing. |
 | 22 | Relevant page references | pp. 262–263 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/wyoming_cowboys.md](../02_Team_Database/wyoming_
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Tyler Hughes |
 | Current verified state | Tyler Hughes |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 30 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 50 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

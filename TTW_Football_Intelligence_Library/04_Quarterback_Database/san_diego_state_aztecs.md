@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | San Diego State Aztecs |
 | 2 | Conference | Pac-12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Jayden Denegal |
+| 4 | Returning starter / new starter / transfer | Returning starter — previously a Michigan transfer. |
+| 5 | Previous school | Michigan. |
+| 6 | Career experience | A touted recruit who transferred from Michigan; the guide does not give a start count. |
 | 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 8 | Passing production | 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | 58.8% completions — which the guide calls modest numbers. |
+| 11 | Turnover information | Eight interceptions against nine touchdown passes. |
+| 12 | Competition status | None described — Denegal is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Guarded, and stated in both directions. The guide says Denegal will never remind San Diego fans of Dan Fouts but has the potential to be much better than his modest 2025 line, while warning that Lewis' plans for a high-flying passing attack might not materialise. |
+| 15 | Author's positive case | A shoulder injury that troubled him is reported as apparently repaired, the talent case rests on his being a touted Michigan recruit, and his top two receivers return with a Texas A&M transfer added. |
+| 16 | Author's concerns | Modest production, and the guide's framing that the quarterback is surrounded by questions. |
+| 17 | Scheme / coordinator fit | Lewis is described as an innovative offensive coach whose remaining problem is finding the right quarterback to run his system. |
+| 18 | Supporting-cast considerations | Strong at the skill positions, weak up front. Lucky Sutton ran for 1,297 yards to lead the Mountain West, and the guide's analytical point is dependency: San Diego State needs an effective ground attack to support a quarterback who needs the help. Top two receivers Jordan Napier and Donovan Brown return and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. |
+| 19 | Relevant portal context | Jacob Bostick arrives from Texas A&M. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding. A market-structure distinction decides which number to take: DraftKings prices 6.5 Under +125 on 11 games, while Circa Sports posts 7.5 Under -140 including the 12th flex game — the guide calls the DraftKings number worth a play and the Circa number the better play. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide says the ceiling is set by the defense and by quarterback play, and names the quarterback questions as one of the two reasons for the Under. |
 | 22 | Relevant page references | pp. 274–275 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/san_diego_state_aztecs.md](../02_Team_Database/s
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Jayden Denegal |
 | Current verified state | Jayden Denegal |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

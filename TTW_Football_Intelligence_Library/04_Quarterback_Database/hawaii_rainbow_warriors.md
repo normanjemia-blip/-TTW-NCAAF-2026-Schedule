@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Hawaii Rainbow Warriors |
 | 2 | Conference | Mountain West |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Micah Alejado |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established starter; named preseason Offensive Player of the Year. |
+| 7 | Previous starts | Not addressed in guide as a start count; the guide notes an ankle injury eventually cost him starts against Sam Houston State and Portland State. |
+| 8 | Passing production | 66% completions for 3,106 yards with 24 touchdowns to nine interceptions. |
+| 9 | Rushing contribution | Not a dual threat in high school, but he showed he could escape pressure and use his legs; he rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. |
+| 10 | Efficiency statistics | 66% completions. |
+| 11 | Turnover information | Nine interceptions against 24 touchdown passes. |
+| 12 | Competition status | None described — Alejado is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | High. The guide says he has given no reason to doubt his growth and names him preseason Offensive Player of the Year. |
+| 15 | Author's positive case | An incredible 2025 produced despite a nagging ankle injury suffered in the opener against Stanford, with a plethora of weapons available and Pofele Ashlock on the preseason all-conference team. |
+| 16 | Author's concerns | The ankle. The guide poses the real question as whether a healthy ankle lets him add a running dimension. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Strong — a plethora of weapons, headlined by preseason all-conference Pofele Ashlock. |
 | 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins, hinging on Alejado's growth. The guide goes further than the win total, calling Hawaii a solid bet to be Mountain West champion, and highlights the structural advantage that Hawaii hosts all three teams ahead of it in the market — UNLV, North Dakota State and New Mexico. It reports Hawaii as the fourth choice at DraftKings at +450. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide states the Over hinges on Alejado's growth. |
 | 22 | Relevant page references | pp. 246–247 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/hawaii_rainbow_warriors.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Micah Alejado |
 | Current verified state | Micah Alejado |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

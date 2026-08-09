@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Air Force Falcons |
 | 2 | Conference | Mountain West |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Liam Szarka |
+| 4 | Returning starter / new starter / transfer | Returning starter — the first time in four years Calhoun has one. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established starter; the guide rates him the best quarterback Air Force has had in years. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Not addressed in guide individually. Team-level: Air Force averaged 29.8 points and 407 yards per game. |
+| 9 | Rushing contribution | Led the team in rushing, with Owen Allen second behind him. |
+| 10 | Efficiency statistics | Team-level: 11th nationally in EPA per play and 15th in both rushing EPA per play and rushing success rate. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Szarka is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | High. The guide rates him the best quarterback Air Force has had in years and says Calhoun now has what he needs. |
+| 15 | Author's positive case | An experienced quarterback returning to one of the country's most efficient offenses, with a strong offensive line, and no expectations attached — attention is on UNLV, New Mexico and North Dakota State instead. |
+| 16 | Author's concerns | Not addressed as a quarterback concern; the guide's stated hinge is the defense. |
+| 17 | Scheme / coordinator fit | Established — the option offense he already runs, under Troy Calhoun. |
+| 18 | Supporting-cast considerations | Owen Allen returns as last season's second-leading rusher. Only four starters return overall and three offensive line starters departed, though the guide notes the unit's career starts match last season's. |
 | 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins, and the guide names the hinge precisely — the defense. Creeping back toward merely average would make Air Force a true Mountain West threat. Schedule shape favors them: North Dakota State and UNLV travel to Colorado, Hawaii is avoided entirely, and it sees a possible surprise appearance in the Mountain West Championship, something that has not happened since 2015. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The quarterback is treated as a settled strength; the guide's stated hinge is defensive improvement. |
 | 22 | Relevant page references | pp. 244–245 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,16 @@ Team file: [../02_Team_Database/air_force_falcons.md](../02_Team_Database/air_fo
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Liam Szarka |
 | Current verified state | Liam Szarka |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
-
-Priority drivers: no VSiN preseason position.
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 0 |
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

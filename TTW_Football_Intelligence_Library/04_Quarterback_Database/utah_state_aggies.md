@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Utah State Aggies |
 | 2 | Conference | Pac-12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | McCae Hillstead |
+| 4 | Returning starter / new starter / transfer | New starter — won the job in spring; a BYU backup a year ago who had previously started for Utah State. |
+| 5 | Previous school | BYU; and Utah State before that. |
+| 6 | Career experience | A BYU backup last year who started four games for Utah State in 2023. |
+| 7 | Previous starts | Four, for Utah State in 2023. |
+| 8 | Passing production | Not addressed in guide. Predecessor Bryson Barnes passed for 2,803 yards and 18 touchdowns. |
+| 9 | Rushing contribution | Not addressed in guide as production; the guide describes him as a running threat. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | Resolved — Hillstead won the starting job in spring. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Explicitly uncertain, and used as the reason for a hedge. The guide states Hillstead has not played enough for anyone to know whether he can handle the job at a high level. |
+| 15 | Author's positive case | He is not new to the programme, having started four games in 2023, is a running threat, and returns to a solid veteran interior line. |
+| 16 | Author's concerns | Insufficient evidence, replacing a big-time playmaker — Barnes led the Aggies in rushing with 740 yards and 10 touchdowns while passing for 2,803 and 18. |
+| 17 | Scheme / coordinator fit | Coordinator Robert Anae is known for aerial attacks, but the guide expects more emphasis on the ground game with Hillstead. |
+| 18 | Supporting-cast considerations | Adequate. Senior Javen Jacobs returns as the featured back behind Hillstead, and the interior line is manned by veterans and appears solid. |
+| 19 | Relevant portal context | Hillstead arrives from BYU. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins, explicitly qualified as “a lean and not a bet”. The guide judges the Circa Sports 4.5 Over -160 to be priced right, with the Aggies appearing headed for 5-7 or 4-8, and says the five-win prediction is simply giving Mendenhall the benefit of the doubt. It identifies the pivot point precisely — back-to-back home games against Colorado State and Fresno State. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide names quarterback uncertainty as the explicit reason for its hedge. |
 | 22 | Relevant page references | pp. 278–279 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/utah_state_aggies.md](../02_Team_Database/utah_s
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | McCae Hillstead |
 | Current verified state | McCae Hillstead |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Boise State Broncos |
 | 2 | Conference | Pac-12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Maddux Madsen |
+| 4 | Returning starter / new starter / transfer | Returning starter — a senior. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | 20-6 as a starter. |
+| 7 | Previous starts | Not addressed in guide as a count; the guide records a 20-6 record as a starter. |
+| 8 | Passing production | As a sophomore, 62.4% for 3,018 yards with 23 touchdowns and six interceptions; as a junior, 58.3% for 2,334 yards with 18 touchdowns and nine interceptions. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | 62.4% then 58.3% completions. |
+| 11 | Turnover information | Six interceptions as a sophomore, nine as a junior — including four in a 28-7 loss at Notre Dame. |
+| 12 | Competition status | None described — Madsen is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive with the downside named. The guide judges him capable of more, ties Boise's success closely to his play, and suggests he could be the conference's top quarterback. |
+| 15 | Author's positive case | A 20-6 record as a starter, three touchdown passes when healthier to beat UNLV 38-21 in the conference title game, and a background the guide says saw him labelled a game manager only because Ashton Jeanty carried the offense. |
+| 16 | Author's concerns | Injuries and poor stretches last season, with the year-over-year decline quantified in completion rate, yardage and interceptions. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Strong. Dylan Riley finished with 1,125 yards and 10 touchdowns, backed by Sire Gaines and his 811 yards, a pairing the guide expects to ease Madsen's job. Boise returns two of the league's best linemen in senior guard Roger Carreon and senior tackle Daylon Metoyer and adds Division II transfer Tyler Ethridge; left tackle Kage Casey left as a fourth-round pick. |
+| 19 | Relevant portal context | Tyler Ethridge arrives from Colorado State-Pueblo. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins. Apart from the opener at Oregon the guide judges every game winnable, and expects eight wins if Madsen stays healthy — calling 7.5 a tick low and -135 fair. An important market mechanic is flagged: DraftKings prices this total on 11 games, excluding the Flex Game, while Circa Sports includes the 12th flex game and offers 7.5 Over -180. |
+| 21 | VSiN team outlook dependency on QB performance | Very high, and specifically on availability. The guide expects eight wins conditional on Madsen staying healthy and ties Boise's success closely to his play. |
 | 22 | Relevant page references | pp. 266–267 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/boise_state_broncos.md](../02_Team_Database/bois
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Maddux Madsen |
 | Current verified state | Maddux Madsen |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 
