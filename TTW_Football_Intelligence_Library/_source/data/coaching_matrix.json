@@ -173,17 +173,17 @@
   "stability_score": 0,
   "record_2025": "12-2",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "oc": "Cam Aiken, whom the guide calls a rising star.",
+  "dc": "Robert Bala, who has worked under Napier, Jedd Fisch — with coordinator Stephen Belichick — and Nick Saban over the past three years.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "326-327",
   "stability_page": 43,
   "carousel_page": 37,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Louisiana Ragin’ Cajuns",
@@ -204,9 +204,9 @@
   "stability_score": 16,
   "record_2025": "6-7",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Tim Leger.",
+  "dc": "Jim Salgado, entering his second year.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -214,7 +214,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Louisiana Tech Bulldogs",
@@ -236,8 +236,8 @@
   "record_2025": "8-5",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Luke Olsen, who was in his first year in the role last season.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -245,7 +245,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Marshall Thundering Herd",
@@ -267,8 +267,8 @@
   "record_2025": "5-7",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Brad Lambert, the former Charlotte head coach, back for a third stint at Marshall after coaching this defense in 2019-20 and starting with the programme in the early 1990s.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -276,7 +276,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Old Dominion Monarchs",
@@ -297,9 +297,9 @@
   "stability_score": 7,
   "record_2025": "10-3",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Kody Cook, promoted from wide receivers coach, who also takes the quarterbacks. Kevin Decker left for the same role at Memphis.",
+  "dc": "Blake Seiler.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -307,7 +307,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "South Alabama Jaguars",

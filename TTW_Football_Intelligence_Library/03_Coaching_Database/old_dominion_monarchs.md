@@ -15,26 +15,26 @@
 | 3 | Head coach | Ricky Rahne |
 | 4 | Head-coach tenure | 6th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 43) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Not addressed in guide. The guide describes Ricky Rahne as an offensive-minded coach whose programme improved by five wins to finish 10-3. |
+| 7 | Offensive coordinator | Kody Cook, promoted from wide receivers coach, who also takes the quarterbacks. Kevin Decker left for the same role at Memphis. |
+| 8 | Defensive coordinator | Blake Seiler. |
+| 9 | New / returning OC | New — the guide records Decker's departure and Cook's promotion, and the Stability Score table (p. 43) awards 0 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed as a named scheme. The guide expects a run-heavy team again. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide tracks Seiler's pass rush across three years — 19 sacks, then 26, then 39 — alongside a top-25 third-down defense, and records the unit cutting 9.5 points and 0.9 yards per play to hold opponents to 18.5 points and 4.8 yards per play. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Run-weighted and expected to remain so, with Devin Roche at 5.7 yards per carry and JUCO transfer Trey Hall named as the backfield. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide weighs continuity against upside — Quinn Henicle is the holdover who knows the system but was not very good at 42.5% completions, while Jaxon Potter was the higher-graded recruit — and keeps both the doubt and the urgency: neither looks poised to top Colton Joseph's numbers, and Rahne needs to get this right and fix it early in the season. |
+| 18 | Coordinator/head-coach continuity | Head coach and defensive coordinator return; the offensive coordinator and quarterback change. The Stability Score table (p. 43) prints 4, 0, 3 and 0, plus 0 for 7 returning starters, totalling 7. |
+| 19 | Staff turnover | Confined to the offensive side but with knock-on shifts: Kevin Decker left for Memphis, Kody Cook was promoted from wide receivers and also took the quarterbacks, with other shifts across the staff. The guide calls Cook — who played at Kansas State and coached at Tennessee — the logical promotion. |
+| 20 | Prior-school relationships | Memphis is where Decker went. Kansas State and Tennessee are Cook's background. On the roster the guide records Trey Hall as a JUCO transfer originally an Ole Miss commit. |
+| 21 | Portal/recruiting implications tied to staff | Addressed through the losses rather than the gains. The guide generalises this into a structural observation about the Group of Six era: whiplash seasons are very possible now because of the portal, with some teams completely wrecked and others staying intact enough to take advantage — and places ODU on the wrong side of that this year. |
+| 22 | VSiN author's assessment of coaching | A ten-win season the guide credits substantially to one coordinator, arriving before heavy losses. It first credits Rahne, an offensive-minded coach, with finally rounding the defense into form — up in yards per carry and points per game in each of the last three seasons — before arguing the real separator was Blake Seiler's defense. On this season it records very heavy losses headlined by the quarterback to Wisconsin and the offensive coordinator to Memphis, and its calibrated verdict on the defense is to buy them as better than 2024 but worse than 2025. |
+| 23 | Coaching strengths | A defensive coordinator with a three-year pass-rush progression from 19 to 39 sacks and a top-25 third-down defense, defensive-coordinator continuity, returning starters at each level plus two linebackers back from injury, and an internal promotion the guide calls logical. |
+| 24 | Coaching concerns | Only seven returning starters, the loss of a quarterback who rushed for more than 1,000 yards and threw for over 2,600, the loss of the offensive coordinator to Memphis, all three of the team's 11-plus-catch receivers gone with nobody else exceeding 200 yards, and two quarterback candidates the guide says are unlikely to match the departed starter. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit market recommendation tied to coaching. |
 | 26 | Stability Score information | **7** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 330–331; Stability Score p. 43 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
