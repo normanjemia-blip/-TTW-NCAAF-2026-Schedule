@@ -15,26 +15,26 @@
 | 3 | Head coach | Tyson Helton |
 | 4 | Head-coach tenure | 8th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 44) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Not addressed in guide. The guide characterises Tyson Helton by his floor — at least eight wins in six of seven seasons, nine games four times, and only one missed bowl, which it says can probably be blamed on COVID. |
+| 7 | Offensive coordinator | Bodie Reeder, who has run some pretty potent passing offenses, replacing Rick Bowie, who was one-and-done after arriving from Abilene Christian with quarterback Maverick McIvor. |
+| 8 | Defensive coordinator | Davis Merritt, on staff for three years. |
+| 9 | New / returning OC | New — the guide records Bowie's single season and Reeder's arrival, and the Stability Score table (p. 44) awards 0 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 44) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not named, but characterised by the coordinator's history: Reeder has run some pretty potent passing offenses and the guide judges him a better fit here than at his previous stop at Middle Tennessee. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide notes a rotation effect — only three players had 70-plus tackles because Western Kentucky rotated heavily to stay fresh — and records 19 sacks against 22.6 points allowed, the fewest since 2019. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. The guide's conditional is that if Rodney Tisdale can distribute the ball without turning it over and prove more of a running threat, the unit will be cooking with gas quickly. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide judges Tisdale contextually — just under 66% completions with a 9-to-7 ratio and 2.1 yards per carry is not great, but he was a true freshman, and although he must learn a new playbook he is the most dynamic option on the roster — and notes Florida State transfer Brock Glenn has a chance if he falters or is hurt. |
+| 18 | Coordinator/head-coach continuity | Head coach, defensive coordinator and quarterback return; the offensive coordinator changes. The Stability Score table (p. 44) prints 4, 0, 3 and 4, plus 0 for 7 returning starters, totalling 11. |
+| 19 | Staff turnover | Identified as the programme's one unstable position. The guide's premise is that virtually every programme is in constant motion and that some nonetheless look more stable than others — Western Kentucky being one — with the offensive coordinator position the variable that has not been constant. |
+| 20 | Prior-school relationships | Middle Tennessee for Bodie Reeder, and Abilene Christian for the departed Rick Bowie and Maverick McIvor. On the roster the guide records Ajay Allen from Tulsa, Zion Taylor from Georgia Tech, Jyzaiah Rockwell from the FCS ranks and an Alabama transfer on the offensive line. |
+| 21 | Portal/recruiting implications tied to staff | Used to rebuild the trenches and the skill positions. The guide singles out the offensive line as a genuine upgrade — a hodgepodge of transfers, but with a lot more experience and size than last season's group. |
+| 22 | VSiN author's assessment of coaching | Stability as the defining characteristic, with one variable isolated. The guide characterises the programme by its floor rather than its ceiling under Helton, identifies the offensive coordinator position as the thing that has not been constant, and rates Reeder a better fit here than at Middle Tennessee. Its conditional forecast is that if Reeder can get Western Kentucky back over 30 points per game, consistent defensive play would leave the Hilltoppers poised for their first conference title since 2016. On the defense its stated conclusion is pessimism, resting on the run defense needing fixing, the low sack totals, and complete turnover in the front seven. |
+| 23 | Coaching strengths | A head coach with at least eight wins in six of seven seasons and only one missed bowl, a coordinator hire the guide considers a better fit than at his last stop, a returning quarterback the guide calls the most dynamic option, defensive-coordinator continuity with a system ingrained over three years, backups already familiar with the scheme thanks to heavy rotation, and an offensive line upgraded through the portal. |
+| 24 | Coaching concerns | A third different offensive coordinator arrangement in as many seasons, only one returnee of consequence at the skill positions, only two returning defensive contributors, 19 sacks generated, and complete turnover in the front seven. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit market recommendation tied to coaching. Its coaching-linked conditional is that Reeder returning the offense to 30 points per game would put Western Kentucky in position for a first conference title since 2016. |
 | 26 | Stability Score information | **11** total (p. 44) — see the component table below |
 | 27 | Relevant page references | team pp. 206–207; Stability Score p. 44 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

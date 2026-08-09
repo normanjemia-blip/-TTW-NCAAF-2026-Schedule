@@ -15,26 +15,26 @@
 | 3 | Head coach | Derek Mason |
 | 4 | Head-coach tenure | 3rd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 43) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Not addressed in guide. The guide records Derek Mason succeeding longtime head coach Rick Stockstill and refers to his defensive background. |
+| 7 | Offensive coordinator | Anthony Scelfo, previously at Southeastern Louisiana, where he coached under his father since 2021 — this is his first time calling plays at FBS level. |
+| 8 | Defensive coordinator | Not addressed by name. Derek Mason's own defensive background is the guide's reference point. |
+| 9 | New / returning OC | New — the guide records Scelfo's arrival, and the Stability Score table (p. 43) awards 0 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Anthony Scelfo on offense, in his first FBS play-calling job. |
+| 12 | Offensive scheme / philosophy | Not named, but its intended direction is stated: the guide's reasoning is scheme plus conference context — Scelfo and a more robust running game with a more mobile quarterback should help, particularly in Conference USA, where teams that run the ball efficiently often fare better. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records 6.7 yards per play allowed in Mason's first year as shocking, then 1.2 yards per carry cut year over year by better players in the front seven, with the secondary continuing to struggle at a tie for 105th nationally in passing plays of 20-plus yards allowed. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Expected to shift toward the run, with the guide concluding that even if the quarterback disappoints, MTSU should run the ball a lot better. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a development record, but the guide raises a pointed structural question about deployment. Under Roman Gagliano the offense scored 26, 31 and 31 points with 541, 460 and 459 yards — figures it says were almost untouchable before Nicholas Vattiato's injury — and he threw for over 1,000 yards with a 7-to-0 ratio. It asks why he was not starting to begin with and answers structurally rather than personally: it does not claim to know the locker-room dynamics, but notes the redshirt freshman was surely earning less NIL money than the programme's all-time second-leading passer, and that some teams — especially at the Group of Six level — seem unwilling to move on from entrenched starters they have invested in. |
+| 18 | Coordinator/head-coach continuity | Head coach and defensive coordinator return; the offensive coordinator and quarterback change. The Stability Score table (p. 43) prints 4, 0, 3 and 0, plus 0 for 6 returning starters, totalling 7. |
+| 19 | Staff turnover | Confined to the offensive coordinator, following very minimal offensive improvement. |
+| 20 | Prior-school relationships | Southeastern Louisiana for Scelfo, and the connection reaches the roster: Antonio Martin averaged over five yards per carry there in Scelfo's first season as coordinator in 2024. The guide also records Terence Brown from Saginaw Valley State. |
+| 21 | Portal/recruiting implications tied to staff | Credited as a slow build. The guide extends Mason the benefit of the doubt that after a third portal class and third freshman class he now has players who better fit what he wants defensively, and describes the defense as mostly rebuilt through the portal across two cycles. |
+| 22 | VSiN author's assessment of coaching | A very important year three, with the sharpest criticism aimed at the coach's own specialism. The guide says back-to-back 3-9 seasons inspire little confidence in the programme's direction, and finds the failure most pointed on Mason's own side of the ball: despite his defensive background, MTSU allowed 34.3 points per game in year one and 30.9 in year two, though it credits an improvement of 0.8 yards per play. The thing to build on is late-season gains under Gagliano, who stayed despite opening eyes over the final three games. |
+| 23 | Coaching strengths | A returning quarterback whose three starts produced the offense's best figures of the season with a 7-to-0 ratio, a coordinator hire aligned with a run-first plan the guide says suits this conference, a much stronger running back room including a player who already knows the coordinator, defensive-coordinator continuity, a front seven that cut 1.2 yards per carry, and a third portal and freshman class now in place. |
+| 24 | Coaching concerns | Back-to-back 3-9 seasons, a defense conceding over 30 points per game under a defensive-minded head coach, a secondary tied for 105th in explosive passes allowed, a first-time FBS play-caller, only six returning starters, and the loss of the leading rusher and every 30-plus-catch receiver but one. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **7** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 198–199; Stability Score p. 43 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
