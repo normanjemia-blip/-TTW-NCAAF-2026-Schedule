@@ -390,17 +390,17 @@
   "stability_score": 3,
   "record_2025": "4-8",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
-  "qb_developer": false,
+  "oc": "Terry Heffernan, a first-time coordinator, in a role titled Andrew Luck Director of Offense.",
+  "dc": "Kris Richard, a longtime NFL coordinator and defensive backs coach, titled David Shaw Director of Defense.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
+  "qb_developer": true,
   "pages": "104-105",
   "stability_page": 44,
   "carousel_page": 30,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Syracuse Orange",
@@ -421,9 +421,9 @@
   "stability_score": 13,
   "record_2025": "3-9",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Jeff Nixon.",
+  "dc": "Vince Kehres, the former Mount Union head coach and Toledo coordinator.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -431,7 +431,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Virginia Cavaliers",
@@ -453,8 +453,8 @@
   "record_2025": "11-3",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "John Rudzinski.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -462,7 +462,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Virginia Tech Hokies",
@@ -484,16 +484,16 @@
   "record_2025": "3-9",
   "in_carousel": true,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Brent Pry, retained — the guide records Franklin keeping him as coordinator.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "110-111",
   "stability_page": 44,
   "carousel_page": 30,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Wake Forest Demon Deacons",
@@ -514,9 +514,9 @@
   "stability_score": 12,
   "record_2025": "9-4",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Co-coordinators Rob Ezell and Dan Enos.",
+  "dc": "Scottie Hazelton, whom the guide credits with an outstanding job.",
+  "play_caller": "Not addressed in guide by name. The guide records co-coordinators on offense.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -524,6 +524,6 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  }
 ]
