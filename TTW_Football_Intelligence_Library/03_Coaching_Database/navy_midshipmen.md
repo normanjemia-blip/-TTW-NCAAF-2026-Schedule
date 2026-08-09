@@ -16,25 +16,25 @@
 | 4 | Head-coach tenure | 5th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 43) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
-| 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
-| 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
+| 7 | Offensive coordinator | Drew Cronic, whose hiring the guide credits to Brian Newberry. |
+| 8 | Defensive coordinator | Eric Lewis, promoted to coordinator, with Newberry himself returning to his roots as the defensive play-caller and P.J. Volker demoted to safeties coach. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 43) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | New — the guide records the reshuffle, and the Stability Score table (p. 43) awards 0 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Changed on defense, and the guide treats the change as the story: sensing urgency, Newberry is returning to his roots as his own defensive play-caller, having demoted P.J. Volker to safeties coach and promoted Eric Lewis to coordinator. |
+| 12 | Offensive scheme / philosophy | Named. The guide describes Cronic's Wing-T modified triple option and says it gives opponents much to prepare for, recording the production shift precisely: 17.7 points per game in 2023, then 31.3 and 31.5 with 6.3 and 6.5 yards per play in two seasons under him. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records 5.9 yards per play and 25 points per game allowed as the most since 2021. |
+| 14 | Tempo tendencies | Not addressed directly, though the guide notes the offensive scheme limits possessions. |
+| 15 | Run/pass tendencies | Heavily run-weighted by scheme. The guide adds an important methodological caution: Navy's defensive numbers must be read in the context of an offensive scheme that limits possessions. |
+| 16 | Personnel tendencies | Addressed through the Wing-T modified triple option. |
+| 17 | QB-development history | Not addressed as a record. The guide identifies the specific gap it expects at the position: Blake Horvath's 58.8% completion rate trailed only Roger Staubach among Navy passers with at least 120 attempts, while Braxton Woodson is at 46.3% — though Woodson knows the scheme, having started games in each of the last two seasons, and averaged 9.4 yards per carry on 44 attempts. |
+| 18 | Coordinator/head-coach continuity | Head coach and offensive coordinator return; the defensive coordinator and quarterback change. The Stability Score table (p. 43) prints 4, 3, 0 and 0, plus 2 for 11 returning starters, totalling 9. |
+| 19 | Staff turnover | Internal rather than external, and initiated by the head coach: Volker demoted, Lewis promoted, and Newberry taking back the play-calling. |
 | 20 | Prior-school relationships | Not addressed in guide. |
 | 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 22 | VSiN author's assessment of coaching | Credit for the hire, with the attribution question left open. The guide credits Newberry for hiring Cronic, whose wrinkles gave Navy new life in the American, then poses the central question — whether the improvement was Cronic or a generational run of offensive leaders — with Horvath, Alex Tecza and all-time leading receiver Eli Heidenreich all gone. It grants the scheme creates productive players, then quantifies the hole: Navy is missing 93.5% of its passing yards, over 83% of its rushing yards and over 84% of its receiving yards. It calls the defensive question the million-dollar one. |
+| 23 | Coaching strengths | A distinctive offensive scheme the guide says gives opponents much to prepare for, with a documented jump from 17.7 to over 31 points per game; offensive-coordinator continuity; a head coach taking back defensive play-calling in an area the guide calls his roots; five of the top seven tacklers back; and a quarterback who already knows the system. |
+| 24 | Coaching concerns | The loss of 93.5% of passing yards, over 83% of rushing yards and over 84% of receiving yards; a quarterback whose completion rate is 46.3% against his predecessor's 58.8%; and defensive numbers at their worst since 2021 in a scheme context the guide says will only get harder as offensive production falls. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit coaching-driven market argument. |
 | 26 | Stability Score information | **9** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 60–61; Stability Score p. 43 |
 | 28 | Source conflicts / ambiguities | See the labelled block below. |

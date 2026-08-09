@@ -173,9 +173,9 @@
   "stability_score": 9,
   "record_2025": "11-2",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Drew Cronic, whose hiring the guide credits to Brian Newberry.",
+  "dc": "Eric Lewis, promoted to coordinator, with Newberry himself returning to his roots as the defensive play-caller and P.J. Volker demoted to safeties coach.",
+  "play_caller": "Changed on defense, and the guide treats the change as the story: sensing urgency, Newberry is returning to his roots as his own defensive play-caller, having demoted P.J. Volker to safeties coach and promoted Eric Lewis to coordinator.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -183,7 +183,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 1,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "North Texas Eagles",
@@ -204,17 +204,17 @@
   "stability_score": 0,
   "record_2025": "12-2",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
+  "oc": "Neal Brown himself — the guide records he will call his own plays.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "play_caller": "Neal Brown, explicitly — and the guide says this may work well or not at all.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "62-63",
   "stability_page": 43,
   "carousel_page": 29,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Rice Owls",
@@ -236,8 +236,8 @@
   "record_2025": "5-8",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Jon Kay, the previous regime's linebackers coach, promoted to coordinator.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -245,7 +245,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "South Florida Bulls",
@@ -266,17 +266,17 @@
   "stability_score": 0,
   "record_2025": "9-4",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "oc": "Tim Beck, coaching since the late 1980s, whose only head-coaching job was Coastal Carolina.",
+  "dc": "Josh Aldridge, in from conference rival East Carolina, in his second year calling plays.",
+  "play_caller": "Not addressed in guide by name for the offense. The Coaching Carousel flags that Aldridge is just in his second year calling plays.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "66-67",
   "stability_page": 44,
   "carousel_page": 29,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Temple Owls",
@@ -297,9 +297,9 @@
   "stability_score": 12,
   "record_2025": "5-7",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Tyler Walker, the former Montana State coordinator.",
+  "dc": "Brian Smith.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -307,7 +307,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Tulane Green Wave",

@@ -16,25 +16,25 @@
 | 4 | Head-coach tenure | 2nd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 44) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 7 | Offensive coordinator | Tyler Walker, the former Montana State coordinator. |
+| 8 | Defensive coordinator | Brian Smith. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 44) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 44) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed as a named scheme. The guide records that with K.C. Keeler and Tyler Walker the offense improved by more than a touchdown per game. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme, and the guide's key analytical point is that the defensive improvement was almost entirely turnover-driven, since most per-play and rate stats were not much better under Brian Smith — one of the nation's worst red zone defenses, below average on third down, and 30 plays of 30-plus yards allowed. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide characterises the departing starter's value precisely — Evan Simon made safe, reliable throws that did not generate much yardage, only 19 touchdown passes after six in the opener against UMass, but which protected the ball and gave an undermanned defense a better chance — and records virtually no experience behind him. |
+| 18 | Coordinator/head-coach continuity | Head coach and both coordinators return; the quarterback changes. The Stability Score table (p. 44) prints 4, 3, 3 and 0, plus 2 for 10 returning starters, totalling 12. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
+| 20 | Prior-school relationships | Montana State for Tyler Walker. On the roster the guide records Jaxon Smolik from Penn State and Ajani Sheppard from Rutgers by way of Washington State. |
+| 21 | Portal/recruiting implications tied to staff | Addressed indirectly — the guide reads Temple's late-season yardage collapse as a major depth problem the staff has possibly addressed. |
+| 22 | VSiN author's assessment of coaching | The best of three first-year peers in the present tense, but with the gains attributed to something unlikely to repeat. The guide judges Rice and Florida Atlantic made progress toward the future while Temple may have done best in the present, records the offense improving by more than a touchdown per game under Keeler and Walker, and notes that even a +11 turnover margin could not produce enough upsets to end the bowl drought. Its decisive argument is stated as such: Keeler could not reach six wins with a +11 turnover margin last season, and this group looks worse at the most important position. It supplies the context for the turnover swing — Temple was -10, -20 and -11 under Stan Drayton. |
+| 23 | Coaching strengths | Full staff continuity in year two, an offense that improved by more than a touchdown per game, a first positive turnover margin in some time, three of the top four tacklers returning, and a late-season depth problem the guide says may have been addressed. |
+| 24 | Coaching concerns | A quarterback room with virtually no experience after losing a 25-to-2 starter and his backup, 16 sacks generated while allowing over six yards per play, defensive gains the guide says were almost entirely turnover-driven, and a -624 yardage margin including -854 across the last four games. |
+| 25 | Betting implications explicitly tied to coaching | The guide's argument is explicitly about the head coach's ceiling under favourable conditions: Keeler could not reach six wins with a +11 turnover margin last season, and this group looks worse at the most important position. Projection is 5.33 wins. |
 | 26 | Stability Score information | **12** total (p. 44) — see the component table below |
 | 27 | Relevant page references | team pp. 68–69; Stability Score p. 44 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
