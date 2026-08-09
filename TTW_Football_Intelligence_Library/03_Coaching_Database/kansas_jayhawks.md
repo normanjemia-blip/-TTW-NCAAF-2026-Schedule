@@ -16,28 +16,28 @@
 | 4 | Head-coach tenure | 6th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 43) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 7 | Offensive coordinator | Andy Kotelnicki, a former Broyles Award nominee, returning after an up-and-down spell at Penn State. |
+| 8 | Defensive coordinator | DK McDonald. |
+| 9 | New / returning OC | The guide states this two ways — see the conflicts field. The team pages (pp. 132–133) treat Kotelnicki's return as news and say it means Kansas will run the most successful offense it has used in decades, while the Stability Score table (p. 43) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | The guide states this two ways — see the conflicts field. The team pages call DK McDonald the new coordinator, while the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Named. The guide describes Kotelnicki's pro-style system as using heavy pre-snap motion to create mismatches, and stresses that none of it works without an efficient, physical run game. |
+| 13 | Defensive scheme / philosophy | Not addressed in guide as a named scheme. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
-| 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 15 | Run/pass tendencies | Stated as dependent on the run: the guide says line play is critical because the pro-style motion system needs an efficient, physical run game, especially with quarterback uncertainty. |
+| 16 | Personnel tendencies | Addressed through the heavy pre-snap motion the scheme uses. |
+| 17 | QB-development history | Not addressed as a record. The guide says the quarterback situation looks ugly with Jalon Daniels gone and concludes Kotelnicki may not produce an elite offense immediately. |
+| 18 | Coordinator/head-coach continuity | Head coach returns and both coordinator columns print returning points, but the quarterback changes. The Stability Score table (p. 43) prints 4, 3, 3 and 0, plus 2 for 12 returning starters, totalling 12. The team pages describe both coordinator positions differently — see the conflicts field. |
+| 19 | Staff turnover | The team pages record two coordinator moves: Kotelnicki returning from Penn State, and DK McDonald taking over the defense. |
+| 20 | Prior-school relationships | Penn State, twice over — Kotelnicki went to Happy Valley when James Franklin took him there, a move the guide says ultimately worked out for no one, and has now come back. |
+| 21 | Portal/recruiting implications tied to staff | Addressed as defensive repair. The guide expects some improvement after portal work, and records impressive bodies added to the offensive line. |
+| 22 | VSiN author's assessment of coaching | A rise, a stall, and a warm seat. The guide records Lance Leipold looking set to become a Lawrence legend, taking Kansas from 2-10 to 6-7 to 9-4 in 2023 and helping secure serious financial investment from the university, then says back-to-back 5-7 seasons have left him with an uncomfortably warm seat. It calls Kotelnicki's return good news — meaning Kansas will run the most successful offense it has used in decades, having averaged 35.6 and 34.8 points per game in 2022 and 2023 — while stating clearly that the pieces are not in place right now. It closes by noting that if things go extremely poorly, Leipold's situation becomes interesting. |
+| 23 | Coaching strengths | A head coach with a documented three-year turnaround and institutional investment behind him, the return of a Broyles Award nominee whose Kansas offenses were among the most potent in the country, real potential for one of the better Big 12 offensive lines with a future pro at left tackle, and portal work the guide expects to improve the defense somewhat. |
+| 24 | Coaching concerns | Two straight 5-7 seasons, a quarterback room the guide calls ugly after losing one of the sport's best dual threats, a receiver room it says appears to lack game-changing talent, and a defense that allowed 26.8 points per game and could not crack the top 100 in Adjusted EPA per play allowed. |
+| 25 | Betting implications explicitly tied to coaching | Recommendation is Under 5.5 wins. Without Jalon Daniels' playmaking to mask deficiencies the guide expects a tough year, says this is not a team to trust in 50-50 games given the quarterback options and a mediocre defense, and notes that if things go extremely poorly Leipold's situation becomes interesting. |
 | 26 | Stability Score information | **12** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 132–133; Stability Score p. 43 |
-| 28 | Source conflicts / ambiguities | Not addressed in guide. |
+| 28 | Source conflicts / ambiguities | The guide states both coordinator positions two ways. The team pages (pp. 132–133) present Andy Kotelnicki's return from Penn State as a change and call DK McDonald the new defensive coordinator, while the Stability Score table (p. 43) awards 3 points for a returning offensive coordinator and 3 points for a returning defensive coordinator. All are reproduced as printed and none is corrected. |
 
 ## VSiN Stability Score — as printed
 

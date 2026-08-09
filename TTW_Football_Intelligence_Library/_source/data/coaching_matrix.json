@@ -205,7 +205,7 @@
   "record_2025": "10-3",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
+  "dc": "Austin Armstrong.",
   "play_caller": "Not addressed in guide.",
   "scheme_change": false,
   "staff_turnover_major": false,
@@ -214,7 +214,7 @@
   "stability_page": 42,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Iowa State Cyclones",
@@ -236,16 +236,16 @@
   "record_2025": "8-4",
   "in_carousel": true,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Jesse Bobbit, brought from Washington State.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "130-131",
   "stability_page": 42,
   "carousel_page": 31,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Kansas Jayhawks",
@@ -266,9 +266,9 @@
   "stability_score": 12,
   "record_2025": "5-7",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Andy Kotelnicki, a former Broyles Award nominee, returning after an up-and-down spell at Penn State.",
+  "dc": "DK McDonald.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -276,7 +276,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Kansas State Wildcats",
@@ -297,17 +297,17 @@
   "stability_score": 6,
   "record_2025": "6-6",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Sean Gleeson.",
+  "dc": "Jordan Peterson.",
+  "play_caller": "Not addressed in guide by name. The guide's related observation is that receivers must create space when Klein is not scheming them open.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "134-135",
   "stability_page": 43,
   "carousel_page": 31,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Oklahoma State Cowboys",
@@ -329,16 +329,16 @@
   "record_2025": "1-11",
   "in_carousel": true,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "dc": "Skyler Cassity, whom the Coaching Carousel calls an excellent DC.",
+  "play_caller": "Not addressed in guide by name.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "136-137",
   "stability_page": 43,
   "carousel_page": 31,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "TCU Horned Frogs",
