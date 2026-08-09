@@ -18,23 +18,23 @@
 | 6 | Previous head-coaching experience | Not addressed in guide. |
 | 7 | Offensive coordinator | Not addressed in guide. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 43) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide uses percentile detail to show a split unit: New Mexico was strong at limiting big plays in the 67th percentile for explosive play rate allowed, but sat in the 19th percentile in non-explosive EPA per play and the 36th in late-down success rate. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide argues Jack Layne may not be a lock — he missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow and was not dominant at 2,486 yards with 13 touchdowns to 10 interceptions — and records Oregon transfer Luke Moga reportedly making the most of his absence. |
+| 18 | Coordinator/head-coach continuity | Complete. The Stability Score table (p. 43) awards points for a returning head coach, offensive coordinator, defensive coordinator and quarterback — 4, 3, 3 and 4, plus 2 for 12 returning starters — totalling 16. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
+| 20 | Prior-school relationships | Not addressed in guide for the staff. On the roster the guide records Luke Moga from Oregon. |
+| 21 | Portal/recruiting implications tied to staff | Not addressed as a staff-driven effect. The guide records one of the country's most experienced rosters with 12 returning starters. |
+| 22 | VSiN author's assessment of coaching | A breakthrough acknowledged and a role-change problem identified. The guide records Jason Eck's Lobos taking the Mountain West by storm at 9-4 with six conference wins and being the conference favorite with one of the country's most experienced rosters. Its decisive reservation is situational: New Mexico closed as an underdog in seven games, but in the six where it was favored it went 3-3 straight up and just 1-5 against the spread — and this season the market will make it a favorite in most contests. Its closing thought is a general principle applied to this team: being the underdog makes a nice story, but meeting market expectations as the hunted is a different task. |
+| 23 | Coaching strengths | A Stability Score of 16 with everything returning, 12 returning starters on one of the country's most experienced rosters, the reigning conference Defensive Player of the Year at linebacker, and a defense strong at limiting explosive plays. |
+| 24 | Coaching concerns | A quarterback recovering from throwing-elbow surgery with a capable challenger behind him, a defensive line that lost considerable production, and a documented failure to perform as a favorite — 3-3 straight up and 1-5 against the spread in those spots. |
+| 25 | Betting implications explicitly tied to coaching | The guide's coaching-adjacent market argument is the favorite-role record: 3-3 straight up and 1-5 against the spread when favored, with the market set to make New Mexico a favorite in most contests. It also tells bettors to anticipate a dip from 36 sacks. |
 | 26 | Stability Score information | **16** total (p. 43) — see the component table below |
 | 27 | Relevant page references | team pp. 250–251; Stability Score p. 43 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

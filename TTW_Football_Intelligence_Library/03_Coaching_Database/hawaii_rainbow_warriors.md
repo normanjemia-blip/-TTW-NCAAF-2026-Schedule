@@ -17,24 +17,24 @@
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
 | 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 8 | Defensive coordinator | Dennis Thurman, back for a second year. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — Thurman enters year two, and the Stability Score table (p. 42) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide traces the trajectory instead: from Timmy Chang's 2022 arrival, when Hawaii had two returning starters and allowed 34.7 points and 6.6 yards per play, every season since has allowed fewer points and yards per game, improved yards per play, and raised sacks from 17 in 2022 to 30 last season. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
+| 17 | QB-development history | Addressed as a developmental question rather than a coaching record. The guide records Micah Alejado completing 66% for 3,106 yards with 24 touchdowns to nine interceptions through a nagging ankle injury, adds that the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs after rushing for 614 yards and six touchdowns over his final two seasons at Bishop Gorman, and expects passing improvement given his pedigree. |
+| 18 | Coordinator/head-coach continuity | Complete. The Stability Score table (p. 42) awards points for a returning head coach, offensive coordinator, defensive coordinator and quarterback — 4, 3, 3 and 4, plus 0 for 7 returning starters — totalling 14. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
 | 20 | Prior-school relationships | Not addressed in guide. |
 | 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 22 | VSiN author's assessment of coaching | Improvement as the stated theme, with a modest and explicit standard. The guide says improvement is the theme under Chang, who has bettered his record every season with statistical gains on both sides of the ball, and notes preseason all-conference selections at quarterback, receiver, linebacker and defensive back. Its defensive standard is deliberately modest: Hawaii does not need a shutdown unit, so maintaining or slightly improving on last season should make this a strength. It closes on the trend, suggesting the programme is on the brink of something big. |
+| 23 | Coaching strengths | A head coach who has improved his record every season, full staff and quarterback continuity, a preseason Offensive Player of the Year, four preseason all-conference selections, a second-year defensive coordinator with a four-year improvement trend behind him, and hosting all three teams ranked ahead of Hawaii in the market. |
+| 24 | Coaching concerns | Only seven returning starters with three back on defense, and a quarterback whose added running dimension depends on a healthy ankle. |
+| 25 | Betting implications explicitly tied to coaching | Recommendation is Over 7.5 wins, hinging on Alejado's growth — and the guide notes he has given no reason to doubt it, with a plethora of weapons available. It records the market having Hawaii on the fringe of contention as the fourth choice at DraftKings at +450. |
 | 26 | Stability Score information | **14** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 246–247; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
