@@ -15,26 +15,26 @@
 | 3 | Head coach | Clark Lea |
 | 4 | Head-coach tenure | 6th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 44) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Not addressed in guide. The guide records that Clark Lea returned to his alma mater. |
 | 7 | Offensive coordinator | Not addressed in guide. |
 | 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 44) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 44) awards 3 points for a returning defensive coordinator. |
 | 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed in guide as a named scheme. The guide calls the 2025 defense underrated at 3.7 yards per carry and 22.8 points allowed, 23rd in opponent EPA per rush and 49th in success rate on the ground, with the secondary the weakness at 129th in EPA per dropback and 111th in success rate. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated philosophy. The guide records a productive 2025 ground game — 176 yards per game at 5.6 per carry — and expects a stark drop-off once Diego Pavia's 862 rushing yards and a rebuilt line are accounted for. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide notes Lea says there will be a competition and that five-star freshman Jared Curtis appears the likely starter, and cautions that equally talented quarterbacks have struggled in less demanding circumstances than the SEC. |
+| 18 | Coordinator/head-coach continuity | Strong on the staff, broken at quarterback. The Stability Score table (p. 44) prints 4 for the head coach, 3 for the offensive coordinator, 3 for the defensive coordinator and 0 for the quarterback, plus 3 for 13 returning starters, totalling 13. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
+| 20 | Prior-school relationships | Vanderbilt itself — the guide notes Lea returned to his alma mater. On the roster it records former four-star Ricardo Jones arriving from Clemson. |
+| 21 | Portal/recruiting implications tied to staff | Lea added portal bodies in the secondary including Jones, but the guide says he expects considerable internal promotion. It records only one FBS transfer added to an offensive line that lost four starters. |
+| 22 | VSiN author's assessment of coaching | Credit for what has been built, and a stated expectation of decline. The guide says Lea achieved what he returned to his alma mater to do — 17 wins in two seasons and a first bowl win since 2013 — then frames the test as doing it without a superstar quarterback, with a true freshman starting, an offensive line to rebuild, and a schedule offering both opportunity and misfortune. It states plainly that decline, even for one season, is on the horizon. |
+| 23 | Coaching strengths | Full coordinator continuity, a head coach the guide credits with a genuine programme turnaround, an underrated run defense and seven returning defensive starters, mostly in the front seven. |
+| 24 | Coaching concerns | A true freshman quarterback behind a wholly rebuilt offensive line, and a secondary the guide says could again be among the country's worst. It puts the doubt as a question — beyond the front seven, which Vanderbilt unit can be trusted? |
+| 25 | Betting implications explicitly tied to coaching | Recommendation is Under 5.5 wins. The guide explicitly acknowledges this may be an overly pessimistic reading, then lists why it holds: a freshman quarterback behind a wholly rebuilt line, and a secondary that could again be among the country's worst. The coaching link is the staff continuity being asked to absorb both losses at once. |
 | 26 | Stability Score information | **13** total (p. 44) — see the component table below |
 | 27 | Relevant page references | team pp. 314–315; Stability Score p. 44 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |

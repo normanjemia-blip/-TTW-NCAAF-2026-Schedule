@@ -359,17 +359,17 @@
   "stability_score": 11,
   "record_2025": "4-8",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
+  "oc": "Kendal Briles, hired after Mike Shula was dismissed nine games into 2025.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
-  "qb_developer": false,
+  "play_caller": "New. The guide states Beamer has nine offensive starters back and a new play-caller, and identifies Briles as the man taking over.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
+  "qb_developer": true,
   "pages": "306-307",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Tennessee Volunteers",
@@ -391,16 +391,16 @@
   "record_2025": "8-5",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "dc": "Jim Knowles, hired to run the defense.",
+  "play_caller": "Josh Heupel on offense, whom the guide rates an elite play-caller. It applies the same description to Knowles on defense.",
+  "scheme_change": true,
   "staff_turnover_major": false,
-  "qb_developer": false,
+  "qb_developer": true,
   "pages": "308-309",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Texas A&M Aggies",
@@ -421,17 +421,17 @@
   "stability_score": 15,
   "record_2025": "11-2",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "oc": "Not addressed in guide by title. The guide names Holmon Wiggins as the new offensive play-caller.",
+  "dc": "Not addressed in guide. Elko is described as a defensive mastermind.",
+  "play_caller": "New on offense. The guide lists a new offensive play-caller among the obstacles and names Holmon Wiggins, leaving open whether the change aids Marcel Reed's development.",
+  "scheme_change": true,
   "staff_turnover_major": false,
   "qb_developer": false,
   "pages": "312-313",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Texas Longhorns",
@@ -453,16 +453,16 @@
   "record_2025": "10-3",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
+  "dc": "Will Muschamp, hired to run the defense.",
+  "play_caller": "Not addressed in guide by name for 2026. The guide credits Steve Sarkisian with taking Quinn Ewers to the playoff two seasons ago and winning two games there.",
+  "scheme_change": true,
   "staff_turnover_major": false,
   "qb_developer": false,
   "pages": "310-311",
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Vanderbilt Commodores",
@@ -493,6 +493,6 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  }
 ]
