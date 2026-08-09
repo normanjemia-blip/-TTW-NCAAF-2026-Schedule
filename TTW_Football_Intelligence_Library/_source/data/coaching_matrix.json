@@ -205,8 +205,8 @@
   "record_2025": "9-4",
   "in_carousel": false,
   "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "dc": "Mark Ivey, the linebackers coach and a Scott Satterfield holdover, and defensive backs coach Steve Ellis, both promoted internally after co-coordinators Ron English and Mark Hagen left.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -214,7 +214,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Miami Hurricanes",
@@ -235,9 +235,9 @@
   "stability_score": 12,
   "record_2025": "13-3",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Shannon Dawson.",
+  "dc": "Corey Hetherman.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -245,7 +245,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "NC State Wolfpack",
@@ -266,9 +266,9 @@
   "stability_score": 16,
   "record_2025": "8-5",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Kurt Roper, in his second year.",
+  "dc": "DJ Eliot, in his second year.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -276,7 +276,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "North Carolina Tar Heels",
@@ -297,9 +297,9 @@
   "stability_score": 8,
   "record_2025": "4-8",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Bobby Petrino, hired after Freddie Kitchens was dismissed.",
+  "dc": "Not addressed in guide. Belichick himself is credited with the defensive improvement.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -307,7 +307,7 @@
   "stability_page": 43,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Pittsburgh Panthers",
@@ -328,9 +328,9 @@
   "stability_score": 14,
   "record_2025": "8-5",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
+  "oc": "Kade Bell, entering year three of his offense.",
   "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -338,7 +338,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "SMU Mustangs",
@@ -359,9 +359,9 @@
   "stability_score": 13,
   "record_2025": "9-4",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Rhett Lashlee calls his own plays. The guide records that he lost right-hand man Casey Woods to the Missouri State head job, and notes wryly that D'Eriq King is now a co-coordinator.",
+  "dc": "Maurice Crum, new, alongside holdover co-coordinator Ricky Hunley Jr, promoted from within after Scott Symons left for the Dallas Cowboys.",
+  "play_caller": "Rhett Lashlee on offense, explicitly.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -369,7 +369,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Stanford Cardinal",
