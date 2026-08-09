@@ -109,6 +109,13 @@ def continuity(team, stability, teams):
 # owner instruction; the rest were found by cross-checking the three
 # independent places the guide states coaching status.
 # ---------------------------------------------------------------------------
+def _ordinal(n):
+    """English ordinal. 11-13 take 'th' regardless of last digit."""
+    if 11 <= n % 100 <= 13:
+        return f"{n}th"
+    return f"{n}{ {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, 'th') }"
+
+
 def coaching_conflicts(teams, stability, carousel):
     out = []
 
@@ -133,7 +140,7 @@ def coaching_conflicts(teams, stability, carousel):
             continue
         parts = []
         parts.append(f"the team page prints “{t['head_coach']} - "
-                     f"{t['hc_season']}{'st' if t['hc_season'] == 1 else 'th'} season”")
+                     f"{_ordinal(t['hc_season'])} season”")
         parts.append("the Stability Score table (p. %s) awards %s points for a "
                      "returning head coach, so it treats the position as %s"
                      % (s["page"], s["hc_returns"],

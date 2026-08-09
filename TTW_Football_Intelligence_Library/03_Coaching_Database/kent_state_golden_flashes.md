@@ -62,7 +62,7 @@ Adam Burke opens with the standard he thinks applies here: anybody who wins five
 
 ## SOURCE CONFLICT
 
-**new / returning head coach.** The guide states this three ways and they do not agree: the team page prints “Mark Carney - 2th season”; the Stability Score table (p. 43) awards 4 points for a returning head coach, so it treats the position as unchanged; the Coaching Carousel feature (pp. 28–37) lists the programme. All three are reproduced as printed and none is corrected.
+**new / returning head coach.** The guide states this three ways and they do not agree: the team page prints “Mark Carney - 2nd season”; the Stability Score table (p. 43) awards 4 points for a returning head coach, so it treats the position as unchanged; the Coaching Carousel feature (pp. 28–37) lists the programme. All three are reproduced as printed and none is corrected.
 
 ## 29. Cross-links
 
