@@ -15,26 +15,26 @@
 | 3 | Head coach | Clay Helton |
 | 4 | Head-coach tenure | 5th season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Not addressed in guide beyond Georgia Southern itself. The guide records Clay Helton reaching a bowl in each of his four seasons and just claiming his first bowl win to cap a 7-6 season. |
 | 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 8 | Defensive coordinator | Mike Mutz, in from Stephen F. Austin. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator. |
+| 10 | New / returning DC | New — the guide flags a new defensive coordinator, and the Stability Score table (p. 42) awards 0 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Named as a spread, and the guide treats the switch as the defining coaching decision here: Helton moved the Eagles from an option offense to a spread, which has produced productive quarterback play in relative terms. It supports this with the record book — JC French leads the programme with just 5,882 yards and Kyle Vantrease, from one season in 2022, is third with 4,253. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide's case for Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Attributed to the scheme rather than to individual coaching. The guide argues the scheme itself will produce numbers, presents Max Johnson as capable of a Vantrease-like season or better after playing at LSU, Texas A&M and North Carolina across seven seasons, notes the obvious joke about his longevity, then makes the serious point that schools keep paying him to come. |
+| 18 | Coordinator/head-coach continuity | Head coach and offensive coordinator return; the defensive coordinator and quarterback change. The Stability Score table (p. 42) prints 4, 3, 0 and 0, plus 1 for 9 returning starters, totalling 8. |
+| 19 | Staff turnover | Confined to the defensive coordinator, and the guide sets it against a stated institutional argument for stability: avoiding a coach's buyout and the recurring cost of hiring new staff and enticing new recruits has plenty of perks. |
+| 20 | Prior-school relationships | Stephen F. Austin for Mutz. On the roster the guide records Max Johnson from LSU, Texas A&M and North Carolina, Ashton Hollis from Illinois and Andre Greene from Virginia. |
+| 21 | Portal/recruiting implications tied to staff | Addressed at receiver, where the top five pass-catchers are gone and the guide names portal candidates to replace them. |
+| 22 | VSiN author's assessment of coaching | Predictability valued, with the defense as the upside lever. The guide's framing is the value of an athletic department that knows what to expect, and it sets the financial argument for stability alongside Helton's four bowls in four seasons. Its conclusion is bullish: a really high ceiling, possibly higher than anyone expects if Mutz can fix the defense — which it calls one of its biggest overlays. |
+| 23 | Coaching strengths | Four straight bowl appearances and a first bowl win, offensive-coordinator continuity, a scheme change already made that the guide credits with productive quarterback play, a very experienced quarterback in his final year of eligibility, a deep skill group, and a defensive hire whose previous unit generated negative plays and takeaways. |
+| 24 | Coaching concerns | A new defensive coordinator inheriting a pass rush that produced only 12 sacks in 13 games, the loss of the all-time leading passer and all five top pass-catchers including an NFL-calibre 1,000-yard receiver, and only nine returning starters. |
+| 25 | Betting implications explicitly tied to coaching | The guide calls this one of its biggest overlays, with a projection of 5.49 wins putting the alt Over 5.5 in play — and its stated condition is coaching: the ceiling rises if Mutz can fix the defense, in which case it projects the Eagles' first defense allowing fewer than six yards per play since 2020. |
 | 26 | Stability Score information | **8** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 322–323; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
