@@ -16,25 +16,25 @@
 | 4 | Head-coach tenure | 3rd season |
 | 5 | New / returning head coach | Returning — the Stability Score table (p. 42) awards 4 points for a returning head coach |
 | 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 7 | Offensive coordinator | Jonathan Brewer, entering year three. |
+| 8 | Defensive coordinator | Not addressed in guide. Manny Diaz is described as so accomplished defensively that the guide says the unit must step up. |
+| 9 | New / returning OC | Returning — the Stability Score table (p. 42) awards 3 points for a returning offensive coordinator, and the guide refers to Brewer's year three. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 42) awards 3 points for a returning defensive coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed as a named scheme. The guide suggests a ground-and-pound approach early given the personnel. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records sacks falling from 43 to 26 and defensive numbers worsening across the board including a 1.3-yard rise in yards per play allowed that it calls hard to overlook. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Addressed as a suggested direction rather than a stated policy: since Duke's offensive numbers improved while the defensive numbers worsened under Diaz, the guide suggests a ground-and-pound approach early. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Addressed as a coordinator record with a caveat. The guide notes Brewer improved the group by a full yard per play and 8.3 points per game in year two, but is mostly starting from scratch in year three — for a third straight season Diaz had to find a quarterback in the portal. |
+| 18 | Coordinator/head-coach continuity | Head coach and both coordinators return; the quarterback changes for the third straight year. The Stability Score table (p. 42) prints 4, 3, 3 and 0, plus 2 for 11 returning starters, totalling 12. |
+| 19 | Staff turnover | Not addressed in guide. The Stability Score table records both coordinators returning. |
+| 20 | Prior-school relationships | Not addressed in guide for the staff. On the roster the guide records Walker Eget from San Jose State, Jared Richardson from Penn and Javen Nicholas from Charlotte, and notes Darian Mensah moving on to Miami. |
+| 21 | Portal/recruiting implications tied to staff | Framed structurally as the programme's defining problem. The guide argues success at Duke gets more impressive each season — stronger academic requirements than most in the region, and players who succeed there wanting a bigger stage elsewhere — and says portal poaching is hard for mid-tier Power Four schools to overcome annually. |
+| 22 | VSiN author's assessment of coaching | Credit for the difficulty of the job, doubt about this particular year. The guide argues success at Duke gets more impressive each season and credits Diaz with repeatedly rebuilding at quarterback, then sets out the underlying numbers: Duke was comfortably outgained per play in ACC games and finished +10 in turnover margin, so it infers the team was fortunate Mensah played as well as he did. With Diaz so accomplished defensively, it says the unit must step up. |
+| 23 | Coaching strengths | A head coach the guide credits with succeeding under structural disadvantage, both coordinators returning, a coordinator with a documented year-two improvement of a full yard per play, a 1,132-yard true freshman running back, and a big and experienced offensive line. |
+| 24 | Coaching concerns | A third straight portal quarterback search, the loss of the top three pass catchers, a receiving group the guide describes thinly, sacks falling from 43 to 26 with defensive numbers worsening across the board, and only a couple of impact starters back on that side. |
+| 25 | Betting implications explicitly tied to coaching | Recommendation is Under 5.5 wins, and the guide adds a second coaching-linked market observation: since it suggests a ground-and-pound approach early, it draws the implication that this could create value on Unders. |
 | 26 | Stability Score information | **12** total (p. 42) — see the component table below |
 | 27 | Relevant page references | team pp. 86–87; Stability Score p. 42 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
