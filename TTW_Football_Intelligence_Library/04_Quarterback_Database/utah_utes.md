@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Utah Utes |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Devon Dampier |
+| 4 | Returning starter / new starter / transfer | Returning starter — but the guide records that Utah will also give Byrd Ficklin snaps. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | First Utah season completed; the guide notes minor accuracy gains in it. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 2,490 yards with 24 touchdowns and only five interceptions. |
+| 9 | Rushing contribution | 835 rushing yards and 10 scores. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate; the guide records minor accuracy gains in his first Utah season. |
+| 11 | Turnover information | Only five interceptions against 24 touchdown passes. |
+| 12 | Competition status | Not a formal competition, but the guide states the team will give Byrd Ficklin snaps and is candid about the risk, invoking the adage that two quarterbacks means none. |
+| 13 | Backup / challenger information | Byrd Ficklin, who the guide says will get snaps. |
+| 14 | Author's confidence in the QB situation | Mixed. The guide credits a dynamic dual threat with strong ratios while naming his arm abandoning him in big games as one of its three reasons for the Under. |
+| 15 | Author's positive case | A dynamic dual threat with 24 touchdowns to five interceptions plus 835 rushing yards, showing minor accuracy gains. |
+| 16 | Author's concerns | His arm abandoning him in big games last year; the two-quarterback plan; and what happens against elite defenses, with the guide asking whether Utah can convert consistently on third and long. |
+| 17 | Scheme / coordinator fit | Complicated by a coordinator departure — Jason Beck left for Michigan with Whittingham. |
+| 18 | Supporting-cast considerations | The guide's clearest weakness. Utah normally has big linemen and blocking is rarely a problem, but the Utes return no starters at all, with Montana State transfer Cedric Jefferson the only projected starter who consistently started games in 2025. There are impressive young pieces including true freshman Kelvin Obot. Its judgement is unambiguous: nothing suggests one of the better Big 12 units, and the offense will not look good without strong blocking. |
+| 19 | Relevant portal context | Cedric Jefferson arrives from Montana State; Whittingham took coordinator Jason Beck and defensive stars John Henry Daley and Smith Snowden with him to Michigan. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 8.5 wins. The guide grants both the difficulty of winning at Rice-Eccles Stadium and Utah's impressive top-end talent, then states its three reasons together: the loss of a legendary coach, a team weaker in the trenches than usual, and Dampier's arm abandoning him in big games. It identifies the 12 September Arkansas game as an early indicator. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. Big-game quarterback play is one of the three named pillars of the Under. |
 | 22 | Relevant page references | pp. 144–145 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/utah_utes.md](../02_Team_Database/utah_utes.md)
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Devon Dampier |
 | Current verified state | Devon Dampier |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

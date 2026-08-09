@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Colorado Buffaloes |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Julian Lewis |
+| 4 | Returning starter / new starter / transfer | New starter — a five-star sophomore promoted from within. |
+| 5 | Previous school | Not applicable. |
+| 6 | Career experience | Five-star and third-ranked quarterback in the 2025 class; appeared in parts of three games. |
+| 7 | Previous starts | Not addressed in guide as a start count; the guide records parts of three games. |
+| 8 | Passing production | 589 yards with four touchdowns and no interceptions across parts of three games. |
+| 9 | Rushing contribution | Not addressed in guide; the guide notes he is a traditional pro-style passer who will improvise less than Shedeur Sanders did. |
+| 10 | Efficiency statistics | Not addressed in guide; the guide characterizes the sample as neither great nor miserable. |
+| 11 | Turnover information | No interceptions in the three-game sample. |
+| 12 | Competition status | None described as live, but the guide names a fallback: if Lewis' rise does not materialize, Utah transfer Isaac Wilson could get a chance. |
+| 13 | Backup / challenger information | Utah transfer Isaac Wilson, brother of Zach Wilson. |
+| 14 | Author's confidence in the QB situation | Positive and forward-looking. The guide expects his rise to begin, while naming a fallback if it does not. |
+| 15 | Author's positive case | A five-star seen as the future of the programme, with the arm talent for the downfield throws Brennan Marion's system needs. |
+| 16 | Author's concerns | A very small sample, and a style the guide expects to improvise less than his predecessor. |
+| 17 | Scheme / coordinator fit | Described in detail. Marion's fast-paced power rushing 'Go-Go' system uses multiple backs and relies on fresh legs to break long runs inside, with rushing success setting up deep shots — and the guide says Lewis has the arm talent for those throws. |
+| 18 | Supporting-cast considerations | Good up front: two potential pros at tackle in Leon Bell and Bo Hughley plus proven starter Demetrius Hunter at center. The guide's judgement on the scheme is conditional on strong play from that group. |
+| 19 | Relevant portal context | Colorado worked hard to bring reliable contributors through the portal, including Isaac Wilson from Utah at quarterback. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 4.5 wins. The guide's reasoning is comparative — last year's roster lacked the talent to compete in the Big 12, while this group has the size, balance and skill to hang around — and it maps seven games from which Colorado needs four wins, rating that more likely than not. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide frames the season as a test of whether the programme can succeed without Sanders' sons, which makes the new quarterback the central variable. |
 | 22 | Relevant page references | pp. 126–127 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/colorado_buffaloes.md](../02_Team_Database/color
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Julian Lewis |
 | Current verified state | Julian Lewis |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

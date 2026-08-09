@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Baylor Bears |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | DJ Lagway |
+| 4 | Returning starter / new starter / transfer | Transfer — from Florida. |
+| 5 | Previous school | Florida. |
+| 6 | Career experience | The top-ranked quarterback in the 2024 class and once seen as Florida's saviour, with strong early film before the season turned. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Not addressed in guide as a yardage line; the guide reports 14 interceptions and 19 sacks last year. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | Not addressed in guide; the guide credits deep-ball touch. |
+| 11 | Turnover information | 14 interceptions last year, which the guide characterizes as too many mistakes at the most important position. |
+| 12 | Competition status | None described — Lagway is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Optimistic and explicitly conditional. The guide credits accumulated injuries as a factor, agrees a change of scenery was needed, and sees a major turnaround available conditional on the line keeping him upright. |
+| 15 | Author's positive case | The top-ranked quarterback in his class, now with an elite play-caller in Jake Spavital, inheriting an offense that scored 31.1 points per game. The guide notes Sawyer Robertson put up big numbers in this system and rates Lagway arguably more talented, with deep-ball touch likely to produce big plays in a scheme known for receivers running free. |
+| 16 | Author's concerns | 14 interceptions and 19 sacks last year — too many mistakes at the most important position — with the turnaround conditional on protection. |
+| 17 | Scheme / coordinator fit | Explicitly favourable — a more quarterback-friendly offense under an elite play-caller. |
+| 18 | Supporting-cast considerations | A revamped offensive line must protect him: Kaden Sieracki returns at right tackle with four new faces elsewhere, three of them previous starters. The guide expects Baylor to be bigger and deeper up front with real potential for improvement. |
+| 19 | Relevant portal context | Lagway is the high-profile portal addition; the line was substantially rebuilt. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 5.5 wins. The guide states the stakes bluntly: with a tough schedule and a 5.5 total, failure to cash the Over likely means Aranda is looking for a defensive coordinator job next year. It flags a neutral-site game against Auburn on 5 September as potentially decisive. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. Lagway is one of the two named reasons for optimism, and the guide ties the Over — and the head coach's job — to the season's outcome. |
 | 22 | Relevant page references | pp. 120–121 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/baylor_bears.md](../02_Team_Database/baylor_bear
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | DJ Lagway |
 | Current verified state | DJ Lagway |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 30 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

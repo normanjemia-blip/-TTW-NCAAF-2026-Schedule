@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | BYU Cougars |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Bear Bachmeier |
+| 4 | Returning starter / new starter / transfer | Returning starter — seized the job as a freshman. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Was not meant to start as a freshman but seized the job. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 3,033 yards with 15 touchdowns and seven interceptions. |
+| 9 | Rushing contribution | 527 rushing yards and 11 touchdowns. |
+| 10 | Efficiency statistics | An overall PFF grade of 78.9, top 50 — but the guide stresses his 77.0 rushing grade is what raised the profile. |
+| 11 | Turnover information | Seven interceptions against 15 touchdown passes. |
+| 12 | Competition status | None described — Bachmeier is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive with a precisely stated development target. The guide's diagnosis is that he was far more comfortable running than passing, and that if the passing grade surpasses the rushing grade, BYU has something special. |
+| 15 | Author's positive case | Genuine dual-threat production as a freshman on a 12-win team returning nearly every impactful player. |
+| 16 | Author's concerns | Passing development is the named gap, and the guide draws out a compounding problem: he must develop as a passer while working without receivers he is comfortable with. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Weakened at receiver. Parker Kingston had 97 catches for 928 yards and five touchdowns and BYU hoped to keep the shifty slot man, but he was expelled from school over off-field conduct, leaving heavy reliance on an unproven group. Oregon transfer Kyle Kasper is flagged as one to watch — a 6-foot-6 contested-catch target who moves well for his size. |
+| 19 | Relevant portal context | Kyle Kasper arrives at receiver from Oregon. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 8.5 wins. The guide allows that things can be nitpicked but says the squad clearly has the goods, and makes a market observation: hosting Notre Dame may be the only game all season in which the Cougars receive points, with a possible exception at Utah on 7 November. |
+| 21 | VSiN team outlook dependency on QB performance | High. The guide's stated upside — BYU having something special — is conditional on Bachmeier's passing grade surpassing his rushing grade. |
 | 22 | Relevant page references | pp. 122–123 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/byu_cougars.md](../02_Team_Database/byu_cougars.
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Bear Bachmeier |
 | Current verified state | Bear Bachmeier |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

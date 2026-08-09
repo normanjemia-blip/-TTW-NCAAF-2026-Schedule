@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | Arizona State Sun Devils |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Cutter Boley |
+| 4 | Returning starter / new starter / transfer | Transfer — from Kentucky, replacing Sam Leavitt, who left for Lane Kiffin at LSU. |
+| 5 | Previous school | Kentucky. |
+| 6 | Career experience | Kentucky's starter; the guide describes him as up and down in that role. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 2,160 yards with 15 touchdowns and 12 interceptions at Kentucky. |
+| 9 | Rushing contribution | Not addressed in guide as production; the guide credits above-average athleticism. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate. |
+| 11 | Turnover information | 12 interceptions against 15 touchdown passes. |
+| 12 | Competition status | None described — Boley is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive and explicitly contextual. The guide is careful to note he had an unreliable supporting cast and no one of Dillingham's reputation at Kentucky, and expects the group to exceed expectations. |
+| 15 | Author's positive case | 6-foot-5 with a big arm and above-average athleticism; Dillingham once tried to recruit him to Oregon, which the guide reads as genuine belief. It cites his tools, an improved offensive line and receiver weapons. |
+| 16 | Author's concerns | Up-and-down Kentucky production including 12 interceptions, and the guide's note that he may need time to settle. |
+| 17 | Scheme / coordinator fit | Complicated by a play-calling question the guide raises separately: Dillingham mostly called plays in 2024 and Arizona State averaged 6.1 yards per play; with Marcus Arroyo calling them last year that fell to 5.6. |
+| 18 | Supporting-cast considerations | Improving — an improved offensive line and receiver weapons including Boston College transfer Reed Harris. |
+| 19 | Relevant portal context | Boley in from Kentucky, Reed Harris in from Boston College; Sam Leavitt out to LSU. The guide draws the pattern that last year's team lost Cam Skattebo and this year's loses Leavitt — two core pieces of the 2024 side. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 6.5 wins. The guide judges Arizona State unlikely to return to the playoff soon but not going anywhere either, says Dillingham keeps reloading well, and states a 6.5 total simply does not feel right. It names the winnable games explicitly and says the Sun Devils may be live for alternate Overs too. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate to high. The Over rests on reloading well after Leavitt's departure, with Boley the named replacement, but the guide's argument is roster-wide rather than quarterback-specific. |
 | 22 | Relevant page references | pp. 118–119 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The team spread (p. 118) prints 17 returning starters while the Stability Score table (p. 42) prints 12 for the same team. Both are reproduced as printed in the Team Database and neither is corrected here. |
 
 **Returning-QB marker on the team spread (p. 118):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 8.
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/arizona_state_sun_devils.md](../02_Team_Database
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Cutter Boley |
 | Current verified state | Cutter Boley |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

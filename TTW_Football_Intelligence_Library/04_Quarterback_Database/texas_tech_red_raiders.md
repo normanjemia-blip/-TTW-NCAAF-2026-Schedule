@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Texas Tech Red Raiders |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Will Hammond |
+| 4 | Returning starter / new starter / transfer | New starter — promoted after Brendan Sorsby, one of the portal's biggest prizes, was ruled ineligible. |
+| 5 | Previous school | Not applicable. |
+| 6 | Career experience | A four-star recruit with solid moments in relief; the guide notes Texas Tech was not planning to start him. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Cited game: a road performance at Utah with 169 passing yards, two touchdowns and no interceptions in a blowout win. |
+| 9 | Rushing contribution | 61 rushing yards in that same game at Utah. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate; the guide calls him reasonably accurate. |
+| 11 | Turnover information | No interceptions in the cited game. |
+| 12 | Competition status | None described as live — but the situation exists only because Sorsby is ineligible. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Explicitly uncertain. The guide weighs both sides and concludes there is uncertainty at the most important position. |
+| 15 | Author's positive case | A four-star recruit who is athletic and reasonably accurate, with solid moments already on the road at Utah. |
+| 16 | Author's concerns | Inexperience, a torn ACL to come back from, and a staff that probably wanted him on the bench another year or two — while handing him the keys to a championship-caliber team. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Strong overall but thinner up front. Fifteen players who started in 2025 return. Texas Tech lost two offensive line starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players — and the guide sets two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. |
+| 19 | Relevant portal context | The guide describes McGuire as fishing with dynamite in the portal, with as deep a funding pool as any programme. It records that Brendan Sorsby, one of the portal's biggest prizes, is ineligible this year after being caught betting on sports earlier in his career. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 10.5 wins. The guide concedes selling 11 wins at nearly -200 is a tough ask while judging the number pretty likely: even without an elite quarterback the roster is loaded and the schedule is extremely weak. It says not to be surprised if Texas Tech cruises to the playoff, and names the two things that could burn them — disappointing quarterback play and the slightest defensive dip. |
+| 21 | VSiN team outlook dependency on QB performance | Very high as a risk, low as a requirement. The guide argues the Over holds even without an elite quarterback, while naming disappointing quarterback play as one of only two things that could derail the season. |
 | 22 | Relevant page references | pp. 140–141 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/texas_tech_red_raiders.md](../02_Team_Database/t
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Will Hammond |
 | Current verified state | Will Hammond |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 35 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 55 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; injury or availability language in verification note.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play; injury or availability language in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | Arizona Wildcats |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Noah Fifita |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established starter; the guide contrasts a poor 2024 with a major bounceback in 2025. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 3,228 yards with 29 touchdowns and six interceptions; PFF's 17th-ranked passer. |
 | 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 10 | Efficiency statistics | PFF's 17th-ranked passer — described as a major bounceback from a poor 2024. |
+| 11 | Turnover information | Six interceptions against 29 touchdown passes. |
+| 12 | Competition status | None described — Fifita is the settled starter and is called a star. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Positive but deliberately withheld. The guide calls him one of the top returning starters, then explicitly declines the easy conclusion and lists three reasons for doubt. |
+| 15 | Author's positive case | 3,228 yards with a 29-to-6 touchdown-to-interception ratio, solid weapons, a decent run game and an established rapport with returning coordinator Seth Doege. |
+| 16 | Author's concerns | Three, stated as a list: the 2024 season is hard to ignore entirely, Arizona must replace three offensive line starters, and Fifita occasionally has injury trouble. Its closing caution is that replicating or building on 2025 is the hope — but that is also what Tucson hoped for in 2024. |
+| 17 | Scheme / coordinator fit | Continuity — an established rapport with returning coordinator Seth Doege. |
+| 18 | Supporting-cast considerations | Solid weapons and a decent run game, offset by three offensive line starters to replace. |
+| 19 | Relevant portal context | The guide credits Brennan's portal work as strong at programme level; it does not describe portal additions at quarterback. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins. Arizona will be an underdog against BYU and Texas Tech and plays six further games the guide treats as coin flips, so eight wins feels unrealistic even if the team is as good as last year's. A regression argument is added explicitly — a +18 turnover margin last year, some of which the guide expects to come back. |
+| 21 | VSiN team outlook dependency on QB performance | High. Expectations are stated as somewhat high specifically because Fifita is back, and the guide's turnover-regression argument bears directly on the position. |
 | 22 | Relevant page references | pp. 116–117 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The team page (p. 116) prints 12 returning starters while the Stability Score table (p. 42) prints 14 for the same team. Both are reproduced as printed in the Team Database and neither is corrected here. |
 
 **Returning-QB marker on the team spread (p. 116):** present — the guide marks this team as returning its quarterback. Printed offensive returning starters: 4.
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/arizona_wildcats.md](../02_Team_Database/arizona
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Noah Fifita |
 | Current verified state | Noah Fifita |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

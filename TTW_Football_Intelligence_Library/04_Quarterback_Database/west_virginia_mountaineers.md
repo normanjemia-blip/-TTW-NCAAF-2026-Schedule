@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | West Virginia Mountaineers |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Michael Hawkins |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Oklahoma — the guide notes he made big plays there. |
+| 6 | Career experience | Made big plays at Oklahoma before West Virginia. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Not quantified; the guide describes him as underwhelming as a passer with clear room to improve as a thrower. |
+| 9 | Rushing contribution | Not quantified; the guide calls him a good runner and an electric runner. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | None described — Hawkins is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Split by skill and stated as one of two reasons for the Under: a good runner but underwhelming as a passer. |
+| 15 | Author's positive case | An electric runner who made big plays at Oklahoma and should suit the Rodriguez offense. |
+| 16 | Author's concerns | Passing. The guide names him underwhelming as a thrower with clear room to improve, and says the offense would have to be flat-out special to carry the defense — which it doubts. |
+| 17 | Scheme / coordinator fit | Explicitly good — the guide says Hawkins should suit the Rodriguez offense. |
+| 18 | Supporting-cast considerations | Improving in the run game, weak at receiver. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. Receiver is the one group the guide says disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. |
+| 19 | Relevant portal context | West Virginia added big-time transfer talent on offense including Cam Cook from Jacksonville State. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins. The guide expects a 2-0 start against Coastal Carolina and Tennessee-Martin before a tough Virginia game and then Oklahoma State at home to open Big 12 play — a result it says could decide the Over or Under. Its lean rests on two specifics: Hawkins is a good runner but underwhelming as a passer, and the defense needs to be much better after being torched. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. Hawkins' passing is one of the two named reasons for the Under. |
 | 22 | Relevant page references | pp. 146–147 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/west_virginia_mountaineers.md](../02_Team_Databa
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Michael Hawkins |
 | Current verified state | Michael Hawkins Jr. |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 25 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 45 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position.
+Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

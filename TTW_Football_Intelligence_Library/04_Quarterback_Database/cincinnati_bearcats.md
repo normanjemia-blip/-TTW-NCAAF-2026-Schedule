@@ -15,27 +15,27 @@
 | --- | --- | --- |
 | 1 | Team | Cincinnati Bearcats |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | JC French |
+| 4 | Returning starter / new starter / transfer | Transfer — from Georgia Southern, replacing Brendan Sorsby. |
+| 5 | Previous school | Georgia Southern. |
+| 6 | Career experience | Not addressed on Cincinnati's own pages. The Georgia Southern spread (p. 323) records him as that programme's all-time leading passer with 5,882 yards. |
 | 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 8 | Passing production | Not addressed on Cincinnati's own pages. The Georgia Southern spread (p. 323) records a 20/8 touchdown-to-interception ratio with 2,929 yards. |
+| 9 | Rushing contribution | Not addressed on Cincinnati's own pages. The Georgia Southern spread (p. 323) adds six rushing touchdowns. |
+| 10 | Efficiency statistics | Characterized rather than quantified: an accurate passer who works underneath rather than a consistent deep-ball threat. |
+| 11 | Turnover information | Not addressed on Cincinnati's own pages; the Georgia Southern spread (p. 323) records eight interceptions. |
+| 12 | Competition status | None described — French is presented as Sorsby's replacement. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Low, and stated as ignorance rather than judgement. The guide says it is hard to imagine what the offense looks like without Sorsby and sees a real chance of a massive step back. |
+| 15 | Author's positive case | Characterized as an accurate passer who works underneath — the guide offers no stronger positive case than that. |
+| 16 | Author's concerns | He replaces a quarterback who threw for 2,800 yards with 27 touchdowns and five interceptions while adding 580 rushing yards and nine touchdowns, in an offense that ranked fifth nationally in Adjusted EPA per play at 0.14. French is not characterized as a consistent deep-ball threat, and the guide's conditional is that without an offense capable of generating explosive plays this becomes a long year. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Weak. Top receiver Cyrus Allen, who had 13 touchdown catches, left for the Chiefs, and tight end Joe Royer also went to the NFL, leaving an underwhelming backfield and unproven receivers. |
+| 19 | Relevant portal context | French arrives from Georgia Southern; Sorsby, Allen and Royer all departed. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins. The guide credits the Nate Woody hire and instant-impact transfers with meaningfully changing the defense, while stating its conditional chain explicitly: without explosive plays this becomes a long year, and a long year for Cincinnati could mean a short one for Satterfield. It singles out a 5 September loss to Boston College as the result that could send the season off the rails. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The Under is argued primarily from the offense's uncertainty at quarterback after losing Sorsby. |
 | 22 | Relevant page references | pp. 124–125 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide notes candidly that it does not know what Sorsby will be doing in 2026 — his destination is left unstated. |
 
 **Returning-QB marker on the team spread (p. 124):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 3.
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/cincinnati_bearcats.md](../02_Team_Database/cinc
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | JC French |
 | Current verified state | JC French IV |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 30 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

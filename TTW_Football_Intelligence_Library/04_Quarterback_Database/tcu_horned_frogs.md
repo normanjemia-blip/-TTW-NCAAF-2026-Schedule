@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | TCU Horned Frogs |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Jaden Craig |
+| 4 | Returning starter / new starter / transfer | Transfer — from Harvard, replacing Josh Hoover, who transferred to Indiana. |
+| 5 | Previous school | Harvard. |
 | 6 | Career experience | Not addressed in guide. |
 | 7 | Previous starts | Not addressed in guide. |
 | 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
+| 9 | Rushing contribution | Not addressed in guide as production; the guide describes him as more mobile than Hoover. |
 | 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 11 | Turnover information | Not addressed in guide as a count; the guide characterizes him as less mistake-prone than Hoover. |
+| 12 | Competition status | None described — Craig is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Moderate and specific. The guide expects Craig to be productive — less aggressive than Hoover, but less mistake-prone and more mobile. |
+| 15 | Author's positive case | Less mistake-prone and more mobile than his predecessor, with a clear role: distributing to playmakers, of which TCU has plenty including talented receiver Jordan Dwyer. |
+| 16 | Author's concerns | He replaces genuine production — Hoover threw for 3,949 yards with 27 touchdowns and 11 interceptions in 2024 and 3,472 yards with 29 touchdowns and 13 interceptions last year — and the guide names an offensive overhaul that feels a bit ambitious among its three reasons for the Under. |
+| 17 | Scheme / coordinator fit | A real stylistic break. New coordinator Gordon Sammis arrives from UConn, whose offense ranked sixth nationally in EPA per play at 0.13 per Game on Paper. TCU normally runs the Air Raid and Sammis runs a pro-style offense, so the guide says this may look nothing like a standard Dykes team — and argues the timing could be ideal precisely because Hoover has gone. |
+| 18 | Supporting-cast considerations | Strong. TCU will lean on a massive offensive line and a good running back group — still throwing, but as a more physical team — with plenty of playmakers including Jordan Dwyer. |
+| 19 | Relevant portal context | Craig in from Harvard; Hoover out to Indiana. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins, citing tricky schedule spots and defensive holes. The guide explicitly notes the prevailing sentiment — that people covering the team make TCU live for double-digit wins — before setting out why it disagrees, naming a tough schedule, an offensive overhaul that feels a bit ambitious, and uncertainty at linebacker. |
+| 21 | VSiN team outlook dependency on QB performance | Moderate. The quarterback change is folded into the wider offensive overhaul the guide doubts, but its sharpest stated risk is linebacker play. |
 | 22 | Relevant page references | pp. 138–139 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/tcu_horned_frogs.md](../02_Team_Database/tcu_hor
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Jaden Craig |
 | Current verified state | Jaden Craig |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 5 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

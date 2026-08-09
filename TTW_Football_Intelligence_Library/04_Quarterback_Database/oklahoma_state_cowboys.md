@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Oklahoma State Cowboys |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Drew Mestemaker |
+| 4 | Returning starter / new starter / transfer | Transfer — arriving with head coach Eric Morris from North Texas. |
+| 5 | Previous school | North Texas. |
+| 6 | Career experience | The guide calls him the best Group of Five quarterback in the country, with the best numbers of any FBS quarterback. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | Not quantified on Oklahoma State's pages; the guide states he posted the best numbers of any FBS quarterback. |
+| 9 | Rushing contribution | Not addressed in guide as production; the guide credits his mobility. |
+| 10 | Efficiency statistics | Not addressed in guide as a rate; NFL scouts are drawn to his arm, mobility and ability to read defenses. |
+| 11 | Turnover information | More interceptions than touchdowns in two of North Texas's biggest games, against South Florida and at Tulane — the guide's specific counter-evidence. |
+| 12 | Competition status | None described — Mestemaker is presented as the starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | High on production, explicit about the translation question. The guide calls him a legitimate offensive star while insisting he must prove he can handle tougher competition. |
+| 15 | Author's positive case | The best Group of Five quarterback in the country with the best numbers of any FBS quarterback, and NFL scouts drawn to his arm, mobility and ability to read defenses. |
+| 16 | Author's concerns | Whether it translates to Power Four competition — with the guide fair in noting the two bad games were not only on him — and an offensive line whose quality is genuinely open. |
+| 17 | Scheme / coordinator fit | Continuity — Morris is another Air Raid coach who brought a group of his former players for year one, Mestemaker among them. |
+| 18 | Supporting-cast considerations | Uncertain up front. Oklahoma State lost seven players from last year's offensive line options, so Morris added second-team All-AAC guard Johnny Dickson, three Power Four starters and a starting guard from Coastal Carolina. The guide notes experience will not be lacking but leaves quality genuinely open, framing this as one of the most important position groups in the country this year. |
+| 19 | Relevant portal context | Morris brought a group of his former North Texas players including Mestemaker, and rebuilt the offensive line through the portal. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 5.5 wins. The path is arithmetic: easy wins over Tulsa and Murray State, winnable home games against UCF, Colorado and Kansas, then just one road win needed from West Virginia, Iowa State and Kansas State. The guide identifies the 12 September game against Oregon as Mestemaker's early test, and calls the defense potentially one of the Big 12's worst — which is why it is hard to fully buy Oklahoma State as a conference sleeper. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide's model is explicitly that the defense only needs to be good enough to let Mestemaker win games, as at North Texas. |
 | 22 | Relevant page references | pp. 136–137 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/oklahoma_state_cowboys.md](../02_Team_Database/o
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Drew Mestemaker |
 | Current verified state | Drew Mestemaker |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 10 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 30 |
 
-Priority drivers: no VSiN preseason position; transfer context in verification note.
+Priority drivers: VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

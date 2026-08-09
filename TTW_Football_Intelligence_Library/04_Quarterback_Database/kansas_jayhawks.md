@@ -16,7 +16,7 @@
 | 1 | Team | Kansas Jayhawks |
 | 2 | Conference | Big 12 |
 | 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
+| 4 | Returning starter / new starter / transfer | New starter, identity undetermined — Jalon Daniels is gone and the guide names no successor. |
 | 5 | Previous school | Not addressed in guide. |
 | 6 | Career experience | Not addressed in guide. |
 | 7 | Previous starts | Not addressed in guide. |
@@ -24,18 +24,18 @@
 | 9 | Rushing contribution | Not addressed in guide. |
 | 10 | Efficiency statistics | Not addressed in guide. |
 | 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 12 | Competition status | Not resolved and not itemised. The guide states only that the quarterback situation looks ugly with Daniels — one of the best dual threats in the sport last year — gone, and refers to Kansas' “quarterback options” without naming them. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Low, and expressed as a stated deficiency rather than an assessment of any player. The guide says the quarterback situation looks ugly. |
+| 15 | Author's positive case | Not addressed in guide for any quarterback; the guide's positive case is the return of coordinator Andy Kotelnicki, meaning Kansas will run the most successful offense it has used in decades. |
+| 16 | Author's concerns | The loss of Jalon Daniels' playmaking, which the guide says had masked deficiencies, plus a receiver room that appears to lack game-changing talent. |
+| 17 | Scheme / coordinator fit | Kotelnicki's pro-style system uses heavy pre-snap motion to create mismatches, but the guide stresses none of it works without an efficient, physical run game — making line play critical, especially with quarterback uncertainty. |
+| 18 | Supporting-cast considerations | Line promising, receivers not. Kansas is set at left tackle with Calvin Clements, who started 12 games and looks like a future pro, has left guard Amir Herring back, and added impressive bodies elsewhere, with the guide seeing real potential for one of the better Big 12 lines. The receiver room appears to lack game-changing talent. |
+| 19 | Relevant portal context | Not addressed in guide at quarterback. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 5.5 wins. Without Daniels' playmaking to mask deficiencies the guide expects a tough year, and says this is not a team to trust in 50-50 games given the quarterback options and a mediocre defense. It closes by noting that if things go extremely poorly, Leipold's situation becomes interesting. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The quarterback options are named as one of the two reasons not to trust Kansas in close games. |
 | 22 | Relevant page references | pp. 132–133 |
-| 23 | Source conflicts / ambiguities | Not addressed in guide. |
+| 23 | Source conflicts / ambiguities | The guide declines to name a starter or list the candidates, so this record carries no VSiN preseason expectation for the position. |
 
 **Returning-QB marker on the team spread (p. 132):** absent — the guide does not mark this team as returning its quarterback. Printed offensive returning starters: 6.
 
@@ -73,9 +73,9 @@ The guide names no expected starter clearly enough to test.
 | VSiN preseason expectation | Not addressed in guide. |
 | Current verified state | Cole Ballard (leader; Isaiah Marshall competing) |
 | Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 45 |
+| Monitoring priority score | 70 |
 
-Priority drivers: low-confidence verification (L); no VSiN preseason position.
+Priority drivers: low-confidence verification (L); no VSiN preseason position; VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

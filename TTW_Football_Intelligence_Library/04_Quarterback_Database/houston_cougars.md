@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Houston Cougars |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
-| 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Conner Weigman |
+| 4 | Returning starter / new starter / transfer | Returning starter — but the guide's framing question is how long he stays ahead of five-star Keisean Henderson. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Established starter; the guide calls him solid. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 2,705 yards with 25 touchdowns and nine interceptions. |
+| 9 | Rushing contribution | 700 rushing yards and 11 scores. |
+| 10 | Efficiency statistics | A 63.5 PFF throwing grade — the guide calls him a little inefficient as a passer. |
+| 11 | Turnover information | Nine interceptions against 25 touchdown passes. |
+| 12 | Competition status | Not a declared competition, but the guide's headline question is whether Fritz can afford to keep Keisean Henderson on the bench all season. |
+| 13 | Backup / challenger information | Keisean Henderson — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. |
+| 14 | Author's confidence in the QB situation | Qualified on the incumbent, openly tempted by the alternative. The guide credits Weigman as solid, then notes he was inefficient as a passer and struggled badly in some of Houston's biggest games. |
+| 15 | Author's positive case | Solid dual production — 25 passing touchdowns plus 700 rushing yards and 11 scores — behind a much improved line. |
+| 16 | Author's concerns | Passing inefficiency at a 63.5 PFF grade and poor form in Houston's biggest games; the guide reasons that elite quarterback play could make Houston a legitimate national title contender, which makes playing Henderson tempting. |
 | 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 18 | Supporting-cast considerations | Strong. Makhi Hughes heads a loaded backfield — 1,401 rushing yards and 15 touchdowns with 19 catches for 176 yards and two scores in 2024 at Tulane, among the best backs in the sport as a freshman and sophomore, before a non-factor season at Oregon where he redshirted after four games. Reunited with Fritz and running behind a much improved line, the guide expects him to return to stardom as the head of the snake. Houston has 19 projected starters who started in 2025. |
+| 19 | Relevant portal context | Makhi Hughes returns to Fritz from Oregon. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Over 7.5 wins — the guide notes the total is listed at either 7.5 or 8.5 depending on the book — and it goes further, calling this a team worth attacking with alternate lines and seeing a real chance of double-digit wins. Its market read is that road games at Texas Tech and Utah are the only two spots where Houston should be receiving points. |
+| 21 | VSiN team outlook dependency on QB performance | High on the upside. The guide states that elite quarterback play could make Houston a legitimate national title contender, making the position the difference between a good season and a great one. |
 | 22 | Relevant page references | pp. 128–129 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/houston_cougars.md](../02_Team_Database/houston_
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Conner Weigman |
 | Current verified state | Conner Weigman |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

@@ -15,25 +15,25 @@
 | --- | --- | --- |
 | 1 | Team | Kansas State Wildcats |
 | 2 | Conference | Big 12 |
-| 3 | Expected starter in VSiN guide | Not addressed in guide. |
-| 4 | Returning starter / new starter / transfer | Not addressed in guide. |
-| 5 | Previous school | Not addressed in guide. |
-| 6 | Career experience | Not addressed in guide. |
-| 7 | Previous starts | Not addressed in guide. |
-| 8 | Passing production | Not addressed in guide. |
-| 9 | Rushing contribution | Not addressed in guide. |
-| 10 | Efficiency statistics | Not addressed in guide. |
-| 11 | Turnover information | Not addressed in guide. |
-| 12 | Competition status | Not addressed in guide. |
+| 3 | Expected starter in VSiN guide | Avery Johnson |
+| 4 | Returning starter / new starter / transfer | Returning starter. |
+| 5 | Previous school | Not applicable — returning starter. |
+| 6 | Career experience | Two seasons as starter, which the guide compares directly. |
+| 7 | Previous starts | Not addressed in guide as a start count. |
+| 8 | Passing production | 2,712 yards with 25 touchdowns and 10 interceptions in 2024; 2,385 yards, 18 touchdowns and six interceptions in 2025. |
+| 9 | Rushing contribution | 605 rushing yards and seven scores in 2024; 477 rushing yards and eight scores in 2025. |
+| 10 | Efficiency statistics | Not addressed in guide as a completion rate; the guide's measure is the year-over-year comparison, which shows no improvement. |
+| 11 | Turnover information | 10 interceptions in 2024, six in 2025. |
+| 12 | Competition status | None described — Johnson is the settled starter. |
 | 13 | Backup / challenger information | Not addressed in guide. |
-| 14 | Author's confidence in the QB situation | Not addressed in guide. |
-| 15 | Author's positive case | Not addressed in guide. |
-| 16 | Author's concerns | Not addressed in guide. |
-| 17 | Scheme / coordinator fit | Not addressed in guide. |
-| 18 | Supporting-cast considerations | Not addressed in guide. |
-| 19 | Relevant portal context | Not addressed in guide. |
-| 20 | Betting implications explicitly discussed by VSiN | Not addressed in guide. |
-| 21 | VSiN team outlook dependency on QB performance | Not addressed in guide. |
+| 14 | Author's confidence in the QB situation | Openly questioning, then constructive. The guide asks directly whether this is simply who he is, then argues there should be another gear. |
+| 15 | Author's positive case | Among the nation's most impressive athletes at the position, an electric dual threat, with Klein's return meaning what the guide calls a perfect scheme fit. |
+| 16 | Author's concerns | He did not improve in 2025 on his 2024 production, and the guide says he must earn back lost trust. |
+| 17 | Scheme / coordinator fit | Called a perfect fit — Matt Klein's return should suit him — though the guide adds separately that it is not sold on Klein instantly fixing the offense. |
+| 18 | Supporting-cast considerations | Weakened at receiver. Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat and his big-play ability drew Lane Kiffin, so he is now at LSU. Jaron Tibbs and Josh Manning have been productive before, but the guide asks whether either can consistently create space when Klein is not scheming them open, and offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout. It calls the receiver group mediocre. |
+| 19 | Relevant portal context | Jayce Brown left for LSU; Izaiah Williams followed Klein from Texas A&M. |
+| 20 | Betting implications explicitly discussed by VSiN | Recommendation is Under 7.5 wins. The guide acknowledges why people like the Wildcats as sneaky-good while judging seven wins likelier than eight, and lists its doubts: home games are the tougher ones, Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan, questions stopping the run remain, it is not sold on Klein instantly fixing the offense, Johnson must earn back lost trust, and the receiver group is mediocre. |
+| 21 | VSiN team outlook dependency on QB performance | Very high. The guide ties the win total explicitly to the quarterback — eight or nine wins requires him sharper as a passer while keeping his running threat. |
 | 22 | Relevant page references | pp. 134–135 |
 | 23 | Source conflicts / ambiguities | Not addressed in guide. |
 
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/kansas_state_wildcats.md](../02_Team_Database/ka
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### NO VSIN POSITION
+### ALIGNED
 
-The guide names no expected starter clearly enough to test.
+Verified state names the same quarterback the guide expected.
 
 | | |
 | --- | --- |
-| VSiN preseason expectation | Not addressed in guide. |
+| VSiN preseason expectation | Avery Johnson |
 | Current verified state | Avery Johnson |
-| Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 5 |
+| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
+| Monitoring priority score | 25 |
 
-Priority drivers: no VSiN preseason position.
+Priority drivers: VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 
