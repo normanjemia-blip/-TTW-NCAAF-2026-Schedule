@@ -15,26 +15,26 @@
 | 3 | Head coach | Will Hall |
 | 4 | Head-coach tenure | 1st season |
 | 5 | New / returning head coach | **New** — the Stability Score table (p. 44) awards 0 points for a returning head coach |
-| 6 | Previous head-coaching experience | Not addressed in guide. |
-| 7 | Offensive coordinator | Not addressed in guide. |
-| 8 | Defensive coordinator | Not addressed in guide. |
-| 9 | New / returning OC | Not addressed in guide. |
-| 10 | New / returning DC | Not addressed in guide. |
-| 11 | Play-caller identity | Not addressed in guide. |
-| 12 | Offensive scheme / philosophy | Not addressed in guide. |
-| 13 | Defensive scheme / philosophy | Not addressed in guide. |
+| 6 | Previous head-coaching experience | Yes, and the guide treats it as the central issue. The Coaching Carousel records that Will Hall had a miserable tenure at Southern Miss, going 14-30 over three seasons and seven games, that he went to Hattiesburg after serving as Tulane's OC in 2019-20, and that he was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach before his star faded. |
+| 7 | Offensive coordinator | Not addressed in guide. Hall was Tulane's pass game coordinator before the promotion. |
+| 8 | Defensive coordinator | Tayler Polk, promoted from co-coordinator to full coordinator. |
+| 9 | New / returning OC | New — the Stability Score table (p. 44) awards 0 points for a returning offensive coordinator. |
+| 10 | New / returning DC | Returning — the Stability Score table (p. 44) awards 3 points for a returning defensive coordinator, and the guide records Polk's promotion from co-coordinator. |
+| 11 | Play-caller identity | Not addressed in guide by name. |
+| 12 | Offensive scheme / philosophy | Not addressed in guide as a named scheme. |
+| 13 | Defensive scheme / philosophy | Not addressed as a named scheme. The guide records the unit struggling against the pass, allowing 262 yards per game and a 67.6% completion rate. |
 | 14 | Tempo tendencies | Not addressed in guide. |
-| 15 | Run/pass tendencies | Not addressed in guide. |
+| 15 | Run/pass tendencies | Not addressed as a stated split. |
 | 16 | Personnel tendencies | Not addressed in guide. |
-| 17 | QB-development history | Not addressed in guide. |
-| 18 | Coordinator/head-coach continuity | Not addressed in guide. |
-| 19 | Staff turnover | Not addressed in guide. |
-| 20 | Prior-school relationships | Not addressed in guide. |
-| 21 | Portal/recruiting implications tied to staff | Not addressed in guide. |
-| 22 | VSiN author's assessment of coaching | Not addressed in guide. |
-| 23 | Coaching strengths | Not addressed in guide. |
-| 24 | Coaching concerns | Not addressed in guide. |
-| 25 | Betting implications explicitly tied to coaching | Not addressed in guide. |
+| 17 | QB-development history | Not addressed as a record. The guide is dryly candid about the room, noting Zeon Chriss-Gremillion has played a very long time in college with a hyphenated name the most notable development, and that Kadin Semonza redshirted without playing after starting at Ball State. |
+| 18 | Coordinator/head-coach continuity | Head coach, offensive coordinator and quarterback all change; the defensive coordinator returns. The Stability Score table (p. 44) prints 0, 0, 3 and 0, plus 1 for 8 returning starters, totalling 4. |
+| 19 | Staff turnover | Substantial, following Jon Sumrall's departure, with the head coach promoted internally from pass game coordinator and the defensive coordinator promoted from co-coordinator. |
+| 20 | Prior-school relationships | Tulane itself for Hall, who has had two stints there including as offensive coordinator in 2019-20. Southern Miss, West Alabama and West Georgia are his head-coaching reference points. The guide notes Sumrall inherited a strong foundation and brought talent from Troy, a luxury Hall may not have. |
+| 21 | Portal/recruiting implications tied to staff | Rated weak relative to the programme's standing. Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits the Polk promotion with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. |
+| 22 | VSiN author's assessment of coaching | Disappointed in the process, then partially self-correcting on the man. The Coaching Carousel says losing Willie Fritz and then Jon Sumrall would be tough for any programme, but that not taking a third swing at a rising name feels like a miss, and concludes it just feels like the Green Wave took the easy route, which seems really disappointing. The team pages revise their own view openly: Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure — which included a conference change — had earned him. Elsewhere they are harsher, calling him an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. |
+| 23 | Coaching strengths | A defensive coordinator promoted internally with retention of the two leading tacklers credited to it, prior familiarity with the programme from two earlier stints, and a documented record of success at West Alabama and West Georgia. |
+| 24 | Coaching concerns | A 14-30 head-coaching record at his last FBS stop, an 11-3 season the guide says was built on a +24 sack differential, four wins while being outgained and five by one score; the loss of the quarterback, leading receiver and much of the production; a portal class ranked seventh in the conference; and a pass defense allowing 262 yards per game. |
+| 25 | Betting implications explicitly tied to coaching | Not addressed in guide as an explicit market recommendation tied to coaching. Its coaching-linked conclusion is that it feels like the 2025 result could come crashing down on Hall, with a projection of 7.56 wins. |
 | 26 | Stability Score information | **4** total (p. 44) — see the component table below |
 | 27 | Relevant page references | team pp. 70–71; Stability Score p. 44; Coaching Carousel p. 29 |
 | 28 | Source conflicts / ambiguities | Not addressed in guide. |
@@ -58,7 +58,7 @@ Steve Makinen's Stability Score (pp. 41–44), reproduced exactly. This library 
 
 *Adam Burke, p. 29. GUIDE CONTENT — TTW reference notes summarising the guide's assessment; the judgement is the guide's.*
 
-Not addressed in guide.
+Adam Burke's objection is to the search rather than only the man: losing Willie Fritz and then Jon Sumrall would be tough for any programme, but not taking a third swing at a rising name feels like a miss. Instead, he writes, Tulane promoted pass game coordinator Will Hall, who had a miserable tenure at Southern Miss, going 14-30 over three seasons and seven games. He gives the fuller arc — Hall went to Hattiesburg after serving as Tulane's OC in 2019-20 and was a fairly hot commodity after some strong seasons at West Alabama and West Georgia as a young head coach, but his star faded after the Southern Miss years. His verdict: it just feels like the Green Wave took the easy route, and that seems really disappointing.
 
 ## 29. Cross-links
 

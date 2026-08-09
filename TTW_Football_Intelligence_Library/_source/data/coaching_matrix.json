@@ -328,17 +328,17 @@
   "stability_score": 4,
   "record_2025": "11-3",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Not addressed in guide. Hall was Tulane's pass game coordinator before the promotion.",
+  "dc": "Tayler Polk, promoted from co-coordinator to full coordinator.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
-  "staff_turnover_major": false,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "70-71",
   "stability_page": 44,
   "carousel_page": 29,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "Tulsa Golden Hurricane",
@@ -359,9 +359,9 @@
   "stability_score": 15,
   "record_2025": "4-8",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Kevin Barbay.",
+  "dc": "Josh Reardon, entering year two of his scheme.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -369,7 +369,7 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "UAB Blazers",
@@ -390,17 +390,17 @@
   "stability_score": 7,
   "record_2025": "4-8",
   "in_carousel": true,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
-  "scheme_change": false,
-  "staff_turnover_major": false,
+  "oc": "Alex Mortensen himself — he was coordinator when promoted, kept calling plays as interim and will continue while overseeing the whole programme.",
+  "dc": "Todd Grantham, a veteran who has coached at premier college programmes and in the NFL, replacing Steve Russ.",
+  "play_caller": "Alex Mortensen on offense, explicitly, and the guide asks whether he should be — finding a mitigating factor in Grantham, who has been around long enough not to need supervision.",
+  "scheme_change": true,
+  "staff_turnover_major": true,
   "qb_developer": false,
   "pages": "74-75",
   "stability_page": 44,
   "carousel_page": 33,
   "conflicts": 2,
-  "has_note": false
+  "has_note": true
  },
  {
   "team": "UTSA Roadrunners",
@@ -421,9 +421,9 @@
   "stability_score": 12,
   "record_2025": "7-6",
   "in_carousel": false,
-  "oc": "Not addressed in guide.",
-  "dc": "Not addressed in guide.",
-  "play_caller": "Not addressed in guide.",
+  "oc": "Rick Bowie, in after Western Kentucky last season, Abilene Christian in 2024 and Valdosta State in 2022-23.",
+  "dc": "Jess Loepp, in the role since 2020.",
+  "play_caller": "Not addressed in guide by name.",
   "scheme_change": false,
   "staff_turnover_major": false,
   "qb_developer": false,
@@ -431,6 +431,6 @@
   "stability_page": 44,
   "carousel_page": null,
   "conflicts": 0,
-  "has_note": false
+  "has_note": true
  }
 ]
