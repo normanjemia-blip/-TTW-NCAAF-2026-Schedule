@@ -1,0 +1,32 @@
+{
+  "heisman|_framing": {
+    "summary": "Cohen frames the market with three observations before naming a pick. First, the Heisman has become a quarterback's award: only five non-quarterbacks have won since 2000, Travis Hunter in 2024 being the rare two-way exception, and four of the last five winners have been quarterbacks since NIL money began flowing openly in July 2021. Second, three of the last four winners were what he calls hired guns — Caleb Williams, Jayden Daniels and Fernando Mendoza all won after transferring in from other power programmes. Third, the preseason favourite rarely wins: CJ Carr and Arch Manning top the board depending on the book, both carrying warranted hype, but if either wins it would be the first time since 2014 that the preseason favourite has done so.",
+    "depends_on": "historical base rates at the position, in the portal era, and among preseason favourites",
+    "conflicts": "Not addressed in guide."
+  },
+  "heisman|_monitoring": {
+    "summary": "Cohen names four favourites and then adds one he is watching rather than betting: the Alabama quarterback competition between Keelon Russell and Austin Mack. He states he is monitoring it closely without attaching a price or a recommendation to it.",
+    "depends_on": "an unresolved quarterback competition",
+    "conflicts": "No price is printed for this and no bet is made, so it is recorded as a stated interest rather than as a fifth pick. It is not counted among the four."
+  },
+  "heisman|Darian Mensah": {
+    "summary": "Cohen argues nobody raids the portal like Mario Cristobal, and that with offensive coordinator Shannon Dawson's help Miami has landed Cam Ward, Carson Beck and now Mensah. He traces the returns: Ward left as the No. 1 pick in the 2025 draft after 4,313 yards, 39 touchdowns and seven interceptions in his final college season; Beck went in the third round of the 2026 draft after 3,813 yards and 30 touchdowns. He judges Mensah to arrive more polished than either was at the same stage, having thrown for 3,973 yards with 34 touchdowns and six interceptions last season while surrounded by underwhelming talent, and posting an 85.0 PFF passer grade.",
+    "depends_on": "coaching and scheme (Cristobal, Dawson) and the programme's record of quarterback development; the player's prior production",
+    "conflicts": "Dustin Swedelson bets the same player on p. 10 at 16-1 while Cohen prices him at 12-1 on p. 39, and John McKechnie separately backs Miami to win the national title on the strength of the same arrival. Three positions, three prices, reproduced separately."
+  },
+  "heisman|John Mateer": {
+    "summary": "Cohen finds 25-1 a little surprising. Early last season Mateer looked bound for the Heisman, putting up what Cohen calls absurd numbers as both thrower and runner through four games, until a broken thumb on his throwing hand changed everything: he returned, threw three interceptions against Texas on October 11, and never seemed the same. Mateer enters 2026 at full strength, which Cohen expects to let him start fast even against a difficult Oklahoma schedule. He is back in Ben Arbuckle's offense, which Cohen says he has mastered, with an excellent group of pass catchers and an improved line in front of him.",
+    "depends_on": "the player's health after an in-season injury; scheme continuity (Arbuckle); supporting cast; schedule as the offsetting risk",
+    "conflicts": "Not addressed in guide."
+  },
+  "heisman|Marcel Reed": {
+    "summary": "Cohen notes Reed received no votes last season but was not far from a seat at the table, having thrown for 3,169 yards with 25 touchdowns and rushed for 493 yards and six scores as, in his phrase, the drink-stirrer for one of the best teams in the country. Another year of experience should raise that. Texas A&M has a new offensive coordinator in Holmon Wiggins, but Cohen points out Wiggins was the receivers coach and co-coordinator last season, so the offense should not change much and Reed is fully comfortable in it. He observes the Aggies do not ask a great deal of Reed as a passer while he is capable of most throws, and that the room left for improvisation is where his elite rushing ability shows.",
+    "depends_on": "the player's prior production and experience; coordinator continuity in substance despite a title change; scheme fit",
+    "conflicts": "Cohen prices Reed as a Heisman candidate on the same continuity argument Makinen uses to bet Texas A&M Over 8.5 on pp. 22–27, while John McKechnie bets the same team Under 8.5 on the view that Reed's limitations are hard to fix in one offseason. All three readings of the same quarterback are reproduced and none is resolved."
+  },
+  "heisman|Drew Mestemaker": {
+    "summary": "Cohen notes Mestemaker led all of FBS in passing last year with 4,379 yards, 34 touchdowns and nine interceptions in what he calls a masterful freshman season, then followed head coach Eric Morris from North Texas to Oklahoma State alongside several former teammates. He acknowledges the jump in competition — strong Big 12 defenses after soft AAC units — but expects him to handle it as a future first-round pick behind a better offensive line, with serious skill talent and an offense he knows intimately. His stated reservation is team success: making the playoff is not required for Heisman contention, but he judges Mestemaker probably needs about eight wins to win voters over, which may be unlikely in year one. He notes Oklahoma State's defense returns only four players with starting experience under new coordinator Skyler Cassity, and calls the player worth a flier at 75-1.",
+    "depends_on": "the player's production and his move with the coaching staff; step up in competition; team win total as the gating condition; the new defense",
+    "conflicts": "Cohen prices Mestemaker at 75-1 here while Pauly Howard bets Oklahoma State Over 5.5 wins on p. 7 partly on the same quarterback. Cohen's own note that eight wins are probably needed sits against a total set at 5.5. Both are reproduced."
+  }
+}
