@@ -71,18 +71,36 @@ def build_stability(raw, angles):
     s = angles["stability_system"]
     comps = raw["components"]
     sysrec = {x["label"]: x for x in raw["systems"]}
-    long_run = sysrec.get("College Football Stability System — long-run record")
-    last = sysrec.get("College Football Stability System — 2025 season")
+    play_on = sysrec["College Football Stability System — PLAY ON rule"]
+    fade = sysrec["College Football Stability System — FADE rule"]
+    long_run = play_on
+    last = sysrec["College Football Stability System — 2025 season"]
+    fade_last = sysrec.get("FADE rule — 2025 season")
+    losing = sysrec.get("Revised Stability Score Edge System — losing seasons")
 
     L = [f"# {s['title']} — {pp(s['pages'])}\n", GUIDE, "",
          f"*{s['author']}.* The guide's only fully specified betting system, "
          f"and the one it supplies the most historical evidence for.", "",
-         "## The two records that must travel together\n",
-         "| | Record as printed | ATS % |",
-         "| --- | --- | --- |",
-         f"| **Long run**, {long_run['span']} | {long_run['su_record']} SU, "
-         f"{long_run['ats_record']} ATS | {long_run['ats_pct_printed']}% |",
-         f"| **2025 season** | {last['ats_record']} ATS | — |", "",
+         "## The revised system is two rules, each with its own record\n",
+         "Makinen calls this his *official new College Football Stability "
+         "System(s)* — plural. Both rules apply to non-conference games in "
+         "the first four weeks, and both exclude games with a point spread "
+         "of -30 or higher for either team.\n",
+         "| Rule | Condition | Record as printed | ATS % | Span |",
+         "| --- | --- | --- | --- | --- |",
+         f"| **PLAY ON** | {play_on['condition']} | {play_on['su_record']} SU, "
+         f"{play_on['ats_record']} ATS | {play_on['ats_pct_printed']}% | "
+         f"{play_on['span']} |",
+         f"| **FADE** | {fade['condition']} | {fade['su_record']} SU, "
+         f"{fade['ats_record']} ATS | {fade['ats_pct_printed']}% | "
+         f"{fade['span']} |", "",
+         "## And what each did last season\n",
+         "| | 2025 |", "| --- | --- |",
+         f"| System as run in 2025 | **{last['ats_record']} ATS** |",
+         f"| FADE angle | **{fade_last['ats_record']} ATS** |"
+         if fade_last else "",
+         (f"| Losing seasons, {losing['span']} | only two, one of them 2025 |"
+          if losing else ""), "",
          f"> ⚠️ **{s['caution']}**\n",
          "## What happened in 2025, in the guide's own account\n",
          s["the_2025_result"], "",

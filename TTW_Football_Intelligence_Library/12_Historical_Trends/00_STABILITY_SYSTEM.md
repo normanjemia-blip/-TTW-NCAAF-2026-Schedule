@@ -8,12 +8,22 @@
 
 *Steve Makinen.* The guide's only fully specified betting system, and the one it supplies the most historical evidence for.
 
-## The two records that must travel together
+## The revised system is two rules, each with its own record
 
-| | Record as printed | ATS % |
-| --- | --- | --- |
-| **Long run**, since 2013 | 335-222 SU, 302-243-12 ATS | 55.4% |
-| **2025 season** | 30-36 ATS | — |
+Makinen calls this his *official new College Football Stability System(s)* — plural. Both rules apply to non-conference games in the first four weeks, and both exclude games with a point spread of -30 or higher for either team.
+
+| Rule | Condition | Record as printed | ATS % | Span |
+| --- | --- | --- | --- | --- |
+| **PLAY ON** | Play ON any team with a STABILITY SCORE EDGE of 6+ in non-conference games in the first four weeks (Weeks 0-3), assuming the game does NOT have a point spread of -30 or higher for either team. | 335-222 SU, 302-243-12 ATS | 55.4% | since 2013 |
+| **FADE** | Play AGAINST any team with STABILITY SCORES of 0-6 in non-conference games in the first four weeks (Weeks 0-3) versus teams with higher scores, assuming the game does NOT have a point spread of -30 or higher for either team. | 259-136 SU, 217-173-4 ATS | 55.6% | since 2013 |
+
+## And what each did last season
+
+| | 2025 |
+| --- | --- |
+| System as run in 2025 | **30-36 ATS** |
+| FADE angle | **22-26 ATS** |
+| Losing seasons, the last 13 years | only two, one of them 2025 |
 
 > ⚠️ **The long-run 55.4% and last season's 30-36 must be read together. Quoting the long-run figure alone would misrepresent a source that leads with the failure and describes the revision it prompted.**
 

@@ -15,7 +15,7 @@ Every historical betting trend and long-run pattern the guide cites, indexed by 
 | [00_STABILITY_SYSTEM.md](00_STABILITY_SYSTEM.md) | the guide's one fully specified system, its 6 components, its long-run record **and its 2025 failure** |
 | [00_BY_ANGLE.md](00_BY_ANGLE.md) | 8 further angles, with the samples the guide prints |
 | [00_BY_TEAM.md](00_BY_TEAM.md) | teams the guide names under an angle, plus all 138 last-season records |
-| [00_TREND_REGISTER.md](00_TREND_REGISTER.md) | all 99 claims, by page |
+| [00_TREND_REGISTER.md](00_TREND_REGISTER.md) | all 98 claims, by page |
 
 ## The constraint that defines this phase
 

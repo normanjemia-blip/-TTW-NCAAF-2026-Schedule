@@ -6,7 +6,7 @@
 
 > **Source class: GUIDE CONTENT.** Every record, percentage, span and threshold below is printed in the 2026 VSiN College Football Betting Guide and is reproduced as printed. **Nothing here is backtested, recomputed, extended or projected** — this library holds no game-level historical data and does not manufacture any. Grouping trends into angles, and any check of a printed record against its printed percentage, are **TTW DERIVED** and labelled where they appear.
 
-**99 historical claims** across **61** of the 67 pages Phase 1 flagged as carrying them, each captured with the span phrase that makes it historical.
+**98 historical claims** across **60** of the 67 pages Phase 1 flagged as carrying them, each captured with the span phrase that makes it historical.
 
 > This is a register, not a curated list. A claim appears here because the guide makes it, whether or not it supports a bet. Team-page header blocks — one season's SU/ATS/O-U for all 138 teams — are **excluded**: they are results, not trends, and Phase 3 already holds them.
 
@@ -234,10 +234,6 @@
 
 - *(For the first time since 2016)* Date Opponent/Projected Line Head Coach: 2025 Record: Schedule strength field ratings (HOME/ROAD) Opponent Power Rating 238 2026 VSiN COLLEGE FOOTBALL BETTING GUIDE total offense defense For the first time since 2016, the Rockets will not be playing for Jason Candle.
 - *(for the first time since 2009)* Hell, for the first time since 2009, Candle isn’t even with the program.
-
-### p. 245
-
-- *(since 2015)* Given the production on offense and the potential for improvement on defense, this seems like a team that could make a surprising appearance in the Mountain West Championship, something that hasn’t happened since 2015. 49 64 51 3 5 37 38 2 3 34 134 98 129 1 42 110 93 135 124 135 80 133 134 129 135 133 123 28.1 14.4 70.3 34:07 50.0% 404.9 5.8 54.8 261 4.8 14.1 58.7% 143.9 10.2 1.1 31.9 13.7 52.4% 4…
 
 ### p. 253
 

@@ -93,20 +93,70 @@ def stability_components(t):
 
 
 def system_record(t):
-    """The Stability System's own long-run record, and last season's."""
+    """The revised Stability System's records, and last season's.
+
+    Makinen's "official new College Football Stability System(s)" is TWO
+    rules, not one, and each carries its own record. An earlier parse took
+    only the first and labelled it as the system's record, which understated
+    what the guide actually publishes.
+    """
     out = []
-    m = re.search(r"\((\d+)-\s*(\d+) SU and (\d+)-(\d+)-(\d+) ATS, "
-                  r"(\d{2}\.\d)% since (\d{4})\)", t)
-    if m:
+    RULE = re.compile(r"\((?:FADE record )?(\d+)-\s*(\d+) SU and "
+                      r"(\d+)-(\d+)(?:-(\d+))? ATS, (\d{2}\.\d)% "
+                      r"since (\d{4})\)")
+    labels = ["College Football Stability System — PLAY ON rule",
+              "College Football Stability System — FADE rule"]
+    conditions = [
+        ("Play ON any team with a STABILITY SCORE EDGE of 6+ in "
+         "non-conference games in the first four weeks (Weeks 0-3), assuming "
+         "the game does NOT have a point spread of -30 or higher for either "
+         "team."),
+        ("Play AGAINST any team with STABILITY SCORES of 0-6 in "
+         "non-conference games in the first four weeks (Weeks 0-3) versus "
+         "teams with higher scores, assuming the game does NOT have a point "
+         "spread of -30 or higher for either team."),
+    ]
+    for i, m in enumerate(RULE.finditer(t)):
+        if i >= len(labels):
+            break
         w, l = int(m.group(3)), int(m.group(4))
+        ats = f"{m.group(3)}-{m.group(4)}" + (f"-{m.group(5)}" if m.group(5) else "")
         out.append({
-            "label": "College Football Stability System — long-run record",
+            "label": labels[i],
+            "condition": conditions[i],
             "su_record": f"{m.group(1)}-{m.group(2)}",
-            "ats_record": f"{m.group(3)}-{m.group(4)}-{m.group(5)}",
+            "ats_record": ats,
             "ats_pct_printed": float(m.group(6)),
             "ats_pct_recomputed": reconcile(w, l, float(m.group(6))),
             "span": f"since {m.group(7)}",
             "page": 40,
+        })
+    m = re.search(r"only two losing seasons, one of them being last year", t)
+    if m:
+        out.append({
+            "label": "Revised Stability Score Edge System — losing seasons",
+            "condition": None,
+            "su_record": None, "ats_record": None,
+            "ats_pct_printed": None, "ats_pct_recomputed": None,
+            "span": "the last 13 years",
+            "page": 40,
+            "note": ("Makinen reports that regression on the tweaked system "
+                     "found only two losing seasons in 13 years, one of them "
+                     "2025."),
+        })
+    m = re.search(r"teams with 0-6 scores, even lost a year ago, as they "
+                  r"were (\d+)-(\d+) ATS", t)
+    if m:
+        out.append({
+            "label": "FADE rule — 2025 season",
+            "condition": None,
+            "su_record": None,
+            "ats_record": f"{m.group(1)}-{m.group(2)}",
+            "ats_pct_printed": None,
+            "ats_pct_recomputed": reconcile(int(m.group(1)), int(m.group(2)), 0),
+            "span": "2025 season",
+            "page": 40,
+            "note": "The second angle lost last year too.",
         })
     m = re.search(r"final record wound up being just (\d+)-(\d+) ATS", t)
     if m:
@@ -174,7 +224,14 @@ def sweep(pages):
             lo = max((b for b in bounds if b <= m.start()), default=0)
             hi = min((b for b in bounds if b >= m.end()), default=len(t))
             sentence = t[lo:hi].strip()
-            if HEADER_BLOCK.search(sentence) or len(sentence) < 25:
+            # A team page's statistics block has no sentence punctuation, so
+            # a span phrase near it captures a wall of figures rather than a
+            # claim. Reject anything that is mostly numbers.
+            words = sentence.split()
+            numeric = sum(1 for w in words
+                          if re.fullmatch(r"[\d.:%+-]+", w))
+            if (HEADER_BLOCK.search(sentence) or len(sentence) < 25
+                    or (words and numeric / len(words) > 0.4)):
                 header += 1
                 continue
             if sentence in seen:
