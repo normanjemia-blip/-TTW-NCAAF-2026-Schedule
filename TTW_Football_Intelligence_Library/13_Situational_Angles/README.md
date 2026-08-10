@@ -1,12 +1,12 @@
 <!-- GENERATED FILE — do not hand-edit.
-     Rebuild:  python3 _tools/build_concepts.py
+     Rebuild:  python3 _tools/build_concepts.py && python3 _tools/build_trends.py
      Source:   2026 VSiN College Football Betting Guide -->
 
 # 13 Situational Angles
 
 > **Two source classes on this page, never mixed in one claim.** *How the guide defines it*, *how the guide uses it* and every page reference are **GUIDE CONTENT**. *Working definition*, *why it matters* and any arithmetic over printed figures are **TTW DERIVED** — this library's words, supplied because the guide supplies none. Where the guide neither defines nor develops a concept, the field reads `Not addressed in guide.` and is not padded out.
 
-The **conceptual half only.** The standing decision for this directory splits it: conceptual material is Phase 9, and historical or system-based material — hit rates, backtested spots, trend records — is Phase 10. Nothing of that kind is constructed here.
+**Both halves are now built.** The standing decision for this directory split it: conceptual material in Phase 9, and historical or system-based material — hit rates, backtested spots, trend records — in Phase 10. The conceptual half is below; the historical half is at the foot of this page, with the detail in [`12_Historical_Trends`](../12_Historical_Trends/README.md).
 
 ## What the guide actually has
 
@@ -37,3 +37,26 @@ The one situational factor the guide does quantify is home-field advantage, and 
 ## Cross-links
 
 - [Situational Betting](../11_Betting_Concepts/situational_betting.md) · [Travel](../11_Betting_Concepts/travel.md) · [Weather](../11_Betting_Concepts/weather.md) · [Home-Field Advantage](../11_Betting_Concepts/home_field_advantage.md)
+
+---
+
+## The historical and system-based half — Phase 10
+
+Phase 9 deferred hit rates, backtested spots and trend records to Phase 10. They are now built, and the honest summary is that the guide has **far less situational history than situational prose**.
+
+The one situational family the guide supports with historical evidence is **offseason transition**, not game context: new head coaches, new coordinators, new quarterbacks and returning-starter counts, all measured over the first four weeks of a season since 2021. Those live in [the Stability System](../12_Historical_Trends/00_STABILITY_SYSTEM.md).
+
+For the classic situational spots — rest advantages, look-ahead and letdown games, short weeks, travel and time zones — **the guide prints no hit rate, no sample and no historical record anywhere**. Contributors argue them game by game, as Phase 9 documented. That absence is the finding, and no rate has been constructed to fill it.
+
+| Situational angle | Historical evidence in the guide |
+| --- | --- |
+| Look-ahead and letdown spots | *none printed* |
+| Rest and short weeks | *none printed* |
+| Travel and time zones | *none printed* |
+| Weather | *none printed* |
+| Home-field advantage | quantified per team as a field rating, but no hit rate is printed |
+| Offseason transition | **yes** — six component records since 2021, plus the system's own record since 2013 |
+
+## Cross-links
+
+- [12 — Historical Trends](../12_Historical_Trends/README.md) · [Stability System](../12_Historical_Trends/00_STABILITY_SYSTEM.md)

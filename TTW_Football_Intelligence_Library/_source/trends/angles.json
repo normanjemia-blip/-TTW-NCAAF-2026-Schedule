@@ -1,0 +1,95 @@
+{
+  "stability_system": {
+    "title": "The College Football Stability System",
+    "author": "Steve Makinen",
+    "pages": [40, 44],
+    "window": "The first four weeks of every season — Weeks 0, 1, 2 and 3.",
+    "premise": "Teams in more stable year-to-year situations are better bets early, while teams that have undergone significant offseason change should be faded. Makinen calls the logic fundamentally sound: returning fewer starters, starting over at quarterback, and welcoming new head coaches or coordinators are all hurdles.",
+    "record_as_printed": "335-222 SU and 302-243-12 ATS, 55.4% since 2013.",
+    "the_2025_result": "30-36 ATS. Makinen reports this as a failure, not a footnote. He had flagged before the 2025 season that programme stability was changing because of the transfer portal, but ran the methodology as-is because the system had suffered only one losing season since 2013. He says it backfired, and that he promised to dig into the nuts and bolts to see whether what he was doing still made sense in this new era.",
+    "what_he_changed": "He reports three findings from that review: conference games were pulling the winning percentage down — teams with an old stability edge of seven points or more in conference games were winning only around 49.5% ATS; games with point spreads of 30 or more were hurting results; and the treatment of certain teams needed revisiting. The revised rule he states is to play against any team with a Stability Score of 0–6 in non-conference games in the first four weeks versus teams with higher scores.",
+    "qb_transfer_rule": "Makinen counts a transfer quarterback as a NEW quarterback even with three years of starting experience elsewhere, because he is still learning new schemes. He allows there are degrees to this.",
+    "scope_limits": "The component trends include FBS vs. FBS games only. The system covers Weeks 0–3 and makes no claim about the rest of the season.",
+    "caution": "The long-run 55.4% and last season's 30-36 must be read together. Quoting the long-run figure alone would misrepresent a source that leads with the failure and describes the revision it prompted."
+  },
+  "added_starters": {
+    "title": "Four or more added starters than the prior season",
+    "author": "Steve Makinen",
+    "pages": [22, 24],
+    "statement_as_printed": "Of the 141 teams over the last five years that brought back at least four starters more than the prior season, only 40 got worse.",
+    "span": "the last five years",
+    "denominator": 141,
+    "applied_to": ["Fresno State Bulldogs", "Florida Atlantic Owls", "Virginia Tech Hokies"],
+    "caution": "The guide prints the denominator, which is more than most angles in the book supply. It does not print what 'got worse' is measured on, nor the record of the 101 that did not."
+  },
+  "nowhere_but_up": {
+    "title": "Nowhere to go but up — four or fewer wins with a poor turnover ratio",
+    "author": "Steve Makinen",
+    "pages": [22, 24],
+    "statement_as_printed": "Since 2021, there have been 21 teams that have won four or fewer games in a season while enduring a -0.8 or worse turnover ratio. Over the last five seasons, the average winning percentage increase of the 21 teams that have done this has been 15.2% SU (+2.1 wins) and 13.3% ATS.",
+    "span": "since 2021",
+    "denominator": 21,
+    "applied_to": ["Syracuse Orange", "Virginia Tech Hokies"],
+    "caution": "The category is named in the guide's own words. 21 teams is a small sample and the guide does not say so; that observation is TTW DERIVED and is not used to discount the angle."
+  },
+  "ats_despite_turnovers": {
+    "title": "Covering despite a poor turnover differential",
+    "author": "Steve Makinen",
+    "pages": [22],
+    "statement_as_printed": "Over the last five seasons, there have been 18 teams that managed to go .500 or better against the spread despite having a -0.8 or worse turnover differential per game.",
+    "span": "the last five seasons",
+    "denominator": 18,
+    "applied_to": [],
+    "caution": "Not addressed in guide."
+  },
+  "losing_despite_outscoring": {
+    "title": "A losing season despite outscoring the opposition",
+    "author": "Steve Makinen",
+    "pages": [23],
+    "statement_as_printed": "There have been 43 teams over the last five seasons that have endured losing seasons despite outscoring their opponents.",
+    "span": "the last five seasons",
+    "denominator": 43,
+    "applied_to": [],
+    "caution": "The guide states the count and not what followed for those 43 teams. The angle is offered as evidence a record understated a team, and the follow-through is left implicit."
+  },
+  "nine_offensive_starters": {
+    "title": "Nine or more returning offensive starters including the quarterback, off a poor ATS season",
+    "author": "Steve Makinen",
+    "pages": [23],
+    "statement_as_printed": "Only three of the last 33 teams since 2021 that had nine or more offensive returning starters, including the quarterback, from a team that won 45% or less of its games against the spread in the prior season, got worse.",
+    "span": "since 2021",
+    "denominator": 33,
+    "applied_to": ["Texas Longhorns", "South Carolina Gamecocks"],
+    "caution": "This is the most specific system in the guide — three conditions stacked — and correspondingly the smallest sample. Makinen calls it a key transitional system he has his eye on."
+  },
+  "heisman_base_rates": {
+    "title": "Heisman base rates",
+    "author": "Zach Cohen",
+    "pages": [39],
+    "statement_as_printed": "Only five non-quarterbacks have won since 2000, Travis Hunter in 2024 being the exception. Four of the last five winners have been quarterbacks since NIL money began flowing openly in July 2021. Three of the last four winners transferred in from another power programme — Caleb Williams, Jayden Daniels and Fernando Mendoza. The preseason favourite rarely wins: if CJ Carr or Arch Manning were to win it would be the first time since 2014.",
+    "span": "since 2000, and since 2014 for the favourite",
+    "denominator": null,
+    "applied_to": [],
+    "caution": "Contributors use these rates to justify reaching a long way down the board — Tim Murray takes Lincoln Kienholz at 100-1 explicitly because long shots have hit two years running."
+  },
+  "win_total_record": {
+    "title": "Makinen's own win-total record",
+    "author": "Steve Makinen",
+    "pages": [22],
+    "statement_as_printed": "My overall four-year record is now 57-42-2 for 57.6%, highlighted by 34-17-1 (66.7%) on Unders.",
+    "span": "four years",
+    "denominator": 101,
+    "applied_to": [],
+    "caution": "Makinen gives this as his stated reason for again favouring Unders. It is a self-reported record; the guide prints no independent audit of it, and this library does not attempt one."
+  },
+  "returning_starters_ats": {
+    "title": "17 or more returning starters, first four weeks",
+    "author": "Steve Makinen",
+    "pages": [40, 41],
+    "statement_as_printed": "Teams with 17+ total returning starters are 107-89 SU and 108-86 ATS (55.7%) in the first four weeks of the CFB season versus teams returning 16 or fewer since 2021.",
+    "span": "since 2021",
+    "denominator": 194,
+    "applied_to": ["Houston Cougars"],
+    "caution": "This is the strongest of the six stability components and the only one above 55%. It is also the component Makinen lists teams for on p. 41."
+  }
+}

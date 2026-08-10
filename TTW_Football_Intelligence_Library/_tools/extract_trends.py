@@ -139,6 +139,10 @@ HEADER_BLOCK = re.compile(r"\bO-U\b|\b\d+(?:st|nd|rd|th) season\b", re.I)
 # three years in a row". A record-only pattern finds almost none of them, so
 # the sweep looks for a SPAN marker -- the thing that makes a claim historical
 # -- and captures the sentence around it for triage.
+# A period followed by whitespace and a capital, a bullet, or a digit-paren
+# list marker. Decimals inside figures do not match.
+SENT_END = re.compile(r"\.(?=\s+(?:[A-Z“”\"']|\d\)|•))")
+
 SPAN = re.compile(
     r"\b(?:since (?:19|20)\d\d"
     r"|(?:in|over|across) the (?:last|past) (?:\w+|\d+) (?:season|year|game|"
@@ -161,11 +165,15 @@ def sweep(pages):
             t = page_text(p)
         except FileNotFoundError:
             continue
+        # Sentence boundaries must not break on decimals. These trends are
+        # full of them -- "-0.500 ATS", "15.4%", "8.7 wins" -- and splitting
+        # on any period truncated a system statement mid-figure.
+        bounds = [0] + [m.end() for m in SENT_END.finditer(t)] + [len(t)]
         seen = set()
         for m in SPAN.finditer(t):
-            lo = t.rfind(".", 0, m.start()) + 1
-            hi = t.find(".", m.end())
-            sentence = t[lo:hi if hi > 0 else len(t)].strip()
+            lo = max((b for b in bounds if b <= m.start()), default=0)
+            hi = min((b for b in bounds if b >= m.end()), default=len(t))
+            sentence = t[lo:hi].strip()
             if HEADER_BLOCK.search(sentence) or len(sentence) < 25:
                 header += 1
                 continue
