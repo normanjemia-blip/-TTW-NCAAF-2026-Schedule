@@ -2,7 +2,7 @@
      Rebuild:  python3 _tools/build_wintotals.py
      Source:   2026 VSiN College Football Betting Guide -->
 
-# Multiple VSiN Signals Agree — 14 teams
+# Multiple VSiN Signals Agree — 19 teams
 
 > **Source class: GUIDE CONTENT.** Every number and argument is printed in the 2026 VSiN College Football Betting Guide. TTW reference notes paraphrase the reasoning; the judgement is the guide's. No outside research, no post-publication updates.
 
@@ -11,14 +11,19 @@ Teams where at least two independent parts of the guide point the same way. Agre
 | Team | Pick | Signals that agree |
 | --- | --- | --- |
 | [Boise State Broncos](boise_state_broncos.md) | **Over 7.5** | team-page pick agrees; his own projected record agrees |
-| [Connecticut Huskies](connecticut_huskies.md) | **Under 5.5** | team-page pick agrees; his own projected record agrees |
+| [Coastal Carolina Chanticleers](coastal_carolina_chanticleers.md) | **Under 4.5** | team-page pick agrees; another contributor is quoted on the same side |
+| [Connecticut Huskies](connecticut_huskies.md) | **Under 5.5** | team-page pick agrees; his own projected record agrees; another contributor is quoted on the same side |
 | [Fresno State Bulldogs](fresno_state_bulldogs.md) | **Over 6.5** | team-page pick agrees; his own projected record agrees |
-| [Iowa State Cyclones](iowa_state_cyclones.md) | **Under 5.5** | team-page pick agrees; his own projected record agrees |
+| [Iowa State Cyclones](iowa_state_cyclones.md) | **Under 5.5** | team-page pick agrees; his own projected record agrees; another contributor is quoted on the same side |
 | [Kansas State Wildcats](kansas_state_wildcats.md) | **Over 7.5** | his own projected record agrees; another contributor is quoted on the same side |
+| [Kentucky Wildcats](kentucky_wildcats.md) | **Under 4.5** | his own projected record agrees; another contributor is quoted on the same side |
+| [Liberty Flames](liberty_flames.md) | **Under 8.5** | his own projected record agrees; another contributor is quoted on the same side |
+| [Memphis Tigers](memphis_tigers.md) | **Under 7.5** | his own projected record agrees; another contributor is quoted on the same side |
 | [Missouri State Bears](missouri_state_bears.md) | **Under 4.5** | team-page pick agrees; his own projected record agrees |
-| [Nebraska Cornhuskers](nebraska_cornhuskers.md) | **Under 6.5** | team-page pick agrees; his own projected record agrees |
-| [Northern Illinois Huskies](northern_illinois_huskies.md) | **Under 3.5** | team-page pick agrees; his own projected record agrees |
-| [Sacramento State Hornets](sacramento_state_hornets.md) | **Under 4.5** | team-page pick agrees; his own projected record agrees |
+| [Nebraska Cornhuskers](nebraska_cornhuskers.md) | **Under 6.5** | team-page pick agrees; his own projected record agrees; another contributor is quoted on the same side |
+| [North Texas Eagles](north_texas_eagles.md) | **Under 5.5** | team-page pick agrees; another contributor is quoted on the same side |
+| [Northern Illinois Huskies](northern_illinois_huskies.md) | **Under 3.5** | team-page pick agrees; his own projected record agrees; another contributor is quoted on the same side |
+| [Sacramento State Hornets](sacramento_state_hornets.md) | **Under 4.5** | team-page pick agrees; his own projected record agrees; another contributor is quoted on the same side |
 | [San Jose State Spartans](san_jose_state_spartans.md) | **Under 4.5** | team-page pick agrees; his own projected record agrees |
 | [South Carolina Gamecocks](south_carolina_gamecocks.md) | **Over 6.5** | his own projected record agrees; another contributor is quoted on the same side |
 | [South Florida Bulls](south_florida_bulls.md) | **Under 8.5** | team-page pick agrees; his own projected record agrees |

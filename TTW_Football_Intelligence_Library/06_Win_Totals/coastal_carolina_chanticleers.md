@@ -14,21 +14,21 @@
 | 4 | Over price | Not addressed in guide. |
 | 5 | Under price | Not addressed in guide. |
 | 6 | VSiN recommendation | **UNDER 4.5** |
-| 7 | Recommendation strength | Not addressed in guide. |
+| 7 | Recommendation strength | Not stated as a strength rating; he reads the low number as the market's own verdict. |
 | 8 | Contributor | Steve Makinen (feature); team page pick printed as **Under 4.5** |
 | 9 | Core Over argument | Not addressed in guide. |
-| 10 | Core Under argument | Not addressed in guide. |
-| 11 | Schedule argument | Not addressed in guide. |
-| 12 | Quarterback argument | Not addressed in guide. |
-| 13 | Coaching argument | Not addressed in guide. |
-| 14 | Returning-production / roster argument | Not addressed in guide. |
-| 17 | Key swing games | Not addressed in guide. |
+| 10 | Core Under argument | A new head coach whose first recruiting class was a nightmare by programme standards, a JUCO transfer atop the quarterback depth chart, very little returning starting experience, and a four-game losing streak carrying into an opener at West Virginia. |
+| 11 | Schedule argument | The opener at West Virginia is where the four-game losing skid must be snapped. |
+| 12 | Quarterback argument | Junior college transfer Tre Guerra sits No. 1 on the depth chart. |
+| 13 | Coaching argument | Ryan Beard's arrival follows Tim Beck's firing, and his first recruiting class is called a nightmare by programme standards. |
+| 14 | Returning-production / roster argument | Very little starting experience coming back. |
+| 17 | Key swing games | The opener at West Virginia. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
 | 20 | Risks to recommendation | Not addressed in guide. |
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
-| 23 | Other VSiN contributor opinions | Not addressed in guide. |
+| 23 | Other VSiN contributor opinions | He reads the low posted number as the experts' collective signal. |
 | 15 | Power-rating context | Makinen rates them **28**; his projected record is 4.6–7.4 overall and 2.9–5.1 in conference |
 | 16 | Conference-strength context | schedule strength 31.78, ranked #110 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
@@ -50,7 +50,7 @@
 
 ## VSiN's argument — TTW reference notes
 
-Not addressed in guide.
+Makinen asks whether there is already cause for concern in Myrtle Beach as Ryan Beard begins. He records the programme as a bowl fixture and Sun Belt contender over the last half-decade, then the decline: Tim Beck failed to live up to Jamey Chadwell's success and was fired after a 6-6 regular season, his swan song a 59-10 loss to James Madison, followed by another bowl defeat. Over the final three regular-season games Beck's team was outscored 155-57, so Coastal opens at West Virginia trying to snap a four-game skid. Beard's first recruiting class he calls a nightmare by programme standards, a junior-college transfer sits atop the depth chart at quarterback, and there is very little starting experience elsewhere. He reads the 4.5 total as the experts telling us this will be a trying season.
 
 ## Cross-links
 

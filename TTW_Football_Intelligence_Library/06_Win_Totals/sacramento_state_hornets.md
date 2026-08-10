@@ -14,21 +14,21 @@
 | 4 | Over price | Not addressed in guide. |
 | 5 | Under price | Not addressed in guide. |
 | 6 | VSiN recommendation | **UNDER 4.5** |
-| 7 | Recommendation strength | Not addressed in guide. |
+| 7 | Recommendation strength | Stated in his own terms: he says if he gave negative Stability Scores, this would qualify. |
 | 8 | Contributor | Steve Makinen (feature); team page pick printed as **Under 4.5** |
 | 9 | Core Over argument | Not addressed in guide. |
-| 10 | Core Under argument | Not addressed in guide. |
-| 11 | Schedule argument | Not addressed in guide. |
+| 10 | Core Under argument | Simultaneous change at coach, staff, roster, division and region, a recruiting class that fell from 73rd to 122nd during the step up, and a documented decline system, with Phil Steele picking them last in the conference. |
+| 11 | Schedule argument | The MAC schedule, the Midwest travel and the midweek games are raised as the transition's practical burdens. |
 | 12 | Quarterback argument | Not addressed in guide. |
-| 13 | Coaching argument | Not addressed in guide. |
-| 14 | Returning-production / roster argument | Not addressed in guide. |
+| 13 | Coaching argument | Alonzo Carter arrives with a new staff into a full programme transition. |
+| 14 | Returning-production / roster argument | An almost entirely new roster, with the incoming class falling 49 ranking positions year over year. |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
-| 19 | Ceiling case | Not addressed in guide. |
-| 20 | Risks to recommendation | Not addressed in guide. |
-| 21 | Relevant futures interaction | Not addressed in guide. |
-| 22 | Relevant best-bet interaction | Not addressed in guide. |
-| 23 | Other VSiN contributor opinions | Not addressed in guide. |
+| 19 | Ceiling case | The programme's own belief that it is ready to compete at FBS level, backed by seven-plus wins in five of the last six seasons. |
+| 20 | Risks to recommendation | That FCS record of consistency is the counterweight he states himself. |
+| 21 | Relevant futures interaction | Phil Steele picks Sacramento State last in the conference, behind UMass. |
+| 22 | Relevant best-bet interaction | He cites the comparison group's 44.2% ATS record. |
+| 23 | Other VSiN contributor opinions | Phil Steele's conference projection is cited directly. |
 | 15 | Power-rating context | Makinen rates them **21.5**; his projected record is 4.2–7.8 overall and 2.9–5.1 in conference |
 | 16 | Conference-strength context | schedule strength 26.52, ranked #136 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
@@ -50,7 +50,7 @@
 
 ## VSiN's argument — TTW reference notes
 
-Not addressed in guide.
+Makinen argues there are varied levels of zero on his stability scale and that Sacramento State would qualify for a negative one if he issued them: new coach Alonzo Carter, a new staff, an almost entirely new roster, a jump from FCS to FBS, and a conference in a completely different part of the country. He flags a counter-intuitive detail — the final FCS season drew a programme-high 73rd-ranked class, and the FBS transition year drew a 122nd-ranked one, wondering whether recruits disliked the MAC schedule, the Midwest and the midweek games. He credits the programme's record of seven-plus wins in five of the last six seasons, then applies the blowout-wins-plus-coaching-change system in which only five of 33 teams improved. Phil Steele picks the Hornets last, behind even UMass at 2.5.
 
 ## Cross-links
 

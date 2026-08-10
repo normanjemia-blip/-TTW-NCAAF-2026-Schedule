@@ -40,6 +40,7 @@ Three kinds appear: the team page recommending the opposite side from the featur
 ### Iowa State Cyclones — feature says **Under 5.5**
 
 - the team page uses 4.5 while the conference table prints 5.5
+- The team page prints Under 4.5 while the feature bets Under 5.5 — the same side at a different number. Both are reproduced.
 
 *Record: [iowa_state_cyclones.md](iowa_state_cyclones.md)*
 
@@ -53,18 +54,21 @@ Three kinds appear: the team page recommending the opposite side from the featur
 ### Kentucky Wildcats — feature says **Under 4.5**
 
 - the team page prints **Over 4.5**, the opposite side
+- The feature leans Under 4.5 while the team page prints Over 4.5. Both are reproduced.
 
 *Record: [kentucky_wildcats.md](kentucky_wildcats.md)*
 
 ### Liberty Flames — feature says **Under 8.5**
 
 - the team page prints **Over 8.5**, the opposite side
+- The feature bets Under 8.5 while the team page prints Over 8.5. Both are reproduced.
 
 *Record: [liberty_flames.md](liberty_flames.md)*
 
 ### Memphis Tigers — feature says **Under 7.5**
 
 - the team page prints **Over 7.5**, the opposite side
+- The feature bets Under 7.5 while the team page prints Over 7.5. Both are reproduced.
 
 *Record: [memphis_tigers.md](memphis_tigers.md)*
 
@@ -119,6 +123,7 @@ Three kinds appear: the team page recommending the opposite side from the featur
 
 - the team page prints **Over 7.5**, the opposite side
 - his own projection of 8.2 wins against a total of 7.5 implies **OVER**
+- The feature bets Under 7.5 while the team page prints Over 7.5. Both are reproduced.
 
 *Record: [toledo_rockets.md](toledo_rockets.md)*
 

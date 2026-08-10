@@ -14,21 +14,21 @@
 | 4 | Over price | Not addressed in guide. |
 | 5 | Under price | Not addressed in guide. |
 | 6 | VSiN recommendation | **UNDER 3.5** |
-| 7 | Recommendation strength | Not addressed in guide. |
+| 7 | Recommendation strength | Stated: he says it is hard to see more than a win or two. |
 | 8 | Contributor | Steve Makinen (feature); team page pick printed as **Under 3.5** |
 | 9 | Core Over argument | Not addressed in guide. |
-| 10 | Core Under argument | Not addressed in guide. |
-| 11 | Schedule argument | Not addressed in guide. |
+| 10 | Core Under argument | An interim first-time head coach, zero returning defensive starters after a coordinator change, a move up in conference, and an offense that scored 17.1 points per game. |
+| 11 | Schedule argument | The move to a new and more challenging conference, and keeping up with the better Mountain West offenses. |
 | 12 | Quarterback argument | Not addressed in guide. |
-| 13 | Coaching argument | Not addressed in guide. |
-| 14 | Returning-production / roster argument | Not addressed in guide. |
+| 13 | Coaching argument | Rob Harley is a first-time head coach under an interim tag, and the defensive coordinator change is the trigger for his decline system. |
+| 14 | Returning-production / roster argument | Zero defensive starters with experience; five offensive starters back plus one transfer, which he says may or may not be a blessing. |
 | 17 | Key swing games | Not addressed in guide. |
-| 18 | Floor case | Not addressed in guide. |
+| 18 | Floor case | He says it is hard to see more than a win or two this season. |
 | 19 | Ceiling case | Not addressed in guide. |
 | 20 | Risks to recommendation | Not addressed in guide. |
 | 21 | Relevant futures interaction | Not addressed in guide. |
-| 22 | Relevant best-bet interaction | Not addressed in guide. |
-| 23 | Other VSiN contributor opinions | Not addressed in guide. |
+| 22 | Relevant best-bet interaction | He cites the comparison group's 44.4% cover rate and 13.9% ATS decline. |
+| 23 | Other VSiN contributor opinions | Phil Steele's guide is cited for the returning-starters count. |
 | 15 | Power-rating context | Makinen rates them **21.5**; his projected record is 2.4–9.6 overall and 1.7–6.3 in conference |
 | 16 | Conference-strength context | schedule strength 36.6, ranked #79 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
@@ -50,7 +50,7 @@
 
 ## VSiN's argument — TTW reference notes
 
-Not addressed in guide.
+Makinen lists the circumstances rather than arguing them: Rob Harley is a first-time head coach, carrying the interim tag, guiding a team through a transition to a tougher conference, and inheriting a 3-9 side. Phil Steele's guide shows Northern Illinois with exactly zero players with defensive starting experience, on a unit that allowed a respectable 24.3 points per game in the MAC. He applies the matching system: of 24 teams changing defensive coordinators after allowing under 25 points with four or fewer defensive starters back, only six improved, and the other 18 fell 26.1% and -3.9 wins, covering 44.4% and allowing 7.9 more points. The offense scored 17.1 points with five starters back, and he asks how they will keep up with the Mountain West's better offenses.
 
 ## Cross-links
 

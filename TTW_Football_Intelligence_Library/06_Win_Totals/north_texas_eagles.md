@@ -14,21 +14,21 @@
 | 4 | Over price | Not addressed in guide. |
 | 5 | Under price | Not addressed in guide. |
 | 6 | VSiN recommendation | **UNDER 5.5** |
-| 7 | Recommendation strength | Not addressed in guide. |
+| 7 | Recommendation strength | Stated bluntly: he says they will undoubtedly be worse and closes with 'look out below'. |
 | 8 | Contributor | Steve Makinen (feature); team page pick printed as **Under 5.5** |
 | 9 | Core Over argument | Not addressed in guide. |
-| 10 | Core Under argument | Not addressed in guide. |
-| 11 | Schedule argument | Not addressed in guide. |
-| 12 | Quarterback argument | Not addressed in guide. |
-| 13 | Coaching argument | Not addressed in guide. |
-| 14 | Returning-production / roster argument | Not addressed in guide. |
-| 17 | Key swing games | Not addressed in guide. |
+| 10 | Core Under argument | The loss of the quarterback behind the nation's highest-scoring offense, a recruiting class ranked fifth-worst in the country, two decline systems, and a brutal opening stretch. |
+| 11 | Schedule argument | A difficult three-game start with a trip to defending champion Indiana first. |
+| 12 | Quarterback argument | Drew Mestemaker's departure, which he calls virtually impossible to replace. |
+| 13 | Coaching argument | Neal Brown's incoming class ranked better than only four programmes nationally, which he calls utter failure to start his tenure. |
+| 14 | Returning-production / roster argument | At least eight fewer returning starters than the prior season, and four or fewer offensive starters back. |
+| 17 | Key swing games | The opener at Indiana, within a difficult three-game start. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
 | 20 | Risks to recommendation | Not addressed in guide. |
 | 21 | Relevant futures interaction | Not addressed in guide. |
-| 22 | Relevant best-bet interaction | Not addressed in guide. |
-| 23 | Other VSiN contributor opinions | Not addressed in guide. |
+| 22 | Relevant best-bet interaction | He cites ATS declines of about 6.3% and 11.7% for the two comparison groups. |
+| 23 | Other VSiN contributor opinions | He notes the oddsmakers themselves have already dropped the number significantly. |
 | 15 | Power-rating context | Makinen rates them **34.5**; his projected record is 5.9–6.1 overall and 4.3–3.7 in conference |
 | 16 | Conference-strength context | schedule strength 34.04, ranked #93 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
@@ -50,7 +50,7 @@
 
 ## VSiN's argument — TTW reference notes
 
-Not addressed in guide.
+Makinen is at his most direct here. North Texas scored the most points in the country last year, and new head coach Neal Brown brought in better recruit and transfer classes than only four other programmes nationally — which he calls, in his own words, utter failure to start a tenure. The biggest loss is quarterback Drew Mestemaker, whom he says is virtually impossible to replace, and he notes the oddsmakers have already dropped the total sharply after a 12-win season, to 5.5. His question is not whether the Mean Green will be worse but how much, and he backs it with two systems on returning starters and on new-coach-plus-new-quarterback situations. He closes on the schedule: a difficult three-game start beginning at defending champion Indiana.
 
 ## Cross-links
 

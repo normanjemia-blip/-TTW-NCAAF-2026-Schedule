@@ -14,14 +14,14 @@
 | 4 | Over price | Not addressed in guide. |
 | 5 | Under price | Not addressed in guide. |
 | 6 | VSiN recommendation | **UNDER 4.5** |
-| 7 | Recommendation strength | Not addressed in guide. |
+| 7 | Recommendation strength | Not stated as a strength rating, though he calls the number possibly overzealous. |
 | 8 | Contributor | Steve Makinen (feature); team page pick printed as **Under 4.5** |
 | 9 | Core Over argument | Not addressed in guide. |
-| 10 | Core Under argument | Not addressed in guide. |
+| 10 | Core Under argument | A team that overachieved on five one-score wins, now with a first-time head coach, a Stability Score of zero, very little returning experience and a new quarterback — the exact profile of a documented decline group. |
 | 11 | Schedule argument | Not addressed in guide. |
-| 12 | Quarterback argument | Not addressed in guide. |
-| 13 | Coaching argument | Not addressed in guide. |
-| 14 | Returning-production / roster argument | Not addressed in guide. |
+| 12 | Quarterback argument | Duke transfer Henry Belin is expected to take over as a senior. |
+| 13 | Coaching argument | Casey Woods takes his first head-coaching job after serving as SMU's offensive coordinator, replacing the coach who led the FBS transition. |
+| 14 | Returning-production / roster argument | Very little experience on the roster and a Stability Score of zero. |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -50,7 +50,7 @@
 
 ## VSiN's argument — TTW reference notes
 
-Not addressed in guide.
+Makinen credits a solid first FBS season — seven wins and a bowl bid, lost to Arkansas State — and then sets out why year two looks harder. Ryan Beard, who led the transition, has gone; Casey Woods arrives from SMU's offensive coordinator job for his first head-coaching role, inheriting a Stability Score of zero and very little experience, with Duke transfer Henry Belin expected at quarterback as a senior. His central statistical point is luck: five of the seven wins came by seven points or fewer. Over 13 seasons, 73 teams that returned 14 or fewer starters with a new quarterback after four or more such close wins saw only 11 improve, with the rest averaging a 2.6-win drop and a 16.7% plunge.
 
 ## Cross-links
 

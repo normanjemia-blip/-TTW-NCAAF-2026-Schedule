@@ -14,21 +14,21 @@
 | 4 | Over price | Not addressed in guide. |
 | 5 | Under price | Not addressed in guide. |
 | 6 | VSiN recommendation | **UNDER 6.5** |
-| 7 | Recommendation strength | Not addressed in guide. |
+| 7 | Recommendation strength | Stated softly: let's go Under on this one. |
 | 8 | Contributor | Steve Makinen (feature); team page pick printed as **Under 6.5** |
 | 9 | Core Over argument | Not addressed in guide. |
-| 10 | Core Under argument | Not addressed in guide. |
-| 11 | Schedule argument | Not addressed in guide. |
+| 10 | Core Under argument | A recruiting class ranked worst in 15 years by a wide margin, repeated failure to meet expectations, a number the market has left roughly where it was, and a brutal closing stretch. |
+| 11 | Schedule argument | The last seven weeks of the Big Ten slate are described as ridiculously tough. |
 | 12 | Quarterback argument | Not addressed in guide. |
-| 13 | Coaching argument | Not addressed in guide. |
-| 14 | Returning-production / roster argument | Not addressed in guide. |
-| 17 | Key swing games | Not addressed in guide. |
+| 13 | Coaching argument | Matt Rhule's repeated failure to deliver the expected step forward, which Makinen says may finally have come crashing down. |
+| 14 | Returning-production / roster argument | The recruit and transfer class ranked 66th, the worst in 15 years by 31 positions. |
+| 17 | Key swing games | Not named individually; the closing seven weeks are treated as the danger. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
 | 20 | Risks to recommendation | Not addressed in guide. |
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
-| 23 | Other VSiN contributor opinions | Not addressed in guide. |
+| 23 | Other VSiN contributor opinions | He argues the oddsmakers set the number without much consideration of personnel change — a criticism of the market rather than a contributor's view. |
 | 15 | Power-rating context | Makinen rates them **50.5**; his projected record is 6.3–5.7 overall and 3.5–5.5 in conference |
 | 16 | Conference-strength context | schedule strength 49.2, ranked #17 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
@@ -50,7 +50,7 @@
 
 ## VSiN's argument — TTW reference notes
 
-Not addressed in guide.
+Makinen's argument is that expectations have repeatedly failed and the market has not adjusted. He notes that last year was supposed to be Matt Rhule's step forward — or the year before, or the one before that — and that years of falling short may finally have caught up. The 2026 recruit and transfer class ranked 66th, which he calls not merely a severe drop from the programme's 15-year average but the worst in that span by 31 positions. Against back-to-back 7-6 seasons the prop sits at 6.5, similar to recent seasons and, in his reading, set without much consideration of what was lost or gained. He judges Nebraska down a bit and calls the last seven weeks of the Big Ten slate ridiculously tough.
 
 ## Cross-links
 
