@@ -16,7 +16,7 @@
 | **Coordinators named** | 115 |
 | **Ranked quarterbacks** | 15 |
 | **Abbreviations defined** | 45 |
-| **Library status** | Phases 1–8 complete and approved; Phase 9 (Betting Concepts) next |
+| **Library status** | Phases 1–10 complete and approved; Phase 11 (Search Optimization) next |
 
 
 ## Built databases
@@ -35,6 +35,8 @@ Phase numbers and directory numbers deliberately differ (`05_Power_Ratings` is P
 | 6 | Power Ratings (138 Makinen ratings) | [05_Power_Ratings/00_MAKINEN_RATINGS.md](../05_Power_Ratings/00_MAKINEN_RATINGS.md) |
 | 7 | Win Totals (29 feature records, 138 posted totals) | [06_Win_Totals/README.md](../06_Win_Totals/README.md) |
 | 8 | Futures (374 attributed predictions, 62 best bets) | [07_Futures/README.md](../07_Futures/README.md) |
+| 9 | Betting Concepts (29 entries) + Statistics Reference | [11_Betting_Concepts/README.md](../11_Betting_Concepts/README.md) |
+| 10 | Historical Trends (9 angles, 98 claims) | [12_Historical_Trends/README.md](../12_Historical_Trends/README.md) |
 
 Separately, the **auxiliary VSiN Preseason Calibration Study** is complete. It sits outside the library's phase numbering and is not a library database; its finding was that the historical paired data needed to calibrate a VSiN weight do not currently exist.
 
@@ -74,6 +76,7 @@ Every question in the project brief maps to a starting file:
 | *What does the guide mean by X?* | [`11_Betting_Concepts`](../11_Betting_Concepts/README.md) — see the breakdown below |
 | *Every slow-tempo offense* | [12 — Statistical Category Index](12_Statistical_Category_Index.md) → [`14_Statistics_Reference`](../14_Statistics_Reference/README.md) |
 | *Every trap game* | [01 — Guide Structure Map](01_Guide_Structure_Map.md) → `10_Schedule_Intelligence` |
+| *Does this angle have a track record?* | [`12_Historical_Trends`](../12_Historical_Trends/README.md) — see the breakdown below |
 | *Every portal-heavy roster* | `09_Transfer_Portal` |
 
 Questions marked with a later phase are **not yet answerable**. The index tells you where the answer will live and what still has to be built — it does not pretend to answer them now.
@@ -140,6 +143,29 @@ Three connected reference layers. `11_Betting_Concepts` explains the ideas, `14_
 **That 21 of 29 figure is a finding, not a shortfall.** The guide's only glossary is the 45-entry list on p. 2; tempo, regression, explosiveness and situational betting are used constantly and defined nowhere. Where the guide neither defines nor develops a concept — Closing Line Value and Conference Strength, one page each — the entry reads `Not addressed in guide.` throughout rather than importing a definition from general betting knowledge. The absence is preserved as metadata.
 
 Two source properties are reproduced rather than corrected: p. 2 prints `PYPG – Passing Yards per Page`, and the defensive statistics table omits plays per game and time of possession, so **defensive tempo cannot be read from this guide at all**. Two teams promoted from FCS carry the table headings with `PARTICIPATED IN FCS IN 2025` in place of every value.
+
+
+### Historical trends — `12_Historical_Trends`
+
+> **These are the guide's own records, reproduced as printed. TTW has NOT independently backtested any of them.** The library holds no game-level historical data, so no hit rate here is recomputed, no span extended and no system re-run. They are **GUIDE CONTENT** — a record of what VSiN published, not a TTW finding.
+
+| Question | Start here |
+| --- | --- |
+| *The Stability System's rules* | [00_STABILITY_SYSTEM.md](../12_Historical_Trends/00_STABILITY_SYSTEM.md) — **two** rules, PLAY ON and FADE, each with its own record |
+| *The stability component records* | [00_STABILITY_SYSTEM.md](../12_Historical_Trends/00_STABILITY_SYSTEM.md) → six components, first four weeks, since 2021 |
+| *Coaching-change history* | same page → new head coaches (110-132 ATS) and new coordinators |
+| *Returning-production history* | same page → 17+ returning starters (108-86 ATS) and 0–7 returning starters |
+| *Quarterback-change history* | same page → new starting quarterbacks (157-172 ATS); a transfer QB counts as NEW |
+| *Win-total historical performance* | [00_BY_ANGLE.md](../12_Historical_Trends/00_BY_ANGLE.md) → Makinen's self-reported 57-42-2, of which 34-17-1 on Unders |
+| *Heisman base rates* | [00_BY_ANGLE.md](../12_Historical_Trends/00_BY_ANGLE.md) → quarterbacks, transfers, and the preseason favourite |
+| *Angles applied to a specific team* | [00_BY_TEAM.md](../12_Historical_Trends/00_BY_TEAM.md) — only the **7 teams the guide names**; the other 131 carry none |
+| *Situational systems with a printed record* | [`13_Situational_Angles`](../13_Situational_Angles/README.md) — offseason transition only; rest, travel, look-ahead spots and weather have **no printed history at all** |
+| *Every historical claim, by page* | [00_TREND_REGISTER.md](../12_Historical_Trends/00_TREND_REGISTER.md) — 98 claims across 60 pages |
+| *Records that do not match their own percentages* | [00_STABILITY_SYSTEM.md](../12_Historical_Trends/00_STABILITY_SYSTEM.md) → the reconciliation check, and the printed slip beside it |
+
+**Two cautions travel with this database.** A historical record is not a current edge: these describe what happened, not what will. And the Stability System's long-run figures — 55.4% for PLAY ON, 55.6% for FADE, both since 2013 — are **never shown without last season's 30-36 ATS beside them**, because the guide itself leads with that failure and describes the revision it prompted. A validation gate enforces that pairing.
+
+Nothing in this directory is a TTW score, grade, model input or automatic betting rule, and nothing in it should be converted into one. Two source properties are reproduced rather than corrected: a bullet comparing new starting quarterbacks against *returning defensive coordinators*, and a record printed at 45.4% where it rounds to 45.5%.
 
 
 ## Raw source access
