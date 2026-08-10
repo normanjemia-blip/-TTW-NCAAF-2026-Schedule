@@ -1,6 +1,6 @@
 # TTW Football Intelligence Library
 
-**Version 1.3 — Phases 1–4 complete**
+**Version 1.7 — Phases 1–8 complete; Phase 8 (Futures) awaiting owner approval**
 
 TTW's permanent football research encyclopedia, built from the 2026 VSiN College
 Football Betting Guide. The goal is that the 345-page guide never has to be
@@ -29,10 +29,10 @@ That file is the navigation system for everything else.
 | 3 | Team Database | `02_Team_Database` | ✅ **Complete** |
 | 3A | Team Database paraphrase pass | `02_Team_Database` | ✅ **Complete — 138/138** |
 | 4 | Quarterback Database | `04_Quarterback_Database` | ✅ **Complete** |
-| 5 | Coaching Database | `03_Coaching_Database` | ⏸ Pending |
-| 6 | Power Ratings | `05_Power_Ratings` | ⏸ Pending |
-| 7 | Win Totals | `06_Win_Totals` | ⏸ Pending |
-| 8 | Futures | `07_Futures` | ⏸ Pending |
+| 5 | Coaching Database | `03_Coaching_Database` | ✅ **Complete — 138 records** |
+| 6 | Power Ratings | `05_Power_Ratings` | ✅ **Complete — 138 ratings** |
+| 7 | Win Totals | `06_Win_Totals` | ✅ **Complete — 29 records, 138 totals** |
+| 8 | Futures | `07_Futures` | ✅ **Complete — awaiting approval** |
 | 9 | Betting Concepts | `11_Betting_Concepts` | ⏸ Pending |
 | 10 | Historical Trends | `12_Historical_Trends` | ⏸ Pending |
 | 11 | Search Optimization | `99_Search_Index` | ⏸ Pending |
