@@ -1,0 +1,1520 @@
+[
+ {
+  "team": "Air Force Falcons",
+  "conference": "Mountain West",
+  "p47_rating": 37.0,
+  "team_page_rating": 37.0,
+  "team_pages": [
+   244,
+   245
+  ],
+  "agree": true
+ },
+ {
+  "team": "Akron Zips",
+  "conference": "MAC",
+  "p47_rating": 25.0,
+  "team_page_rating": 25.0,
+  "team_pages": [
+   216,
+   217
+  ],
+  "agree": true
+ },
+ {
+  "team": "Alabama Crimson Tide",
+  "conference": "SEC",
+  "p47_rating": 61.0,
+  "team_page_rating": 61.0,
+  "team_pages": [
+   284,
+   285
+  ],
+  "agree": true
+ },
+ {
+  "team": "Appalachian State Mountaineers",
+  "conference": "Sun Belt",
+  "p47_rating": 30.0,
+  "team_page_rating": 30.0,
+  "team_pages": [
+   318,
+   319
+  ],
+  "agree": true
+ },
+ {
+  "team": "Arizona State Sun Devils",
+  "conference": "Big 12",
+  "p47_rating": 49.5,
+  "team_page_rating": 49.5,
+  "team_pages": [
+   118,
+   119
+  ],
+  "agree": true
+ },
+ {
+  "team": "Arizona Wildcats",
+  "conference": "Big 12",
+  "p47_rating": 52.5,
+  "team_page_rating": 52.5,
+  "team_pages": [
+   116,
+   117
+  ],
+  "agree": true
+ },
+ {
+  "team": "Arkansas Razorbacks",
+  "conference": "SEC",
+  "p47_rating": 45.5,
+  "team_page_rating": 45.5,
+  "team_pages": [
+   286,
+   287
+  ],
+  "agree": true
+ },
+ {
+  "team": "Arkansas State Red Wolves",
+  "conference": "Sun Belt",
+  "p47_rating": 33.5,
+  "team_page_rating": 33.5,
+  "team_pages": [
+   332,
+   333
+  ],
+  "agree": true
+ },
+ {
+  "team": "Army Black Knights",
+  "conference": "American",
+  "p47_rating": 40.0,
+  "team_page_rating": 40.0,
+  "team_pages": [
+   50,
+   51
+  ],
+  "agree": true
+ },
+ {
+  "team": "Auburn Tigers",
+  "conference": "SEC",
+  "p47_rating": 52.5,
+  "team_page_rating": 52.5,
+  "team_pages": [
+   288,
+   289
+  ],
+  "agree": true
+ },
+ {
+  "team": "BYU Cougars",
+  "conference": "Big 12",
+  "p47_rating": 57.5,
+  "team_page_rating": 57.5,
+  "team_pages": [
+   122,
+   123
+  ],
+  "agree": true
+ },
+ {
+  "team": "Ball State Cardinals",
+  "conference": "MAC",
+  "p47_rating": 20.0,
+  "team_page_rating": 20.0,
+  "team_pages": [
+   218,
+   219
+  ],
+  "agree": true
+ },
+ {
+  "team": "Baylor Bears",
+  "conference": "Big 12",
+  "p47_rating": 47.0,
+  "team_page_rating": 47.0,
+  "team_pages": [
+   120,
+   121
+  ],
+  "agree": true
+ },
+ {
+  "team": "Boise State Broncos",
+  "conference": "Pac-12",
+  "p47_rating": 50.5,
+  "team_page_rating": 50.5,
+  "team_pages": [
+   266,
+   267
+  ],
+  "agree": true
+ },
+ {
+  "team": "Boston College Eagles",
+  "conference": "ACC",
+  "p47_rating": 37.5,
+  "team_page_rating": 37.5,
+  "team_pages": [
+   80,
+   81
+  ],
+  "agree": true
+ },
+ {
+  "team": "Bowling Green Falcons",
+  "conference": "MAC",
+  "p47_rating": 26.5,
+  "team_page_rating": 26.5,
+  "team_pages": [
+   220,
+   221
+  ],
+  "agree": true
+ },
+ {
+  "team": "Buffalo Bulls",
+  "conference": "MAC",
+  "p47_rating": 28.0,
+  "team_page_rating": 28.0,
+  "team_pages": [
+   222,
+   223
+  ],
+  "agree": true
+ },
+ {
+  "team": "California Golden Bears",
+  "conference": "ACC",
+  "p47_rating": 45.5,
+  "team_page_rating": 45.5,
+  "team_pages": [
+   82,
+   83
+  ],
+  "agree": true
+ },
+ {
+  "team": "Central Michigan Chippewas",
+  "conference": "MAC",
+  "p47_rating": 30.5,
+  "team_page_rating": 30.5,
+  "team_pages": [
+   224,
+   225
+  ],
+  "agree": true
+ },
+ {
+  "team": "Charlotte 49ers",
+  "conference": "American",
+  "p47_rating": 20.5,
+  "team_page_rating": 20.5,
+  "team_pages": [
+   52,
+   53
+  ],
+  "agree": true
+ },
+ {
+  "team": "Cincinnati Bearcats",
+  "conference": "Big 12",
+  "p47_rating": 44.5,
+  "team_page_rating": 44.5,
+  "team_pages": [
+   124,
+   125
+  ],
+  "agree": true
+ },
+ {
+  "team": "Clemson Tigers",
+  "conference": "ACC",
+  "p47_rating": 54.0,
+  "team_page_rating": 54.0,
+  "team_pages": [
+   84,
+   85
+  ],
+  "agree": true
+ },
+ {
+  "team": "Coastal Carolina Chanticleers",
+  "conference": "Sun Belt",
+  "p47_rating": 28.0,
+  "team_page_rating": 28.0,
+  "team_pages": [
+   320,
+   321
+  ],
+  "agree": true
+ },
+ {
+  "team": "Colorado Buffaloes",
+  "conference": "Big 12",
+  "p47_rating": 43.0,
+  "team_page_rating": 43.0,
+  "team_pages": [
+   126,
+   127
+  ],
+  "agree": true
+ },
+ {
+  "team": "Colorado State Rams",
+  "conference": "Pac-12",
+  "p47_rating": 32.5,
+  "team_page_rating": 32.5,
+  "team_pages": [
+   268,
+   269
+  ],
+  "agree": true
+ },
+ {
+  "team": "Connecticut Huskies",
+  "conference": "Independents",
+  "p47_rating": 31.5,
+  "team_page_rating": 31.5,
+  "team_pages": [
+   210,
+   211
+  ],
+  "agree": true
+ },
+ {
+  "team": "Delaware Fightin’ Blue Hens",
+  "conference": "Conference USA",
+  "p47_rating": 31.0,
+  "team_page_rating": 31.0,
+  "team_pages": [
+   188,
+   189
+  ],
+  "agree": true
+ },
+ {
+  "team": "Duke Blue Devils",
+  "conference": "ACC",
+  "p47_rating": 46.5,
+  "team_page_rating": 46.5,
+  "team_pages": [
+   86,
+   87
+  ],
+  "agree": true
+ },
+ {
+  "team": "East Carolina Pirates",
+  "conference": "American",
+  "p47_rating": 40.5,
+  "team_page_rating": 40.5,
+  "team_pages": [
+   54,
+   55
+  ],
+  "agree": true
+ },
+ {
+  "team": "Eastern Michigan Eagles",
+  "conference": "MAC",
+  "p47_rating": 28.0,
+  "team_page_rating": 28.0,
+  "team_pages": [
+   226,
+   227
+  ],
+  "agree": true
+ },
+ {
+  "team": "FIU Golden Panthers",
+  "conference": "Conference USA",
+  "p47_rating": 28.5,
+  "team_page_rating": 28.5,
+  "team_pages": [
+   190,
+   191
+  ],
+  "agree": true
+ },
+ {
+  "team": "Florida Atlantic Owls",
+  "conference": "American",
+  "p47_rating": 33.5,
+  "team_page_rating": 33.5,
+  "team_pages": [
+   56,
+   57
+  ],
+  "agree": true
+ },
+ {
+  "team": "Florida Gators",
+  "conference": "SEC",
+  "p47_rating": 55.5,
+  "team_page_rating": 55.5,
+  "team_pages": [
+   290,
+   291
+  ],
+  "agree": true
+ },
+ {
+  "team": "Florida State Seminoles",
+  "conference": "ACC",
+  "p47_rating": 50.0,
+  "team_page_rating": 50.0,
+  "team_pages": [
+   88,
+   89
+  ],
+  "agree": true
+ },
+ {
+  "team": "Fresno State Bulldogs",
+  "conference": "Pac-12",
+  "p47_rating": 42.5,
+  "team_page_rating": 42.5,
+  "team_pages": [
+   270,
+   271
+  ],
+  "agree": true
+ },
+ {
+  "team": "Georgia Bulldogs",
+  "conference": "SEC",
+  "p47_rating": 67.5,
+  "team_page_rating": 67.5,
+  "team_pages": [
+   292,
+   293
+  ],
+  "agree": true
+ },
+ {
+  "team": "Georgia Southern Eagles",
+  "conference": "Sun Belt",
+  "p47_rating": 33.5,
+  "team_page_rating": 33.5,
+  "team_pages": [
+   322,
+   323
+  ],
+  "agree": true
+ },
+ {
+  "team": "Georgia State Panthers",
+  "conference": "Sun Belt",
+  "p47_rating": 23.0,
+  "team_page_rating": 23.0,
+  "team_pages": [
+   324,
+   325
+  ],
+  "agree": true
+ },
+ {
+  "team": "Georgia Tech Yellow Jackets",
+  "conference": "ACC",
+  "p47_rating": 49.0,
+  "team_page_rating": 49.0,
+  "team_pages": [
+   90,
+   91
+  ],
+  "agree": true
+ },
+ {
+  "team": "Hawaii Rainbow Warriors",
+  "conference": "Mountain West",
+  "p47_rating": 38.5,
+  "team_page_rating": 38.5,
+  "team_pages": [
+   246,
+   247
+  ],
+  "agree": true
+ },
+ {
+  "team": "Houston Cougars",
+  "conference": "Big 12",
+  "p47_rating": 53.0,
+  "team_page_rating": 53.0,
+  "team_pages": [
+   128,
+   129
+  ],
+  "agree": true
+ },
+ {
+  "team": "Illinois Fighting Illini",
+  "conference": "Big Ten",
+  "p47_rating": 51.0,
+  "team_page_rating": 51.0,
+  "team_pages": [
+   150,
+   151
+  ],
+  "agree": true
+ },
+ {
+  "team": "Indiana Hoosiers",
+  "conference": "Big Ten",
+  "p47_rating": 66.0,
+  "team_page_rating": 66.0,
+  "team_pages": [
+   152,
+   153
+  ],
+  "agree": true
+ },
+ {
+  "team": "Iowa Hawkeyes",
+  "conference": "Big Ten",
+  "p47_rating": 55.5,
+  "team_page_rating": 55.5,
+  "team_pages": [
+   154,
+   155
+  ],
+  "agree": true
+ },
+ {
+  "team": "Iowa State Cyclones",
+  "conference": "Big 12",
+  "p47_rating": 41.5,
+  "team_page_rating": 41.5,
+  "team_pages": [
+   130,
+   131
+  ],
+  "agree": true
+ },
+ {
+  "team": "Jacksonville State Gamecocks",
+  "conference": "Conference USA",
+  "p47_rating": 34.0,
+  "team_page_rating": 34.0,
+  "team_pages": [
+   192,
+   193
+  ],
+  "agree": true
+ },
+ {
+  "team": "James Madison Dukes",
+  "conference": "Sun Belt",
+  "p47_rating": 41.5,
+  "team_page_rating": 41.5,
+  "team_pages": [
+   326,
+   327
+  ],
+  "agree": true
+ },
+ {
+  "team": "Kansas Jayhawks",
+  "conference": "Big 12",
+  "p47_rating": 46.0,
+  "team_page_rating": 46.0,
+  "team_pages": [
+   132,
+   133
+  ],
+  "agree": true
+ },
+ {
+  "team": "Kansas State Wildcats",
+  "conference": "Big 12",
+  "p47_rating": 51.0,
+  "team_page_rating": 51.0,
+  "team_pages": [
+   134,
+   135
+  ],
+  "agree": true
+ },
+ {
+  "team": "Kennesaw State Owls",
+  "conference": "Conference USA",
+  "p47_rating": 31.5,
+  "team_page_rating": 31.5,
+  "team_pages": [
+   194,
+   195
+  ],
+  "agree": true
+ },
+ {
+  "team": "Kent State Golden Flashes",
+  "conference": "MAC",
+  "p47_rating": 23.5,
+  "team_page_rating": 23.5,
+  "team_pages": [
+   228,
+   229
+  ],
+  "agree": true
+ },
+ {
+  "team": "Kentucky Wildcats",
+  "conference": "SEC",
+  "p47_rating": 47.0,
+  "team_page_rating": 47.0,
+  "team_pages": [
+   294,
+   295
+  ],
+  "agree": true
+ },
+ {
+  "team": "LSU Tigers",
+  "conference": "SEC",
+  "p47_rating": 60.5,
+  "team_page_rating": 60.5,
+  "team_pages": [
+   296,
+   297
+  ],
+  "agree": true
+ },
+ {
+  "team": "Liberty Flames",
+  "conference": "Conference USA",
+  "p47_rating": 34.5,
+  "team_page_rating": 34.5,
+  "team_pages": [
+   196,
+   197
+  ],
+  "agree": true
+ },
+ {
+  "team": "Louisiana Ragin’ Cajuns",
+  "conference": "Sun Belt",
+  "p47_rating": 32.5,
+  "team_page_rating": 32.5,
+  "team_pages": [
+   334,
+   335
+  ],
+  "agree": true
+ },
+ {
+  "team": "Louisiana Tech Bulldogs",
+  "conference": "Sun Belt",
+  "p47_rating": 33.0,
+  "team_page_rating": 33.0,
+  "team_pages": [
+   338,
+   339
+  ],
+  "agree": true
+ },
+ {
+  "team": "Louisville Cardinals",
+  "conference": "ACC",
+  "p47_rating": 53.5,
+  "team_page_rating": 53.5,
+  "team_pages": [
+   92,
+   93
+  ],
+  "agree": true
+ },
+ {
+  "team": "Marshall Thundering Herd",
+  "conference": "Sun Belt",
+  "p47_rating": 34.0,
+  "team_page_rating": 34.0,
+  "team_pages": [
+   328,
+   329
+  ],
+  "agree": true
+ },
+ {
+  "team": "Maryland Terrapins",
+  "conference": "Big Ten",
+  "p47_rating": 45.5,
+  "team_page_rating": 45.5,
+  "team_pages": [
+   156,
+   157
+  ],
+  "agree": true
+ },
+ {
+  "team": "Massachusetts Minutemen",
+  "conference": "MAC",
+  "p47_rating": 16.0,
+  "team_page_rating": 16.0,
+  "team_pages": [
+   230,
+   231
+  ],
+  "agree": true
+ },
+ {
+  "team": "Memphis Tigers",
+  "conference": "American",
+  "p47_rating": 41.0,
+  "team_page_rating": 41.0,
+  "team_pages": [
+   58,
+   59
+  ],
+  "agree": true
+ },
+ {
+  "team": "Miami (Ohio) RedHawks",
+  "conference": "MAC",
+  "p47_rating": 36.0,
+  "team_page_rating": 36.0,
+  "team_pages": [
+   232,
+   233
+  ],
+  "agree": true
+ },
+ {
+  "team": "Miami Hurricanes",
+  "conference": "ACC",
+  "p47_rating": 63.0,
+  "team_page_rating": 63.0,
+  "team_pages": [
+   94,
+   95
+  ],
+  "agree": true
+ },
+ {
+  "team": "Michigan State Spartans",
+  "conference": "Big Ten",
+  "p47_rating": 42.5,
+  "team_page_rating": 42.5,
+  "team_pages": [
+   160,
+   161
+  ],
+  "agree": true
+ },
+ {
+  "team": "Michigan Wolverines",
+  "conference": "Big Ten",
+  "p47_rating": 59.0,
+  "team_page_rating": 59.0,
+  "team_pages": [
+   158,
+   159
+  ],
+  "agree": true
+ },
+ {
+  "team": "Middle Tennessee Blue Raiders",
+  "conference": "Conference USA",
+  "p47_rating": 21.0,
+  "team_page_rating": 21.0,
+  "team_pages": [
+   198,
+   199
+  ],
+  "agree": true
+ },
+ {
+  "team": "Minnesota Golden Gophers",
+  "conference": "Big Ten",
+  "p47_rating": 49.0,
+  "team_page_rating": 49.0,
+  "team_pages": [
+   162,
+   163
+  ],
+  "agree": true
+ },
+ {
+  "team": "Mississippi State Bulldogs",
+  "conference": "SEC",
+  "p47_rating": 47.0,
+  "team_page_rating": 47.0,
+  "team_pages": [
+   298,
+   299
+  ],
+  "agree": true
+ },
+ {
+  "team": "Missouri State Bears",
+  "conference": "Conference USA",
+  "p47_rating": 25.0,
+  "team_page_rating": 25.0,
+  "team_pages": [
+   200,
+   201
+  ],
+  "agree": true
+ },
+ {
+  "team": "Missouri Tigers",
+  "conference": "SEC",
+  "p47_rating": 54.5,
+  "team_page_rating": 54.5,
+  "team_pages": [
+   300,
+   301
+  ],
+  "agree": true
+ },
+ {
+  "team": "NC State Wolfpack",
+  "conference": "ACC",
+  "p47_rating": 48.0,
+  "team_page_rating": 48.0,
+  "team_pages": [
+   96,
+   97
+  ],
+  "agree": true
+ },
+ {
+  "team": "Navy Midshipmen",
+  "conference": "American",
+  "p47_rating": 44.0,
+  "team_page_rating": 44.0,
+  "team_pages": [
+   60,
+   61
+  ],
+  "agree": true
+ },
+ {
+  "team": "Nebraska Cornhuskers",
+  "conference": "Big Ten",
+  "p47_rating": 50.5,
+  "team_page_rating": 50.5,
+  "team_pages": [
+   164,
+   165
+  ],
+  "agree": true
+ },
+ {
+  "team": "Nevada Wolf Pack",
+  "conference": "Mountain West",
+  "p47_rating": 28.0,
+  "team_page_rating": 28.0,
+  "team_pages": [
+   248,
+   249
+  ],
+  "agree": true
+ },
+ {
+  "team": "New Mexico Lobos",
+  "conference": "Mountain West",
+  "p47_rating": 42.0,
+  "team_page_rating": 42.0,
+  "team_pages": [
+   250,
+   251
+  ],
+  "agree": true
+ },
+ {
+  "team": "New Mexico State Aggies",
+  "conference": "Conference USA",
+  "p47_rating": 25.0,
+  "team_page_rating": 25.0,
+  "team_pages": [
+   202,
+   203
+  ],
+  "agree": true
+ },
+ {
+  "team": "North Carolina Tar Heels",
+  "conference": "ACC",
+  "p47_rating": 44.5,
+  "team_page_rating": 44.5,
+  "team_pages": [
+   98,
+   99
+  ],
+  "agree": true
+ },
+ {
+  "team": "North Dakota State Bison",
+  "conference": "Mountain West",
+  "p47_rating": 37.0,
+  "team_page_rating": 37.0,
+  "team_pages": [
+   252,
+   253
+  ],
+  "agree": true
+ },
+ {
+  "team": "North Texas Eagles",
+  "conference": "American",
+  "p47_rating": 34.5,
+  "team_page_rating": 34.5,
+  "team_pages": [
+   62,
+   63
+  ],
+  "agree": true
+ },
+ {
+  "team": "Northern Illinois Huskies",
+  "conference": "Mountain West",
+  "p47_rating": 21.5,
+  "team_page_rating": 21.5,
+  "team_pages": [
+   254,
+   255
+  ],
+  "agree": true
+ },
+ {
+  "team": "Northwestern Wildcats",
+  "conference": "Big Ten",
+  "p47_rating": 45.5,
+  "team_page_rating": 45.5,
+  "team_pages": [
+   166,
+   167
+  ],
+  "agree": true
+ },
+ {
+  "team": "Notre Dame Fighting Irish",
+  "conference": "Independents",
+  "p47_rating": 68.5,
+  "team_page_rating": 68.5,
+  "team_pages": [
+   212,
+   213
+  ],
+  "agree": true
+ },
+ {
+  "team": "Ohio State Buckeyes",
+  "conference": "Big Ten",
+  "p47_rating": 71.0,
+  "team_page_rating": 71.0,
+  "team_pages": [
+   168,
+   169
+  ],
+  "agree": true
+ },
+ {
+  "team": "Ohio U Bobcats",
+  "conference": "MAC",
+  "p47_rating": 31.5,
+  "team_page_rating": 31.5,
+  "team_pages": [
+   234,
+   235
+  ],
+  "agree": true
+ },
+ {
+  "team": "Oklahoma Sooners",
+  "conference": "SEC",
+  "p47_rating": 61.0,
+  "team_page_rating": 61.0,
+  "team_pages": [
+   302,
+   303
+  ],
+  "agree": true
+ },
+ {
+  "team": "Oklahoma State Cowboys",
+  "conference": "Big 12",
+  "p47_rating": 46.5,
+  "team_page_rating": 46.5,
+  "team_pages": [
+   136,
+   137
+  ],
+  "agree": true
+ },
+ {
+  "team": "Old Dominion Monarchs",
+  "conference": "Sun Belt",
+  "p47_rating": 37.0,
+  "team_page_rating": 37.0,
+  "team_pages": [
+   330,
+   331
+  ],
+  "agree": true
+ },
+ {
+  "team": "Ole Miss Rebels",
+  "conference": "SEC",
+  "p47_rating": 60.5,
+  "team_page_rating": 60.5,
+  "team_pages": [
+   304,
+   305
+  ],
+  "agree": true
+ },
+ {
+  "team": "Oregon Ducks",
+  "conference": "Big Ten",
+  "p47_rating": 68.5,
+  "team_page_rating": 68.5,
+  "team_pages": [
+   170,
+   171
+  ],
+  "agree": true
+ },
+ {
+  "team": "Oregon State Beavers",
+  "conference": "Pac-12",
+  "p47_rating": 32.0,
+  "team_page_rating": 32.0,
+  "team_pages": [
+   272,
+   273
+  ],
+  "agree": true
+ },
+ {
+  "team": "Penn State Nittany Lions",
+  "conference": "Big Ten",
+  "p47_rating": 57.0,
+  "team_page_rating": 57.0,
+  "team_pages": [
+   172,
+   173
+  ],
+  "agree": true
+ },
+ {
+  "team": "Pittsburgh Panthers",
+  "conference": "ACC",
+  "p47_rating": 50.5,
+  "team_page_rating": 50.5,
+  "team_pages": [
+   100,
+   101
+  ],
+  "agree": true
+ },
+ {
+  "team": "Purdue Boilermakers",
+  "conference": "Big Ten",
+  "p47_rating": 39.0,
+  "team_page_rating": 39.0,
+  "team_pages": [
+   174,
+   175
+  ],
+  "agree": true
+ },
+ {
+  "team": "Rice Owls",
+  "conference": "American",
+  "p47_rating": 27.5,
+  "team_page_rating": 27.5,
+  "team_pages": [
+   64,
+   65
+  ],
+  "agree": true
+ },
+ {
+  "team": "Rutgers Scarlet Knights",
+  "conference": "Big Ten",
+  "p47_rating": 42.5,
+  "team_page_rating": 42.5,
+  "team_pages": [
+   176,
+   177
+  ],
+  "agree": true
+ },
+ {
+  "team": "SMU Mustangs",
+  "conference": "ACC",
+  "p47_rating": 55.5,
+  "team_page_rating": 55.5,
+  "team_pages": [
+   102,
+   103
+  ],
+  "agree": true
+ },
+ {
+  "team": "Sacramento State Hornets",
+  "conference": "MAC",
+  "p47_rating": 21.5,
+  "team_page_rating": 21.5,
+  "team_pages": [
+   236,
+   237
+  ],
+  "agree": true
+ },
+ {
+  "team": "Sam Houston State Bearkats",
+  "conference": "Conference USA",
+  "p47_rating": 18.5,
+  "team_page_rating": 18.5,
+  "team_pages": [
+   204,
+   205
+  ],
+  "agree": true
+ },
+ {
+  "team": "San Diego State Aztecs",
+  "conference": "Pac-12",
+  "p47_rating": 43.0,
+  "team_page_rating": 43.0,
+  "team_pages": [
+   274,
+   275
+  ],
+  "agree": true
+ },
+ {
+  "team": "San Jose State Spartans",
+  "conference": "Mountain West",
+  "p47_rating": 27.0,
+  "team_page_rating": 27.0,
+  "team_pages": [
+   256,
+   257
+  ],
+  "agree": true
+ },
+ {
+  "team": "South Alabama Jaguars",
+  "conference": "Sun Belt",
+  "p47_rating": 29.0,
+  "team_page_rating": 29.0,
+  "team_pages": [
+   340,
+   341
+  ],
+  "agree": true
+ },
+ {
+  "team": "South Carolina Gamecocks",
+  "conference": "SEC",
+  "p47_rating": 54.0,
+  "team_page_rating": 54.0,
+  "team_pages": [
+   306,
+   307
+  ],
+  "agree": true
+ },
+ {
+  "team": "South Florida Bulls",
+  "conference": "American",
+  "p47_rating": 41.0,
+  "team_page_rating": 41.0,
+  "team_pages": [
+   66,
+   67
+  ],
+  "agree": true
+ },
+ {
+  "team": "Southern Miss Golden Eagles",
+  "conference": "Sun Belt",
+  "p47_rating": 25.5,
+  "team_page_rating": 25.5,
+  "team_pages": [
+   342,
+   343
+  ],
+  "agree": true
+ },
+ {
+  "team": "Stanford Cardinal",
+  "conference": "ACC",
+  "p47_rating": 39.0,
+  "team_page_rating": 39.0,
+  "team_pages": [
+   104,
+   105
+  ],
+  "agree": true
+ },
+ {
+  "team": "Syracuse Orange",
+  "conference": "ACC",
+  "p47_rating": 42.0,
+  "team_page_rating": 42.0,
+  "team_pages": [
+   106,
+   107
+  ],
+  "agree": true
+ },
+ {
+  "team": "TCU Horned Frogs",
+  "conference": "Big 12",
+  "p47_rating": 51.0,
+  "team_page_rating": 51.0,
+  "team_pages": [
+   138,
+   139
+  ],
+  "agree": true
+ },
+ {
+  "team": "Temple Owls",
+  "conference": "American",
+  "p47_rating": 34.0,
+  "team_page_rating": 34.0,
+  "team_pages": [
+   68,
+   69
+  ],
+  "agree": true
+ },
+ {
+  "team": "Tennessee Volunteers",
+  "conference": "SEC",
+  "p47_rating": 57.0,
+  "team_page_rating": 57.0,
+  "team_pages": [
+   308,
+   309
+  ],
+  "agree": true
+ },
+ {
+  "team": "Texas A&M Aggies",
+  "conference": "SEC",
+  "p47_rating": 62.5,
+  "team_page_rating": 62.5,
+  "team_pages": [
+   312,
+   313
+  ],
+  "agree": true
+ },
+ {
+  "team": "Texas Longhorns",
+  "conference": "SEC",
+  "p47_rating": 66.0,
+  "team_page_rating": 66.0,
+  "team_pages": [
+   310,
+   311
+  ],
+  "agree": true
+ },
+ {
+  "team": "Texas State Bobcats",
+  "conference": "Pac-12",
+  "p47_rating": 37.5,
+  "team_page_rating": 37.5,
+  "team_pages": [
+   276,
+   277
+  ],
+  "agree": true
+ },
+ {
+  "team": "Texas Tech Red Raiders",
+  "conference": "Big 12",
+  "p47_rating": 61.5,
+  "team_page_rating": 61.5,
+  "team_pages": [
+   140,
+   141
+  ],
+  "agree": true
+ },
+ {
+  "team": "Toledo Rockets",
+  "conference": "MAC",
+  "p47_rating": 35.5,
+  "team_page_rating": 35.5,
+  "team_pages": [
+   238,
+   239
+  ],
+  "agree": true
+ },
+ {
+  "team": "Troy Trojans",
+  "conference": "Sun Belt",
+  "p47_rating": 36.0,
+  "team_page_rating": 36.0,
+  "team_pages": [
+   344,
+   345
+  ],
+  "agree": true
+ },
+ {
+  "team": "Tulane Green Wave",
+  "conference": "American",
+  "p47_rating": 42.5,
+  "team_page_rating": 42.5,
+  "team_pages": [
+   70,
+   71
+  ],
+  "agree": true
+ },
+ {
+  "team": "Tulsa Golden Hurricane",
+  "conference": "American",
+  "p47_rating": 32.5,
+  "team_page_rating": 32.5,
+  "team_pages": [
+   72,
+   73
+  ],
+  "agree": true
+ },
+ {
+  "team": "UAB Blazers",
+  "conference": "American",
+  "p47_rating": 26.0,
+  "team_page_rating": 26.0,
+  "team_pages": [
+   74,
+   75
+  ],
+  "agree": true
+ },
+ {
+  "team": "UCF Golden Knights",
+  "conference": "Big 12",
+  "p47_rating": 44.5,
+  "team_page_rating": 44.5,
+  "team_pages": [
+   142,
+   143
+  ],
+  "agree": true
+ },
+ {
+  "team": "UCLA Bruins",
+  "conference": "Big Ten",
+  "p47_rating": 48.0,
+  "team_page_rating": 48.0,
+  "team_pages": [
+   178,
+   179
+  ],
+  "agree": true
+ },
+ {
+  "team": "ULM Warhawks",
+  "conference": "Sun Belt",
+  "p47_rating": 22.0,
+  "team_page_rating": 22.0,
+  "team_pages": [
+   336,
+   337
+  ],
+  "agree": true
+ },
+ {
+  "team": "UNLV Rebels",
+  "conference": "Mountain West",
+  "p47_rating": 44.0,
+  "team_page_rating": 44.0,
+  "team_pages": [
+   258,
+   259
+  ],
+  "agree": true
+ },
+ {
+  "team": "USC Trojans",
+  "conference": "Big Ten",
+  "p47_rating": 60.0,
+  "team_page_rating": 60.0,
+  "team_pages": [
+   180,
+   181
+  ],
+  "agree": true
+ },
+ {
+  "team": "UTEP Miners",
+  "conference": "Mountain West",
+  "p47_rating": 22.5,
+  "team_page_rating": 22.5,
+  "team_pages": [
+   260,
+   261
+  ],
+  "agree": true
+ },
+ {
+  "team": "UTSA Roadrunners",
+  "conference": "American",
+  "p47_rating": 41.0,
+  "team_page_rating": 41.0,
+  "team_pages": [
+   76,
+   77
+  ],
+  "agree": true
+ },
+ {
+  "team": "Utah State Aggies",
+  "conference": "Pac-12",
+  "p47_rating": 36.5,
+  "team_page_rating": 36.5,
+  "team_pages": [
+   278,
+   279
+  ],
+  "agree": true
+ },
+ {
+  "team": "Utah Utes",
+  "conference": "Big 12",
+  "p47_rating": 54.5,
+  "team_page_rating": 54.5,
+  "team_pages": [
+   144,
+   145
+  ],
+  "agree": true
+ },
+ {
+  "team": "Vanderbilt Commodores",
+  "conference": "SEC",
+  "p47_rating": 51.5,
+  "team_page_rating": 51.5,
+  "team_pages": [
+   314,
+   315
+  ],
+  "agree": true
+ },
+ {
+  "team": "Virginia Cavaliers",
+  "conference": "ACC",
+  "p47_rating": 50.5,
+  "team_page_rating": 50.5,
+  "team_pages": [
+   108,
+   109
+  ],
+  "agree": true
+ },
+ {
+  "team": "Virginia Tech Hokies",
+  "conference": "ACC",
+  "p47_rating": 51.0,
+  "team_page_rating": 51.0,
+  "team_pages": [
+   110,
+   111
+  ],
+  "agree": true
+ },
+ {
+  "team": "Wake Forest Demon Deacons",
+  "conference": "ACC",
+  "p47_rating": 46.5,
+  "team_page_rating": 46.5,
+  "team_pages": [
+   112,
+   113
+  ],
+  "agree": true
+ },
+ {
+  "team": "Washington Huskies",
+  "conference": "Big Ten",
+  "p47_rating": 56.5,
+  "team_page_rating": 56.5,
+  "team_pages": [
+   182,
+   183
+  ],
+  "agree": true
+ },
+ {
+  "team": "Washington State Cougars",
+  "conference": "Pac-12",
+  "p47_rating": 38.0,
+  "team_page_rating": 38.0,
+  "team_pages": [
+   280,
+   281
+  ],
+  "agree": true
+ },
+ {
+  "team": "West Virginia Mountaineers",
+  "conference": "Big 12",
+  "p47_rating": 45.0,
+  "team_page_rating": 45.0,
+  "team_pages": [
+   146,
+   147
+  ],
+  "agree": true
+ },
+ {
+  "team": "Western Kentucky Hilltoppers",
+  "conference": "Conference USA",
+  "p47_rating": 36.5,
+  "team_page_rating": 36.5,
+  "team_pages": [
+   206,
+   207
+  ],
+  "agree": true
+ },
+ {
+  "team": "Western Michigan Broncos",
+  "conference": "MAC",
+  "p47_rating": 37.5,
+  "team_page_rating": 37.5,
+  "team_pages": [
+   240,
+   241
+  ],
+  "agree": true
+ },
+ {
+  "team": "Wisconsin Badgers",
+  "conference": "Big Ten",
+  "p47_rating": 47.5,
+  "team_page_rating": 47.5,
+  "team_pages": [
+   184,
+   185
+  ],
+  "agree": true
+ },
+ {
+  "team": "Wyoming Cowboys",
+  "conference": "Mountain West",
+  "p47_rating": 30.5,
+  "team_page_rating": 30.5,
+  "team_pages": [
+   262,
+   263
+  ],
+  "agree": true
+ }
+]
