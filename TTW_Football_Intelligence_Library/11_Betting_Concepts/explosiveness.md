@@ -30,7 +30,7 @@ As descriptive language about personnel, not as an input to a projection.
 
 ## Where it appears
 
-pp. 5–15 and team prose. There is no table to point at.
+p. 10 in the best-bets feature, then the conference previews from p. 59 onward — pp. 59, 75, 83, 97 and 103 among them. It is a prose concept throughout; there is no table to point at.
 
 *Full page list (29):* 10, 59, 75, 83, 97, 103, 117, 124, 125, 136, 169, 195 … (+17 more)
 

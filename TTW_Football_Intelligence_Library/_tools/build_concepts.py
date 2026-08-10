@@ -256,12 +256,14 @@ def build_statistics(stats, abbr):
     L = ["# 14 Statistics Reference\n", GUIDE, "",
          f"The guide's team statistics: **{len(off)} offensive** and "
          f"**{len(deff)} defensive** categories, each with a value and a "
-         f"national rank out of {len(stats)}, for all **{len(stats)}** teams "
-         f"— **{len(stats) * (len(off) + len(deff)):,}** printed figures.", "",
-         "> **Status corrected.** This directory long carried the note that "
-         "values were *blocked on coordinate-based extraction*. Phase 3 "
-         "resolved them for all 138 teams; the schema and the values are both "
-         "verified, and that stale status line is withdrawn.", "",
+         f"national rank out of {len(stats)}, for **136** of the "
+         f"**{len(stats)}** teams — **{136 * (len(off) + len(deff)):,}** "
+         f"printed figures. The two teams promoted from FCS carry the "
+         f"headings and an explicit notice instead of values; see below.", "",
+         "> **Status corrected.** This directory long carried a note saying "
+         "the values could not yet be extracted. Phase 3 resolved them; the "
+         "schema and the values are both verified, and that stale status is "
+         "withdrawn.", "",
          "## The schema\n",
          "| # | Offensive category | Defensive category |",
          "| --- | --- | --- |"]
@@ -291,6 +293,21 @@ def build_statistics(stats, abbr):
         L.append(f"| {cat} | `{ab}` | {abbr.get(ab, NA)} |")
     L.append(f"\nThe remaining categories are printed as column headings and "
              f"never glossed.\n")
+    fcs = sorted(t for t, v in stats.items()
+                 if not v["stats"].get("offense") and not v["stats"].get("defense"))
+    L.append("## Two teams with no statistics, and the guide says why\n")
+    L.append(f"**{' and '.join(fcs)}** carry the table headings with no "
+             f"values. In place of both tables the guide prints "
+             f"**`PARTICIPATED IN FCS IN 2025`** — twice, once for each side "
+             f"of the ball. Both programmes moved up for 2026, so there are "
+             f"no FBS figures to print.\n")
+    L.append(f"This is an explicit, reasoned absence in the source, not an "
+             f"extraction gap. It is recorded as printed and never filled "
+             f"from FCS statistics or from anywhere else. The printed total "
+             f"is therefore "
+             f"**{(len(stats) - len(fcs)) * (len(off) + len(deff)):,}** "
+             f"figures across {len(stats) - len(fcs)} teams, not "
+             f"{len(stats) * (len(off) + len(deff)):,}.\n")
     L.append("## A note on yards per point\n")
     L.append(f(notes.get("YARDS PER POINT"), "working_definition"))
     L.append("")
@@ -316,6 +333,13 @@ def build_statistics(stats, abbr):
              "| --- | " + " | ".join("---" for _ in cats) + " |"]
         for team in sorted(stats):
             row = {r["category"]: r for r in stats[team]["stats"].get(side, [])}
+            if not row:
+                # The guide prints this in place of both tables for the two
+                # programmes promoted from FCS. Reproduced, never filled in.
+                L.append(f"| [{team}](../02_Team_Database/{slug(team)}) | "
+                         + " | ".join(["*PARTICIPATED IN FCS IN 2025*"]
+                                      + ["—"] * (len(cats) - 1)) + " |")
+                continue
             cells = []
             for c in cats:
                 r = row.get(c)

@@ -87,7 +87,7 @@
 | [New Mexico Lobos](../02_Team_Database/new_mexico_lobos.md) | 22.3 (#39) | 15.2 (#48) | 39.0% (#63) | 339.5 (#30) | 5 (#34) | 112.8 (#19) | 3.4 (#16) | 68.1% (#132) | 226.8 (#74) | 7.3 (#73) | 3 (#6) | 1.3 (#71) |
 | [New Mexico State Aggies](../02_Team_Database/new_mexico_state_aggies.md) | 29.8 (#91) | 13.9 (#83) | 42.0% (#90) | 415.3 (#105) | 5.7 (#80) | 173.8 (#94) | 4.6 (#91) | 64.0% (#92) | 241.5 (#100) | 7.1 (#61) | 1.4 (#112) | 2 (#7) |
 | [North Carolina Tar Heels](../02_Team_Database/north_carolina_tar_heels.md) | 26.2 (#70) | 13.3 (#99) | 42.7% (#95) | 349.4 (#41) | 4.9 (#30) | 125.7 (#28) | 3.6 (#24) | 64.0% (#91) | 223.6 (#65) | 6.7 (#38) | 2.5 (#28) | 0.8 (#116) |
-| [North Dakota State Bison](../02_Team_Database/north_dakota_state_bison.md) | — | — | — | — | — | — | — | — | — | — | — | — |
+| [North Dakota State Bison](../02_Team_Database/north_dakota_state_bison.md) | *PARTICIPATED IN FCS IN 2025* | — | — | — | — | — | — | — | — | — | — | — |
 | [North Texas Eagles](../02_Team_Database/north_texas_eagles.md) | 28.5 (#84) | 14.2 (#79) | 43.7% (#106) | 404.2 (#86) | 5.5 (#64) | 232 (#134) | 5.2 (#124) | 56.9% (#19) | 172.2 (#6) | 6.2 (#16) | 1.6 (#100) | 2 (#7) |
 | [Northern Illinois Huskies](../02_Team_Database/northern_illinois_huskies.md) | 25 (#59) | 14.8 (#58) | 45.0% (#117) | 370.2 (#56) | 5.4 (#58) | 194.5 (#117) | 4.7 (#97) | 59.4% (#33) | 175.6 (#11) | 6.7 (#41) | 1.1 (#127) | 1.1 (#86) |
 | [Northwestern Wildcats](../02_Team_Database/northwestern_wildcats.md) | 20.9 (#27) | 16.4 (#27) | 44.3% (#113) | 342.3 (#36) | 5.6 (#77) | 141.8 (#49) | 4.4 (#72) | 66.1% (#114) | 200.5 (#33) | 7.5 (#88) | 1.8 (#82) | 1.4 (#46) |
@@ -106,7 +106,7 @@
 | [Rice Owls](../02_Team_Database/rice_owls.md) | 34.3 (#122) | 12.2 (#128) | 43.2% (#100) | 416.5 (#106) | 6.3 (#122) | 169 (#88) | 4.8 (#99) | 62.8% (#77) | 247.5 (#110) | 8.6 (#124) | 1.9 (#69) | 0.6 (#133) |
 | [Rutgers Scarlet Knights](../02_Team_Database/rutgers_scarlet_knights.md) | 33.8 (#121) | 13.4 (#98) | 42.3% (#92) | 452.5 (#129) | 7.8 (#136) | 217.6 (#129) | 7 (#136) | 67.5% (#127) | 234.8 (#88) | 8.9 (#132) | 0.8 (#133) | 0.8 (#116) |
 | [SMU Mustangs](../02_Team_Database/smu_mustangs.md) | 21.2 (#31) | 18.8 (#6) | 36.7% (#41) | 398.8 (#83) | 5.1 (#38) | 112.4 (#18) | 3.2 (#14) | 62.3% (#68) | 286.4 (#134) | 7.2 (#66) | 2.8 (#18) | 2.1 (#5) |
-| [Sacramento State Hornets](../02_Team_Database/sacramento_state_hornets.md) | — | — | — | — | — | — | — | — | — | — | — | — |
+| [Sacramento State Hornets](../02_Team_Database/sacramento_state_hornets.md) | *PARTICIPATED IN FCS IN 2025* | — | — | — | — | — | — | — | — | — | — | — |
 | [Sam Houston State Bearkats](../02_Team_Database/sam_houston_state_bearkats.md) | 37.8 (#132) | 12.8 (#115) | 44.7% (#115) | 483.4 (#136) | 6.8 (#134) | 207.5 (#124) | 5.4 (#131) | 70.4% (#135) | 275.9 (#130) | 8.9 (#131) | 1.8 (#82) | 1.5 (#39) |
 | [San Diego State Aztecs](../02_Team_Database/san_diego_state_aztecs.md) | 16.7 (#7) | 18.7 (#8) | 34.0% (#22) | 311.2 (#15) | 4.4 (#7) | 137.1 (#43) | 3.8 (#39) | 54.6% (#7) | 174.1 (#9) | 5.3 (#2) | 2.4 (#32) | 1.5 (#39) |
 | [San Jose State Spartans](../02_Team_Database/san_jose_state_spartans.md) | 32.9 (#116) | 12.3 (#124) | 35.1% (#33) | 405.9 (#88) | 5.9 (#103) | 159.5 (#74) | 4.1 (#53) | 66.5% (#118) | 246.5 (#109) | 8.7 (#125) | 1.5 (#104) | 1.2 (#77) |

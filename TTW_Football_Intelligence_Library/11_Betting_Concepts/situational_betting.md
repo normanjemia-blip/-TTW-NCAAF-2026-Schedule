@@ -30,7 +30,7 @@ Named and argued in prose, one game at a time. The guide prints no situational d
 
 ## Where it appears
 
-p. 21 for the factors feeding home-field advantage; p. 35 for travel; pp. 5–15 and team prose for the worked cases.
+pp. 10 and 13 for the clearest worked cases in the best-bets feature, and pp. 50, 54 and 66 in team prose. p. 21 names rest and travel among the factors feeding home-field advantage, and p. 35 covers travel, though the Phase 1 keyword scan does not tag either page to this concept.
 
 *Full page list (16):* 10, 13, 50, 54, 66, 96, 98, 102, 106, 113, 228, 237 … (+4 more)
 

@@ -6,9 +6,9 @@
 
 > **Source class: GUIDE CONTENT.** Every category, value, rank and abbreviation below is printed in the 2026 VSiN College Football Betting Guide. No outside research, no post-publication updates.
 
-The guide's team statistics: **15 offensive** and **12 defensive** categories, each with a value and a national rank out of 138, for all **138** teams — **3,726** printed figures.
+The guide's team statistics: **15 offensive** and **12 defensive** categories, each with a value and a national rank out of 138, for **136** of the **138** teams — **3,672** printed figures. The two teams promoted from FCS carry the headings and an explicit notice instead of values; see below.
 
-> **Status corrected.** This directory long carried the note that values were *blocked on coordinate-based extraction*. Phase 3 resolved them for all 138 teams; the schema and the values are both verified, and that stale status line is withdrawn.
+> **Status corrected.** This directory long carried a note saying the values could not yet be extracted. Phase 3 resolved them; the schema and the values are both verified, and that stale status is withdrawn.
 
 ## The schema
 
@@ -50,6 +50,12 @@ The defensive table omits three categories the offensive table carries — **pla
 | TURNOVERS | `TO` | Turnovers |
 
 The remaining categories are printed as column headings and never glossed.
+
+## Two teams with no statistics, and the guide says why
+
+**North Dakota State Bison and Sacramento State Hornets** carry the table headings with no values. In place of both tables the guide prints **`PARTICIPATED IN FCS IN 2025`** — twice, once for each side of the ball. Both programmes moved up for 2026, so there are no FBS figures to print.
+
+This is an explicit, reasoned absence in the source, not an extraction gap. It is recorded as printed and never filled from FCS statistics or from anywhere else. The printed total is therefore **3,672** figures across 136 teams, not 3,726.
 
 ## A note on yards per point
 
