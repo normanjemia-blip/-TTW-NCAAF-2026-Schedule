@@ -1,0 +1,1723 @@
+{
+ "page": 4,
+ "title": "2026 Season Predictions",
+ "roster": [
+  "Femi Abebefe",
+  "Matt Brown",
+  "Stormy Buonantony",
+  "Adam Burke",
+  "Zachary Cohen",
+  "Sean Green",
+  "Paul Howard",
+  "Ryan Kramer",
+  "Jensen Lewis",
+  "Steve Makinen",
+  "John McKechnie",
+  "Patrick Meagher",
+  "Mitch Moss",
+  "Tim Murray",
+  "Wes Reynolds",
+  "Scott Seidenberg",
+  "Tyler Shoemaker",
+  "Paul Stone",
+  "Dustin Swedelson",
+  "Dave Tuley",
+  "Matt Youmans",
+  "Jonathan Von Tobel"
+ ],
+ "categories": [
+  {
+   "category": "ACC CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Clemson"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "SMU"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Virginia Tech"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "SMU"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "SMU"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Louisville"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Miami"
+    }
+   ]
+  },
+  {
+   "category": "BIG TEN CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Penn State"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Oregon"
+    }
+   ]
+  },
+  {
+   "category": "BIG 12 CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Kansas State"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Texas Tech"
+    }
+   ]
+  },
+  {
+   "category": "SEC CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Texas A&M"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Georgia"
+    }
+   ]
+  },
+  {
+   "category": "AAC CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Navy"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Navy"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Navy"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Navy"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "East Carolina"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Navy"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Navy"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Navy"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Memphis"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "South Florida"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Navy"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Memphis"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "UTSA"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "UTSA"
+    }
+   ]
+  },
+  {
+   "category": "CUSA CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Liberty"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Liberty"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Delaware"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Liberty"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Liberty"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Delaware"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Liberty"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Liberty"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Delaware"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Liberty"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Liberty"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Western Kentucky"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Jacksonville State"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Liberty"
+    }
+   ]
+  },
+  {
+   "category": "MAC CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Toledo"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Toledo"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Miami (OH)"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "UMass"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Miami (OH)"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Miami (OH)"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Miami (OH)"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Miami (OH)"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Miami (OH)"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Toledo"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Western Michigan"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Miami (OH)"
+    }
+   ]
+  },
+  {
+   "category": "MWC CCHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "UNLV"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "UNLV"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "New Mexico"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "UNLV"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "UNLV"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Air Force"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "New Mexico"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Air Force"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "New Mexico"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "UNLV"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "North Dakota State"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "North Dakota State"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "New Mexico"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "New Mexico"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Air Force"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "UNLV"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "North Dakota State"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Air Force"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "New Mexico"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "UNLV"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "UNLV"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Hawaii"
+    }
+   ]
+  },
+  {
+   "category": "PAC-12 CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "San Diego State"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "San Diego State"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Fresno State"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "San Diego State"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Texas State"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "San Diego State"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Fresno State"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Fresno State"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Boise State"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Fresno State"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Boise State"
+    }
+   ]
+  },
+  {
+   "category": "SUN BELT CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Arkansas State"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Old Dominion"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Old Dominion"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Old Dominion"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Troy"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Marshall"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Old Dominion"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Marshall"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Marshall"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Marshall"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Arkansas State"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Troy"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Marshall"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Arkansas State"
+    }
+   ]
+  },
+  {
+   "category": "SUN BELT CHAMP",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Falcons"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Panthers"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Bucs"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Panthers"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Falcons"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Saints"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Saints"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Saints"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "James Madison"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Bucs"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Saints"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Panthers"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Saints"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Saints"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Panthers"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Falcons"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Falcons"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Bucs"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Bucs"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Bucs"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Falcons"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Saints"
+    }
+   ],
+   "anomaly": "Printed under a Sun Belt label but containing NFL team names. Reproduced exactly as printed and excluded from conference prediction data. Not corrected."
+  },
+  {
+   "category": "CFP FINAL FOUR #1",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Texas A&M"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Notre Dame"
+    }
+   ]
+  },
+  {
+   "category": "CFP FINAL FOUR #2",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Penn State"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Georgia"
+    }
+   ]
+  },
+  {
+   "category": "CFP FINAL FOUR #3",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Alabama"
+    }
+   ]
+  },
+  {
+   "category": "CFP FINAL FOUR #4",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "LSU"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "LSU"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "SMU"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Texas Tech"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Virginia Tech"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Miami"
+    }
+   ]
+  },
+  {
+   "category": "CFP TITLE GAME #1",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Penn State"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Notre Dame"
+    }
+   ]
+  },
+  {
+   "category": "CFP TITLE GAME #2",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Texas A&M"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Virginia Tech"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "BYU"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Indiana"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Alabama"
+    }
+   ]
+  },
+  {
+   "category": "CFP CHAMPION",
+   "page": 4,
+   "picks": [
+    {
+     "contributor": "Femi Abebefe",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Matt Brown",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Stormy Buonantony",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Adam Burke",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Zachary Cohen",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Sean Green",
+     "pick": "Texas A&M"
+    },
+    {
+     "contributor": "Paul Howard",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Ryan Kramer",
+     "pick": "Virginia Tech"
+    },
+    {
+     "contributor": "Jensen Lewis",
+     "pick": "Ohio State"
+    },
+    {
+     "contributor": "Steve Makinen",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "John McKechnie",
+     "pick": "Miami"
+    },
+    {
+     "contributor": "Patrick Meagher",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Mitch Moss",
+     "pick": "Georgia"
+    },
+    {
+     "contributor": "Tim Murray",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Wes Reynolds",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Scott Seidenberg",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Tyler Shoemaker",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Paul Stone",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Dustin Swedelson",
+     "pick": "Oregon"
+    },
+    {
+     "contributor": "Dave Tuley",
+     "pick": "Texas"
+    },
+    {
+     "contributor": "Matt Youmans",
+     "pick": "Notre Dame"
+    },
+    {
+     "contributor": "Jonathan Von Tobel",
+     "pick": "Alabama"
+    }
+   ]
+  }
+ ]
+}
