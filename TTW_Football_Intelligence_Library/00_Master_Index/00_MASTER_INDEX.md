@@ -71,7 +71,8 @@ Every question in the project brief maps to a starting file:
 | *Compare Makinen's rating with TTW* | [09 — Power Rating Index](09_Power_Rating_Index.md) → Phase 6 |
 | *Every win total VSiN bets* | [`06_Win_Totals`](../06_Win_Totals/README.md) — see the breakdown below |
 | *Every SEC futures recommendation* | [`07_Futures`](../07_Futures/README.md) — see the breakdown below |
-| *Every slow-tempo offense* | [12 — Statistical Category Index](12_Statistical_Category_Index.md) → `14_Statistics_Reference` |
+| *What does the guide mean by X?* | [`11_Betting_Concepts`](../11_Betting_Concepts/README.md) — see the breakdown below |
+| *Every slow-tempo offense* | [12 — Statistical Category Index](12_Statistical_Category_Index.md) → [`14_Statistics_Reference`](../14_Statistics_Reference/README.md) |
 | *Every trap game* | [01 — Guide Structure Map](01_Guide_Structure_Map.md) → `10_Schedule_Intelligence` |
 | *Every portal-heavy roster* | `09_Transfer_Portal` |
 
@@ -116,6 +117,29 @@ The guide states a futures position in four separate places, and the database ke
 | *How many of the 22 picked a team* | [00_CONSENSUS.md](../07_Futures/00_CONSENSUS.md) — **TTW DERIVED, arithmetic only** |
 
 The consensus counts are exactly that: a count of printed cells. They are **not** probabilities, confidence grades, betting scores or model inputs, and a staff-room majority is not evidence the majority is right — no category on p. 4 is unanimous, and the strongest agreement anywhere is 17 of 22. Contributor positions are never merged into a single VSiN house opinion, and the guide's own anomalies — including a Sun Belt row printed with NFL team names — are reproduced rather than corrected.
+
+
+### Betting concepts, statistics and situational angles
+
+Three connected reference layers. `11_Betting_Concepts` explains the ideas, `14_Statistics_Reference` holds the numbers, and `13_Situational_Angles` covers game context.
+
+**Read the source class before you quote anything here.** Concept pages carry two, separated by heading and never blended in one claim: *how the guide defines it* and *how the guide uses it* are **GUIDE CONTENT**; *working definition* and *why it matters* are **TTW DERIVED** — this library's words, supplied because the guide supplies none.
+
+| Question | Start here |
+| --- | --- |
+| *What does the guide mean by a term?* | [`11_Betting_Concepts`](../11_Betting_Concepts/README.md) — 29 concepts, one entry each |
+| *Is this the guide's definition or TTW's?* | every concept page separates them by heading; the table in [the README](../11_Betting_Concepts/README.md) marks which of the 29 the guide defines at all |
+| *What does an abbreviation mean?* | [00_GLOSSARY.md](../11_Betting_Concepts/00_GLOSSARY.md) — all 45 p. 2 entries, wholly GUIDE CONTENT |
+| *Concepts the guide uses but never defines* | [00_GAPS.md](../11_Betting_Concepts/00_GAPS.md) — **21 of the 29** |
+| *Team statistics, values and national ranks* | [`14_Statistics_Reference`](../14_Statistics_Reference/README.md) — [offense](../14_Statistics_Reference/00_OFFENSE.md) · [defense](../14_Statistics_Reference/00_DEFENSE.md) |
+| *Who leads each statistical category* | [00_LEADERS.md](../14_Statistics_Reference/00_LEADERS.md) — the guide's own printed ranks, not a TTW re-derivation |
+| *Advanced metrics — EPA, success rate, explosiveness* | [00_GAPS.md](../11_Betting_Concepts/00_GAPS.md) — cited in contributor prose only, in neither the glossary nor the tables |
+| *Rest, travel, lookahead and letdown spots* | [`13_Situational_Angles`](../13_Situational_Angles/README.md) — conceptual material; historical and system-based angles are Phase 10 |
+| *Which pages carry a concept* | every concept page ends with its full page list, from the Phase 1 [concept index](10_Betting_Concept_Index.md) |
+
+**That 21 of 29 figure is a finding, not a shortfall.** The guide's only glossary is the 45-entry list on p. 2; tempo, regression, explosiveness and situational betting are used constantly and defined nowhere. Where the guide neither defines nor develops a concept — Closing Line Value and Conference Strength, one page each — the entry reads `Not addressed in guide.` throughout rather than importing a definition from general betting knowledge. The absence is preserved as metadata.
+
+Two source properties are reproduced rather than corrected: p. 2 prints `PYPG – Passing Yards per Page`, and the defensive statistics table omits plays per game and time of possession, so **defensive tempo cannot be read from this guide at all**. Two teams promoted from FCS carry the table headings with `PARTICIPATED IN FCS IN 2025` in place of every value.
 
 
 ## Raw source access
