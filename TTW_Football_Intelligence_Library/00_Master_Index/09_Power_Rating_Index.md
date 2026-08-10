@@ -13,7 +13,7 @@ Steve Makinen's 2026 power rating projections for all 138 teams, as printed on e
 **Range:** 16.0 to 71.0 (spread of 55.0 points). **Median:** 42.5.
 
 
-> **Interpretation.** These are projections on Makinen's scale, not TTW numbers. Any comparison against the TTW College Football Power Ratings Workbook (v0.8.1) must account for scale differences before differences in opinion can be read. That comparison is a Phase 6 deliverable and is **not** performed here.
+> **Interpretation.** These are projections on Makinen's scale, not TTW numbers. Any comparison against the TTW College Football Power Ratings Workbook (v0.8.1) must account for scale differences before differences in opinion can be read. That comparison is **not** performed here — it lives in the Power Ratings directory, where Phase 6 established that one Makinen point equals one point of projected spread and the two scales are therefore reconciled by mean-centering alone: see [05_Power_Ratings/00_TTW_VS_MAKINEN.md](../05_Power_Ratings/00_TTW_VS_MAKINEN.md) and [00_LINE_MODEL_VERIFICATION.md](../05_Power_Ratings/00_LINE_MODEL_VERIFICATION.md).
 
 
 ## Conference averages

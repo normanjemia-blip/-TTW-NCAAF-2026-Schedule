@@ -23,6 +23,9 @@ Steve Makinen's 2026 power ratings in full, the methodology he states for them, 
 | [00_VSIN_IMPORT_CANDIDATE.md](00_VSIN_IMPORT_CANDIDATE.md) | PREPARED | the import set for the workbook's empty VSiN column — not applied |
 | [00_WORKBOOK_PROVENANCE.md](00_WORKBOOK_PROVENANCE.md) | PROVENANCE | what was read, its hash, and what could not be read |
 | [00_SOURCE_CONFLICTS.md](00_SOURCE_CONFLICTS.md) | GUIDE | the two printings, reconciled |
+| [01_VSIN_DIAGNOSTICS.md](01_VSIN_DIAGNOSTICS.md) | DERIVED | Phase 7 — what including VSiN would change, and how much new information it carries |
+| [01_CALIBRATION_PROTOCOL.md](01_CALIBRATION_PROTOCOL.md) | PROTOCOL | Phase 7 — the pre-registered test, fixed before any 2026 result existed |
+| [01_PHASE7_REPORT.md](01_PHASE7_REPORT.md) | REPORT | Phase 7 — owner report and recommendation |
 
 ## Headline findings
 

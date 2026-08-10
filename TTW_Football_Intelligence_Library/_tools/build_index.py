@@ -438,8 +438,12 @@ def build_power_rating_index(teams):
         "\n> **Interpretation.** These are projections on Makinen's scale, not TTW "
         "numbers. Any comparison against the TTW College Football Power Ratings "
         "Workbook (v0.8.1) must account for scale differences before differences in "
-        "opinion can be read. That comparison is a Phase 6 deliverable and is **not** "
-        "performed here.\n",
+        "opinion can be read. That comparison is **not** performed here \u2014 it lives in "
+        "the Power Ratings directory, where Phase 6 established that one Makinen "
+        "point equals one point of projected spread and the two scales are therefore "
+        "reconciled by mean-centering alone: see "
+        "[05_Power_Ratings/00_TTW_VS_MAKINEN.md](../05_Power_Ratings/00_TTW_VS_MAKINEN.md) "
+        "and [00_LINE_MODEL_VERIFICATION.md](../05_Power_Ratings/00_LINE_MODEL_VERIFICATION.md).\n",
         "\n## Conference averages\n",
         "\n| Conference | Teams | Avg | Best | Worst |",
         "| --- | --- | --- | --- | --- |",
