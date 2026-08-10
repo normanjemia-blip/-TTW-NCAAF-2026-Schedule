@@ -1,0 +1,1478 @@
+{
+ "generated": "phase 7 — VSiN preseason calibration (diagnostics only)",
+ "predictive_validation_possible": false,
+ "reason": "no season in this project pairs a VSiN preseason rating with played games; the 2026 season has not begun",
+ "baseline_effective_weights": {
+  "SP+": 0.4285714285714285,
+  "FPI": 0.3571428571428571,
+  "TeamRankings": 0.21428571428571425
+ },
+ "vsin_included_effective_weights": {
+  "SP+": 0.37499999999999994,
+  "FPI": 0.3125,
+  "TeamRankings": 0.18749999999999997,
+  "VSiN": 0.125
+ },
+ "delta": {
+  "mean_abs": 0.11712594142887153,
+  "median_abs": 0.1044578157349898,
+  "max_abs": 0.4142921842650118,
+  "n_over_0_5": 0,
+  "n_over_1_0": 0
+ },
+ "rank": {
+  "unchanged": 100,
+  "max_move": 3
+ },
+ "vsin_information": {
+  "r_squared_on_live_sources": 0.9930434887846857,
+  "residual_sd_pts": 1.0395752066364508,
+  "coefficients": {
+   "intercept": -3.9028085180843853e-16,
+   "SP+": 0.33565977951120973,
+   "FPI": 0.17859897659745802,
+   "TeamRankings": 0.4397916991188242
+  }
+ },
+ "pairwise_correlation": {
+  "SP+~FPI": 0.9590175467624563,
+  "SP+~TeamRankings": 0.9793813637843569,
+  "SP+~VSiN": 0.9877124703225244,
+  "FPI~TeamRankings": 0.975248895324148,
+  "FPI~VSiN": 0.9777875884263993,
+  "TeamRankings~VSiN": 0.9930510886087752
+ },
+ "weight_sweep": [
+  {
+   "w": 0.05,
+   "eff": 0.06666666666666667,
+   "max_abs": 0.22095583160800558,
+   "mean_abs": 0.062467168762065,
+   "sd": 12.52521278382806,
+   "max_rank": 2,
+   "n_over_1pt": 0
+  },
+  {
+   "w": 0.1,
+   "eff": 0.125,
+   "max_abs": 0.4142921842650118,
+   "mean_abs": 0.11712594142887153,
+   "sd": 12.518617085627339,
+   "max_rank": 3,
+   "n_over_1pt": 0
+  },
+  {
+   "w": 0.15,
+   "eff": 0.1764705882352941,
+   "max_abs": 0.5848830836682488,
+   "mean_abs": 0.1653542702525245,
+   "sd": 12.51310285033778,
+   "max_rank": 4,
+   "n_over_1pt": 0
+  },
+  {
+   "w": 0.2,
+   "eff": 0.2222222222222222,
+   "max_abs": 0.7365194386933531,
+   "mean_abs": 0.2082238958735493,
+   "sd": 12.50844206778492,
+   "max_rank": 5,
+   "n_over_1pt": 0
+  },
+  {
+   "w": 0.3,
+   "eff": 0.3,
+   "max_abs": 0.9943012422360269,
+   "mean_abs": 0.28110225942929157,
+   "sd": 12.501039515324939,
+   "max_rank": 5,
+   "n_over_1pt": 0
+  }
+ ],
+ "sd": {
+  "baseline": 12.533200459180621,
+  "vsin_included": 12.518617085627339
+ },
+ "per_team": [
+  {
+   "team": "Air Force Falcons",
+   "conference": "Mountain West",
+   "baseline": -4.832039337474121,
+   "vsin_included": -4.852581521739131,
+   "delta": -0.0205421842650102,
+   "rank_baseline": 87,
+   "rank_vsin": 87,
+   "vsin_residual": 0.11233219675367945
+  },
+  {
+   "team": "Akron Zips",
+   "conference": "MAC",
+   "baseline": -18.017753623188405,
+   "vsin_included": -17.890081521739127,
+   "delta": 0.12767210144927787,
+   "rank_baseline": 129,
+   "rank_vsin": 129,
+   "vsin_residual": 0.2737769307773448
+  },
+  {
+   "team": "Alabama Crimson Tide",
+   "conference": "SEC",
+   "baseline": 19.81796066252588,
+   "vsin_included": 19.71616847826087,
+   "delta": -0.1017921842650118,
+   "rank_baseline": 11,
+   "rank_vsin": 11,
+   "vsin_residual": -0.3605310060947673
+  },
+  {
+   "team": "Appalachian State Mountaineers",
+   "conference": "Sun Belt",
+   "baseline": -10.810610766045547,
+   "vsin_included": -10.958831521739128,
+   "delta": -0.14822075569358084,
+   "rank_baseline": 110,
+   "rank_vsin": 111,
+   "vsin_residual": -1.556700065279328
+  },
+  {
+   "team": "Arizona State Sun Devils",
+   "conference": "Big 12",
+   "baseline": 6.532246376811593,
+   "vsin_included": 6.653668478260869,
+   "delta": 0.12142210144927557,
+   "rank_baseline": 40,
+   "rank_vsin": 40,
+   "vsin_residual": 0.506131652711451
+  },
+  {
+   "team": "Arizona Wildcats",
+   "conference": "Big 12",
+   "baseline": 9.017960662525878,
+   "vsin_included": 9.203668478260868,
+   "delta": 0.18570781573498962,
+   "rank_baseline": 30,
+   "rank_vsin": 30,
+   "vsin_residual": 1.8019869467349565
+  },
+  {
+   "team": "Arkansas Razorbacks",
+   "conference": "SEC",
+   "baseline": 4.932246376811594,
+   "vsin_included": 4.753668478260869,
+   "delta": -0.17857789855072426,
+   "rank_baseline": 47,
+   "rank_vsin": 47,
+   "vsin_residual": -1.1933382688585752
+  },
+  {
+   "team": "Arkansas State Red Wolves",
+   "conference": "Sun Belt",
+   "baseline": -9.074896480331262,
+   "vsin_included": -9.00258152173913,
+   "delta": 0.07231495859213233,
+   "rank_baseline": 104,
+   "rank_vsin": 104,
+   "vsin_residual": 0.671744512433726
+  },
+  {
+   "team": "Army Black Knights",
+   "conference": "American",
+   "baseline": -3.33203933747412,
+   "vsin_included": -3.165081521739131,
+   "delta": 0.16695781573498936,
+   "rank_baseline": 81,
+   "rank_vsin": 81,
+   "vsin_residual": 0.3727007580067454
+  },
+  {
+   "team": "Auburn Tigers",
+   "conference": "SEC",
+   "baseline": 12.167960662525877,
+   "vsin_included": 11.95991847826087,
+   "delta": -0.20804218426500753,
+   "rank_baseline": 25,
+   "rank_vsin": 26,
+   "vsin_residual": -1.4579689063025274
+  },
+  {
+   "team": "BYU Cougars",
+   "conference": "Big 12",
+   "baseline": 14.660817805383022,
+   "vsin_included": 14.76616847826087,
+   "delta": 0.10535067287784727,
+   "rank_baseline": 19,
+   "rank_vsin": 19,
+   "vsin_residual": 1.3744851285994777
+  },
+  {
+   "team": "Ball State Cardinals",
+   "conference": "MAC",
+   "baseline": -21.696325051759832,
+   "vsin_included": -21.733831521739127,
+   "delta": -0.037506469979295076,
+   "rank_baseline": 135,
+   "rank_vsin": 135,
+   "vsin_residual": -0.49858506986377193
+  },
+  {
+   "team": "Baylor Bears",
+   "conference": "Big 12",
+   "baseline": 5.446532091097308,
+   "vsin_included": 5.391168478260869,
+   "delta": -0.0553636128364392,
+   "rank_baseline": 45,
+   "rank_vsin": 45,
+   "vsin_residual": 0.14341293995425097
+  },
+  {
+   "team": "Boise State Broncos",
+   "conference": "Pac-12",
+   "baseline": 5.9893892339544506,
+   "vsin_included": 6.303668478260868,
+   "delta": 0.31427924430641774,
+   "rank_baseline": 41,
+   "rank_vsin": 41,
+   "vsin_residual": 2.3943303204225828
+  },
+  {
+   "team": "Boston College Eagles",
+   "conference": "ACC",
+   "baseline": -2.7248964803312625,
+   "vsin_included": -2.9463315217391304,
+   "delta": -0.22143504140786785,
+   "rank_baseline": 80,
+   "rank_vsin": 80,
+   "vsin_residual": -0.949767447798576
+  },
+  {
+   "team": "Bowling Green Falcons",
+   "conference": "MAC",
+   "baseline": -14.17489648033126,
+   "vsin_included": -14.34008152173913,
+   "delta": -0.16518504140787016,
+   "rank_baseline": 120,
+   "rank_vsin": 120,
+   "vsin_residual": -0.9667887671277846
+  },
+  {
+   "team": "Buffalo Bulls",
+   "conference": "MAC",
+   "baseline": -12.282039337474117,
+   "vsin_included": -12.49633152173913,
+   "delta": -0.2142921842650125,
+   "rank_baseline": 114,
+   "rank_vsin": 115,
+   "vsin_residual": -0.9823995295186947
+  },
+  {
+   "team": "California Golden Bears",
+   "conference": "ACC",
+   "baseline": 2.9751035196687368,
+   "vsin_included": 3.0411684782608694,
+   "delta": 0.06606495859213268,
+   "rank_baseline": 58,
+   "rank_vsin": 58,
+   "vsin_residual": 0.17597005198027738
+  },
+  {
+   "team": "Central Michigan Chippewas",
+   "conference": "MAC",
+   "baseline": -12.374896480331262,
+   "vsin_included": -12.26508152173913,
+   "delta": 0.10981495859213197,
+   "rank_baseline": 115,
+   "rank_vsin": 114,
+   "vsin_residual": 0.3274406868684103
+  },
+  {
+   "team": "Charlotte 49ers",
+   "conference": "American",
+   "baseline": -23.88203933747412,
+   "vsin_included": -23.58383152173913,
+   "delta": 0.29820781573499033,
+   "rank_baseline": 137,
+   "rank_vsin": 137,
+   "vsin_residual": 2.067885615539449
+  },
+  {
+   "team": "Cincinnati Bearcats",
+   "conference": "Big 12",
+   "baseline": 3.7751035196687366,
+   "vsin_included": 3.616168478260869,
+   "delta": -0.1589350414078674,
+   "rank_baseline": 55,
+   "rank_vsin": 56,
+   "vsin_residual": -0.0904249029801436
+  },
+  {
+   "team": "Clemson Tigers",
+   "conference": "ACC",
+   "baseline": 12.967960662525877,
+   "vsin_included": 12.84741847826087,
+   "delta": -0.12054218426500718,
+   "rank_baseline": 22,
+   "rank_vsin": 23,
+   "vsin_residual": 0.04656193765697836
+  },
+  {
+   "team": "Coastal Carolina Chanticleers",
+   "conference": "Sun Belt",
+   "baseline": -12.982039337474118,
+   "vsin_included": -13.10883152173913,
+   "delta": -0.12679218426501215,
+   "rank_baseline": 116,
+   "rank_vsin": 116,
+   "vsin_residual": -1.2999048664915271
+  },
+  {
+   "team": "Colorado Buffaloes",
+   "conference": "Big 12",
+   "baseline": 1.9036749482401651,
+   "vsin_included": 1.7911684782608694,
+   "delta": -0.1125064699792957,
+   "rank_baseline": 61,
+   "rank_vsin": 62,
+   "vsin_residual": 0.34773629410246654
+  },
+  {
+   "team": "Colorado State Rams",
+   "conference": "Pac-12",
+   "baseline": -10.067753623188404,
+   "vsin_included": -9.99633152173913,
+   "delta": 0.07142210144927397,
+   "rank_baseline": 107,
+   "rank_vsin": 106,
+   "vsin_residual": 0.04419177190770185
+  },
+  {
+   "team": "Connecticut Huskies",
+   "conference": "Independent",
+   "baseline": -10.924896480331261,
+   "vsin_included": -10.871331521739128,
+   "delta": 0.053564958592133394,
+   "rank_baseline": 111,
+   "rank_vsin": 110,
+   "vsin_residual": -0.1087552996029757
+  },
+  {
+   "team": "Delaware Fightin’ Blue Hens",
+   "conference": "Conference USA",
+   "baseline": -10.396325051759833,
+   "vsin_included": -10.471331521739128,
+   "delta": -0.07500646997929472,
+   "rank_baseline": 108,
+   "rank_vsin": 108,
+   "vsin_residual": -0.1224562702409866
+  },
+  {
+   "team": "Duke Blue Devils",
+   "conference": "ACC",
+   "baseline": 4.310817805383023,
+   "vsin_included": 4.334918478260869,
+   "delta": 0.024100672877846563,
+   "rank_baseline": 52,
+   "rank_vsin": 52,
+   "vsin_residual": 0.9638557219539985
+  },
+  {
+   "team": "East Carolina Pirates",
+   "conference": "American",
+   "baseline": -1.6534679089026914,
+   "vsin_included": -1.6338315217391302,
+   "delta": 0.019636387163561198,
+   "rank_baseline": 72,
+   "rank_vsin": 75,
+   "vsin_residual": 0.7435253433053064
+  },
+  {
+   "team": "Eastern Michigan Eagles",
+   "conference": "MAC",
+   "baseline": -15.017753623188403,
+   "vsin_included": -14.890081521739129,
+   "delta": 0.12767210144927432,
+   "rank_baseline": 122,
+   "rank_vsin": 122,
+   "vsin_residual": -0.10301825945687071
+  },
+  {
+   "team": "FIU Golden Panthers",
+   "conference": "Conference USA",
+   "baseline": -13.374896480331262,
+   "vsin_included": -13.390081521739129,
+   "delta": -0.015185041407866251,
+   "rank_baseline": 118,
+   "rank_vsin": 118,
+   "vsin_residual": -0.2164213172013305
+  },
+  {
+   "team": "Florida Atlantic Owls",
+   "conference": "American",
+   "baseline": -8.73203933747412,
+   "vsin_included": -8.702581521739129,
+   "delta": 0.0294578157349914,
+   "rank_baseline": 100,
+   "rank_vsin": 100,
+   "vsin_residual": -0.43464223600060237
+  },
+  {
+   "team": "Florida Gators",
+   "conference": "SEC",
+   "baseline": 15.182246376811593,
+   "vsin_included": 14.972418478260868,
+   "delta": -0.20982789855072426,
+   "rank_baseline": 18,
+   "rank_vsin": 18,
+   "vsin_residual": -1.7448352495252326
+  },
+  {
+   "team": "Florida State Seminoles",
+   "conference": "ACC",
+   "baseline": 8.86796066252588,
+   "vsin_included": 8.75991847826087,
+   "delta": -0.10804218426500967,
+   "rank_baseline": 31,
+   "rank_vsin": 32,
+   "vsin_residual": 0.012561165962340581
+  },
+  {
+   "team": "Fresno State Bulldogs",
+   "conference": "Pac-12",
+   "baseline": -1.239182194616977,
+   "vsin_included": -1.02133152173913,
+   "delta": 0.21785067287784687,
+   "rank_baseline": 70,
+   "rank_vsin": 70,
+   "vsin_residual": 0.6767486477165413
+  },
+  {
+   "team": "Georgia Bulldogs",
+   "conference": "SEC",
+   "baseline": 26.08224637681159,
+   "vsin_included": 26.009918478260865,
+   "delta": -0.07232789855072497,
+   "rank_baseline": 4,
+   "rank_vsin": 4,
+   "vsin_residual": -0.14084614054264932
+  },
+  {
+   "team": "Georgia Southern Eagles",
+   "conference": "Sun Belt",
+   "baseline": -9.217753623188404,
+   "vsin_included": -9.12758152173913,
+   "delta": 0.09017210144927468,
+   "rank_baseline": 105,
+   "rank_vsin": 105,
+   "vsin_residual": 1.0245631253226577
+  },
+  {
+   "team": "Georgia State Panthers",
+   "conference": "Sun Belt",
+   "baseline": -20.13203933747412,
+   "vsin_included": -19.990081521739132,
+   "delta": 0.14195781573498678,
+   "rank_baseline": 132,
+   "rank_vsin": 132,
+   "vsin_residual": 0.5095409845026779
+  },
+  {
+   "team": "Georgia Tech Yellow Jackets",
+   "conference": "ACC",
+   "baseline": 5.525103519668736,
+   "vsin_included": 5.709918478260869,
+   "delta": 0.18481495859213304,
+   "rank_baseline": 44,
+   "rank_vsin": 42,
+   "vsin_residual": 1.5229508779190004
+  },
+  {
+   "team": "Hawaii Rainbow Warriors",
+   "conference": "Mountain West",
+   "baseline": -3.6677536231884056,
+   "vsin_included": -3.6463315217391306,
+   "delta": 0.021422101449275033,
+   "rank_baseline": 82,
+   "rank_vsin": 82,
+   "vsin_residual": 0.8462154999609721
+  },
+  {
+   "team": "Houston Cougars",
+   "conference": "Big 12",
+   "baseline": 8.532246376811592,
+   "vsin_included": 8.841168478260867,
+   "delta": 0.3089221014492747,
+   "rank_baseline": 34,
+   "rank_vsin": 31,
+   "vsin_residual": 2.1555621750913545
+  },
+  {
+   "team": "Illinois Fighting Illini",
+   "conference": "Big Ten",
+   "baseline": 8.417960662525878,
+   "vsin_included": 8.49116847826087,
+   "delta": 0.07320781573499069,
+   "rank_baseline": 35,
+   "rank_vsin": 35,
+   "vsin_residual": 0.5449239776733439
+  },
+  {
+   "team": "Indiana Hoosiers",
+   "conference": "Big Ten",
+   "baseline": 25.175103519668735,
+   "vsin_included": 25.028668478260865,
+   "delta": -0.14643504140786945,
+   "rank_baseline": 6,
+   "rank_vsin": 6,
+   "vsin_residual": -1.2654431202870597
+  },
+  {
+   "team": "Iowa Hawkeyes",
+   "conference": "Big Ten",
+   "baseline": 12.803674948240163,
+   "vsin_included": 12.891168478260868,
+   "delta": 0.08749353002070492,
+   "rank_baseline": 23,
+   "rank_vsin": 22,
+   "vsin_residual": 0.766590340547598
+  },
+  {
+   "team": "Iowa State Cyclones",
+   "conference": "Big 12",
+   "baseline": 0.3179606625258799,
+   "vsin_included": 0.21616847826086957,
+   "delta": -0.10179218426501033,
+   "rank_baseline": 68,
+   "rank_vsin": 68,
+   "vsin_residual": -0.8371035889887352
+  },
+  {
+   "team": "Jacksonville State Gamecocks",
+   "conference": "Conference USA",
+   "baseline": -8.417753623188405,
+   "vsin_included": -8.36508152173913,
+   "delta": 0.05267210144927503,
+   "rank_baseline": 97,
+   "rank_vsin": 97,
+   "vsin_residual": 0.6462598954708891
+  },
+  {
+   "team": "James Madison Dukes",
+   "conference": "Sun Belt",
+   "baseline": -1.7248964803312627,
+   "vsin_included": -1.5713315217391304,
+   "delta": 0.15356495859213237,
+   "rank_baseline": 74,
+   "rank_vsin": 73,
+   "vsin_residual": 1.0595881504314553
+  },
+  {
+   "team": "Kansas Jayhawks",
+   "conference": "Big 12",
+   "baseline": 3.953674948240165,
+   "vsin_included": 3.959918478260869,
+   "delta": 0.006243530020704213,
+   "rank_baseline": 54,
+   "rank_vsin": 53,
+   "vsin_residual": -0.27907638232124654
+  },
+  {
+   "team": "Kansas State Wildcats",
+   "conference": "Big 12",
+   "baseline": 8.675103519668736,
+   "vsin_included": 8.71616847826087,
+   "delta": 0.041064958592134104,
+   "rank_baseline": 32,
+   "rank_vsin": 33,
+   "vsin_residual": -0.04977470699086162
+  },
+  {
+   "team": "Kennesaw State Owls",
+   "conference": "Conference USA",
+   "baseline": -10.032039337474117,
+   "vsin_included": -10.090081521739128,
+   "delta": -0.05804218426501073,
+   "rank_baseline": 106,
+   "rank_vsin": 107,
+   "vsin_residual": 0.3118859779034384
+  },
+  {
+   "team": "Kent State Golden Flashes",
+   "conference": "MAC",
+   "baseline": -19.532039337474117,
+   "vsin_included": -19.40258152173913,
+   "delta": 0.1294578157349875,
+   "rank_baseline": 131,
+   "rank_vsin": 131,
+   "vsin_residual": 1.0008969113805932
+  },
+  {
+   "team": "Kentucky Wildcats",
+   "conference": "SEC",
+   "baseline": 5.6751035196687365,
+   "vsin_included": 5.591168478260869,
+   "delta": -0.08393504140786767,
+   "rank_baseline": 43,
+   "rank_vsin": 44,
+   "vsin_residual": -1.3162706463416427
+  },
+  {
+   "team": "LSU Tigers",
+   "conference": "SEC",
+   "baseline": 20.746532091097308,
+   "vsin_included": 20.46616847826087,
+   "delta": -0.28036361283643885,
+   "rank_baseline": 10,
+   "rank_vsin": 10,
+   "vsin_residual": -1.733886517016849
+  },
+  {
+   "team": "Liberty Flames",
+   "conference": "Conference USA",
+   "baseline": -7.10346790890269,
+   "vsin_included": -7.15258152173913,
+   "delta": -0.04911361283643956,
+   "rank_baseline": 93,
+   "rank_vsin": 93,
+   "vsin_residual": -0.4005187372330621
+  },
+  {
+   "team": "Louisiana Ragin’ Cajuns",
+   "conference": "Sun Belt",
+   "baseline": -8.860610766045548,
+   "vsin_included": -8.94008152173913,
+   "delta": -0.0794707556935812,
+   "rank_baseline": 101,
+   "rank_vsin": 103,
+   "vsin_residual": -0.5954528881804393
+  },
+  {
+   "team": "Louisiana Tech Bulldogs",
+   "conference": "Sun Belt",
+   "baseline": -8.617753623188406,
+   "vsin_included": -8.66508152173913,
+   "delta": -0.04732789855072461,
+   "rank_baseline": 99,
+   "rank_vsin": 99,
+   "vsin_residual": -0.8794479307147114
+  },
+  {
+   "team": "Louisville Cardinals",
+   "conference": "ACC",
+   "baseline": 11.253674948240166,
+   "vsin_included": 11.28491847826087,
+   "delta": 0.03124353002070457,
+   "rank_baseline": 27,
+   "rank_vsin": 27,
+   "vsin_residual": -0.07627701864228698
+  },
+  {
+   "team": "Marshall Thundering Herd",
+   "conference": "Sun Belt",
+   "baseline": -7.560610766045548,
+   "vsin_included": -7.615081521739131,
+   "delta": -0.05447075569358262,
+   "rank_baseline": 95,
+   "rank_vsin": 95,
+   "vsin_residual": -0.5721223532402107
+  },
+  {
+   "team": "Maryland Terrapins",
+   "conference": "Big Ten",
+   "baseline": 2.8179606625258793,
+   "vsin_included": 2.903668478260869,
+   "delta": 0.08570781573498953,
+   "rank_baseline": 59,
+   "rank_vsin": 59,
+   "vsin_residual": 0.6083150454001176
+  },
+  {
+   "team": "Massachusetts Minutemen",
+   "conference": "MAC",
+   "baseline": -25.853467908902687,
+   "vsin_included": -25.87133152173913,
+   "delta": -0.01786361283644311,
+   "rank_baseline": 138,
+   "rank_vsin": 138,
+   "vsin_residual": 0.10142848339984312
+  },
+  {
+   "team": "Memphis Tigers",
+   "conference": "American",
+   "baseline": -1.2606107660455486,
+   "vsin_included": -1.2275815217391304,
+   "delta": 0.03302924430641818,
+   "rank_baseline": 71,
+   "rank_vsin": 71,
+   "vsin_residual": 0.20606847326049982
+  },
+  {
+   "team": "Miami (Ohio) RedHawks",
+   "conference": "MAC",
+   "baseline": -5.803467908902691,
+   "vsin_included": -5.82758152173913,
+   "delta": -0.024113612836438314,
+   "rank_baseline": 89,
+   "rank_vsin": 89,
+   "vsin_residual": 0.7232153190090136
+  },
+  {
+   "team": "Miami Hurricanes",
+   "conference": "ACC",
+   "baseline": 22.41796066252588,
+   "vsin_included": 22.24116847826087,
+   "delta": -0.17679218426500753,
+   "rank_baseline": 7,
+   "rank_vsin": 7,
+   "vsin_residual": -1.2312259356814792
+  },
+  {
+   "team": "Michigan State Spartans",
+   "conference": "Big Ten",
+   "baseline": 0.425103519668737,
+   "vsin_included": 0.4349184782608695,
+   "delta": 0.009814958592132494,
+   "rank_baseline": 66,
+   "rank_vsin": 67,
+   "vsin_residual": 0.2819110165366884
+  },
+  {
+   "team": "Michigan Wolverines",
+   "conference": "Big Ten",
+   "baseline": 17.032246376811596,
+   "vsin_included": 17.028668478260872,
+   "delta": -0.003577898550723546,
+   "rank_baseline": 15,
+   "rank_vsin": 15,
+   "vsin_residual": -0.11390470899801741
+  },
+  {
+   "team": "Middle Tennessee Blue Raiders",
+   "conference": "Conference USA",
+   "baseline": -21.160610766045547,
+   "vsin_included": -21.14008152173913,
+   "delta": 0.020529244306416672,
+   "rank_baseline": 133,
+   "rank_vsin": 133,
+   "vsin_residual": -0.3679385863212872
+  },
+  {
+   "team": "Minnesota Golden Gophers",
+   "conference": "Big Ten",
+   "baseline": 4.38938923395445,
+   "vsin_included": 4.716168478260869,
+   "delta": 0.3267792443064188,
+   "rank_baseline": 50,
+   "rank_vsin": 49,
+   "vsin_residual": 1.4229141093055215
+  },
+  {
+   "team": "Mississippi State Bulldogs",
+   "conference": "SEC",
+   "baseline": 4.717960662525879,
+   "vsin_included": 4.753668478260869,
+   "delta": 0.035707815734990156,
+   "rank_baseline": 48,
+   "rank_vsin": 48,
+   "vsin_residual": -0.01817870691900847
+  },
+  {
+   "team": "Missouri State Bears",
+   "conference": "Conference USA",
+   "baseline": -15.532039337474119,
+   "vsin_included": -15.715081521739132,
+   "delta": -0.1830421842650125,
+   "rank_baseline": 124,
+   "rank_vsin": 124,
+   "vsin_residual": -0.7337124392560206
+  },
+  {
+   "team": "Missouri Tigers",
+   "conference": "SEC",
+   "baseline": 14.210817805383023,
+   "vsin_included": 13.997418478260869,
+   "delta": -0.21339932712215415,
+   "rank_baseline": 20,
+   "rank_vsin": 20,
+   "vsin_residual": -1.5816473061000238
+  },
+  {
+   "team": "NC State Wolfpack",
+   "conference": "ACC",
+   "baseline": 4.960817805383022,
+   "vsin_included": 5.09116847826087,
+   "delta": 0.13035067287784763,
+   "rank_baseline": 46,
+   "rank_vsin": 46,
+   "vsin_residual": 0.8055594440325304
+  },
+  {
+   "team": "Navy Midshipmen",
+   "conference": "American",
+   "baseline": 0.625103519668737,
+   "vsin_included": 0.7974184782608695,
+   "delta": 0.17231495859213253,
+   "rank_baseline": 65,
+   "rank_vsin": 65,
+   "vsin_residual": 1.1977981085337106
+  },
+  {
+   "team": "Nebraska Cornhuskers",
+   "conference": "Big Ten",
+   "baseline": 8.36796066252588,
+   "vsin_included": 8.38491847826087,
+   "delta": 0.016957815734990334,
+   "rank_baseline": 36,
+   "rank_vsin": 36,
+   "vsin_residual": 0.6632322223402234
+  },
+  {
+   "team": "Nevada Wolf Pack",
+   "conference": "Mountain West",
+   "baseline": -13.146325051759833,
+   "vsin_included": -13.25258152173913,
+   "delta": -0.1062564699792965,
+   "rank_baseline": 117,
+   "rank_vsin": 117,
+   "vsin_residual": 0.018423997181990615
+  },
+  {
+   "team": "New Mexico Lobos",
+   "conference": "Mountain West",
+   "baseline": -1.7034679089026914,
+   "vsin_included": -1.4900815217391306,
+   "delta": 0.21338638716356084,
+   "rank_baseline": 73,
+   "rank_vsin": 72,
+   "vsin_residual": 1.5543059875810012
+  },
+  {
+   "team": "New Mexico State Aggies",
+   "conference": "Conference USA",
+   "baseline": -16.367753623188403,
+   "vsin_included": -16.446331521739125,
+   "delta": -0.07857789855072284,
+   "rank_baseline": 125,
+   "rank_vsin": 125,
+   "vsin_residual": -0.7611913080649444
+  },
+  {
+   "team": "North Carolina Tar Heels",
+   "conference": "ACC",
+   "baseline": 4.039389233954451,
+   "vsin_included": 3.8474184782608694,
+   "delta": -0.1919707556935819,
+   "rank_baseline": 53,
+   "rank_vsin": 54,
+   "vsin_residual": -0.7363876040349098
+  },
+  {
+   "team": "North Dakota State Bison",
+   "conference": "Mountain West",
+   "baseline": -3.9534679089026916,
+   "vsin_included": -4.08383152173913,
+   "delta": -0.1303636128364385,
+   "rank_baseline": 84,
+   "rank_vsin": 84,
+   "vsin_residual": -1.9784709338079347
+  },
+  {
+   "team": "North Texas Eagles",
+   "conference": "American",
+   "baseline": -8.996325051759833,
+   "vsin_included": -8.80883152173913,
+   "delta": 0.1874935300207028,
+   "rank_baseline": 103,
+   "rank_vsin": 101,
+   "vsin_residual": 1.2678237423745387
+  },
+  {
+   "team": "Northern Illinois Huskies",
+   "conference": "Mountain West",
+   "baseline": -17.182039337474116,
+   "vsin_included": -17.596331521739128,
+   "delta": -0.4142921842650118,
+   "rank_baseline": 127,
+   "rank_vsin": 127,
+   "vsin_residual": -2.9037807388003003
+  },
+  {
+   "team": "Northwestern Wildcats",
+   "conference": "Big Ten",
+   "baseline": 3.7108178053830225,
+   "vsin_included": 3.6849184782608693,
+   "delta": -0.02589932712215326,
+   "rank_baseline": 56,
+   "rank_vsin": 55,
+   "vsin_residual": -0.567256597173599
+  },
+  {
+   "team": "Notre Dame Fighting Irish",
+   "conference": "Independent",
+   "baseline": 26.753674948240164,
+   "vsin_included": 26.72241847826087,
+   "delta": -0.031256469979293655,
+   "rank_baseline": 3,
+   "rank_vsin": 3,
+   "vsin_residual": 0.25414286196360436
+  },
+  {
+   "team": "Ohio State Buckeyes",
+   "conference": "Big Ten",
+   "baseline": 31.010817805383017,
+   "vsin_included": 30.759918478260868,
+   "delta": -0.25089932712214846,
+   "rank_baseline": 1,
+   "rank_vsin": 1,
+   "vsin_residual": -1.1672263867567736
+  },
+  {
+   "team": "Ohio U Bobcats",
+   "conference": "MAC",
+   "baseline": -10.810610766045546,
+   "vsin_included": -10.771331521739128,
+   "delta": 0.03927924430641738,
+   "rank_baseline": 109,
+   "rank_vsin": 109,
+   "vsin_residual": 0.12531144611206102
+  },
+  {
+   "team": "Oklahoma Sooners",
+   "conference": "SEC",
+   "baseline": 18.653674948240166,
+   "vsin_included": 18.69741847826087,
+   "delta": 0.043743530020705634,
+   "rank_baseline": 12,
+   "rank_vsin": 12,
+   "vsin_residual": 0.2099897399430688
+  },
+  {
+   "team": "Oklahoma State Cowboys",
+   "conference": "Big 12",
+   "baseline": 5.867960662525879,
+   "vsin_included": 5.697418478260869,
+   "delta": -0.17054218426500967,
+   "rank_baseline": 42,
+   "rank_vsin": 43,
+   "vsin_residual": -1.5813483298125597
+  },
+  {
+   "team": "Old Dominion Monarchs",
+   "conference": "Sun Belt",
+   "baseline": -4.83203933747412,
+   "vsin_included": -4.85258152173913,
+   "delta": -0.0205421842650102,
+   "rank_baseline": 86,
+   "rank_vsin": 86,
+   "vsin_residual": -0.40647885427481434
+  },
+  {
+   "team": "Ole Miss Rebels",
+   "conference": "SEC",
+   "baseline": 17.51796066252588,
+   "vsin_included": 17.64116847826087,
+   "delta": 0.12320781573498962,
+   "rank_baseline": 14,
+   "rank_vsin": 14,
+   "vsin_residual": 0.33588810144742
+  },
+  {
+   "team": "Oregon Ducks",
+   "conference": "Big Ten",
+   "baseline": 27.696532091097307,
+   "vsin_included": 27.547418478260866,
+   "delta": -0.14911361283644098,
+   "rank_baseline": 2,
+   "rank_vsin": 2,
+   "vsin_residual": -0.653763880503476
+  },
+  {
+   "team": "Oregon State Beavers",
+   "conference": "Pac-12",
+   "baseline": -7.524896480331263,
+   "vsin_included": -7.83383152173913,
+   "delta": -0.3089350414078673,
+   "rank_baseline": 94,
+   "rank_vsin": 96,
+   "vsin_residual": -2.2029575758669644
+  },
+  {
+   "team": "Penn State Nittany Lions",
+   "conference": "Big Ten",
+   "baseline": 15.346532091097306,
+   "vsin_included": 15.303668478260867,
+   "delta": -0.042863612836438136,
+   "rank_baseline": 17,
+   "rank_vsin": 17,
+   "vsin_residual": -0.09143127167512333
+  },
+  {
+   "team": "Pittsburgh Panthers",
+   "conference": "ACC",
+   "baseline": 7.496532091097307,
+   "vsin_included": 7.622418478260868,
+   "delta": 0.12588638716356115,
+   "rank_baseline": 39,
+   "rank_vsin": 39,
+   "vsin_residual": 0.5793583080304341
+  },
+  {
+   "team": "Purdue Boilermakers",
+   "conference": "Big Ten",
+   "baseline": -1.8034679089026913,
+   "vsin_included": -1.9525815217391302,
+   "delta": -0.14911361283643898,
+   "rank_baseline": 75,
+   "rank_vsin": 77,
+   "vsin_residual": -1.1044678807454862
+  },
+  {
+   "team": "Rice Owls",
+   "conference": "American",
+   "baseline": -14.132039337474119,
+   "vsin_included": -14.17758152173913,
+   "delta": -0.04554218426501144,
+   "rank_baseline": 119,
+   "rank_vsin": 119,
+   "vsin_residual": -0.6499240165883897
+  },
+  {
+   "team": "Rutgers Scarlet Knights",
+   "conference": "Big Ten",
+   "baseline": 1.0822463768115942,
+   "vsin_included": 1.0099184782608694,
+   "delta": -0.07232789855072475,
+   "rank_baseline": 64,
+   "rank_vsin": 64,
+   "vsin_residual": -0.5824840555109829
+  },
+  {
+   "team": "SMU Mustangs",
+   "conference": "ACC",
+   "baseline": 11.932246376811593,
+   "vsin_included": 12.128668478260868,
+   "delta": 0.19642210144927574,
+   "rank_baseline": 26,
+   "rank_vsin": 25,
+   "vsin_residual": 1.3636764073697236
+  },
+  {
+   "team": "Sacramento State Hornets",
+   "conference": "MAC",
+   "baseline": -17.346325051759834,
+   "vsin_included": -17.740081521739132,
+   "delta": -0.3937564699792979,
+   "rank_baseline": 128,
+   "rank_vsin": 128,
+   "vsin_residual": -2.741275913815791
+  },
+  {
+   "team": "Sam Houston State Bearkats",
+   "conference": "Conference USA",
+   "baseline": -22.796325051759833,
+   "vsin_included": -22.88383152173913,
+   "delta": -0.08750646997929579,
+   "rank_baseline": 136,
+   "rank_vsin": 136,
+   "vsin_residual": -0.9491295691135306
+  },
+  {
+   "team": "San Diego State Aztecs",
+   "conference": "Pac-12",
+   "baseline": 0.3893892339544513,
+   "vsin_included": 0.4661684782608695,
+   "delta": 0.07677924430641819,
+   "rank_baseline": 67,
+   "rank_vsin": 66,
+   "vsin_residual": 0.5403653886821871
+  },
+  {
+   "team": "San Jose State Spartans",
+   "conference": "Mountain West",
+   "baseline": -14.732039337474118,
+   "vsin_included": -14.765081521739129,
+   "delta": -0.03304218426501038,
+   "rank_baseline": 121,
+   "rank_vsin": 121,
+   "vsin_residual": -0.8525946237773567
+  },
+  {
+   "team": "South Alabama Jaguars",
+   "conference": "Sun Belt",
+   "baseline": -11.553467908902693,
+   "vsin_included": -11.733831521739132,
+   "delta": -0.1803636128364392,
+   "rank_baseline": 113,
+   "rank_vsin": 113,
+   "vsin_residual": -2.072868216159538
+  },
+  {
+   "team": "South Carolina Gamecocks",
+   "conference": "SEC",
+   "baseline": 12.189389233954449,
+   "vsin_included": 12.166168478260868,
+   "delta": -0.02322075569358084,
+   "rank_baseline": 24,
+   "rank_vsin": 24,
+   "vsin_residual": 0.32126702405921037
+  },
+  {
+   "team": "South Florida Bulls",
+   "conference": "American",
+   "baseline": -1.8248964803312628,
+   "vsin_included": -1.7213315217391305,
+   "delta": 0.10356495859213233,
+   "rank_baseline": 76,
+   "rank_vsin": 76,
+   "vsin_residual": 0.99390365103904
+  },
+  {
+   "team": "Southern Miss Golden Eagles",
+   "conference": "Sun Belt",
+   "baseline": -15.389182194616973,
+   "vsin_included": -15.527581521739128,
+   "delta": -0.13839932712215486,
+   "rank_baseline": 123,
+   "rank_vsin": 123,
+   "vsin_residual": -0.1461421707538264
+  },
+  {
+   "team": "Stanford Cardinal",
+   "conference": "ACC",
+   "baseline": -2.4248964803312627,
+   "vsin_included": -2.49633152173913,
+   "delta": -0.0714350414078675,
+   "rank_baseline": 78,
+   "rank_vsin": 79,
+   "vsin_residual": -0.6156775872158553
+  },
+  {
+   "team": "Syracuse Orange",
+   "conference": "ACC",
+   "baseline": -0.41775362318840575,
+   "vsin_included": -0.36508152173913044,
+   "delta": 0.05267210144927531,
+   "rank_baseline": 69,
+   "rank_vsin": 69,
+   "vsin_residual": 0.30361647834434047
+  },
+  {
+   "team": "TCU Horned Frogs",
+   "conference": "Big 12",
+   "baseline": 8.196532091097307,
+   "vsin_included": 8.29741847826087,
+   "delta": 0.10088638716356257,
+   "rank_baseline": 37,
+   "rank_vsin": 37,
+   "vsin_residual": 0.946029395210898
+  },
+  {
+   "team": "Temple Owls",
+   "conference": "American",
+   "baseline": -8.924896480331261,
+   "vsin_included": -8.80883152173913,
+   "delta": 0.11606495859213162,
+   "rank_baseline": 102,
+   "rank_vsin": 102,
+   "vsin_residual": 1.0877379124656095
+  },
+  {
+   "team": "Tennessee Volunteers",
+   "conference": "SEC",
+   "baseline": 16.06081780538302,
+   "vsin_included": 15.928668478260867,
+   "delta": -0.13214932712215344,
+   "rank_baseline": 16,
+   "rank_vsin": 16,
+   "vsin_residual": -0.6180844524124574
+  },
+  {
+   "team": "Texas A&M Aggies",
+   "conference": "SEC",
+   "baseline": 20.91796066252588,
+   "vsin_included": 20.866168478260867,
+   "delta": -0.05179218426501109,
+   "rank_baseline": 9,
+   "rank_vsin": 9,
+   "vsin_residual": -0.031327514439269066
+  },
+  {
+   "team": "Texas Longhorns",
+   "conference": "SEC",
+   "baseline": 26.060817805383017,
+   "vsin_included": 25.803668478260864,
+   "delta": -0.25714932712215344,
+   "rank_baseline": 5,
+   "rank_vsin": 5,
+   "vsin_residual": -1.411716388277135
+  },
+  {
+   "team": "Texas State Bobcats",
+   "conference": "Pac-12",
+   "baseline": -4.282039337474119,
+   "vsin_included": -4.30883152173913,
+   "delta": -0.026792184265010732,
+   "rank_baseline": 85,
+   "rank_vsin": 85,
+   "vsin_residual": -1.034231191692382
+  },
+  {
+   "team": "Texas Tech Red Raiders",
+   "conference": "Big 12",
+   "baseline": 22.353674948240165,
+   "vsin_included": 21.99741847826087,
+   "delta": -0.3562564699792965,
+   "rank_baseline": 8,
+   "rank_vsin": 8,
+   "vsin_residual": -2.4549457661013605
+  },
+  {
+   "team": "Toledo Rockets",
+   "conference": "MAC",
+   "baseline": -7.632039337474119,
+   "vsin_included": -7.49008152173913,
+   "delta": 0.14195781573498856,
+   "rank_baseline": 96,
+   "rank_vsin": 94,
+   "vsin_residual": 1.5159101181779366
+  },
+  {
+   "team": "Troy Trojans",
+   "conference": "Sun Belt",
+   "baseline": -6.653467908902691,
+   "vsin_included": -6.57133152173913,
+   "delta": 0.08213638716356098,
+   "rank_baseline": 92,
+   "rank_vsin": 92,
+   "vsin_residual": 0.5598042986881566
+  },
+  {
+   "team": "Tulane Green Wave",
+   "conference": "American",
+   "baseline": -1.924896480331263,
+   "vsin_included": -1.6213315217391304,
+   "delta": 0.3035649585921325,
+   "rank_baseline": 77,
+   "rank_vsin": 74,
+   "vsin_residual": 3.0045850102549703
+  },
+  {
+   "team": "Tulsa Golden Hurricane",
+   "conference": "American",
+   "baseline": -8.467753623188404,
+   "vsin_included": -8.59633152173913,
+   "delta": -0.12857789855072532,
+   "rank_baseline": 98,
+   "rank_vsin": 98,
+   "vsin_residual": -0.9739232738290315
+  },
+  {
+   "team": "UAB Blazers",
+   "conference": "American",
+   "baseline": -16.98203933747412,
+   "vsin_included": -16.85883152173913,
+   "delta": 0.12320781573498962,
+   "rank_baseline": 126,
+   "rank_vsin": 126,
+   "vsin_residual": 0.6857521819608579
+  },
+  {
+   "team": "UCF Golden Knights",
+   "conference": "Big 12",
+   "baseline": 2.653674948240165,
+   "vsin_included": 2.634918478260869,
+   "delta": -0.018756469979296142,
+   "rank_baseline": 60,
+   "rank_vsin": 60,
+   "vsin_residual": -0.26057083923780144
+  },
+  {
+   "team": "UCLA Bruins",
+   "conference": "Big Ten",
+   "baseline": 4.332246376811593,
+   "vsin_included": 4.541168478260869,
+   "delta": 0.20892210144927592,
+   "rank_baseline": 51,
+   "rank_vsin": 51,
+   "vsin_residual": 0.43036081500450596
+  },
+  {
+   "team": "ULM Warhawks",
+   "conference": "Sun Belt",
+   "baseline": -21.339182194616978,
+   "vsin_included": -21.171331521739134,
+   "delta": 0.16785067287784372,
+   "rank_baseline": 134,
+   "rank_vsin": 134,
+   "vsin_residual": 0.14918564459081907
+  },
+  {
+   "team": "UNLV Rebels",
+   "conference": "Mountain West",
+   "baseline": 1.882246376811594,
+   "vsin_included": 1.8974184782608694,
+   "delta": 0.015172101449275388,
+   "rank_baseline": 62,
+   "rank_vsin": 61,
+   "vsin_residual": 0.9283249303730103
+  },
+  {
+   "team": "USC Trojans",
+   "conference": "Big Ten",
+   "baseline": 17.960817805383023,
+   "vsin_included": 17.96616847826087,
+   "delta": 0.005350672877845852,
+   "rank_baseline": 13,
+   "rank_vsin": 13,
+   "vsin_residual": -0.029096297943773664
+  },
+  {
+   "team": "UTEP Miners",
+   "conference": "Mountain West",
+   "baseline": -19.00346790890269,
+   "vsin_included": -19.06508152173913,
+   "delta": -0.0616136128364424,
+   "rank_baseline": 130,
+   "rank_vsin": 130,
+   "vsin_residual": -0.5807887154223259
+  },
+  {
+   "team": "UTSA Roadrunners",
+   "conference": "American",
+   "baseline": -2.6463250517598342,
+   "vsin_included": -2.4400815217391303,
+   "delta": 0.20624353002070395,
+   "rank_baseline": 79,
+   "rank_vsin": 78,
+   "vsin_residual": 0.9475689054963408
+  },
+  {
+   "team": "Utah State Aggies",
+   "conference": "Pac-12",
+   "baseline": -6.296325051759833,
+   "vsin_included": -6.19633152173913,
+   "delta": 0.09999353002070333,
+   "rank_baseline": 91,
+   "rank_vsin": 91,
+   "vsin_residual": -0.20978098632442155
+  },
+  {
+   "team": "Utah Utes",
+   "conference": "Big 12",
+   "baseline": 11.089389233954451,
+   "vsin_included": 11.26616847826087,
+   "delta": 0.17677924430641845,
+   "rank_baseline": 28,
+   "rank_vsin": 28,
+   "vsin_residual": 1.1960406856020214
+  },
+  {
+   "team": "Vanderbilt Commodores",
+   "conference": "SEC",
+   "baseline": 9.81081780538302,
+   "vsin_included": 9.77241847826087,
+   "delta": -0.03839932712215166,
+   "rank_baseline": 29,
+   "rank_vsin": 29,
+   "vsin_residual": 0.06386987573106495
+  },
+  {
+   "team": "Virginia Cavaliers",
+   "conference": "ACC",
+   "baseline": 7.7893892339544495,
+   "vsin_included": 7.8786684782608685,
+   "delta": 0.08927924430641898,
+   "rank_baseline": 38,
+   "rank_vsin": 38,
+   "vsin_residual": 0.7534053596214427
+  },
+  {
+   "team": "Virginia Tech Hokies",
+   "conference": "ACC",
+   "baseline": 8.63938923395445,
+   "vsin_included": 8.684918478260869,
+   "delta": 0.045529244306418803,
+   "rank_baseline": 33,
+   "rank_vsin": 34,
+   "vsin_residual": 0.7546908245838431
+  },
+  {
+   "team": "Wake Forest Demon Deacons",
+   "conference": "ACC",
+   "baseline": 3.4822463768115934,
+   "vsin_included": 3.6099184782608695,
+   "delta": 0.1276721014492761,
+   "rank_baseline": 57,
+   "rank_vsin": 57,
+   "vsin_residual": 1.4667053070278717
+  },
+  {
+   "team": "Washington Huskies",
+   "conference": "Big Ten",
+   "baseline": 13.475103519668735,
+   "vsin_included": 13.60366847826087,
+   "delta": 0.12856495859213446,
+   "rank_baseline": 21,
+   "rank_vsin": 21,
+   "vsin_residual": 0.4900365748086699
+  },
+  {
+   "team": "Washington State Cougars",
+   "conference": "Pac-12",
+   "baseline": -3.867753623188405,
+   "vsin_included": -3.88383152173913,
+   "delta": -0.016077898550725056,
+   "rank_baseline": 83,
+   "rank_vsin": 83,
+   "vsin_residual": -0.9472635343661295
+  },
+  {
+   "team": "West Virginia Mountaineers",
+   "conference": "Big 12",
+   "baseline": 1.589389233954451,
+   "vsin_included": 1.7661684782608693,
+   "delta": 0.17677924430641823,
+   "rank_baseline": 63,
+   "rank_vsin": 63,
+   "vsin_residual": 0.5545068466215941
+  },
+  {
+   "team": "Western Kentucky Hilltoppers",
+   "conference": "Conference USA",
+   "baseline": -5.610610766045549,
+   "vsin_included": -5.59633152173913,
+   "delta": 0.014279244306418803,
+   "rank_baseline": 88,
+   "rank_vsin": 88,
+   "vsin_residual": 0.6861992009198419
+  },
+  {
+   "team": "Western Michigan Broncos",
+   "conference": "MAC",
+   "baseline": -6.082039337474119,
+   "vsin_included": -5.88383152173913,
+   "delta": 0.1982078157349889,
+   "rank_baseline": 90,
+   "rank_vsin": 90,
+   "vsin_residual": 2.1192345331415456
+  },
+  {
+   "team": "Wisconsin Badgers",
+   "conference": "Big Ten",
+   "baseline": 4.496532091097308,
+   "vsin_included": 4.622418478260869,
+   "delta": 0.12588638716356115,
+   "rank_baseline": 49,
+   "rank_vsin": 50,
+   "vsin_residual": 0.18210414819866294
+  },
+  {
+   "team": "Wyoming Cowboys",
+   "conference": "Mountain West",
+   "baseline": -11.43203933747412,
+   "vsin_included": -11.440081521739131,
+   "delta": -0.008042184265011798,
+   "rank_baseline": 112,
+   "rank_vsin": 112,
+   "vsin_residual": -0.250972813400562
+  }
+ ]
+}
