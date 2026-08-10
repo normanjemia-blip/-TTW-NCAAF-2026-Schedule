@@ -335,9 +335,9 @@ Steve Makinen's win-total bets involving this conference (pp. 22–27):
 | Team | Pick | Number |
 | --- | --- | --- |
 | Florida Atlantic Owls | **OVER** | 5.5 |
+| Memphis Tigers | **UNDER** | 7.5 |
 | North Texas Eagles | **UNDER** | 5.5 |
-| South Florida Bulls | **UNDER** | 7.5 |
-| UTSA Roadrunners | **UNDER** | 8.5 |
+| South Florida Bulls | **UNDER** | 8.5 |
 
 **What the preview says about win totals:**
 
