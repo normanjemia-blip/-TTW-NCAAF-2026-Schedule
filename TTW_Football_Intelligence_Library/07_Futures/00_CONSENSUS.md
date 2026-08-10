@@ -28,8 +28,15 @@ One row per category. *Top pick* is the most-named team, *share* is how many of 
 | SEC CHAMPION | **Georgia** | 14/22 | 3 | Texas (7), Texas A&M (1) |
 | BIG 12 CHAMPION | **Texas Tech** | 14/22 | 3 | BYU (7), Kansas State (1) |
 
-## Unanimous and near-unanimous
+## Strongest agreement
 
+**No category is unanimous, and none comes close.** The strongest agreement anywhere on p. 4 is 17 of 22 — so even the guide's most settled question leaves 5 of its own contributors picking someone else. That is worth stating plainly, because a table of majorities invites the reader to treat the leader as the guide's answer, and the guide does not have one.
+
+- **CFP FINAL FOUR #1** — Notre Dame, 17 of 22; 5 other teams named
+- **ACC CHAMPION** — Miami, 16 of 22; 4 other teams named
+- **CFP TITLE GAME #1** — Notre Dame, 15 of 22; 5 other teams named
+- **BIG 12 CHAMPION** — Texas Tech, 14 of 22; 2 other teams named
+- **SEC CHAMPION** — Georgia, 14 of 22; 2 other teams named
 
 ## Most divided
 

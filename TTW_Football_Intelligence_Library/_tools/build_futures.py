@@ -117,12 +117,20 @@ def build_consensus(real, roster):
         L.append(f"| {cat} | **{top}** | {n}/{len(roster)} | {spread} | "
                  f"{others or '—'} |")
     L.append("")
-    L.append("## Unanimous and near-unanimous\n")
-    for c in real:
+    L.append("## Strongest agreement\n")
+    best = max(consensus(c["picks"])[0][1] for c in real)
+    L.append(f"**No category is unanimous, and none comes close.** The "
+             f"strongest agreement anywhere on p. 4 is {best} of "
+             f"{len(roster)} — so even the guide's most settled question "
+             f"leaves {len(roster) - best} of its own contributors picking "
+             f"someone else. That is worth stating plainly, because a table "
+             f"of majorities invites the reader to treat the leader as the "
+             f"guide's answer, and the guide does not have one.\n")
+    for c in sorted(real, key=lambda c: -consensus(c["picks"])[0][1])[:5]:
         t = consensus(c["picks"])
-        if t[0][1] >= len(roster) - 3:
-            L.append(f"- **{c['category']}** — {t[0][0]}, {t[0][1]} of "
-                     f"{len(roster)}")
+        L.append(f"- **{c['category']}** — {t[0][0]}, {t[0][1]} of "
+                 f"{len(roster)}; {len(t) - 1} other team"
+                 f"{'s' if len(t) != 2 else ''} named")
     L.append("")
     L.append("## Most divided\n")
     for spread, negn, cat, top, n, others in sorted(rows, reverse=True)[:5]:
