@@ -125,8 +125,14 @@ def main():
         sys.exit("duplicate team in the feature list")
 
     intro = re.sub(r"\s+", " ", pages[FIRST]).strip()
-    rec = re.search(r"overall four-year record is now ([\d-]+) for ([\d.]+%)"
-                    r".*?(\d+-\d+(?:-\d+)?) \(([\d.]+%)\) on Unders", intro)
+    # p. 22 breaks the Unders record across a line as "34- 17-1", so the
+    # hyphens have to tolerate whitespace or the leading 34 is silently
+    # dropped and the record reads "17-1". Captured groups are re-joined
+    # without the whitespace so the stored value is the printed number.
+    W = r"(\d+(?:\s*-\s*\d+)+)"
+    rec = re.search(r"overall four-year record is now " + W + r" for ([\d.]+%)"
+                    r".*?" + W + r" \(([\d.]+%)\) on Unders", intro)
+    tidy = (lambda g: re.sub(r"\s*-\s*", "-", rec.group(g))) if rec else None
 
     out = {
         "feature_title": "2026 college football win totals I'm betting now",
@@ -136,9 +142,9 @@ def main():
                           "Stability Scores, the transitional systems, the "
                           "recruiting rankings, and playing out the schedule "
                           "by his power ratings"),
-        "stated_record_overall": rec.group(1) if rec else None,
+        "stated_record_overall": tidy(1) if rec else None,
         "stated_record_overall_pct": rec.group(2) if rec else None,
-        "stated_record_unders": rec.group(3) if rec else None,
+        "stated_record_unders": tidy(3) if rec else None,
         "stated_record_unders_pct": rec.group(4) if rec else None,
         "market_named": "DraftKings",
         "prices_printed": False,

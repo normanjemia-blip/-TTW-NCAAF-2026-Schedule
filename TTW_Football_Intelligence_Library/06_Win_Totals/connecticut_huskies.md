@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Breaking in a new quarterback is a component of two of the three decline systems he applies. |
 | 13 | Coaching argument | Candle's own record is strong — 81-44 at Toledo, never below .500 — but he notes the eight comparable teams that also changed head coach fell 29% and -4.4 wins. |
 | 14 | Returning-production / roster argument | One of the most inexperienced rosters in the country, with four or fewer offensive starters returning. |
+| 15 | Power-rating context | Makinen rates them **31.5**; his projected record is 5.3–6.7 overall and 0.0–0.0 in conference |
+| 16 | Conference-strength context | schedule strength 32.83, ranked #100 of 138 |
 | 17 | Key swing games | Not named individually; three Power Four opponents are counted. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He cites -11.7% and -11.8% ATS declines for two of the comparison groups. |
 | 23 | Other VSiN contributor opinions | He notes the oddsmakers themselves already expect a sharp drop-off. |
-| 15 | Power-rating context | Makinen rates them **31.5**; his projected record is 5.3–6.7 overall and 0.0–0.0 in conference |
-| 16 | Conference-strength context | schedule strength 32.83, ranked #100 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 24; conference table p. 209; team pp. 210–211 |
 | 26 | Source conflicts / ambiguities | The passage as printed contains a stray name — the quarterback system sentence ends with 'Nico Iamaleava', who is a UCLA player and not a UConn one. Reproduced as printed and not corrected. |

@@ -6,7 +6,7 @@
 
 > **Source class: GUIDE CONTENT.** Every number and argument is printed in the 2026 VSiN College Football Betting Guide. TTW reference notes paraphrase the reasoning; the judgement is the guide's. No outside research, no post-publication updates.
 
-*Steve Makinen, pp. 22–27.* He states his method as going back through the coaching changes, the Stability Scores, the transitional systems, the recruiting rankings, and playing out the schedule by his power ratings, and prints his own record: **57-42-2** overall across four years (57.6%), including **17-1** on Unders (66.7%) — which is why he says he has again opted for more Unders than Overs.
+*Steve Makinen, pp. 22–27.* He states his method as going back through the coaching changes, the Stability Scores, the transitional systems, the recruiting rankings, and playing out the schedule by his power ratings, and prints his own record: **57-42-2** overall across four years (57.6%), including **34-17-1** on Unders (66.7%) — which is why he says he has again opted for more Unders than Overs.
 
 **14 Overs, 15 Unders.** The market named throughout is DraftKings. **No Over or Under price is printed anywhere in the feature**, so fields 4 and 5 of every record read `Not addressed in guide.`
 

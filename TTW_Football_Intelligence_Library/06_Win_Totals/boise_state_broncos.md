@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Maddux Madsen returns as a senior. |
 | 13 | Coaching argument | Spencer Danielson is in his fourth year with the programme. |
 | 14 | Returning-production / roster argument | Not addressed in guide. |
+| 15 | Power-rating context | Makinen rates them **50.5**; his projected record is 9.2–2.8 overall and 5.8–1.2 in conference |
+| 16 | Conference-strength context | schedule strength 39.13, ranked #73 of 138 |
 | 17 | Key swing games | The opener at Oregon, which he names as the only likely loss. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | He says he would be willing to bet the number up to at least 8.5, which implies a nine-win view. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | He calls Boise State the obvious favorite to take the newly formed Pac-12. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **50.5**; his projected record is 9.2–2.8 overall and 5.8–1.2 in conference |
-| 16 | Conference-strength context | schedule strength 39.13, ranked #73 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 22; conference table p. 265; team pp. 266–267 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

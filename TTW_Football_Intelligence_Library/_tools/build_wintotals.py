@@ -86,30 +86,46 @@ def render_team(team, e, row, tp, note):
     A("")
     A("## The market and the recommendation")
     A("")
+    # Field rows are collected by their spec number and emitted in numeric
+    # order, so the record reads 1..26 no matter what order they are built in.
+    field = {}
+    field[1] = ("Team", team)
+    field[2] = ("Conference", row["team"] and e["conference"])
+    field[3] = ("Posted win total",
+                f"**{row['dk_win_total']}** (DraftKings, conference table "
+                f"p. {row['preview_page']})")
+    field[4] = ("Over price", NA)
+    field[5] = ("Under price", NA)
+    field[6] = ("VSiN recommendation", f"**{e['side']} {e['number']:g}**")
+    field[7] = ("Recommendation strength", f(note, "strength"))
+    field[8] = ("Contributor",
+                f"Steve Makinen (feature); team page pick printed as "
+                f"**{tp['pick']['side'].title()} {tp['pick']['number']}**")
+    for key, num, label in FIELDS:
+        field[num] = (label, f(note, key))
+    field[15] = ("Power-rating context",
+                 f"Makinen rates them **{row['sm_power_rating']}**; his "
+                 f"projected record is {row['proj_wins_all']}–"
+                 f"{row['proj_losses_all']} overall and "
+                 f"{row['proj_wins_conf']}–{row['proj_losses_conf']} "
+                 f"in conference")
+    field[16] = ("Conference-strength context",
+                 f"schedule strength {row['schedule_strength']}, ranked "
+                 f"#{row['schedule_rank']} of 138")
+    field[24] = ("Internal disagreement", f(note, "internal_disagreement"))
+    field[25] = ("Page references",
+                 f"feature p. {e['page']}; conference table "
+                 f"p. {row['preview_page']}; team pp. "
+                 f"{tp['pages'][0]}–{tp['pages'][1]}")
+    field[26] = ("Source conflicts / ambiguities", f(note, "conflicts"))
+    if sorted(field) != list(range(1, 27)):
+        raise SystemExit(f"{team}: field numbers are {sorted(field)}")
+
     A("| # | Field | Value |")
     A("| --- | --- | --- |")
-    A(f"| 1 | Team | {team} |")
-    A(f"| 2 | Conference | {row['team'] and e['conference']} |")
-    A(f"| 3 | Posted win total | **{row['dk_win_total']}** "
-      f"(DraftKings, conference table p. {row['preview_page']}) |")
-    A(f"| 4 | Over price | {NA} |")
-    A(f"| 5 | Under price | {NA} |")
-    A(f"| 6 | VSiN recommendation | **{e['side']} {e['number']:g}** |")
-    A(f"| 7 | Recommendation strength | {f(note, 'strength')} |")
-    A(f"| 8 | Contributor | Steve Makinen (feature); team page pick printed "
-      f"as **{tp['pick']['side'].title()} {tp['pick']['number']}** |")
-    for key, num, label in FIELDS:
-        A(f"| {num} | {label} | {f(note, key)} |")
-    A(f"| 15 | Power-rating context | Makinen rates them "
-      f"**{row['sm_power_rating']}**; his projected record is "
-      f"{row['proj_wins_all']}–{row['proj_losses_all']} overall and "
-      f"{row['proj_wins_conf']}–{row['proj_losses_conf']} in conference |")
-    A(f"| 16 | Conference-strength context | schedule strength "
-      f"{row['schedule_strength']}, ranked #{row['schedule_rank']} of 138 |")
-    A(f"| 24 | Internal disagreement | {f(note, 'internal_disagreement')} |")
-    A(f"| 25 | Page references | feature p. {e['page']}; conference table "
-      f"p. {row['preview_page']}; team pp. {tp['pages'][0]}–{tp['pages'][1]} |")
-    A(f"| 26 | Source conflicts / ambiguities | {f(note, 'conflicts')} |")
+    for num in range(1, 27):
+        label, value = field[num]
+        A(f"| {num} | {label} | {value} |")
     A("")
 
     A("## What the guide's own numbers imply")

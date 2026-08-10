@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Not addressed in guide. |
 | 13 | Coaching argument | Rob Harley is a first-time head coach under an interim tag, and the defensive coordinator change is the trigger for his decline system. |
 | 14 | Returning-production / roster argument | Zero defensive starters with experience; five offensive starters back plus one transfer, which he says may or may not be a blessing. |
+| 15 | Power-rating context | Makinen rates them **21.5**; his projected record is 2.4–9.6 overall and 1.7–6.3 in conference |
+| 16 | Conference-strength context | schedule strength 36.6, ranked #79 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | He says it is hard to see more than a win or two this season. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He cites the comparison group's 44.4% cover rate and 13.9% ATS decline. |
 | 23 | Other VSiN contributor opinions | Phil Steele's guide is cited for the returning-starters count. |
-| 15 | Power-rating context | Makinen rates them **21.5**; his projected record is 2.4–9.6 overall and 1.7–6.3 in conference |
-| 16 | Conference-strength context | schedule strength 36.6, ranked #79 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 26; conference table p. 243; team pp. 254–255 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Bishop Davenport is back for his senior season after leading the team to 26.5 points per game. |
 | 13 | Coaching argument | Third-season head coach Major Applewhite, coming off a disappointing 4-8, secured his best class. |
 | 14 | Returning-production / roster argument | Several of the newcomers are Power Four transfers. |
+| 15 | Power-rating context | Makinen rates them **29**; his projected record is 5.0–7.0 overall and 3.6–4.4 in conference |
+| 16 | Conference-strength context | schedule strength 32.68, ranked #102 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | A return to a bowl game. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Under 5.5. |
-| 15 | Power-rating context | Makinen rates them **29**; his projected record is 5.0–7.0 overall and 3.6–4.4 in conference |
-| 16 | Conference-strength context | schedule strength 32.68, ranked #102 of 138 |
 | 24 | Internal disagreement | The feature bets Over 5.5 while the team page prints Under 5.5. Both are reproduced. |
 | 25 | Page references | feature p. 23; conference table p. 317; team pp. 340–341 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

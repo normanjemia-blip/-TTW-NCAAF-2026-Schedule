@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Breaking in a new quarterback is a component of both systems he applies. |
 | 13 | Coaching argument | First-year head coach John Hauser, though he was previously the defensive coordinator, which Makinen counts as less change than most. |
 | 14 | Returning-production / roster argument | Four or fewer offensive starters returning; 14 or fewer starters overall. |
+| 15 | Power-rating context | Makinen rates them **31.5**; his projected record is 7.2–4.8 overall and 5.1–2.9 in conference |
+| 16 | Conference-strength context | schedule strength 26.72, ranked #135 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | He works the system through to 3.6-8.4 and then says that is probably too drastic. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He cites the -11.7% ATS decline of the comparison group. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **31.5**; his projected record is 7.2–4.8 overall and 5.1–2.9 in conference |
-| 16 | Conference-strength context | schedule strength 26.72, ranked #135 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 26; conference table p. 215; team pp. 234–235 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

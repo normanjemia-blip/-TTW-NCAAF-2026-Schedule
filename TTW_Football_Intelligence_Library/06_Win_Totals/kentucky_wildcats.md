@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Addressed by absence — he contrasts Dante Moore at Oregon with the talent level now at Kentucky. |
 | 13 | Coaching argument | Will Stein replaces Mark Stoops after a decade; his Oregon offense is credited but tied to talent he no longer has. |
 | 14 | Returning-production / roster argument | A lot of transfer talent is fresh to Lexington, which he says might not make year one easier. |
+| 15 | Power-rating context | Makinen rates them **47**; his projected record is 4.3–7.7 overall and 2.0–7.0 in conference |
+| 16 | Conference-strength context | schedule strength 51.93, ranked #3 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | He frames the race for the bottom of the SEC as Arkansas or Kentucky. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Over 4.5. |
-| 15 | Power-rating context | Makinen rates them **47**; his projected record is 4.3–7.7 overall and 2.0–7.0 in conference |
-| 16 | Conference-strength context | schedule strength 51.93, ranked #3 of 138 |
 | 24 | Internal disagreement | The feature leans Under 4.5 while the team page prints Over 4.5. Both are reproduced. |
 | 25 | Page references | feature p. 25; conference table p. 283; team pp. 294–295 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Caden Veltkamp returns for his senior year after throwing for over 3,600 yards. |
 | 13 | Coaching argument | Second-year head coach Zach Kittley, whose first team he calls fun to watch, now has a year in the new system behind it. |
 | 14 | Returning-production / roster argument | Twelve returning starters in total, which triggers the added-starters transition angle. |
+| 15 | Power-rating context | Makinen rates them **33.5**; his projected record is 5.4–6.6 overall and 2.9–5.1 in conference |
+| 16 | Conference-strength context | schedule strength 34.81, ranked #88 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | He frames the upside as FAU's best football year since the Lane Kiffin era. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **33.5**; his projected record is 5.4–6.6 overall and 2.9–5.1 in conference |
-| 16 | Conference-strength context | schedule strength 34.81, ranked #88 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 22; conference table p. 49; team pp. 56–57 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

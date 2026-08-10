@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | The transfer quarterback from a Sun Belt programme is one of only two experienced players on offense. |
 | 13 | Coaching argument | Jimmy Rogers starts essentially from scratch after Matt Campbell left for Penn State and took recruits with him. |
 | 14 | Returning-production / roster argument | At least eight fewer returning starters than the prior season, the trigger for his first decline system. |
+| 15 | Power-rating context | Makinen rates them **41.5**; his projected record is 4.8–7.2 overall and 2.8–6.2 in conference |
+| 16 | Conference-strength context | schedule strength 43.93, ranked #51 of 138 |
 | 17 | Key swing games | Not named individually. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Most respected prognosticators project the programme at the bottom of the Big 12. |
 | 22 | Relevant best-bet interaction | He cites ATS declines of about 6.3% and 11.7% for the two comparison groups. |
 | 23 | Other VSiN contributor opinions | He notes DraftKings' number is less pessimistic than the analysts', and that prognosticators put Iowa State bottom of the conference. |
-| 15 | Power-rating context | Makinen rates them **41.5**; his projected record is 4.8–7.2 overall and 2.8–6.2 in conference |
-| 16 | Conference-strength context | schedule strength 43.93, ranked #51 of 138 |
 | 24 | Internal disagreement | The team page prints Under 4.5 while the feature bets Under 5.5 — the same side at a different number. Both are reproduced. |
 | 25 | Page references | feature p. 25; conference table p. 115; team pp. 130–131 |
 | 26 | Source conflicts / ambiguities | The conference table prints a DraftKings total of 5.5; the team page uses 4.5. Both are reproduced as printed. |

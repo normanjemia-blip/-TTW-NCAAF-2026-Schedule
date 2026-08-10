@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Penn State transfer Ethan Grunkemeyer, who started seven games as a freshman. |
 | 13 | Coaching argument | James Franklin's arrival, and Makinen's observation that he has rarely been so effusive about his team's offseason work. |
 | 14 | Returning-production / roster argument | Fifteen starters retained plus three added through the portal, triggering the added-starters system. |
+| 15 | Power-rating context | Makinen rates them **51**; his projected record is 7.3–4.7 overall and 4.8–4.2 in conference |
+| 16 | Conference-strength context | schedule strength 43.23, ranked #60 of 138 |
 | 17 | Key swing games | Not named individually; the early schedule is described as containing very probable wins. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | A very nice 2026 season, propelled by the early schedule. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | He frames the ACC as a season of a lot of question marks, which is the backdrop for the total being understated. |
 | 22 | Relevant best-bet interaction | He cites the added-starters group's 6.7% ATS rise. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **51**; his projected record is 7.3–4.7 overall and 4.8–4.2 in conference |
-| 16 | Conference-strength context | schedule strength 43.23, ranked #60 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 24; conference table p. 79; team pp. 110–111 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

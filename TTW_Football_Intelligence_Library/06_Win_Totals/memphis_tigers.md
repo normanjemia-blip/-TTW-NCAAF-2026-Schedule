@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Marcus Stokes, a Division II West Florida transfer, was listed as the starter after the spring game; Makinen doubts the step up. |
 | 13 | Coaching argument | Charles Huff's rapid movement between jobs, which he says has made his name synonymous with instability. |
 | 14 | Returning-production / roster argument | Only one 2025 Memphis starter is back, so most of the team will be totally fresh. |
+| 15 | Power-rating context | Makinen rates them **41**; his projected record is 7.3–4.7 overall and 5.0–3.0 in conference |
+| 16 | Conference-strength context | schedule strength 35.48, ranked #81 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Phil Steele picks Memphis sixth in the American rather than among the elite. |
 | 22 | Relevant best-bet interaction | He cites the comparison group's 44.2% ATS record. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Over 7.5; Phil Steele's conference projection is also cited. |
-| 15 | Power-rating context | Makinen rates them **41**; his projected record is 7.3–4.7 overall and 5.0–3.0 in conference |
-| 16 | Conference-strength context | schedule strength 35.48, ranked #81 of 138 |
 | 24 | Internal disagreement | The feature bets Under 7.5 while the team page prints Over 7.5. Both are reproduced. |
 | 25 | Page references | feature p. 25; conference table p. 49; team pp. 58–59 |
 | 26 | Source conflicts / ambiguities | This entry was missing entirely from the Phase 2 artefact, which is recorded in the source conflict audit as a TTW artefact defect rather than a guide conflict. |

@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Duke transfer Henry Belin is expected to take over as a senior. |
 | 13 | Coaching argument | Casey Woods takes his first head-coaching job after serving as SMU's offensive coordinator, replacing the coach who led the FBS transition. |
 | 14 | Returning-production / roster argument | Very little experience on the roster and a Stability Score of zero. |
+| 15 | Power-rating context | Makinen rates them **25**; his projected record is 4.2–7.8 overall and 3.0–5.0 in conference |
+| 16 | Conference-strength context | schedule strength 33.83, ranked #95 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **25**; his projected record is 4.2–7.8 overall and 3.0–5.0 in conference |
-| 16 | Conference-strength context | schedule strength 33.83, ranked #95 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 25; conference table p. 187; team pp. 200–201 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Breaking in a new quarterback is the trigger for the system he applies. |
 | 13 | Coaching argument | Hartline's pedigree is praised at length; the concern is the first-year transition rather than his ability. |
 | 14 | Returning-production / roster argument | Four or fewer offensive starters returning. |
+| 15 | Power-rating context | Makinen rates them **41**; his projected record is 8.4–3.6 overall and 4.8–3.2 in conference |
+| 16 | Conference-strength context | schedule strength 31.46, ranked #112 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | He expects Hartline to succeed quickly and treats the job as a stepping stone to a Power Four programme. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He cites the comparison group's -11.7% ATS decline. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **41**; his projected record is 8.4–3.6 overall and 4.8–3.2 in conference |
-| 16 | Conference-strength context | schedule strength 31.46, ranked #112 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 27; conference table p. 49; team pp. 66–67 |
 | 26 | Source conflicts / ambiguities | This entry's number was recorded as 7.5 rather than 8.5 in the Phase 2 artefact; that is a TTW artefact defect recorded in the source conflict audit, not a guide conflict. |

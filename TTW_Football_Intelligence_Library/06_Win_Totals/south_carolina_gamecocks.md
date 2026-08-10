@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | LaNorris Sellers, the team's offensive star, decided to come back. |
 | 13 | Coaching argument | Framed as fortunate for Shane Beamer that key players returned rather than as a coaching argument in itself. |
 | 14 | Returning-production / roster argument | The two transition systems both turn on returning starters — nine or more offensive starters including the quarterback, and 13-plus starters overall. |
+| 15 | Power-rating context | Makinen rates them **54**; his projected record is 6.6–5.4 overall and 4.2–4.8 in conference |
+| 16 | Conference-strength context | schedule strength 48.96, ranked #21 of 138 |
 | 17 | Key swing games | The October game at Florida, which he treats as the season's hinge. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | A return to where the programme was two years ago. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He cites the 56.5% ATS record of one comparison group as a profit-making collection. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Under 6.5. |
-| 15 | Power-rating context | Makinen rates them **54**; his projected record is 6.6–5.4 overall and 4.2–4.8 in conference |
-| 16 | Conference-strength context | schedule strength 48.96, ranked #21 of 138 |
 | 24 | Internal disagreement | The feature bets Over 6.5 while the team page prints Under 6.5. Both are reproduced. |
 | 25 | Page references | feature p. 23; conference table p. 283; team pp. 306–307 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

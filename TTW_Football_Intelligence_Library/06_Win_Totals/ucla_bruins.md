@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Nico Iamaleava returns, and the quarterback's retention is the pivot of the system he applies. |
 | 13 | Coaching argument | Bob Chesney arrives after taking James Madison to the CFP, replacing a coach who went 8-16; Makinen calls it an obvious coaching upgrade. |
 | 14 | Returning-production / roster argument | Numerous Power Four transfers, amounting to about 18 starting players filling spots — a number he calls lofty in this era. |
+| 15 | Power-rating context | Makinen rates them **48**; his projected record is 5.9–6.1 overall and 3.8–5.2 in conference |
+| 16 | Conference-strength context | schedule strength 48.46, ranked #25 of 138 |
 | 17 | Key swing games | Not named individually; the six winnable home games are counted rather than listed. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He cites the comparison group's 13.3% ATS improvement. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Under 6.5. |
-| 15 | Power-rating context | Makinen rates them **48**; his projected record is 5.9–6.1 overall and 3.8–5.2 in conference |
-| 16 | Conference-strength context | schedule strength 48.46, ranked #25 of 138 |
 | 24 | Internal disagreement | The feature bets Over 6.5 while the team page prints Under 6.5. Both are reproduced. |
 | 25 | Page references | feature p. 24; conference table p. 149; team pp. 178–179 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

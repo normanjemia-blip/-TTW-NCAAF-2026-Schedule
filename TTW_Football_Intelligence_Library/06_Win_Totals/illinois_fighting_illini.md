@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Luke Altmyer is gone, replaced by former Michigan State starter Katin Houser. |
 | 13 | Coaching argument | Fifth-year coach Bret Bielema, with 19 wins over two seasons and his best recruiting class on record. |
 | 14 | Returning-production / roster argument | Eleven other starters in place alongside the new quarterback. |
+| 15 | Power-rating context | Makinen rates them **51**; his projected record is 7.3–4.7 overall and 4.7–4.3 in conference |
+| 16 | Conference-strength context | schedule strength 46.05, ranked #36 of 138 |
 | 17 | Key swing games | Ohio State and Oregon, named as the two likely losses. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Under 7.5. |
-| 15 | Power-rating context | Makinen rates them **51**; his projected record is 7.3–4.7 overall and 4.7–4.3 in conference |
-| 16 | Conference-strength context | schedule strength 46.05, ranked #36 of 138 |
 | 24 | Internal disagreement | The feature bets Over 7.5 while the team page prints Under 7.5. Both are reproduced and neither is corrected. |
 | 25 | Page references | feature p. 22; conference table p. 149; team pp. 150–151 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

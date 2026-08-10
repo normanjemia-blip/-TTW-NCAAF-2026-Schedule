@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | A new quarterback is a component of the offensive-coordinator decline system. |
 | 13 | Coaching argument | Third-year head coach Ken Niumatalolo has not revived recruiting, and Makinen says the magic from his Navy years has worn off; the coordinator change compounds it. |
 | 14 | Returning-production / roster argument | Only three starters back from a 3-9 team, at least eight fewer than the prior season. |
+| 15 | Power-rating context | Makinen rates them **27**; his projected record is 4.5–8.5 overall and 2.8–5.2 in conference |
+| 16 | Conference-strength context | schedule strength 34.39, ranked #90 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He calls the 37-team comparison group a strong play-against at 45.1% ATS. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **27**; his projected record is 4.5–8.5 overall and 2.8–5.2 in conference |
-| 16 | Conference-strength context | schedule strength 34.39, ranked #90 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 27; conference table p. 243; team pp. 256–257 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

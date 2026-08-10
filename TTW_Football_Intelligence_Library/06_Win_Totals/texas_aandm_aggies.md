@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Marcel Reed returns as a junior, and the returning-starter-at-quarterback angle is the base of his whole case. |
 | 13 | Coaching argument | Mike Elko in year three, with the same head coach and offensive coordinator as part of the stability angle. |
 | 14 | Returning-production / roster argument | Seventeen other starters back, which he calls exclamation-worthy. |
+| 15 | Power-rating context | Makinen rates them **62.5**; his projected record is 8.5–3.5 overall and 5.6–3.4 in conference |
+| 16 | Conference-strength context | schedule strength 49.67, ranked #12 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Movement into elite territory, following a CFP appearance last season. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | The CFP appearance last season is the reference point for the ceiling. |
 | 22 | Relevant best-bet interaction | He cites 53.3% ATS for one comparison group and calls it profitable. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Under 8.5. |
-| 15 | Power-rating context | Makinen rates them **62.5**; his projected record is 8.5–3.5 overall and 5.6–3.4 in conference |
-| 16 | Conference-strength context | schedule strength 49.67, ranked #12 of 138 |
 | 24 | Internal disagreement | The feature bets Over 8.5 while the team page prints Under 8.5. Both are reproduced. |
 | 25 | Page references | feature p. 23; conference table p. 283; team pp. 312–313 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

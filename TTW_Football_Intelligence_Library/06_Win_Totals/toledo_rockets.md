@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Not addressed in guide. |
 | 13 | Coaching argument | Jason Candle's departure and Mike Jacobs's arrival, with the recruiting collapse treated as the first domino. |
 | 14 | Returning-production / roster argument | Only six players with starting experience back, far fewer starts than were lost, against a programme identity built on returning starters. |
+| 15 | Power-rating context | Makinen rates them **35.5**; his projected record is 8.2–3.8 overall and 5.9–2.1 in conference |
+| 16 | Conference-strength context | schedule strength 27.24, ranked #132 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Many prognosticators pick Toledo first in the MAC. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Over 7.5, and prognosticators are cited picking Toledo first. |
-| 15 | Power-rating context | Makinen rates them **35.5**; his projected record is 8.2–3.8 overall and 5.9–2.1 in conference |
-| 16 | Conference-strength context | schedule strength 27.24, ranked #132 of 138 |
 | 24 | Internal disagreement | The feature bets Under 7.5 while the team page prints Over 7.5. Both are reproduced. |
 | 25 | Page references | feature p. 27; conference table p. 215; team pp. 238–239 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

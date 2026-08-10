@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Not addressed in guide. |
 | 13 | Coaching argument | Matt Entz exceeded expectations in year one at 9-4 and responded by improving the recruiting class. |
 | 14 | Returning-production / roster argument | Thirteen starters back, which qualifies Fresno State for his returning-starters transition system. |
+| 15 | Power-rating context | Makinen rates them **42.5**; his projected record is 7.4–4.6 overall and 4.0–3.0 in conference |
+| 16 | Conference-strength context | schedule strength 37.66, ranked #75 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **42.5**; his projected record is 7.4–4.6 overall and 4.0–3.0 in conference |
-| 16 | Conference-strength context | schedule strength 37.66, ranked #75 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 22; conference table p. 265; team pp. 270–271 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

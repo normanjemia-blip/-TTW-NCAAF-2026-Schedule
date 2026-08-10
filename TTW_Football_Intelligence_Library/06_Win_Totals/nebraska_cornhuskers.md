@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Not addressed in guide. |
 | 13 | Coaching argument | Matt Rhule's repeated failure to deliver the expected step forward, which Makinen says may finally have come crashing down. |
 | 14 | Returning-production / roster argument | The recruit and transfer class ranked 66th, the worst in 15 years by 31 positions. |
+| 15 | Power-rating context | Makinen rates them **50.5**; his projected record is 6.3–5.7 overall and 3.5–5.5 in conference |
+| 16 | Conference-strength context | schedule strength 49.2, ranked #17 of 138 |
 | 17 | Key swing games | Not named individually; the closing seven weeks are treated as the danger. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | He argues the oddsmakers set the number without much consideration of personnel change — a criticism of the market rather than a contributor's view. |
-| 15 | Power-rating context | Makinen rates them **50.5**; his projected record is 6.3–5.7 overall and 3.5–5.5 in conference |
-| 16 | Conference-strength context | schedule strength 49.2, ranked #17 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 25; conference table p. 149; team pp. 164–165 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

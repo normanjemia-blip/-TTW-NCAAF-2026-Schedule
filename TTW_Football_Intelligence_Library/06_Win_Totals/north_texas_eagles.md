@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Drew Mestemaker's departure, which he calls virtually impossible to replace. |
 | 13 | Coaching argument | Neal Brown's incoming class ranked better than only four programmes nationally, which he calls utter failure to start his tenure. |
 | 14 | Returning-production / roster argument | At least eight fewer returning starters than the prior season, and four or fewer offensive starters back. |
+| 15 | Power-rating context | Makinen rates them **34.5**; his projected record is 5.9–6.1 overall and 4.3–3.7 in conference |
+| 16 | Conference-strength context | schedule strength 34.04, ranked #93 of 138 |
 | 17 | Key swing games | The opener at Indiana, within a difficult three-game start. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He cites ATS declines of about 6.3% and 11.7% for the two comparison groups. |
 | 23 | Other VSiN contributor opinions | He notes the oddsmakers themselves have already dropped the number significantly. |
-| 15 | Power-rating context | Makinen rates them **34.5**; his projected record is 5.9–6.1 overall and 4.3–3.7 in conference |
-| 16 | Conference-strength context | schedule strength 34.04, ranked #93 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 26; conference table p. 49; team pp. 62–63 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

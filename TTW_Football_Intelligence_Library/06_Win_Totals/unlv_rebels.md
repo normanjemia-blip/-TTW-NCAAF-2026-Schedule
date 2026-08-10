@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Auburn transfer Jackson Arnold arrives among the Power Four additions. |
 | 13 | Coaching argument | Dan Mullen has picked up right where Barry Odom left off, sustaining 30-12 over three years. |
 | 14 | Returning-production / roster argument | Numerous Power Four transfers attracted by the location. |
+| 15 | Power-rating context | Makinen rates them **44**; his projected record is 9.0–3.0 overall and 6.2–1.8 in conference |
+| 16 | Conference-strength context | schedule strength 33.36, ranked #97 of 138 |
 | 17 | Key swing games | Framed by absence: Boise State is off the schedule. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | A 9-3 record from his own schedule run, and he would bet the total higher. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | He makes UNLV the Mountain West favorite and expects them in the title hunt year in, year out. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side and a different number, printing Under 8.5. |
-| 15 | Power-rating context | Makinen rates them **44**; his projected record is 9.0–3.0 overall and 6.2–1.8 in conference |
-| 16 | Conference-strength context | schedule strength 33.36, ranked #97 of 138 |
 | 24 | Internal disagreement | The feature bets Over 7.5 while the team page prints Under 8.5 — a different side and a different number. Both are reproduced. |
 | 25 | Page references | feature p. 24; conference table p. 243; team pp. 258–259 |
 | 26 | Source conflicts / ambiguities | The conference table prints a DraftKings total of 7.5; the team page uses 8.5. Both are reproduced as printed. |

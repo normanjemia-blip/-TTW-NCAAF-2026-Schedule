@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Conner Weigman, the former Texas A&M transfer, had a huge year and is back for his senior season. |
 | 13 | Coaching argument | Willie Fritz is establishing a new, consistent standard. |
 | 14 | Returning-production / roster argument | Nineteen starters back, a Stability Score of 18 — one of two nationally — plus the 17-plus-starters ATS angle for the first four weeks. |
+| 15 | Power-rating context | Makinen rates them **53**; his projected record is 8.2–3.8 overall and 5.4–3.6 in conference |
+| 16 | Conference-strength context | schedule strength 41.96, ranked #66 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He notes the 17-plus-starters group's 55.7% ATS record in the first four weeks, which is a side-market angle rather than a win-total one. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **53**; his projected record is 8.2–3.8 overall and 5.4–3.6 in conference |
-| 16 | Conference-strength context | schedule strength 41.96, ranked #66 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 22; conference table p. 115; team pp. 128–129 |
 | 26 | Source conflicts / ambiguities | The team page's own text says Houston's win total is either 7.5 or 8.5 depending on where you look. The feature bets Over 8.5; the team page prints Over 7.5. Both are reproduced. |

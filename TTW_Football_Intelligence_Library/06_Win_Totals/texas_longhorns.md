@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Arch Manning exploded statistically over the final three games and he judges him 100% ready to fulfil his immense promise. |
 | 13 | Coaching argument | Steve Sarkisian's team won its final three games of 2025. |
 | 14 | Returning-production / roster argument | Nine or more returning offensive starters including the quarterback, which triggers his transition system. |
+| 15 | Power-rating context | Makinen rates them **66**; his projected record is 9.0–3.0 overall and 6.6–2.4 in conference |
+| 16 | Conference-strength context | schedule strength 53.83, ranked #1 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Two additional wins would put Texas at 11-1, which he calls realistic. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | He cites the comparison group's 53% ATS record and 16.8% ATS improvement. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **66**; his projected record is 9.0–3.0 overall and 6.6–2.4 in conference |
-| 16 | Conference-strength context | schedule strength 53.83, ranked #1 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 23; conference table p. 283; team pp. 310–311 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

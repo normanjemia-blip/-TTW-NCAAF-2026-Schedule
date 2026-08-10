@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Not addressed in guide. |
 | 13 | Coaching argument | He questions Chadwell's original move to Lynchburg on recruiting grounds and notes the class collapse. |
 | 14 | Returning-production / roster argument | Not addressed in guide. |
+| 15 | Power-rating context | Makinen rates them **34.5**; his projected record is 8.1–3.9 overall and 5.4–2.6 in conference |
+| 16 | Conference-strength context | schedule strength 27.06, ranked #133 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Respected prognosticators have Liberty atop Conference USA in the preseason. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Over 8.5, and he notes prognosticators favour Liberty in the conference. |
-| 15 | Power-rating context | Makinen rates them **34.5**; his projected record is 8.1–3.9 overall and 5.4–2.6 in conference |
-| 16 | Conference-strength context | schedule strength 27.06, ranked #133 of 138 |
 | 24 | Internal disagreement | The feature bets Under 8.5 while the team page prints Over 8.5. Both are reproduced. |
 | 25 | Page references | feature p. 25; conference table p. 187; team pp. 196–197 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Avery Johnson returns as a third-year starter and a senior. |
 | 13 | Coaching argument | Collin Klein's first head-coaching job, after seven seasons on staff in Manhattan and two as Texas A&M's coordinator; he played at KSU and the hire was met with optimism. |
 | 14 | Returning-production / roster argument | A reasonable amount of starting experience returning. |
+| 15 | Power-rating context | Makinen rates them **51**; his projected record is 8.2–3.8 overall and 5.5–3.5 in conference |
+| 16 | Conference-strength context | schedule strength 42.21, ranked #65 of 138 |
 | 17 | Key swing games | Not named individually; the argument is about which opponents are absent. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | An outside shot at contending for a Big 12 title game berth. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | The Big 12 title game berth is raised as a live outcome. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | The team page takes the opposite side, printing Under 7.5. |
-| 15 | Power-rating context | Makinen rates them **51**; his projected record is 8.2–3.8 overall and 5.5–3.5 in conference |
-| 16 | Conference-strength context | schedule strength 42.21, ranked #65 of 138 |
 | 24 | Internal disagreement | The feature bets Over 7.5 while the team page prints Under 7.5. Both are reproduced. |
 | 25 | Page references | feature p. 23; conference table p. 115; team pp. 134–135 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

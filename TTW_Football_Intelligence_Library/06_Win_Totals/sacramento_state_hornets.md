@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Not addressed in guide. |
 | 13 | Coaching argument | Alonzo Carter arrives with a new staff into a full programme transition. |
 | 14 | Returning-production / roster argument | An almost entirely new roster, with the incoming class falling 49 ranking positions year over year. |
+| 15 | Power-rating context | Makinen rates them **21.5**; his projected record is 4.2–7.8 overall and 2.9–5.1 in conference |
+| 16 | Conference-strength context | schedule strength 26.52, ranked #136 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | The programme's own belief that it is ready to compete at FBS level, backed by seven-plus wins in five of the last six seasons. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Phil Steele picks Sacramento State last in the conference, behind UMass. |
 | 22 | Relevant best-bet interaction | He cites the comparison group's 44.2% ATS record. |
 | 23 | Other VSiN contributor opinions | Phil Steele's conference projection is cited directly. |
-| 15 | Power-rating context | Makinen rates them **21.5**; his projected record is 4.2–7.8 overall and 2.9–5.1 in conference |
-| 16 | Conference-strength context | schedule strength 26.52, ranked #136 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 26; conference table p. 215; team pp. 236–237 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |

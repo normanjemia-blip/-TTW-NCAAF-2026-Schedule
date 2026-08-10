@@ -22,6 +22,8 @@
 | 12 | Quarterback argument | Steve Angeli returns for his senior season. |
 | 13 | Coaching argument | Fran Brown, in his third season, is described as a strong salesman who landed the second-best class in 17 years off a 3-9 record. |
 | 14 | Returning-production / roster argument | The prior year's heavy departures are given as the cause of the collapse rather than as a current asset. |
+| 15 | Power-rating context | Makinen rates them **42**; his projected record is 4.5–7.5 overall and 2.8–6.2 in conference |
+| 16 | Conference-strength context | schedule strength 46.9, ranked #32 of 138 |
 | 17 | Key swing games | Not addressed in guide. |
 | 18 | Floor case | Not addressed in guide. |
 | 19 | Ceiling case | Not addressed in guide. |
@@ -29,8 +31,6 @@
 | 21 | Relevant futures interaction | Not addressed in guide. |
 | 22 | Relevant best-bet interaction | Not addressed in guide. |
 | 23 | Other VSiN contributor opinions | Not addressed in guide. |
-| 15 | Power-rating context | Makinen rates them **42**; his projected record is 4.5–7.5 overall and 2.8–6.2 in conference |
-| 16 | Conference-strength context | schedule strength 46.9, ranked #32 of 138 |
 | 24 | Internal disagreement | Not addressed in guide. |
 | 25 | Page references | feature p. 23; conference table p. 79; team pp. 106–107 |
 | 26 | Source conflicts / ambiguities | Not addressed in guide. |
