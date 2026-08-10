@@ -1,0 +1,19 @@
+{
+  "YARDS PER POINT": {
+    "guide_definition": "p. 2: `YPPT – Yards per Point`.",
+    "guide_usage": "A printed category with a value and national rank on both the offensive and defensive tables for all 138 teams. It is one of the six terms the guide's vocabulary is genuinely built on, and it is notably not part of the modern public-analytics stack.",
+    "working_definition": "Yards gained divided by points scored — how much field a team has to cover to produce a point. A **low** number is good on offense, because it means the team converts yardage into points efficiently.",
+    "why_it_matters": "It is the guide's finishing metric. A team with strong yardage and poor yards per point is moving the ball without scoring, which the guide's contributors read as either a red-zone problem or a candidate for improvement.",
+    "how_used": "As a printed reference figure with a rank. The guide does not argue from it explicitly in prose.",
+    "key_locations": "p. 2 for the abbreviation; every team's right-hand page on both sides.",
+    "related": [
+      "Yards Per Play",
+      "Turnover Margin",
+      "Regression"
+    ],
+    "abbrev": [
+      "YPPT"
+    ],
+    "caution": "The direction is the opposite of most rate statistics — lower is better on offense, higher is better on defense. The guide prints ranks, which resolve this, but the raw values invert."
+  }
+}

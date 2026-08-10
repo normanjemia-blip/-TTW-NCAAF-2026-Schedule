@@ -1,28 +1,70 @@
+<!-- GENERATED FILE — do not hand-edit.
+     Rebuild:  python3 _tools/build_concepts.py
+     Source:   2026 VSiN College Football Betting Guide -->
+
 # 14 Statistics Reference
 
-**Status:** Not yet built.
+> **Source class: GUIDE CONTENT.** Every category, value, rank and abbreviation below is printed in the 2026 VSiN College Football Betting Guide. No outside research, no post-publication updates.
 
-**Filled by:** Phase 9 (Betting Concepts) / reference material
+The guide's team statistics: **15 offensive** and **12 defensive** categories, each with a value and a national rank out of 138, for all **138** teams — **3,726** printed figures.
 
-> **Director decision, 2026-08-08.** No Phases 12–16 are created. This directory
-> is populated by the phases named above rather than receiving a phase of its
-> own. See [13 — Open Questions and Gaps](../00_Master_Index/13_Open_Questions_And_Gaps.md),
-> item 3.
+> **Status corrected.** This directory long carried the note that values were *blocked on coordinate-based extraction*. Phase 3 resolved them for all 138 teams; the schema and the values are both verified, and that stale status line is withdrawn.
 
-## Scope
+## The schema
 
-The 27-category offensive and defensive tables with values and national ranks for all 138 teams, preserving every guide-specific statistic and its definition.
+| # | Offensive category | Defensive category |
+| --- | --- | --- |
+| 1 | POINTS PER GAME | POINTS PER GAME |
+| 2 | YARDS PER POINT | YARDS PER POINT |
+| 3 | PLAYS PER GAME | 3RD DOWN CONV. % |
+| 4 | TIME OF POSSESSION | TOTAL YARDS PER GAME |
+| 5 | 3RD DOWN CONV. % | YARDS PER PLAY |
+| 6 | TOTAL YARDS PER GAME | RUSH YARDS PER GAME |
+| 7 | YARDS PER PLAY | YARDS PER RUSH ATTEMPT |
+| 8 | RUSH ATTEMPTS PER GAME | COMPLETION % |
+| 9 | RUSH YARDS PER GAME | PASSING YARDS PER GAME |
+| 10 | YARDS PER RUSH ATTEMPT | YARDS PER PASS ATTEMPT |
+| 11 | PASS ATTEMPTS PER GAME | SACKS |
+| 12 | COMPLETION % | TURNOVERS |
+| 13 | PASSING YARDS PER GAME | — |
+| 14 | YARDS PER PASS ATTEMPT | — |
+| 15 | TURNOVERS | — |
 
-## Source pages
+## The asymmetry between the two tables
 
-Every team's right-hand page; definitions on p. 2
+The defensive table omits three categories the offensive table carries — **plays per game**, **time of possession** and **rush/pass attempts per game** — and adds **sacks**. This is a property of the source, not an extraction gap: possession and tempo figures are team-level and would simply be duplicated on the defensive side.
 
-## Extraction status
+**Practical consequence: defensive tempo cannot be read directly from this guide.** Any tempo work has to use the offensive plays-per-game and time-of-possession figures.
 
-**Values blocked on coordinate-based extraction.** The category names and schema are verified across all 138 teams, but the values and national ranks are emitted separately from their labels in the text layer. Deferred under the same standing instruction as returning production.
+## Categories the guide defines
 
-## Rules
+| Category | p. 2 abbreviation | As printed |
+| --- | --- | --- |
+| POINTS PER GAME | `PPG` | Points Per Game |
+| YARDS PER PLAY | `YPP` | Yards per Play |
+| YARDS PER POINT | `YPPT` | Yards per Point |
+| TOTAL YARDS PER GAME | `TYPG` | Total Yards per Game |
+| PASSING YARDS PER GAME | `PYPG` | Passing Yards per Page |
+| RUSH YARDS PER GAME | `RYPG` | Rushing Yards per Game |
+| YARDS PER RUSH ATTEMPT | `YPR` | Yards per Rush |
+| TURNOVERS | `TO` | Turnovers |
 
-Content here follows the standing rules in the [library README](../README.md):
-GUIDE CONTENT, POST-PUBLICATION UPDATE and PERSONAL INFERENCE are labelled and
-never mixed; gaps are recorded as gaps; page references accompany every claim.
+The remaining categories are printed as column headings and never glossed.
+
+## A note on yards per point
+
+Yards gained divided by points scored — how much field a team has to cover to produce a point. A **low** number is good on offense, because it means the team converts yardage into points efficiently.
+
+The direction is the opposite of most rate statistics — lower is better on offense, higher is better on defense. The guide prints ranks, which resolve this, but the raw values invert.
+
+## Files
+
+| File | Content |
+| --- | --- |
+| [00_OFFENSE.md](00_OFFENSE.md) | all 138 teams × 15 offensive categories |
+| [00_DEFENSE.md](00_DEFENSE.md) | all 138 teams × 12 defensive categories |
+| [00_LEADERS.md](00_LEADERS.md) | who the guide ranks first in each category |
+
+## Cross-links
+
+- [12 — Statistical Category Index](../00_Master_Index/12_Statistical_Category_Index.md) · [11 — Betting Concepts](../11_Betting_Concepts/README.md) · team files in [`02_Team_Database`](../02_Team_Database/README.md)

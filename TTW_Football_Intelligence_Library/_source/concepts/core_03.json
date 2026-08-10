@@ -1,0 +1,112 @@
+{
+  "Injuries": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 48 pages, always about a specific named player and almost always about a quarterback. Paul Stone's Texas Tech bet turns on Will Hammond being ready after a torn ACL; Zach Cohen's John Mateer pick turns on a broken throwing thumb having derailed a Heisman campaign and the player now being at full strength; Stormy Buonantony dates Florida State's collapse to Jordan Travis's injury.",
+    "working_definition": "The availability and physical condition of specific players, treated as a condition attached to a bet rather than as a rate.",
+    "why_it_matters": "It is the most common stated caveat in the guide. Several bets are explicitly conditional on a player being healthy, and the contributor says so rather than burying it.",
+    "how_used": "Case by case, and forward-looking only where a known injury is resolving. The guide makes no attempt to forecast future injuries and prints no injury-adjusted rating.",
+    "key_locations": "pp. 5–15 where injuries are attached to priced bets; p. 39 for the Mateer case; p. 45 for the quarterback feature.",
+    "related": ["Quarterback Play", "Situational Betting", "Returning Production"],
+    "abbrev": [],
+    "caution": "This is a preseason publication. Every injury statement in it is as at publication and none of it is updated — no post-publication injury information belongs in this layer."
+  },
+  "Explosiveness": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 29 pages, entirely in prose and never as a printed metric. Contributors describe players as big-play threats or speed demons — Jensen Lewis on LSU's incoming receivers, Aaron Moore on Texas adding a downfield threat in Cam Coleman — but no explosiveness figure appears in any table.",
+    "working_definition": "A team's ability to generate large gains, as distinct from consistently gaining a few yards at a time.",
+    "why_it_matters": "It is the quality the guide's yardage statistics are least able to capture. Yards per play averages a fifty-yard gain and nine two-yard gains into the same number as ten short ones.",
+    "how_used": "As descriptive language about personnel, not as an input to a projection.",
+    "key_locations": "pp. 5–15 and team prose. There is no table to point at.",
+    "related": ["Yards Per Play", "Success Rate", "EPA", "Tempo"],
+    "abbrev": [],
+    "caution": "This is a prose concept in this guide, not a measured one. There is no explosiveness column, no rate, and no rank — any quantification would have to come from outside the guide, and none is supplied here."
+  },
+  "EPA": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 27 pages, overwhelmingly inside conference-preview prose. Jonathan Von Tobel's Air Force bet is the clearest use: he cites the Falcons ranking 11th nationally in EPA per play and 15th in both EPA per play rushing and rushing success rate. The term is **not** in the p. 2 abbreviation list and **not** in the team statistics tables.",
+    "working_definition": "Expected Points Added — the change in a team's expected points as a result of a play, aggregated per play or per game.",
+    "why_it_matters": "It is the main currency of modern public football analytics, and its near-absence here is itself informative about what kind of guide this is.",
+    "how_used": "As a borrowed figure cited in passing by individual contributors, not as part of the guide's own analytical apparatus.",
+    "key_locations": "p. 15 and the conference previews; p. 145 onward in preview prose.",
+    "related": ["Success Rate", "Yards Per Play", "Explosiveness"],
+    "abbrev": [],
+    "caution": "The guide neither defines EPA nor computes it. Every EPA figure quoted comes from outside the guide via a contributor. It must not be presented as a guide-defined metric, and no EPA value is derived for any team here."
+  },
+  "Success Rate": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 13 pages, in the same register as EPA — cited by contributors in preview prose, absent from the p. 2 glossary, and absent from the statistics tables. Von Tobel's Air Force note pairs it directly with EPA.",
+    "working_definition": "The share of plays that gain enough yardage to be considered on schedule for the down and distance.",
+    "why_it_matters": "It measures consistency where yards per play measures magnitude, and the two can diverge sharply for the same offense.",
+    "how_used": "As a borrowed reference figure in a handful of arguments. It is not part of the guide's own vocabulary.",
+    "key_locations": "p. 15 and conference-preview prose.",
+    "related": ["EPA", "Explosiveness", "Yards Per Play"],
+    "abbrev": [],
+    "caution": "As with EPA: cited, never defined, never tabulated, and never computed here. The guide's own efficiency vocabulary is yards per play and yards per point."
+  },
+  "Line Movement": {
+    "guide_definition": "p. 2 glosses the endpoints: `OL – Opening Line`, `CL – Closing Line`, `OT – Opening Total`, `FT – Final Total`, `MOV – Margin of Victory`.",
+    "guide_usage": "On 16 pages. The vocabulary is glossed and the endpoints appear in historical team tables, but the guide contains no feature on how lines move or how to trade them. Where contributors engage with the market they do so on price levels rather than movement — Buonantony comparing two teams priced level in one market and 2-1 apart in another, Moss telling readers to shop because the numbers vary by book.",
+    "working_definition": "The change in a betting line between when it opens and when it closes, driven by money and information.",
+    "why_it_matters": "It is the market's own record of what it learned, and the standard external benchmark for whether a bet was good independent of whether it won.",
+    "how_used": "Barely, as a live concept. The guide is a preseason publication whose futures prices are snapshots; it gives a reader the vocabulary and the opening and closing figures for past seasons without building a method on them.",
+    "key_locations": "p. 2 for the abbreviations; p. 36 and p. 12 for the fullest treatments; historical tables on team pages.",
+    "related": ["Closing Line Value", "Futures"],
+    "abbrev": ["OL", "CL", "OT", "FT", "MOV"],
+    "caution": "The abbreviations being glossed should not be mistaken for the concept being developed. The guide gives the reader the words and does not build an approach around them."
+  },
+  "Situational Betting": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 16 pages, and always attached to a specific game rather than stated as a system. Dustin Swedelson identifies Arkansas hosting Tulsa on September 26 as a dreaded lookahead spot with Texas A&M the following week; Aaron Moore builds a Clemson bet on a mid-September flight to Berkeley sitting between two heavyweight home games and three of the last four on the road. Sacramento State's Under cites midweek games and Midwest travel as practical burdens of the MAC move.",
+    "working_definition": "Betting angles arising from a game's context rather than the teams' quality — rest, short weeks, lookahead and letdown spots, travel, and scheduling sequence.",
+    "why_it_matters": "It is the main way the guide reasons about *when* a game is played rather than *who* is playing, and it is how a schedule argument gets from a strength-of-schedule rank down to individual weeks.",
+    "how_used": "Named and argued in prose, one game at a time. The guide prints no situational database, no rest-differential column and no historical hit rate for any of these spots.",
+    "key_locations": "p. 21 for the factors feeding home-field advantage; p. 35 for travel; pp. 5–15 and team prose for the worked cases.",
+    "related": ["Travel", "Weather", "Home-Field Advantage", "Historical Angles", "Injuries"],
+    "abbrev": [],
+    "caution": "This is the conceptual half of `13_Situational_Angles`. Historical or system-based situational material — hit rates, backtested spots — is Phase 10's territory, and none is constructed here."
+  },
+  "Travel": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 12 pages. It surfaces most where realignment has made it acute: Sacramento State facing Midwest travel and midweek games after moving to the MAC, a California team playing in the MAC at all, and the reshaped Pac-12 and Mountain West. p. 21 names travel as one of the factors feeding home-field advantage.",
+    "working_definition": "The distance, direction and time-zone change a team must cover to play, and the scheduling burden that follows.",
+    "why_it_matters": "The 2026 realignment made travel a live variable for whole conferences at once rather than for individual teams, which is why the guide raises it more than the page count suggests.",
+    "how_used": "As a qualitative burden attached to a specific programme's season, and as a stated input to the field ratings without a printed decomposition.",
+    "key_locations": "p. 21 for the framing; p. 35; team prose where realignment bites.",
+    "related": ["Home-Field Advantage", "Situational Betting", "Weather", "Conference Strength"],
+    "abbrev": [],
+    "caution": "No mileage figure, time-zone count or rest-differential column appears anywhere in the guide. Travel is argued, never measured."
+  },
+  "Weather": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On four pages, all incidental — p. 21 names weather as one factor feeding home-field advantage, and it appears in passing on pp. 11, 35 and 86.",
+    "working_definition": "Conditions at kickoff — wind, precipitation, temperature — and their effect on scoring and on totals.",
+    "why_it_matters": "It is a standard totals input elsewhere in betting, which makes its near-absence here worth stating plainly rather than papering over.",
+    "how_used": "It is not. There is no systematic weather angle in this guide.",
+    "key_locations": "p. 21 for the one substantive mention; pp. 11, 35, 86 in passing.",
+    "related": ["Home-Field Advantage", "Situational Betting", "Travel"],
+    "abbrev": [],
+    "caution": "Four incidental mentions do not constitute coverage. Any weather method a reader wants would have to be built from outside this guide, and nothing of the kind is supplied here."
+  },
+  "Closing Line Value": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "Not addressed in guide.",
+    "working_definition": "Not addressed in guide.",
+    "why_it_matters": "Not addressed in guide.",
+    "how_used": "Not addressed in guide.",
+    "key_locations": "The concept appears on exactly one page. p. 2 lists `CL – Closing Line` in the abbreviation table. The guide never explains closing line value, never computes it, and never applies it.",
+    "related": ["Line Movement", "Futures"],
+    "abbrev": ["CL"],
+    "caution": "Phase 1 singled this concept out precisely because it is well known outside the guide and absent inside it. Writing a definition here from general betting knowledge would put EXTERNAL RESEARCH into a GUIDE CONTENT layer, so the fields above carry the sentinel instead. The gap is the finding."
+  },
+  "Conference Strength": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "Not addressed in guide.",
+    "working_definition": "Not addressed in guide.",
+    "why_it_matters": "Not addressed in guide.",
+    "how_used": "Not addressed in guide.",
+    "key_locations": "The concept appears on exactly one page. It surfaces on p. 46 inside Makinen's power-rating methodology and receives no standalone treatment anywhere in the guide.",
+    "related": ["Power Ratings", "Schedule Difficulty", "Travel"],
+    "abbrev": [],
+    "caution": "Phase 1 flagged this alongside Closing Line Value as present in the TTW brief and effectively absent from the guide, so the fields above carry the sentinel. Note what this does **not** mean: the guide has plenty to say about individual conferences, and contributors argue about league quality constantly — Pauly Howard on the Mountain West after its departures, Matt Youmans on the Big Ten being loaded. What is missing is any conference-strength *measure*. Those arguments live in `01_Conference_Database`, not here."
+  }
+}

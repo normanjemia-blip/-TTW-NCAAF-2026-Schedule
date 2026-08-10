@@ -1,0 +1,164 @@
+{
+  "Power Ratings": {
+    "guide_definition": "p. 2 glosses three related terms: `SM PR – Steve Makinen Power Rating`, `SM BR – Steve Makinen Bettors' Rating`, and `EFF STRG – Steve Makinen Effective Strength Rating`. The guide names them but does not define what a power rating is.",
+    "guide_usage": "The guide's spine. Makinen prints a rating for all 138 teams on pp. 46–47 and explains his method there; every conference table carries the rating alongside home and road field ratings; every team's schedule page carries a projected line for each game. The ratings are used to project a line, project a record, and then bet win totals against the posted number, which is exactly what pp. 22–27 do.",
+    "working_definition": "A single number per team on a points scale, such that the difference between two teams' ratings — adjusted for where the game is played — is the projected point spread. One rating point equals one point of spread.",
+    "why_it_matters": "It is the mechanism connecting everything else in the guide. A coaching change, a returning quarterback or a portal haul only becomes a bet once it moves a rating, and the rating only becomes a bet once it is run against a schedule.",
+    "how_used": "Makinen states the loop explicitly on pp. 22–27: run the updated ratings against the 2026 schedule, produce a projected record, compare it with the posted win total, and bet the difference. He reports the size of that difference as his conviction — Boise State's +1.7 is described as one of the biggest he has ever produced.",
+    "key_locations": "pp. 46–47 for the full table and the method; p. 21 for the field-rating component; pp. 22–27 for the ratings applied to win totals.",
+    "related": [
+      "Home-Field Advantage",
+      "Schedule Difficulty",
+      "Win Totals",
+      "Conference Strength"
+    ],
+    "abbrev": [
+      "SM PR",
+      "SM BR",
+      "EFF STRG",
+      "HOME FA",
+      "ROAD FA"
+    ],
+    "caution": "TTW independently reconstructed 1,528 of 1,530 printed lines from the ratings and field ratings in Phase 6, which is what establishes the one-point-equals-one-point scale. That reconstruction is TTW DERIVED; the ratings themselves are the guide's."
+  },
+  "Quarterback Play": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "Present on 245 pages and treated as the single largest swing factor in the book. p. 45 is a standalone feature, 'The Year of the Quarterback'. Every team page discusses the position, the win-total feature rests 22 of its 29 bets on it, and the Heisman material on p. 39 is explicitly framed as a quarterback market. Makinen's transition systems treat 'breaking in a new quarterback' as a mechanical trigger rather than a narrative flourish.",
+    "working_definition": "The quality, experience and continuity of a team's starting quarterback, treated as an input to a projection rather than as a scouting judgement.",
+    "why_it_matters": "The guide's contributors reach for it first and most often. Where a returning starter and a returning coordinator coincide, the guide is bullish; where a new quarterback meets a new system, its decline systems fire.",
+    "how_used": "Two distinct ways, and the guide keeps them apart: a *named* quarterback carrying a case (Arch Manning, LaNorris Sellers, Conner Weigman), versus 'a new quarterback' as a binary trigger inside a transition system, which is how Connecticut, Ohio, San Jose State and South Florida are handled.",
+    "key_locations": "p. 45 for the feature; p. 39 for the Heisman framing; pp. 22–27 for the position as a win-total driver.",
+    "related": [
+      "Returning Production",
+      "Transfer Portal",
+      "Coaching Continuity",
+      "Heisman"
+    ],
+    "abbrev": [],
+    "caution": "Not addressed in guide."
+  },
+  "Yards Per Play": {
+    "guide_definition": "p. 2: `YPP – Yards per Play`. The gloss expands the abbreviation and stops there.",
+    "guide_usage": "A printed category on both sides of every team's statistics table, with a value and a national rank, for all 138 teams. It is one of the six terms the guide's analytical vocabulary is actually built on.",
+    "working_definition": "Total yards divided by total offensive plays — a per-snap efficiency rate that strips out how many plays a team ran.",
+    "why_it_matters": "It separates efficiency from volume. A team can gain a lot of yards by running a lot of plays; yards per play asks how much each snap was worth, which is why it survives tempo differences that raw yardage does not.",
+    "how_used": "As a printed reference figure with a rank rather than as an argued metric. The guide rarely reasons aloud from yards per play in prose; it prints it and lets the rank speak.",
+    "key_locations": "p. 2 for the abbreviation; every team's right-hand page for the value and rank on both sides of the ball.",
+    "related": [
+      "Yards Per Point",
+      "Tempo",
+      "Explosiveness",
+      "Success Rate"
+    ],
+    "abbrev": [
+      "YPP",
+      "TYPG",
+      "PYPG",
+      "RYPG",
+      "YPR"
+    ],
+    "caution": "Not addressed in guide."
+  },
+  "Turnover Margin": {
+    "guide_definition": "p. 2 glosses `TO – Turnovers`. Margin itself is not defined.",
+    "guide_usage": "Turnovers are a printed statistical category on both the offensive and defensive tables for all 138 teams. In prose the guide reaches for turnover margin when explaining a collapse — Florida State's -25 margin since the 2023 playoff field was announced is offered on p. 13 as the summary figure for the programme's decline.",
+    "working_definition": "Takeaways minus giveaways, over a stated span.",
+    "why_it_matters": "The guide uses it as evidence that a record was not earned, in either direction. A heavy negative margin attached to a poor record suggests the record may be worse than the team; the guide's contributors invoke it when arguing a team is due to move.",
+    "how_used": "Retrospectively and rhetorically rather than as a projection input. No contributor prints an expected turnover margin for 2026.",
+    "key_locations": "p. 2 for the abbreviation; every team's right-hand page for the printed counts; p. 13 for the clearest worked use.",
+    "related": [
+      "Regression",
+      "Yards Per Point"
+    ],
+    "abbrev": [
+      "TO"
+    ],
+    "caution": "The guide prints turnover counts, not a margin figure. Any margin is arithmetic over the two printed sides and is TTW DERIVED."
+  },
+  "Home-Field Advantage": {
+    "guide_definition": "p. 2 glosses `HOME FA – Home Field Advantage` and `ROAD FA – Road Field Advantage`.",
+    "guide_usage": "p. 21 is a standalone feature, 'Quantifying College Football's Biggest Advantage'. Its stated position is that home-field advantage is more dynamic than ever and that one simple baseline is probably not enough, but that having something is better than nothing. Every team then carries its own home and road field rating in the conference tables, and those two numbers are what turn a rating difference into a projected line.",
+    "working_definition": "A per-team points adjustment applied to a power rating, expressed separately for home and road, rather than a single league-wide constant.",
+    "why_it_matters": "It is the difference between a rating and a line. The guide's decision to give every team its own home and road figure — rather than adding a flat three points — is what lets the same rating produce different lines in different stadiums.",
+    "how_used": "Mechanically. Phase 6 established that the printed line is the home team's rating plus its home field rating, minus the away team's rating plus its road field rating. At neutral sites Makinen puts both teams on their road ratings.",
+    "key_locations": "p. 21 for the reasoning; p. 46 for the ratings; every conference table for the per-team home and road figures.",
+    "related": [
+      "Power Ratings",
+      "Travel",
+      "Weather",
+      "Situational Betting"
+    ],
+    "abbrev": [
+      "HOME FA",
+      "ROAD FA"
+    ],
+    "caution": "The p. 21 feature names weather, rest and travel as factors feeding the advantage, but the guide does not print a decomposition — the field ratings arrive as single numbers."
+  },
+  "Schedule Difficulty": {
+    "guide_definition": "p. 2: `SS – Schedule Strength`.",
+    "guide_usage": "Every conference table prints a schedule strength figure and a national rank out of 138 for every team. The win-total feature rests 17 of its 29 bets on the schedule, and several contributors argue almost entirely from it — Pauly Howard bets Penn State Over while stating he is not a fan of the head coach, purely because the slate avoids Oregon, Ohio State and Indiana.",
+    "working_definition": "A single figure summarising the quality of the opponents on a team's schedule, ranked against all 138.",
+    "why_it_matters": "It is the second half of every win-total projection. A rating says how good a team is; schedule strength says what that quality will be asked to do. The guide's largest win-total-versus-rating gaps are almost entirely schedule effects.",
+    "how_used": "Two ways. As a printed rank in the tables, and as a walked argument in prose, where a contributor goes game by game and counts the losses they can find — Makinen's method on UNLV and Boise State.",
+    "key_locations": "Every conference preview table; pp. 22–27 for the walked arguments; p. 46 for how it enters the method.",
+    "related": [
+      "Power Ratings",
+      "Conference Strength",
+      "Win Totals",
+      "Travel"
+    ],
+    "abbrev": [
+      "SS"
+    ],
+    "caution": "Not addressed in guide."
+  },
+  "Tempo": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "Two printed categories carry it — plays per game and time of possession — but only on the **offensive** table. The defensive table omits both. The guide also uses tempo in prose as a criticism, as when a contributor worries that Ohio State under coordinator Arthur Smith will play slowly and squander a talent advantage.",
+    "working_definition": "How quickly a team runs plays, measured by snaps per game and by how long it holds the ball.",
+    "why_it_matters": "Tempo inflates or deflates every counting statistic. Two teams with identical efficiency will post very different yardage totals if one runs fifteen more plays a game, which is why per-play rates matter more than totals.",
+    "how_used": "Read off the offensive table as plays per game with a national rank. There is no tempo-based betting system in the guide.",
+    "key_locations": "Every team's right-hand page, offensive table only; p. 22 and p. 11 for prose uses.",
+    "related": [
+      "Yards Per Play",
+      "Explosiveness",
+      "Success Rate"
+    ],
+    "abbrev": [],
+    "caution": "**Defensive tempo cannot be read from this guide.** Plays per game and time of possession appear on the offensive table only, so any defensive tempo work has to borrow the team-level offensive figures. This is a property of the source, not an extraction gap."
+  },
+  "Returning Production": {
+    "guide_definition": "p. 2: `RS – Returning Starters`.",
+    "guide_usage": "One of the guide's most heavily mechanised concepts. Makinen's Stability material on pp. 40–44 turns returning-starter counts into explicit transition systems with thresholds: nine or more returning offensive starters including the quarterback, thirteen or more starters overall, four or fewer offensive starters, at least eight fewer starters than the prior season. Those thresholds fire directly into win-total bets — 21 of the 29 bets on pp. 22–27 rest on them.",
+    "working_definition": "How many of a team's starters from the previous season are back, counted overall and by side of the ball.",
+    "why_it_matters": "It is the guide's proxy for how much a team has to rebuild. Uniquely among the concepts here, it is not used as colour: it is used as a threshold that either trips a system or does not.",
+    "how_used": "As a binary trigger. Houston's nineteen returning starters and Stability Score of 18 are cited as one of two such profiles nationally; Toledo's six players with starting experience are cited as the reason to bet the Under.",
+    "key_locations": "pp. 40–44 for the systems; pp. 22–27 for them applied; every team page for the counts.",
+    "related": [
+      "Roster Continuity",
+      "Transfer Portal",
+      "Coaching Continuity",
+      "Quarterback Play"
+    ],
+    "abbrev": [
+      "RS"
+    ],
+    "caution": "Different contributors count returning production differently. On North Texas, one writes that zero starters return while another writes that eight percent of snaps do. Both are printed; neither is reconciled."
+  },
+  "Transfer Portal": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 170 pages and treated as a first-order roster mechanism rather than a novelty. Contributors argue about whether it makes continuity obsolete — John McKechnie states outright that roster continuity is overrated in this era because elite teams reload on the fly — while others treat a portal class as the reason a team will collapse. Whole bets rest on it: UCLA's 'about 18 starting players filling spots', Penn State's 24 arrivals from Iowa State.",
+    "working_definition": "The mechanism by which players transfer between programmes, and by extension a team's ability to rebuild a roster in one offseason.",
+    "why_it_matters": "It is the concept most actively contested inside the guide. It cuts against returning production as a projection input, and the guide does not settle which wins.",
+    "how_used": "As evidence in both directions. A large portal haul supports an Over for UNLV and UCLA; a portal exodus supports an Under for North Texas and Southern Miss. Contributors also grade portal *management* as a programme skill, crediting Miami specifically.",
+    "key_locations": "pp. 22–27 and pp. 5–15 for the arguments; every team page for the arrivals and departures.",
+    "related": [
+      "Returning Production",
+      "Roster Continuity",
+      "Recruiting",
+      "Coaching Carousel"
+    ],
+    "abbrev": [],
+    "caution": "The guide prints no portal ranking or portal-class metric of its own. Contributors cite outside class rankings by name (247Sports) without reproducing them."
+  }
+}

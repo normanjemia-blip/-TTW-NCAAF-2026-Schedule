@@ -1,0 +1,112 @@
+{
+  "CFP / Playoff": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 213 pages. Every team's right-hand page prints two playoff markets — a price to win the CFP Championship and a price to make the playoff — so the concept is on the board for all 138 teams whether or not the prose discusses it. p. 4's grid asks each of 22 contributors for a final four, two title-game teams and a champion; nine of the 62 best bets are playoff bets.",
+    "working_definition": "The College Football Playoff, a 12-team postseason field, and the futures markets attached to reaching it or winning it.",
+    "why_it_matters": "It reorganises what a good season means. The guide's contributors repeatedly argue that a hard schedule is now an asset rather than a liability, because the committee wants to see marquee wins — Zachary Cohen makes that case explicitly for BYU.",
+    "how_used": "As a futures market and as a framing device. Makinen uses it to reason about Group of Five access, expecting one such team in this year rather than the two that got in last season, and names Boise State as the likeliest.",
+    "key_locations": "p. 4 for the contributor grid; pp. 5–15 for the priced bets; every team page for the two printed prices; p. 38 for the market's effect on futures handle.",
+    "related": ["Futures", "Power Ratings", "Schedule Difficulty", "Conference Strength"],
+    "abbrev": [],
+    "caution": "The p. 4 grid asks for a **final four** while the field holds **twelve**. A contributor can consistently project four teams and bet a fifth to make the playoff; reading those as contradictions would manufacture a conflict the guide does not contain."
+  },
+  "Futures": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 171 pages and the subject of pp. 5–15, where 20 contributors stake 62 priced positions. Each team page prints three futures markets. p. 38 carries an interview-driven piece in which a bookmaker discusses how playoff expansion tripled handle in national-championship and yes/no-playoff markets.",
+    "working_definition": "A bet on a season-long outcome — a conference title, a playoff berth, a championship, an individual award — priced before or during the season.",
+    "why_it_matters": "It is the format most of the guide's opinion arrives in. Almost every argument the book makes eventually resolves into a futures price somebody is willing to take.",
+    "how_used": "With explicit attention to price rather than to outcome alone. Contributors shop (Mitch Moss tells the reader the Ole Miss numbers are all over the map), size their stakes in printed units, and argue from relative pricing — Stormy Buonantony's New Mexico play rests entirely on two teams being level to win the conference while priced 10-1 and 20-1 to make the playoff.",
+    "key_locations": "pp. 5–15 for the bets; p. 4 for the unpriced predictions; p. 39 for the Heisman; every team page for the board.",
+    "related": ["CFP / Playoff", "Heisman", "Win Totals", "Line Movement", "Closing Line Value"],
+    "abbrev": [],
+    "caution": "The guide prints prices and never converts them. No implied probability, no vig removal, and no expected-value figure appears anywhere in it, and none is supplied by this library."
+  },
+  "Win Totals": {
+    "guide_definition": "p. 2 glosses the components: `O – Over`, `U – Under`, `O/U – Over/Under`, `PRJW'S – Projected Wins`, `PRJL'S – Projected Losses`.",
+    "guide_usage": "Stated three separate ways that do not always agree: a DraftKings number in every conference table for all 138 teams, a standalone Over/Under recommendation on every team page, and Makinen's feature on pp. 22–27 backing 29 of them with arguments. 27 of the 62 best bets on pp. 5–15 are also win totals.",
+    "working_definition": "A market on how many games a team wins in the regular season, bet Over or Under a posted number.",
+    "why_it_matters": "It is where the guide's ratings, schedule work and roster systems all land in a single number that can be bet.",
+    "how_used": "Makinen states the loop on p. 22: work through the coaching changes, the Stability Scores, the transitional systems and the recruiting rankings, then play the schedule out by his power ratings and compare the result with the posted total. He prints his own four-year record, 57-42-2, of which 34-17-1 on Unders, and says that is why he again favours Unders.",
+    "key_locations": "pp. 22–27 for the feature; every conference table for the posted numbers; every team page for the standalone pick.",
+    "related": ["Power Ratings", "Schedule Difficulty", "Returning Production", "Futures"],
+    "abbrev": ["O", "U", "O/U", "PRJW'S", "PRJL'S"],
+    "caution": "The three layers disagree in places — 21 teams where the team page and conference table print different numbers, 11 where the team page and the feature take opposite sides. The guide acknowledges this itself on Houston's page. None of it is reconciled."
+  },
+  "Heisman": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "p. 39 is a standalone feature by Zach Cohen carrying four priced picks; four more Heisman bets appear among the best bets on pp. 5–15, from four different contributors.",
+    "working_definition": "The award given to college football's most outstanding player, and the futures market on who wins it.",
+    "why_it_matters": "The guide treats it as a quarterback market with strong base rates rather than an open field, which is what makes it tractable.",
+    "how_used": "From historical frequencies. Cohen states three: only five non-quarterbacks have won since 2000; three of the last four winners transferred in from another power programme; and the preseason favourite rarely wins — if CJ Carr or Arch Manning were to win it would be the first time since 2014. Contributors then look for long shots that fit the pattern, reaching down to 100-1.",
+    "key_locations": "p. 39 for the feature and its framing; pp. 5–15 for the four additional picks.",
+    "related": ["Quarterback Play", "Futures", "Transfer Portal", "Historical Angles"],
+    "abbrev": [],
+    "caution": "Cohen names a fifth situation — the Alabama competition between Keelon Russell and Austin Mack — as something he is monitoring, with no price and no bet. It is recorded as a stated interest, not a fifth pick."
+  },
+  "Recruiting": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 68 pages, and used as a leading indicator rather than as a talent inventory. The guide repeatedly reads a class ranking as a verdict on a coaching hire: Coastal Carolina's first class under Ryan Beard is called a nightmare by programme standards, North Texas's ranked better than only four programmes nationally, Nebraska's the worst in 15 years by 31 positions, Sacramento State's down 49 ranking positions year over year.",
+    "working_definition": "The signing of high-school and transfer talent, usually referenced through a national class ranking.",
+    "why_it_matters": "In the guide's hands it is mostly evidence about the coach. A collapsing class is treated as the first visible sign that a programme is in trouble, often before the record is.",
+    "how_used": "Comparatively and directionally — this year's class against the programme's own history, or against the rest of the conference. Contributors cite outside ranking services by name, 247Sports most often.",
+    "key_locations": "pp. 28–37 for the carousel context; pp. 22–27 where class movement carries win-total bets; team pages for the individual classes.",
+    "related": ["Transfer Portal", "Coaching Carousel", "Returning Production"],
+    "abbrev": [],
+    "caution": "The guide prints no recruiting rankings of its own. Every class rank quoted in it comes from an outside service, cited by name and not reproduced as a table."
+  },
+  "Coaching Carousel": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "pp. 28–37 is a ten-page feature, 'The Coaching Carousel Never Stops'. The guide tracks every head-coaching change into the 2026 season and treats a first-year coach as a distinct betting condition, not merely a news item.",
+    "working_definition": "The annual churn of head-coaching and coordinator jobs, and the roster and scheme disruption that follows a change.",
+    "why_it_matters": "It is the guide's most consequential single input after the quarterback. 27 of the 29 win-total bets on pp. 22–27 rest at least partly on a coaching situation.",
+    "how_used": "As a comparison class. Rather than judging a hire on reputation, Makinen looks at what happened to comparable programmes: Connecticut's eight comparable teams that also changed head coach fell 29% and -4.4 wins, and that figure carries the bet even though Jim Mora's replacement has a strong record of his own.",
+    "key_locations": "pp. 28–37 for the feature; pp. 40–44 for the Stability systems that quantify it; pp. 22–27 for the bets.",
+    "related": ["Coaching Continuity", "Recruiting", "Returning Production", "Regression"],
+    "abbrev": ["HC", "OC", "DC"],
+    "caution": "The Phase 5 database records 16 source conflicts where the carousel feature and a team page disagree about a coaching fact. They remain preserved and unresolved."
+  },
+  "Coaching Continuity": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "The inverse of the carousel, and mechanised on pp. 40–44 as Stability Scores. Houston's score of 18 is cited as one of only two such profiles nationally; Missouri State's zero is cited as a reason to bet the Under. Texas A&M's case rests on the same head coach and offensive coordinator returning together.",
+    "working_definition": "How much of a coaching staff — head coach, coordinators, and by extension scheme — is unchanged from the previous season.",
+    "why_it_matters": "The guide's position is that continuity compounds. A returning quarterback is worth more under a returning coordinator, which is why Dustin Swedelson flags Conner Weigman returning to the same coordinator for the first time in his career as a distinct reason to bet Houston.",
+    "how_used": "As a score with thresholds, and as prose about who stayed. Coordinator continuity and play-calling continuity are held as separate concepts throughout the library, because the difference between them is useful and the guide sometimes prints them differently.",
+    "key_locations": "pp. 40–44 for the Stability Scores; pp. 22–27 for their application; the Coaching Database for the per-team matrix.",
+    "related": ["Coaching Carousel", "Returning Production", "Quarterback Play", "Roster Continuity"],
+    "abbrev": ["HC", "OC", "DC"],
+    "caution": "A Stability Score is the guide's own construction. Its formula is not printed, so the score can be read and cited but not recomputed."
+  },
+  "Roster Continuity": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On only 14 pages, which understates how contested it is. It appears mainly where a contributor is arguing *against* it: John McKechnie states plainly that roster continuity is overrated in this era because the elite programmes reload through the portal, and makes that the basis of a national-championship bet on Miami.",
+    "working_definition": "How much of a roster — as opposed to a coaching staff — is unchanged from the previous season.",
+    "why_it_matters": "It is the concept the portal era has destabilised most, and the guide's contributors genuinely disagree about whether it still predicts anything.",
+    "how_used": "Both as an asset and as a dismissal, in the same book. Makinen's transition systems treat returning starters as a hard threshold; McKechnie treats the same idea as outdated. Both positions are printed.",
+    "key_locations": "p. 15 and pp. 34–35 for the framing; pp. 40–44 for the systems that assume it matters.",
+    "related": ["Returning Production", "Transfer Portal", "Coaching Continuity"],
+    "abbrev": ["RS"],
+    "caution": "This is a live disagreement inside the guide rather than a settled concept, and the library does not adjudicate it."
+  },
+  "Regression": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 29 pages, always in the informal sense of a team being due to move back toward its underlying quality. John McKechnie expects regression at Texas A&M because things broke the Aggies' way repeatedly in 2025; Makinen says he has become much better at identifying teams due for struggles, which is the same idea stated as a skill.",
+    "working_definition": "The tendency for unsustainable results — driven by turnovers, close-game records or scheduling luck — to move back toward what a team's underlying performance supports.",
+    "why_it_matters": "It is the guide's main argument for fading a good record, and it underpins the Unders bias Makinen states outright on p. 22.",
+    "how_used": "Qualitatively. The guide identifies the mechanism — turnover margin, one-score games, an easy slate — and argues from it, but prints no regression model and no expected-value calculation.",
+    "key_locations": "pp. 22–27 where the Unders rest on it; pp. 40–44 for the decline systems that formalise part of it.",
+    "related": ["Turnover Margin", "Returning Production", "Historical Angles", "Coaching Carousel"],
+    "abbrev": [],
+    "caution": "'Regression' in this guide never means the statistical technique. It always means reversion toward a mean, and no fitted model appears anywhere in the book."
+  },
+  "Historical Angles": {
+    "guide_definition": "Not addressed in guide.",
+    "guide_usage": "On 67 pages. The guide reaches for a base rate whenever one is available: Makinen's own four-year record of 57-42-2, the observation that a long-shot Heisman winner has hit two years running, Troy Calhoun never having had three consecutive losing seasons, the fact that the preseason Heisman favourite has not won since 2014, and Makinen's ATS angle for teams returning 17 or more starters over the first four weeks.",
+    "working_definition": "An argument from a historical frequency — how often a situation has produced an outcome before — used to price a current one.",
+    "why_it_matters": "It is how the guide converts a story into something with a number attached, and it is the closest the book comes to a systematic method outside the power ratings.",
+    "how_used": "As supporting evidence rather than as a standalone system, with one exception: the returning-starters ATS angle is stated as a rule with a window attached.",
+    "key_locations": "pp. 40–44 for the systems; p. 39 for the Heisman base rates; pp. 22–27 for the win-total record.",
+    "related": ["Situational Betting", "Regression", "Returning Production", "Coaching Carousel"],
+    "abbrev": ["LY", "L#", "H2h"],
+    "caution": "Sample sizes are rarely printed alongside these angles. Where the guide says eight comparable teams, that is the sample; more often no denominator is given, and the library does not supply one."
+  }
+}
