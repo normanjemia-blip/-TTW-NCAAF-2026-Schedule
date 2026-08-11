@@ -1,6 +1,30 @@
 # TTW Football Intelligence Library
 
-**Version 2.0 — all 11 phases complete; Phase 11 (Search Optimization) awaiting owner approval**
+### Static 2026 VSiN Preseason Library
+**Version 2.0 — STATUS: COMPLETE.** Declared and frozen 2026-08-11.
+
+| | |
+| --- | --- |
+| **Completion date** | 2026-08-11 |
+| **Final content commit** | `efc99b1` |
+| **Files** | 608 markdown files, 1,167,473 words |
+| | *The audit reported 1,153,596. The difference is commit `efc99b1`, which replaced the dead "Not yet built" placeholder block in all 138 team files with live cross-links. File count, team count and conference count are unchanged.* |
+| **Teams** | 138 of 138 FBS |
+| **Conferences** | 11 of 11 |
+| **Phases** | all 11 complete and approved |
+| **Validation** | 10 harnesses, 115 gates, all passing |
+| **Link integrity** | 9,917 relative links, **0 broken** |
+| **Workbook** | v0.8.1 AUTHORITATIVE **frozen and untouched** — no spreadsheet file is tracked in this repository |
+
+**This library is FROZEN.** It records the 2026 VSiN College Football Betting
+Guide as published, plus only the post-publication quarterback verification
+layers that Phase 4 deliberately kept separate. No new phases, no new
+extraction, no current-season updates, no outside-research enrichment and no
+redesign. Only a demonstrated defect justifies a maintenance edit.
+
+Any future 2026 in-season work belongs in a **separate operational layer**,
+which may read from this library and from the frozen workbook alongside current
+verified information, but must never overwrite this static preseason record.
 
 TTW's permanent football research encyclopedia, built from the 2026 VSiN College
 Football Betting Guide. The goal is that the 345-page guide never has to be
