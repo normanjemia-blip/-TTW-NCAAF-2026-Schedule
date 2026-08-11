@@ -120,12 +120,14 @@ The Stability Score table prints the same figure independently: **9 returning st
 - **Will Johnson “Max” out his final college football season?** The departure is all-time leading passer JC French to Cincinnati, after a 20/8 touchdown-to-interception ratio, 2,929 yards and six more scores on the ground. The guide puts that record in context: French leads the programme with just 5,882 yards, and Kyle Vantrease — one season in 2022 — is third with 4,253, a consequence of Helton moving the Eagles from an option offense to a spread, which has produced productive quarterback play in relative terms. Max Johnson is presented as capable of a Vantrease-like season or better, having played at LSU, Texas A&M and North Carolina across seven seasons. It notes the obvious joke about his longevity, then makes the serious point that schools keep paying him to come, and that he has a chance at a massive season in his final year of eligibility. *(p. 323)*
 - **Who emerges as the go-to receiver?** The guide is confident someone will, arguing the scheme itself will produce numbers, while acknowledging the top five pass-catchers are gone. It quantifies the loss: Marcus Sanders and Dalen Cobb combined for 107 catches and eight touchdowns, while 1,000-yard receiver Camden Brown had 65 catches with 14 going for scores — a ratio it praises — and is now with the Cowboys, making him an NFL-calibre player who must be replaced. Candidates named are 6-foot-5 Ashton Hollis from Illinois and Andre Greene, a highly touted recruit who did little at Virginia, plus Josh Dallas and River Helms, both back after being lost early last season. Its conclusion is that the WR1 may be unknown but many players can put up statistics in this offense, especially with Johnson throwing. *(p. 323)*
 
+
 Referenced in the guide on **pp. 125** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 322, 323** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 322, 323**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -136,6 +138,7 @@ Referenced in the guide on **pp. 322, 323** — those passages are not reproduce
 - It flags that this season does bring some changes, including a new defensive coordinator. *(p. 322)*
 - Its conclusion is bullish anyway: a really high ceiling, possibly higher than anyone expects if Mutz can fix the defense. This is called one of the guide's biggest overlays, with a projection of 5.49 wins, putting the alt Over 5.5 in play. *(p. 322)*
 - **How good can the defense be?** The guide frames this as the swing factor: with a very experienced quarterback and a deep skill group there is a lot of offensive upside, so a defensive step forward would mean Helton is really cooking. Its case for Mike Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. If he carries over the tackles for loss and sacks, it projects the Eagles' first defense allowing fewer than six yards per play since 2020. The specific failure it expects to be corrected is pass rush — only 12 sacks in 13 games last season. *(p. 323)*
+
 
 Referenced in the guide on **pp. 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -219,6 +222,14 @@ Prices printed on the team page *(p. 323)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Adam Burke | GEORGIA SOUTHERN OVER 3.5 CONFERENCE WINS (-115) | 11 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - Recommendation is Over 4.5 wins, described as tough: the price is juicy, but six wins is a challenge given the schedule. *(p. 322)*
 - Schedule reasoning: a visit to Clemson and a home date with Houston mean two Power Four opponents, plus Troy in cross-division play. *(p. 322)*
 - It generalises this into a market caution — the East Division being much stronger than the West makes some Sun Belt futures and props hard to play. *(p. 322)*
@@ -232,6 +243,7 @@ Also referenced on **pp. 328** — not reproduced here.
 - Its assessment of the programme is a low ceiling but a dependable floor in Statesboro, with a business model to match — mix in a paycheck game or two, take the ESPN money, and keep the machine running. *(p. 322)*
 - It acknowledges the pull in the other direction: taking the next step would be welcome, the 10-3 season in 2018 under Chad Lunsford feels like an eternity ago, and the allure of a Group of Six CFP berth is a big motivating factor. *(p. 322)*
 - **Will Johnson “Max” out his final college football season?** The departure is all-time leading passer JC French to Cincinnati, after a 20/8 touchdown-to-interception ratio, 2,929 yards and six more scores on the ground. The guide puts that record in context: French leads the programme with just 5,882 yards, and Kyle Vantrease — one season in 2022 — is third with 4,253, a consequence of Helton moving the Eagles from an option offense to a spread, which has produced productive quarterback play in relative terms. Max Johnson is presented as capable of a Vantrease-like season or better, having played at LSU, Texas A&M and North Carolina across seven seasons. It notes the obvious joke about his longevity, then makes the serious point that schools keep paying him to come, and that he has a chance at a massive season in his final year of eligibility. *(p. 323)*
+
 
 Referenced in the guide on **pp. 318** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -280,15 +292,16 @@ As printed on p. 323. Each category carries a value and a national rank.
 
 - Makinen projects **5.8 wins** against a posted total of 4.5 — **+1.3** in this team's favour.
 - The team page recommends **OVER 4.5**.
-- The guide frames this as the swing factor: with a very experienced quarterback and a deep skill group there is a lot of offensive upside, so a defensive step forward would mean Helton is really cooking. Its case for Mike Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. If he carries over the tackles for loss and sacks, it projects the Eagles' first defense allowing fewer than six yards per play since 2020. The specific failure it expects to be corrected is pass rush — only 12 sacks in 13 games last season. *(p. 323)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Recommendation is Over 4.5 wins, described as tough: the price is juicy, but six wins is a challenge given the schedule. *(p. 322)*
-- The guide is confident someone will, arguing the scheme itself will produce numbers, while acknowledging the top five pass-catchers are gone. It quantifies the loss: Marcus Sanders and Dalen Cobb combined for 107 catches and eight touchdowns, while 1,000-yard receiver Camden Brown had 65 catches with 14 going for scores — a ratio it praises — and is now with the Cowboys, making him an NFL-calibre player who must be replaced. Candidates named are 6-foot-5 Ashton Hollis from Illinois and Andre Greene, a highly touted recruit who did little at Virginia, plus Josh Dallas and River Helms, both back after being lost early last season. Its conclusion is that the WR1 may be unknown but many players can put up statistics in this offense, especially with Johnson throwing. *(p. 323)*
-- The guide frames this as the swing factor: with a very experienced quarterback and a deep skill group there is a lot of offensive upside, so a defensive step forward would mean Helton is really cooking. Its case for Mike Mutz is his Stephen F. Austin defense, which generated a great many negative plays and takeaways. If he carries over the tackles for loss and sacks, it projects the Eagles' first defense allowing fewer than six yards per play since 2020. The specific failure it expects to be corrected is pass rush — only 12 sacks in 13 games last season. *(p. 323)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 322; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -121,6 +121,7 @@ The Stability Score table prints the same figure independently: **11 returning s
 - **Who does what Darian did?** Mensah was very good after transferring from Tulane and has now moved up again as Miami's expected starter. He completed over two-thirds of his passes for nearly 4,000 yards and led the conference in attempts, yards and touchdowns. Eget played extensively at San Jose State with over 5,500 yards but only 30 touchdowns against 19 interceptions. The guide raises redshirt freshman Dan Mahan as a live alternative, since he took all the spring opportunities available while Eget was hurt. It also notes coordinator Jonathan Brewer improved the group by a full yard per play and 8.3 points per game in year two, but is mostly starting from scratch in year three. *(p. 87)*
 - **Should the show run through Sheppard?** Nate Sheppard ran for 1,132 yards and 11 touchdowns at 5.7 per carry as a true freshman, and despite losing an NFL-caliber lineman in the draft Duke remains big and experienced up front. The receiving picture is thinner: an intriguing transfer in Penn's 1,000-yard receiver Jared Richardson, but the other two primary targets look like 5-foot-8 Jayden Moore and 5-foot-9 Charlotte transfer Javen Nicholas. Since Duke's offensive numbers improved while the defensive numbers worsened under Diaz, the guide suggests a ground-and-pound approach early — and draws the betting implication that this could create value on Unders. *(p. 87)*
 
+
 Referenced in the guide on **pp. 18, 20, 25, 169, 191, 201, 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -133,12 +134,14 @@ Referenced in the guide on **pp. 18, 20, 25, 169, 191, 201, 273** — those pass
 - **Who does what Darian did?** Mensah was very good after transferring from Tulane and has now moved up again as Miami's expected starter. He completed over two-thirds of his passes for nearly 4,000 yards and led the conference in attempts, yards and touchdowns. Eget played extensively at San Jose State with over 5,500 yards but only 30 touchdowns against 19 interceptions. The guide raises redshirt freshman Dan Mahan as a live alternative, since he took all the spring opportunities available while Eget was hurt. It also notes coordinator Jonathan Brewer improved the group by a full yard per play and 8.3 points per game in year two, but is mostly starting from scratch in year three. *(p. 87)*
 - **Should the show run through Sheppard?** Nate Sheppard ran for 1,132 yards and 11 touchdowns at 5.7 per carry as a true freshman, and despite losing an NFL-caliber lineman in the draft Duke remains big and experienced up front. The receiving picture is thinner: an intriguing transfer in Penn's 1,000-yard receiver Jared Richardson, but the other two primary targets look like 5-foot-8 Jayden Moore and 5-foot-9 Charlotte transfer Javen Nicholas. Since Duke's offensive numbers improved while the defensive numbers worsened under Diaz, the guide suggests a ground-and-pound approach early — and draws the betting implication that this could create value on Unders. *(p. 87)*
 
+
 Referenced in the guide on **pp. 39** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - Duke returns a 1,100-yard rusher but loses its quarterback and top three pass catchers, and Diaz must largely retool the defense with only a couple of impact starters among the returnees. *(p. 86)*
 - **Can Manny find the manpower on defense?** The guide sets Duke's own numbers against its opponents': 6.2 yards per play, 285 passing yards per game and 66.4% completions for the offense, against 6.3, 277 and 67.2% allowed. Its inference is that Duke was fortunate Mensah played as well as he did and that the team finished +10 in turnover margin, having been comfortably outgained per play in ACC games. Sacks fell from 43 to 26, and defensive numbers worsened across the board including a 1.3-yard rise in yards per play allowed that it calls hard to overlook given the offensive losses. With Diaz so accomplished defensively, it says the unit must step up. *(p. 87)*
+
 
 Referenced in the guide on **pp. 151, 169** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -224,6 +227,7 @@ Also referenced on **pp. 112** — not reproduced here.
 - It notes the irony that while Diaz's old employer reached the national championship game out of the ACC, it is his Duke team that are reigning conference champions. *(p. 86)*
 - It sets the wider context — Mike Elko and David Cutcliffe were also overachieving in Durham before Diaz — and states the tension in its own view openly by giving a projection of 5.94 wins alongside the Under. *(p. 86)*
 
+
 Referenced in the guide on **pp. 10, 25, 39, 53, 79, 81, 95, 151, 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -271,16 +275,16 @@ As printed on p. 87. Each category carries a value and a national rank.
 
 - Makinen projects **6.4 wins** against a posted total of 5.5 — **+0.9** in this team's favour.
 - The guide argues success at Duke gets more impressive each season: stronger academic requirements than most in the region, and players who succeed there wanting a bigger stage elsewhere. *(p. 86)*
-- Duke returns a 1,100-yard rusher but loses its quarterback and top three pass catchers, and Diaz must largely retool the defense with only a couple of impact starters among the returnees. *(p. 86)*
-- Mensah was very good after transferring from Tulane and has now moved up again as Miami's expected starter. He completed over two-thirds of his passes for nearly 4,000 yards and led the conference in attempts, yards and touchdowns. Eget played extensively at San Jose State with over 5,500 yards but only 30 touchdowns against 19 interceptions. The guide raises redshirt freshman Dan Mahan as a live alternative, since he took all the spring opportunities available while Eget was hurt. It also notes coordinator Jonathan Brewer improved the group by a full yard per play and 8.3 points per game in year two, but is mostly starting from scratch in year three. *(p. 87)*
-- Nate Sheppard ran for 1,132 yards and 11 touchdowns at 5.7 per carry as a true freshman, and despite losing an NFL-caliber lineman in the draft Duke remains big and experienced up front. The receiving picture is thinner: an intriguing transfer in Penn's 1,000-yard receiver Jared Richardson, but the other two primary targets look like 5-foot-8 Jayden Moore and 5-foot-9 Charlotte transfer Javen Nicholas. Since Duke's offensive numbers improved while the defensive numbers worsened under Diaz, the guide suggests a ground-and-pound approach early — and draws the betting implication that this could create value on Unders. *(p. 87)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- The guide sets Duke's own numbers against its opponents': 6.2 yards per play, 285 passing yards per game and 66.4% completions for the offense, against 6.3, 277 and 67.2% allowed. Its inference is that Duke was fortunate Mensah played as well as he did and that the team finished +10 in turnover margin, having been comfortably outgained per play in ACC games. Sacks fell from 43 to 26, and defensive numbers worsened across the board including a 1.3-yard rise in yards per play allowed that it calls hard to overlook given the offensive losses. With Diaz so accomplished defensively, it says the unit must step up. *(p. 87)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

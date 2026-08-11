@@ -122,6 +122,7 @@ The Stability Score table prints the same figure independently: **14 returning s
 - A structural constraint is identified: high academic requirements make the portal far less of a shopping spree than at other schools, which the guide expects to hold the programme back again. *(p. 104)*
 - **Will Stanford finally protect the football?** The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
 
+
 Referenced in the guide on **pp. 15** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -254,8 +255,7 @@ As printed on p. 105. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
-- First-time coordinator Terry Heffernan has spent much of his career coaching offensive lines, which the guide calls a good thing here. It lays out five years of sack figures — 31, 41, 41, 39 and 41 allowed against 15, 23, 23, 26 and 23 generated — and notes all three quarterback options are more mobile than their predecessors. Its measured conclusion is that sack differential is not the only reason Stanford has struggled, but being -83 over five seasons certainly has not helped. *(p. 105)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 104; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -265,8 +265,6 @@ As printed on p. 105. Each category carries a value and a national rank.
 - The team page recommends **UNDER 3.5**.
 - Its concerns are the schedule and travel, plus facing NC State and Louisville when both are coming off byes. *(p. 104)*
 - It provides the underlying evidence for regression: in the four 2025 wins Stanford's yardage differentials were +10, -43, -151 and -15, so it was fortunate to win them. Its conclusion separates quality from results — the product will probably look better without translating into victories. Projection is 3.65 wins. *(p. 104)*
-- The guide anchors this in a long trend: Stanford was +2 in turnover margin across the six-game 2020 season and is -33 over the five years since. Ben Gulbranson, who took most of the passing reps, had more interceptions than touchdowns at 10 to 9, with the team at 14 to 12 overall. Warren, who missed last season with a torn ACL, had a 7-to-9 ratio at Michigan. UCF transfer Dylan Rizk is an option, as is true freshman Mike Mitchell, originally a Vanderbilt commit. Its note of optimism is about the coach rather than the players: Pritchard has worked with Jayden Daniels over recent seasons and spent five years as Commanders coordinator, so he may get something from one of them. *(p. 105)*
-- First-time coordinator Terry Heffernan has spent much of his career coaching offensive lines, which the guide calls a good thing here. It lays out five years of sack figures — 31, 41, 41, 39 and 41 allowed against 15, 23, 23, 26 and 23 generated — and notes all three quarterback options are more mobile than their predecessors. Its measured conclusion is that sack differential is not the only reason Stanford has struggled, but being -83 over five seasons certainly has not helped. *(p. 105)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

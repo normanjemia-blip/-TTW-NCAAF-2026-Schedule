@@ -123,11 +123,13 @@ The Stability Score table prints the same figure independently: **10 returning s
 - Going 7-6 while under scrutiny for being slow to adapt to the modern landscape and the portal has not sat well with deep-pocketed supporters. *(p. 84)*
 - **Who will better the backfield?** The guide is careful not to pin everything on Klubnik. Clemson ran for just 3.9 yards per carry, down sharply from 5.1 the year before, when both Phil Mafah and Will Shipley exceeded five yards a carry, and Mafah ran for over 1,100 yards as the feature back in 2024. Adam Randall managed 4.8 yards per carry last year, though Klubnik's own struggles running dragged the team rate down. With Randall gone the job is open, and the candidates are Chris Johnson, who averaged over seven yards per carry at SMU, and Gideon Davidson, a four-star and top-five back in the 2025 class per 247. *(p. 85)*
 
+
 Referenced in the guide on **pp. 6, 106, 315** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Who will better the backfield?** The guide is careful not to pin everything on Klubnik. Clemson ran for just 3.9 yards per carry, down sharply from 5.1 the year before, when both Phil Mafah and Will Shipley exceeded five yards a carry, and Mafah ran for over 1,100 yards as the feature back in 2024. Adam Randall managed 4.8 yards per carry last year, though Klubnik's own struggles running dragged the team rate down. With Randall gone the job is open, and the candidates are Chris Johnson, who averaged over seven yards per carry at SMU, and Gideon Davidson, a four-star and top-five back in the 2025 class per 247. *(p. 85)*
+
 
 Referenced in the guide on **pp. 315** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -136,6 +138,7 @@ Referenced in the guide on **pp. 315** — those passages are not reproduced her
 - The defense was extremely good and it should not take much for the offense to improve given Swinney's talent pipeline. Christopher Vizzina was a top-10 quarterback in the 2023 class per 247 and the receiver room is excellent. *(p. 84)*
 - **What is the ceiling for the offense?** Losing a three-year starter and 10,000-yard passer would normally be a blow, but the guide notes Klubnik had about as underwhelming a senior year as possible — a 16-to-6 touchdown-to-interception ratio a season after 43 total touchdowns. It lists mitigating factors: Bryant Wesco was lost midway through the year, Antonio Williams never seemed fully healthy, and Swinney appeared at odds with Riley weekly, throwing him under the bus more than once. Its conclusion is that even with Vizzina light on experience at 105 career attempts, Morris's return and a new voice in the huddle will probably help. *(p. 85)*
 - **Who will better the backfield?** The guide is careful not to pin everything on Klubnik. Clemson ran for just 3.9 yards per carry, down sharply from 5.1 the year before, when both Phil Mafah and Will Shipley exceeded five yards a carry, and Mafah ran for over 1,100 yards as the feature back in 2024. Adam Randall managed 4.8 yards per carry last year, though Klubnik's own struggles running dragged the team rate down. With Randall gone the job is open, and the candidates are Chris Johnson, who averaged over seven yards per carry at SMU, and Gideon Davidson, a four-star and top-five back in the 2025 class per 247. *(p. 85)*
+
 
 Referenced in the guide on **pp. 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -220,7 +223,7 @@ Prices printed on the team page *(p. 85)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| Tyler Shoemaker | CLEMSON UNDER 5.5 CONFERENCE WINS (-150) | 6 |
+| Aaron Moore | CLEMSON UNDER 5.5 CONFERENCE WINS (-150) | 6 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -232,6 +235,7 @@ Also referenced on **pp. 94, 106** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - It supplies the counterweight fairly: entering his 19th season, Swinney had won at least ten games in 13 of the previous 14 years, going 9-4 in the other. *(p. 84)*
+
 
 Referenced in the guide on **pp. 79, 92, 100, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -282,17 +286,12 @@ As printed on p. 85. Each category carries a value and a national rank.
 - The team page recommends **OVER 7.5**.
 - Going 7-6 while under scrutiny for being slow to adapt to the modern landscape and the portal has not sat well with deep-pocketed supporters. *(p. 84)*
 - The defense was extremely good and it should not take much for the offense to improve given Swinney's talent pipeline. Christopher Vizzina was a top-10 quarterback in the 2023 class per 247 and the receiver room is excellent. *(p. 84)*
-- Losing a three-year starter and 10,000-yard passer would normally be a blow, but the guide notes Klubnik had about as underwhelming a senior year as possible — a 16-to-6 touchdown-to-interception ratio a season after 43 total touchdowns. It lists mitigating factors: Bryant Wesco was lost midway through the year, Antonio Williams never seemed fully healthy, and Swinney appeared at odds with Riley weekly, throwing him under the bus more than once. Its conclusion is that even with Vizzina light on experience at 105 career attempts, Morris's return and a new voice in the huddle will probably help. *(p. 85)*
-- The guide argues defensive improvement was overshadowed by offensive regression. Former Indiana head coach Tom Allen did great things in year one as coordinator, with the team dramatically better against the run and holding opponents to 20.5 points per game. The secondary was not great and losing second-round pick Avieon Terrell will not help, but three of the top four tacklers return including sack leader Will Heldt. Its projection is that year two in the scheme plus an offensive uptick could produce a Clemson team resembling the familiar version — useful, since Vizzina must grow into the starting role. *(p. 85)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The guide poses the goodwill question directly: whether Dabo Swinney has banked enough to survive another disappointing season, given the bar at Clemson is playoff qualification and national title contention. *(p. 84)*
-- Losing a three-year starter and 10,000-yard passer would normally be a blow, but the guide notes Klubnik had about as underwhelming a senior year as possible — a 16-to-6 touchdown-to-interception ratio a season after 43 total touchdowns. It lists mitigating factors: Bryant Wesco was lost midway through the year, Antonio Williams never seemed fully healthy, and Swinney appeared at odds with Riley weekly, throwing him under the bus more than once. Its conclusion is that even with Vizzina light on experience at 105 career attempts, Morris's return and a new voice in the huddle will probably help. *(p. 85)*
-- The guide is careful not to pin everything on Klubnik. Clemson ran for just 3.9 yards per carry, down sharply from 5.1 the year before, when both Phil Mafah and Will Shipley exceeded five yards a carry, and Mafah ran for over 1,100 yards as the feature back in 2024. Adam Randall managed 4.8 yards per carry last year, though Klubnik's own struggles running dragged the team rate down. With Randall gone the job is open, and the candidates are Chris Johnson, who averaged over seven yards per carry at SMU, and Gideon Davidson, a four-star and top-five back in the 2025 class per 247. *(p. 85)*
-- The guide argues defensive improvement was overshadowed by offensive regression. Former Indiana head coach Tom Allen did great things in year one as coordinator, with the team dramatically better against the run and holding opponents to 20.5 points per game. The secondary was not great and losing second-round pick Avieon Terrell will not help, but three of the top four tacklers return including sack leader Will Heldt. Its projection is that year two in the scheme plus an offensive uptick could produce a Clemson team resembling the familiar version — useful, since Vizzina must grow into the starting role. *(p. 85)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -120,11 +120,13 @@ The Stability Score table prints the same figure independently: **3 returning st
 - **Does another wide receiver emerge?** The guide identifies a genuine pattern in Stutzmann's offense — a previously unheralded receiver erupting. Nick Nash produced 1,382 yards and 16 touchdowns in year one, and Danny Scudero caught 88 passes for 1,297 yards and 10 touchdowns last season. With the top five pass catchers gone and four transfers making up the room, it names Anthony Ivey as the one to watch, a former four-star from Penn State. It handles that even-handedly: the step down is obviously massive and could be a red flag, but the pedigree is there and so is a system built to maximize him. *(p. 257)*
 - **Can Niumatalolo do it again?** On paper the guide calls this rough. Per Phil Steele, San Jose State lost 24 starters to the portal and brought in two, with only three full-time starters returning from a three-win team. Receiver, defensive line and defensive back lost every starter and need rebuilding. It notes some former Power Four transfers are involved while adding the realistic caveat that all are making this move for a reason. Its conclusion credits Niumatalolo as a good coach with staff continuity who surprised the conference on arrival, while judging that he would need one of the best coaching jobs of a long career to get this group into the mix. *(p. 257)*
 
+
 Referenced in the guide on **pp. 86** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Does another wide receiver emerge?** The guide identifies a genuine pattern in Stutzmann's offense — a previously unheralded receiver erupting. Nick Nash produced 1,382 yards and 16 touchdowns in year one, and Danny Scudero caught 88 passes for 1,297 yards and 10 touchdowns last season. With the top five pass catchers gone and four transfers making up the room, it names Anthony Ivey as the one to watch, a former four-star from Penn State. It handles that even-handedly: the step down is obviously massive and could be a red flag, but the pedigree is there and so is a system built to maximize him. *(p. 257)*
+
 
 Referenced in the guide on **pp. 27** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -134,12 +136,14 @@ Referenced in the guide on **pp. 27** — those passages are not reproduced here
 - **Who will be doing the spreading and the shredding?** Coordinator Craig Stutzmann's Spread and Shred offense took the conference by storm two seasons ago before fizzling in 2025. The depth chart at quarterback is completely new apart from one-time UCLA transfer Robert McDaniel, with Luke Weaver the presumed winner. Weaver started two games at Hawaii in place of the injured Micah Alejado, against Sam Houston State and Portland State, winning both while completing 53 of 85 for 534 yards with five touchdowns and one interception. The guide describes him as a seasoned and well-travelled redshirt senior who worked his way up from Modesto Junior College, and judges he likely gives San Jose State the best chance in this system. *(p. 257)*
 - **Does another wide receiver emerge?** The guide identifies a genuine pattern in Stutzmann's offense — a previously unheralded receiver erupting. Nick Nash produced 1,382 yards and 16 touchdowns in year one, and Danny Scudero caught 88 passes for 1,297 yards and 10 touchdowns last season. With the top five pass catchers gone and four transfers making up the room, it names Anthony Ivey as the one to watch, a former four-star from Penn State. It handles that even-handedly: the step down is obviously massive and could be a red flag, but the pedigree is there and so is a system built to maximize him. *(p. 257)*
 
+
 Referenced in the guide on **pp. 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 257, 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 257, 273**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -223,6 +227,7 @@ Also referenced on **pp. 40** — not reproduced here.
 
 - The guide opens with a joke about blue being the school colour and sadness the emotion the programme evokes, then supplies the record: no bowl win since 2015 and no more than seven wins in a season since 2012 — with that lone bowl win coming in a 6-7 year. *(p. 256)*
 
+
 Referenced in the guide on **pp. 86** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -270,18 +275,16 @@ As printed on p. 257. Each category carries a value and a national rank.
 
 - It credits his fantastic first season in a similar situation while identifying the difference: that came with an ingenious offense that surprised the league, and in his third season many opponents have now seen the tendencies. *(p. 256)*
 - Recommendation is Under 4.5 wins. The guide entertains a repeat of 2023's seven-win surprise before explaining why the two ingredients — a surprising offense and a favorable schedule — are both absent. *(p. 256)*
-- Schedule detail: difficult road trips to USC, Hawaii and Air Force; home games against an experienced Fresno State plus Wyoming, New Mexico, UNLV and North Dakota State; and road games at Eastern Michigan and UTEP that it rates coin flips at best. *(p. 256)*
-- Coordinator Craig Stutzmann's Spread and Shred offense took the conference by storm two seasons ago before fizzling in 2025. The depth chart at quarterback is completely new apart from one-time UCLA transfer Robert McDaniel, with Luke Weaver the presumed winner. Weaver started two games at Hawaii in place of the injured Micah Alejado, against Sam Houston State and Portland State, winning both while completing 53 of 85 for 534 yards with five touchdowns and one interception. The guide describes him as a seasoned and well-travelled redshirt senior who worked his way up from Modesto Junior College, and judges he likely gives San Jose State the best chance in this system. *(p. 257)*
-- On paper the guide calls this rough. Per Phil Steele, San Jose State lost 24 starters to the portal and brought in two, with only three full-time starters returning from a three-win team. Receiver, defensive line and defensive back lost every starter and need rebuilding. It notes some former Power Four transfers are involved while adding the realistic caveat that all are making this move for a reason. Its conclusion credits Niumatalolo as a good coach with staff continuity who surprised the conference on arrival, while judging that he would need one of the best coaching jobs of a long career to get this group into the mix. *(p. 257)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 4.5**.
-- Schedule detail: difficult road trips to USC, Hawaii and Air Force; home games against an experienced Fresno State plus Wyoming, New Mexico, UNLV and North Dakota State; and road games at Eastern Michigan and UTEP that it rates coin flips at best. *(p. 256)*
-- Coordinator Craig Stutzmann's Spread and Shred offense took the conference by storm two seasons ago before fizzling in 2025. The depth chart at quarterback is completely new apart from one-time UCLA transfer Robert McDaniel, with Luke Weaver the presumed winner. Weaver started two games at Hawaii in place of the injured Micah Alejado, against Sam Houston State and Portland State, winning both while completing 53 of 85 for 534 yards with five touchdowns and one interception. The guide describes him as a seasoned and well-travelled redshirt senior who worked his way up from Modesto Junior College, and judges he likely gives San Jose State the best chance in this system. *(p. 257)*
-- On paper the guide calls this rough. Per Phil Steele, San Jose State lost 24 starters to the portal and brought in two, with only three full-time starters returning from a three-win team. Receiver, defensive line and defensive back lost every starter and need rebuilding. It notes some former Power Four transfers are involved while adding the realistic caveat that all are making this move for a reason. Its conclusion credits Niumatalolo as a good coach with staff continuity who surprised the conference on arrival, while judging that he would need one of the best coaching jobs of a long career to get this group into the mix. *(p. 257)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -124,12 +124,14 @@ The Stability Score table prints the same figure independently: **14 returning s
 - **Can Matt Patricia's defense be No. 1 again?** Patricia replaced eight starters in his first year and produced the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game. He must now replace eight more, all drafted last spring. The guide's distinction is that the talent is always top-notch but there is no superstar equivalent to last year's. Kenyatta Jackson Jr (6.5 sacks) is the likely next first-rounder, joined on the line by Alabama transfer James Smith and UCF transfer John Walker. Other transfer starters include Earl Little Jr from Florida State and Terry Moore from Duke at free safety, with corners Jermaine Matthews Jr (two interceptions) and Devin Sanchez and strong safety Jaylen McClain (53 tackles). *(p. 169)*
 - **Who can be Jeremiah Smith's running mate?** Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
+
 Referenced in the guide on **pp. 10, 15, 18, 59, 93, 173** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - They have not stood pat: 18 portal additions, 50 new players and another top-five recruiting class. *(p. 168)*
 - **Who can be Jeremiah Smith's running mate?** Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
+
 
 Referenced in the guide on **pp. 10, 59, 66** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -140,11 +142,13 @@ Referenced in the guide on **pp. 10, 59, 66** — those passages are not reprodu
 - **Can the Buckeyes offensive line get back to being dominant again?** The guide is fair to the unit first: it was dominant in the regular season, allowing six sacks, before conceding five against Indiana and five more against Miami. It entertains other explanations for those losses — whether Day became too conservative and whether the tempo was too slow, answering yes to both — but concludes the clearest reason is that the line was beaten up front. Four starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. While the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively and will let Sayin use his legs. *(p. 169)*
 - **Who can be Jeremiah Smith's running mate?** Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
+
 Referenced in the guide on **pp. 10, 18, 29, 66, 77, 170, 182, 238, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Can Matt Patricia's defense be No. 1 again?** Patricia replaced eight starters in his first year and produced the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game. He must now replace eight more, all drafted last spring. The guide's distinction is that the talent is always top-notch but there is no superstar equivalent to last year's. Kenyatta Jackson Jr (6.5 sacks) is the likely next first-rounder, joined on the line by Alabama transfer James Smith and UCF transfer John Walker. Other transfer starters include Earl Little Jr from Florida State and Terry Moore from Duke at free safety, with corners Jermaine Matthews Jr (two interceptions) and Devin Sanchez and strong safety Jaylen McClain (53 tackles). *(p. 169)*
+
 
 Referenced in the guide on **pp. 13, 19, 95, 151, 182, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -201,8 +205,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 13**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -236,14 +241,6 @@ Prices printed on the team page *(p. 169)*:
 
 ## 21. Betting Notes / Best Bets
 
-**Host best bets naming this team** *(pp. 5–15)*:
-
-| Contributor | Pick | Page |
-| --- | --- | --- |
-| Jensen Lewis | PARLAY: NOTRE DAME, OHIO STATE, | 7 |
-
-Where contributors disagree, every position is kept separately and none is reconciled.
-
 - Recommendation is Over 9.5 wins. The guide notes that a single-digit total would ordinarily be an obvious Over given Ohio State has not won fewer than ten in a full season since 2011. *(p. 168)*
 - It sets against that 51 newcomers and a loaded schedule: road trips to Texas, Iowa, Indiana, USC and Nebraska, plus Illinois, Oregon and Michigan at home. *(p. 168)*
 
@@ -254,6 +251,7 @@ Also referenced on **pp. 6, 10, 11, 14, 17, 38, 45** — not reproduced here.
 - Ohio State enters 2026 with something rare — a losing streak. It lost the Big Ten Championship Game to Indiana, a first defeat to them since 1988, then was upset as the No. 2 seed in the Cotton Bowl by Miami. *(p. 168)*
 - The Buckeyes did end a four-game losing run to Michigan and finished 12-2, which the guide says is never enough in Columbus. *(p. 168)*
 - Recommendation is Over 9.5 wins. The guide notes that a single-digit total would ordinarily be an obvious Over given Ohio State has not won fewer than ten in a full season since 2011. *(p. 168)*
+
 
 Referenced in the guide on **pp. 13, 14, 17, 18, 20, 27, 38, 149, 151, 166, 170, 172, 176, 181, 209, 220, 249** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -304,17 +302,12 @@ As printed on p. 169. Each category carries a value and a national rank.
 - The team page recommends **OVER 9.5**.
 - Julian Sayin and Jeremiah Smith return to form what the guide calls arguably the best quarterback-receiver combination in the country, on one of the sport's most talented rosters. *(p. 168)*
 - It sets against that 51 newcomers and a loaded schedule: road trips to Texas, Iowa, Indiana, USC and Nebraska, plus Illinois, Oregon and Michigan at home. *(p. 168)*
-- The guide is fair to the unit first: it was dominant in the regular season, allowing six sacks, before conceding five against Indiana and five more against Miami. It entertains other explanations for those losses — whether Day became too conservative and whether the tempo was too slow, answering yes to both — but concludes the clearest reason is that the line was beaten up front. Four starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. While the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively and will let Sayin use his legs. *(p. 169)*
-- Patricia replaced eight starters in his first year and produced the country's No. 1 defense at 9.3 points and 219.1 yards allowed per game. He must now replace eight more, all drafted last spring. The guide's distinction is that the talent is always top-notch but there is no superstar equivalent to last year's. Kenyatta Jackson Jr (6.5 sacks) is the likely next first-rounder, joined on the line by Alabama transfer James Smith and UCF transfer John Walker. Other transfer starters include Earl Little Jr from Florida State and Terry Moore from Duke at free safety, with corners Jermaine Matthews Jr (two interceptions) and Devin Sanchez and strong safety Jaylen McClain (53 tackles). *(p. 169)*
-- Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Ohio State enters 2026 with something rare — a losing streak. It lost the Big Ten Championship Game to Indiana, a first defeat to them since 1988, then was upset as the No. 2 seed in the Cotton Bowl by Miami. *(p. 168)*
-- The guide is fair to the unit first: it was dominant in the regular season, allowing six sacks, before conceding five against Indiana and five more against Miami. It entertains other explanations for those losses — whether Day became too conservative and whether the tempo was too slow, answering yes to both — but concludes the clearest reason is that the line was beaten up front. Four starters return and Bo Jackson ran for almost 1,100 yards as a freshman behind them. While the downfield passing game will be the most explosive element, Arthur Smith wants to run more aggressively and will let Sayin use his legs. *(p. 169)*
-- Smith is described as the most talented receiver in college football since arriving as a true freshman, to the point that No. 4 overall pick Carnell Tate was the second option. Brandon Inniss returns, Chris Henry Jr is the latest five-star freshman, and transfer Devin McCuin had 726 yards and eight touchdowns at UTSA. The guide still rates this arguably the country's most talented corps, with the open question being who emerges as the second option while Smith absorbs every coverage available. *(p. 169)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

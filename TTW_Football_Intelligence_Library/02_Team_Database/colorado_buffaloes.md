@@ -122,6 +122,7 @@ The Stability Score table prints the same figure independently: **15 returning s
 - **Will Julian Lewis show out at the quarterback position?** Lewis was a five-star and the third-ranked quarterback in the 2025 class, seen as the future of the programme. Across parts of three games he threw for 589 yards with four touchdowns and no interceptions, which the guide characterizes carefully as neither great nor miserable. It expects his rise to begin, noting he is a traditional pro-style passer who will improvise less than Shedeur did, with the arm talent for the downfield throws Marion's system needs. If that does not materialize, Utah transfer Isaac Wilson — brother of Zach Wilson — could get a chance. *(p. 127)*
 - **Can former Virginia Tech DC Chris Marve get the defense on track?** Colorado appeared to be improving, cutting from 34.8 points allowed per game in 2023 to 23.1 in 2024, before regressing to 30.5 last season and 56th nationally in Adjusted EPA per play allowed at -0.03. The guide sets a top-25 defense as the goal and calls it realistic given the team ranked 13th in the same metric at -0.13 in 2024. Marve has talent: heavy portal reinforcement with all-conference Group of Five performers at all three levels, plus corners from big-time programmes. Its conclusion places responsibility on the coach, since the group does not lack playmakers. *(p. 127)*
 
+
 Referenced in the guide on **pp. 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -132,11 +133,13 @@ Referenced in the guide on **pp. 18** — those passages are not reproduced here
 
 - **How will OC Brennan Marion's "Go-Go" system look in the Big 12?** Marion's fast-paced power rushing offense worked at UNLV and Sacramento State, and the guide's open question is whether it translates to this level. The scheme uses multiple backs and relies on fresh legs to break long runs inside, with rushing success setting up deep shots as a spread variation. Its conclusion is conditional on the line: given strong play up front there is no reason it should not work, and Colorado has two potential pros at tackle in Leon Bell and Bo Hughley plus proven starter Demetrius Hunter at center. *(p. 127)*
 
+
 Referenced in the guide on **pp. 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Can former Virginia Tech DC Chris Marve get the defense on track?** Colorado appeared to be improving, cutting from 34.8 points allowed per game in 2023 to 23.1 in 2024, before regressing to 30.5 last season and 56th nationally in Adjusted EPA per play allowed at -0.03. The guide sets a top-25 defense as the goal and calls it realistic given the team ranked 13th in the same metric at -0.13 in 2024. Marve has talent: heavy portal reinforcement with all-conference Group of Five performers at all three levels, plus corners from big-time programmes. Its conclusion places responsibility on the coach, since the group does not lack playmakers. *(p. 127)*
+
 
 Referenced in the guide on **pp. 75, 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -183,8 +186,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 127** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 127**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -214,6 +218,7 @@ Prices printed on the team page *(p. 127)*:
 
 - Colorado went 4-8 in Deion Sanders' first year then won nine in year two, when Shedeur Sanders put up huge passing numbers and Travis Hunter won the Heisman playing both receiver and cornerback. *(p. 126)*
 - Their success took them to the NFL, and the guide is blunt that 2025 was a disaster: no identity, 3-9 overall and 1-8 in the Big 12. *(p. 126)*
+
 
 Referenced in the guide on **pp. 14, 15** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -262,7 +267,6 @@ As printed on p. 127. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 4.5**.
 - Their success took them to the NFL, and the guide is blunt that 2025 was a disaster: no identity, 3-9 overall and 1-8 in the Big 12. *(p. 126)*
-- Marion's fast-paced power rushing offense worked at UNLV and Sacramento State, and the guide's open question is whether it translates to this level. The scheme uses multiple backs and relies on fresh legs to break long runs inside, with rushing success setting up deep shots as a spread variation. Its conclusion is conditional on the line: given strong play up front there is no reason it should not work, and Colorado has two potential pros at tackle in Leon Bell and Bo Hughley plus proven starter Demetrius Hunter at center. *(p. 127)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -270,8 +274,6 @@ As printed on p. 127. Each category carries a value and a national rank.
 
 - Makinen projects **4.4 wins** against a posted total of 4.5 — **-0.1** against this team.
 - It expects a different 2026, citing Sanders doing much better with the health concerns that had made life difficult on and off the field, significant coaching staff changes, and hard work bringing reliable contributors through the portal. *(p. 126)*
-- Marion's fast-paced power rushing offense worked at UNLV and Sacramento State, and the guide's open question is whether it translates to this level. The scheme uses multiple backs and relies on fresh legs to break long runs inside, with rushing success setting up deep shots as a spread variation. Its conclusion is conditional on the line: given strong play up front there is no reason it should not work, and Colorado has two potential pros at tackle in Leon Bell and Bo Hughley plus proven starter Demetrius Hunter at center. *(p. 127)*
-- Colorado appeared to be improving, cutting from 34.8 points allowed per game in 2023 to 23.1 in 2024, before regressing to 30.5 last season and 56th nationally in Adjusted EPA per play allowed at -0.03. The guide sets a top-25 defense as the goal and calls it realistic given the team ranked 13th in the same metric at -0.13 in 2024. Marve has talent: heavy portal reinforcement with all-conference Group of Five performers at all three levels, plus corners from big-time programmes. Its conclusion places responsibility on the coach, since the group does not lack playmakers. *(p. 127)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

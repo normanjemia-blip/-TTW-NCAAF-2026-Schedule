@@ -29,6 +29,10 @@ SRC = "_source/data"
 OUT = "02_Team_Database"
 
 NOT_ADDRESSED = "Not addressed in guide."
+# Used where the guide DOES reference the team on some page but no passage was
+# extracted under this specific heading. Saying plain "Not addressed in guide."
+# there would be false; leaving the heading bare was the F-4 defect.
+NOT_ADDRESSED_HEADING = "Not addressed in guide under this heading."
 DEFERRED = "**DEFERRED — EXTRACTION NOT RELIABLE**"
 
 BANNER = (
@@ -70,6 +74,12 @@ POSITIVE = (r"\bimprove|\bupside\b|\bbest\b|\belite\b|\bstrength|\btalented|\bre
             r"\bexperienced|\bdeep\b|\bstrong\b|\bwinning\b|\boptimis|\bbreakout|\bcontend|"
             r"\bgood\b|\bsolid\b|\bimpress|\bexcellent|\bpromising|\bfavorable|\bstellar|"
             r"\bcredit|\bsuccess|\bwinnable|\bhigh floor|\bloaded\b")
+# Markers of a statement that argues in two directions at once.
+CONTRASTIVE = re.compile(
+    r"\b(but|however|though|although|whereas|despite|even so|"
+    r"on the other hand|the (?:guide's )?caution|the concern is|"
+    r"that said|while it)\b", re.I)
+
 NEGATIVE = (r"\bconcern|\bworry|\bstruggl|\bloss(?:es)?\b|\blost\b|\bquestion|\bweak|\bthin\b|"
             r"\binexperienc|\bregress|\bbrutal|\btough\b|\bdifficult|\binjur|\bmiss(?:ing|ed)?\b")
 
@@ -95,6 +105,32 @@ def load_paraphrases():
             with open(os.path.join(folder, name)) as fh:
                 store.update(json.load(fh))
     return store
+
+
+def canonical_best_bets():
+    """Phase 8's resolved best bets, reshaped to this renderer's fields.
+
+    Player markets (Heisman) carry the programme the guide's own reasoning
+    names, and are labelled so a reader does not read a player bet as a team
+    bet. Parlays resolve to no single team and are therefore attached to no
+    team page.
+    """
+    import sys as _sys
+    _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from futures_lib import load_best_bets
+    out = []
+    for b in load_best_bets()["bets"]:
+        if not b["team"]:
+            continue
+        out.append({
+            "contributor": b["contributor"],
+            "pick": b["headline"],
+            "page": b["page"],
+            "team": b["team"],
+            "market": b["market"],
+            "player": b["player"],
+        })
+    return out
 
 
 def slug(name):
@@ -225,7 +261,7 @@ class TeamFileBuilder:
         S["Bull Case"] = self.case(team, detail, ref, own, off, bull=True)
         S["Bear Case"] = self.case(team, detail, ref, own, off, bull=False)
         S["Open Questions / Risks"] = self.questions(team, detail, right)
-        S["Source Conflicts"] = self.conflicts(team, detail)
+        S["Source Conflicts"] = self.conflicts(team, detail, ref)
         S["Relevant Page References"] = self.pages(team, detail, ref)
         S["Cross-Links"] = self.links(team)
 
@@ -264,11 +300,23 @@ class TeamFileBuilder:
             # team's own spread — otherwise a topic the guide does address
             # would silently read as "Not addressed in guide."
             pages = sorted(set(pages) | set(self.elsewhere_pages(team, own, key)))
+        # A heading must never render as a bare page pointer with no
+        # statement. Where no note carries the theme, say so with the
+        # sentinel before pointing at the pages -- otherwise the section
+        # reads as though content were missing by accident.
+        empty = not parts
+        if empty:
+            parts.append(NOT_ADDRESSED_HEADING if pages else NOT_ADDRESSED)
         if pages:
+            lead = ("The guide names this team on" if empty
+                    else "\nReferenced in the guide on")
+            tail = ("but no passage there was extracted under this heading; see "
+                    "those pages for VSiN's own wording." if empty else
+                    "— those passages are not reproduced here; see the pages "
+                    "for VSiN's own wording.")
             parts.append(
-                f"\nReferenced in the guide on "
-                f"**pp. {', '.join(str(p) for p in pages)}** — those passages are "
-                f"not reproduced here; see the pages for VSiN's own wording.")
+                f"\n{lead} **pp. {', '.join(str(p) for p in pages)}**"
+                f"{',' if empty else ''} {tail}")
         if not parts:
             return NOT_ADDRESSED
         return "\n".join(parts)
@@ -566,7 +614,10 @@ class TeamFileBuilder:
             parts.append("**Host best bets naming this team** *(pp. 5–15)*:\n")
             parts.append("| Contributor | Pick | Page |\n| --- | --- | --- |")
             for b in rows:
-                parts.append(f"| {b['contributor']} | {b['pick']} | {b['page']} |")
+                note = (f" *(player market — {b['player']})*"
+                        if b.get("player") else "")
+                parts.append(f"| {b['contributor']} | {b['pick']}{note} "
+                             f"| {b['page']} |")
             parts.append("\nWhere contributors disagree, every position is kept "
                          "separately and none is reconciled.\n")
         notes = self.themed_notes(team, "betting")
@@ -606,13 +657,37 @@ class TeamFileBuilder:
         pattern = POSITIVE if bull else NEGATIVE
         rows, seen = [], set()
         notes = self.notes_for(team)
+        # The Three Burning Questions are two-sided by construction -- each
+        # weighs a case for against a case against -- so they are NOT drawn
+        # on here. They are rendered in full under "Open Questions / Risks",
+        # where their balance is the point rather than a thing to be split.
         if notes:
             pool = [(i["n"], i["p"]) for i in notes.get("outlook", [])]
-            pool += [(i["n"], i["p"]) for i in notes.get("questions", [])]
         else:
             pool = own + off
+        # A statement is assigned to a side ONLY if its language is
+        # unambiguous. Scanning for either pattern alone put Georgia's
+        # "schedule is favorable ... toughest trip is Tuscaloosa" in the BEAR
+        # case on the word "toughest", while genuinely negative statements
+        # reached the BULL case on "returns" and "strong". A sentence that
+        # carries both kinds of language is now classified to NEITHER side
+        # and counted, rather than forced onto one.
+        mixed = 0
         for sentence, page in pool:
-            if re.search(pattern, sentence, re.I) and sentence not in seen:
+            pos = bool(re.search(POSITIVE, sentence, re.I))
+            neg = bool(re.search(NEGATIVE, sentence, re.I))
+            # A contrastive connective marks a statement that argues both
+            # ways, whatever vocabulary it happens to use. Keyword polarity
+            # alone missed these: the negative list has no entry for
+            # "trouble", "unsustainable" or "tore an ACL", so passages built
+            # around them scored positive-only and landed in the bull case.
+            if CONTRASTIVE.search(sentence) or len(sentence) > 320:
+                mixed += 1
+                continue
+            if pos and neg:
+                mixed += 1
+                continue
+            if (pos if bull else neg) and sentence not in seen:
                 seen.add(sentence)
                 rows.append(cite(sentence, page))
             if len(rows) >= 10:
@@ -632,6 +707,26 @@ class TeamFileBuilder:
             if (bull and side == "OVER") or (not bull and side == "UNDER"):
                 header.append(f"- The team page recommends **{side} "
                               f"{detail['win_total_pick']['number']}**.")
+        if not (header + rows):
+            # No unambiguous statement on this side. Say so rather than
+            # leaving the heading bare, and point at where the reasoning is.
+            pages = sorted({pg for _, pg in pool})
+            side = "optimistic" if bull else "pessimistic"
+            rows.append(
+                f"No statement in this file is phrased as an unambiguously "
+                f"{side} claim about this team."
+                + (f" VSiN's reasoning is on pp. "
+                   f"{', '.join(str(pg) for pg in pages)}; see the season "
+                   f"outlook and *Open Questions / Risks*, which carry the "
+                   f"same analysis without splitting it by direction."
+                   if pages else ""))
+        if mixed:
+            rows.append(
+                f"\n*{mixed} further statement{'s' if mixed != 1 else ''} about "
+                f"this team carr{'y' if mixed != 1 else 'ies'} both positive and "
+                f"negative language and {'are' if mixed != 1 else 'is'} not "
+                f"classified to either side. {'They appear' if mixed != 1 else 'It appears'} "
+                f"in full under the season outlook and *Open Questions / Risks*.*")
         body = header + rows
         if not body:
             # The guide argues both sides for every team, so an empty case means
@@ -669,8 +764,35 @@ class TeamFileBuilder:
             out.append(f"### {q['question']}\n\n{q['answer']}\n")
         return "\n".join(out)
 
-    def conflicts(self, team, detail):
+    ORDINAL_SCHEDULE = re.compile(
+        r"\b(\d{1,3})(?:st|nd|rd|th)[- ]ranked schedule\b", re.I)
+
+    def numeric_conflicts(self, team, ref):
+        """Same field, two different printed values, two different pages.
+
+        Detected mechanically for schedule rank, which the guide prints as a
+        structured figure on the left page and sometimes restates as an
+        ordinal in right-page prose. Both are reproduced; neither is chosen.
+        """
+        rows, notes = [], self.notes_for(team)
+        if not notes:
+            return rows
+        structured = ref.get("schedule_rank")
+        for key in ("outlook", "questions"):
+            for item in notes.get(key, []):
+                for m in self.ORDINAL_SCHEDULE.finditer(item.get("n", "")):
+                    if structured and str(structured) != m.group(1):
+                        rows.append(
+                            f"- **Schedule rank printed two ways.** The team "
+                            f"page and conference table give **#{structured} "
+                            f"of 138**; prose on p. {item['p']} calls it the "
+                            f"**{m.group(1)}th-ranked** schedule. Both are "
+                            f"reproduced as printed and neither is corrected.")
+        return list(dict.fromkeys(rows))
+
+    def conflicts(self, team, detail, ref):
         rows = []
+        rows += self.numeric_conflicts(team, ref)
         if detail.get("returning_starters_conflict"):
             rows.append(f"- **Returning-starter arithmetic.** "
                         f"{detail['returning_starters_conflict']}")
@@ -683,6 +805,9 @@ class TeamFileBuilder:
                 rows.append(f"- **{c['title']}** {c['detail']}")
         if not rows:
             return "No source conflict identified for this team."
+        # A team that carries any conflict must never also assert it has none.
+        # The assertion is unreachable once rows is non-empty; the validator
+        # checks the rendered file for the pair regardless.
         return "\n".join(rows)
 
     def pages(self, team, detail, ref):
@@ -823,6 +948,17 @@ def main():
                        "and neither is corrected."),
             "applies_to": {"Navy Midshipmen"},
         },
+        {
+            "title": "A running back's rushing total printed two ways.",
+            "detail": ("Nate Frazier's 2025 rushing yards are given as **958** "
+                       "on Georgia's team page (p. 293) and as **947** in Tim "
+                       "Murray's SEC futures write-up (p. 15). Both are "
+                       "reproduced as printed and neither is corrected. "
+                       "Recorded from a verified read of both pages; a general "
+                       "cross-layer numeric detector was tested and not "
+                       "shipped because it produced false positives."),
+            "applies_to": {"Georgia Bulldogs"},
+        },
     ]
 
     data = {
@@ -830,7 +966,14 @@ def main():
         "preview_page": preview_page, "coordinators": load("coordinators"),
         "new_coaches": load("phase2_new_coaches"),
         "win_totals": load("phase2_win_totals"),
-        "best_bets": load("phase2_best_bets"),
+        # Best bets come from Phase 8's CANONICAL resolution, not Phase 2's.
+        # Phase 2 joined a headline to a team by substring, which put Adam
+        # Burke's GEORGIA SOUTHERN bet on Georgia's page and attributed a
+        # three-team parlay solely to Ohio State. Phase 8 resolves by
+        # longest-prefix match against an enumerated bijection, so "GEORGIA
+        # SOUTHERN" cannot collide with "GEORGIA" and a parlay resolves to no
+        # single team. It also carries 62 picks where Phase 2 had 53.
+        "best_bets": canonical_best_bets(),
         "qb_top15": load("quarterbacks_top15"), "top50": load("youmans_top50"),
         "prediction_hits": prediction_hits, "resolve": resolve,
         "paraphrases": load_paraphrases(),

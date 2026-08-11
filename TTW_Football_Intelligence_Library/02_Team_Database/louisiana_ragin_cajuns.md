@@ -137,6 +137,7 @@ Not addressed in guide.
 - **What’s on the menu for Lunch?** The subject is Lunch Winfield, who led a four-game winning streak at the end of the regular season to get Louisiana to a bowl. The guide stresses how narrow that run was: three of those wins came by four points or fewer, as did four of the team's five conference wins. Its assessment of him is split by skill — a mediocre-at-best passer with an 11/7 touchdown-to-interception ratio and 58.8% completions, but a genuine runner with 667 yards and nine rushing touchdowns. It notes the job is officially his now after he lost out to Walker Howard at the start of last season and then split time with Daniel Beale once Howard was hurt, and suggests that clarity may help, since coordinator Tim Leger can now scheme the offense exclusively around him. *(p. 335)*
 - **Does Desormeaux deserve a pass for last season?** The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
 
+
 Referenced in the guide on **pp. 198** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
@@ -215,6 +216,7 @@ Also referenced on **pp. 332** — not reproduced here.
 - The comparison it draws is with Napier's tenure, while conceding times have changed: Napier took a programme that went 5-7 in Mark Hudspeth's final season, with wins vacated for NCAA violations, to 11 wins in Year 2, and won 33 games in his final three seasons — with Desormeaux coaching the bowl. *(p. 334)*
 - The arithmetic is stark in its telling: Desormeaux has just 28 wins in four seasons at the helm, and — it says perhaps more importantly — Napier had seven losses in Year 1 and only five in total after that. *(p. 334)*
 
+
 Referenced in the guide on **pp. 188, 199** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -260,9 +262,9 @@ As printed on p. 335. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Its central worry is stated as the complete lack of portal involvement while other conference programmes improve externally and Louisiana relies on internal development. *(p. 334)*
-- The subject is Lunch Winfield, who led a four-game winning streak at the end of the regular season to get Louisiana to a bowl. The guide stresses how narrow that run was: three of those wins came by four points or fewer, as did four of the team's five conference wins. Its assessment of him is split by skill — a mediocre-at-best passer with an 11/7 touchdown-to-interception ratio and 58.8% completions, but a genuine runner with 667 yards and nine rushing touchdowns. It notes the job is officially his now after he lost out to Walker Howard at the start of last season and then split time with Daniel Beale once Howard was hurt, and suggests that clarity may help, since coordinator Tim Leger can now scheme the offense exclusively around him. *(p. 335)*
-- The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 334; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -272,10 +274,8 @@ As printed on p. 335. Each category carries a value and a national rank.
 - The team page recommends **UNDER 7.5**.
 - The record it sets against that: three 6-7 seasons on his watch plus one 10-4 season that ended with a 31-3 loss in the conference title game and a 34-3 loss in the bowl. *(p. 334)*
 - The arithmetic is stark in its telling: Desormeaux has just 28 wins in four seasons at the helm, and — it says perhaps more importantly — Napier had seven losses in Year 1 and only five in total after that. *(p. 334)*
-- Its central worry is stated as the complete lack of portal involvement while other conference programmes improve externally and Louisiana relies on internal development. *(p. 334)*
-- The subject is Lunch Winfield, who led a four-game winning streak at the end of the regular season to get Louisiana to a bowl. The guide stresses how narrow that run was: three of those wins came by four points or fewer, as did four of the team's five conference wins. Its assessment of him is split by skill — a mediocre-at-best passer with an 11/7 touchdown-to-interception ratio and 58.8% completions, but a genuine runner with 667 yards and nine rushing touchdowns. It notes the job is officially his now after he lost out to Walker Howard at the start of last season and then split time with Daniel Beale once Howard was hurt, and suggests that clarity may help, since coordinator Tim Leger can now scheme the offense exclusively around him. *(p. 335)*
-- The guide argues the offense might not have found steady success regardless of how long the quarterback decision took, because the offensive line was battered — three players suffered long-term injuries early, forcing constant shuffling, with others missing time too. It calls it surprising that the staff did not attack the portal more aggressively for depth there, while noting the silver lining that the injuries gave many players important reps. On identity it is clear: this is a big group and the plan is plainly to run the ball as much as possible. Its supporting evidence is that Louisiana had only one game with 30 pass attempts in conference play last season, making the health of the run-blockers paramount. *(p. 335)*
-- The guide's verdict on Jim Salgado's first year as coordinator is a rough one. It acknowledges the secondary was hit hard by absences, but locates the real concern in the pass rush: 23 sacks in 13 games and a tie for 112th in tackles for loss per game. Departures compound it — top tacklers Jaden Dugger and Terrance Williams are gone after 220 stops, with Dugger contributing nine tackles for loss and Jordan Lawson 10, the two combining for nine sacks. It names true sophomore Brent Gordon as a player in the secondary, but concludes impact players seem few and far between. *(p. 335)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

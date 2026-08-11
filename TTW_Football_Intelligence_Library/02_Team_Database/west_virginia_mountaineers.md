@@ -119,17 +119,20 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **What can be expected from some of these offensive pieces?** Hawkins should suit the Rodriguez offense — clear room to improve as a thrower, but an electric runner who made big plays at Oklahoma. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. The guide names receiver as the one group that disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. *(p. 147)*
 - **Will special teams be a problem for West Virginia?** Western Kentucky transfer Jack Cassidy is set to kick but is only 3 of 3 in his career, though 2 of 2 from 50-plus, so the guide credits the leg while questioning how he handles pressure at a big programme, with Alabama transfer Peter Notaro next in line. On punting it raises a specific caveat about Bryan Hansen, who averaged 47.9 yards at Colorado: that is high-level production, but distance is easier at altitude, so Morgantown will be the real test. *(p. 147)*
 
+
 Referenced in the guide on **pp. 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 99** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 99**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - The Mountaineers added big-time transfer talent on offense and should be harder to stop. *(p. 146)*
 - **What can be expected from some of these offensive pieces?** Hawkins should suit the Rodriguez offense — clear room to improve as a thrower, but an electric runner who made big plays at Oklahoma. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. The guide names receiver as the one group that disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. *(p. 147)*
+
 
 Referenced in the guide on **pp. 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -138,6 +141,7 @@ Referenced in the guide on **pp. 75** — those passages are not reproduced here
 - The guide's central condition is defensive: this was a shaky unit, and unless it can get off the field consistently, year two will not be much better than year one. *(p. 146)*
 - Its lean rests on two specifics: Michael Hawkins is a good runner but underwhelming as a passer, and the defense needs to be much better after being torched — otherwise the offense would have to be flat-out special, which it doubts. *(p. 146)*
 - **Will the Mountaineers get any better defensively?** West Virginia allowed 30.8 points per game and ranked 64th nationally in Adjusted EPA per play allowed at -0.01, with the pass defense the acute problem at 265.0 yards allowed per game, 129th in FBS. The response was bigger corners from smaller programmes and an apparently improved safety group. The guide declines to buy a complete turnaround, and identifies the trade-off precisely: the defensive line looks weak, so gains against the pass could be handed back against the run. *(p. 147)*
+
 
 Referenced in the guide on **pp. 77** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -219,6 +223,7 @@ Prices printed on the team page *(p. 147)*:
 
 - Rich Rodriguez went 4-8 in his return. The guide's balanced read is that it was not a great season but his team won the Backyard Brawl against Pittsburgh and hung around against good opposition. *(p. 146)*
 
+
 Referenced in the guide on **pp. 29, 77, 117** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -265,12 +270,9 @@ As printed on p. 147. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.6 wins** against a posted total of 5.5 — **+0.1** in this team's favour.
-- Rich Rodriguez went 4-8 in his return. The guide's balanced read is that it was not a great season but his team won the Backyard Brawl against Pittsburgh and hung around against good opposition. *(p. 146)*
 - With a more talented roster and a much easier schedule, expectations are for West Virginia to flirt with bowl eligibility. Returning starters rise from 10 to 12. *(p. 146)*
-- Its lean rests on two specifics: Michael Hawkins is a good runner but underwhelming as a passer, and the defense needs to be much better after being torched — otherwise the offense would have to be flat-out special, which it doubts. *(p. 146)*
-- West Virginia allowed 30.8 points per game and ranked 64th nationally in Adjusted EPA per play allowed at -0.01, with the pass defense the acute problem at 265.0 yards allowed per game, 129th in FBS. The response was bigger corners from smaller programmes and an apparently improved safety group. The guide declines to buy a complete turnaround, and identifies the trade-off precisely: the defensive line looks weak, so gains against the pass could be handed back against the run. *(p. 147)*
-- Hawkins should suit the Rodriguez offense — clear room to improve as a thrower, but an electric runner who made big plays at Oklahoma. Cam Cook arrives from Jacksonville State after 1,659 rushing yards and 16 touchdowns and should be among the conference's best backs, giving West Virginia a running element it lacked, helped by an improved line. The guide names receiver as the one group that disappoints, with no clarity on who makes plays on money downs and Jaden Bray the best guess. *(p. 147)*
-- Western Kentucky transfer Jack Cassidy is set to kick but is only 3 of 3 in his career, though 2 of 2 from 50-plus, so the guide credits the leg while questioning how he handles pressure at a big programme, with Alabama transfer Peter Notaro next in line. On punting it raises a specific caveat about Bryan Hansen, who averaged 47.9 yards at Colorado: that is high-level production, but distance is easier at altitude, so Morgantown will be the real test. *(p. 147)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -278,8 +280,8 @@ As printed on p. 147. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 5.5**.
 - Recommendation is Under 5.5 wins. It expects a 2-0 start against Coastal Carolina and Tennessee-Martin before a tough Virginia game and then Oklahoma State at home to open Big 12 play — a result it says could decide the Over or Under. *(p. 146)*
-- West Virginia allowed 30.8 points per game and ranked 64th nationally in Adjusted EPA per play allowed at -0.01, with the pass defense the acute problem at 265.0 yards allowed per game, 129th in FBS. The response was bigger corners from smaller programmes and an apparently improved safety group. The guide declines to buy a complete turnaround, and identifies the trade-off precisely: the defensive line looks weak, so gains against the pass could be handed back against the run. *(p. 147)*
-- Western Kentucky transfer Jack Cassidy is set to kick but is only 3 of 3 in his career, though 2 of 2 from 50-plus, so the guide credits the leg while questioning how he handles pressure at a big programme, with Alabama transfer Peter Notaro next in line. On punting it raises a specific caveat about Bryan Hansen, who averaged 47.9 yards at Colorado: that is high-level production, but distance is easier at altitude, so Morgantown will be the real test. *(p. 147)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

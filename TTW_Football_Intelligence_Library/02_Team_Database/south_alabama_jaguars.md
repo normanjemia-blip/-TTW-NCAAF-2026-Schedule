@@ -126,12 +126,14 @@ The Stability Score table prints the same figure independently: **8 returning st
 - **Can the skill guys make up for the losses of Bullock and Voisin?** The guide treats this as the precondition for offensive improvement. The returning production it lists is modest: Keenan Phillips at 4.8 yards per carry on 126 attempts, PJ Martin at 5.4, and Anthony Eager second in catches with 40 for only 339 yards. It says game-breakers must emerge, especially at receiver, and states surprise that the Jaguars did not pursue portal options there with more fervour. Lacking size at the position, it expects Applewhite to run more tempo to use that group's speed and get the ball out quickly into space. The explosive-play evidence it cites comes from BCF Toys: under Petrino, South Alabama ranked 88th in share of plays gaining 7-plus yards and 124th at 10-plus; under Ezell, 24th and 54th. That gap is what Applewhite is chasing. *(p. 341)*
 - **What is our situation, Dad?** The heading is a film reference the guide acknowledges has nothing to do with football, prompted by the coordinator's first name. On substance, Todd Orlando inherits something of a mess. Even the 2024 defense allowed 5.8 yards per play while conceding 25.2 PPG — already a big drop from the two seasons before that under head coach Kane Wommack. The roster he inherits is thin: the top four tacklers are gone, though the guide points out that includes nobody with two or more sacks, because nobody on the team reached that mark. The single biggest loss is cornerback Nehemiah Chandler, now at Florida State. It sums the unit up as completely rebuilt with limited portal help. *(p. 341)*
 
+
 Referenced in the guide on **pp. 23, 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 23, 340** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 23, 340**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -147,6 +149,7 @@ Referenced in the guide on **pp. 23, 340** — those passages are not reproduced
 - Year 2 is graded a major disappointment: 4-8 with just 5.4 yards per play and 26.5 PPG, alongside defensive regression in several key areas. *(p. 340)*
 - It attaches an unusually strong variance warning: this is as high-variance a team as you will see in the Sun Belt. Faster tempo and explosive plays would change the story, but could also hurt a team very short on depth and very green in the secondary. *(p. 340)*
 - **What is our situation, Dad?** The heading is a film reference the guide acknowledges has nothing to do with football, prompted by the coordinator's first name. On substance, Todd Orlando inherits something of a mess. Even the 2024 defense allowed 5.8 yards per play while conceding 25.2 PPG — already a big drop from the two seasons before that under head coach Kane Wommack. The roster he inherits is thin: the top four tacklers are gone, though the guide points out that includes nobody with two or more sacks, because nobody on the team reached that mark. The single biggest loss is cornerback Nehemiah Chandler, now at Florida State. It sums the unit up as completely rebuilt with limited portal help. *(p. 341)*
+
 
 Referenced in the guide on **pp. 191** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -226,6 +229,7 @@ Prices printed on the team page *(p. 341)*:
 - Year 1 is graded a win: 7-6 with 6.8 yards per play — a full yard per play better than opponents — and 34.4 PPG. *(p. 340)*
 - Year 2 is graded a major disappointment: 4-8 with just 5.4 yards per play and 26.5 PPG, alongside defensive regression in several key areas. *(p. 340)*
 
+
 Referenced in the guide on **pp. 23, 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -272,8 +276,8 @@ As printed on p. 341. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - It is explicit that it does not think Applewhite's job is in jeopardy even with another poor showing, while noting he knows things need to improve — which it reads in two staffing decisions: he will call the offense himself and has hired football lifer Todd Orlando to fix the defense. *(p. 340)*
-- It attaches an unusually strong variance warning: this is as high-variance a team as you will see in the Sun Belt. Faster tempo and explosive plays would change the story, but could also hurt a team very short on depth and very green in the secondary. *(p. 340)*
-- The guide treats this as the precondition for offensive improvement. The returning production it lists is modest: Keenan Phillips at 4.8 yards per carry on 126 attempts, PJ Martin at 5.4, and Anthony Eager second in catches with 40 for only 339 yards. It says game-breakers must emerge, especially at receiver, and states surprise that the Jaguars did not pursue portal options there with more fervour. Lacking size at the position, it expects Applewhite to run more tempo to use that group's speed and get the ball out quickly into space. The explosive-play evidence it cites comes from BCF Toys: under Petrino, South Alabama ranked 88th in share of plays gaining 7-plus yards and 124th at 10-plus; under Ezell, 24th and 54th. That gap is what Applewhite is chasing. *(p. 341)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -282,7 +286,8 @@ As printed on p. 341. Each category carries a value and a national rank.
 - Makinen projects **5.0 wins** against a posted total of 5.5 — **-0.5** against this team.
 - The team page recommends **UNDER 5.5**.
 - Year 2 is graded a major disappointment: 4-8 with just 5.4 yards per play and 26.5 PPG, alongside defensive regression in several key areas. *(p. 340)*
-- The heading is a film reference the guide acknowledges has nothing to do with football, prompted by the coordinator's first name. On substance, Todd Orlando inherits something of a mess. Even the 2024 defense allowed 5.8 yards per play while conceding 25.2 PPG — already a big drop from the two seasons before that under head coach Kane Wommack. The roster he inherits is thin: the top four tacklers are gone, though the guide points out that includes nobody with two or more sacks, because nobody on the team reached that mark. The single biggest loss is cornerback Nehemiah Chandler, now at Florida State. It sums the unit up as completely rebuilt with limited portal help. *(p. 341)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

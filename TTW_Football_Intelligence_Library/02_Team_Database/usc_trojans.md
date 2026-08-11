@@ -122,12 +122,14 @@ The Stability Score table prints the same figure independently: **17 returning s
 - **Will Gary Patterson be able to put some fight into the USC defense?** The guide concedes defense has looked like an afterthought under Riley but credits genuine improvement last year under D'Anton Lynn: 51st in scoring defense at 23 points, 47th against the pass at 207.5 yards and 58th against the run at 143.2. Lynn returned to his alma mater Penn State, bringing Patterson back to full-time coaching for the first time since 2021. He switches to a 4-2-5 with depth up front — ends Kameryn Crawford (5.5 sacks, 10.5 tackles for loss) and Braylan Shelby (4.5 sacks), tackles Jahkeem Stewart and Jide Abasiri, plus Michigan State transfer Alex VanSumeren (52 tackles) — to lift a run defense that ranked 12th in the conference. The back seven has talent but must replace All-American Bishop Fitzgerald. *(p. 181)*
 - **Who takes over at receiver for Makai Lemon and Ja'Kobi Lane?** Biletnikoff winner Lemon and Lane take 1,900 receiving yards and 15 touchdowns with them. Tanook Hines (34 catches, 561 yards, two touchdowns) gets first chance as Maiava's top target, with NC State transfer Terrell Anderson adding 628 yards at 16.1 per reception. The guide judges the group's talent slightly below USC's usual level and draws the tactical consequence: the Trojans may run more with Miller and Jordan, who combined for over 1,500 yards and 15 touchdowns behind a line returning all five starters. *(p. 181)*
 
+
 Referenced in the guide on **pp. 18, 93, 157, 175, 185, 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - This may be his most talented group in five seasons: 14 returning starters and the nation's No. 1 recruiting class, including quarterback Jayden Maiava and leading rushers King Miller and Waymond Jordan. *(p. 180)*
 - Recommendation is Under 8.5 wins. The guide's central reservation about the recruiting class is timing — most of them may be a year away from real impact — and USC avoids none of the elite Big Ten teams. *(p. 180)*
+
 
 Referenced in the guide on **pp. 45** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -137,6 +139,7 @@ Referenced in the guide on **pp. 45** — those passages are not reproduced here
 - It expects plenty of points as always under Riley while flagging concern about a new coordinator installing a new system. *(p. 180)*
 - **Who takes over at receiver for Makai Lemon and Ja'Kobi Lane?** Biletnikoff winner Lemon and Lane take 1,900 receiving yards and 15 touchdowns with them. Tanook Hines (34 catches, 561 yards, two touchdowns) gets first chance as Maiava's top target, with NC State transfer Terrell Anderson adding 628 yards at 16.1 per reception. The guide judges the group's talent slightly below USC's usual level and draws the tactical consequence: the Trojans may run more with Miller and Jordan, who combined for over 1,500 yards and 15 touchdowns behind a line returning all five starters. *(p. 181)*
 
+
 Referenced in the guide on **pp. 18, 170, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
@@ -144,6 +147,7 @@ Referenced in the guide on **pp. 18, 170, 175** — those passages are not repro
 - Questions remain mainly on defense. Former TCU head coach Gary Patterson, who has not coached full-time in nearly four years, was lured from semi-retirement to become the third coordinator in four seasons. *(p. 180)*
 - It expects plenty of points as always under Riley while flagging concern about a new coordinator installing a new system. *(p. 180)*
 - **Will Gary Patterson be able to put some fight into the USC defense?** The guide concedes defense has looked like an afterthought under Riley but credits genuine improvement last year under D'Anton Lynn: 51st in scoring defense at 23 points, 47th against the pass at 207.5 yards and 58th against the run at 143.2. Lynn returned to his alma mater Penn State, bringing Patterson back to full-time coaching for the first time since 2021. He switches to a 4-2-5 with depth up front — ends Kameryn Crawford (5.5 sacks, 10.5 tackles for loss) and Braylan Shelby (4.5 sacks), tackles Jahkeem Stewart and Jide Abasiri, plus Michigan State transfer Alex VanSumeren (52 tackles) — to lift a run defense that ranked 12th in the conference. The back seven has talent but must replace All-American Bishop Fitzgerald. *(p. 181)*
+
 
 Referenced in the guide on **pp. 19, 105, 149, 173, 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -222,6 +226,7 @@ Also referenced on **pp. 38, 40, 162, 271** — not reproduced here.
 - When Lincoln Riley was hired five years ago the question in the media was how many national titles he would win at USC, not whether. The guide's correction is that he must first reach the playoff, which he did three times at Oklahoma. *(p. 180)*
 - **Can the Trojans win away from home and beat someone good?** The guide grounds this in record: USC is 5-11 against ranked opposition in Riley's four seasons, with as many as five ranked opponents likely this year in Oregon, Washington, Penn State, Ohio State and Indiana. The favorable detail is that Oregon and Ohio State visit the Coliseum, where USC went 7-0 last season; the unfavorable one is that the Trojans are 10-10 in true Big Ten road games under Riley, with trips to Penn State and Indiana to come. Its conclusion is that being taken seriously as a playoff contender requires winning consistently on the road. *(p. 181)*
 
+
 Referenced in the guide on **pp. 13, 14, 45, 93, 105, 154, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -270,8 +275,6 @@ As printed on p. 181. Each category carries a value and a national rank.
 - This may be his most talented group in five seasons: 14 returning starters and the nation's No. 1 recruiting class, including quarterback Jayden Maiava and leading rushers King Miller and Waymond Jordan. *(p. 180)*
 - Recommendation is Under 8.5 wins. The guide's central reservation about the recruiting class is timing — most of them may be a year away from real impact — and USC avoids none of the elite Big Ten teams. *(p. 180)*
 - Schedule shape matters: after a soft September in which 4-0 is likely, USC is thrown into the deep end. The guide's conclusion is that until the Trojans prove it in big games this looks like a repeat of last season. *(p. 180)*
-- The guide concedes defense has looked like an afterthought under Riley but credits genuine improvement last year under D'Anton Lynn: 51st in scoring defense at 23 points, 47th against the pass at 207.5 yards and 58th against the run at 143.2. Lynn returned to his alma mater Penn State, bringing Patterson back to full-time coaching for the first time since 2021. He switches to a 4-2-5 with depth up front — ends Kameryn Crawford (5.5 sacks, 10.5 tackles for loss) and Braylan Shelby (4.5 sacks), tackles Jahkeem Stewart and Jide Abasiri, plus Michigan State transfer Alex VanSumeren (52 tackles) — to lift a run defense that ranked 12th in the conference. The back seven has talent but must replace All-American Bishop Fitzgerald. *(p. 181)*
-- The guide grounds this in record: USC is 5-11 against ranked opposition in Riley's four seasons, with as many as five ranked opponents likely this year in Oregon, Washington, Penn State, Ohio State and Indiana. The favorable detail is that Oregon and Ohio State visit the Coliseum, where USC went 7-0 last season; the unfavorable one is that the Trojans are 10-10 in true Big Ten road games under Riley, with trips to Penn State and Indiana to come. Its conclusion is that being taken seriously as a playoff contender requires winning consistently on the road. *(p. 181)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -282,7 +285,6 @@ As printed on p. 181. Each category carries a value and a national rank.
 - When Lincoln Riley was hired five years ago the question in the media was how many national titles he would win at USC, not whether. The guide's correction is that he must first reach the playoff, which he did three times at Oklahoma. *(p. 180)*
 - Questions remain mainly on defense. Former TCU head coach Gary Patterson, who has not coached full-time in nearly four years, was lured from semi-retirement to become the third coordinator in four seasons. *(p. 180)*
 - It expects plenty of points as always under Riley while flagging concern about a new coordinator installing a new system. *(p. 180)*
-- The guide concedes defense has looked like an afterthought under Riley but credits genuine improvement last year under D'Anton Lynn: 51st in scoring defense at 23 points, 47th against the pass at 207.5 yards and 58th against the run at 143.2. Lynn returned to his alma mater Penn State, bringing Patterson back to full-time coaching for the first time since 2021. He switches to a 4-2-5 with depth up front — ends Kameryn Crawford (5.5 sacks, 10.5 tackles for loss) and Braylan Shelby (4.5 sacks), tackles Jahkeem Stewart and Jide Abasiri, plus Michigan State transfer Alex VanSumeren (52 tackles) — to lift a run defense that ranked 12th in the conference. The back seven has talent but must replace All-American Bishop Fitzgerald. *(p. 181)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

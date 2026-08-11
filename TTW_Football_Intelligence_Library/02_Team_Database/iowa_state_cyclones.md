@@ -123,17 +123,20 @@ The Stability Score table prints the same figure independently: **4 returning st
 - **Are the big boys along the revamped offensive line ready for a jump in competition?** Iowa State added several linemen with starting experience — Braden Smith from Tarleton State, Caden Mass from Sioux Falls, Colin Amick from Montana and Jake Taylor from Oklahoma. The guide's reservation is precise: the first three faced much weaker competition, so handling Big 12 size is an open question, and Taylor missed all of last year after four starts at Oklahoma, so there is no recent evidence. It credits the hole-filling and depth while stating plainly that little is known about how this will look, and that failure here means a very long season. *(p. 131)*
 - **What is there to be excited about on offense?** The guide extends the doubt from the line to the whole unit. Quarterback Jaylen Raynor is called exciting, a fun dual-threat for Arkansas State, but he turns the ball over too often and little suggests he can carve up Big 12 defenses. Iowa State also lacks proven pass catchers and has a shaky running back group behind the retooled line. Its conclusion is stated as a real possibility rather than a prediction: this could be the worst offense in the Big 12. *(p. 131)*
 
+
 Referenced in the guide on **pp. 12, 173, 175, 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 32** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 32**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Are the big boys along the revamped offensive line ready for a jump in competition?** Iowa State added several linemen with starting experience — Braden Smith from Tarleton State, Caden Mass from Sioux Falls, Colin Amick from Montana and Jake Taylor from Oklahoma. The guide's reservation is precise: the first three faced much weaker competition, so handling Big 12 size is an open question, and Taylor missed all of last year after four starts at Oklahoma, so there is no recent evidence. It credits the hole-filling and depth while stating plainly that little is known about how this will look, and that failure here means a very long season. *(p. 131)*
 - **What is there to be excited about on offense?** The guide extends the doubt from the line to the whole unit. Quarterback Jaylen Raynor is called exciting, a fun dual-threat for Arkansas State, but he turns the ball over too often and little suggests he can carve up Big 12 defenses. Iowa State also lacks proven pass catchers and has a shaky running back group behind the retooled line. Its conclusion is stated as a real possibility rather than a prediction: this could be the worst offense in the Big 12. *(p. 131)*
+
 
 Referenced in the guide on **pp. 12, 32, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -141,6 +144,7 @@ Referenced in the guide on **pp. 12, 32, 175** — those passages are not reprod
 
 - Rogers brought coordinator Jesse Bobbit, whose Washington State defense performed at an elite level, and hit the portal extremely hard for a mix of high-major players needing opportunity and successful lower-level players wanting a bigger stage. *(p. 130)*
 - **Will the Cyclones have one of the best defenses in the Big 12?** The guide names defense as the one place Iowa State could thrive. Bobbit ran a top-50 unit by Adjusted EPA per play allowed at -0.05, and only 25 teams allowed fewer points than Washington State's 20.2. Most of Campbell's players are gone, but the Cyclones imported key Washington State pieces plus notable contributors from smaller programmes. It expects the defense to be in a very good place even after losing transfer safety Braden Awls for the season to a spring ACL tear. *(p. 131)*
+
 
 Referenced in the guide on **pp. 12, 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -183,8 +187,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 220** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 220**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -213,6 +218,7 @@ Prices printed on the team page *(p. 131)*:
 ## 22. Historical / Situational Trends
 
 - Matt Campbell's run will not be forgotten and the guide expects retooling to be hard with him now at Penn State. *(p. 130)*
+
 
 Referenced in the guide on **pp. 165, 173** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -263,8 +269,8 @@ As printed on p. 131. Each category carries a value and a national rank.
 - Rogers brought coordinator Jesse Bobbit, whose Washington State defense performed at an elite level, and hit the portal extremely hard for a mix of high-major players needing opportunity and successful lower-level players wanting a bigger stage. *(p. 130)*
 - The guide is careful not to write him off — it says ruling out Rogers turning Iowa State into a winner would be foolish because good coaches win in Ames — while judging that it may take more than a season. *(p. 130)*
 - A conference-level argument is added: with so many Big 12 teams looking to make leaps, Iowa State could be the punching bag. Its conclusion allows for a strong 2027 while expecting a trying season now. *(p. 130)*
-- The guide names defense as the one place Iowa State could thrive. Bobbit ran a top-50 unit by Adjusted EPA per play allowed at -0.05, and only 25 teams allowed fewer points than Washington State's 20.2. Most of Campbell's players are gone, but the Cyclones imported key Washington State pieces plus notable contributors from smaller programmes. It expects the defense to be in a very good place even after losing transfer safety Braden Awls for the season to a spring ACL tear. *(p. 131)*
-- Iowa State added several linemen with starting experience — Braden Smith from Tarleton State, Caden Mass from Sioux Falls, Colin Amick from Montana and Jake Taylor from Oklahoma. The guide's reservation is precise: the first three faced much weaker competition, so handling Big 12 size is an open question, and Taylor missed all of last year after four starts at Oklahoma, so there is no recent evidence. It credits the hole-filling and depth while stating plainly that little is known about how this will look, and that failure here means a very long season. *(p. 131)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -272,8 +278,8 @@ As printed on p. 131. Each category carries a value and a national rank.
 
 - Makinen projects **4.8 wins** against a posted total of 5.5 — **-0.7** against this team.
 - The team page recommends **UNDER 4.5**.
-- Recommendation is Under 4.5 wins. It expects wins over Southeast Missouri and Bowling Green but rates the road game at Iowa tough in year one, and finds it hard to identify three conference victories given how the offense looks on paper. *(p. 130)*
-- Iowa State added several linemen with starting experience — Braden Smith from Tarleton State, Caden Mass from Sioux Falls, Colin Amick from Montana and Jake Taylor from Oklahoma. The guide's reservation is precise: the first three faced much weaker competition, so handling Big 12 size is an open question, and Taylor missed all of last year after four starts at Oklahoma, so there is no recent evidence. It credits the hole-filling and depth while stating plainly that little is known about how this will look, and that failure here means a very long season. *(p. 131)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

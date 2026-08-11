@@ -121,8 +121,9 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 217** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 217**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -179,8 +180,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 228** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 228**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -215,6 +217,7 @@ Also referenced on **pp. 222, 230** — not reproduced here.
 - Second, the team knew before the season began that no bowl was possible, because low Academic Progress Rate scores produced a bowl ban beforehand. Going 5-7 under those conditions it calls a huge win for Joe Moorhead. *(p. 216)*
 - The single data point it finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State — a game the Zips had every reason to mail in and did not. *(p. 216)*
 - **Are the Zips improving in the trenches?** The guide states the principle first — if you want to be a bad football team, be bad at the point of attack — then tracks the numbers. Akron allowed 63 sacks in Tom Arth's final season in 2021 and 56 in Moorhead's first in 2022, improving to 30 in 2024 and 35 in 2025. It concedes that is still not enough for a positive sack differential, while noting last year's -9 was easily the best in a very long time. Two other markers: the defense's 26 sacks were the most since the Bowden era, and 3.7 yards per carry was the team's best in a non-COVID year over the same span. Its honest framing is that none of these are impressive numbers in themselves — only better than what Akron usually manages. *(p. 217)*
+
 
 Referenced in the guide on **pp. 228** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -262,20 +265,17 @@ As printed on p. 217. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- The guide opens with the long record: Akron failed to win more games than it lost for a 10th consecutive season, with a 7-7 showing in 2017 the best outcome since going 8-5 under Terry Bowden in 2015. *(p. 216)*
-- The single data point it finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State — a game the Zips had every reason to mail in and did not. *(p. 216)*
-- The guide traces a quarterback who has barely played: originally recruited to Miami (FL) after a strong season at Albany, Poffenbarger held a clipboard for Cam Ward at Miami in 2024 and for Drew Mestemaker at North Texas in 2025, and has thrown a total of 14 passes across those two seasons. What it likes is the situation he inherits — minimal resistance for the job, a head coach who was a longtime coordinator and quarterbacks coach, a 1,000-yard rusher in Jordan Gant representing genuine growth in the run game, and returning pass-catchers including leading receiver Marcel Williams. *(p. 217)*
-- The guide states the principle first — if you want to be a bad football team, be bad at the point of attack — then tracks the numbers. Akron allowed 63 sacks in Tom Arth's final season in 2021 and 56 in Moorhead's first in 2022, improving to 30 in 2024 and 35 in 2025. It concedes that is still not enough for a positive sack differential, while noting last year's -9 was easily the best in a very long time. Two other markers: the defense's 26 sacks were the most since the Bowden era, and 3.7 yards per carry was the team's best in a non-COVID year over the same span. Its honest framing is that none of these are impressive numbers in themselves — only better than what Akron usually manages. *(p. 217)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.3 wins** against a posted total of 4.5 — **-0.2** against this team.
-- The guide opens with the long record: Akron failed to win more games than it lost for a 10th consecutive season, with a 7-7 showing in 2017 the best outcome since going 8-5 under Terry Bowden in 2015. *(p. 216)*
-- The single data point it finds most impressive is a 19-16 road win at Bowling Green immediately after an overtime loss to rival Kent State — a game the Zips had every reason to mail in and did not. *(p. 216)*
 - It corrects the raw defensive numbers for two outliers: Akron was +480 in yards against MAC opponents outside the 45-3 loss to Toledo, in which it was out-gained 538-134, and the 728 yards Nebraska put up in a 68-0 win skewed the season totals badly. *(p. 216)*
-- Across Moorhead's four seasons the guide lists 6.0, 5.2, 6.1 and 5.8 yards per play allowed alongside 33.5, 28.0, 32.0 and 27.4 PPG, arguing that given the offense's annual shortcomings any defensive drop-off is a concern. It adds that last season produced Akron's first positive turnover margin in about a decade at +3, with 20 takeaways. On attrition it draws a specific inference: all eight leading tacklers are gone, but nobody had more than 66 tackles, so Tim Tibesar's plan was clearly to rotate everyone through. The catch it identifies is that those same eight carried most of the sacks, pass breakups, tackles for loss and interceptions. *(p. 217)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

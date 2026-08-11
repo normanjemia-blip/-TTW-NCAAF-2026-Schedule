@@ -115,13 +115,15 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 ## 11. Transfer Portal
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 277** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 277**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 298** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 298**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -134,6 +136,7 @@ Referenced in the guide on **pp. 298** — those passages are not reproduced her
 
 - Former four-star KaMario Taylor takes over at quarterback, with eleven starters back across offense and defense. *(p. 298)*
 - The bull case rests on Taylor's running ability and Lebby building an offense around that explosiveness; the defense must improve on 30.4 points allowed per game, which Lebby addressed by bringing back Zach Arnett as coordinator. The guide calls the bar low but achievable. *(p. 298)*
+
 
 Referenced in the guide on **pp. 277** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -254,16 +257,16 @@ As printed on p. 299. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- The bull case rests on Taylor's running ability and Lebby building an offense around that explosiveness; the defense must improve on 30.4 points allowed per game, which Lebby addressed by bringing back Zach Arnett as coordinator. The guide calls the bar low but achievable. *(p. 298)*
-- The 2025 run game was average — 3.7 yards per carry, 158 yards per game. The guide expects improvement with Taylor, but stresses it does not rest on him alone: Fluff Bothwell returns after 677 yards at 4.8 per carry, and was far better early, with ten of his 17 explosive runs in the first five weeks at 5.9 yards per carry and 3.75 after contact. Paired with Taylor, the guide rates Bothwell a strong bet to reach 1,000 yards. *(p. 299)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.3 wins** against a posted total of 4.5 — **-0.2** against this team.
-- Hype has built for years and peaked late in 2025. Taylor appeared in several games and started the last two, completing 28 of 53 for 419 yards with a touchdown and an interception against Ole Miss and Wake Forest, while adding 264 rushing yards and three scores. The guide rates him a true dual threat with explosive running ability, a dimension Blake Shapen did not offer, and expects that to unlock more for Lebby's offense. *(p. 299)*
-- Mississippi State went from two wins to five, but conference results have not followed: Lebby is 1-15 straight up in the SEC. The guide is careful to note he is 9-7 against the spread in those games, so he beats market expectations even while losing. It is blunt that he needs actual wins to keep his job. The schedule misses Georgia and Texas A&M but includes Alabama, LSU, Oklahoma, Texas and Ole Miss, so any SEC wins would come as major upsets. *(p. 299)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

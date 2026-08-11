@@ -117,12 +117,14 @@ The Stability Score table prints the same figure independently: **6 returning st
 - It expects another tough year while noting Abell seems up for it and brought in a decent number of Power Four transfers. *(p. 64)*
 - **Can the offense improve in a hurry under Jacurri?** Jacurri Brown spent two years each at Miami and UCF but has thrown only 148 passes with more interceptions than touchdowns, nine to six. What he does well is run: 137 carries for 821 yards, better than six per carry. The guide supplies the schematic precedent from Abell's Davidson, where quarterbacks attempted only 152 passes in 11 games while the team ran 640 times for 3,720 yards, with quarterback Andrew Frazier third in both rushing attempts and yards. Quinton Jackson was Rice's best offensive player with 889 yards at 4.9 per carry. With Rice at 647 rushing attempts against 224 passes last season, it expects an even starker split. *(p. 65)*
 
+
 Referenced in the guide on **pp. 57** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - The constraints are concrete: enrollment under 4,000, strict academic requirements, and no winning season since 2014. *(p. 64)*
 - It raises the obvious counterargument — being in Houston amid Texas high school talent should make roster building easier even with a low acceptance rate — and observes it simply has not. *(p. 64)*
+
 
 Referenced in the guide on **pp. 57** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -221,6 +223,7 @@ Also referenced on **pp. 77** — not reproduced here.
 
 - Even last season's bowl came because others withdrew and Rice's Academic Progress Rate scores merited an opportunity, off a 5-7 regular season with 19.1 points per game, offense down nearly a full yard per play and defense conceding 1.3 more. *(p. 64)*
 
+
 Referenced in the guide on **pp. 57, 77** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -268,8 +271,6 @@ As printed on p. 65. Each category carries a value and a national rank.
 
 - The constraints are concrete: enrollment under 4,000, strict academic requirements, and no winning season since 2014. *(p. 64)*
 - Recommendation is Under 3.5 wins. The schedule is the crux: favorable last season, not now — Rice faces all the teams projected average or better apart from Navy and does not play Charlotte or UAB, its only two conference wins. *(p. 64)*
-- Jacurri Brown spent two years each at Miami and UCF but has thrown only 148 passes with more interceptions than touchdowns, nine to six. What he does well is run: 137 carries for 821 yards, better than six per carry. The guide supplies the schematic precedent from Abell's Davidson, where quarterbacks attempted only 152 passes in 11 games while the team ran 640 times for 3,720 yards, with quarterback Andrew Frazier third in both rushing attempts and yards. Quinton Jackson was Rice's best offensive player with 889 yards at 4.9 per carry. With Rice at 647 rushing attempts against 224 passes last season, it expects an even starker split. *(p. 65)*
-- The guide distinguishes between option attacks — Navy has modified theirs and Army runs theirs like a well-oiled machine — then makes a conference-specific argument: Rice is attempting its own version in a league that already contains two service academies, which makes scheming easier for opposing defenses seeing similar core concepts and blocking. It supports this with results: Rice did not face Army last season but managed 3.1 yards per carry against Navy, 2.4 against Memphis, 3.8 against UTSA, 3.4 against UAB and 3.8 against South Florida. It allows Brown could be a difference-maker as a better runner than Chase Jenkins while concluding this may not be the best conference for the approach. *(p. 65)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -278,7 +279,6 @@ As printed on p. 65. Each category carries a value and a national rank.
 - Makinen projects **3.3 wins** against a posted total of 3.5 — **-0.2** against this team.
 - The team page recommends **UNDER 3.5**.
 - It expects another tough year while noting Abell seems up for it and brought in a decent number of Power Four transfers. *(p. 64)*
-- The guide finds it a bit surprising that a new head coach would simply promote the previous regime's linebackers coach, Jon Kay, to coordinator, and says it did not really work: 6.3 yards per play and nearly 33 points allowed, the worst defensive effort since 2022. It adds a striking turnover detail — despite a run-heavy approach Rice finished -4 in turnover margin with just seven takeaways, tied for ninth nationally in fewest turnovers lost yet still negative. The top seven tacklers are gone, which it suggests is probably not a bad thing. *(p. 65)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

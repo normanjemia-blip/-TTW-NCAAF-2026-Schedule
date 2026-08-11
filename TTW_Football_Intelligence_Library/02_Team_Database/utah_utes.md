@@ -123,11 +123,13 @@ The Stability Score table prints the same figure independently: **8 returning st
 - **Will the offensive line be this team's Achilles heel?** Utah normally has big linemen and blocking is rarely a problem, but the guide notes the Utes return no starters at all, with Montana State transfer Cedric Jefferson the only projected starter who consistently started games in 2025. There are impressive young pieces including true freshman Kelvin Obot, who looks like a future pro. Its judgement is unambiguous: nothing suggests one of the better Big 12 units, and the offense will not look good without strong blocking. *(p. 145)*
 - **Is this defense good enough for the Utes to compete at the highest level?** The guide calls it brutal that Scalley was the coordinator last year and Utah still could not keep Snowden and Henry Daley. Major defensive concerns are new territory for a consistently excellent programme. Only four starters return in the projected lineup, with the defensive line and linebackers looking shaky. It expects Utah to remain extremely tough to throw against while flagging the run defense as a potential weakness — and traces the knock-on effect, since allowing chunk yardage on the ground puts pressure back on the secondary. *(p. 145)*
 
+
 Referenced in the guide on **pp. 8, 10, 127** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Will the offensive line be this team's Achilles heel?** Utah normally has big linemen and blocking is rarely a problem, but the guide notes the Utes return no starters at all, with Montana State transfer Cedric Jefferson the only projected starter who consistently started games in 2025. There are impressive young pieces including true freshman Kelvin Obot, who looks like a future pro. Its judgement is unambiguous: nothing suggests one of the better Big 12 units, and the offense will not look good without strong blocking. *(p. 145)*
+
 
 Referenced in the guide on **pp. 159** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -137,12 +139,14 @@ Referenced in the guide on **pp. 159** — those passages are not reproduced her
 - **What's going on at the quarterback position?** Dampier returns after throwing for 2,490 yards with 24 touchdowns and only five interceptions plus 835 rushing yards and 10 scores, a dynamic dual threat who showed minor accuracy gains in his first Utah season. But the team will give Byrd Ficklin snaps, and the guide is candid about the risk, invoking the adage that two quarterbacks means none. It grants the approach may be hard to defend at times, then asks what happens against elite defenses and whether Utah can convert consistently on third and long — warning the schedule could get the better of them if not. *(p. 145)*
 - **Will the offensive line be this team's Achilles heel?** Utah normally has big linemen and blocking is rarely a problem, but the guide notes the Utes return no starters at all, with Montana State transfer Cedric Jefferson the only projected starter who consistently started games in 2025. There are impressive young pieces including true freshman Kelvin Obot, who looks like a future pro. Its judgement is unambiguous: nothing suggests one of the better Big 12 units, and the offense will not look good without strong blocking. *(p. 145)*
 
+
 Referenced in the guide on **pp. 7, 159** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - The complication is what Whittingham took with him — offensive coordinator Jason Beck to Michigan, along with players including defensive stars John Henry Daley and Smith Snowden. *(p. 144)*
 - **Is this defense good enough for the Utes to compete at the highest level?** The guide calls it brutal that Scalley was the coordinator last year and Utah still could not keep Snowden and Henry Daley. Major defensive concerns are new territory for a consistently excellent programme. Only four starters return in the projected lineup, with the defensive line and linebackers looking shaky. It expects Utah to remain extremely tough to throw against while flagging the run defense as a potential weakness — and traces the knock-on effect, since allowing chunk yardage on the ground puts pressure back on the secondary. *(p. 145)*
+
 
 Referenced in the guide on **pp. 7, 159** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -231,6 +235,7 @@ Also referenced on **pp. 115** — not reproduced here.
 
 - The guide marks the strangeness of Utah without Kyle Whittingham, a two-time Pac-12 Coach of the Year with the programme since 1994 who maintained the standard Urban Meyer set in 2003 and 2004. *(p. 144)*
 
+
 Referenced in the guide on **pp. 10, 19, 31, 159, 279** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -278,19 +283,17 @@ As printed on p. 145. Each category carries a value and a national rank.
 
 - Makinen projects **8.9 wins** against a posted total of 8.5 — **+0.4** in this team's favour.
 - His right-hand man takes over: longtime defensive coordinator Morgan Scalley, with the programme since 2007, who the guide says has been tremendous with the defense and has no obvious reason not to continue the winning tradition. *(p. 144)*
-- Recommendation is Under 8.5 wins. The guide grants both the difficulty of winning at Rice-Eccles Stadium and Utah's impressive top-end talent on both sides. *(p. 144)*
-- Dampier returns after throwing for 2,490 yards with 24 touchdowns and only five interceptions plus 835 rushing yards and 10 scores, a dynamic dual threat who showed minor accuracy gains in his first Utah season. But the team will give Byrd Ficklin snaps, and the guide is candid about the risk, invoking the adage that two quarterbacks means none. It grants the approach may be hard to defend at times, then asks what happens against elite defenses and whether Utah can convert consistently on third and long — warning the schedule could get the better of them if not. *(p. 145)*
-- Utah normally has big linemen and blocking is rarely a problem, but the guide notes the Utes return no starters at all, with Montana State transfer Cedric Jefferson the only projected starter who consistently started games in 2025. There are impressive young pieces including true freshman Kelvin Obot, who looks like a future pro. Its judgement is unambiguous: nothing suggests one of the better Big 12 units, and the offense will not look good without strong blocking. *(p. 145)*
-- The guide calls it brutal that Scalley was the coordinator last year and Utah still could not keep Snowden and Henry Daley. Major defensive concerns are new territory for a consistently excellent programme. Only four starters return in the projected lineup, with the defensive line and linebackers looking shaky. It expects Utah to remain extremely tough to throw against while flagging the run defense as a potential weakness — and traces the knock-on effect, since allowing chunk yardage on the ground puts pressure back on the secondary. *(p. 145)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- Recommendation is Under 8.5 wins. The guide grants both the difficulty of winning at Rice-Eccles Stadium and Utah's impressive top-end talent on both sides. *(p. 144)*
 - Its three reasons for the Under are stated together: the loss of a legendary coach, a team that seems weaker in the trenches than usual, and Devon Dampier's arm abandoning him in big games last year. *(p. 144)*
-- The guide calls it brutal that Scalley was the coordinator last year and Utah still could not keep Snowden and Henry Daley. Major defensive concerns are new territory for a consistently excellent programme. Only four starters return in the projected lineup, with the defensive line and linebackers looking shaky. It expects Utah to remain extremely tough to throw against while flagging the run defense as a potential weakness — and traces the knock-on effect, since allowing chunk yardage on the ground puts pressure back on the secondary. *(p. 145)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

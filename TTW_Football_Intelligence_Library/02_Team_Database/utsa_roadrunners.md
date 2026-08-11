@@ -117,6 +117,7 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 - **Can the pass rush bounce back?** Per 247Sports UTSA brought in 21 transfers, 12 on defense, though its class ranks 11th of the 12 American teams with portal access — so the guide reserves judgement on whether the right pieces were bought. It highlights the deliberate focus on pass rushers and quantifies the need: 46 sacks in 2023 and 42 in 2024 fell to 24 last season. It then explains the structural cause, noting Group of Six players who can reach the quarterback are the most sought-after by schools with bigger NIL budgets, citing Jimmori Robinson, who had 10.5 sacks in 2024 before West Virginia, and Trey Moore, who had 14 sacks in 2023 before finishing at Texas. The plan is to rotate linemen and keep fresh rushers on the field, and depth looks much stronger. *(p. 77)*
 
+
 Referenced in the guide on **pp. 11, 169** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -177,8 +178,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 50, 66** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 50, 66**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -216,6 +218,7 @@ Also referenced on **pp. 49** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - **Can Traylor avoid the devastating loss?** UTSA won Conference USA titles in 2021 and 2022, but the guide catalogues forgettable American games since: losses to Temple and Army as a favorite last season plus a non-conference loss as favorite to Texas State, and losses to Rice and Tulsa in favorite roles in 2024. It notes UTSA has not even reached the conference title game to this point. Its conclusion is conditional — that should change with this schedule, but Traylor must take care of business when expected to, something he has struggled with. *(p. 77)*
+
 
 Referenced in the guide on **pp. 54, 169, 190** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -264,19 +267,18 @@ As printed on p. 77. Each category carries a value and a national rank.
 
 - Makinen projects **7.7 wins** against a posted total of 7.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- It explains the qualification mechanics: a team no longer needs to be conference champion, only the highest-ranked in the playoff rankings, though winning the conference probably helps. *(p. 76)*
 - This is one of the American's most experienced offenses, with Rick Bowie a very intriguing fit as new coordinator. *(p. 76)*
 - The guide flags a real vulnerability: the defense must improve, and it wonders openly whether coordinator Jess Loepp, in the role since 2020, makes it through the season. *(p. 76)*
-- Recommendation is Over 7.5 wins. UTSA has lost to Army in all three American seasons but avoids them this year, while drawing Navy — who comes to San Antonio, along with South Florida and a Tulsa side the guide expects to be much improved. *(p. 76)*
-- The toughest conference test is a late-October trip to Tulane. A good chunk of money was earmarked to improve the roster, and the guide's conclusion is that Jeff Traylor must avoid bad losses but this may well be the best team in the conference. Projection is 7.77 wins. *(p. 76)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Recommendation is Over 7.5 wins. UTSA has lost to Army in all three American seasons but avoids them this year, while drawing Navy — who comes to San Antonio, along with South Florida and a Tulsa side the guide expects to be much improved. *(p. 76)*
-- The toughest conference test is a late-October trip to Tulane. A good chunk of money was earmarked to improve the roster, and the guide's conclusion is that Jeff Traylor must avoid bad losses but this may well be the best team in the conference. Projection is 7.77 wins. *(p. 76)*
-- UTSA won Conference USA titles in 2021 and 2022, but the guide catalogues forgettable American games since: losses to Temple and Army as a favorite last season plus a non-conference loss as favorite to Texas State, and losses to Rice and Tulsa in favorite roles in 2024. It notes UTSA has not even reached the conference title game to this point. Its conclusion is conditional — that should change with this schedule, but Traylor must take care of business when expected to, something he has struggled with. *(p. 77)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 76; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

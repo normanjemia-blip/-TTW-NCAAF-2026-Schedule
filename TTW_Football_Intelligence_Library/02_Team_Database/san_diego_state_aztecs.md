@@ -119,18 +119,21 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 - **Will quarterback Jayden Denegal be the answer?** The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
 
+
 Referenced in the guide on **pp. 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 275**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - The programme's identity, per the guide, is tough defenses and star running backs. It says the running back is unquestionably in place this season, and that the ceiling is set instead by the defense and by quarterback play. *(p. 274)*
 - **Is Lucky Sutton the Aztecs’ next Marshall Faulk?** The guide poses the comparison and immediately disowns it as unfair and sensationalised, noting Faulk is the programme's No. 2 all-time rusher, while placing Sutton in the same tradition of dynamic backs. Sutton ran for 1,297 yards last season to lead the Mountain West, including 150 against Boise State. Unlike Faulk he is not a receiving threat out of the backfield, but at 6-foot-1 and 225 pounds he is a big back who handles a heavy workload. The analytical point is dependency: San Diego State needs an effective ground attack to support a quarterback who needs the help. Its verdict is that Sutton can be a star. *(p. 275)*
 - **Will quarterback Jayden Denegal be the answer?** The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
+
 
 Referenced in the guide on **pp. 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -139,6 +142,7 @@ Referenced in the guide on **pp. 271** — those passages are not reproduced her
 - The programme's identity, per the guide, is tough defenses and star running backs. It says the running back is unquestionably in place this season, and that the ceiling is set instead by the defense and by quarterback play. *(p. 274)*
 - Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
 - **Will a new-look defense still be elite?** The guide's framing is ironic: the turnaround under an offensive-minded coach was led by the defense, which ranked No. 6 nationally in scoring defense at 15.4 PPG — company it lists as Ohio State, Indiana, Miami and Texas Tech. That unit pitched two shutouts and allowed more than 24 points only three times. The structural problem is turnover: only two starters return, against 10 returning a year ago. The single biggest loss is corner Chris Johnson, the 27th overall pick by the Miami Dolphins, leaving what the guide calls a huge hole in the secondary and forcing inexperienced players to develop quickly. It names senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks as the expected leaders under new coordinator Demetrius Sumler, and concludes flatly that this defense will take some steps back. *(p. 275)*
+
 
 Referenced in the guide on **pp. 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -231,6 +235,7 @@ Also referenced on **pp. 276** — not reproduced here.
 - The guide frames Sean Lewis as a coach who has already answered his first test. He promised a quick turnaround on arrival in 2024, then went 3-9 with a pile of ugly losses; last season he delivered, going 9-4 and reaching a bowl. *(p. 274)*
 - It picks out two results as the high points of that season — 34-0 over California and 17-7 over Boise State. *(p. 274)*
 
+
 Referenced in the guide on **pp. 165, 265** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -277,9 +282,8 @@ As printed on p. 275. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **7.4 wins** against a posted total of 6.5 — **+0.9** in this team's favour.
-- Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
-- The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
-- The guide's framing is ironic: the turnaround under an offensive-minded coach was led by the defense, which ranked No. 6 nationally in scoring defense at 15.4 PPG — company it lists as Ohio State, Indiana, Miami and Texas Tech. That unit pitched two shutouts and allowed more than 24 points only three times. The structural problem is turnover: only two starters return, against 10 returning a year ago. The single biggest loss is corner Chris Johnson, the 27th overall pick by the Miami Dolphins, leaving what the guide calls a huge hole in the secondary and forcing inexperienced players to develop quickly. It names senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks as the expected leaders under new coordinator Demetrius Sumler, and concludes flatly that this defense will take some steps back. *(p. 275)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -288,9 +292,8 @@ As printed on p. 275. Each category carries a value and a national rank.
 - The team page recommends **UNDER 7.5**.
 - The guide frames Sean Lewis as a coach who has already answered his first test. He promised a quick turnaround on arrival in 2024, then went 3-9 with a pile of ugly losses; last season he delivered, going 9-4 and reaching a bowl. *(p. 274)*
 - The programme's identity, per the guide, is tough defenses and star running backs. It says the running back is unquestionably in place this season, and that the ceiling is set instead by the defense and by quarterback play. *(p. 274)*
-- Recommendation is Under 7.5 wins. The reasoning is that optimism is hard to justify with the quarterback surrounded by questions and the defense rebuilding — Lewis is a good coach, but the guide sees a disappointing season and regression as “imminent”. *(p. 274)*
-- The guide warns that Lewis' plans for a high-flying passing attack might not materialise. It sets expectations in both directions — Denegal will never remind San Diego fans of Dan Fouts, but has the potential to be much better than last season's modest line of 58.8% completions, 1,807 passing yards, nine touchdowns and eight interceptions. A shoulder injury that troubled him is reported as apparently repaired, and the talent case rests on his being a touted recruit who transferred from Michigan. Supporting factors: top two receivers Jordan Napier and Donovan Brown return, and Texas A&M transfer Jacob Bostick has been added. Beyond the quarterback, the guide's biggest concern is an offensive line replacing three starters. *(p. 275)*
-- The guide's framing is ironic: the turnaround under an offensive-minded coach was led by the defense, which ranked No. 6 nationally in scoring defense at 15.4 PPG — company it lists as Ohio State, Indiana, Miami and Texas Tech. That unit pitched two shutouts and allowed more than 24 points only three times. The structural problem is turnover: only two starters return, against 10 returning a year ago. The single biggest loss is corner Chris Johnson, the 27th overall pick by the Miami Dolphins, leaving what the guide calls a huge hole in the secondary and forcing inexperienced players to develop quickly. It names senior middle linebacker Tano Letuli, senior tackle Gavriel Lightfoot and sophomore cornerback Jamison Starks as the expected leaders under new coordinator Demetrius Sumler, and concludes flatly that this defense will take some steps back. *(p. 275)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

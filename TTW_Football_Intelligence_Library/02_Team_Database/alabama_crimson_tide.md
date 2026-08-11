@@ -116,12 +116,14 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 11. Transfer Portal
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 147, 169, 207, 273, 287** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 147, 169, 207, 273, 287**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Is this team a national championship contender?** Yes, on the condition that Russell wins the job and delivers; the doubts sit on offense. The defense returns seven starters from a unit that ranked 29th in opponent EPA per play and 25th in success rate, and the guide reads it as somewhat unlucky — 91st percentile in early-down EPA per play against 51st percentile in late-down success rate. The secondary is rated among the country's best with three starters back plus five-star freshman Jorden Edmonds. Conclusion: if the offense hits, a manageable schedule should carry Alabama into the playoff. *(p. 285)*
+
 
 Referenced in the guide on **pp. 177** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -133,12 +135,14 @@ Referenced in the guide on **pp. 177** — those passages are not reproduced her
 - **Who takes over for Ty Simpson at quarterback?** Redshirt freshman Keelon Russell is expected to start, though DeBoer will stage what the guide pointedly calls a "competition" in fall camp. Russell brings athleticism Simpson lacked and suits the RPO offense DeBoer and coordinator Ryan Grubb want to run. Alabama finished 31st in EPA per play through the air and 21st in success rate on dropbacks. The guide expects Russell or senior Austin Mack to be less efficient than Simpson but to add production on the ground. *(p. 285)*
 - **Can Alabama find its rushing attack once again?** The 2025 run game was the core problem: 3.4 yards per carry, 104 rushing yards per game, 132nd in rush success rate at 34.5%, 18th percentile in rush EPA per play and sixth percentile in explosive run rate. Leading rusher Jam Miller (520 yards) has gone along with six offensive linemen who started games, leaving sophomore Michael Carroll — at right guard or right tackle — as the only returnee. The guide suggests wholesale turnover may be no bad thing for a unit that poor, and calls restoring balance a priority. *(p. 285)*
 
+
 Referenced in the guide on **pp. 35, 161, 207, 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - The defense is expected to be about as productive as last season with seven starters back. *(p. 284)*
 - **Is this team a national championship contender?** Yes, on the condition that Russell wins the job and delivers; the doubts sit on offense. The defense returns seven starters from a unit that ranked 29th in opponent EPA per play and 25th in success rate, and the guide reads it as somewhat unlucky — 91st percentile in early-down EPA per play against 51st percentile in late-down success rate. The secondary is rated among the country's best with three starters back plus five-star freshman Jorden Edmonds. Conclusion: if the offense hits, a manageable schedule should carry Alabama into the playoff. *(p. 285)*
+
 
 Referenced in the guide on **pp. 169** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -188,8 +192,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 8, 54** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 8, 54**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -226,6 +231,7 @@ Also referenced on **pp. 15, 39, 336** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - DeBoer missed the CFP in his first season and reached it in 2025, beating Oklahoma before losing to eventual champion Indiana. By Tuscaloosa standards the guide calls that a disappointing year. *(p. 284)*
+
 
 Referenced in the guide on **pp. 13, 15, 29, 38, 70, 207, 283** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -274,11 +280,8 @@ As printed on p. 285. Each category carries a value and a national rank.
 
 - Makinen projects **8.6 wins** against a posted total of 8.5 — **+0.1** in this team's favour.
 - The team page recommends **OVER 8.5**.
-- The offense has to be rebuilt after heavy departures, including first-round pick Ty Simpson, though a young high-upside quarterback is seen as ready to step in. *(p. 284)*
-- Schedule described as extremely favorable: Alabama avoids Texas and Ole Miss, hosts both Georgia and Texas A&M, and its hardest conference road trip is LSU in November. *(p. 284)*
-- Redshirt freshman Keelon Russell is expected to start, though DeBoer will stage what the guide pointedly calls a "competition" in fall camp. Russell brings athleticism Simpson lacked and suits the RPO offense DeBoer and coordinator Ryan Grubb want to run. Alabama finished 31st in EPA per play through the air and 21st in success rate on dropbacks. The guide expects Russell or senior Austin Mack to be less efficient than Simpson but to add production on the ground. *(p. 285)*
-- The 2025 run game was the core problem: 3.4 yards per carry, 104 rushing yards per game, 132nd in rush success rate at 34.5%, 18th percentile in rush EPA per play and sixth percentile in explosive run rate. Leading rusher Jam Miller (520 yards) has gone along with six offensive linemen who started games, leaving sophomore Michael Carroll — at right guard or right tackle — as the only returnee. The guide suggests wholesale turnover may be no bad thing for a unit that poor, and calls restoring balance a priority. *(p. 285)*
-- Yes, on the condition that Russell wins the job and delivers; the doubts sit on offense. The defense returns seven starters from a unit that ranked 29th in opponent EPA per play and 25th in success rate, and the guide reads it as somewhat unlucky — 91st percentile in early-down EPA per play against 51st percentile in late-down success rate. The secondary is rated among the country's best with three starters back plus five-star freshman Jorden Edmonds. Conclusion: if the offense hits, a manageable schedule should carry Alabama into the playoff. *(p. 285)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -287,7 +290,8 @@ As printed on p. 285. Each category carries a value and a national rank.
 - DeBoer missed the CFP in his first season and reached it in 2025, beating Oklahoma before losing to eventual champion Indiana. By Tuscaloosa standards the guide calls that a disappointing year. *(p. 284)*
 - The guide's framing question is whether DeBoer can meet the fanbase's expectations. Its answer: if the offense clicks, this roster has the pieces for DeBoer's first national title. *(p. 284)*
 - Russell's athleticism plus investment in the offensive line are expected to fix a run game that struggled badly in 2025. *(p. 284)*
-- Schedule described as extremely favorable: Alabama avoids Texas and Ole Miss, hosts both Georgia and Texas A&M, and its hardest conference road trip is LSU in November. *(p. 284)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

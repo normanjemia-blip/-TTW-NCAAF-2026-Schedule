@@ -120,12 +120,14 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **Can Kittley find some balance on offense?** The guide calls the rushing numbers laughable: 105 yards per game at 3.5 per carry, falling to 82 yards and 2.9 in American play. It notes this is not a conference known for physical defenses, so there were no holes at all, and offers a possible explanation in the line shifting to a very pass-heavy blocking scheme. With many new faces and players in new positions up front, it finds the running back room more intriguing — Kaden Shields-Dutton averaged 5.5 yards per carry and Kittley went the junior college route for Leonard Farrow, who averaged over seven at Fairmont State. Its conclusion links the phases: a run game and more ball control would help the defense tremendously. *(p. 57)*
 - **Will the Owls stop the run?** The guide calls the defensive line objectively terrible, with American opponents averaging 232 rushing yards per game — a figure that even includes a 68-yard performance by UAB. While acknowledging the offense needs work and the line is light on experience, it notes Kittley and his staff hammered the defensive side in the portal, mixing year-two scheme players with newcomers, and that the line and front seven generally were clear focal points. It ends on the scale of the problem: Florida Atlantic averaged a 150-yard rushing differential across its eight conference games, which simply cannot recur. *(p. 57)*
 
+
 Referenced in the guide on **pp. 175, 191, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 57** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 57**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -134,6 +136,7 @@ Referenced in the guide on **pp. 57** — those passages are not reproduced here
 - It expects another high-variance team given heavy pass volume and a defense asked to survive in that environment, while noting Kittley has risen rapidly for a reason. *(p. 56)*
 - **Are we in the Caden Veltkamp camp?** Veltkamp is effectively the only starting option, with Rice transfer Drew Devillier and redshirt freshman Jordan Magwood, who threw nine passes, behind him. The guide defends him partially: he was asked to throw a lot and Florida Atlantic trailed often, so the 17 interceptions may not all be his, especially given he had only 11 in three seasons at Western Kentucky. Easton Messer caught 104 balls for 1,052 yards with others including returnee Dominique Henry involved, but it identifies the structural problem — Messer is still the only true go-to target, which could keep holding Veltkamp and the team back. It ends on a genuine silver lining: seven interceptions came in the first three games and six in the last three, so he protected the ball through the middle of the season. *(p. 57)*
 - **Can Kittley find some balance on offense?** The guide calls the rushing numbers laughable: 105 yards per game at 3.5 per carry, falling to 82 yards and 2.9 in American play. It notes this is not a conference known for physical defenses, so there were no holes at all, and offers a possible explanation in the line shifting to a very pass-heavy blocking scheme. With many new faces and players in new positions up front, it finds the running back room more intriguing — Kaden Shields-Dutton averaged 5.5 yards per carry and Kittley went the junior college route for Leonard Farrow, who averaged over seven at Fairmont State. Its conclusion links the phases: a run game and more ball control would help the defense tremendously. *(p. 57)*
+
 
 Referenced in the guide on **pp. 161, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -226,8 +229,9 @@ Prices printed on the team page *(p. 57)*:
 
 ## 22. Historical / Situational Trends
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 22, 31, 56, 57, 190** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 22, 31, 56, 57, 190**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -273,15 +277,16 @@ As printed on p. 57. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 5.5**.
-- The guide sees the makings of a good team despite a 4-8 finish and a sixth straight season short of six wins, with Zach Kittley's plan visibly in motion. *(p. 56)*
-- Recommendation is Over 5.5 wins. The start may be slow with Florida and Navy, but the three games before the bye are described as very winnable and the back half more challenging. *(p. 56)*
-- The guide is unusually explicit about conviction, calling this not a strong opinion but a lean: a 4-8 team with a -21 turnover margin now has more talent in year two of the system, and Kittley — who also did double duty as coordinator in his first head-coaching year — has had far more time to evaluate fits. Projection is 5.64 wins. *(p. 56)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **5.4 wins** against a posted total of 5.5 — **-0.1** against this team.
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

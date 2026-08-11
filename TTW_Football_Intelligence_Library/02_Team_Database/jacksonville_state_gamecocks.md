@@ -122,6 +122,7 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 - **How will Housewright work Deondre Johnson into the offense?** The guide opens with a pop-song parody it flags as probably the first Montell Jordan reference in a VSiN Betting Guide, then disclaims the invented details. The substance is that 6-foot-8 receiver Deondre Johnson is the top and really only returning receiver, with 724 yards on just 30 receptions — the next closest being tight end Brock Rechsteiner at 36 catches for 383 yards. It adds a red-zone inefficiency to the case: 59 trips inside the 20 produced only the 93rd-best touchdown percentage. Its expectation is that the 6-foot-8 target becomes more of a focal point alongside a collection of small-school transfers and homegrown players getting more opportunity. *(p. 193)*
 
+
 Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -134,6 +135,7 @@ Not addressed in guide.
 - Its stated reason for hope is efficiency: the offense was much better with Creel at the helm than with Rutgers and Kentucky transfer Gavin Wimsatt — even if a new stud running back must emerge. *(p. 192)*
 - **Will the running back by committee approach work?** The guide contrasts the workload being replaced — Cook as a bell cow with 295 carries and 16 rushing touchdowns, with Creel and Wimsatt next in rushing — against a group of candidates. Jalen Likely had only seven carries in eight games but averaged 7.4 yards, though at 5-foot-8 the guide rules out him absorbing Cook's abuse; Justus Savage and Khristian Lando are bigger backs and both holdovers. It flags a staff change too: coordinator Clint Trickett now holds the same role at Maryland, with tight ends coach Taylor Housewright promoted, bringing experience from two years as coordinator at Montana State. Its expectation is a little more throwing from Creel while the staff waits for a back to step forward. *(p. 193)*
 - **How will Housewright work Deondre Johnson into the offense?** The guide opens with a pop-song parody it flags as probably the first Montell Jordan reference in a VSiN Betting Guide, then disclaims the invented details. The substance is that 6-foot-8 receiver Deondre Johnson is the top and really only returning receiver, with 724 yards on just 30 receptions — the next closest being tight end Brock Rechsteiner at 36 catches for 383 yards. It adds a red-zone inefficiency to the case: 59 trips inside the 20 produced only the 93rd-best touchdown percentage. Its expectation is that the 6-foot-8 target becomes more of a focal point alongside a collection of small-school transfers and homegrown players getting more opportunity. *(p. 193)*
+
 
 Referenced in the guide on **pp. 157** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -225,6 +227,7 @@ Also referenced on **pp. 14, 190** — not reproduced here.
 - It identifies the mechanism it will later question — Jacksonville State is +24 in turnover margin across that span, which has made a huge difference. *(p. 192)*
 - **Is the Regression Monster lurking?** The guide argues the nine-win streak concealed decline: Jacksonville State scored nearly eight fewer points per game year over year while benefitting greatly from a +10 turnover margin and a lot of close wins. It itemises the conference record — 7-2, with wins by 10, 2, 13, 3, 3, 9 and 3 — and notes Kennesaw State avenged a nine-point loss with a four-point win in the C-USA title game. It restates the structural point that the Gamecocks are +24 in turnover margin since joining the conference and were +11 in conference games alone last season. Its balanced conclusion is that Jacksonville State did average over six yards per play in conference games and did out-gain opponents overall and per play, but not by enough to justify a 7-2 record. *(p. 193)*
 
+
 Referenced in the guide on **pp. 157** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -276,7 +279,8 @@ As printed on p. 193. Each category carries a value and a national rank.
 - With Rodriguez back at West Virginia where it all started, it calls the Kelly hire savvy — an assistant here back in the mid-1990s, in his first head-coaching job, with a successful Year 1. *(p. 192)*
 - Recommendation is Over 7.5 wins, explicitly not a bet, with cautious optimism about an 8-4 regular season. *(p. 192)*
 - Its summary is an established programme that, even through mild downturns, can run the ball and might have the best quarterback in the conference. Projection is 7.47 wins. *(p. 192)*
-- The guide opens with a pop-song parody it flags as probably the first Montell Jordan reference in a VSiN Betting Guide, then disclaims the invented details. The substance is that 6-foot-8 receiver Deondre Johnson is the top and really only returning receiver, with 724 yards on just 30 receptions — the next closest being tight end Brock Rechsteiner at 36 catches for 383 yards. It adds a red-zone inefficiency to the case: 59 trips inside the 20 produced only the 93rd-best touchdown percentage. Its expectation is that the 6-foot-8 target becomes more of a focal point alongside a collection of small-school transfers and homegrown players getting more opportunity. *(p. 193)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -284,7 +288,8 @@ As printed on p. 193. Each category carries a value and a national rank.
 
 - It identifies the mechanism it will later question — Jacksonville State is +24 in turnover margin across that span, which has made a huge difference. *(p. 192)*
 - The Year 2 question begins with a loss: Cam Cook and his 1,659 rushing yards are gone. *(p. 192)*
-- The guide argues the nine-win streak concealed decline: Jacksonville State scored nearly eight fewer points per game year over year while benefitting greatly from a +10 turnover margin and a lot of close wins. It itemises the conference record — 7-2, with wins by 10, 2, 13, 3, 3, 9 and 3 — and notes Kennesaw State avenged a nine-point loss with a four-point win in the C-USA title game. It restates the structural point that the Gamecocks are +24 in turnover margin since joining the conference and were +11 in conference games alone last season. Its balanced conclusion is that Jacksonville State did average over six yards per play in conference games and did out-gain opponents overall and per play, but not by enough to justify a 7-2 record. *(p. 193)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -122,17 +122,20 @@ The Stability Score table prints the same figure independently: **15 returning s
 - **Will there be a significant dropoff in offensive line play?** Texas Tech lost two starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players. The guide calls that short of a deathblow while setting two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. It names weaker blocking as one of the few things that could derail the season. *(p. 141)*
 - **Do the Red Raiders have another top-five defensive season in them?** The 2025 numbers were exceptional: first nationally in Adjusted EPA per play allowed at -0.25, fifth in yards per play allowed at 5.6, first in havoc rate at 19.3%, and only two teams allowed fewer than 11.8 points per game. Many top contributors are gone including No. 2 overall pick David Bailey. The guide's grounds for optimism are specific: McGuire likes the young pieces stepping into bigger roles, Austin Romaine and Brice Pollock return, Miami (Ohio) transfer Adam Trick is a legitimate star addition, and Shiel Wood has proven a fantastic play-caller. It expects the unit to be special again. *(p. 141)*
 
+
 Referenced in the guide on **pp. 18, 55, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 141** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 141**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - Fifteen players who started in 2025 return, so talent and experience are not issues. *(p. 140)*
 - **Will there be a significant dropoff in offensive line play?** Texas Tech lost two starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players. The guide calls that short of a deathblow while setting two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. It names weaker blocking as one of the few things that could derail the season. *(p. 141)*
+
 
 Referenced in the guide on **pp. 203, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -141,6 +144,7 @@ Referenced in the guide on **pp. 203, 275** — those passages are not reproduce
 - Fifteen players who started in 2025 return, so talent and experience are not issues. *(p. 140)*
 - It says not to be surprised if Texas Tech cruises to the playoff, and names the two things that could burn them there: disappointing quarterback play and the slightest defensive dip. *(p. 140)*
 - **Do the Red Raiders have another top-five defensive season in them?** The 2025 numbers were exceptional: first nationally in Adjusted EPA per play allowed at -0.25, fifth in yards per play allowed at 5.6, first in havoc rate at 19.3%, and only two teams allowed fewer than 11.8 points per game. Many top contributors are gone including No. 2 overall pick David Bailey. The guide's grounds for optimism are specific: McGuire likes the young pieces stepping into bigger roles, Austin Romaine and Brice Pollock return, Miami (Ohio) transfer Adam Trick is a legitimate star addition, and Shiel Wood has proven a fantastic play-caller. It expects the unit to be special again. *(p. 141)*
+
 
 Referenced in the guide on **pp. 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -237,6 +241,7 @@ Prices printed on the team page *(p. 141)*:
 | --- | --- | --- |
 | Paul Stone | TEXAS TECH TO WIN BIG 12 CHAMPIONSHIP GAME (-105) | 6 |
 | Mitch Moss | TEXAS TECH TO WIN BIG 12 CHAMPIONSHIP (+100) | 11 |
+| Tim Murray | TEXAS TECH TO WIN BIG 12 CHAMPIONSHIP (+100) | 15 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -248,6 +253,7 @@ Also referenced on **pp. 11, 15, 18, 115** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - Texas Tech was a wagon in 2025. It was shut out by Oregon in the playoff but ran through the Big 12 regular season, losing only at Arizona State when starting quarterback Behren Morton was hurt, and finished seventh nationally in Net Adjusted EPA per play at +0.17. *(p. 140)*
+
 
 Referenced in the guide on **pp. 11, 55, 115** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -298,19 +304,16 @@ As printed on p. 141. Each category carries a value and a national rank.
 - The team page recommends **OVER 10.5**.
 - The guide describes Joey McGuire as fishing with dynamite in the portal, noting Texas Tech has as deep a funding pool as any programme, letting it constantly load up on big-time performers — and this offseason was no different. *(p. 140)*
 - Fifteen players who started in 2025 return, so talent and experience are not issues. *(p. 140)*
-- Its case: even without an elite quarterback the roster is loaded, and the schedule is extremely weak — the hardest road game is at Baylor, and losses at home to Houston, Arizona State or TCU are hard to imagine. *(p. 140)*
-- Hammond had solid moments, including a road performance at Utah with 169 passing yards, two touchdowns, no interceptions and 61 rushing yards in a blowout win. The guide's reservation is contextual rather than statistical: Texas Tech was not planning to start him, and handing the keys to a championship-caliber team is a big responsibility. It weighs both sides — a four-star recruit who is athletic and reasonably accurate, but inexperienced, coming off a torn ACL, and a player the staff probably wanted on the bench another year or two — concluding there is uncertainty at the most important position. *(p. 141)*
-- Texas Tech lost two starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players. The guide calls that short of a deathblow while setting two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. It names weaker blocking as one of the few things that could derail the season. *(p. 141)*
-- The 2025 numbers were exceptional: first nationally in Adjusted EPA per play allowed at -0.25, fifth in yards per play allowed at 5.6, first in havoc rate at 19.3%, and only two teams allowed fewer than 11.8 points per game. Many top contributors are gone including No. 2 overall pick David Bailey. The guide's grounds for optimism are specific: McGuire likes the young pieces stepping into bigger roles, Austin Romaine and Brice Pollock return, Miami (Ohio) transfer Adam Trick is a legitimate star addition, and Shiel Wood has proven a fantastic play-caller. It expects the unit to be special again. *(p. 141)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Recommendation is Over 10.5 wins. It concedes selling 11 wins at nearly -200 is a tough ask while judging the number pretty likely. *(p. 140)*
-- Its case: even without an elite quarterback the roster is loaded, and the schedule is extremely weak — the hardest road game is at Baylor, and losses at home to Houston, Arizona State or TCU are hard to imagine. *(p. 140)*
-- Hammond had solid moments, including a road performance at Utah with 169 passing yards, two touchdowns, no interceptions and 61 rushing yards in a blowout win. The guide's reservation is contextual rather than statistical: Texas Tech was not planning to start him, and handing the keys to a championship-caliber team is a big responsibility. It weighs both sides — a four-star recruit who is athletic and reasonably accurate, but inexperienced, coming off a torn ACL, and a player the staff probably wanted on the bench another year or two — concluding there is uncertainty at the most important position. *(p. 141)*
-- Texas Tech lost two starters including second-team All-Big 12 guard Davion Carter and could not bring in clear replacements, so it will rely on part-time starters who transferred in or younger players. The guide calls that short of a deathblow while setting two requirements: the line must be excellent for Hammond to play well, and it must open holes for star running back Cameron Dickey. It names weaker blocking as one of the few things that could derail the season. *(p. 141)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

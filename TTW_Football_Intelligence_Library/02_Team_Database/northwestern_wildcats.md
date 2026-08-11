@@ -123,16 +123,19 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **Can Chip Kelly rebuild Aidan Chiles?** Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
 - **Who can get after opposing passers?** Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
 
+
 Referenced in the guide on **pp. 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 166** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 166**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Can Chip Kelly rebuild Aidan Chiles?** Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
+
 
 Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -140,6 +143,7 @@ Referenced in the guide on **pp. 20** — those passages are not reproduced here
 
 - Its closing reservations are Chiles' accuracy and ball security potentially reappearing, and a judgement that the defense can only carry the team so far against this schedule. *(p. 166)*
 - **Who can get after opposing passers?** Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
+
 
 Referenced in the guide on **pp. 20, 160, 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -213,6 +217,7 @@ Also referenced on **pp. 336** — not reproduced here.
 
 - A new era begins on 2 October when the $862 million Ryan Field opens against Penn State. The guide marks the Fitzgerald chapter as finally closed following the settled lawsuit and his return to coaching at Michigan State — a team Northwestern plays on 17 October. *(p. 166)*
 
+
 Referenced in the guide on **pp. 32** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -259,8 +264,6 @@ As printed on p. 167. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - A new era begins on 2 October when the $862 million Ryan Field opens against Penn State. The guide marks the Fitzgerald chapter as finally closed following the settled lawsuit and his return to coaching at Michigan State — a team Northwestern plays on 17 October. *(p. 166)*
-- Chiles followed Jonathan Smith from Oregon State to Michigan State and went 8-12 as a starter across two seasons before being benched after nine games. The guide sees a scheme fit — he is the athletic, mobile quarterback Kelly wants in a fast no-huddle spread — while insisting Kelly must also restore his confidence. One route is a three-pronged run game with Caleb Komolafe (941 yards, 11 touchdowns), gadget back Joseph Hinton (486 yards) and Gavin Sawchuk (486 yards at Florida State). Five of the top six pass catchers return including Griffin Wilde (71 catches, 880 yards, eight touchdowns), and the line is helped by Jackson Carsello's return at center, letting Ezomo Orotokhai stay at guard, with Grant Seagren arriving at left tackle after 12 starts at Oklahoma State. *(p. 167)*
-- Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -268,7 +271,6 @@ As printed on p. 167. Each category carries a value and a national rank.
 
 - Makinen projects **4.9 wins** against a posted total of 5.5 — **-0.6** against this team.
 - The team page recommends **UNDER 5.5**.
-- Northwestern ranked 14th in the Big Ten with 23 sacks, and nearly half came from the departed Anto Saka and Aidan Hubbard. Michael Kilbane (7.5 tackles for loss, 3.5 sacks) and tackle Brendan Flakes cannot carry the front alone, so the guide expects much from UCF transfer Jamaal Johnson and linebacker Kobie McKinzie. The secondary is called the team's best unit, led by All-Big Ten safety Robert Fitzgerald (115 tackles), corner Josh Fussell and nickel Braden Turner (two interceptions, two forced fumbles). *(p. 167)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

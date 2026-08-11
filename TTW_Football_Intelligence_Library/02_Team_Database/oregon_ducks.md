@@ -120,12 +120,14 @@ The Stability Score table prints the same figure independently: **15 returning s
 
 - **Will the defensive line be able to create more negative plays?** Oregon may have the country's best defensive line, returning tackles Bear Alexander and A'Mauri Washington plus edge Matayo Uiagalelei and linebacker Teitum Tuioti, who have 45.5 sacks between them over two seasons. The guide sets a counterweight against the gaudy totals: Oregon still struggled to get off the field, ranking 52nd nationally in third-down stops. Tackle transfers D'Antre Robinson from North Carolina and Jerome Simmons from Louisiana-Monroe are expected to help as run-stopping depth. *(p. 171)*
 
+
 Referenced in the guide on **pp. 11, 83, 123, 129, 163, 164, 183, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 45, 83, 129, 183, 251** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 45, 83, 129, 183, 251**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -133,12 +135,14 @@ Referenced in the guide on **pp. 45, 83, 129, 183, 251** — those passages are 
 - **Can Dante Moore get it done when it matters most?** Moore is justifiably a Heisman favorite after 3,565 yards and 30 touchdowns in his first year starting, with abundant support: Jordon Davison and Dierre Hill Jr combined for 1,323 rushing yards as freshman backups, sophomore receivers Dakorien Moore and Jeremiah McClellan should start, and Evan Stewart returns from a knee injury. The guide expects monster numbers again but keeps the big-stage question open, citing the two meetings with Indiana in which Moore was sacked nine times with four turnovers, including a pick-six on the opening snap of the Peach Bowl. *(p. 171)*
 - **Can the offensive line hold up in the postseason?** Rimington Trophy finalist Iapani Laloulu anchors at center for a third season with Dave Iuli back at right guard, and three starters need replacing. The guide poses a genuine puzzle: this is the only line to be a Joe Moore Award finalist in each of the last three years, so why does it struggle in big games? Its evidence is the combined playoff exits of the last two seasons — 11 three-and-outs, 11 sacks allowed and 21 tackles for loss. Reaching a title game requires the group to be better when it matters. *(p. 171)*
 
+
 Referenced in the guide on **pp. 10, 18, 25, 36, 83, 164, 182, 294** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - Despite the staff churn Oregon returns 66% of net production per ESPN's Bill Connelly, headlined by junior quarterback Dante Moore turning down the NFL Draft. Eight starters return on defense, which Lanning calls himself, so the guide expects another elite unit. *(p. 170)*
 - **Will the defensive line be able to create more negative plays?** Oregon may have the country's best defensive line, returning tackles Bear Alexander and A'Mauri Washington plus edge Matayo Uiagalelei and linebacker Teitum Tuioti, who have 45.5 sacks between them over two seasons. The guide sets a counterweight against the gaudy totals: Oregon still struggled to get off the field, ranking 52nd nationally in third-down stops. Tackle transfers D'Antre Robinson from North Carolina and Jerome Simmons from Louisiana-Monroe are expected to help as run-stopping depth. *(p. 171)*
+
 
 Referenced in the guide on **pp. 18, 20, 83, 149, 163, 182, 279, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -228,7 +232,8 @@ Prices printed on the team page *(p. 171)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| Mitch Moss | OREGON TO REACH BIG TEN CHAMPIONSHIP GAME (+100) | 11 |
+| Adam Burke | OREGON TO REACH BIG TEN CHAMPIONSHIP GAME (+100) | 11 |
+| Stormy Buonantony | OREGON TO REACH BIG TEN TITLE GAME (+100) | 14 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -241,6 +246,7 @@ Also referenced on **pp. 6, 11, 12, 14, 17, 38, 266, 317** — not reproduced he
 
 - Dan Lanning is 48-8 since 2022, with playoff appearances in both years and a run through the Big Ten in Oregon's first conference season in 2024. *(p. 170)*
 - What is missing is a national title, and the guide is pointed about how the last two seasons ended: blowout losses to the eventual champion in both, Ohio State in the Rose Bowl and Indiana in the Peach Bowl. *(p. 170)*
+
 
 Referenced in the guide on **pp. 11, 12, 19, 20, 25, 38, 45, 83, 154, 166, 172, 176, 181, 281, 317** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -289,10 +295,9 @@ As printed on p. 171. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 10.5**.
 - Oregon starts as a victim of its own success, losing offensive coordinator Will Stein to Kentucky and Tosh Lupoi to Cal, both for head coaching jobs. Drew Mehringer and Chris Hampton are promoted internally. *(p. 170)*
-- Despite the staff churn Oregon returns 66% of net production per ESPN's Bill Connelly, headlined by junior quarterback Dante Moore turning down the NFL Draft. Eight starters return on defense, which Lanning calls himself, so the guide expects another elite unit. *(p. 170)*
 - Its case is that Oregon may have the most talented roster in college football with much to prove after two humiliating season endings, and it frames 2026 as potentially a show-no-mercy year with the best shot at a title. *(p. 170)*
-- Moore is justifiably a Heisman favorite after 3,565 yards and 30 touchdowns in his first year starting, with abundant support: Jordon Davison and Dierre Hill Jr combined for 1,323 rushing yards as freshman backups, sophomore receivers Dakorien Moore and Jeremiah McClellan should start, and Evan Stewart returns from a knee injury. The guide expects monster numbers again but keeps the big-stage question open, citing the two meetings with Indiana in which Moore was sacked nine times with four turnovers, including a pick-six on the opening snap of the Peach Bowl. *(p. 171)*
-- Oregon may have the country's best defensive line, returning tackles Bear Alexander and A'Mauri Washington plus edge Matayo Uiagalelei and linebacker Teitum Tuioti, who have 45.5 sacks between them over two seasons. The guide sets a counterweight against the gaudy totals: Oregon still struggled to get off the field, ranking 52nd nationally in third-down stops. Tackle transfers D'Antre Robinson from North Carolina and Jerome Simmons from Louisiana-Monroe are expected to help as run-stopping depth. *(p. 171)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -300,9 +305,8 @@ As printed on p. 171. Each category carries a value and a national rank.
 
 - Makinen projects **10.3 wins** against a posted total of 10.5 — **-0.2** against this team.
 - What is missing is a national title, and the guide is pointed about how the last two seasons ended: blowout losses to the eventual champion in both, Ohio State in the Rose Bowl and Indiana in the Peach Bowl. *(p. 170)*
-- Moore is justifiably a Heisman favorite after 3,565 yards and 30 touchdowns in his first year starting, with abundant support: Jordon Davison and Dierre Hill Jr combined for 1,323 rushing yards as freshman backups, sophomore receivers Dakorien Moore and Jeremiah McClellan should start, and Evan Stewart returns from a knee injury. The guide expects monster numbers again but keeps the big-stage question open, citing the two meetings with Indiana in which Moore was sacked nine times with four turnovers, including a pick-six on the opening snap of the Peach Bowl. *(p. 171)*
-- Rimington Trophy finalist Iapani Laloulu anchors at center for a third season with Dave Iuli back at right guard, and three starters need replacing. The guide poses a genuine puzzle: this is the only line to be a Joe Moore Award finalist in each of the last three years, so why does it struggle in big games? Its evidence is the combined playoff exits of the last two seasons — 11 three-and-outs, 11 sacks allowed and 21 tackles for loss. Reaching a title game requires the group to be better when it matters. *(p. 171)*
-- Oregon may have the country's best defensive line, returning tackles Bear Alexander and A'Mauri Washington plus edge Matayo Uiagalelei and linebacker Teitum Tuioti, who have 45.5 sacks between them over two seasons. The guide sets a counterweight against the gaudy totals: Oregon still struggled to get off the field, ranking 52nd nationally in third-down stops. Tackle transfers D'Antre Robinson from North Carolina and Jerome Simmons from Louisiana-Monroe are expected to help as run-stopping depth. *(p. 171)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

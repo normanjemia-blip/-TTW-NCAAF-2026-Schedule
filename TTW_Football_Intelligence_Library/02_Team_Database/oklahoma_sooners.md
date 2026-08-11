@@ -117,8 +117,9 @@ The Stability Score table prints the same figure independently: **16 returning s
 
 ## 11. Transfer Portal
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 10, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 10, 179**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -133,6 +134,7 @@ Not addressed in guide.
 
 - Recommendation is Over 7.5 wins. The guide's logic is that if the defense is close to its 2025 level — which it expects — the win floor is very high, leaving the offense as the open question. *(p. 302)*
 - **Will the Sooners be as dominant on defense as they were last year?** Probably. Seven starters return including top tacklers Kip Lewis and Owen Heinecke, with lineman Taylor Wein (7 sacks, 8 tackles for loss) and tackle David Stone anchoring a front that held opponents to 2.4 yards per carry. Oklahoma allowed 15.5 points and 4.3 yards per play, finished third in defensive efficiency by EPA and led the country in success rate. With the line experienced, Heinecke at middle linebacker and the secondary largely intact, the guide expects another elite unit. *(p. 303)*
+
 
 Referenced in the guide on **pp. 179, 283** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -179,8 +181,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 310** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 310**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -207,6 +210,7 @@ Prices printed on the team page *(p. 303)*:
 ## 22. Historical / Situational Trends
 
 - Brent Venables is described as consistently inconsistent: two 10-win seasons and two 6-7 seasons in Norman, with 2025 producing a fifth playoff appearance. *(p. 302)*
+
 
 Referenced in the guide on **pp. 7, 10, 14, 18, 131** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -255,10 +259,8 @@ As printed on p. 303. Each category carries a value and a national rank.
 
 - Makinen projects **7.9 wins** against a posted total of 7.5 — **+0.4** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- On Mateer's conditioning the guide reports only what he said: he appeared bulkier at the Manning Passing Academy and told media he had not gained weight but gotten in better shape. Either way it insists he must improve in both passing and running. *(p. 302)*
-- Schedule is hard in and out of conference: road games at Michigan and Georgia, home games with Ole Miss and Texas A&M, plus the annual Texas meeting in October. The guide says Oklahoma must win one or two of those to clear the number, and rates the team good enough to do so. *(p. 302)*
-- Mateer was far less effective running than in his final Washington State season, when he gained 1,008 yards and 15 touchdowns at 6.8 per attempt; in 2025 he managed 565 yards on only 15 fewer carries. The problem was team-wide: 3.5 yards per carry overall, Tory Blaylock leading with 480 yards on 120 attempts, and finishes of 127th in rushing EPA per play and 128th in success rate. Coordinator Ben Arbuckle, Mateer's coordinator at Washington State, has to fix both. The guide credits new offensive linemen but says better play-calling is needed too. *(p. 303)*
-- Probably. Seven starters return including top tacklers Kip Lewis and Owen Heinecke, with lineman Taylor Wein (7 sacks, 8 tackles for loss) and tackle David Stone anchoring a front that held opponents to 2.4 yards per carry. Oklahoma allowed 15.5 points and 4.3 yards per play, finished third in defensive efficiency by EPA and led the country in success rate. With the line experienced, Heinecke at middle linebacker and the secondary largely intact, the guide expects another elite unit. *(p. 303)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -266,9 +268,8 @@ As printed on p. 303. Each category carries a value and a national rank.
 
 - The season is framed as resting on John Mateer and the offense. His 2025 was derailed by injury and he is trying to recover the form he had at Washington State and deliver Oklahoma's first-ever CFP win. *(p. 302)*
 - Recommendation is Over 7.5 wins. The guide's logic is that if the defense is close to its 2025 level — which it expects — the win floor is very high, leaving the offense as the open question. *(p. 302)*
-- Schedule is hard in and out of conference: road games at Michigan and Georgia, home games with Ole Miss and Texas A&M, plus the annual Texas meeting in October. The guide says Oklahoma must win one or two of those to clear the number, and rates the team good enough to do so. *(p. 302)*
-- The guide draws a sharp before-and-after line. In the first four games Mateer completed 67.6% at 8.5 yards per attempt with six touchdowns to three interceptions at an 8.5-yard average depth of target. He then broke his throwing hand against Auburn, and over the next eight games completed 58.8% at 6.4 yards per attempt with eight touchdowns and eight interceptions. It refuses to attribute the decline solely to the injury: his 16 turnover-worthy plays across those eight games were third-most among SEC quarterbacks. Conclusion: he needs to be healthy and also better with the ball. *(p. 303)*
-- Probably. Seven starters return including top tacklers Kip Lewis and Owen Heinecke, with lineman Taylor Wein (7 sacks, 8 tackles for loss) and tackle David Stone anchoring a front that held opponents to 2.4 yards per carry. Oklahoma allowed 15.5 points and 4.3 yards per play, finished third in defensive efficiency by EPA and led the country in success rate. With the line experienced, Heinecke at middle linebacker and the secondary largely intact, the guide expects another elite unit. *(p. 303)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

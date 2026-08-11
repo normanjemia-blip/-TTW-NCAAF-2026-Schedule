@@ -120,6 +120,7 @@ The Stability Score table prints the same figure independently: **6 returning st
 - **Is Taron Dickens the answer NIU needed at quarterback?** The guide describes how bleak the position looked two weeks before the guide was written: Brady Davidson and Jalen Macon were the only returners, having combined to complete under 50% of their passes for four touchdowns and three interceptions. Then Taron Dickens, a one-time North Carolina commit and former Western Carolina quarterback, was released by the Tar Heels over academic issues in mid-July and Northern Illinois moved. He appeared in 18 games at Western Carolina, completing 271 of 365 for 3,508 yards with 38 touchdowns to two interceptions plus 97 carries for 321 yards, and set an NCAA record with 46 consecutive completions in a game against Wofford. It calls his arrival a huge win. *(p. 255)*
 - **What are the expectations for this defense?** Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
 
+
 Referenced in the guide on **pp. 125** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -136,6 +137,7 @@ Not addressed in guide.
 - It lists what Harley still faces: a defense building from the ground up, his own apparent lame-duck status, and a conference transition. *(p. 254)*
 - Then the data: no returning starters on defense, a new offense and quarterback, and a new conference, none of which adds up to a positive outlook. *(p. 254)*
 - **What are the expectations for this defense?** Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
+
 
 Referenced in the guide on **pp. 26, 125** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -221,8 +223,9 @@ Prices printed on the team page *(p. 255)*:
 
 ## 22. Historical / Situational Trends
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 21, 26, 215, 255** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 21, 26, 215, 255**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -267,8 +270,9 @@ As printed on p. 255. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Recommendation is Under 3.5 wins. The guide is unusually explicit about method here, saying data is always the best way to project but sometimes vibes matter — and the vibes are not great. *(p. 254)*
-- Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 254; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -277,7 +281,8 @@ As printed on p. 255. Each category carries a value and a national rank.
 - Makinen projects **2.4 wins** against a posted total of 3.5 — **-1.1** against this team.
 - The team page recommends **UNDER 3.5**.
 - The schedule is called insanely difficult — non-conference road games at Iowa, Arizona and Georgia State; conference trips to Wyoming, UNLV coming off a bye, and North Dakota State; with Hawaii and Air Force visiting DeKalb. New Mexico is avoided. *(p. 254)*
-- Harley ran the unit last season so there is familiarity, but the overhaul is drastic: the top 14 tacklers from 2025 are gone, leaving defensive end Jay'Shon Thomas and his 21 tackles and two sacks as the leading returnee. Harley added bodies, but the guide notes none come from the Power Four and most are FCS or junior college transfers. It sets the stakes fairly — the Mountain West is not the SEC, but the conference has some very good offenses — and leaves the question open between Harley doing his best work rebuilding mid-flight and this becoming one of the country's worst defenses. *(p. 255)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

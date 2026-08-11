@@ -118,6 +118,7 @@ The Stability Score table prints the same figure independently: **17 returning s
 
 - A culture signal is offered as evidence: the Irish were so aggrieved by the playoff snub that they skipped a bowl, and the only notable departures went to the NFL rather than to other schools. Projection is 11.42 wins, with Notre Dame favored by 8.5 or more in every game. *(p. 212)*
 
+
 Referenced in the guide on **pp. 9, 106, 220** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -131,6 +132,7 @@ Not addressed in guide.
 ## 14. Defensive Identity
 
 - **Are there any weaknesses on defense?** Again no. Unlike most premier programmes with heavy losses, second-year coordinator Chris Ash returns his top six tacklers. Notre Dame was one of 11 teams holding opponents under three yards per carry and only eight allowed fewer yards per play. Across seven years of coaching and personnel churn it has allowed more than 19.7 points per game only once, and under five yards per play in each of the last three seasons under Freeman. The guide flags one genuine caution — the Irish are +31 in turnover margin over two seasons, an area of concern unless Carr protects the ball — while expecting the ball-hawking to continue after 21 interceptions. *(p. 213)*
+
 
 Referenced in the guide on **pp. 17, 150** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -192,8 +194,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 7, 10, 18, 209** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 7, 10, 18, 209**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -236,6 +239,7 @@ Also referenced on **pp. 10, 17, 18, 38, 94, 106** — not reproduced here.
 - The guide asks whether a 10- or 11-win regular season could be a disappointment and concludes that for Notre Dame it just might be. *(p. 212)*
 - It adds an important qualifier about independence: Notre Dame picks its own schedule but has still been tested, facing 12 ranked teams in regular seasons over that span — whereas this year it may face only two or three. *(p. 212)*
 - **Are there any weaknesses on defense?** Again no. Unlike most premier programmes with heavy losses, second-year coordinator Chris Ash returns his top six tacklers. Notre Dame was one of 11 teams holding opponents under three yards per carry and only eight allowed fewer yards per play. Across seven years of coaching and personnel churn it has allowed more than 19.7 points per game only once, and under five yards per play in each of the last three seasons under Freeman. The guide flags one genuine caution — the Irish are +31 in turnover margin over two seasons, an area of concern unless Carr protects the ball — while expecting the ball-hawking to continue after 21 interceptions. *(p. 213)*
+
 
 Referenced in the guide on **pp. 12, 17, 38, 92, 100, 209** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -283,17 +287,16 @@ As printed on p. 213. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 11.5**.
-- The guide's answer is no, but it works through the case first. CJ Carr had a 24-to-6 touchdown-to-interception ratio with three rushing scores, though he is not the running threat Riley Leonard was, and the depth behind him is a major worry if anything happens. He spent spring and summer as Heisman favorite, which the guide attributes substantially to the schedule, reasoning that anything under 11 wins would surprise so he should post numbers for a very visible programme. Jeremiyah Love and Jadarian Price take over 2,000 rushing yards and 29 scores with them, but Aneyas Williams should keep the standard; Jordan Faison is the only notable returning receiver though Jaden Greathouse returns from injury; and the line looks very good with Charles Jagusah back. *(p. 213)*
-- Again no. Unlike most premier programmes with heavy losses, second-year coordinator Chris Ash returns his top six tacklers. Notre Dame was one of 11 teams holding opponents under three yards per carry and only eight allowed fewer yards per play. Across seven years of coaching and personnel churn it has allowed more than 19.7 points per game only once, and under five yards per play in each of the last three seasons under Freeman. The guide flags one genuine caution — the Irish are +31 in turnover margin over two seasons, an area of concern unless Carr protects the ball — while expecting the ball-hawking to continue after 21 interceptions. *(p. 213)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **11.2 wins** against a posted total of 11.5 — **-0.3** against this team.
-- The guide's answer is no, but it works through the case first. CJ Carr had a 24-to-6 touchdown-to-interception ratio with three rushing scores, though he is not the running threat Riley Leonard was, and the depth behind him is a major worry if anything happens. He spent spring and summer as Heisman favorite, which the guide attributes substantially to the schedule, reasoning that anything under 11 wins would surprise so he should post numbers for a very visible programme. Jeremiyah Love and Jadarian Price take over 2,000 rushing yards and 29 scores with them, but Aneyas Williams should keep the standard; Jordan Faison is the only notable returning receiver though Jaden Greathouse returns from injury; and the line looks very good with Charles Jagusah back. *(p. 213)*
-- Again no. Unlike most premier programmes with heavy losses, second-year coordinator Chris Ash returns his top six tacklers. Notre Dame was one of 11 teams holding opponents under three yards per carry and only eight allowed fewer yards per play. Across seven years of coaching and personnel churn it has allowed more than 19.7 points per game only once, and under five yards per play in each of the last three seasons under Freeman. The guide flags one genuine caution — the Irish are +31 in turnover margin over two seasons, an area of concern unless Carr protects the ball — while expecting the ball-hawking to continue after 21 interceptions. *(p. 213)*
-- The guide adds supporting detail on how dominant the season actually was: the two close losses were followed by blowouts, with Notre Dame outgaining its other ten opponents by more than 1,800 yards and outscoring them by nearly 300 points. Provided cluster injuries are avoided, it calls a perfect season very attainable including the playoff. It closes with schedule mechanics: only four true road games at Purdue, North Carolina, BYU and Syracuse, two neutral-site games in Green Bay and Foxboro, and a well-timed bye giving an extra week to prepare for Navy's triple option after playing at elevation at BYU. *(p. 213)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

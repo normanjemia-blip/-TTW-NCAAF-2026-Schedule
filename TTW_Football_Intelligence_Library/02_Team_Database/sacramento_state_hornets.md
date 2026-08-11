@@ -124,24 +124,28 @@ The Stability Score table prints the same figure independently: **6 returning st
 - The programme arrives with a new head coach in Alonzo Carter and a great many new faces. *(p. 236)*
 - **Are the Hornets going to be competitive?** The guide turns effort into a question of talent: does the roster have enough to make games tight and win some? The evidence for is 247Sports grading Sacramento State's portal class second in the MAC, and quarterback Carson Conklin returning to the place where he started in 2024 after transferring to Fresno State when Marion took over. The evidence against is major questions in the trenches on both sides plus entirely new playbooks under coordinators Eric Kiesau, from Florida, and Adam Clark, from Northern Arizona — with returning defenders having to learn a 3-3-5 stack and the very few returning offensive players facing a more traditional offense. Its answer is “maybe”, with the caveat that it probably will not show in the standings. *(p. 237)*
 
+
 Referenced in the guide on **pp. 26** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 26** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 26**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - The production being replaced: Rodney Hammond with over 1,200 rushing yards, and Ernest Campbell with 755 yards on just 37 catches. *(p. 236)*
 - It flags scheme discontinuity as well — Brennan Marion's up-tempo offense produced 33.8 PPG, but the scheme will be different this season. *(p. 236)*
 
+
 Referenced in the guide on **pp. 127** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 237**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -174,8 +178,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 228, 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 228, 237**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -207,8 +212,9 @@ Also referenced on **pp. 230** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 21, 26, 228, 236, 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 21, 26, 228, 236, 237**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -219,7 +225,8 @@ This is the guide's own note, not a gap in extraction.
 ## 24. Bull Case
 
 - Recommendation is Under 4.5 wins, with Mississippi Valley State and UMass identified as the best and perhaps only hopes for wins. *(p. 236)*
-- The guide draws out the coincidence behind the heading: the 2005 film with Samuel L. Jackson was based on Ken Carter, head coach at Richmond High School in the West Contra Costa Unified School District, who suspended a talented team's season over classroom performance — while Alonzo Carter's only previous college head-coaching job was at Contra Costa College in San Pablo. On substance it presents Alonzo Carter, who grew up in Oakland, as holding a strong reputation in the athletics community for mentoring players and assisting them off the field as much as on it, with the last five years spent at San Jose State and Arizona on Brent Brennan's staff before getting his own programme. Its honest limits are stated: it does not know how the team will fare in close games or what his clock management will look like, but given a roster of JUCO transfers and discarded players it assumes this team will play extremely hard every week. *(p. 237)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -227,7 +234,8 @@ This is the guide's own note, not a gap in extraction.
 
 - Makinen projects **4.2 wins** against a posted total of 4.5 — **-0.3** against this team.
 - The team page recommends **UNDER 4.5**.
-- The guide turns effort into a question of talent: does the roster have enough to make games tight and win some? The evidence for is 247Sports grading Sacramento State's portal class second in the MAC, and quarterback Carson Conklin returning to the place where he started in 2024 after transferring to Fresno State when Marion took over. The evidence against is major questions in the trenches on both sides plus entirely new playbooks under coordinators Eric Kiesau, from Florida, and Adam Clark, from Northern Arizona — with returning defenders having to learn a 3-3-5 stack and the very few returning offensive players facing a more traditional offense. Its answer is “maybe”, with the caveat that it probably will not show in the standings. *(p. 237)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

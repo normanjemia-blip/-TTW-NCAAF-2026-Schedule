@@ -124,16 +124,19 @@ The Stability Score table prints the same figure independently: **6 returning st
 - **Will the run of success at quarterback continue?** UNLV has not returned a starting quarterback since Doug Brumfield in 2023, with five different starters over that span, yet still accumulated 30 wins and three title game appearances. The presumed starter is Auburn transfer and one-time five-star Jackson Arnold. The guide draws the precedent directly: Mullen took in Anthony Colandrea last season, made him Mountain West Offensive Player of the Year and sent him to Nebraska for a payday, and asks whether he can repeat it. Behind Arnold is former Michigan quarterback Alex Orji, coming off a catastrophic leg injury and not fully healthy in spring. It concludes that the co-favorite's season rests on Mullen working his magic at the position again. *(p. 259)*
 - **Who emerges at the other skill positions?** Running back Jai'den Thomas is the known quantity, having run for 1,036 yards at 7.2 per carry with 13 total touchdowns. Beyond the first-team all-conference back there is little returning production, with all three top receivers gone. Expectations are high for Taeshaun Lyons, the leading returnee at 13 receptions for 222 yards. The guide's summary is that both running back depth and the receiver room as a whole consist of transfers expected to carry large loads. *(p. 259)*
 
+
 Referenced in the guide on **pp. 6, 15, 20, 24, 164** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 6, 24, 45, 259** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 6, 24, 45, 259**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Who emerges at the other skill positions?** Running back Jai'den Thomas is the known quantity, having run for 1,036 yards at 7.2 per carry with 13 total touchdowns. Beyond the first-team all-conference back there is little returning production, with all three top receivers gone. Expectations are high for Taeshaun Lyons, the leading returnee at 13 receptions for 222 yards. The guide's summary is that both running back depth and the receiver room as a whole consist of transfers expected to carry large loads. *(p. 259)*
+
 
 Referenced in the guide on **pp. 127, 175, 205, 267** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -218,6 +221,14 @@ Prices printed on the team page *(p. 259)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Steve Makinen | UNLV TO MAKE MOUNTAIN WEST CONFERENCE TITLE GAME (+110) | 6 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - It marks the shift in status — the feel-good story of the little Rebels is becoming fanbase expectation of success. *(p. 258)*
 - Recommendation is Under 8.5 wins. Its logic is that UNLV cannot keep sustaining the quarterback success of the last three seasons, with this depth chart looking more flawed — especially with Alex Orji coming off a horrendous injury and being somewhat limited as a passer. *(p. 258)*
 - It asks what happens if Jackson Arnold struggles and loses the job while Orji is not the same athlete, and adds that it finds the staff's explanation for last season's defensive effort hard to buy, expecting possibly another subpar unit. *(p. 258)*
@@ -229,6 +240,7 @@ Also referenced on **pp. 9, 243, 247, 251** — not reproduced here.
 
 - The guide calls this an unprecedented run: 30 wins over three seasons and three straight Mountain West Championship appearances, none of which produced a trophy. *(p. 258)*
 - A structural change matters: the conference has been overhauled and Boise State — which beat UNLV in all three previous title games — has gone, leaving the Rebels as the premier programme, which the guide acknowledges sounds crazy. *(p. 258)*
+
 
 Referenced in the guide on **pp. 6, 9, 14, 24, 45, 164** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -277,18 +289,17 @@ As printed on p. 259. Each category carries a value and a national rank.
 
 - Makinen projects **9.0 wins** against a posted total of 7.5 — **+1.5** in this team's favour.
 - It marks the shift in status — the feel-good story of the little Rebels is becoming fanbase expectation of success. *(p. 258)*
-- Recommendation is Under 8.5 wins. Its logic is that UNLV cannot keep sustaining the quarterback success of the last three seasons, with this depth chart looking more flawed — especially with Alex Orji coming off a horrendous injury and being somewhat limited as a passer. *(p. 258)*
-- Paul Guenther joined last March as associate head coach and safeties coach before being thrust into the coordinator role when Zach Arnett resigned in April. The guide reports what people around the programme say — that he could not install his own scheme, producing poor results: 104th nationally in opponent EPA per play, 6.4 yards per play and 5.2 yards per carry allowed. He now has a full offseason but only four starters return. Its pointed conclusion is that either way there is no excuse to lean on regarding preparation, and the unit must be better if UNLV is finally to win a title. *(p. 259)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- It sets the stakes for the coach: Mullen keeps a cool exterior, but failing to win the Mountain West, let alone missing the title game, would be a colossal failure. *(p. 258)*
-- Recommendation is Under 8.5 wins. Its logic is that UNLV cannot keep sustaining the quarterback success of the last three seasons, with this depth chart looking more flawed — especially with Alex Orji coming off a horrendous injury and being somewhat limited as a passer. *(p. 258)*
 - It asks what happens if Jackson Arnold struggles and loses the job while Orji is not the same athlete, and adds that it finds the staff's explanation for last season's defensive effort hard to buy, expecting possibly another subpar unit. *(p. 258)*
-- UNLV has not returned a starting quarterback since Doug Brumfield in 2023, with five different starters over that span, yet still accumulated 30 wins and three title game appearances. The presumed starter is Auburn transfer and one-time five-star Jackson Arnold. The guide draws the precedent directly: Mullen took in Anthony Colandrea last season, made him Mountain West Offensive Player of the Year and sent him to Nebraska for a payday, and asks whether he can repeat it. Behind Arnold is former Michigan quarterback Alex Orji, coming off a catastrophic leg injury and not fully healthy in spring. It concludes that the co-favorite's season rests on Mullen working his magic at the position again. *(p. 259)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

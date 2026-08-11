@@ -129,6 +129,7 @@ Not addressed in guide.
 
 - **How different will the offense look with a new quarterback?** The baseline is Bryson Barnes as a dual-threat weapon who led the Aggies in rushing (740 yards, 10 touchdowns) while passing for 2,803 yards and 18 touchdowns. McCae Hillstead, a BYU backup a year ago, won the starting job in spring and is not new to the programme — he started four games for Utah State in 2023 — and is also a running threat. On scheme, the guide notes offensive coordinator Robert Anae is known for aerial attacks but expects more emphasis on the ground game, with senior Javen Jacobs returning as the featured back behind Hillstead. The interior line is manned by veterans and appears solid. Its projection is that the offense was potent at 30.9 PPG with Barnes running it and the numbers will likely decline a little, with Hillstead having big shoes to fill. *(p. 279)*
 
+
 Referenced in the guide on **pp. 203** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
@@ -209,6 +210,7 @@ Prices printed on the team page *(p. 279)*:
 - It argues the first season was closer to a much better finish than the record shows, citing a 29-26 loss at UNLV and a 25-24 loss to Boise State late in the year. While those two teams played for the Mountain West championship, Utah State went on to lose the Idaho Potato Bowl. *(p. 278)*
 - **Is the road schedule too challenging to overcome?** The guide works it out game by game. Utah State should be 2-2 after four games, assuming it handles home games against Idaho State and Troy. The problems are away from home: Washington and Utah in the first month, plus Pac-12 road games at Boise State, San Diego State and Texas State. It adds the historical marker that Utah State is 1-15 against Utah in the Beehive Boot rivalry since 1998. Its conclusion is that the road schedule stacks the odds against a return to a bowl. *(p. 279)*
 
+
 Referenced in the guide on **pp. 37** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -256,16 +258,16 @@ As printed on p. 279. Each category carries a value and a national rank.
 
 - Makinen projects **4.7 wins** against a posted total of 4.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 4.5**.
-- The baseline is Bryson Barnes as a dual-threat weapon who led the Aggies in rushing (740 yards, 10 touchdowns) while passing for 2,803 yards and 18 touchdowns. McCae Hillstead, a BYU backup a year ago, won the starting job in spring and is not new to the programme — he started four games for Utah State in 2023 — and is also a running threat. On scheme, the guide notes offensive coordinator Robert Anae is known for aerial attacks but expects more emphasis on the ground game, with senior Javen Jacobs returning as the featured back behind Hillstead. The interior line is manned by veterans and appears solid. Its projection is that the offense was potent at 30.9 PPG with Barnes running it and the numbers will likely decline a little, with Hillstead having big shoes to fill. *(p. 279)*
-- Utah State allowed 28.7 PPG last season, and the guide lists the worst of it — 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. It sets against that positive signs late in the year, above all Mendenhall's best win, 28-17 at Fresno State. Two of the top three tacklers return, including senior safety Brevin Hamblin and his 114 tackles, and it names well-travelled linebacker Harrison Taggart — previously at Oregon, BYU and California — as the potential leader. On the coach it holds both facts together: Mendenhall was known for producing strong defenses at BYU, but that reputation has faded in recent years. Its verdict keeps the uncertainty: the Aggies will be better defensively, but it is tough to say how much better. *(p. 279)*
-- The guide works it out game by game. Utah State should be 2-2 after four games, assuming it handles home games against Idaho State and Troy. The problems are away from home: Washington and Utah in the first month, plus Pac-12 road games at Boise State, San Diego State and Texas State. It adds the historical marker that Utah State is 1-15 against Utah in the Beehive Boot rivalry since 1998. Its conclusion is that the road schedule stacks the odds against a return to a bowl. *(p. 279)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - It argues the first season was closer to a much better finish than the record shows, citing a 29-26 loss at UNLV and a 25-24 loss to Boise State late in the year. While those two teams played for the Mountain West championship, Utah State went on to lose the Idaho Potato Bowl. *(p. 278)*
-- Utah State allowed 28.7 PPG last season, and the guide lists the worst of it — 55 points in a loss at Vanderbilt and 44 each in losses at Texas A&M and Hawaii. It sets against that positive signs late in the year, above all Mendenhall's best win, 28-17 at Fresno State. Two of the top three tacklers return, including senior safety Brevin Hamblin and his 114 tackles, and it names well-travelled linebacker Harrison Taggart — previously at Oregon, BYU and California — as the potential leader. On the coach it holds both facts together: Mendenhall was known for producing strong defenses at BYU, but that reputation has faded in recent years. Its verdict keeps the uncertainty: the Aggies will be better defensively, but it is tough to say how much better. *(p. 279)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

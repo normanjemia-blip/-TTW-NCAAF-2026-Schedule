@@ -205,6 +205,7 @@ Also referenced on **pp. 38, 206** — not reproduced here.
 - The guide describes Nevada as never a powerhouse but a proud programme with a track record, and quantifies the recent decline: ten wins over four seasons across two head coaches. *(p. 248)*
 - Its stated expectation is measured — nobody is asking for the playoff, but regular bowl appearances should be normal in northern Nevada. *(p. 248)*
 
+
 Referenced in the guide on **pp. 198** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -252,19 +253,17 @@ As printed on p. 249. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 4.5**.
 - It rates Jeff Choate a fiery coach with a sturdy base that could produce improvement. *(p. 248)*
-- The schedule is hard — road games at North Dakota State and UNLV plus home games with Air Force, New Mexico and Hawaii — but the guide concludes the defense's potential under Choate plus offensive upside could produce an upstart season. *(p. 248)*
-- Nevada had one of the country's least efficient passing attacks: 114th in passing success rate, 133rd in passing EPA per play and in the 34th percentile in explosive pass rate. The guide explains those numbers are why a three-way competition exists despite Carter Jones returning with 1,019 yards, six touchdowns and eight interceptions. He faces UCLA transfer Luke Duncan, who is 6-foot-6 and started on the road at Ohio State, and three-year Reno stalwart AJ Bianco. It expects Duncan to win eventually while recording that Choate insists the race is tight going into camp — and concludes that whoever wins, Nevada needs far more from the position. *(p. 249)*
-- The guide links the phases: if the passing game returns to average it could do wonders for a run game showing strong forward indicators. Leading rusher Caleb Ramseur is gone but Herschel Turner returns after 395 yards at 5.1 per carry, behind a line that looks strong on paper with three starters back including preseason all-conference left tackle Jack Foster and right tackle Zach Cochnauer, a fourth-team all-conference pick. Choate added Jacob Norcross and Ethan Newman Jr from Memphis at center and right guard. Against a baseline of 4.4 yards per carry and 76th in rush success rate, it expects a much improved group. *(p. 249)*
-- Given Choate's defensive background the guide says this unit's effectiveness will always be in question, noting steady improvement over two seasons and asking whether this is the year it becomes above average. The pieces are there: defensive lineman Dylan LaBarbera and defensive back Aidan Walker are preseason all-conference selections, and linebacker EJ Smith returns after an early injury ended his season. It grounds the expectation in trend — Nevada has allowed fewer points, fewer yards per game and fewer yards per play in each year under Choate — and would not be surprised to see that continue. *(p. 249)*
+
+*5 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.0 wins** against a posted total of 4.5 — **-0.5** against this team.
-- Recommendation is Over 4.5 wins. Quarterback is an obvious question, but the guide judges Luke Duncan showed enough in his Hawaii starts to expect he wins the job and performs admirably. *(p. 248)*
 - With a steadier hand at the position it sees enough offensive talent to be much more effective, and assuming Choate gets the most from the defense, a difficult out for conference opponents. *(p. 248)*
-- Given Choate's defensive background the guide says this unit's effectiveness will always be in question, noting steady improvement over two seasons and asking whether this is the year it becomes above average. The pieces are there: defensive lineman Dylan LaBarbera and defensive back Aidan Walker are preseason all-conference selections, and linebacker EJ Smith returns after an early injury ended his season. It grounds the expectation in trend — Nevada has allowed fewer points, fewer yards per game and fewer yards per play in each year under Choate — and would not be surprised to see that continue. *(p. 249)*
+
+*5 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

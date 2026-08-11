@@ -121,6 +121,7 @@ The Stability Score table prints the same figure independently: **10 returning s
 - **Will a new coaching staff improve a vagabond QB?** Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
 - **Is the defense the key to Oregon State overachieving?** MacIntyre inherits returning talent and has added transfers, so the guide sees signs of improvement after 29.4 points allowed per game, citing evidence of progress in holding Washington State to seven points in a late-season upset. Linebacker should be a strength with senior Aiden Sullivan, the top returning tackler who it rates a potential league-best defender, alongside former USC transfer Raesjon Davis. It notes wryly that Duquesne is not known for producing dominant defensive ends before naming Ish Findlayter a top transfer carrying high expectations, and concludes the front seven looks solid. *(p. 273)*
 
+
 Referenced in the guide on **pp. 11, 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -131,11 +132,13 @@ Not addressed in guide.
 
 - **Will a new coaching staff improve a vagabond QB?** Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
 
+
 Referenced in the guide on **pp. 35, 204, 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Is the defense the key to Oregon State overachieving?** MacIntyre inherits returning talent and has added transfers, so the guide sees signs of improvement after 29.4 points allowed per game, citing evidence of progress in holding Washington State to seven points in a late-season upset. Linebacker should be a strength with senior Aiden Sullivan, the top returning tackler who it rates a potential league-best defender, alongside former USC transfer Raesjon Davis. It notes wryly that Duquesne is not known for producing dominant defensive ends before naming Ish Findlayter a top transfer carrying high expectations, and concludes the front seven looks solid. *(p. 273)*
+
 
 Referenced in the guide on **pp. 35, 165, 204, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -276,16 +279,12 @@ As printed on p. 273. Each category carries a value and a national rank.
 - Makinen projects **3.8 wins** against a posted total of 3.5 — **+0.3** in this team's favour.
 - It makes the call explicitly relative: the decision depends on other Pac-12 mystery teams, asking whether Oregon State is good enough to beat Colorado State, Texas State, Utah State and Washington State. *(p. 272)*
 - It is candid about conviction, calling this not a best bet by any means and only a lean, at 3.5 Under +150 with Circa offering a nice price on the 12-game line. *(p. 272)*
-- Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
-- Shephard was hired from Alabama, where he was offensive coordinator, and has Pac-12 history, having been on Kalen DeBoer's Washington staff when the Huskies won the conference. He hired Mitch Dahlen as coordinator, part of the Alabama and Washington staffs that developed star quarterbacks. The guide rates the staff a major upgrade, with a big part being coordinator Mike MacIntyre, successful at a variety of stops including head coaching jobs at San Jose State, Colorado and Florida International. Its expectation is deliberately bounded: do not expect Shephard to replicate Smith's win totals, but the Beavers should be more competitive in a rebuilding year. *(p. 273)*
-- MacIntyre inherits returning talent and has added transfers, so the guide sees signs of improvement after 29.4 points allowed per game, citing evidence of progress in holding Washington State to seven points in a late-season upset. Linebacker should be a strength with senior Aiden Sullivan, the top returning tackler who it rates a potential league-best defender, alongside former USC transfer Raesjon Davis. It notes wryly that Duquesne is not known for producing dominant defensive ends before naming Ish Findlayter a top transfer carrying high expectations, and concludes the front seven looks solid. *(p. 273)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 3.5**.
-- Murphy was highly touted out of the Los Angeles area and chose Texas over UCLA, redshirting then missing time through injury before appearing in seven games and going 2-0 as a starter. He transferred to Duke in 2024 and went 9-3 as a starter with 2,933 yards and 26 touchdowns, though the guide notes his play has not been impressive to watch. He declined with a bad Oregon State team, going 1-7 as starter with 1,805 yards, nine touchdowns and eight interceptions. Cornell Hatcher returns as featured back and Shephard added Alabama transfer receiver Aeryn Hampton. Its balanced conclusion: Murphy is not much of a running threat and turns the ball over too much, but with a better staff and supporting cast, expect significant improvement. *(p. 273)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

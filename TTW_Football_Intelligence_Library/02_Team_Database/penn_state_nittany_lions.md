@@ -125,21 +125,25 @@ The Stability Score table prints the same figure independently: **16 returning s
 - **Can Rocco Becht stay healthy?** Becht made 39 consecutive starts at Iowa State despite a torn labrum, a sprained AC joint and two concussions last season, then had offseason surgery limiting him to 7-on-7 work. The depth situation is thin: fellow Iowa State transfer Alex Manske also missed spring with injury, and Connor Barry, a Division III transfer from Christopher Newport, is the only other quarterback on the roster to have taken a college snap. If healthy, Becht has familiar weapons — running back Carson Hansen (1,771 yards, 19 touchdowns over two years) plus Ben Brahmer, Gabe Burkle, Chase Sowell and Brett Eskildsen, his top four pass catchers at Iowa State — with Ohio State transfer James Peoples and Quentin Martin Jr adding backfield depth. *(p. 173)*
 - **How will all the transfers mix in with the returning players?** Campbell brought 24 from Iowa State within 40 total transfers, as Penn State replaces 70 players including eight drafted last spring. The guide draws an explicit comparison: Cignetti brought 29 transfers to Indiana in 2024, 12 from James Madison and 22 from the Group of Five or lower. Thirty-six of Campbell's 40 are from Power Four schools, so the talent has faced top FBS competition — but the guide closes with the caution that the Big Ten is still a step above the Big 12. *(p. 173)*
 
+
 Referenced in the guide on **pp. 109, 111, 239, 257** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 25, 32, 257** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 25, 32, 257**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 32, 109, 132, 172, 173** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 32, 109, 132, 172, 173**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **How quickly can D'Anton Lynn get this defense up to speed?** Lynn improved USC's defense over two years and Campbell hired the former Penn State player immediately. The scheme is new to these players, a 4-2-5 alignment, but the guide notes a mitigating factor: seven of Lynn's defensive starters also started for an Iowa State group that finished one place outside the top 25 in scoring defense at 20.2 points allowed. *(p. 173)*
+
 
 Referenced in the guide on **pp. 10, 19, 181, 309** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -220,8 +224,8 @@ Prices printed on the team page *(p. 173)*:
 | Contributor | Pick | Page |
 | --- | --- | --- |
 | Pauly Howard | PENN STATE OVER 8.5 WINS (-150) | 7 |
-| Wes Reynolds | PENN STATE TO MAKE | 12 |
-| Stormy Buonantony | PENN STATE OVER 8.5 WINS (-160) & | 13 |
+| Wes Reynolds | PENN STATE TO MAKE COLLEGE FOOTBALL PLAYOFF (+450) | 12 |
+| Stormy Buonantony | PENN STATE OVER 8.5 WINS (-160) & TO MAKE COLLEGE FOOTBALL PLAYOFF (+425) | 13 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -233,6 +237,7 @@ Also referenced on **pp. 20** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - 2025 was meant to be Penn State's year to return to the summit for the first time since 1986. It started 3-0, lost a home overtime heartbreaker to Oregon, then lost six straight — including as a 24-point road favorite at UCLA and a three-touchdown home favorite against Northwestern, which cost James Franklin his job the next day. *(p. 172)*
+
 
 Referenced in the guide on **pp. 12, 19, 20, 69, 166, 181, 239, 309** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -281,17 +286,16 @@ As printed on p. 173. Each category carries a value and a national rank.
 
 - Makinen projects **9.3 wins** against a posted total of 8.5 — **+0.8** in this team's favour.
 - The team page recommends **OVER 9.5**.
-- 2025 was meant to be Penn State's year to return to the summit for the first time since 1986. It started 3-0, lost a home overtime heartbreaker to Oregon, then lost six straight — including as a 24-point road favorite at UCLA and a three-touchdown home favorite against Northwestern, which cost James Franklin his job the next day. *(p. 172)*
-- After missing on Kalani Sitake, Penn State signed Iowa State's Matt Campbell to an eight-year, $70.5 million contract, having led the Cyclones through arguably their best decade. *(p. 172)*
-- Lynn improved USC's defense over two years and Campbell hired the former Penn State player immediately. The scheme is new to these players, a 4-2-5 alignment, but the guide notes a mitigating factor: seven of Lynn's defensive starters also started for an Iowa State group that finished one place outside the top 25 in scoring defense at 20.2 points allowed. *(p. 173)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- 2025 was meant to be Penn State's year to return to the summit for the first time since 1986. It started 3-0, lost a home overtime heartbreaker to Oregon, then lost six straight — including as a 24-point road favorite at UCLA and a three-touchdown home favorite against Northwestern, which cost James Franklin his job the next day. *(p. 172)*
-- After missing on Kalani Sitake, Penn State signed Iowa State's Matt Campbell to an eight-year, $70.5 million contract, having led the Cyclones through arguably their best decade. *(p. 172)*
-- Becht made 39 consecutive starts at Iowa State despite a torn labrum, a sprained AC joint and two concussions last season, then had offseason surgery limiting him to 7-on-7 work. The depth situation is thin: fellow Iowa State transfer Alex Manske also missed spring with injury, and Connor Barry, a Division III transfer from Christopher Newport, is the only other quarterback on the roster to have taken a college snap. If healthy, Becht has familiar weapons — running back Carson Hansen (1,771 yards, 19 touchdowns over two years) plus Ben Brahmer, Gabe Burkle, Chase Sowell and Brett Eskildsen, his top four pass catchers at Iowa State — with Ohio State transfer James Peoples and Quentin Martin Jr adding backfield depth. *(p. 173)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 172; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

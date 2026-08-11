@@ -123,8 +123,9 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 229** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 229**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -182,8 +183,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 228, 229** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 228, 229**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -217,6 +219,7 @@ Also referenced on **pp. 222** — not reproduced here.
 - With Toledo also blowing them out in conference play set aside, it says the Golden Flashes were competitive in most other games and went 5-3 in them. *(p. 228)*
 - The full record has Kent State down by 12.3 points per game and out-gained by nearly 140 yards per game — the guide's text uses “outgained” in both clauses — but it argues conference play was a different story: 5.2 yards per play allowed against nearly 5.7 gained, and +1 in turnover margin. *(p. 228)*
 - Its most striking comparison is the conference record: 0-16 against MAC opponents under Burns, then 4-4 under Carney, with a lot of hope around the programme that this was not a one-year blip. *(p. 228)*
+
 
 Referenced in the guide on **pp. 222, 230** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -265,16 +268,16 @@ As printed on p. 229. Each category carries a value and a national rank.
 
 - Makinen projects **3.7 wins** against a posted total of 3.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 3.5**.
-- Its swing game is the finale at Eastern Michigan, an opponent it is very low on. It calls this not a super strong play while noting the talent level is better again, adds Josh Cribbs as the new special teams coordinator as a possible X factor, and states it likes the position despite a projection of 3.23 wins. *(p. 228)*
-- The guide's first point is a dependency it calls massive: DeShields staying healthy is vital because there is absolutely no FBS experience behind him. Beyond that, the top four rushers are gone along with the top two receivers by yardage, leaving Wayne Harris — 35 receptions for only 383 yards — as the leading returnee. The receiver room took in few new faces while virtually the entire running back room is new. On the line it allows the group may be better despite lost starters, since it helped produce only 2.9 yards per carry overall and 3.6 in conference games once the brutal non-conference slate is excluded. Its verdict is that this is not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The second is that full-season statistics would be disingenuous, because Kent State lost 62-14 to Texas Tech, 66-10 to Florida State and 44-0 to Oklahoma, being out-gained by over 1,000 yards across those three games. *(p. 228)*
-- Dru DeShields came basically out of nowhere to post an 18/3 touchdown-to-interception ratio with just over 2,000 passing yards. The guide's causal note is health — the redshirt freshman finally kept his ACL intact — and the payoff was Kent State topping 20 PPG for the first time since 2022. It is careful not to overstate the numbers, saying the yardage totals still were not eye-popping even in conference play, and locating the gain instead in taking care of the football and protecting the quarterback. It adds a degree-of-difficulty note: this came after top receivers Chrishon McCray and Luke Floriea moved on, having combined for 84 of the team's 139 receptions the previous year. *(p. 229)*
-- The guide's first point is a dependency it calls massive: DeShields staying healthy is vital because there is absolutely no FBS experience behind him. Beyond that, the top four rushers are gone along with the top two receivers by yardage, leaving Wayne Harris — 35 receptions for only 383 yards — as the leading returnee. The receiver room took in few new faces while virtually the entire running back room is new. On the line it allows the group may be better despite lost starters, since it helped produce only 2.9 yards per carry overall and 3.6 in conference games once the brutal non-conference slate is excluded. Its verdict is that this is not good enough in this league, but a more stable passing game and a full recruiting cycle for Carney should help. *(p. 229)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

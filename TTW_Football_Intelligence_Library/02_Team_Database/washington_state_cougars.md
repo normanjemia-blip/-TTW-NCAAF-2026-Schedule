@@ -127,13 +127,15 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 281, 331** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 281, 331**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - The closing balance is offense against defense — entertaining potential with Pinnick pulling the trigger, but a defense that appears nowhere near as strong as last year's, which the guide calls a real problem. *(p. 280)*
 - **Is the sky the limit for Caden Pinnick?** Pinnick's FCS record: Big Sky Freshman of the Year at UC Davis after passing for 3,206 yards and 32 touchdowns with 437 rushing yards, completing 70% of his passes at 6-foot, and leading UC Davis to nine wins and an FCS playoff berth. The guide adds a recruiting detail — Moore outrecruited Colorado for him — and says his running ability is what excites the coach. Supporting cast: top receiver, senior speedster Tony Freeman (54 receptions), returns alongside leading rusher Kirby Vorhees (576 yards, five touchdowns), who transferred from South Dakota State before last season; senior tackle Ashton Tripp is among a few experienced returnees; Florida transfer receiver Tank Hawkins is added. Its conclusion is that the offense will be the obvious strength of the team, with Moore designing the plays and Pinnick, Vorhees and Freeman doing most of the playmaking. *(p. 281)*
+
 
 Referenced in the guide on **pp. 35, 45, 303** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -141,6 +143,7 @@ Referenced in the guide on **pp. 35, 45, 303** — those passages are not reprod
 
 - The closing balance is offense against defense — entertaining potential with Pinnick pulling the trigger, but a defense that appears nowhere near as strong as last year's, which the guide calls a real problem. *(p. 280)*
 - **Will a defense with no returning starters be a disaster?** The guide's starting point is that, blowout losses to North Texas and Washington aside, Washington State was mostly outstanding on defense a year ago, allowing 20.2 PPG to rank 27th nationally. New coordinator Trent Bray, the former Oregon State head coach, will need to work miracles to keep the Cougars competitive. It lists his portal rebuild — senior end Linus Zunk from Vanderbilt, senior corner Jalil Tucker from Oregon — and adds senior linebacker Keith Brown, a former Oregon transfer who missed last season with an arm injury, as another key player. Its verdict separates the hire from the unit: Bray was a good hire, but this defense has a long way to go, and the Cougars could get into many high-scoring games. *(p. 281)*
+
 
 Referenced in the guide on **pp. 131** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -188,8 +191,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 280** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 280**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -218,6 +222,7 @@ Prices printed on the team page *(p. 281)*:
 
 - The guide opens with a precedent rather than a preview. In 2022 a quarterback from Incarnate Word, an FCS programme in San Antonio, transferred to Washington State; Cam Ward had posted huge passing numbers at the lower level, developed into “the real deal” over two seasons with the Cougars, and became the first overall pick of the 2025 NFL Draft by the Tennessee Titans. *(p. 280)*
 - **Will the Cougars’ new coach bring Moore or less?** Kirby Moore's credential is three years as Missouri's offensive coordinator designing dynamic offenses around dual-threat quarterbacks. The guide's central fact is instability: he is Washington State's third coach in three years, after Jake Dickert (2024) and Jimmy Rogers (2025), with Dickert leaving for Wake Forest and Rogers taking the Iowa State job and several players with him. It balances that against retained strength — the Cougars went a combined 15-11 over those two years and still have talent — while noting Moore had to work the transfer portal to replenish the roster, where he found a promising dual-threat quarterback to ease the transition. Its answer to its own question is that a third straight winning season while rebuilding is doubtful, so expect less from Moore's first season. *(p. 281)*
+
 
 Referenced in the guide on **pp. 35, 45, 69, 112, 130, 131** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -266,11 +271,8 @@ As printed on p. 281. Each category carries a value and a national rank.
 
 - Makinen projects **5.3 wins** against a posted total of 4.5 — **+0.8** in this team's favour.
 - It makes the relevance explicit: Washington State is again bringing in an FCS quarterback to revive its offense. Caden Pinnick arrives from UC Davis, and the guide says his play will go a long way toward determining how successful new coach Kirby Moore is in his first season in Pullman. *(p. 280)*
-- The schedule argument runs front to back: road games at Washington and Kansas State to open will likely leave the Cougars 0-2 before a breather against Duquesne, followed by home games against Arizona and Fresno State — a team the guide rates as potentially the Pac-12's second best. It concedes five potential wins are not impossible to find on the schedule, only highly unlikely. *(p. 280)*
-- The closing balance is offense against defense — entertaining potential with Pinnick pulling the trigger, but a defense that appears nowhere near as strong as last year's, which the guide calls a real problem. *(p. 280)*
-- Kirby Moore's credential is three years as Missouri's offensive coordinator designing dynamic offenses around dual-threat quarterbacks. The guide's central fact is instability: he is Washington State's third coach in three years, after Jake Dickert (2024) and Jimmy Rogers (2025), with Dickert leaving for Wake Forest and Rogers taking the Iowa State job and several players with him. It balances that against retained strength — the Cougars went a combined 15-11 over those two years and still have talent — while noting Moore had to work the transfer portal to replenish the roster, where he found a promising dual-threat quarterback to ease the transition. Its answer to its own question is that a third straight winning season while rebuilding is doubtful, so expect less from Moore's first season. *(p. 281)*
-- Pinnick's FCS record: Big Sky Freshman of the Year at UC Davis after passing for 3,206 yards and 32 touchdowns with 437 rushing yards, completing 70% of his passes at 6-foot, and leading UC Davis to nine wins and an FCS playoff berth. The guide adds a recruiting detail — Moore outrecruited Colorado for him — and says his running ability is what excites the coach. Supporting cast: top receiver, senior speedster Tony Freeman (54 receptions), returns alongside leading rusher Kirby Vorhees (576 yards, five touchdowns), who transferred from South Dakota State before last season; senior tackle Ashton Tripp is among a few experienced returnees; Florida transfer receiver Tank Hawkins is added. Its conclusion is that the offense will be the obvious strength of the team, with Moore designing the plays and Pinnick, Vorhees and Freeman doing most of the playmaking. *(p. 281)*
-- The guide's starting point is that, blowout losses to North Texas and Washington aside, Washington State was mostly outstanding on defense a year ago, allowing 20.2 PPG to rank 27th nationally. New coordinator Trent Bray, the former Oregon State head coach, will need to work miracles to keep the Cougars competitive. It lists his portal rebuild — senior end Linus Zunk from Vanderbilt, senior corner Jalil Tucker from Oregon — and adds senior linebacker Keith Brown, a former Oregon transfer who missed last season with an arm injury, as another key player. Its verdict separates the hire from the unit: Bray was a good hire, but this defense has a long way to go, and the Cougars could get into many high-scoring games. *(p. 281)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -278,8 +280,8 @@ As printed on p. 281. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 4.5**.
 - Recommendation is Under 4.5 wins, taking the Circa Sports 4.5 Under +130 as the play, with a projected finish of 4-8 or worse on account of a new team, new coaching staff and difficult schedule. *(p. 280)*
-- Kirby Moore's credential is three years as Missouri's offensive coordinator designing dynamic offenses around dual-threat quarterbacks. The guide's central fact is instability: he is Washington State's third coach in three years, after Jake Dickert (2024) and Jimmy Rogers (2025), with Dickert leaving for Wake Forest and Rogers taking the Iowa State job and several players with him. It balances that against retained strength — the Cougars went a combined 15-11 over those two years and still have talent — while noting Moore had to work the transfer portal to replenish the roster, where he found a promising dual-threat quarterback to ease the transition. Its answer to its own question is that a third straight winning season while rebuilding is doubtful, so expect less from Moore's first season. *(p. 281)*
-- The guide's starting point is that, blowout losses to North Texas and Washington aside, Washington State was mostly outstanding on defense a year ago, allowing 20.2 PPG to rank 27th nationally. New coordinator Trent Bray, the former Oregon State head coach, will need to work miracles to keep the Cougars competitive. It lists his portal rebuild — senior end Linus Zunk from Vanderbilt, senior corner Jalil Tucker from Oregon — and adds senior linebacker Keith Brown, a former Oregon transfer who missed last season with an arm injury, as another key player. Its verdict separates the hire from the unit: Bray was a good hire, but this defense has a long way to go, and the Cougars could get into many high-scoring games. *(p. 281)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

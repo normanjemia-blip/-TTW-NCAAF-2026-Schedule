@@ -120,22 +120,26 @@ The Stability Score table prints the same figure independently: **18 returning s
 
 - **Can the defense move into the elite stratosphere?** Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
 
+
 Referenced in the guide on **pp. 73, 90, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 99** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 99**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 23, 39, 45, 275, 312, 313** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 23, 39, 45, 275, 312, 313**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
 - **Can the defense move into the elite stratosphere?** Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
+
 
 Referenced in the guide on **pp. 95, 295** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -184,8 +188,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 10, 312** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 10, 312**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -229,7 +234,7 @@ Prices printed on the team page *(p. 313)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| John Mckechnie | TEXAS A&M UNDER 8.5 WINS (-120) | 15 |
+| John McKechnie | TEXAS A&M UNDER 8.5 WINS (-120) | 15 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -241,6 +246,7 @@ Where contributors disagree, every position is kept separately and none is recon
 ## 22. Historical / Situational Trends
 
 - Mike Elko is credited with a strong record at both Duke and Texas A&M, improving the Aggies' record every year, and now has the 13th-most experienced roster in the country. *(p. 312)*
+
 
 Referenced in the guide on **pp. 15, 23, 38, 39, 45, 73, 209, 237, 279, 283** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -288,11 +294,9 @@ As printed on p. 313. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Mike Elko is credited with a strong record at both Duke and Texas A&M, improving the Aggies' record every year, and now has the 13th-most experienced roster in the country. *(p. 312)*
-- Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
 - The guide is careful not to overstate the bear case — it calls the Aggies capable of being very good while judging nine or more wins a challenge. *(p. 312)*
-- Reed completed 61.6% at 8.3 yards per attempt with 25 touchdowns to 12 interceptions — solid, but the guide argues insufficient for the next step. He ranked 12th among SEC passers by PFF grade, posted the third-highest turnover-worthy play rate at 4.7% and led the conference with 22 such plays. On throws of 10-19 yards between the numbers he completed 50.8% with six touchdowns and five interceptions, and nine of his 22 turnover-worthy plays came on those attempts. New play-caller Holmon Wiggins arrives, and the guide leaves open whether that aids his development. *(p. 313)*
-- Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
-- The guide sets out the market position: tied with Alabama at DraftKings to win the SEC at +850, and 20-1 for the national championship behind eight other teams, three of them in the SEC. It restates the limitations — Reed good but limited as a passer, a defense that is good rather than elite and rebuilding its line — and then poses the upside directly: if Reed improves and Elko lifts the defense into the elite tier in a season loaded with parity, the market may be underrating what Texas A&M could become. *(p. 313)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -300,9 +304,8 @@ As printed on p. 313. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 8.5**.
 - Against that, the guide sets the size of the task: a very difficult schedule, a new offensive play-caller, and the goal of a first SEC championship and possibly a first modern national title. *(p. 312)*
-- Recommendation is Under 8.5 wins, argued as potential versus reality: Marcel Reed has not shown real progress in his weak areas, and the defense is good but not among the SEC's elite. *(p. 312)*
-- Schedule detail: three very likely wins over Missouri State, Arkansas and the Citadel, then probable favorite status against Arizona State, Kentucky and South Carolina, the last on the road and harder than it looks. LSU, Missouri, Alabama, Oklahoma and Texas follow, with only Texas at home — a brutal slate for a team coming off 11 wins and a playoff berth. *(p. 312)*
-- Elko is described as a defensive mastermind whose units are consistently well above average, and eight starters return. Texas A&M allowed 21.0 points per game, 4.2 yards per carry and 5.1 yards per play — all top-25 marks — and the question is what gets it into the top ten. Three defensive linemen left for the NFL, which the guide calls a massive blow, and the leading tackler departed, though First Team All-AAC linebacker Ray Coney was added and the secondary is largely intact. Its conclusion is pointed: Elko always maximizes talent, but will have to do more than that to reach championship level. *(p. 313)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

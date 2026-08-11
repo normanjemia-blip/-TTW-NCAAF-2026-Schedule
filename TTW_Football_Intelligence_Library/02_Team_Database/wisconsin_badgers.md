@@ -121,12 +121,14 @@ The Stability Score table prints the same figure independently: **10 returning s
 - **Aside from Joseph, who is the Badgers rushing threat?** Wisconsin's identity has always been power running, yet it ranked 115th nationally at 116.7 yards per game. Leading rusher Darrion Dupree (83 carries, 363 yards, two touchdowns) returns with Abu Sama III from Iowa State, who ran for 1,933 yards and 13 touchdowns across three seasons, and USC transfer Bryan Jackson II. Three offensive line starters are back. The guide's sharpest illustration of the problem: Joseph individually had more runs of 10-plus yards last season, 37, than Wisconsin managed as a team, 33. *(p. 185)*
 - **How much of a load will the defense have to carry?** Wisconsin somehow ranked 24th nationally in total defense despite being on the field constantly because of the offense. Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) contributed heavily as freshmen and now lead the unit with safety Matthew Jung (50 tackles). Apart from Jung the secondary is entirely portal additions — Marvin Burks Jr from Missouri, Javan Robinson from Arizona State, Cai Bates from Florida State and Eric Fletcher from East Carolina. The front has homegrown talent in Nicolas Clayton, Jaylen Williams and Sebastian Cheeks. The guide's conclusion turns on the offense: this could be solid again, but it depends on whether the unit can be kept off the field. *(p. 185)*
 
+
 Referenced in the guide on **pp. 99, 151** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 185**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -135,12 +137,14 @@ Referenced in the guide on **pp. 185** — those passages are not reproduced her
 - **Can anyone make plays at receiver?** Very little production returns, which the guide suggests may not be a bad thing given the leading receiver managed under 400 yards. Wisconsin will lean on transfers and young recruits: Chris Brooks Jr and Eugene Hilton return, joined by Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. Coordinator Jeff Grimes is expected to go run-heavy, especially with a mobile quarterback, but the guide insists some production from the position is still required. *(p. 185)*
 - **Aside from Joseph, who is the Badgers rushing threat?** Wisconsin's identity has always been power running, yet it ranked 115th nationally at 116.7 yards per game. Leading rusher Darrion Dupree (83 carries, 363 yards, two touchdowns) returns with Abu Sama III from Iowa State, who ran for 1,933 yards and 13 touchdowns across three seasons, and USC transfer Bryan Jackson II. Three offensive line starters are back. The guide's sharpest illustration of the problem: Joseph individually had more runs of 10-plus yards last season, 37, than Wisconsin managed as a team, 33. *(p. 185)*
 
+
 Referenced in the guide on **pp. 182, 330** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - It supplies the starkest single number: Wisconsin scored 81 points across nine Big Ten games in 2025. The defense was solid as usual, but wins will stay scarce unless the offense improves. *(p. 184)*
 - **How much of a load will the defense have to carry?** Wisconsin somehow ranked 24th nationally in total defense despite being on the field constantly because of the offense. Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) contributed heavily as freshmen and now lead the unit with safety Matthew Jung (50 tackles). Apart from Jung the secondary is entirely portal additions — Marvin Burks Jr from Missouri, Javan Robinson from Arizona State, Cai Bates from Florida State and Eric Fletcher from East Carolina. The front has homegrown talent in Nicolas Clayton, Jaylen Williams and Sebastian Cheeks. The guide's conclusion turns on the offense: this could be solid again, but it depends on whether the unit can be kept off the field. *(p. 185)*
+
 
 Referenced in the guide on **pp. 151, 182** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -197,8 +201,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 20**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -223,7 +228,7 @@ Prices printed on the team page *(p. 185)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| Zachary Cohen | WISCONSIN OVER 6.5 WINS (+100 - 3 UNITS) & | 8 |
+| Zachary Cohen | WISCONSIN OVER 6.5 WINS (+100 - 3 UNITS) & ALT OVER 7.5 WINS (+230) | 8 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -234,6 +239,7 @@ Where contributors disagree, every position is kept separately and none is recon
 
 - Luke Fickell was expected to restore the Barry Alvarez era; instead he has gone 7-6, 5-7 and 4-8, and the guide says no Big Ten seat is hotter. *(p. 184)*
 - A telling marker: for the first time since 1978, ending a 47-season streak, Wisconsin had no player drafted. *(p. 184)*
+
 
 Referenced in the guide on **pp. 8, 20, 99, 151** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -280,10 +286,9 @@ As printed on p. 185. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- It supplies the starkest single number: Wisconsin scored 81 points across nine Big Ten games in 2025. The defense was solid as usual, but wins will stay scarce unless the offense improves. *(p. 184)*
-- Very little production returns, which the guide suggests may not be a bad thing given the leading receiver managed under 400 yards. Wisconsin will lean on transfers and young recruits: Chris Brooks Jr and Eugene Hilton return, joined by Oklahoma State transfer Shamar Rigby and Minnesota transfer Malachi Coleman. Coordinator Jeff Grimes is expected to go run-heavy, especially with a mobile quarterback, but the guide insists some production from the position is still required. *(p. 185)*
-- Wisconsin's identity has always been power running, yet it ranked 115th nationally at 116.7 yards per game. Leading rusher Darrion Dupree (83 carries, 363 yards, two touchdowns) returns with Abu Sama III from Iowa State, who ran for 1,933 yards and 13 touchdowns across three seasons, and USC transfer Bryan Jackson II. Three offensive line starters are back. The guide's sharpest illustration of the problem: Joseph individually had more runs of 10-plus yards last season, 37, than Wisconsin managed as a team, 33. *(p. 185)*
-- Wisconsin somehow ranked 24th nationally in total defense despite being on the field constantly because of the offense. Linebackers Cooper Catalano (56 tackles) and Mason Posa (61 tackles, four sacks) contributed heavily as freshmen and now lead the unit with safety Matthew Jung (50 tackles). Apart from Jung the secondary is entirely portal additions — Marvin Burks Jr from Missouri, Javan Robinson from Arizona State, Cai Bates from Florida State and Eric Fletcher from East Carolina. The front has homegrown talent in Nicolas Clayton, Jaylen Williams and Sebastian Cheeks. The guide's conclusion turns on the offense: this could be solid again, but it depends on whether the unit can be kept off the field. *(p. 185)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 184; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -291,6 +296,8 @@ As printed on p. 185. Each category carries a value and a national rank.
 
 - Makinen projects **6.1 wins** against a posted total of 6.5 — **-0.4** against this team.
 - The team page recommends **UNDER 6.5**.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -124,12 +124,14 @@ The Stability Score table prints the same figure independently: **7 returning st
 - ODU is placed on the wrong side of that this year, with very heavy losses — headlined by quarterback Colton Joseph to Wisconsin after rushing for more than 1,000 yards and throwing for over 2,600 — and offensive coordinator Kevin Decker leaving for the same role at Memphis. *(p. 330)*
 - **Can Cook keep the offense cooking?** Kody Cook is promoted to offensive coordinator after coaching wide receivers last season, and also takes the quarterbacks, with other shifts across the staff. The guide's concern is concentration: only three players had 11-plus catches, posting 762, 719 and 667 yards while nobody else exceeded 200 — and all three are gone, so Cook's old position group must be reimagined. It expects a run-heavy team again, listing Devin Roche at 5.7 yards per carry (well short of Trequan Jones' 7.5) and JUCO transfer Trey Hall, originally an Ole Miss commit. Its conclusion is that Quinn Henicle and Jaxon Potter will have skill players to work with, and that Cook — who played at Kansas State and coached at Tennessee — was the logical promotion after Decker's departure. *(p. 331)*
 
+
 Referenced in the guide on **pp. 8, 20, 73, 184** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 331** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 331**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -191,8 +193,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 342** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 342**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -276,9 +279,8 @@ As printed on p. 331. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 7.5**.
 - Ricky Rahne's programme then improved by five wins to finish 10-3. *(p. 330)*
-- The specifics: James Madison and Marshall both come to Norfolk; the oddly timed non-conference road game at UConn is very winnable, as are dates with hapless Georgia State, newcomer Louisiana Tech and a Coastal Carolina team in transition; drawing Southern Miss and Louisiana Tech from the West is favourable; and the East Carolina game is at home. *(p. 330)*
-- The guide weighs continuity against upside. Henicle is the holdover who knows the system, but it says plainly he was not very good — 4.8 yards per carry on 44 attempts, only 42.5% completions, and 11-for-25 against a skeleton-crew USF team in the bowl game. Potter was the higher-graded recruit and was willing to cross the country from Washington State as a California native. In Henicle's favour it notes he was recruited by FCS schools with good rushing attacks and by Army, so he was clearly seen as an impact runner at the position. Its verdict keeps both the doubt and the urgency: neither looks poised to top Joseph's numbers, and Rahne needs to get this right and fix it early in the season if he has not settled it coming out of camp. *(p. 331)*
-- The guide first credits Rahne, an offensive-minded coach, with finally rounding that side into form — up in yards per carry and points per game in each of the last three seasons — before arguing the real separator was Blake Seiler's defense. That unit cut 9.5 PPG and 0.9 yards per play from the previous season, holding opponents to 18.5 PPG and 4.8 yards per play, with ODU out-gaining opponents by 1.9 yards per play as a team. It tracks Seiler's pass rush across three years — 19 sacks, then 26, then 39 — alongside a top-25 third-down defense. Returning help includes two linebackers who started in 2024 but missed most of last season, plus returning starters at each level. Its calibrated verdict is to buy them as better than 2024 but worse than 2025. *(p. 331)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -287,9 +289,8 @@ As printed on p. 331. Each category carries a value and a national rank.
 - The guide opens by locating Old Dominion inside someone else's season: Indiana won 10 of its 16 victories by 14 or more points, and one of the six closer games was against ODU, which was badly out-gained in the regular-season opener yet lost only 27-14 — a sign of things to come. *(p. 330)*
 - What the guide finds remarkable is the shape of the losses: all three came by 13, 24 and 36 points, with ODU -5 in turnovers against Marshall and pummelled by James Madison. Otherwise, it notes, 10 wins was one fewer than the previous two seasons combined. *(p. 330)*
 - ODU is placed on the wrong side of that this year, with very heavy losses — headlined by quarterback Colton Joseph to Wisconsin after rushing for more than 1,000 yards and throwing for over 2,600 — and offensive coordinator Kevin Decker leaving for the same role at Memphis. *(p. 330)*
-- The specifics: James Madison and Marshall both come to Norfolk; the oddly timed non-conference road game at UConn is very winnable, as are dates with hapless Georgia State, newcomer Louisiana Tech and a Coastal Carolina team in transition; drawing Southern Miss and Louisiana Tech from the West is favourable; and the East Carolina game is at home. *(p. 330)*
-- Kody Cook is promoted to offensive coordinator after coaching wide receivers last season, and also takes the quarterbacks, with other shifts across the staff. The guide's concern is concentration: only three players had 11-plus catches, posting 762, 719 and 667 yards while nobody else exceeded 200 — and all three are gone, so Cook's old position group must be reimagined. It expects a run-heavy team again, listing Devin Roche at 5.7 yards per carry (well short of Trequan Jones' 7.5) and JUCO transfer Trey Hall, originally an Ole Miss commit. Its conclusion is that Quinn Henicle and Jaxon Potter will have skill players to work with, and that Cook — who played at Kansas State and coached at Tennessee — was the logical promotion after Decker's departure. *(p. 331)*
-- The guide first credits Rahne, an offensive-minded coach, with finally rounding that side into form — up in yards per carry and points per game in each of the last three seasons — before arguing the real separator was Blake Seiler's defense. That unit cut 9.5 PPG and 0.9 yards per play from the previous season, holding opponents to 18.5 PPG and 4.8 yards per play, with ODU out-gaining opponents by 1.9 yards per play as a team. It tracks Seiler's pass rush across three years — 19 sacks, then 26, then 39 — alongside a top-25 third-down defense. Returning help includes two linebackers who started in 2024 but missed most of last season, plus returning starters at each level. Its calibrated verdict is to buy them as better than 2024 but worse than 2025. *(p. 331)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

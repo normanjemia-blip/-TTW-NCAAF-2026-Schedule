@@ -121,6 +121,24 @@ def quote(lines, page):
     return "\n\n".join(f"> {ln}\n>\n> — *conference preview, p. {page}*" for ln in lines)
 
 
+# The right-hand team page prints its futures block and rank labels with no
+# sentence punctuation, so a sentence harvested from that page can begin with
+# a run of those labels: "Championship steve makinen power rating make the
+# playoff RANK # CONFERENCE: NATIONAL: # RANK Do the Bulldogs have ...".
+# The labels are page furniture, not prose, and are stripped from the FRONT of
+# a quoted sentence only -- never from the middle, where a real sentence could
+# legitimately use the same words.
+FURNITURE_LEAD = re.compile(
+    r"^(?:\s*(?:Championship|steve makinen power rating|make the playoff|"
+    r"RANK|#|CONFERENCE:|NATIONAL:|OFFENSIVE STATISTICS|DEFENSIVE STATISTICS))+"
+    r"\s*", re.I)
+
+
+def strip_furniture(sentence):
+    cleaned = FURNITURE_LEAD.sub("", sentence).strip()
+    return cleaned or sentence
+
+
 def slug(name):
     # "&" becomes "and", matching coach_lib.slug. The two diverged, and
     # "Texas A&M Aggies" was the one team where it showed: this file
@@ -338,7 +356,7 @@ def build_conference(conf, data):
                 if shown >= 8:
                     break
                 s, pg = found[0]
-                lines.append(f"\n- **{team}** (p. {pg}) — {s}")
+                lines.append(f"\n- **{team}** (p. {pg}) — {strip_furniture(s)}")
                 shown += 1
             if len(hits) > shown:
                 lines.append(f"\n\n*{len(hits) - shown} further teams also address "

@@ -122,6 +122,7 @@ The Stability Score table prints the same figure independently: **10 returning s
 - Its case rests on three things it names together — what Key has done so far, the caliber of coordinators he has hired, and the programme's portal success — giving more reasons for optimism than pessimism even with a projection of 6.02 wins. *(p. 90)*
 - **How coordinated will Georgia Tech be to start the season?** The guide inventories the turnover: only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone; coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. Its summary is deliberately cumulative — new quarterback, new feature back, an entirely new receiver room, two new but productive transfer tight ends, and new coordinators on both sides — and while it credits Key and notes turnover is nothing new, it calls this a lot. *(p. 91)*
 
+
 Referenced in the guide on **pp. 15, 19, 207, 291** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -132,6 +133,7 @@ Not addressed in guide.
 
 - **How coordinated will Georgia Tech be to start the season?** The guide inventories the turnover: only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone; coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. Its summary is deliberately cumulative — new quarterback, new feature back, an entirely new receiver room, two new but productive transfer tight ends, and new coordinators on both sides — and while it credits Key and notes turnover is nothing new, it calls this a lot. *(p. 91)*
 - **Did Key make the right hires?** The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
+
 
 Referenced in the guide on **pp. 15, 207, 291** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -230,6 +232,7 @@ Also referenced on **pp. 95** — not reproduced here.
 - The collapse is described precisely: an 8-0 start with a clear playoff path, then inexplicably running out of gas, dropping three of the last four plus the bowl game to BYU. *(p. 90)*
 - **Is this the year?** The guide notes Georgia Tech can reasonably believe in playoff contention, since the ACC is the weakest Power Four conference and a home game with Tennessee early gives it a chance to be in the conversation when the first rankings appear. But it redefines the question: what it means is whether this is the year Georgia Tech beats Georgia, which it calls a monumental achievement regardless of how the ACC or playoff shake out. The Yellow Jackets last won in 2016 but have come close, losing in eight overtimes two seasons ago and 16-9 in a rock fight last year. They have covered every Georgia game under Key, though this one is back on the road. *(p. 91)*
 
+
 Referenced in the guide on **pp. 19, 81, 95, 207** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -278,16 +281,16 @@ As printed on p. 91. Each category carries a value and a national rank.
 - The team page recommends **OVER 6.5**.
 - After success with Texas A&M transfer Haynes King, the staff went back to the portal for Alberto Mendoza, younger brother of Fernando Mendoza. The guide is candid that nobody knows what to expect from him, since Curt Cignetti rarely eased off at Indiana and he played little. *(p. 90)*
 - Its case rests on three things it names together — what Key has done so far, the caliber of coordinators he has hired, and the programme's portal success — giving more reasons for optimism than pessimism even with a projection of 6.02 wins. *(p. 90)*
-- The guide inventories the turnover: only one player with at least six receptions returns across the receiver and tight end rooms; Michigan transfer Justice Haynes looks the starter at running back ahead of Malachi Hosley, the most productive returning skill player even though King led the team in rushing yards and touchdowns; three offensive line starters and the line coach are gone; coordinator Buster Faulkner left for Florida and Blake Gideon returned to Texas. Its summary is deliberately cumulative — new quarterback, new feature back, an entirely new receiver room, two new but productive transfer tight ends, and new coordinators on both sides — and while it credits Key and notes turnover is nothing new, it calls this a lot. *(p. 91)*
-- The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Three straight losses to end the season pushed Georgia Tech's last ten-win season further into the past, though the guide says Brent Key came very close in his fourth full year. *(p. 90)*
-- The guide finds silver linings on both sides. New coordinator Jason Semore spent three seasons with Charles Huff at Marshall then Southern Miss, whose 29 takeaways ranked fourth in FBS with 23 interceptions leading the nation. New offensive coordinator George Godsey played quarterback at Georgia Tech from 1998 to 2001 and returns after four seasons as the Ravens' tight ends coach — a fit the guide likes given two of Tech's best portal additions were tight ends. It also draws a schematic prediction: expect a more ball-control offense, since Georgia Tech ranked 97th in average time of possession, with a jump likely there. *(p. 91)*
-- The guide notes Georgia Tech can reasonably believe in playoff contention, since the ACC is the weakest Power Four conference and a home game with Tennessee early gives it a chance to be in the conversation when the first rankings appear. But it redefines the question: what it means is whether this is the year Georgia Tech beats Georgia, which it calls a monumental achievement regardless of how the ACC or playoff shake out. The Yellow Jackets last won in 2016 but have come close, losing in eight overtimes two seasons ago and 16-9 in a rock fight last year. They have covered every Georgia game under Key, though this one is back on the road. *(p. 91)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 90; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -124,12 +124,14 @@ The Stability Score table prints the same figure independently: **7 returning st
 - **How long does it take the offense to gel?** Beyond the questions about Tisdale and Reeder, the guide notes KD Hutchinson is the only returnee of consequence at the skill positions. Tulsa transfer Ajay Allen will likely lead a by-committee backfield that had decent returns last season; Georgia Tech transfer Zion Taylor is probably the most notable receiver added, with Jyzaiah Rockwell arriving after a 1,100-yard season in the FCS ranks. It singles out the offensive line as a genuine upgrade — a hodgepodge of transfers, but with a lot more experience and size than last season's group, including an Alabama transfer. Its conditional conclusion is that if Tisdale can distribute the ball without turning it over and prove more of a running threat, this unit will be cooking with gas quickly. *(p. 207)*
 - **Is the defense at risk of regressing?** The guide identifies Jaylen Lewis and Dave Herrard as really the only two returning contributors, leaving coordinator Davis Merritt a great deal of scouting work. Its silver lining is a rotation effect: only three players had 70-plus tackles because Western Kentucky rotated heavily to stay fresh, so last season's backups stepping up are already familiar with the scheme — and Merritt has been on staff for three years, so the system is ingrained among returnees. The numbers cut both ways: only 19 sacks, yet just 22.6 PPG allowed, the fewest since 2019, when the Hilltoppers gave up 20.1 PPG and 3.7 yards per carry. Its stated conclusion is pessimism, resting on the run defense needing fixing, the low sack totals, and complete turnover in the front seven. *(p. 207)*
 
+
 Referenced in the guide on **pp. 147** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 207** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 207**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -141,6 +143,7 @@ Referenced in the guide on **pp. 207** — those passages are not reproduced her
 
 - Its conditional forecast: if Reeder can get Western Kentucky back over 30 PPG, consistent defensive play would leave the Hilltoppers poised for their first conference title since 2016. *(p. 206)*
 - **Is the defense at risk of regressing?** The guide identifies Jaylen Lewis and Dave Herrard as really the only two returning contributors, leaving coordinator Davis Merritt a great deal of scouting work. Its silver lining is a rotation effect: only three players had 70-plus tackles because Western Kentucky rotated heavily to stay fresh, so last season's backups stepping up are already familiar with the scheme — and Merritt has been on staff for three years, so the system is ingrained among returnees. The numbers cut both ways: only 19 sacks, yet just 22.6 PPG allowed, the fewest since 2019, when the Hilltoppers gave up 20.1 PPG and 3.7 yards per carry. Its stated conclusion is pessimism, resting on the run defense needing fixing, the low sack totals, and complete turnover in the front seven. *(p. 207)*
+
 
 Referenced in the guide on **pp. 37, 83** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -226,6 +229,7 @@ Also referenced on **pp. 187** — not reproduced here.
 
 - It characterises the programme by its floor rather than its ceiling: Tyson Helton has won at least eight games in six of seven seasons, nine games four times in that span, and has missed a bowl only once — which it says can probably be blamed on COVID. *(p. 206)*
 
+
 Referenced in the guide on **pp. 77, 83** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -273,8 +277,8 @@ As printed on p. 207. Each category carries a value and a national rank.
 
 - Makinen projects **7.7 wins** against a posted total of 6.5 — **+1.2** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- The guide sets up the succession: last season quarterback Maverick McIvor and coordinator Rick Bowie arrived together from Abilene Christian, and while McIvor completed 67% of his passes he had only a 12/7 touchdown-to-interception ratio and was not much of a runner — though Western Kentucky did rise nearly 4.5 PPG year over year. Bowie was one-and-done, so Reeder has the offense and Tisdale, who took over from McIvor, is in the spotlight. His numbers were just under 66% completions with a 9/7 ratio and 2.1 yards per carry. Its judgement is contextual: not great, but he was a true freshman, and although he must learn a new playbook he is the most dynamic option on the roster. Florida State transfer Brock Glenn has a chance at a fresh start if Tisdale falters or is hurt. *(p. 207)*
-- Beyond the questions about Tisdale and Reeder, the guide notes KD Hutchinson is the only returnee of consequence at the skill positions. Tulsa transfer Ajay Allen will likely lead a by-committee backfield that had decent returns last season; Georgia Tech transfer Zion Taylor is probably the most notable receiver added, with Jyzaiah Rockwell arriving after a 1,100-yard season in the FCS ranks. It singles out the offensive line as a genuine upgrade — a hodgepodge of transfers, but with a lot more experience and size than last season's group, including an Alabama transfer. Its conditional conclusion is that if Tisdale can distribute the ball without turning it over and prove more of a running threat, this unit will be cooking with gas quickly. *(p. 207)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -282,7 +286,8 @@ As printed on p. 207. Each category carries a value and a national rank.
 
 - It characterises the programme by its floor rather than its ceiling: Tyson Helton has won at least eight games in six of seven seasons, nine games four times in that span, and has missed a bowl only once — which it says can probably be blamed on COVID. *(p. 206)*
 - The difficulty it names is the start: Western Kentucky may well go 0-3, opening a long way from home at Nevada before being pummelled by Indiana and Georgia. *(p. 206)*
-- Beyond the questions about Tisdale and Reeder, the guide notes KD Hutchinson is the only returnee of consequence at the skill positions. Tulsa transfer Ajay Allen will likely lead a by-committee backfield that had decent returns last season; Georgia Tech transfer Zion Taylor is probably the most notable receiver added, with Jyzaiah Rockwell arriving after a 1,100-yard season in the FCS ranks. It singles out the offensive line as a genuine upgrade — a hodgepodge of transfers, but with a lot more experience and size than last season's group, including an Alabama transfer. Its conditional conclusion is that if Tisdale can distribute the ball without turning it over and prove more of a running threat, this unit will be cooking with gas quickly. *(p. 207)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

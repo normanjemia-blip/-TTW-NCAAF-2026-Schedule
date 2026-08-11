@@ -122,6 +122,7 @@ The Stability Score table prints the same figure independently: **7 returning st
 - **More run or more shoot?** New coordinator Jordan Davis brings a scheme change, having worked under Eric Morris at North Texas — an offense that led the nation in scoring at over 45 points and in yards at just over 512 per game while ranking third in yards per play. The guide corrects a likely assumption with data: a Morris offense is not merely a chuck-it attack, since Drew Mestemaker threw 463 times for nearly 4,400 yards while Caleb Hawkins carried 231 times for 1,434 yards on 517 team rushing attempts. Davis brought backup back Ashton Gray and receiver Landon Sides, so some players know the scheme, and with East Carolina's run game having fallen from 4.8 to 4.1 yards per carry it sees a good chance of recovery. *(p. 55)*
 - **Who will run the show?** The guide calls this the biggest personnel question. Miami transfer Emory Williams and four-time transfer Mitch Griffis, at Texas Tech last season, are the main options: Williams bigger and more athletic, Griffis closer to Mestemaker's skill set though lacking his size. It notes Katin Houser, another Harrell portal find, was very solid last season and credits Harrell with a finger on the pulse of free agency. It expects good numbers either way, while flagging that a possibly shaky offensive line early may favour Williams. *(p. 55)*
 
+
 Referenced in the guide on **pp. 20, 151, 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -132,11 +133,13 @@ Not addressed in guide.
 
 - **More run or more shoot?** New coordinator Jordan Davis brings a scheme change, having worked under Eric Morris at North Texas — an offense that led the nation in scoring at over 45 points and in yards at just over 512 per game while ranking third in yards per play. The guide corrects a likely assumption with data: a Morris offense is not merely a chuck-it attack, since Drew Mestemaker threw 463 times for nearly 4,400 yards while Caleb Hawkins carried 231 times for 1,434 yards on 517 team rushing attempts. Davis brought backup back Ashton Gray and receiver Landon Sides, so some players know the scheme, and with East Carolina's run game having fallen from 4.8 to 4.1 yards per carry it sees a good chance of recovery. *(p. 55)*
 
+
 Referenced in the guide on **pp. 20, 305** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Can Harrell work his magic again?** With only two returning starters, Harrell and coordinator Josh Aldridge produced 20.1 points and just over 5.1 yards per play allowed, improving against the run, generating more sacks and forcing 24 takeaways for a +10 turnover margin. The guide then supplies an important caveat of its own: East Carolina allowed just 390 yards combined in wins over Campbell and Coastal Carolina, and 71 rushing yards on 53 carries, so the conference numbers were not as strong as the full-season figures suggest. It balances that by noting the Pirates still outgained American opponents by 0.65 yards per play as the offense strengthened through the season — and that Harrell is starting from scratch again with a new coordinator. *(p. 55)*
+
 
 Referenced in the guide on **pp. 67, 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -222,6 +225,7 @@ Prices printed on the team page *(p. 55)*:
 - The guide frames Group of Six success as bittersweet. Blake Harrell is 14-5, having won five of the final six in 2024 and gone 9-4 last season. *(p. 54)*
 - He owns bowl upsets over two ACC programmes including in-state rival NC State, who got revenge in last year's opener but only in a competitive 24-17 game. *(p. 54)*
 
+
 Referenced in the guide on **pp. 68, 151, 305** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -270,17 +274,16 @@ As printed on p. 55. Each category carries a value and a national rank.
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 7.5**.
 - The guide frames Group of Six success as bittersweet. Blake Harrell is 14-5, having won five of the final six in 2024 and gone 9-4 last season. *(p. 54)*
-- Repeating would be thoroughly impressive with virtually none of last season's major contributors back, and Harrell also works with two new coordinators after his previous ones left for Ole Miss and South Florida. *(p. 54)*
-- New coordinator Jordan Davis brings a scheme change, having worked under Eric Morris at North Texas — an offense that led the nation in scoring at over 45 points and in yards at just over 512 per game while ranking third in yards per play. The guide corrects a likely assumption with data: a Morris offense is not merely a chuck-it attack, since Drew Mestemaker threw 463 times for nearly 4,400 yards while Caleb Hawkins carried 231 times for 1,434 yards on 517 team rushing attempts. Davis brought backup back Ashton Gray and receiver Landon Sides, so some players know the scheme, and with East Carolina's run game having fallen from 4.8 to 4.1 yards per carry it sees a good chance of recovery. *(p. 55)*
-- The guide calls this the biggest personnel question. Miami transfer Emory Williams and four-time transfer Mitch Griffis, at Texas Tech last season, are the main options: Williams bigger and more athletic, Griffis closer to Mestemaker's skill set though lacking his size. It notes Katin Houser, another Harrell portal find, was very solid last season and credits Harrell with a finger on the pulse of free agency. It expects good numbers either way, while flagging that a possibly shaky offensive line early may favour Williams. *(p. 55)*
-- With only two returning starters, Harrell and coordinator Josh Aldridge produced 20.1 points and just over 5.1 yards per play allowed, improving against the run, generating more sacks and forcing 24 takeaways for a +10 turnover margin. The guide then supplies an important caveat of its own: East Carolina allowed just 390 yards combined in wins over Campbell and Coastal Carolina, and 71 rushing yards on 53 carries, so the conference numbers were not as strong as the full-season figures suggest. It balances that by noting the Pirates still outgained American opponents by 0.65 yards per play as the offense strengthened through the season — and that Harrell is starting from scratch again with a new coordinator. *(p. 55)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Repeating would be thoroughly impressive with virtually none of last season's major contributors back, and Harrell also works with two new coordinators after his previous ones left for Ole Miss and South Florida. *(p. 54)*
-- The guide calls this the biggest personnel question. Miami transfer Emory Williams and four-time transfer Mitch Griffis, at Texas Tech last season, are the main options: Williams bigger and more athletic, Griffis closer to Mestemaker's skill set though lacking his size. It notes Katin Houser, another Harrell portal find, was very solid last season and credits Harrell with a finger on the pulse of free agency. It expects good numbers either way, while flagging that a possibly shaky offensive line early may favour Williams. *(p. 55)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 54; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

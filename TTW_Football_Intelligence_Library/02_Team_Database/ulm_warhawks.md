@@ -119,12 +119,14 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 - **Why will the offense be different in 2026?** The guide highlights an outside-the-box coordinator hire: Iowa Central Community College head coach Jesse Montalto, whose offense ranked fifth in the NJCAA at 38.6 PPG and fourth at 445.8 yards per game. It identifies the quarterback run as central to that scheme — ICCC's Damarcus Creecy led the team with 723 rushing yards at 5.5 per carry. Measured against that, incumbent Aidan Armenta posted a 12/8 touchdown-to-interception ratio but only 57 net yards on 60 carries, while backup Landon Graves, still with the programme, had 40 pass attempts and 14 rushes. Its expectation is that dual-threat former Houston quarterback Austin Carlisle will play a lot, and it supplies the backstory — ULM originally offered Carlisle as a three-star freshman in Vincent's first year at the school, so his arrival now is treated as purposeful. *(p. 337)*
 
+
 Referenced in the guide on **pp. 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 337** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 337**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -261,8 +263,9 @@ As printed on p. 337. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The guide's position is that this defense has been bad for a long time: no season above 25 sacks in about a decade, and the last two years the only ones in recent memory allowing under six yards per play, with 2024 the first in quite some time under 30 PPG allowed. It notes the unit held up better than the turnover swing implied — the team went from -1 to -10 in turnover margin yet the defense worsened by only 3.1 PPG. Entering Year 3, coordinator Earnest Hill has his top two tacklers back plus a handful of others who played a good amount and some JUCO transfers. Its framing is mutual dependence: a faster offense will need the defense to help it stay off the field, and the new-look offense could use more than the nine takeaways the defense managed. *(p. 337)*
-- The guide answers “maybe” and lays out the pattern across three seasons: 3-1 last year then lost every game; 5-1 in 2024 then lost every game; 2-0 in 2023, including an outright upset of Army, then 10 straight losses. It offers possible causes without committing — something about visiting Monroe early in the season while it is still hot and humid, depth as a definite factor, or a staff that does not adjust well once opponents have them on film. Its summary is that the team plays its best football in September and early October before falling away completely. *(p. 337)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 336; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -271,10 +274,8 @@ As printed on p. 337. Each category carries a value and a national rank.
 - Makinen projects **3.0 wins** against a posted total of 3.5 — **-0.5** against this team.
 - The team page recommends **UNDER 3.5**.
 - The Warhawks then won no further games and missed what would have been their first bowl since 2012. *(p. 336)*
-- In fairness, it notes, the losses include Texas, Alabama and Northwestern, and ULM was an underdog in all but one of the other games it lost. *(p. 336)*
-- The guide turns that fairness into the diagnosis: the fact that they were underdogs in nearly every loss is itself the state of the programme. Even in the lacklustre Sun Belt West, expectations are low — favoured only five times in 24 games in the Vincent era, following just 10 wins across the four seasons before he arrived. *(p. 336)*
-- It expects the offense to create more explosive plays and present a different look to conference opponents, but warns that if it does not click the defense will be under heavy fire — a huge worry. Its projections call for exactly 3.00 wins and make ULM an underdog in every game. *(p. 336)*
-- The guide answers “maybe” and lays out the pattern across three seasons: 3-1 last year then lost every game; 5-1 in 2024 then lost every game; 2-0 in 2023, including an outright upset of Army, then 10 straight losses. It offers possible causes without committing — something about visiting Monroe early in the season while it is still hot and humid, depth as a definite factor, or a staff that does not adjust well once opponents have them on film. Its summary is that the team plays its best football in September and early October before falling away completely. *(p. 337)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

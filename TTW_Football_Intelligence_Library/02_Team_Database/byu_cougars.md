@@ -119,12 +119,14 @@ The Stability Score table prints the same figure independently: **13 returning s
 - **Can the wide receiver group overcome the loss of Parker Kingston?** Kingston had 97 catches for 928 yards and five touchdowns and BYU hoped to keep the shifty slot man, but he was expelled from school over off-field conduct. That leaves heavy reliance on an unproven group, and the guide draws out the compounding problem: Bachmeier must develop as a passer while working without receivers he is comfortable with. It flags Oregon transfer Kyle Kasper as one to watch, a 6-foot-6 contested-catch target who moves well for his size. *(p. 123)*
 - **Will new DC Kelly Poppinga hit the ground running?** BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
 
+
 Referenced in the guide on **pp. 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 45, 123** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 45, 123**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -132,12 +134,14 @@ Referenced in the guide on **pp. 45, 123** — those passages are not reproduced
 - **How much better will Bear Bachmeier be as a passer?** Bachmeier was not meant to start as a freshman but seized the job, throwing for 3,033 yards with 15 touchdowns and seven interceptions while running for 527 yards and 11 touchdowns. The guide's diagnosis is that he was far more comfortable running than passing, and that becoming a more cerebral pocket passer with better accuracy is the next stage. It uses the grades to make the point precisely: an overall PFF grade of 78.9 put him in the top 50, but his 77.0 rushing grade was what raised the profile. If the passing grade surpasses the rushing grade, BYU has something special. *(p. 123)*
 - **Can the wide receiver group overcome the loss of Parker Kingston?** Kingston had 97 catches for 928 yards and five touchdowns and BYU hoped to keep the shifty slot man, but he was expelled from school over off-field conduct. That leaves heavy reliance on an unproven group, and the guide draws out the compounding problem: Bachmeier must develop as a passer while working without receivers he is comfortable with. It flags Oregon transfer Kyle Kasper as one to watch, a 6-foot-6 contested-catch target who moves well for his size. *(p. 123)*
 
+
 Referenced in the guide on **pp. 75, 159** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
 - **Will new DC Kelly Poppinga hit the ground running?** BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
+
 
 Referenced in the guide on **pp. 7, 159, 279** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -180,8 +184,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 123** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 123**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -211,6 +216,15 @@ Prices printed on the team page *(p. 123)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Paul Stone | BYU +3 VS. UTAH (GAME OF THE YEAR - NOV. 7) | 7 |
+| Zachary Cohen | BYU TO MAKE COLLEGE FOOTBALL PLAYOFF (+330) | 9 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - Recommendation is Over 8.5 wins. The guide allows that things can be nitpicked but says the squad clearly has the goods. *(p. 122)*
 - Nine wins will be tough on a difficult schedule, though BYU hosts Notre Dame at LaVell Edwards Stadium. The guide makes a market observation: that may be the only game all season in which the Cougars receive points, with a possible exception at Utah on 7 November. Either way it expects nine wins. *(p. 122)*
 
@@ -219,6 +233,7 @@ Also referenced on **pp. 115** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - Kalani Sitake has won double-digit games in four of the last six seasons, and last year's team had a real case for the playoff field. *(p. 122)*
+
 
 Referenced in the guide on **pp. 9, 70, 159, 278** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -268,15 +283,16 @@ As printed on p. 123. Each category carries a value and a national rank.
 - Makinen projects **9.0 wins** against a posted total of 8.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 8.5**.
 - His success drew Penn State, which the guide says was desperate for him; BYU's boosters brought him back with what it describes as a bottomless pit of money. *(p. 122)*
-- The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
-- BYU has allowed 19.6 points per game or fewer in back-to-back seasons, giving up only 19.1 last year, and returns eight players who started games including Cal transfer Cade Uluave. The change is at the top, with Jay Hill leaving to join Kyle Whittingham at Michigan. The guide's conclusion is deliberately unresolved: things should be fine given the playmakers scattered through the defense, but you never quite know. *(p. 123)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The target now is a first-ever playoff appearance, made difficult by a Big 12 loaded with talented teams — offset by BYU returning nearly every impactful player from a 12-win team. *(p. 122)*
-- Nine wins will be tough on a difficult schedule, though BYU hosts Notre Dame at LaVell Edwards Stadium. The guide makes a market observation: that may be the only game all season in which the Cougars receive points, with a possible exception at Utah on 7 November. Either way it expects nine wins. *(p. 122)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 122; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

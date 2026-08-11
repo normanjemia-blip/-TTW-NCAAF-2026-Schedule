@@ -127,8 +127,9 @@ The Stability Score table prints the same figure independently: **5 returning st
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 318, 319** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 318, 319**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -136,6 +137,7 @@ Referenced in the guide on **pp. 318, 319** — those passages are not reproduce
 - A structural edge the guide thinks should be exploited: App State plays at the highest elevation east of the Mississippi River in FBS, and using it makes a great deal of sense if Loggains and the new-look offense can play fast enough to. *(p. 318)*
 - **Who will lead the team up the mountain?** The guide reads last season's usage as a verdict on the room: AJ Swann and JJ Kohl attempted nearly the same number of passes and three other quarterbacks took reps, which it calls fair evidence Loggains was not enamoured with any of them. All are now elsewhere, so the position was rebuilt through the portal around Malachi Singleton from Purdue, Henry Hasselbeck from UCLA and Tommy Ulatowski from Kent State. It confirms Hasselbeck is Matt's son and that Loggains coached with Matt at the Titans in the early 2010s. The analytical case is mobility: Hasselbeck and Singleton are more mobile than last year's options and should add explosiveness to an offense that managed only 5.4 yards per play and 24.2 PPG. It adds the historical benchmark that App State had gained at least six yards per play in essentially every season since joining the Sun Belt before last year's poor showing. *(p. 319)*
 - **Do all the pieces fit on offense?** Alongside a new scheme and new quarterback room, the guide notes a wave of new faces at receiver and running back. It restates that this was one of the worst App State offenses in a long time, and sets against that Loggains having coached offense in some capacity his whole career. Named potential explosive-play sources are Ja'Quez Cross from Arkansas State and Chris Lofton from Gardner-Webb; the rest of the group is described as highly touted recruits looking for a fresh start, JUCO transfers and Year 1 holdovers. Its conditional conclusion: if the offense does run with tempo, the improved depth at the skill positions is promising. *(p. 319)*
+
 
 Referenced in the guide on **pp. 11** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -186,8 +188,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 318** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 318**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -228,6 +231,7 @@ Also referenced on **pp. 11** — not reproduced here.
 
 - The guide's starting judgement is that back-to-back five-win seasons are unacceptable for a programme that has won 10 or more games four times in the past decade. *(p. 318)*
 - It treats last season's bowl trip as an embarrassment rather than an achievement: App State fell short of the six regular-season wins normally required, got in on other teams' opt-outs, then was waxed by division rival Georgia Southern in a Birmingham Bowl it neither expected nor really wanted to play. *(p. 318)*
+
 
 Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -276,16 +280,16 @@ As printed on p. 319. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 6.5**.
 - The optimistic case for Year 2 under Dowell Loggains rests on recruiting: per 247Sports, App State signed the second-ranked transfer portal class — including several new quarterback options — plus the top freshman class in the conference. *(p. 318)*
-- On talent it draws a contrast with the previous staff — Shawn Clark had some good seasons but was not bringing in much athleticism — and rates this roster considerably stronger. Its projection is 5.67 wins, with a stated belief the team can overachieve after two down seasons. *(p. 318)*
-- Alongside a new scheme and new quarterback room, the guide notes a wave of new faces at receiver and running back. It restates that this was one of the worst App State offenses in a long time, and sets against that Loggains having coached offense in some capacity his whole career. Named potential explosive-play sources are Ja'Quez Cross from Arkansas State and Chris Lofton from Gardner-Webb; the rest of the group is described as highly touted recruits looking for a fresh start, JUCO transfers and Year 1 holdovers. Its conditional conclusion: if the offense does run with tempo, the improved depth at the skill positions is promising. *(p. 319)*
-- The guide calls this the most important question for App State, stating outright that it believes the offense will be better and that a more dual-threat quarterback may be a game-changer. The defense improved year over year by 0.7 yards per play and 3.1 PPG, yet it grades the unit a major disappointment in conference play — 33 PPG and 450 yards allowed per game, outgained by 1.1 yards per carry, and a 2-7 Sun Belt record. On the coordinator it is positive: DJ Smith did good work at Missouri under Eli Drinkwitz, whom it notes coached the Mountaineers to 12-1 in 2019 before leaving ahead of the bowl game. With leading tackler Colton Phares back and a large transfer intake, it labels this simultaneously the most important and most unknown unit on the team. *(p. 319)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **5.4 wins** against a posted total of 5.5 — **-0.1** against this team.
-- The guide calls this the most important question for App State, stating outright that it believes the offense will be better and that a more dual-threat quarterback may be a game-changer. The defense improved year over year by 0.7 yards per play and 3.1 PPG, yet it grades the unit a major disappointment in conference play — 33 PPG and 450 yards allowed per game, outgained by 1.1 yards per carry, and a 2-7 Sun Belt record. On the coordinator it is positive: DJ Smith did good work at Missouri under Eli Drinkwitz, whom it notes coached the Mountaineers to 12-1 in 2019 before leaving ahead of the bowl game. With leading tackler Colton Phares back and a large transfer intake, it labels this simultaneously the most important and most unknown unit on the team. *(p. 319)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

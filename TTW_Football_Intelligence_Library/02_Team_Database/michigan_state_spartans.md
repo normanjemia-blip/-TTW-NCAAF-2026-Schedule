@@ -124,23 +124,27 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **Who is there for Milivojevic at wide receiver?** All three top receivers are gone, including Nick Marsh to Indiana. Chrishon McCray (24 catches, 320 yards, two touchdowns) leads the returners but at 5-foot-10 lacks the size of a typical No. 1. KK Smith from Notre Dame and Fred Moore from Michigan were never featured at their previous stops, which the guide frames as a possible fresh start, and redshirt freshman Braylon Collier is floated as a future standout. Its conclusion is that the run game, led by UConn transfer Cam Edwards (1,240 yards in 2025), will have to carry more. *(p. 161)*
 - **Can they get better at the line of scrimmage?** Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
 
+
 Referenced in the guide on **pp. 20, 151, 153, 166, 181, 238** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 161, 227** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 161, 227**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Who is there for Milivojevic at wide receiver?** All three top receivers are gone, including Nick Marsh to Indiana. Chrishon McCray (24 catches, 320 yards, two touchdowns) leads the returners but at 5-foot-10 lacks the size of a typical No. 1. KK Smith from Notre Dame and Fred Moore from Michigan were never featured at their previous stops, which the guide frames as a possible fresh start, and redshirt freshman Braylon Collier is floated as a future standout. Its conclusion is that the run game, led by UConn transfer Cam Edwards (1,240 yards in 2025), will have to carry more. *(p. 161)*
 - **Can they get better at the line of scrimmage?** Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
 
+
 Referenced in the guide on **pp. 153, 238** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Can they get better at the line of scrimmage?** Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
+
 
 Referenced in the guide on **pp. 181, 238** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -217,6 +221,7 @@ Also referenced on **pp. 12** — not reproduced here.
 - Jonathan Smith arrived as the man to restore the Mark Dantonio era and was gone two years later at 9-15 — officially 4-15 after five 2024 wins were vacated over violations under Mel Tucker. *(p. 160)*
 - The guide states the circumstances plainly: Fitzgerald was terminated at his alma mater three years ago after significant hazing allegations were reported, sued for wrongful termination, and settled last August, clearing his return to coaching. *(p. 160)*
 
+
 Referenced in the guide on **pp. 151, 238, 272, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -265,7 +270,8 @@ As printed on p. 161. Each category carries a value and a national rank.
 - The team page recommends **OVER 3.5**.
 - The guide states the circumstances plainly: Fitzgerald was terminated at his alma mater three years ago after significant hazing allegations were reported, sued for wrongful termination, and settled last August, clearing his return to coaching. *(p. 160)*
 - Its edge is that the market may be underestimating Fitzgerald as a proven programme builder, and it credits a staff blending holdovers for continuity with younger hires — former Spartan linebacker Max Bullough, offensive line coach Nick Tabacca and safeties coach James Adams. *(p. 160)*
-- Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns just one defensive line starter. Fitzgerald turns to NC State transfer Kenny Soares, who played for him at Northwestern, to spark the rush. On offense five transfers arrive with 72 career starts, including Trent Fraley, the FCS Rimington Award winner at North Dakota State. With 72 sacks allowed over two years, the guide stresses this portal group must gel quickly. *(p. 161)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -273,7 +279,8 @@ As printed on p. 161. Each category carries a value and a national rank.
 
 - Makinen projects **4.0 wins** against a posted total of 4.5 — **-0.5** against this team.
 - Recommendation is Over 3.5 wins, and the guide says laying around -150 is worth it. It acknowledges roster questions across the board while arguing Michigan State should feel better about quarterback than in several seasons. *(p. 160)*
-- Since Payton Thorne and Kenneth Walker delivered 11-2 in 2021 it has been a revolving door, with neither Katin Houser, Noah Kim nor Aidan Chiles succeeding. Alessio Milivojevic took over for the final four games, going 1-3, though two losses came by three points; the guide notes wryly that he had a run of backdoor covers against Nebraska, Indiana and Michigan, and that the backup is always the fans' favourite when the starter struggles. Cam Fancher, with 28 starts across Marshall, Florida Atlantic and UCF, will push him, but the guide expects the incumbent — 986 yards in four starts — to hold the job for Fitzgerald and new coordinator Nick Sheridan, in from the same role at Alabama. *(p. 161)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

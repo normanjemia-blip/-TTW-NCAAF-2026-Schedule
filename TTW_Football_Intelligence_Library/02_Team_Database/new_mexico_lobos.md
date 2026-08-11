@@ -115,17 +115,20 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 - **Is the quarterback position actually settled?** Layne returns after leading New Mexico to nine wins and a bowl, but the guide argues he may not be a lock. He missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and was not dominant: 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt, which it characterizes as good rather than great. Behind him is Oregon transfer Luke Moga, a former three-star who reportedly made the most of Layne's absence and dazzled the media in Albuquerque, a strong athlete with enough upside for Oregon to have recruited him. Its conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. *(p. 251)*
 
+
 Referenced in the guide on **pp. 15** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 251** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 251**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 159, 251** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 159, 251**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
@@ -206,6 +209,7 @@ Prices printed on the team page *(p. 251)*:
 | Contributor | Pick | Page |
 | --- | --- | --- |
 | Ben Stevens | NEW MEXICO TO WIN THE MOUNTAIN WEST (+265) | 9 |
+| Stormy Buonantony | NEW MEXICO TO MAKE COLLEGE FOOTBALL PLAYOFF (20-1) | 14 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -223,6 +227,7 @@ Also referenced on **pp. 6, 9, 14, 24, 243, 247** — not reproduced here.
 - Jason Eck's Lobos took the Mountain West by storm at 9-4 with six conference wins, and New Mexico is now the favorite with one of the country's most experienced rosters. *(p. 250)*
 - Its core evidence is that New Mexico did not fare well as a favorite last season and will now be favored in most conference games. It allows improvement could change that, while noting roster continuity means the same flaws persist. *(p. 250)*
 - **How does the team fare with expectations?** The guide supplies the decisive split: New Mexico closed as an underdog in seven games, but in the six where it was favored it went 3-3 straight up and just 1-5 against the spread. This season it is either outright Mountain West favorite or tied with UNLV, and the market will make it a favorite in most contests. Its closing thought is a general principle applied to this team — being the underdog makes a nice story, but meeting market expectations as the hunted is a different task. *(p. 251)*
+
 
 Referenced in the guide on **pp. 6, 9, 24, 159, 278** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -273,9 +278,8 @@ As printed on p. 251. Each category carries a value and a national rank.
 - Jason Eck's Lobos took the Mountain West by storm at 9-4 with six conference wins, and New Mexico is now the favorite with one of the country's most experienced rosters. *(p. 250)*
 - Twelve starters return including quarterback Jack Layne and reigning Defensive Player of the Year Jaxton Eck. *(p. 250)*
 - Its core evidence is that New Mexico did not fare well as a favorite last season and will now be favored in most conference games. It allows improvement could change that, while noting roster continuity means the same flaws persist. *(p. 250)*
-- It frames the conclusion as a coin-flip question — whether New Mexico can keep winning those spots — and answers that it seems unlikely, calling this a good team whose damage last season came as an underdog and which now looks overvalued as a favorite. *(p. 250)*
-- Layne returns after leading New Mexico to nine wins and a bowl, but the guide argues he may not be a lock. He missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and was not dominant: 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt, which it characterizes as good rather than great. Behind him is Oregon transfer Luke Moga, a former three-star who reportedly made the most of Layne's absence and dazzled the media in Albuquerque, a strong athlete with enough upside for Oregon to have recruited him. Its conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. *(p. 251)*
-- Six starters return, and the guide asks whether returning production is as much a strength here as on offense. It uses percentile detail to show a split unit: New Mexico was strong at limiting big plays in the 67th percentile for explosive play rate allowed, but sat in the 19th percentile in non-explosive EPA per play and the 36th in late-down success rate. Linebacker is the strength with the Defensive Player of the Year back, but the defensive line lost considerable production. It expects opponents may exceed the 3.4 yards per carry allowed in 2025, and tells bettors to anticipate a dip from 36 sacks. *(p. 251)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -284,9 +288,8 @@ As printed on p. 251. Each category carries a value and a national rank.
 - The team page recommends **UNDER 8.5**.
 - The guide then poses its central question: there is a big difference between being the upstart underdog and the hunted favorite, and it asks how New Mexico handles that role change. *(p. 250)*
 - Recommendation is Under 8.5 wins, with the guide openly noting the juice on Over 7.5 and Under 8.5 makes this a tough play, while judging the Under likelier. *(p. 250)*
-- It frames the conclusion as a coin-flip question — whether New Mexico can keep winning those spots — and answers that it seems unlikely, calling this a good team whose damage last season came as an underdog and which now looks overvalued as a favorite. *(p. 250)*
-- Layne returns after leading New Mexico to nine wins and a bowl, but the guide argues he may not be a lock. He missed spring camp recovering from surgery on a torn flexor tendon in his throwing elbow, and was not dominant: 2,486 yards with 13 touchdowns to 10 interceptions at 7.6 yards per attempt, which it characterizes as good rather than great. Behind him is Oregon transfer Luke Moga, a former three-star who reportedly made the most of Layne's absence and dazzled the media in Albuquerque, a strong athlete with enough upside for Oregon to have recruited him. Its conclusion is conditional: if Layne is not healthy or struggles early, this could be Moga's job before season's end. *(p. 251)*
-- Six starters return, and the guide asks whether returning production is as much a strength here as on offense. It uses percentile detail to show a split unit: New Mexico was strong at limiting big plays in the 67th percentile for explosive play rate allowed, but sat in the 19th percentile in non-explosive EPA per play and the 36th in late-down success rate. Linebacker is the strength with the Defensive Player of the Year back, but the defensive line lost considerable production. It expects opponents may exceed the 3.4 yards per carry allowed in 2025, and tells bettors to anticipate a dip from 36 sacks. *(p. 251)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

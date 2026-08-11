@@ -118,17 +118,20 @@ The Stability Score table prints the same figure independently: **19 returning s
 - **Is Houston getting the Tulane version of Makhi Hughes?** Hughes ran for 1,401 yards and 15 touchdowns with 19 catches for 176 yards and two scores in 2024, and was among the best backs in the sport as a freshman and sophomore. Expectations were high when he transferred to Oregon, but he was a non-factor and redshirted after four games. Reunited with Fritz, he heads a loaded backfield. The guide's case is that he has thrived in this system before and will run behind a much improved line, expecting him to return to stardom as the head of the snake. *(p. 129)*
 - **Does this defense have the potential to be a top-15 unit in the country?** Houston tied for 41st nationally in Adjusted EPA per play allowed at -0.05. Nine players who started games return, with transfers Ashton Porter, De'Marion Thomas and Jordan Allen adding dynamism. The guide's conditions are specific: a slight rise in pass-rush production plus steadier secondary play. Houston allowed 22.8 points per game and the goal is shaving roughly a field goal, which it judges within reach given coordinator Austin Armstrong has the talent, size and depth. *(p. 129)*
 
+
 Referenced in the guide on **pp. 11** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Can Fritz afford to keep QB Keisean Henderson on the bench all season?** Conner Weigman was solid, throwing for 2,705 yards with 25 touchdowns and nine interceptions plus 700 rushing yards and 11 scores, but the guide qualifies that: he was a little inefficient as a passer with a 63.5 PFF throwing grade and struggled badly in some of Houston's biggest games. That makes Henderson's presence interesting — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. The guide's reasoning is that elite quarterback play could make Houston a legitimate national title contender, which will make playing him tempting. *(p. 129)*
 
+
 Referenced in the guide on **pp. 19, 22** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Is Houston getting the Tulane version of Makhi Hughes?** Hughes ran for 1,401 yards and 15 touchdowns with 19 catches for 176 yards and two scores in 2024, and was among the best backs in the sport as a freshman and sophomore. Expectations were high when he transferred to Oregon, but he was a non-factor and redshirted after four games. Reunited with Fritz, he heads a loaded backfield. The guide's case is that he has thrived in this system before and will run behind a much improved line, expecting him to return to stardom as the head of the snake. *(p. 129)*
+
 
 Referenced in the guide on **pp. 11, 19, 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -199,7 +202,7 @@ Prices printed on the team page *(p. 129)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| Adam Burke | HOUSTON OVER 8.5 WINS (+130) | 11 |
+| Dustin Swedelson | HOUSTON OVER 8.5 WINS (+130) | 11 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -210,6 +213,7 @@ Where contributors disagree, every position is kept separately and none is recon
 ## 22. Historical / Situational Trends
 
 - He needed two years to make Houston a ten-win team: nine regular-season wins plus a Texas Bowl victory over LSU. *(p. 128)*
+
 
 Referenced in the guide on **pp. 11, 19** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -258,16 +262,12 @@ As printed on p. 129. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 7.5**.
 - On trajectory it notes Fritz went 4-8 in year one and 10-3 in year two, and calls this year-three roster arguably the most talented he has ever coached — significant given his success at Tulane. Playoff qualification is on the table. *(p. 128)*
-- Conner Weigman was solid, throwing for 2,705 yards with 25 touchdowns and nine interceptions plus 700 rushing yards and 11 scores, but the guide qualifies that: he was a little inefficient as a passer with a 63.5 PFF throwing grade and struggled badly in some of Houston's biggest games. That makes Henderson's presence interesting — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. The guide's reasoning is that elite quarterback play could make Houston a legitimate national title contender, which will make playing him tempting. *(p. 129)*
-- Hughes ran for 1,401 yards and 15 touchdowns with 19 catches for 176 yards and two scores in 2024, and was among the best backs in the sport as a freshman and sophomore. Expectations were high when he transferred to Oregon, but he was a non-factor and redshirted after four games. Reunited with Fritz, he heads a loaded backfield. The guide's case is that he has thrived in this system before and will run behind a much improved line, expecting him to return to stardom as the head of the snake. *(p. 129)*
-- Houston tied for 41st nationally in Adjusted EPA per play allowed at -0.05. Nine players who started games return, with transfers Ashton Porter, De'Marion Thomas and Jordan Allen adding dynamism. The guide's conditions are specific: a slight rise in pass-rush production plus steadier secondary play. Houston allowed 22.8 points per game and the goal is shaving roughly a field goal, which it judges within reach given coordinator Austin Armstrong has the talent, size and depth. *(p. 129)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **8.2 wins** against a posted total of 8.5 — **-0.3** against this team.
-- Conner Weigman was solid, throwing for 2,705 yards with 25 touchdowns and nine interceptions plus 700 rushing yards and 11 scores, but the guide qualifies that: he was a little inefficient as a passer with a 63.5 PFF throwing grade and struggled badly in some of Houston's biggest games. That makes Henderson's presence interesting — a five-star who could have gone anywhere and chose Houston, an 18-year-old with top-tier mobility and a smooth delivery. The guide's reasoning is that elite quarterback play could make Houston a legitimate national title contender, which will make playing him tempting. *(p. 129)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

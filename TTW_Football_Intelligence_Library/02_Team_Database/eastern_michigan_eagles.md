@@ -120,12 +120,14 @@ The Stability Score table prints the same figure independently: **12 returning s
 - It sets the whole case against the era: other programmes appear to be evolving more, and portal success seems paramount now. A bowl is possible, but the ceiling is probably six wins with several lower outcomes more plausible. Projection is 5.39 wins. *(p. 226)*
 - **Is this a case study in returning production in the transfer portal era?** The guide assembles the continuity evidence from two sources: per Bill Connelly, Eastern Michigan ranks 24th in percentage of returning production even after losing 1,000-yard rusher Dontae McMillan; per Phil Steele, the Eagles are No. 1 in the MAC and No. 7 nationally in his experience chart. Returning are the three leading tacklers, the starting quarterback and the top receiver — a rarity in the current landscape. It then interrogates the value of that continuity honestly, saying it is unsure how much it matters at Power Four level while suggesting it might matter more in the Group of Six, where talent is thinner and more transfers arrive from JUCOs and lower divisions. Its complication is that the defense has more returning production than the offense, and that defense allowed 6.2 yards per play while generating only 14 sacks. *(p. 227)*
 
+
 Referenced in the guide on **pp. 151** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 226, 227** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 226, 227**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -214,6 +216,7 @@ Also referenced on **pp. 222, 230** — not reproduced here.
 - It marks the rarity of his tenure — in a world where coaches change teams constantly, Creighton is starting a 13th season with the programme. *(p. 226)*
 - The trend against him: records of 5-7 and 4-8 mean consecutive missed bowl seasons for the first time since 2014-15, Creighton's own first two years. *(p. 226)*
 
+
 Referenced in the guide on **pp. 151, 222, 231** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -260,11 +263,8 @@ As printed on p. 227. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
-- It reads that as a deliberate philosophy: Creighton wants to build a programme and watch players develop across multiple seasons — admirable and previously successful, but a hard route nowadays. *(p. 226)*
-- Its schedule reasoning: Eastern Michigan hosts Sacramento State in the Hornets' first MAC game, but must travel to UMass and Akron, two of its more winnable conference games, and with a neutral-site game against Central Michigan it plays only three conference home games. *(p. 226)*
-- It sets the whole case against the era: other programmes appear to be evolving more, and portal success seems paramount now. A bowl is possible, but the ceiling is probably six wins with several lower outcomes more plausible. Projection is 5.39 wins. *(p. 226)*
-- Eastern Michigan again starts Noah Kim, a Class of 2020 Michigan State commit now in his seventh season of college football. His numbers were an 18/11 touchdown-to-interception ratio and a MAC-leading 2,817 passing yards, yet the offense produced only 24.1 PPG despite allowing just 11 sacks. The guide credits Kim with enough mobility to evade pressure and expects production from Braydon Bennett, who averaged over six yards per carry at Coastal Carolina, plus the depth backs. Replacing McMillan matters twice over, since he was also the second-leading receiver. Its overall read is a largely similar offense to last season with a less experienced offensive line, and it leaves one figure deliberately unresolved: Eastern Michigan went from 5.1 to 5.7 yards per play between 2024 and 2025 yet scored 1.8 fewer points per game. *(p. 227)*
-- Bryce Llewellyn returns after a team-leading 102 tackles, along with the second and third-leading tacklers, but the guide's point is that returnees have not translated into impact plays. The defense allowed 6.2 yards per play for a second straight season while conceding nearly two more points per game, improved greatly against the pass yet allowed a full yard more per carry, ranked 131st on third down, managed only nine takeaways and ranked 126th in sacks. The one silver lining it offers is that the unit allowed just 5.6 yards per play in conference games. *(p. 227)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -272,6 +272,8 @@ As printed on p. 227. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 5.5**.
 - The trend against him: records of 5-7 and 4-8 mean consecutive missed bowl seasons for the first time since 2014-15, Creighton's own first two years. *(p. 226)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

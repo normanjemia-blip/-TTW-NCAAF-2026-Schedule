@@ -119,22 +119,26 @@ The Stability Score table prints the same figure independently: **9 returning st
 - Iowa replaces 27 seniors, 16 of them starters — the largest roster turnover of the Ferentz era — and responds with a programme-record 16 transfers, which the guide presents as an acknowledgement that development alone is no longer sufficient. *(p. 154)*
 - **Who starts at quarterback?** Iowa has leaned on the portal for starters in recent seasons, most recently Mark Gronowski and his two FCS titles from North Dakota State. With Gronowski and his 58 career wins gone, coordinator Tim Lester chooses between Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide sets the bar by the problem: the passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. It expects Iowa to lean instead on a talented line and the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). *(p. 155)*
 
+
 Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 191** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 191**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Who starts at quarterback?** Iowa has leaned on the portal for starters in recent seasons, most recently Mark Gronowski and his two FCS titles from North Dakota State. With Gronowski and his 58 career wins gone, coordinator Tim Lester chooses between Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide sets the bar by the problem: the passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. It expects Iowa to lean instead on a talented line and the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). *(p. 155)*
+
 
 Referenced in the guide on **pp. 337** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Can Phil Parker rebuild the Iowa defense again?** The guide's default answer is yes, treating Parker as one of the best coordinators in the game. Iowa ranked top-10 nationally in scoring, passing and total defense with a 17th-ranked run defense. But only three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three interceptions) is the unit's star. The guide acknowledges the inexperience while noting Parker earned the benefit of the doubt long ago. *(p. 155)*
+
 
 Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -227,6 +231,7 @@ Where contributors disagree, every position is kept separately and none is recon
 - The guide frames rising pressure: Indiana's success raises what programmes like Iowa are expected to achieve, and one-score losses to Indiana, Oregon and USC last season invite what-might-have-been. *(p. 154)*
 - The supporting argument is Ferentz's floor: never fewer than eight wins since 2015 apart from the COVID season of 2020 and 2023, when two wins were vacated over tampering with quarterback Cade McNamara before he entered the portal. The guide gives the staff the benefit of the doubt despite an inexperienced quarterback and many new faces on defense and special teams. *(p. 154)*
 
+
 Referenced in the guide on **pp. 13, 19, 166** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -275,20 +280,16 @@ As printed on p. 155. Each category carries a value and a national rank.
 - Makinen projects **8.1 wins** against a posted total of 7.5 — **+0.6** in this team's favour.
 - The team page recommends **OVER 7.5**.
 - A typical Iowa season: 9-4 and a 13th consecutive winning year under Kirk Ferentz, who enters his 28th season as the Big Ten's longest-tenured coach and passed Woody Hayes last season as the conference's all-time winningest coach. *(p. 154)*
-- The guide frames rising pressure: Indiana's success raises what programmes like Iowa are expected to achieve, and one-score losses to Indiana, Oregon and USC last season invite what-might-have-been. *(p. 154)*
-- Iowa has leaned on the portal for starters in recent seasons, most recently Mark Gronowski and his two FCS titles from North Dakota State. With Gronowski and his 58 career wins gone, coordinator Tim Lester chooses between Hank Brown, who started one game for Auburn two years ago, and Jeremy Hecklinski, who has two career passing attempts. The guide sets the bar by the problem: the passing offense has ranked 129th, 130th and 130th nationally in the last three seasons. It expects Iowa to lean instead on a talented line and the tandem of Kamari Moulton (878 yards, five touchdowns) and South Dakota transfer L.J. Phillips (1,920 yards, 19 touchdowns in 2025). *(p. 155)*
-- The guide's default answer is yes, treating Parker as one of the best coordinators in the game. Iowa ranked top-10 nationally in scoring, passing and total defense with a 17th-ranked run defense. But only three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three interceptions) is the unit's star. The guide acknowledges the inexperience while noting Parker earned the benefit of the doubt long ago. *(p. 155)*
-- The guide argues the biggest single loss may be special teams coordinator LeVar Woods, on Ferentz's staff since 2008 and coordinator since 2018, who left for the same role and an assistant head coach title under Pat Fitzgerald at Michigan State. Chris Polizzi is promoted and must sustain an annually elite unit while replacing two-time All-Big Ten return specialist Kaden Wetjen plus both the kicker and punter. *(p. 155)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The guide frames rising pressure: Indiana's success raises what programmes like Iowa are expected to achieve, and one-score losses to Indiana, Oregon and USC last season invite what-might-have-been. *(p. 154)*
-- Recommendation is Over 7.5 wins, but the guide is candid that 7.5 is the correct number given the questions and that there is little true betting edge. *(p. 154)*
-- The supporting argument is Ferentz's floor: never fewer than eight wins since 2015 apart from the COVID season of 2020 and 2023, when two wins were vacated over tampering with quarterback Cade McNamara before he entered the portal. The guide gives the staff the benefit of the doubt despite an inexperienced quarterback and many new faces on defense and special teams. *(p. 154)*
-- The guide's default answer is yes, treating Parker as one of the best coordinators in the game. Iowa ranked top-10 nationally in scoring, passing and total defense with a 17th-ranked run defense. But only three starters return and six of the top eight defensive linemen are gone. Safety Zach Lutmer (71 tackles, three interceptions) is the unit's star. The guide acknowledges the inexperience while noting Parker earned the benefit of the doubt long ago. *(p. 155)*
-- The guide argues the biggest single loss may be special teams coordinator LeVar Woods, on Ferentz's staff since 2008 and coordinator since 2018, who left for the same role and an assistant head coach title under Pat Fitzgerald at Michigan State. Chris Polizzi is promoted and must sustain an annually elite unit while replacing two-time All-Big Ten return specialist Kaden Wetjen plus both the kicker and punter. *(p. 155)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 154; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

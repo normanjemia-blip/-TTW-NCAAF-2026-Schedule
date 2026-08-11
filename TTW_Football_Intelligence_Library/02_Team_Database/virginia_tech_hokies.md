@@ -134,6 +134,7 @@ The Stability Score table prints the same figure independently: **17 returning s
 
 - **Can you quantify continuity?** The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
 
+
 Referenced in the guide on **pp. 127, 196, 197** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 15. Key Strengths
@@ -183,8 +184,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 102** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 102**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -221,7 +223,7 @@ Prices printed on the team page *(p. 111)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| Dave Ross | VIRGINIA TECH OVER 6.5 WINS (-140) & | 5 |
+| Dave Ross | VIRGINIA TECH OVER 6.5 WINS (-140) & ALT OVER 7.5 WINS (+120 | 5 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -235,6 +237,7 @@ Also referenced on **pp. 113** — not reproduced here.
 
 - It makes a joke that carries a real forecast — that the likeliest outcome based on Franklin's Penn State pattern is 9-3 with losses to Clemson, SMU and Miami — then notes that would be a huge year as Virginia Tech tries to return to Frank Beamer, and briefly Justin Fuente, standards. *(p. 110)*
 - **Is Virginia Tech this year's Virginia?** The parallel is that Virginia won 11 games across three seasons then went 11-3 with an ACC title game appearance. The guide calls it entirely possible, with Virginia Tech hitting the portal for passers and raising talent at virtually every position group. It names the key difference precisely: Virginia did not have to play SMU, Clemson or Miami, and Virginia Tech does. It closes by flagging the season-ending Commonwealth Clash as potentially intriguing if Franklin can flip the script from his Penn State habit of losing to Ohio State and Michigan as the conference's class. *(p. 111)*
+
 
 Referenced in the guide on **pp. 100, 113** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -283,16 +286,16 @@ As printed on p. 111. Each category carries a value and a national rank.
 
 - Makinen projects **7.3 wins** against a posted total of 6.5 — **+0.8** in this team's favour.
 - The team page recommends **OVER 6.5**.
-- The guide's framing is that this will not be the ACC's best team but may be its most compelling, with James Franklin getting a fresh start amid a badly needed refresh. *(p. 110)*
-- It makes a joke that carries a real forecast — that the likeliest outcome based on Franklin's Penn State pattern is 9-3 with losses to Clemson, SMU and Miami — then notes that would be a huge year as Virginia Tech tries to return to Frank Beamer, and briefly Justin Fuente, standards. *(p. 110)*
-- The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- It makes a joke that carries a real forecast — that the likeliest outcome based on Franklin's Penn State pattern is 9-3 with losses to Clemson, SMU and Miami — then notes that would be a huge year as Virginia Tech tries to return to Frank Beamer, and briefly Justin Fuente, standards. *(p. 110)*
-- The guide answers its own question honestly — probably not directly — then argues Franklin gained trust from players and respect from the athletic department by keeping Brent Pry as coordinator, a perfect-storm situation given their long association that should ease the leadership transition. The defense avoided a mass exodus, with four of the top six tacklers back plus many who played in some capacity. With Pry able to focus on defense he added Jaquez White from Troy at corner, and several Penn State players followed Franklin. It calls last season's defense uncharacteristically bad at over 30 points allowed and expects improvement. *(p. 111)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 110; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -134,23 +134,27 @@ The Stability Score table prints the same figure independently: **5 returning st
 - **Should we remember the name Cam Aiken?** Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
 - **How big of a step back will the defense take?** The guide lays out four FBS seasons of consistency: 2.5, 2.6, 3.5 and 2.8 yards per carry allowed, with 4.7, 5.0, 4.9 and 4.4 yards per play. It notes the Cignetti-to-Chesney transition and its accompanying staff changes produced no downturn, but argues roster attrition has to bite eventually. It is explicit about the asymmetry in its own view — bullish on the offense, not sure it can be on the defense — while naming Amar Thomas and Gannon Weathersby as two returning starters of consequence. The counterweight it offers is new coordinator Robert Bala, who has worked under Napier, Jedd Fisch (with coordinator Stephen Belichick) and Nick Saban over the past three years, which it treats as a reason for optimism. *(p. 327)*
 
+
 Referenced in the guide on **pp. 20, 173, 178, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 9, 179, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 9, 179, 327**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Is JC Evans the next star at JMU?** The guide frames the decision as deliberate: a programme rich in resources relative to the conference chose not to buy an impact transfer, instead placing faith in Evans, a 6-foot-5 sophomore from the Miami area. He was not a highly sought recruit, but spent two years learning behind Barnett. The support structure is the argument for him — returning running back George Pettaway plus transfer Nick Herman, who averaged over seven yards per carry at Drake, meaning a run-heavy approach could keep early pressure off him, with an offensive line suited to running the ball. It adds a coaching data point: Michigan State was not great last season, but its quarterbacks posted a 20/6 touchdown-to-interception ratio, and pass game coordinator Aaron Pflugrad is the Dukes' new quarterbacks coach. *(p. 327)*
 - **Should we remember the name Cam Aiken?** Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
 
+
 Referenced in the guide on **pp. 178, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **How big of a step back will the defense take?** The guide lays out four FBS seasons of consistency: 2.5, 2.6, 3.5 and 2.8 yards per carry allowed, with 4.7, 5.0, 4.9 and 4.4 yards per play. It notes the Cignetti-to-Chesney transition and its accompanying staff changes produced no downturn, but argues roster attrition has to bite eventually. It is explicit about the asymmetry in its own view — bullish on the offense, not sure it can be on the defense — while naming Amar Thomas and Gannon Weathersby as two returning starters of consequence. The counterweight it offers is new coordinator Robert Bala, who has worked under Napier, Jedd Fisch (with coordinator Stephen Belichick) and Nick Saban over the past three years, which it treats as a reason for optimism. *(p. 327)*
+
 
 Referenced in the guide on **pp. 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -207,8 +211,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 342** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 342**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -246,6 +251,7 @@ Also referenced on **pp. 317** — not reproduced here.
 
 - Jordan McCloud and Alonza Barnett are named as having upheld the programme's standards even through the FCS-to-FBS transition. *(p. 326)*
 - It offers a precedent for the year ahead: the season after Cignetti left for Indiana, the Dukes went 9-4 but only 4-4 in conference play, and asks whether a similar transitional year is in store. *(p. 326)*
+
 
 Referenced in the guide on **pp. 9, 24, 173, 317, 336** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -294,20 +300,19 @@ As printed on p. 327. Each category carries a value and a national rank.
 
 - Makinen projects **9.1 wins** against a posted total of 8.5 — **+0.6** in this team's favour.
 - The guide's headline claim is that no Sun Belt team has leveraged the transfer portal better than James Madison. It credits resources plus masterful talent identification by Curt Cignetti and Bob Chesney, especially at quarterback. *(p. 326)*
-- The biggest question it puts to Billy Napier is who plays quarterback and whether that player can match the predecessors' success. *(p. 326)*
 - 247Sports graded James Madison's portal haul best in the conference by a wide margin — which the guide calls fortunate, since nearly all of last season's production is gone — while cautioning that many of the additions come from lower divisions, FCS, or Power Four programmes where they never saw the field. *(p. 326)*
-- Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
-- The guide lays out four FBS seasons of consistency: 2.5, 2.6, 3.5 and 2.8 yards per carry allowed, with 4.7, 5.0, 4.9 and 4.4 yards per play. It notes the Cignetti-to-Chesney transition and its accompanying staff changes produced no downturn, but argues roster attrition has to bite eventually. It is explicit about the asymmetry in its own view — bullish on the offense, not sure it can be on the defense — while naming Amar Thomas and Gannon Weathersby as two returning starters of consequence. The counterweight it offers is new coordinator Robert Bala, who has worked under Napier, Jedd Fisch (with coordinator Stephen Belichick) and Nick Saban over the past three years, which it treats as a reason for optimism. *(p. 327)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 8.5**.
-- The biggest question it puts to Billy Napier is who plays quarterback and whether that player can match the predecessors' success. *(p. 326)*
 - Recommendation is Under 8.5 wins. The precedent it leans on is Chesney's first regular season producing 8-4, which it could see repeated, with the quarterback position a major question mark. *(p. 326)*
 - Travel is the other concern — a long trip west to San Diego State, a randomly placed non-conference road game at UConn, and road dates at Old Dominion and App State. The projection is 8.91 wins, with the road slate called genuinely tricky. *(p. 326)*
-- Aiken is the new offensive coordinator, and the guide calls him a rising star. His résumé: a Clemson graduate who was on staff for two National Championships, then time under Lane Kiffin at Ole Miss, then his own offense at East Tennessee State last season, where the Buccaneers scored over 32 PPG with better than 440 yards per game. It also notes he coached running backs at South Florida, a group that ran for nearly 200 yards per game in 2022. Its verdict is an outstanding hire by Napier, someone who should keep the throttle down on an offense that averaged 6.4 yards per play and 37.1 PPG last season — and it stresses that a promising coaching staff matters hugely given the volume of transfers. *(p. 327)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -120,24 +120,28 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 ## 11. Transfer Portal
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 10, 59, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 10, 59, 175**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 11, 59** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 11, 59**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - Shane Beamer has nine offensive starters back and a new play-caller; the defense needs some rebuilding but has been consistent under him. In his sixth year expectations exist, and the guide questions whether this roster can meet them in a brutal conference. *(p. 306)*
 - **What does the addition of Kendal Briles do for this offense?** Sellers' decline also cost Mike Shula his job nine games in, and Beamer hired Briles, who has a long record of good offenses and of maximizing quarterbacks. The guide is genuinely curious how he uses Sellers, noting the running element fell away: 49 designed carries against 79 in 2024, even though the underlying quality held — 4.64 yards after contact, 25 runs of 10-plus yards and 5.3 yards per attempt, all in line with the prior year. Briles must fix the passing and use the skill set better. *(p. 307)*
 
+
 Referenced in the guide on **pp. 11, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - Shane Beamer has nine offensive starters back and a new play-caller; the defense needs some rebuilding but has been consistent under him. In his sixth year expectations exist, and the guide questions whether this roster can meet them in a brutal conference. *(p. 306)*
+
 
 Referenced in the guide on **pp. 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -183,8 +187,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 306** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 306**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -213,6 +218,7 @@ Prices printed on the team page *(p. 307)*:
 ## 22. Historical / Situational Trends
 
 - **How sturdy is the ground on which Shane Beamer walks?** Beamer signed an extension in January 2025 after a nine-win season, then went 4-8 — a second losing season in three years. The programme has not won a bowl since his first season, and a very talented quarterback appears to have regressed under him. The guide acknowledges it may seem premature to raise the alarm on a coach locked in through 2030, but asks whether another poor season heats his seat enough to leave South Carolina rudderless by year's end. *(p. 307)*
+
 
 Referenced in the guide on **pp. 11, 23, 45, 165, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -260,21 +266,16 @@ As printed on p. 307. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **6.6 wins** against a posted total of 6.5 — **+0.1** in this team's favour.
-- The guide's summary word is intriguing: a talented quarterback in LaNorris Sellers and a coach who has shown he can get the most from a roster, with the open question whether it comes together in 2026. *(p. 306)*
-- The guide stacks its doubts as explicit questions: whether Sellers' regression is real, whether Kendal Briles can restore his 2024 form, and how the offense measures up against a slate of defenses ranking among the nation's best. It closes by noting even six wins would be an improvement. *(p. 306)*
-- Sellers is identified as a main reason the offense declined: completions fell from 64.8% in 2024 to 59.8%, with five fewer touchdown passes on only five fewer attempts. The guide finds the clean-pocket numbers most telling — 67.3% for 9.3 yards per attempt with eight touchdowns and five interceptions, against 71.0% for 8.7 yards with 14 touchdowns and two interceptions the year before. It calls the decline stark and says he must return to 2024 form to justify the hype. *(p. 307)*
-- Sellers' decline also cost Mike Shula his job nine games in, and Beamer hired Briles, who has a long record of good offenses and of maximizing quarterbacks. The guide is genuinely curious how he uses Sellers, noting the running element fell away: 49 designed carries against 79 in 2024, even though the underlying quality held — 4.64 yards after contact, 25 runs of 10-plus yards and 5.3 yards per attempt, all in line with the prior year. Briles must fix the passing and use the skill set better. *(p. 307)*
-- Beamer signed an extension in January 2025 after a nine-win season, then went 4-8 — a second losing season in three years. The programme has not won a bowl since his first season, and a very talented quarterback appears to have regressed under him. The guide acknowledges it may seem premature to raise the alarm on a coach locked in through 2030, but asks whether another poor season heats his seat enough to leave South Carolina rudderless by year's end. *(p. 307)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 6.5**.
-- The guide's summary word is intriguing: a talented quarterback in LaNorris Sellers and a coach who has shown he can get the most from a roster, with the open question whether it comes together in 2026. *(p. 306)*
-- Shane Beamer has nine offensive starters back and a new play-caller; the defense needs some rebuilding but has been consistent under him. In his sixth year expectations exist, and the guide questions whether this roster can meet them in a brutal conference. *(p. 306)*
-- The guide stacks its doubts as explicit questions: whether Sellers' regression is real, whether Kendal Briles can restore his 2024 form, and how the offense measures up against a slate of defenses ranking among the nation's best. It closes by noting even six wins would be an improvement. *(p. 306)*
-- Beamer signed an extension in January 2025 after a nine-win season, then went 4-8 — a second losing season in three years. The programme has not won a bowl since his first season, and a very talented quarterback appears to have regressed under him. The guide acknowledges it may seem premature to raise the alarm on a coach locked in through 2030, but asks whether another poor season heats his seat enough to leave South Carolina rudderless by year's end. *(p. 307)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

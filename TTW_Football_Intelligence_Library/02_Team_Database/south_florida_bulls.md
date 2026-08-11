@@ -124,6 +124,7 @@ The Stability Score table prints the same figure independently: **7 returning st
 - **Hype or hope?** The guide frames the roster philosophy: not all highly touted recruits make it, and the portal lets them drop to a Group of Six programme to get back on the radar. At South Florida most such players are quarterbacks — Hartline and coordinator Tim Beck added Michael Van Buren via Mississippi State and LSU, and Luke Kromenhoek via Florida State and Mississippi State. It credits Van Buren with genuine success, including an 8-to-2 ratio at LSU last season across four starts and relief work. It ends on the real question: with so many unproven players, whether Hartline is a programme builder or thrived on a foundation already laid at Ohio State. *(p. 67)*
 - **What the Beck?** The guide explains why Hartline chose Beck — coaching since the late 1980s — while stating its own reservation openly: it took him 35 years to get a head job, Coastal Carolina did not go well at 20-18, and it personally finds him underwhelming as a coordinator. On the roster it notes most portal acquisitions did not play much previously, then supplies the counterweight: 247Sports graded South Florida's portal haul the best in the conference and 58th nationally with 44 commits — a lot of scouting and a lot of new faces. *(p. 67)*
 
+
 Referenced in the guide on **pp. 289** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -134,6 +135,7 @@ Referenced in the guide on **pp. 289** — those passages are not reproduced her
 ## 13. Offensive Identity
 
 - His first task is sustaining Golesh's offensive standards. Five teams averaged 40-plus points last season and South Florida was one, averaging 49 in American play. *(p. 66)*
+
 
 Referenced in the guide on **pp. 20, 45, 75, 289** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -194,6 +196,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 - Although the non-conference slate is substantially easier, the Bulls play Memphis and UTSA on short weeks, with Memphis coming off a bye. *(p. 66)*
 
+
 Referenced in the guide on **pp. 220** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
@@ -231,6 +234,7 @@ Prices printed on the team page *(p. 67)*:
 
 - South Florida proved a good stop for Alex Golesh, who posted three winning seasons in Tampa before moving up to Auburn. *(p. 66)*
 - Context for the number: South Florida went 9-3 in the regular season with over 4,000 yards and 42 touchdowns from Byrum Brown, who has gone. *(p. 66)*
+
 
 Referenced in the guide on **pp. 45, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -280,9 +284,8 @@ As printed on p. 67. Each category carries a value and a national rank.
 - South Florida proved a good stop for Alex Golesh, who posted three winning seasons in Tampa before moving up to Auburn. *(p. 66)*
 - Brian Hartline takes over, described as the world's best wide receiver recruiter leaving Ohio State for his own programme, with the guide noting he has never coached anywhere else in college. *(p. 66)*
 - The guide identifies what really set the ceiling: the defense improved at a similar pace to the offense. *(p. 66)*
-- The guide frames the roster philosophy: not all highly touted recruits make it, and the portal lets them drop to a Group of Six programme to get back on the radar. At South Florida most such players are quarterbacks — Hartline and coordinator Tim Beck added Michael Van Buren via Mississippi State and LSU, and Luke Kromenhoek via Florida State and Mississippi State. It credits Van Buren with genuine success, including an 8-to-2 ratio at LSU last season across four starts and relief work. It ends on the real question: with so many unproven players, whether Hartline is a programme builder or thrived on a foundation already laid at Ohio State. *(p. 67)*
-- The guide explains why Hartline chose Beck — coaching since the late 1980s — while stating its own reservation openly: it took him 35 years to get a head job, Coastal Carolina did not go well at 20-18, and it personally finds him underwhelming as a coordinator. On the roster it notes most portal acquisitions did not play much previously, then supplies the counterweight: 247Sports graded South Florida's portal haul the best in the conference and 58th nationally with 44 commits — a lot of scouting and a lot of new faces. *(p. 67)*
-- By contrast the guide rates the Josh Aldridge hire highly, noting he worked at conference rival East Carolina under Blake Harrell, whom it calls an outstanding defensive mind and good head coach. It then advances a conference-level thesis: stopping the run is the key in the American because most teams run well or use run-heavy schemes, and while everybody allows passing yards and 60-plus completion percentages, the teams that stop the run position themselves to succeed. Aldridge's East Carolina unit allowed 3.6 yards per carry and South Florida allowed 3.7. Its conclusion is that this may not be a polished defense but it is a big front seven. *(p. 67)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -291,7 +294,8 @@ As printed on p. 67. Each category carries a value and a national rank.
 - Makinen projects **8.4 wins** against a posted total of 8.5 — **-0.1** against this team.
 - The team page recommends **UNDER 8.5**.
 - The guide makes a sharp market observation: South Florida could be favored in 10 or 11 games, yet the vig slants toward the Under, reflecting how many unanswered questions have the market down on the programme. Projection is 8.56 wins. *(p. 66)*
-- The guide frames the roster philosophy: not all highly touted recruits make it, and the portal lets them drop to a Group of Six programme to get back on the radar. At South Florida most such players are quarterbacks — Hartline and coordinator Tim Beck added Michael Van Buren via Mississippi State and LSU, and Luke Kromenhoek via Florida State and Mississippi State. It credits Van Buren with genuine success, including an 8-to-2 ratio at LSU last season across four starts and relief work. It ends on the real question: with so many unproven players, whether Hartline is a programme builder or thrived on a foundation already laid at Ohio State. *(p. 67)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

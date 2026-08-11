@@ -119,12 +119,14 @@ The Stability Score table prints the same figure independently: **12 returning s
 - This is presented as the year for it: nine starters back on offense, an attack led by a strong transfer quarterback, 30-plus points per game in two of the last three seasons and two bowl wins. *(p. 300)*
 - **Could Austin Simmons be the steal of the transfer portal?** Simmons won the Ole Miss job and started the first two games before injury, by which point Trinidad Chambliss had taken over — so he did not lose the role on performance, which the guide stresses makes his availability unusual. The caveat is ball security: five interceptions on 84 dropbacks and a 5.7% turnover-worthy play rate. With a strong run game to lean on, the guide judges that if he stops putting the ball in danger he could be one of the best portal pickups anywhere. *(p. 301)*
 
+
 Referenced in the guide on **pp. 109, 185, 220, 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 261**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -132,11 +134,13 @@ Referenced in the guide on **pp. 261** — those passages are not reproduced her
 - Recommendation is Over 6.5 wins. The guide finds it hard to believe an offense of this caliber wins six or fewer, conditional on Austin Simmons showing the qualities that won him the Ole Miss job over Chambliss and cutting out mistakes. *(p. 300)*
 - **Is this the best rush offense in the country?** The guide concedes the question sounds hyperbolic but treats it as fair. Ahmad Hardy and Jamal Roberts combined for 2,402 rushing yards and 22 touchdowns; Hardy alone ran for 1,649, forced 97 missed tackles and averaged 4.6 yards after contact. It notes he suffered a gunshot wound in May but will be ready for fall camp. They run behind a strong line returning left tackle Cayden Green with 118 career starts in the room, and the guide expects this to remain the offense's backbone. *(p. 301)*
 
+
 Referenced in the guide on **pp. 109, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - The defense is called suspect with only three starters back, though the guide argues the drop from 2025 cannot be too severe. *(p. 300)*
+
 
 Referenced in the guide on **pp. 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -192,8 +196,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 10, 300** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 10, 300**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -222,6 +227,7 @@ Prices printed on the team page *(p. 301)*:
 
 - The guide frames Missouri as quietly consistent under Eliah Drinkwitz, with 2025 ending a two-year run of double-digit win seasons. Its view is that the foundation is built and the next step is overdue. *(p. 300)*
 - **Can Eliah Drinkwitz take the next step as a head coach?** Drinkwitz needed three seasons to make Missouri a winning program; over the last three the Tigers are 29-10 straight up, 15-9 in the SEC and 25-14 against the spread. What is missing is an SEC Championship or playoff appearance. The guide is candid that this is a hard year to get one, with Texas and Georgia primed for Atlanta and Alabama, Ole Miss and Texas A&M on the fringes, but argues few of them match Missouri's offensive potential. *(p. 301)*
+
 
 Referenced in the guide on **pp. 19, 281, 287, 319** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -271,20 +277,16 @@ As printed on p. 301. Each category carries a value and a national rank.
 - Makinen projects **6.8 wins** against a posted total of 6.5 — **+0.3** in this team's favour.
 - The team page recommends **OVER 6.5**.
 - This is presented as the year for it: nine starters back on offense, an attack led by a strong transfer quarterback, 30-plus points per game in two of the last three seasons and two bowl wins. *(p. 300)*
-- Schedule is challenging: Missouri misses Alabama but travels to Ole Miss and Georgia and hosts Texas A&M, Texas and Oklahoma. The guide still sees win opportunities and thinks a strong offense could steal one or two against the conference's best. *(p. 300)*
-- The guide concedes the question sounds hyperbolic but treats it as fair. Ahmad Hardy and Jamal Roberts combined for 2,402 rushing yards and 22 touchdowns; Hardy alone ran for 1,649, forced 97 missed tackles and averaged 4.6 yards after contact. It notes he suffered a gunshot wound in May but will be ready for fall camp. They run behind a strong line returning left tackle Cayden Green with 118 career starts in the room, and the guide expects this to remain the offense's backbone. *(p. 301)*
-- Simmons won the Ole Miss job and started the first two games before injury, by which point Trinidad Chambliss had taken over — so he did not lose the role on performance, which the guide stresses makes his availability unusual. The caveat is ball security: five interceptions on 84 dropbacks and a 5.7% turnover-worthy play rate. With a strong run game to lean on, the guide judges that if he stops putting the ball in danger he could be one of the best portal pickups anywhere. *(p. 301)*
-- Drinkwitz needed three seasons to make Missouri a winning program; over the last three the Tigers are 29-10 straight up, 15-9 in the SEC and 25-14 against the spread. What is missing is an SEC Championship or playoff appearance. The guide is candid that this is a hard year to get one, with Texas and Georgia primed for Atlanta and Alabama, Ole Miss and Texas A&M on the fringes, but argues few of them match Missouri's offensive potential. *(p. 301)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Recommendation is Over 6.5 wins. The guide finds it hard to believe an offense of this caliber wins six or fewer, conditional on Austin Simmons showing the qualities that won him the Ole Miss job over Chambliss and cutting out mistakes. *(p. 300)*
-- Schedule is challenging: Missouri misses Alabama but travels to Ole Miss and Georgia and hosts Texas A&M, Texas and Oklahoma. The guide still sees win opportunities and thinks a strong offense could steal one or two against the conference's best. *(p. 300)*
-- The guide concedes the question sounds hyperbolic but treats it as fair. Ahmad Hardy and Jamal Roberts combined for 2,402 rushing yards and 22 touchdowns; Hardy alone ran for 1,649, forced 97 missed tackles and averaged 4.6 yards after contact. It notes he suffered a gunshot wound in May but will be ready for fall camp. They run behind a strong line returning left tackle Cayden Green with 118 career starts in the room, and the guide expects this to remain the offense's backbone. *(p. 301)*
-- Simmons won the Ole Miss job and started the first two games before injury, by which point Trinidad Chambliss had taken over — so he did not lose the role on performance, which the guide stresses makes his availability unusual. The caveat is ball security: five interceptions on 84 dropbacks and a 5.7% turnover-worthy play rate. With a strong run game to lean on, the guide judges that if he stops putting the ball in danger he could be one of the best portal pickups anywhere. *(p. 301)*
-- Drinkwitz needed three seasons to make Missouri a winning program; over the last three the Tigers are 29-10 straight up, 15-9 in the SEC and 25-14 against the spread. What is missing is an SEC Championship or playoff appearance. The guide is candid that this is a hard year to get one, with Texas and Georgia primed for Atlanta and Alabama, Ole Miss and Texas A&M on the fringes, but argues few of them match Missouri's offensive potential. *(p. 301)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

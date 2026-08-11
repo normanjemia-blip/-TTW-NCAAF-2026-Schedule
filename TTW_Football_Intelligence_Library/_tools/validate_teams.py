@@ -147,3 +147,149 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# ---------------------------------------------------------------------------
+# Maintenance gates added after Live Retrieval Test #1 (Georgia).
+# Each corresponds to a demonstrated defect that the pre-existing validators
+# did not catch, because they checked structure, links and counts but never
+# whether a SELECTION was correct.
+# ---------------------------------------------------------------------------
+
+def maintenance_gates():
+    import json as _json
+    import re as _re
+    import sys as _sys
+    _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from futures_lib import load_best_bets
+
+    OUT_DIR = "02_Team_Database"
+    teams = _json.load(open("_source/data/team_details.json"))
+    canon = {t["team"] for t in teams}
+    files = {t["team"]: open(os.path.join(OUT_DIR, slug(t["team"]) + ".md")).read()
+             for t in teams}
+    P, F = [], []
+
+    def ck(ok, msg, detail=""):
+        (P if ok else F).append(msg + (f" — {detail}" if detail and not ok else ""))
+
+    # G1/G2 -- best-bet joins are canonical, and no bet reaches a team whose
+    # name merely CONTAINS another team's name.
+    bets = load_best_bets()["bets"]
+    wrong, contain = [], []
+    for b in bets:
+        if not b["team"]:
+            # a parlay resolves to no single team and must appear on none
+            for t, body in files.items():
+                if b["headline"] in body:
+                    wrong.append(f"{b['headline'][:32]}->{t}")
+            continue
+        for t, body in files.items():
+            if b["headline"] in body and t != b["team"]:
+                wrong.append(f"{b['headline'][:32]}->{t}")
+                if b["team"] in t or t in b["team"]:
+                    contain.append(f"{b['team']}|{t}")
+    ck(not wrong,
+       f"all {len(bets)} best bets appear only on the canonical team they "
+       f"resolve to; parlays appear on none", str(wrong[:3]))
+    ck(not contain,
+       "no best bet reaches a team by name containment", str(contain[:3]))
+
+    # G3/G4 -- no standardized heading is empty or a bare page pointer, and
+    # unsupported headings carry the sentinel.
+    empty, noschema = [], []
+    PTR = _re.compile(r"^Referenced in the guide on \*\*pp?\.[^*]+\*\*[^\n]*$")
+    for t, body in files.items():
+        nums = [int(n) for n in _re.findall(r"\n## (\d+)\. ", body)]
+        if nums != list(range(1, 30)):
+            noschema.append(t)
+        for m in _re.finditer(r"\n## \d+\. ([^\n]+)\n(.*?)(?=\n## |\Z)", body, _re.S):
+            b = m.group(2).strip()
+            if not b or PTR.fullmatch(b):
+                empty.append(f"{t}:{m.group(1)}")
+    ck(not empty, "no standardized team heading is empty or a bare page "
+                  "pointer", str(empty[:3]))
+    ck(not noschema, f"all {len(files)} team files keep the 29-heading schema",
+       str(noschema[:3]))
+    # A file with no sentinel at all is not a defect -- it means every
+    # heading is populated, which is true of 6 teams. What matters is that
+    # any absence marker uses one of the two ESTABLISHED forms and has not
+    # drifted into a paraphrase.
+    NA = "Not addressed in guide."
+    NA_HEAD = "Not addressed in guide under this heading."
+    DRIFT = _re.compile(r"\bNot (?:addressed|covered|discussed|mentioned)\b"
+                        r"(?! in guide\.)(?! in guide under this heading\.)",
+                        _re.I)
+    drifted = [f"{t}:{DRIFT.search(b).group(0)}" for t, b in files.items()
+               if DRIFT.search(b)]
+    withs = sum(1 for b in files.values() if NA in b or NA_HEAD in b)
+    ck(not drifted,
+       f"every absence marker uses an established sentinel form "
+       f"({withs} of {len(files)} files carry one; the rest are fully "
+       f"populated)", str(drifted[:3]))
+
+    # G5 -- a team carrying a conflict may never assert it has none.
+    both = [t for t, b in files.items()
+            if "No source conflict identified for this team." in b
+            and _re.search(r"\n## 27\. Source Conflicts\n\n- \*\*", b)]
+    ck(not both, "no team both carries a conflict and asserts none exists",
+       str(both[:3]))
+
+    # G6 -- the schedule-rank discrepancy detector still fires where the guide
+    # prints two different ranks.
+    confs = _json.load(open("_source/data/conference_previews.json"))
+    rank = {r["team"]: r.get("schedule_rank") for c in confs for r in c["standings"]}
+    expect = set()
+    for t, body in files.items():
+        for m in _re.finditer(r"\b(\d{1,3})(?:st|nd|rd|th)[- ]ranked schedule\b",
+                              body, _re.I):
+            if rank.get(t) and str(rank[t]) != m.group(1):
+                expect.add(t)
+    missed = [t for t in expect
+              if "Schedule rank printed two ways" not in files[t]]
+    ck(not missed,
+       f"every schedule-rank discrepancy ({len(expect)} found) is recorded as "
+       f"a source conflict", str(missed[:3]))
+
+    # G7 -- Bull/Bear directional sanity: no statement classified to a side
+    # carries a contrastive connective.
+    CONTRA = _re.compile(r"\b(but|however|though|although|despite)\b", _re.I)
+    inverted = []
+    for t, body in files.items():
+        for head in ("## 24. Bull Case", "## 25. Bear Case"):
+            m = _re.search(_re.escape(head) + r"\n(.*?)(?=\n## )", body, _re.S)
+            if not m:
+                continue
+            for line in m.group(1).splitlines():
+                if line.startswith("- ") and CONTRA.search(line):
+                    inverted.append(f"{t}:{head[-9:]}")
+    ck(not inverted,
+       "no Bull/Bear bullet carries a contrastive connective — two-sided "
+       "statements are left unclassified", str(inverted[:3]))
+
+    # G8 -- conference prose is free of page furniture.
+    FURN = _re.compile(r"steve makinen power rating|make the playoff RANK|"
+                       r"CONFERENCE: NATIONAL:")
+    dirty = []
+    for fn in sorted(os.listdir("01_Conference_Database")):
+        if not fn.endswith(".md"):
+            continue
+        for line in open(os.path.join("01_Conference_Database", fn)):
+            if _re.match(r"- \*\*[^*]+\*\* \(p\. \d+\) — ", line) and FURN.search(line):
+                dirty.append(fn)
+    ck(not dirty, "no conference quoted bullet contains page furniture",
+       str(sorted(set(dirty))[:3]))
+
+    print("\nMAINTENANCE GATES — added after Live Retrieval Test #1")
+    print("=" * 66)
+    for m in P:
+        print(f"  PASS  {m}")
+    for m in F:
+        print(f"  FAIL  {m}")
+    if F:
+        print(f"\n{len(F)} of {len(P) + len(F)} maintenance gates failed")
+        sys.exit(1)
+    print(f"\nall {len(P)} maintenance gates passed")
+
+
+maintenance_gates()

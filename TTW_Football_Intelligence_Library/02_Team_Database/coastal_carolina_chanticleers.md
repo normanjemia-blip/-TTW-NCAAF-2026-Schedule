@@ -128,22 +128,26 @@ The Stability Score table prints the same figure independently: **9 returning st
 - The supporting evidence is eligibility — all the quarterbacks Beard brought in, and virtually all the skill players, have eligibility beyond this season. *(p. 320)*
 - **Will the Deuce be loose?** The Deuce is Deuce Bailey, Jacob Clark's backup at Missouri State, who got his chance when Clark was hurt. The guide's comparison is to Samari Collier, who injected a major spark into the Coastal offense last season after taking over for Tad Hudson — a dual-threat at six yards per carry who led the team to over 40 PPG before getting hurt, after which the guide says it all fell apart. Beard's familiarity with Bailey is treated as an advantage, and it observes that a dual-threat quarterback looks like a luxury in this conference. Other options are Trever Jackson from Arkansas and JUCO transfer Tre Guerra, whose offer list it gives as Texas Tech, Kentucky, Florida State, LSU and Virginia. Its overall verdict is that the talent level at the position looks a lot better. *(p. 321)*
 
+
 Referenced in the guide on **pp. 11, 97, 151** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 321**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **How quickly does the offensive line come together?** The guide's warning comes from Missouri State's numbers: even with a very experienced quarterback, Clark was sacked 48 times and the team allowed 52 sacks overall, while the Bears managed just 3.5 yards per carry — a figure dragged down by Clark's 94 scrambles for -16 yards. Since none of the current quarterback options are experienced at this level, it expects negative plays from sacks to be a real worry. On the line itself: a girthy group of very big bodies, but none who have played together, and only Daughtry Richardson was a high-ranked recruit — he played one game at Florida State before transferring to FAU. It calls this easily the most questionable position group, on the principle that you cannot do much without an offensive line. *(p. 321)*
+
 
 Referenced in the guide on **pp. 55** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Will a fresh start work for the defense?** With most notable offensive players gone, the guide names the defenders who stayed: Ja'Marion Wayne, Ibrahim Diawara — spelled Diarra later in the same passage — and Tray Brown. Wayne tied fellow holdover Myles Woods for the team lead in pass breakups, Diawara had a couple of sacks, and Brown had nine tackles for loss. LD Scott follows Beard from Missouri State to take over a unit that allowed 33.1 PPG, 5.5 yards per carry and 474 yards per game in conference play. The detail it singles out as remarkable is that Coastal was +9 in turnover margin in conference play and went 5-3 despite being scorched defensively. Its conclusion is simply that a fresh start cannot hurt. *(p. 321)*
+
 
 Referenced in the guide on **pp. 37, 227** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -233,6 +237,7 @@ Also referenced on **pp. 332** — not reproduced here.
 - The guide recounts the hiring sequence and its own community's reaction: when Jamey Chadwell left for Liberty, Coastal hired Tim Beck, and many in the college football gambling community felt it was one of the biggest coaching downgrades in the nation. *(p. 320)*
 - Beck's record is given in full — 8-5 in Year 1, then back-to-back losing seasons that sent him packing. *(p. 320)*
 
+
 Referenced in the guide on **pp. 37, 151, 196, 328, 338** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -279,18 +284,17 @@ As printed on p. 321. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **4.6 wins** against a posted total of 4.5 — **+0.1** in this team's favour.
-- The scale of the rebuild is the central fact: roughly 60 new players, including a conference-high 42 transfers per 247Sports. Beard did bring his coordinators with him, which the guide credits as sideline continuity, but it leaves the buy-in question open — how quickly will all the newcomers adapt? *(p. 320)*
-- The guide's warning comes from Missouri State's numbers: even with a very experienced quarterback, Clark was sacked 48 times and the team allowed 52 sacks overall, while the Bears managed just 3.5 yards per carry — a figure dragged down by Clark's 94 scrambles for -16 yards. Since none of the current quarterback options are experienced at this level, it expects negative plays from sacks to be a real worry. On the line itself: a girthy group of very big bodies, but none who have played together, and only Daughtry Richardson was a high-ranked recruit — he played one game at Florida State before transferring to FAU. It calls this easily the most questionable position group, on the principle that you cannot do much without an offensive line. *(p. 321)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 4.5**.
-- The scale of the rebuild is the central fact: roughly 60 new players, including a conference-high 42 transfers per 247Sports. Beard did bring his coordinators with him, which the guide credits as sideline continuity, but it leaves the buy-in question open — how quickly will all the newcomers adapt? *(p. 320)*
 - Recommendation is Under 4.5 wins, argued as a timing question rather than a talent one: this season is about building for next season. *(p. 320)*
-- The guide's warning comes from Missouri State's numbers: even with a very experienced quarterback, Clark was sacked 48 times and the team allowed 52 sacks overall, while the Bears managed just 3.5 yards per carry — a figure dragged down by Clark's 94 scrambles for -16 yards. Since none of the current quarterback options are experienced at this level, it expects negative plays from sacks to be a real worry. On the line itself: a girthy group of very big bodies, but none who have played together, and only Daughtry Richardson was a high-ranked recruit — he played one game at Florida State before transferring to FAU. It calls this easily the most questionable position group, on the principle that you cannot do much without an offensive line. *(p. 321)*
-- With most notable offensive players gone, the guide names the defenders who stayed: Ja'Marion Wayne, Ibrahim Diawara — spelled Diarra later in the same passage — and Tray Brown. Wayne tied fellow holdover Myles Woods for the team lead in pass breakups, Diawara had a couple of sacks, and Brown had nine tackles for loss. LD Scott follows Beard from Missouri State to take over a unit that allowed 33.1 PPG, 5.5 yards per carry and 474 yards per game in conference play. The detail it singles out as remarkable is that Coastal was +9 in turnover margin in conference play and went 5-3 despite being scorched defensively. Its conclusion is simply that a fresh start cannot hurt. *(p. 321)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

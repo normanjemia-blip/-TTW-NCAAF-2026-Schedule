@@ -119,18 +119,21 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 - **Can the pass defense bounce back?** Georgia finished 48th in opponent EPA per play and 80th through the air, the latter only 40th percentile. The guide argues the front seven, not the secondary, was the likelier culprit: just 20 sacks and persistent trouble pressuring quarterbacks. Smart signed Auburn transfer Amaris Williams to address it, but Williams tore an ACL in spring, putting weight on freshman Khamari Brooks. Improvement on 20 sacks is expected; the guide insists it must be dramatic for national success. *(p. 293)*
 
+
 Referenced in the guide on **pp. 17, 45, 75** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 293** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 293**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - Fourteen starters return from a 12-win team, which the guide reads as enough to go for a third straight SEC title. *(p. 292)*
 - Gunner Stockton is named an early Heisman contender, working behind a retooled offensive line. *(p. 292)*
 - **Will the returning production unlock Georgia's rushing attack?** On paper yes: three offensive line starters return including Fourth Team All-American center Drew Bobo, and the top three rushers behind Stockton are back, with Nate Frazier (958 yards, 5.5 per carry) projected to pass 1,000. The guide's caution is that this same production ran an inefficient offense — 32nd percentile in explosive run rate, 54th percentile in early-down success — leaving Stockton to rescue long third downs, which it calls unsustainable. The line is projected to start two sophomores and a freshman alongside Bobo, and the guide allows that new blood may find a gear the unit lacked. *(p. 293)*
+
 
 Referenced in the guide on **pp. 18, 324** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -139,6 +142,7 @@ Referenced in the guide on **pp. 18, 324** — those passages are not reproduced
 - Fourteen starters return from a 12-win team, which the guide reads as enough to go for a third straight SEC title. *(p. 292)*
 - Kirby Smart has work to do on a defense that disappointed in 2025, but the guide leans on his track record to expect it fixed. *(p. 292)*
 - **Can the pass defense bounce back?** Georgia finished 48th in opponent EPA per play and 80th through the air, the latter only 40th percentile. The guide argues the front seven, not the secondary, was the likelier culprit: just 20 sacks and persistent trouble pressuring quarterbacks. Smart signed Auburn transfer Amaris Williams to address it, but Williams tore an ACL in spring, putting weight on freshman Khamari Brooks. Improvement on 20 sacks is expected; the guide insists it must be dramatic for national success. *(p. 293)*
+
 
 Referenced in the guide on **pp. 10, 15, 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -191,8 +195,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 8** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 8**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -230,7 +235,8 @@ Prices printed on the team page *(p. 293)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| Adam Burke | GEORGIA SOUTHERN OVER 3.5 CONFERENCE WINS (-115) | 11 |
+| Jonathan Von Tobel | GUNNER STOCKTON TO WIN HEISMAN TROPHY (20-1) *(player market — Gunner Stockton)* | 15 |
+| Tim Murray | GEORGIA TO WIN SEC CHAMPIONSHIP (+310) | 15 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -243,6 +249,7 @@ Also referenced on **pp. 5, 15, 17, 38, 206** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - Georgia has reached every SEC Championship Game since 2017 except 2020, winning the last two and three of the last four. The guide treats a conference title as the baseline expectation in Athens. *(p. 292)*
+
 
 Referenced in the guide on **pp. 15, 17, 20, 29, 45, 70** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -294,17 +301,16 @@ As printed on p. 293. Each category carries a value and a national rank.
 - Georgia has reached every SEC Championship Game since 2017 except 2020, winning the last two and three of the last four. The guide treats a conference title as the baseline expectation in Athens. *(p. 292)*
 - Fourteen starters return from a 12-win team, which the guide reads as enough to go for a third straight SEC title. *(p. 292)*
 - Gunner Stockton is named an early Heisman contender, working behind a retooled offensive line. *(p. 292)*
-- Recommendation is Over 9.5 wins, with the guide openly noting the pricing makes the best wager hard to isolate: Over 9.5 lays 180, Under 10.5 lays 190. It reads ten wins as the sweet spot but rates ten or more the likelier outcome. *(p. 292)*
-- Schedule is favorable: Georgia avoids Texas and Texas A&M, its toughest trip is Tuscaloosa, and it visits Ole Miss, the team that knocked it out of the CFP. Five conference opponents carry win totals of 6.5 or lower, and the non-conference slate of Tennessee State and Western Kentucky offers no real test. *(p. 292)*
-- Stockton was highly clutch in 2025 — 83.6% completions in fourth quarters at 8.5 yards per attempt with nine touchdowns — and Georgia's 79th-percentile late-down success rate, despite only 56th-percentile average third-down distance, is credited largely to him. He returns just one of his top five receivers but has a strong line and a deep running back group. Georgia is the SEC favorite at one book and second choice at another, and among the highest power-rated teams in the country. The 20th-ranked schedule gives him a platform to build a Heisman resume, and the guide judges 20-1 a defensible price. *(p. 293)*
-- On paper yes: three offensive line starters return including Fourth Team All-American center Drew Bobo, and the top three rushers behind Stockton are back, with Nate Frazier (958 yards, 5.5 per carry) projected to pass 1,000. The guide's caution is that this same production ran an inefficient offense — 32nd percentile in explosive run rate, 54th percentile in early-down success — leaving Stockton to rescue long third downs, which it calls unsustainable. The line is projected to start two sophomores and a freshman alongside Bobo, and the guide allows that new blood may find a gear the unit lacked. *(p. 293)*
-- Georgia finished 48th in opponent EPA per play and 80th through the air, the latter only 40th percentile. The guide argues the front seven, not the secondary, was the likelier culprit: just 20 sacks and persistent trouble pressuring quarterbacks. Smart signed Auburn transfer Amaris Williams to address it, but Williams tore an ACL in spring, putting weight on freshman Khamari Brooks. Improvement on 20 sacks is expected; the guide insists it must be dramatic for national success. *(p. 293)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Schedule is favorable: Georgia avoids Texas and Texas A&M, its toughest trip is Tuscaloosa, and it visits Ole Miss, the team that knocked it out of the CFP. Five conference opponents carry win totals of 6.5 or lower, and the non-conference slate of Tennessee State and Western Kentucky offers no real test. *(p. 292)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 292; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -328,7 +334,8 @@ Georgia finished 48th in opponent EPA per play and 80th through the air, the lat
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Schedule rank printed two ways.** The team page and conference table give **#22 of 138**; prose on p. 293 calls it the **20th-ranked** schedule. Both are reproduced as printed and neither is corrected.
+- **A running back's rushing total printed two ways.** Nate Frazier's 2025 rushing yards are given as **958** on Georgia's team page (p. 293) and as **947** in Tim Murray's SEC futures write-up (p. 15). Both are reproduced as printed and neither is corrected. Recorded from a verified read of both pages; a general cross-layer numeric detector was tested and not shipped because it produced false positives.
 
 ## 28. Relevant Page References
 

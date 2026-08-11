@@ -124,17 +124,20 @@ The Stability Score table prints the same figure independently: **5 returning st
 - Candle brought some Toledo players so he is not starting with zero familiar faces, but the guide identifies the specific shortfall: none of his extremely productive offensive players followed, and only a couple on defense. *(p. 210)*
 - **Can you tell us one interesting fact about yourself?** The guide uses the icebreaker framing to make a roster point: even the transfers are largely not recognizable names, the exception being K'Von Sherman, who had 93 tackles at Toledo. Kalieb Osborne is another Rocket who followed and will compete with Tennessee's Jake Merklinger and in-house options at quarterback. Running back Kenji Christian is at his fourth school, most recently Toledo. Three potential offensive line starters were together at Toledo without playing much. It closes with the bar UConn is falling from — 31.9 and 35.3 points per game the last two seasons and 6.7 yards per play last year — and says the fan base probably will not see those numbers. *(p. 211)*
 
+
 Referenced in the guide on **pp. 161, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 211, 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 211, 223**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - Candle brought some Toledo players so he is not starting with zero familiar faces, but the guide identifies the specific shortfall: none of his extremely productive offensive players followed, and only a couple on defense. *(p. 210)*
 - **Can you tell us one interesting fact about yourself?** The guide uses the icebreaker framing to make a roster point: even the transfers are largely not recognizable names, the exception being K'Von Sherman, who had 93 tackles at Toledo. Kalieb Osborne is another Rocket who followed and will compete with Tennessee's Jake Merklinger and in-house options at quarterback. Running back Kenji Christian is at his fourth school, most recently Toledo. Three potential offensive line starters were together at Toledo without playing much. It closes with the bar UConn is falling from — 31.9 and 35.3 points per game the last two seasons and 6.7 yards per play last year — and says the fan base probably will not see those numbers. *(p. 211)*
+
 
 Referenced in the guide on **pp. 75, 230, 268, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -142,6 +145,7 @@ Referenced in the guide on **pp. 75, 230, 268, 269** — those passages are not 
 
 - Candle brought some Toledo players so he is not starting with zero familiar faces, but the guide identifies the specific shortfall: none of his extremely productive offensive players followed, and only a couple on defense. *(p. 210)*
 - **Is keeping expectations low a good thing?** The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
+
 
 Referenced in the guide on **pp. 268** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -197,6 +201,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 - Its situational case is specific: while the schedule's difficulty is not daunting, UConn travels to Air Force on Halloween and Wyoming on Thanksgiving weekend — two late elevation games — and faces Syracuse and Old Dominion at home with both coming off byes, making two winnable home games harder. *(p. 210)*
 
+
 Referenced in the guide on **pp. 209** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
@@ -229,6 +234,7 @@ Also referenced on **pp. 156, 215** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - Jim Mora Jr won 27 games in four seasons, which the guide contrasts with the programme's 26 wins across 2012-21. *(p. 210)*
+
 
 Referenced in the guide on **pp. 161, 230, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -275,8 +281,9 @@ As printed on p. 211. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Its situational case is specific: while the schedule's difficulty is not daunting, UConn travels to Air Force on Halloween and Wyoming on Thanksgiving weekend — two late elevation games — and faces Syracuse and Old Dominion at home with both coming off byes, making two winnable home games harder. *(p. 210)*
-- The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 210; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -284,8 +291,8 @@ As printed on p. 211. Each category carries a value and a national rank.
 
 - Makinen projects **5.3 wins** against a posted total of 5.5 — **-0.2** against this team.
 - The team page recommends **UNDER 5.5**.
-- Its situational case is specific: while the schedule's difficulty is not daunting, UConn travels to Air Force on Halloween and Wyoming on Thanksgiving weekend — two late elevation games — and faces Syracuse and Old Dominion at home with both coming off byes, making two winnable home games harder. *(p. 210)*
-- The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten times as a touchdown-or-more favorite, so aiming low may suit a team that will rarely be favored with a completely new roster. It admits the effect of leaving Toledo after 16 years is impossible to quantify, and that a staff drawn from many schools could prove a positive now and later — or might not. On the field it separates the sides: the offense has major question marks, but the defense has a good chance of being solid, since Manalac is a Pat Narduzzi disciple, and Toledo ranked second nationally in yards allowed per game and third in yards per play allowed. *(p. 211)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

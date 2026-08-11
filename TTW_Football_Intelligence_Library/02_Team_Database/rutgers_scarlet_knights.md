@@ -124,6 +124,7 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **Can the offensive line get better?** Given the defensive problems, the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control. Senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard return with three spots open going into camp. Jim Turner, most recently interim head coach of the UFL's Memphis Showboats before the franchise folded, replaces Pat Flaherty; the guide records that Turner has a checkered past, having been fired as Miami Dolphins offensive line coach over a pattern of harassment and bullying. Center Hank Zilinskas from Colorado, Everett Small from Eastern Michigan and Isaiah Cook from Delaware State all bring starting experience. *(p. 177)*
 - **Defense? Defense, anyone?** Rutgers allowed 432.9 yards per game, 125th in FBS and the worst of any Power Four team. Only three starters return, which the guide suggests may not be a bad thing. Johansen recruited from his FCS network, bringing Drake head coach Joe Woodley to coach rush ends and Drake coordinator Adam Cox for the safeties. Safety Kaj Sanders (65 tackles) had half his tackles in the final five games. The guide notes Rutgers is rebuilding the defense through the portal for a second straight season and leaves open whether this attempt goes better. *(p. 177)*
 
+
 Referenced in the guide on **pp. 12, 83, 192** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -135,12 +136,14 @@ Referenced in the guide on **pp. 12, 83, 192** — those passages are not reprod
 - Recommendation is Over 4.5 wins. Even with the defensive problems the guide expects points, with Dylan Lonergan likely to win the job alongside Antwan Raymond and K.J. Duff. *(p. 176)*
 - **Can the offensive line get better?** Given the defensive problems, the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control. Senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard return with three spots open going into camp. Jim Turner, most recently interim head coach of the UFL's Memphis Showboats before the franchise folded, replaces Pat Flaherty; the guide records that Turner has a checkered past, having been fired as Miami Dolphins offensive line coach over a pattern of harassment and bullying. Center Hank Zilinskas from Colorado, Everett Small from Eastern Michigan and Isaiah Cook from Delaware State all bring starting experience. *(p. 177)*
 
+
 Referenced in the guide on **pp. 12, 192** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - Rutgers ranked 125th nationally in total defense, prompting the hire of Travis Johansen as coordinator after he took South Dakota to the FCS playoffs. Schiano will stay involved on defense as always, but Johansen gets more autonomy than his predecessors. *(p. 176)*
 - **Defense? Defense, anyone?** Rutgers allowed 432.9 yards per game, 125th in FBS and the worst of any Power Four team. Only three starters return, which the guide suggests may not be a bad thing. Johansen recruited from his FCS network, bringing Drake head coach Joe Woodley to coach rush ends and Drake coordinator Adam Cox for the safeties. Safety Kaj Sanders (65 tackles) had half his tackles in the final five games. The guide notes Rutgers is rebuilding the defense through the portal for a second straight season and leaves open whether this attempt goes better. *(p. 177)*
+
 
 Referenced in the guide on **pp. 12, 231** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -231,6 +234,7 @@ Also referenced on **pp. 12** — not reproduced here.
 
 - Greg Schiano's second spell has been harder than his first. He took Rutgers near the top of the Big East in the late 2000s; in six Big Ten seasons this time he is 31-41. *(p. 176)*
 
+
 Referenced in the guide on **pp. 69** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -279,14 +283,16 @@ As printed on p. 177. Each category carries a value and a national rank.
 - The team page recommends **OVER 4.5**.
 - Rutgers avoids Oregon and Ohio State, giving it on paper one of the easier Big Ten schedules, and all three non-conference games are winnable — including at Boston College, where Lonergan would face the school he started nine games for last season. *(p. 176)*
 - The guide is clear about what the Over still requires: winning a coin flip or two, naming Maryland and Northwestern away plus Michigan State. *(p. 176)*
-- Given the defensive problems, the guide argues Schiano and coordinator Kirk Ciarrocca must play more ball control. Senior starters Tyler Needham at left tackle and Kwabena Asamoah at right guard return with three spots open going into camp. Jim Turner, most recently interim head coach of the UFL's Memphis Showboats before the franchise folded, replaces Pat Flaherty; the guide records that Turner has a checkered past, having been fired as Miami Dolphins offensive line coach over a pattern of harassment and bullying. Center Hank Zilinskas from Colorado, Everett Small from Eastern Michigan and Isaiah Cook from Delaware State all bring starting experience. *(p. 177)*
-- Rutgers allowed 432.9 yards per game, 125th in FBS and the worst of any Power Four team. Only three starters return, which the guide suggests may not be a bad thing. Johansen recruited from his FCS network, bringing Drake head coach Joe Woodley to coach rush ends and Drake coordinator Adam Cox for the safeties. Safety Kaj Sanders (65 tackles) had half his tackles in the final five games. The guide notes Rutgers is rebuilding the defense through the portal for a second straight season and leaves open whether this attempt goes better. *(p. 177)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.9 wins** against a posted total of 5.5 — **-0.6** against this team.
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

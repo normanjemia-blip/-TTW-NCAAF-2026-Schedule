@@ -123,16 +123,19 @@ The Stability Score table prints the same figure independently: **10 returning s
 - **Did Morris do well enough in building out this offensive line?** Oklahoma State lost seven players from last year's offensive line options, so Morris went to the portal, adding second-team All-AAC guard Johnny Dickson, three Power Four starters and a starting guard from Coastal Carolina. The guide notes experience will not be lacking but leaves quality genuinely open. Morris is excited about how it is coming together and added depth. It frames this as one of the most important position groups in the country this year, because the line must hold up for the offense to explode in the Big 12. *(p. 137)*
 - **Does this defense have enough legitimate dudes?** North Texas's 0.06 Adjusted EPA per play allowed was poor, but good enough to let Mestemaker win games — which the guide says is the goal again. Cassity was praised for turning that defense into a high-turnover unit and will hope the aggressive style works in the Big 12. The problem it identifies is talent: only four players who started in 2025 are in the projected lineup, with the rest youth and unproven transfers. Its conclusion is direct — this could be one of the Big 12's worst defenses, which is why it is hard to fully buy Oklahoma State as a conference sleeper. *(p. 137)*
 
+
 Referenced in the guide on **pp. 11, 135, 175, 185, 191, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 39, 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 39, 269**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Did Morris do well enough in building out this offensive line?** Oklahoma State lost seven players from last year's offensive line options, so Morris went to the portal, adding second-team All-AAC guard Johnny Dickson, three Power Four starters and a starting guard from Coastal Carolina. The guide notes experience will not be lacking but leaves quality genuinely open. Morris is excited about how it is coming together and added depth. It frames this as one of the most important position groups in the country this year, because the line must hold up for the offense to explode in the Big 12. *(p. 137)*
+
 
 Referenced in the guide on **pp. 20, 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -140,6 +143,7 @@ Referenced in the guide on **pp. 20, 73** — those passages are not reproduced 
 
 - Recommendation is Over 5.5 wins. The guide calls the defense's look concerning while crediting coordinator Skyler Cassity with doing more with less. *(p. 136)*
 - **Does this defense have enough legitimate dudes?** North Texas's 0.06 Adjusted EPA per play allowed was poor, but good enough to let Mestemaker win games — which the guide says is the goal again. Cassity was praised for turning that defense into a high-turnover unit and will hope the aggressive style works in the Big 12. The problem it identifies is talent: only four players who started in 2025 are in the projected lineup, with the rest youth and unproven transfers. Its conclusion is direct — this could be one of the Big 12's worst defenses, which is why it is hard to fully buy Oklahoma State as a conference sleeper. *(p. 137)*
+
 
 Referenced in the guide on **pp. 135** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -229,6 +233,7 @@ Where contributors disagree, every position is kept separately and none is recon
 
 - The guide expects a Mike Gundy statue in Stillwater eventually while judging plainly that the game passed him by: he had zero interest in adjusting to the new era, and Oklahoma State went a combined 4-11 in 2024 and 2025. *(p. 136)*
 
+
 Referenced in the guide on **pp. 7, 39, 75, 167, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -277,18 +282,17 @@ As printed on p. 137. Each category carries a value and a national rank.
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 5.5**.
 - The guide tempers expectations with precedent: the Big 12 makes a quick turnaround hard, and Morris himself went 5-7 in his first year at North Texas. It notes he has legitimate offensive stars including Drew Mestemaker, so even short of success this should be fun to watch. *(p. 136)*
-- Recommendation is Over 5.5 wins. The guide calls the defense's look concerning while crediting coordinator Skyler Cassity with doing more with less. *(p. 136)*
 - Its path is arithmetic: easy wins over Tulsa and Murray State, winnable home games against UCF, Colorado and Kansas, and then just one road win needed from West Virginia, Iowa State and Kansas State — which it expects to happen. *(p. 136)*
-- Mestemaker was the best Group of Five quarterback in the country and posted the best numbers of any FBS quarterback, with NFL scouts drawn to his arm, mobility and ability to read defenses. The guide raises the translation question and supplies specific counter-evidence: he had more interceptions than touchdowns in two of North Texas's biggest games, against South Florida and at Tulane. It is fair in noting those losses were not only on him, while insisting he must prove he can handle tougher competition, and identifies the 12 September game against Oregon as the early test. *(p. 137)*
-- North Texas's 0.06 Adjusted EPA per play allowed was poor, but good enough to let Mestemaker win games — which the guide says is the goal again. Cassity was praised for turning that defense into a high-turnover unit and will hope the aggressive style works in the Big 12. The problem it identifies is talent: only four players who started in 2025 are in the projected lineup, with the rest youth and unproven transfers. Its conclusion is direct — this could be one of the Big 12's worst defenses, which is why it is hard to fully buy Oklahoma State as a conference sleeper. *(p. 137)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Recommendation is Over 5.5 wins. The guide calls the defense's look concerning while crediting coordinator Skyler Cassity with doing more with less. *(p. 136)*
-- Mestemaker was the best Group of Five quarterback in the country and posted the best numbers of any FBS quarterback, with NFL scouts drawn to his arm, mobility and ability to read defenses. The guide raises the translation question and supplies specific counter-evidence: he had more interceptions than touchdowns in two of North Texas's biggest games, against South Florida and at Tulane. It is fair in noting those losses were not only on him, while insisting he must prove he can handle tougher competition, and identifies the 12 September game against Oregon as the early test. *(p. 137)*
-- Oklahoma State lost seven players from last year's offensive line options, so Morris went to the portal, adding second-team All-AAC guard Johnny Dickson, three Power Four starters and a starting guard from Coastal Carolina. The guide notes experience will not be lacking but leaves quality genuinely open. Morris is excited about how it is coming together and added depth. It frames this as one of the most important position groups in the country this year, because the line must hold up for the offense to explode in the Big 12. *(p. 137)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 136; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

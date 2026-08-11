@@ -137,6 +137,7 @@ Not addressed in guide.
 
 - The case for the promotion it records is production — on Anderson's watch the offense improved by 13.5 PPG and a full yard per play — which it says left the administration comfortable despite those recent misgivings. *(p. 342)*
 
+
 Referenced in the guide on **pp. 71** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
@@ -187,8 +188,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 342** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 342**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -226,6 +228,7 @@ Where contributors disagree, every position is kept separately and none is recon
 
 - The guide describes last season as catching lightning in a bottle: one year with Charles Huff, who brought a group of Marshall players with him and took the Golden Eagles to a bowl after a disastrous 1-11 campaign. *(p. 342)*
 - **Should we fear the unknown?** The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
+
 
 Referenced in the guide on **pp. 6, 25, 29, 59, 70, 71** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -273,8 +276,8 @@ As printed on p. 343. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **3.7 wins** against a posted total of 3.5 — **+0.2** in this team's favour.
-- The case for the promotion it records is production — on Anderson's watch the offense improved by 13.5 PPG and a full yard per play — which it says left the administration comfortable despite those recent misgivings. *(p. 342)*
-- The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -282,10 +285,8 @@ As printed on p. 343. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 3.5**.
 - Its supporting evidence is how rarely Southern Miss is favoured: only twice, with a very tepid favourite role at UL Monroe on Halloween the only FBS game where it lays a number. *(p. 342)*
-- It calls drawing James Madison and Old Dominion from the East as brutal as it gets, and concludes that this is not a bet but very clearly a transitional season in Hattiesburg. *(p. 342)*
-- The guide explains the roster loss structurally: many players went to Memphis with Huff or simply wanted to play their final season for him, leaving basically no returning production anywhere, quarterback included. Landry Lyddy did stay after throwing for 406 yards with a 2/3 touchdown-to-interception ratio and 12 yards on six carries, and it allows the possibility he was merely stuck behind Braylon Braxton, who posted a 24/8 ratio with over 3,000 passing yards. Anderson's addition is Ethan Hampton from Illinois, who started a few games at Northern Illinois but barely played for the Illini; John White played in 2024 but not last season. Its expectation is deflationary — the Golden Eagles threw for 266 yards per game last season, their most since 2019, and it says not to expect anything like that again. *(p. 343)*
-- The guide quantifies the turnover precisely: 20 players had at least 20 tackles last season and 19 of them are playing elsewhere or not at all, while all nine players with at least 15 receptions are outside the programme, leaving a hodgepodge of transfers and holdovers who stayed knowing jobs were available. It then argues the baseline was weaker than the record: a 7-6 season after 1-11 was a massive achievement, but the team was only +18 in point differential and +0.3 in yards per play, was out-gained on a per-carry basis, and benefitted heavily from a +14 turnover margin — a combination it calls hard to believe. It adds the market record: Southern Miss lost twice as a favourite over the final three games and also lost as a pick 'em and at +1. Its conclusion is carefully worded — not that this team will be better, but that last year's team was not that good. *(p. 343)*
-- The second unknown is coordinator Joe Bolden, who has never held the position before. The guide lists a varied path — special teams coordinator at Southern Miss last season, a playing career at Michigan followed by a graduate assistantship there, a spell coaching at Ohio State, plus stops at Nevada and Tulsa — and notes he has not stayed long anywhere, admitting it is unsure what to make of that. Its verdict is blunt: a great many JUCO and FCS transfers combined with a first-time coordinator has serious recipe-for-disaster potential. *(p. 343)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

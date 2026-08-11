@@ -120,6 +120,7 @@ The Stability Score table prints the same figure independently: **7 returning st
 
 - **Can the defense get better even if the offense doesn’t?** The guide says it could and should, because this was the worst defense in the nation in yards allowed per game. It forecloses the schedule excuse directly: even with UNLV, Hawaii, Texas and Oregon State in non-conference, the Bearkats gave up more yards per game to conference opponents in a terrible offensive conference. Its comparisons are pointed — among teams playing exactly 12 games, only Stanford allowed more passing yards, and only Georgia State, UAB and UMass allowed more points per game. It reuses its own joke that returning production would be an oxymoron here, notes there is little anyway, and reports that second-year coordinator Freddie Aughtry-Lindsay did a great deal of portal shopping — with 247Sports rating the Bearkats' haul the best in the conference and the secondary a huge focal point. *(p. 205)*
 
+
 Referenced in the guide on **pp. 195** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -130,6 +131,7 @@ Not addressed in guide.
 
 - On offense it uses a mechanical image for the mismatch between scheme and personnel — Longo is in Year 2 of installing a new system, but is attempting to put a Dodge Dart engine into a Geo Prizm. This year's roster may be closer to what he wants, though probably not close enough for much improvement. Projection is 2.66 wins. *(p. 204)*
 - **(Sam) Houston, what are the problems on offense?** The guide's answer is that there are many, but it isolates the position responsible. Longo is a longtime coordinator who likes tempo and the Air Raid; his quarterbacks combined for a 12/10 touchdown-to-interception ratio and just 2,209 yards. It defends the run game — serviceable at 4.3 yards per carry, with running backs averaging 5.8, 6.7 and 4.2, the overall figure dragged down badly by the quarterbacks. The line was far from great at 36 sacks allowed, but its verdict is that finishing 127th in PPG falls on the players calling out the offense and the person calling it. The projected starter is Landyn Locke, who threw for 765 yards while completing 50.4% of his passes. *(p. 205)*
+
 
 Referenced in the guide on **pp. 339** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -228,6 +230,7 @@ Prices printed on the team page *(p. 205)*:
 - It stresses how bad the underlying numbers were despite a +2 turnover margin: out-scored by 20 PPG overall and 19 PPG in conference play, with seven yards per play allowed — figures it calls extremely difficult to build off. *(p. 204)*
 - **Will the real Sam Houston please stand up?** The guide reopens the good season for inspection. KC Keeler left for Temple, returning home to southeastern Pennsylvania after a 10-3 year in 2024 — thoroughly impressive, though it notes the Bearkats were 3-9 under him in 2023, their first Conference USA season. It then argues the 10-3 was thinner than it looked: only 23.8 PPG scored against 20.5 allowed and just +0.2 in yards-per-play differential, with a +12 turnover margin doing a lot of heavy lifting, a -2 sack differential, and a 6-0 record in games decided by six points or fewer, including the New Orleans Bowl win over Georgia Southern. Its conclusion is that it is hard not to see 2023 and 2025 as more representative of what to expect. *(p. 205)*
 
+
 Referenced in the guide on **pp. 72, 195, 257** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -274,9 +277,8 @@ As printed on p. 205. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - On the positive side, the Bearkats return to their home stadium after being forced to relocate last season for renovations. *(p. 204)*
-- On offense it uses a mechanical image for the mismatch between scheme and personnel — Longo is in Year 2 of installing a new system, but is attempting to put a Dodge Dart engine into a Geo Prizm. This year's roster may be closer to what he wants, though probably not close enough for much improvement. Projection is 2.66 wins. *(p. 204)*
-- The guide says it could and should, because this was the worst defense in the nation in yards allowed per game. It forecloses the schedule excuse directly: even with UNLV, Hawaii, Texas and Oregon State in non-conference, the Bearkats gave up more yards per game to conference opponents in a terrible offensive conference. Its comparisons are pointed — among teams playing exactly 12 games, only Stanford allowed more passing yards, and only Georgia State, UAB and UMass allowed more points per game. It reuses its own joke that returning production would be an oxymoron here, notes there is little anyway, and reports that second-year coordinator Freddie Aughtry-Lindsay did a great deal of portal shopping — with 247Sports rating the Bearkats' haul the best in the conference and the secondary a huge focal point. *(p. 205)*
-- The guide reopens the good season for inspection. KC Keeler left for Temple, returning home to southeastern Pennsylvania after a 10-3 year in 2024 — thoroughly impressive, though it notes the Bearkats were 3-9 under him in 2023, their first Conference USA season. It then argues the 10-3 was thinner than it looked: only 23.8 PPG scored against 20.5 allowed and just +0.2 in yards-per-play differential, with a +12 turnover margin doing a lot of heavy lifting, a -2 sack differential, and a 6-0 record in games decided by six points or fewer, including the New Orleans Bowl win over Georgia Southern. Its conclusion is that it is hard not to see 2023 and 2025 as more representative of what to expect. *(p. 205)*
+
+*5 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -285,7 +287,8 @@ As printed on p. 205. Each category carries a value and a national rank.
 - Makinen projects **2.7 wins** against a posted total of 3.5 — **-0.8** against this team.
 - The team page recommends **UNDER 3.5**.
 - The season's shape: an 0-8 start before a couple of stunning upsets over Oregon State and Delaware. Sam Houston was favoured exactly once and lost that game by 27 points at New Mexico State. *(p. 204)*
-- It stresses how bad the underlying numbers were despite a +2 turnover margin: out-scored by 20 PPG overall and 19 PPG in conference play, with seven yards per play allowed — figures it calls extremely difficult to build off. *(p. 204)*
+
+*5 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -118,17 +118,20 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 - **Is Kienholz the missing "Linc"?** Miller Moss was not the answer, posting pedestrian numbers after taking over from Tyler Shough — under 3,000 yards with 16 touchdown passes — though the guide notes both he and Shough at least arrived with substantial college experience. Brohm went to the portal again for Ohio State's Lincoln Kienholz, a multi-sport star from South Dakota who threw only 36 passes in three seasons at Columbus. It judges the talent should be there, notes a more experienced alternative in two-year West Georgia starter Davin Wydner, and calls getting the position right a huge start. *(p. 93)*
 
+
 Referenced in the guide on **pp. 15** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 93** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 93**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - Its case is that Brohm always makes the passing game work and this could be his first 200-yards-per-game rushing attack. The conditional is precise — cutting the trademark losses from two to one gets this home at a nice plus-money price, even though its own projection is 8.02 wins. *(p. 92)*
 - **What can Brown do for Louisville?** Isaac and Keyjuan Brown, unrelated, combined for just under 1,600 rushing yards and 13 touchdowns. Isaac did not match his 1,173-yard freshman season but missed several games, and with 8.8 yards per carry the guide wonders what better health would have produced; Keyjuan averaged over seven. It ties this to a bigger problem: Chris Bell and Caullin Lacy accounted for 132 of the team's 268 receptions and over 54% of its receiving yards and are both gone, making Kienholz's running plus the two Browns the keys to offsetting an entirely new receiver corps. *(p. 93)*
+
 
 Referenced in the guide on **pp. 36** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -175,8 +178,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 13**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -204,6 +208,14 @@ Prices printed on the team page *(p. 93)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Tim Murray | LINCOLN KIENHOLZ TO WIN HEISMAN TROPHY (100-1) *(player market — Lincoln Kienholz)* | 15 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - It identifies a specific recurring flaw: Brohm has lost as a touchdown-or-better favorite at least twice in each of the last three seasons — to Pitt, Kentucky, Stanford, Virginia and Cal, and fairly notes one 2024 loss was to SMU, who became a surprise playoff team. *(p. 92)*
 - The same volatility runs the other way: Brohm has produced upset wins over Miami, Clemson and Notre Dame in three seasons, including last year at Coral Gables against a Miami side ranked No. 2. The guide calls the consistency remarkable, not only in record but in the path taken to it. *(p. 92)*
 - Recommendation is Over 8.5 wins. The conference schedule misses Miami and Clemson, and the games against SMU and Pitt are at home. *(p. 92)*
@@ -214,6 +226,7 @@ Prices printed on the team page *(p. 93)*:
 - Jeff Brohm has won 10, 9 and 9 games since returning in 2023 but reached the ACC title game only once, playing in the Holiday, Sun and Boca Raton Bowls. The guide frames the task as getting to the next level. *(p. 92)*
 - It identifies a specific recurring flaw: Brohm has lost as a touchdown-or-better favorite at least twice in each of the last three seasons — to Pitt, Kentucky, Stanford, Virginia and Cal, and fairly notes one 2024 loss was to SMU, who became a surprise playoff team. *(p. 92)*
 - The same volatility runs the other way: Brohm has produced upset wins over Miami, Clemson and Notre Dame in three seasons, including last year at Coral Gables against a Miami side ranked No. 2. The guide calls the consistency remarkable, not only in record but in the path taken to it. *(p. 92)*
+
 
 Referenced in the guide on **pp. 15, 19** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -261,9 +274,8 @@ As printed on p. 93. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 8.5**.
-- The opener against Ole Miss in Nashville is called a good litmus test for both, noting the Rebels' unfriendly parting with Lane Kiffin before last year's playoff. *(p. 92)*
-- Miller Moss was not the answer, posting pedestrian numbers after taking over from Tyler Shough — under 3,000 yards with 16 touchdown passes — though the guide notes both he and Shough at least arrived with substantial college experience. Brohm went to the portal again for Ohio State's Lincoln Kienholz, a multi-sport star from South Dakota who threw only 36 passes in three seasons at Columbus. It judges the talent should be there, notes a more experienced alternative in two-year West Georgia starter Davin Wydner, and calls getting the position right a huge start. *(p. 93)*
-- The guide argues Brohm's habit of losing games he should not has obscured a stellar defense. Co-coordinators Ron English and Mark Hagen are gone, English stepping away for his son's senior season at Navy, and Brohm promoted internally — linebackers coach Mark Ivey, a Scott Satterfield holdover, and defensive backs coach Steve Ellis. Louisville allowed just over 21 points per game in two of three seasons and just over 24 in the other, has never allowed more than 3.7 yards per carry under Brohm, and gave up 4.7 yards per play last year, 15th nationally. With only one of the top six tacklers back it may struggle to hold that bar, though the guide notes the programme has responded strongly to major losses before. *(p. 93)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -271,10 +283,8 @@ As printed on p. 93. Each category carries a value and a national rank.
 
 - Makinen projects **8.2 wins** against a posted total of 8.5 — **-0.3** against this team.
 - It identifies a specific recurring flaw: Brohm has lost as a touchdown-or-better favorite at least twice in each of the last three seasons — to Pitt, Kentucky, Stanford, Virginia and Cal, and fairly notes one 2024 loss was to SMU, who became a surprise playoff team. *(p. 92)*
-- The opener against Ole Miss in Nashville is called a good litmus test for both, noting the Rebels' unfriendly parting with Lane Kiffin before last year's playoff. *(p. 92)*
-- Its case is that Brohm always makes the passing game work and this could be his first 200-yards-per-game rushing attack. The conditional is precise — cutting the trademark losses from two to one gets this home at a nice plus-money price, even though its own projection is 8.02 wins. *(p. 92)*
-- Isaac and Keyjuan Brown, unrelated, combined for just under 1,600 rushing yards and 13 touchdowns. Isaac did not match his 1,173-yard freshman season but missed several games, and with 8.8 yards per carry the guide wonders what better health would have produced; Keyjuan averaged over seven. It ties this to a bigger problem: Chris Bell and Caullin Lacy accounted for 132 of the team's 268 receptions and over 54% of its receiving yards and are both gone, making Kienholz's running plus the two Browns the keys to offsetting an entirely new receiver corps. *(p. 93)*
-- The guide argues Brohm's habit of losing games he should not has obscured a stellar defense. Co-coordinators Ron English and Mark Hagen are gone, English stepping away for his son's senior season at Navy, and Brohm promoted internally — linebackers coach Mark Ivey, a Scott Satterfield holdover, and defensive backs coach Steve Ellis. Louisville allowed just over 21 points per game in two of three seasons and just over 24 in the other, has never allowed more than 3.7 yards per carry under Brohm, and gave up 4.7 yards per play last year, 15th nationally. With only one of the top six tacklers back it may struggle to hold that bar, though the guide notes the programme has responded strongly to major losses before. *(p. 93)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

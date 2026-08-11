@@ -122,6 +122,7 @@ The Stability Score table prints the same figure independently: **11 returning s
 - **Will Kenny Minchey be everything he was expected to be?** Flipping Minchey from a Nebraska commitment in a single day is presented as the clearest signal of a new era, with the guide gesturing at NIL as the likely mechanism. He arrives from Notre Dame, where he genuinely pushed CJ Carr in camp. A former four-star, he completed 20 of 26 passes for 196 yards and rushed for 84 yards and a touchdown in spot duty. Paired with Stein, who developed quarterbacks at Oregon, the guide rates the fit very highly. *(p. 295)*
 - **What happens to the defense?** With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
 
+
 Referenced in the guide on **pp. 20, 135, 192, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -130,13 +131,15 @@ Referenced in the guide on **pp. 20, 135, 192, 321** — those passages are not 
 
 ## 13. Offensive Identity
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 18, 36, 170, 192, 294, 295** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 18, 36, 170, 192, 294, 295**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - The Over also depends on coordinator Jay Bateman getting the defense to repeat its 2025 production. *(p. 294)*
 - **What happens to the defense?** With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
+
 
 Referenced in the guide on **pp. 18, 36, 135, 291, 329** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -221,6 +224,7 @@ Where contributors disagree, every position is kept separately and none is recon
 
 - Mark Stoops is characterized as consistent but unremarkable — 82 wins, four bowls and two double-digit seasons in 13 years — with results steadily declining to a two-win floor in 2025. *(p. 294)*
 
+
 Referenced in the guide on **pp. 119, 291** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -268,16 +272,16 @@ As printed on p. 295. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 4.5**.
 - Will Stein arrives at 36 from Oregon with a deep offensive background, described as the opposite of Stoops in almost every way. The guide also notes Kentucky appears to be spending more to back him. *(p. 294)*
-- Schedule is not daunting: road games at Texas A&M and Oklahoma, but no Georgia, Texas or Ole Miss, a home game with Alabama, and winnable fixtures against mid-tier SEC opposition in Vanderbilt, Tennessee, South Carolina and Missouri. *(p. 294)*
-- With a defensive head coach replaced by an offensive one, the guide asks what becomes of Kentucky's traditionally steady defense. Jay Bateman arrives from Texas A&M out of the Mike Elko tree, which it treats as a positive. Six starters return including leading tackler and interceptor Ty Bryant (76 tackles, 4 interceptions), the defensive line is largely intact after limiting opponents to 3.7 yards per carry, and six more transfers join it. Conclusion: if Bateman shows Elko-like qualities as a play-caller, the unit should at least match 2025. *(p. 295)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **4.3 wins** against a posted total of 4.5 — **-0.2** against this team.
-- Schedule is not daunting: road games at Texas A&M and Oklahoma, but no Georgia, Texas or Ole Miss, a home game with Alabama, and winnable fixtures against mid-tier SEC opposition in Vanderbilt, Tennessee, South Carolina and Missouri. *(p. 294)*
-- Stein told SEC media days he would be the reason Kentucky succeeds, and the guide finds the confidence refreshing while treating the underlying question as open. He is the second-youngest Power Four head coach, spent three seasons under Dan Lanning, had a hand in developing Bo Nix, Dillon Gabriel and Dante Moore, and called plays for an offense that never finished below 13th nationally in scoring. The guide lists the real unknowns plainly: whether he can keep developing quarterbacks with head-coaching duties, and whether he can run an efficient SEC offense with less talent than at Oregon. Its answer rests on his confidence rather than evidence. *(p. 295)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -264,8 +264,8 @@ As printed on p. 233. Each category carries a value and a national rank.
 
 - Makinen projects **7.8 wins** against a posted total of 6.5 — **+1.3** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- It frames that as a pattern with an upside: two straight seasons losing in Detroit with the hardware on the line, but also a third consecutive Motor City appearance. *(p. 232)*
-- Its conference schedule read: Miami misses newcomer Sacramento State and Eastern Michigan, but gets UMass and Kent State on the road, two very winnable trips. *(p. 232)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -274,7 +274,8 @@ As printed on p. 233. Each category carries a value and a national rank.
 - Its evidence is a perfect correlation with the market: Miami was an underdog in all seven losses and a favourite in all seven wins. *(p. 232)*
 - The exception it regrets is that one of those defeats came against Western Michigan, which avenged a regular-season loss in the conference title game. *(p. 232)*
 - Recommendation is Over 7.5 wins, with the MAC co-favourites expected to split non-conference — two Power Four losses and two wins. *(p. 232)*
-- The guide identifies a stout defense as a staple of the Martin era, and reads last season generously: 21.7 PPG allowed was the most since 2022, but the 41 sacks were the most in a long time, and with the offense completing under 50% of its passes the unit faced tougher situations than in previous seasons and still did fine — allowing under 200 passing yards per game in conference play and just 3.7 yards per carry. The losses it calls extremely heavy: Eli Blakey, Jackson Kuwatch and Corban Hondru amassed more than 300 tackles, eight sacks, 11 pass breakups and 12 quarterback hits, while top pass rusher Adam Trick leaves after 8.5 sacks and 13 hits. Its conclusion holds both facts: Martin always finds defenders and losing players is nothing new, but it might take some time given who departed. *(p. 233)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

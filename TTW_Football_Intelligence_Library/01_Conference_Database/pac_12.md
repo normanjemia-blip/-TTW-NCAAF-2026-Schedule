@@ -228,7 +228,7 @@ Full national context: [09 — Power Rating Index](../00_Master_Index/09_Power_R
 
 - **Colorado State Rams** (p. 269) — UConn transfer K’saan Farrar might figure to have the inside track due to his history with Mora.
 
-- **Fresno State Bulldogs** (p. 271) — Championship steve makinen power rating make the playoff RANK # CONFERENCE: NATIONAL: # RANK Will a Maryland transfer pass the test?
+- **Fresno State Bulldogs** (p. 271) — Will a Maryland transfer pass the test?
 
 - **Oregon State Beavers** (p. 273) — Murphy transferred to Duke in 2024 and posted a 9-3 record as a starter while passing for 2,933 yards and 26 touchdowns.
 

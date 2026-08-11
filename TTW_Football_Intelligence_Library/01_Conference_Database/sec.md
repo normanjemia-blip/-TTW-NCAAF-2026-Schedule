@@ -191,7 +191,7 @@ Full national context: [09 — Power Rating Index](../00_Master_Index/09_Power_R
 
 - **Florida Gators** (p. 291) — There’s nowhere to go but up for this offense after 2025, but signal-caller is a massive question.
 
-- **Georgia Bulldogs** (p. 293) — Championship steve makinen power rating make the playoff RANK # CONFERENCE: NATIONAL: # RANK Do the Bulldogs have a Heisman contender at quarterback?
+- **Georgia Bulldogs** (p. 293) — Do the Bulldogs have a Heisman contender at quarterback?
 
 - **Kentucky Wildcats** (p. 294) — Minchey should thrive learning under him, and Stein brought in a decent amount of talent to supplement the skill positions and give his new QB a good stable of weapons.
 

@@ -125,12 +125,14 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **Will Chadwell fix the passing game?** The guide's framing is that it is hardly a coincidence Chadwell was preparing to leave Coastal Carolina just as Grayson McCall ran out of eligibility. He did bring former Chanticleer Ethan Vasko with him, but it did not work out — a 10/12 touchdown-to-interception ratio, under 2,000 passing yards, and 2.6 yards per carry on 100 attempts. Vasko remains on the roster alongside portal addition Deshawn Purdie, formerly at Wake Forest, plus receiver transfers from Charleston Southern and Indiana. It explains the scheme requirement and why last season failed it: Chadwell's offense is predicated on heavy pre-snap motion to get players into space, and Vasko did not make those throws, while Purdie is only a 50% passer across 282 attempts. Its verdict is that Chadwell has options, but whether any is good remains to be seen. *(p. 197)*
 - **But maybe he doesn’t have to?** The guide names former Army running back Kanye Udoh one of the top free-agent pickups in the conference, tracing his path — 1,117 rushing yards in 2024, a transfer out of West Point, little action at Arizona State, and now a return to the East Coast. He replaces Evan Dickens, a bright spot in an otherwise lacklustre offense with 1,339 yards and 16 touchdowns from the backfield, with Peyton Jones from Duke and Kam Davis from Florida State also promising. Its structural point is that Chadwell's offense has changed identity: pass-first when he had McCall, now run-first, with 508 carries against 316 pass attempts last season. Its conclusion follows — the quarterbacks only need to complete enough passes to keep defenses honest. *(p. 197)*
 
+
 Referenced in the guide on **pp. 81, 195** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 6** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 6**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -138,6 +140,7 @@ Referenced in the guide on **pp. 6** — those passages are not reproduced here;
 - It keeps the open questions explicit — whether quarterback is actually better, and whether Udoh can match what Dickens did — while noting depth is stronger at both positions and the offensive line looks significantly better. *(p. 196)*
 - **Will Chadwell fix the passing game?** The guide's framing is that it is hardly a coincidence Chadwell was preparing to leave Coastal Carolina just as Grayson McCall ran out of eligibility. He did bring former Chanticleer Ethan Vasko with him, but it did not work out — a 10/12 touchdown-to-interception ratio, under 2,000 passing yards, and 2.6 yards per carry on 100 attempts. Vasko remains on the roster alongside portal addition Deshawn Purdie, formerly at Wake Forest, plus receiver transfers from Charleston Southern and Indiana. It explains the scheme requirement and why last season failed it: Chadwell's offense is predicated on heavy pre-snap motion to get players into space, and Vasko did not make those throws, while Purdie is only a 50% passer across 282 attempts. Its verdict is that Chadwell has options, but whether any is good remains to be seen. *(p. 197)*
 - **But maybe he doesn’t have to?** The guide names former Army running back Kanye Udoh one of the top free-agent pickups in the conference, tracing his path — 1,117 rushing yards in 2024, a transfer out of West Point, little action at Arizona State, and now a return to the East Coast. He replaces Evan Dickens, a bright spot in an otherwise lacklustre offense with 1,339 yards and 16 touchdowns from the backfield, with Peyton Jones from Duke and Kam Davis from Florida State also promising. Its structural point is that Chadwell's offense has changed identity: pass-first when he had McCall, now run-first, with 508 carries against 316 pass attempts last season. Its conclusion follows — the quarterbacks only need to complete enough passes to keep defenses honest. *(p. 197)*
+
 
 Referenced in the guide on **pp. 339** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -147,6 +150,7 @@ Referenced in the guide on **pp. 339** — those passages are not reproduced her
 - Its biggest selling point is the Quinn hire at coordinator: Virginia Tech almost always has a strong defense, and it rates him as someone who can identify talent in the DMV at a very high level. *(p. 196)*
 - It expects the defense to be better against the run, which should make a huge difference. Projection is 8.24 wins, with a stated liking for Liberty's chances to win more of the close games. *(p. 196)*
 - **Is new DC Shawn Quinn the right man for the job?** The guide argues coordinator hires matter at any programme but especially in the Group of Six, because talent levels vary so much. Quinn was Virginia Tech's outside linebackers coach and went 16-6 as head coach at Savannah State before joining the Hokies. It notes the irony that Quinn was defensive coordinator at Charleston Southern the year before Chadwell took over there, so the two have probably crossed paths without ever working together. Leading tackler Derrell Farrar returns, but it describes the unit as mostly a blank slate — which it treats as good, since what hurt Liberty was allowing 0.7 more yards per carry than in the two previous seasons, exactly what a linebackers coach turned coordinator should be able to fix. *(p. 197)*
+
 
 Referenced in the guide on **pp. 163** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -194,8 +198,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 6** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 6**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -238,6 +243,7 @@ Also referenced on **pp. 187, 190** — not reproduced here.
 - It measures the fall against Jamey Chadwell's own career: his worst record since 2017, when he was interim head coach at Coastal Carolina while Joe Moglia dealt with health issues and the Chanticleers went 3-9. *(p. 196)*
 - It says the cause is hard to pinpoint, listing the only wins — Maine, UTEP, New Mexico State and Delaware — alongside four losses as a favourite. *(p. 196)*
 - It gives the bad-luck argument its due: Liberty lost its last three games in overtime, to FIU, Louisiana Tech and Kennesaw State. *(p. 196)*
+
 
 Referenced in the guide on **pp. 6, 46, 195** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -287,9 +293,8 @@ As printed on p. 197. Each category carries a value and a national rank.
 - The team page recommends **OVER 8.5**.
 - Recommendation is Over 8.5 wins, on the basis that just about every unit has been improved in some way. *(p. 196)*
 - Its biggest selling point is the Quinn hire at coordinator: Virginia Tech almost always has a strong defense, and it rates him as someone who can identify talent in the DMV at a very high level. *(p. 196)*
-- The guide's framing is that it is hardly a coincidence Chadwell was preparing to leave Coastal Carolina just as Grayson McCall ran out of eligibility. He did bring former Chanticleer Ethan Vasko with him, but it did not work out — a 10/12 touchdown-to-interception ratio, under 2,000 passing yards, and 2.6 yards per carry on 100 attempts. Vasko remains on the roster alongside portal addition Deshawn Purdie, formerly at Wake Forest, plus receiver transfers from Charleston Southern and Indiana. It explains the scheme requirement and why last season failed it: Chadwell's offense is predicated on heavy pre-snap motion to get players into space, and Vasko did not make those throws, while Purdie is only a 50% passer across 282 attempts. Its verdict is that Chadwell has options, but whether any is good remains to be seen. *(p. 197)*
-- The guide names former Army running back Kanye Udoh one of the top free-agent pickups in the conference, tracing his path — 1,117 rushing yards in 2024, a transfer out of West Point, little action at Arizona State, and now a return to the East Coast. He replaces Evan Dickens, a bright spot in an otherwise lacklustre offense with 1,339 yards and 16 touchdowns from the backfield, with Peyton Jones from Duke and Kam Davis from Florida State also promising. Its structural point is that Chadwell's offense has changed identity: pass-first when he had McCall, now run-first, with 508 carries against 316 pass attempts last season. Its conclusion follows — the quarterbacks only need to complete enough passes to keep defenses honest. *(p. 197)*
-- The guide argues coordinator hires matter at any programme but especially in the Group of Six, because talent levels vary so much. Quinn was Virginia Tech's outside linebackers coach and went 16-6 as head coach at Savannah State before joining the Hokies. It notes the irony that Quinn was defensive coordinator at Charleston Southern the year before Chadwell took over there, so the two have probably crossed paths without ever working together. Leading tackler Derrell Farrar returns, but it describes the unit as mostly a blank slate — which it treats as good, since what hurt Liberty was allowing 0.7 more yards per carry than in the two previous seasons, exactly what a linebackers coach turned coordinator should be able to fix. *(p. 197)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -299,6 +304,8 @@ As printed on p. 197. Each category carries a value and a national rank.
 - It says the cause is hard to pinpoint, listing the only wins — Maine, UTEP, New Mexico State and Delaware — alongside four losses as a favourite. *(p. 196)*
 - It gives the bad-luck argument its due: Liberty lost its last three games in overtime, to FIU, Louisiana Tech and Kennesaw State. *(p. 196)*
 - It keeps the open questions explicit — whether quarterback is actually better, and whether Udoh can match what Dickens did — while noting depth is stronger at both positions and the offensive line looks significantly better. *(p. 196)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

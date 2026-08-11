@@ -121,8 +121,9 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 219** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 219**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -178,8 +179,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 218** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 218**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -213,6 +215,7 @@ Also referenced on **pp. 230** — not reproduced here.
 - It sets the drought in its longest terms — no winning conference record outside the 2020 COVID season since 2013, and no MAC title game appearance outside that year since 2008. *(p. 218)*
 - It is fair to the exception it just discounted: downplaying the COVID year may be harsh, since Ball State went 7-1 and beat San Jose State in the Arizona Bowl, though obviously many factors were in play that season. *(p. 218)*
 - Its reason for the hedge: even with 16 PPG in conference play the Cardinals still won three of those eight games, plus the win over FCS New Hampshire. *(p. 218)*
+
 
 Referenced in the guide on **pp. 71, 231** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -263,7 +266,8 @@ As printed on p. 219. Each category carries a value and a national rank.
 - It sets the drought in its longest terms — no winning conference record outside the 2020 COVID season since 2013, and no MAC title game appearance outside that year since 2008. *(p. 218)*
 - Recommendation is Under 3.5 wins, which the guide itself calls a tepid take at best. *(p. 218)*
 - The schedule works against them — two of the three most winnable conference games are road trips to Kent State and UMass — and it notes the shocking upset of Ohio last season probably does not repeat with the game in Athens. Projection is 3.41 wins, with four wins hard to find. *(p. 218)*
-- Here the guide finds a success story. Uremovich brought his Butler coordinator and longtime best friend Jeff Knowles to Muncie, and Knowles took a unit that had allowed over 40 PPG in Neu's final defense down to 29.8 PPG while shaving a full yard per play. It argues the unit deserves extra credit for workload: Ball State played slowly to protect it, averaging just 60.8 plays per game, while the defense faced 67.3. Its qualifications are that more pass rushers would not hurt, and that Knowles returns only two starters, both in the secondary. *(p. 219)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -271,8 +275,8 @@ As printed on p. 219. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 3.5**.
 - On the current coach it finds little to like in Year 1: Mike Uremovich's 4-8 season featured very little to be excited about, with brutal special teams, just 272 yards of offense per game, and a -26 sack differential including 49 sacks allowed. *(p. 218)*
-- The guide answers the question literally — somebody must start — before saying there is no clear evidence any of them can be an FBS-level starter, even in the MAC. Its inventory: Keldric Luster barely played across two years at SMU and again at Texas State last season; Division II transfer Tyler Mizzell threw 10 interceptions with 26 touchdown passes for Concord after leaving Wake Forest; redshirt freshman Khalel Wright came in with Uremovich's first freshman class; and this year's top true freshman recruit Mason Adkins could get a chance. It sets the baseline as exceedingly low — 15.8 PPG, 4.5 yards per play, 49 sacks, and a starting quarterback who threw for just 1,583 yards — and still concludes the bar does not seem likely to move much higher. *(p. 219)*
-- The guide measures returning production in touchdowns: one rushing and two receiving. It grants there were few touchdowns to bring back regardless, while noting these are essentially two new position groups. The returning benchmarks are thin — quarterback Kiael Kelly led the team with just 600 rushing yards at 2.8 per carry, Qian Magwood led receivers with 19 catches for 320 yards, and returnee Donovan Hamilton had 20 for 244. It allows that Uremovich may well prefer his own portal class and two freshman classes to what he inherited from Mike Neu, but is direct about the record: as his own play-caller, last year's results were pathetic, and the roster's talent level looks similarly low, even if the offensive line might be better. *(p. 219)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

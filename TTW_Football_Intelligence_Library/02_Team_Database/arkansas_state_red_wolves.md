@@ -128,12 +128,14 @@ The Stability Score table prints the same figure independently: **10 returning s
 - **Who will emerge at quarterback?** The guide expects this to take time and lists the whole field. Ethan Crawford is the holdover but did not play last season; Trey Owens was a four-star Texas prospect committed to UT who never saw the field; Drew Dickey and Jeremy St-Hilaire sat behind Pavia at Vanderbilt. Its summary is essentially zero experience on the roster, with a distinct reason to believe in each: the ex-Commodores already know Altman's philosophy, Owens probably has the most untapped upside, and Crawford knows the returning skill players — top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 receiver Chauncy Cobb, who had 73 catches last season. *(p. 333)*
 - **Will the Red Wolves be a good Over bet?** The guide credits first-year coordinator Griff McCarley with an immediate pass-rush jump from 19 sacks to 39, while noting the defense still allowed over six yards per play — 6.1, better than the prior 6.9. Its doubt is about repeatability with a completely new defensive line, since essentially everyone with more than one sack has transferred or exhausted eligibility. The damning combination it cites is that Arkansas State was tied for sixth nationally in sacks per game yet still forced only seven interceptions and allowed a 68.4% completion rate. Its stated position is a great deal of doubt about the defense alongside full expectation of offensive improvement, concluding that this team could produce some track meets. *(p. 333)*
 
+
 Referenced in the guide on **pp. 319** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 319, 333** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 319, 333**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -141,6 +143,7 @@ Referenced in the guide on **pp. 319, 333** — those passages are not reproduce
 - Also in favour: a new offensive coordinator in Garrett Altman, who spent the last two years coaching Diego Pavia at Vanderbilt, meaning a fresh installation is going in anyway. *(p. 332)*
 - Against it: Raynor leaves at the same time as all-time leading receiver Corey Rucker, so there is a great deal of offensive production to replace. *(p. 332)*
 - **Can Altman turn things around on offense?** The guide reads Raynor's headline number sceptically: a career-best 3,361 passing yards came with a Sun Belt-leading 501 attempts. It was his best season by completion percentage but his lowest in yards per reception, only slightly better than the year before in yards and adjusted yards per attempt, and his worst on a per-carry basis. Team-wide, Arkansas State fell from 4.2 yards per carry across the previous two seasons to 3.8 and posted a -7 turnover margin. Its case for Altman is recency and pedigree — still playing at TCU a decade ago, an analyst at New Mexico State when Pavia was there, and therefore instrumental in every phase of that quarterback's development — with the supporting fact that Vanderbilt led the nation at 7.47 yards per play last season. Its conclusion is that he may well create a much more explosive offense. *(p. 333)*
+
 
 Referenced in the guide on **pp. 25** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -231,6 +234,7 @@ Prices printed on the team page *(p. 333)*:
 - It singles out one achievement as evidence of coaching: a 5-3 Sun Belt record despite a ghastly -11 turnover margin. *(p. 332)*
 - The uncertainty it flags is that Arkansas State plays without quarterback Jaylen Raynor for the first time since 2022 — a season the guide notes finished 3-9. *(p. 332)*
 
+
 Referenced in the guide on **pp. 63, 131** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -280,15 +284,16 @@ As printed on p. 333. Each category carries a value and a national rank.
 - The team page recommends **OVER 5.5**.
 - The payoff it records is three consecutive bowl trips and the programme's first bowl winning streak since 2012-13 under Gus Malzahn and Bryan Harsin. *(p. 332)*
 - Its schedule case: the West Division is rather poor, all Sun Belt road games are winnable including the one at conference favourite Louisiana, and drawing Coastal Carolina and Georgia State from the East boosts the forecast. *(p. 332)*
-- The guide expects this to take time and lists the whole field. Ethan Crawford is the holdover but did not play last season; Trey Owens was a four-star Texas prospect committed to UT who never saw the field; Drew Dickey and Jeremy St-Hilaire sat behind Pavia at Vanderbilt. Its summary is essentially zero experience on the roster, with a distinct reason to believe in each: the ex-Commodores already know Altman's philosophy, Owens probably has the most untapped upside, and Crawford knows the returning skill players — top rushers Devin Spencer and Kenyon Clay, plus 5-foot-6 receiver Chauncy Cobb, who had 73 catches last season. *(p. 333)*
-- The guide reads Raynor's headline number sceptically: a career-best 3,361 passing yards came with a Sun Belt-leading 501 attempts. It was his best season by completion percentage but his lowest in yards per reception, only slightly better than the year before in yards and adjusted yards per attempt, and his worst on a per-carry basis. Team-wide, Arkansas State fell from 4.2 yards per carry across the previous two seasons to 3.8 and posted a -7 turnover margin. Its case for Altman is recency and pedigree — still playing at TCU a decade ago, an analyst at New Mexico State when Pavia was there, and therefore instrumental in every phase of that quarterback's development — with the supporting fact that Vanderbilt led the nation at 7.47 yards per play last season. Its conclusion is that he may well create a much more explosive offense. *(p. 333)*
-- The guide credits first-year coordinator Griff McCarley with an immediate pass-rush jump from 19 sacks to 39, while noting the defense still allowed over six yards per play — 6.1, better than the prior 6.9. Its doubt is about repeatability with a completely new defensive line, since essentially everyone with more than one sack has transferred or exhausted eligibility. The damning combination it cites is that Arkansas State was tied for sixth nationally in sacks per game yet still forced only seven interceptions and allowed a 68.4% completion rate. Its stated position is a great deal of doubt about the defense alongside full expectation of offensive improvement, concluding that this team could produce some track meets. *(p. 333)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Recommendation is Over 5.5 wins, though the guide reframes the question — the vig is heavy on 5.5, so the better question is whether to venture Over 6.5. *(p. 332)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 332; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

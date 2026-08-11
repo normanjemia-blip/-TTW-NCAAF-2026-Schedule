@@ -121,16 +121,19 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 - **Who will lead the Gators' offense?** Most likely Georgia Tech transfer Aaron Philo. Tramell Jones played two games in 2025 but is not seen as Sumrall's choice. Philo was recruited by Sumrall and played under offensive coordinator Buster Faulkner at Georgia Tech for two years. A four-star transfer per 247, he has dual-threat ability, but the guide's priority for him is ball security — Florida was -1 in turnover differential — and lifting an offense that finished 116th in EPA per play through the air. It concludes there is nowhere to go but up, while calling quarterback a massive question. *(p. 291)*
 
+
 Referenced in the guide on **pp. 8, 18, 20, 25, 59, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 59, 291** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 59, 291**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Who will lead the Gators' offense?** Most likely Georgia Tech transfer Aaron Philo. Tramell Jones played two games in 2025 but is not seen as Sumrall's choice. Philo was recruited by Sumrall and played under offensive coordinator Buster Faulkner at Georgia Tech for two years. A four-star transfer per 247, he has dual-threat ability, but the guide's priority for him is ball security — Florida was -1 in turnover differential — and lifting an offense that finished 116th in EPA per play through the air. It concludes there is nowhere to go but up, while calling quarterback a massive question. *(p. 291)*
+
 
 Referenced in the guide on **pp. 8, 18, 179, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -178,8 +181,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 310** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 310**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -207,6 +211,7 @@ Prices printed on the team page *(p. 291)*:
 
 - A slow four-year decline: losing records in four of the last five seasons, one bowl win since the 2019 Orange Bowl, and no appearance in the CFP rankings since 2020. *(p. 290)*
 - **Does Sumrall's magic translate to the SEC?** Sumrall took Troy from 15-20 over three seasons to 23-5 with two Sun Belt titles, then won 20 games in two years at Tulane and reached the CFP. The guide has no doubt he can build a programme but treats the SEC as a leap many have failed. It judges the playoff unlikely given a daunting schedule, while calling improvement on last season's four wins likely. *(p. 291)*
+
 
 Referenced in the guide on **pp. 15, 190** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -253,10 +258,9 @@ As printed on p. 291. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Jon Sumrall arrives having known nothing but success, entering his fifth season as an FBS head coach chasing a fifth straight conference title game appearance. *(p. 290)*
-- Schedule: hosts Ole Miss and Oklahoma, which helps against potential title contenders; travels to Auburn and Texas, the latter rated extremely difficult though both losable. *(p. 290)*
-- Florida's defense has been persistently average for six seasons, allowing 24 points per game and 5.7 yards per play in 2025, ranking 67th in adjusted opponent EPA per play and 82nd in success rate. Six starters return and Sumrall hired coordinator Brad White, previously in the same role under Mike Stoops at Kentucky. Top tacklers Myles Graham and Bryce Thornton return, as do sack leaders Jayden Woods and Kamran James. A better offense keeping the unit off the field should help, but the guide insists it still needs to improve on its own terms. *(p. 291)*
-- Sumrall took Troy from 15-20 over three seasons to 23-5 with two Sun Belt titles, then won 20 games in two years at Tulane and reached the CFP. The guide has no doubt he can build a programme but treats the SEC as a leap many have failed. It judges the playoff unlikely given a daunting schedule, while calling improvement on last season's four wins likely. *(p. 291)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 290; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -264,8 +268,8 @@ As printed on p. 291. Each category carries a value and a national rank.
 
 - Makinen projects **6.6 wins** against a posted total of 7.5 — **-0.9** against this team.
 - The team page recommends **UNDER 7.5**.
-- Schedule: hosts Ole Miss and Oklahoma, which helps against potential title contenders; travels to Auburn and Texas, the latter rated extremely difficult though both losable. *(p. 290)*
-- Most likely Georgia Tech transfer Aaron Philo. Tramell Jones played two games in 2025 but is not seen as Sumrall's choice. Philo was recruited by Sumrall and played under offensive coordinator Buster Faulkner at Georgia Tech for two years. A four-star transfer per 247, he has dual-threat ability, but the guide's priority for him is ball security — Florida was -1 in turnover differential — and lifting an offense that finished 116th in EPA per play through the air. It concludes there is nowhere to go but up, while calling quarterback a massive question. *(p. 291)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

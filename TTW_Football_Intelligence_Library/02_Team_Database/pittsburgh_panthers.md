@@ -115,8 +115,9 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 20, 100** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 20, 100**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -257,16 +258,16 @@ As printed on p. 101. Each category carries a value and a national rank.
 - Recommendation is Under 7.5 wins. It concedes the schedule is genuinely favorable — which is why the Over carries the vig it does — with Pitt avoiding Clemson, SMU and Notre Dame. *(p. 100)*
 - Its counter is about the opponents improving: a strong possibility Virginia Tech is markedly better under James Franklin, and that North Carolina and Florida State are much better than last season. *(p. 100)*
 - Structural schedule detail seals the case: a late bye with many new faces, five of the last eight on the road, and a season-ending trip to Berkeley against another team that could greatly improve. Projection is 7.43 wins. *(p. 100)*
-- The guide dismantles the scoring numbers with underlying metrics: 20th in points per game while ranking 67th in yards per play and 120th in third-down conversion rate, allowing 44 sacks — fifth-most nationally — and averaging just 3.5 yards per carry. It identifies where the points actually came from, noting four pick-sixes among 15 interceptions, a couple of punt return touchdowns, and four kick returns of 40-plus yards contributing to field position. It then shows the pattern is not new, with Pitt 30th in scoring but 69th in yards per play in 2024. Its conclusion is unusually candid — it does not know what to make of it, but special teams prowess has a lot to do with it. *(p. 101)*
-- The guide pushes back directly on other previews talking up the line's experience, observing that the experience in question is in letting defenders reach the quarterback — 87 sacks allowed over two seasons. Heintschel gets new blind-side protection from Penn transfer Netinho Olivieri, but many contributors to the 44 sacks and the 3.5 yards per carry, 119th nationally, are back. It allows year three of the Kade Bell offense may improve things while calling this another reason to view last season's point total sceptically. *(p. 101)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 7.5**.
-- This matters because coordinator Jacob Bronowski left for Auburn, replaced by Mike Priefer, who was fired from the same role at North Carolina. Pitt also needs a new kicker after Trey Butkowski went 20-of-23 on field goals and 43-of-44 on extra points; Sam Hunsaker was only 15-of-22 at Northern Arizona with a long of 50, and the guide flags the altitude there at over 7,000 feet against a Pittsburgh stadium that can be very tough for kickers. With a new punter and new returners too, it calls this an underrated facet that helped Pitt a lot last season and may not this time. *(p. 101)*
-- The guide pushes back directly on other previews talking up the line's experience, observing that the experience in question is in letting defenders reach the quarterback — 87 sacks allowed over two seasons. Heintschel gets new blind-side protection from Penn transfer Netinho Olivieri, but many contributors to the 44 sacks and the 3.5 yards per carry, 119th nationally, are back. It allows year three of the Kade Bell offense may improve things while calling this another reason to view last season's point total sceptically. *(p. 101)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

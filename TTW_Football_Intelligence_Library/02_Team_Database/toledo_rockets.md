@@ -131,12 +131,14 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 211** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 211**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **What kind of offense should we expect to see?** The guide projects from Mercer's numbers under Jacobs: 6.8 yards per play last season with a balanced approach that ranked third nationally in yards per game, 4.9 yards per carry on more than 400 rushing attempts, and over 3,800 passing yards. It corrects for game state in reading Toledo's own tendencies — the Rockets may have been a little more run-heavy, but that reflects protecting a lot of leads, some of them big. It then flags that this year's team will not have last year's defense, so the game state itself is unknown. Its expectation is a lean on the run at the outset, given Miller, Penn State transfer Cory Smith and two senior tackles who played for Toledo last season. *(p. 239)*
+
 
 Referenced in the guide on **pp. 27, 231** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -190,8 +192,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 234, 238** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 234, 238**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -221,6 +224,14 @@ Prices printed on the team page *(p. 239)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Dave Tuley | TOLEDO TO WIN MAC (+365) | 6 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - Recommendation is Over 7.5 wins, resting first on a soft Year 1 schedule: Toledo misses Miami of Ohio, hosts reigning champion Western Michigan, and gets a visit from San Diego State in non-conference. *(p. 238)*
 - Its conclusion is that Jacobs seems like a good hire, with at least some familiarity thanks to transfers from a team that finished in the FCS Top 25 in each of the last two seasons. Projection is 8.04 wins. *(p. 238)*
 
@@ -230,6 +241,7 @@ Also referenced on **pp. 209, 215** — not reproduced here.
 
 - The guide marks the scale of the break: for the first time since 2016 Toledo will not play for Jason Candle, and for the first time since 2009 Candle is not with the programme at all, having taken the UConn job. *(p. 238)*
 - It calls this something of a step up for the 47-year-old while making a strong claim on his behalf — he took Mercer to the playoffs in back-to-back seasons and may well be an upgrade on Candle, which it notes is hard to say about a coach who won 65% of his games overall and 68% in conference. *(p. 238)*
+
 
 Referenced in the guide on **pp. 209, 210, 211** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -280,13 +292,12 @@ As printed on p. 239. Each category carries a value and a national rank.
 - The team page recommends **OVER 7.5**.
 - It calls this something of a step up for the 47-year-old while making a strong claim on his behalf — he took Mercer to the playoffs in back-to-back seasons and may well be an upgrade on Candle, which it notes is hard to say about a coach who won 65% of his games overall and 68% in conference. *(p. 238)*
 - Its conclusion is that Jacobs seems like a good hire, with at least some familiarity thanks to transfers from a team that finished in the FCS Top 25 in each of the last two seasons. Projection is 8.04 wins. *(p. 238)*
-- The guide's point is the near-total turnover: virtually no recognisable names remain, with the top returning tackler at 35 tackles and the top returnee in yards of any kind at 194 receiving yards. It explains the mechanism rather than treating it as a surprise — Candle left as many of his players were running out of eligibility, and a head coach leaving opens the portal completely. 247Sports lists 37 transfers for Toledo, the third-best MAC class in its ranking. It names John Alan Richter as a returnee Rockets fans may recognise, and notes the incoming group is heavy with Mercer players who followed Jacobs, including running back CJ Miller and receiver Adjatay Dabbs, plus offensive linemen familiar to Reisert who came with him from Gardner-Webb. *(p. 239)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The guide expects aggression under Brown, and again reasons from Mercer: last year's group allowed only 3.4 yards per carry but 5.7 yards per play, because it got burned for explosives in the passing game. The Bears had 42 sacks in 12 games yet generated only 15 takeaways, and their 96 tackles for loss show how heavily they pursued the run and rushed the passer — while leaving an evasive quarterback the chance to burn them. It weighs that risk against the league, noting there are some running quarterbacks in the MAC but fewer this season than in other years, and concludes that with quite a few Mercer transfers who already know the scheme this should be an exciting defense to watch. *(p. 239)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 238; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

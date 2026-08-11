@@ -125,12 +125,14 @@ The Stability Score table prints the same figure independently: **8 returning st
 
 - **Where is all the talent?** The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
 
+
 Referenced in the guide on **pp. 11** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 324, 325** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 324, 325**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -194,8 +196,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 325** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 325**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -283,9 +286,9 @@ As printed on p. 325. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Injuries are offered as a mitigating factor, particularly at quarterback, where Cameran Brown is and was clearly the best option — a 13/1 touchdown-to-interception ratio with 4.7 yards per carry and four rushing scores. *(p. 324)*
-- The guide tests the quarterback against outcomes rather than statistics. Brown posted the 13/1 ratio and added 61 carries for 284 yards, but the Panthers lost all three games in which he passed for 200-plus yards, averaging just 25 PPG in them while the defense allowed 41, 41 and 38 points. Its logic is that with Finley and Veilleux combining for a 9/10 ratio, Brown should theoretically help the defense if he repeats his 2025 form — yet it notes that even when he played well it did not seem to matter, and that he did not start the team's best loss, 14-7 to CFP participant James Madison. It closes on what he has lost around him: 1,000-yard receiver Ted Hurst and leading rusher Jordon Simmons, who averaged 5.6 yards per carry. *(p. 325)*
-- The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 324; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -293,10 +296,9 @@ As printed on p. 325. Each category carries a value and a national rank.
 
 - Makinen projects **3.5 wins** against a posted total of 4.5 — **-1.0** against this team.
 - The team page recommends **UNDER 3.5**.
-- Injuries are offered as a mitigating factor, particularly at quarterback, where Cameran Brown is and was clearly the best option — a 13/1 touchdown-to-interception ratio with 4.7 yards per carry and four rushing scores. *(p. 324)*
 - Roster and schedule complete the case: Hurst was a third-round pick and is obviously a huge loss; the Panthers get saddled with Louisiana from the West and travel to App State and James Madison. It calls it a rough schedule with a bad team and probably a lame-duck head coach, projecting 3.63 wins. *(p. 324)*
-- The guide tests the quarterback against outcomes rather than statistics. Brown posted the 13/1 ratio and added 61 carries for 284 yards, but the Panthers lost all three games in which he passed for 200-plus yards, averaging just 25 PPG in them while the defense allowed 41, 41 and 38 points. Its logic is that with Finley and Veilleux combining for a 9/10 ratio, Brown should theoretically help the defense if he repeats his 2025 form — yet it notes that even when he played well it did not seem to matter, and that he did not start the team's best loss, 14-7 to CFP participant James Madison. It closes on what he has lost around him: 1,000-yard receiver Ted Hurst and leading rusher Jordon Simmons, who averaged 5.6 yards per carry. *(p. 325)*
-- The guide holds McGee's recruiting reputation against the results: the Panthers scored four fewer PPG year over year and allowed four more, and while a mobile quarterback helped limit sacks to 18, the team still regressed in yards per carry. On this cycle it credits him with the lone freshman graded four-star by 247Sports, offensive lineman Maxwell Robinson, plus Power Four offensive line transfers from Florida, Georgia, Michigan, Georgia Tech and Oklahoma State — with the qualification that they played sparingly or not at all. Its size concerns are specific: all the running backs are under six feet, and leading returning receiver Grant Hollier, one of the few big bodies, had just 21 catches. The structural conclusion is that a coach like McGee makes sense on paper but lacks the big NIL budget that this kind of head coach requires. *(p. 325)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

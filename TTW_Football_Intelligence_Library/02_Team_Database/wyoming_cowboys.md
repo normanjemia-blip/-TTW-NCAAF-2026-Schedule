@@ -255,22 +255,18 @@ As printed on p. 263. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
-- The guide acknowledges the difficulty of following a legend given Craig Bohl's success, then judges Jay Sawvel's tenure disappointing even in that context: seven wins total, with one of the conference's worst offenses. *(p. 262)*
-- While Wyoming lost talent to the portal, most of the roster has been in the programme, so the guide sees potential for massive improvement if the right pieces hit. *(p. 262)*
 - Recommendation is Under 5.5 wins, with the upside case stated first: if Tyler Hughes and coordinator Christian Taylor are the match they look on paper, the offense could stun the conference and let Sawvel focus on a defense with a strong foundation. *(p. 262)*
-- The guide is blunt that the offense has collapsed under Sawvel, noting that despite nine returning starters last season Wyoming averaged 16 points and 315 yards per game, ranking 128th nationally in EPA per play and 124th in success rate. Sawvel hired Christian Taylor, most recently an offensive advisor with the Buffalo Bills and William & Mary's coordinator from 2020 to 2023. It details what Taylor's offenses did well there — generating explosive runs, using backs out of the backfield, and leading the country in passing efficiency — and says all of it will be needed. *(p. 263)*
-- Beyond Taylor, Sawvel brought in one of his former William & Mary recruits, quarterback Tyler Hughes, a dual threat who totalled 3,000 passing and rushing yards with 31 touchdowns and already knows the system. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. Its conclusion is that with Hughes adding a dynamic Wyoming has missed, the needle clearly points up. *(p. 263)*
-- Sawvel is in year three of a five-year contract and the guide states the first two were not great. It gives the fair context that he took over a programme with three losing seasons under Bohl, one being the COVID-shortened 2020, while noting Sawvel has known only losing seasons at the top in Laramie. It calls this his best chance at a winning record and supplies a supporting statistic from Phil Steele: although returning starters are few, 77.2% of the roster is homegrown, meaning many players have been in the programme. If the offensive changes land, it expects improvement on last season's four wins. *(p. 263)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- The guide acknowledges the difficulty of following a legend given Craig Bohl's success, then judges Jay Sawvel's tenure disappointing even in that context: seven wins total, with one of the conference's worst offenses. *(p. 262)*
-- While Wyoming lost talent to the portal, most of the roster has been in the programme, so the guide sees potential for massive improvement if the right pieces hit. *(p. 262)*
 - Its conclusion is framed as a probability question: this asks Wyoming to come out on the right side of 50-50 contests more often than not. *(p. 262)*
-- Beyond Taylor, Sawvel brought in one of his former William & Mary recruits, quarterback Tyler Hughes, a dual threat who totalled 3,000 passing and rushing yards with 31 touchdowns and already knows the system. Leading rusher Samuel Harris returns as a sophomore behind a line with two starters and 41 career starts back. The top four receivers are gone, but the guide notes this is reportedly a strong tight end group, which matters in the new scheme. Its conclusion is that with Hughes adding a dynamic Wyoming has missed, the needle clearly points up. *(p. 263)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

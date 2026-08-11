@@ -122,12 +122,14 @@ The Stability Score table prints the same figure independently: **8 returning st
 - It explains why the personnel are hard to find: spread offenses and run-and-gun styles are in vogue, so few players come from that scheme or pick it up quickly. *(p. 224)*
 - **Is the defense a bigger worry than the offense?** The guide points out the offense managed only 22.5 PPG and was greatly assisted by a defense allowing just 23.5 PPG, and only 18 PPG in conference play. The losses on that side it calls extremely heavy: Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss, and leading sack man Michael Heidman had 10.5 of the team's 28 sacks. Jaion Jackson, probably the second-best corner, is one of only two returning starters. Its balanced conclusion is that this style of offense limits a defense's exposure, but the group definitely looks to be a major worry. *(p. 225)*
 
+
 Referenced in the guide on **pp. 226** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 225, 226** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 225, 226**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -266,18 +268,16 @@ As printed on p. 225. Each category carries a value and a national rank.
 - The team page recommends **OVER 6.5**.
 - It credits the former Army offensive line coach with a 7-6 first season, describing the achievement as ramming square pegs through round holes. *(p. 224)*
 - Its statement of the stakes is neutral: after a successful first season, Drinkall now pivots to what he originally wanted to do, and that could be a good thing or a bad thing. *(p. 224)*
-- The strategic argument follows from that: if Central Michigan can run a ground-and-pound, uber-methodical attack and limit available possessions, it should have a great deal of success in a conference whose offenses by and large stink — and even with defensive concerns, that unit should not be asked to do much. *(p. 224)*
-- The guide's answer starts from a blunt assessment of the league: objectively the MAC is not a good conference, where humming offenses come at the expense of defenses and defensive prioritisation produces poor per-play and per-game numbers. It observes the MAC is not traditionally viewed as physical, despite many schools sitting in or near recruiting hotbeds for linemen on both sides. Against that backdrop it describes Drinkall's plan — heavy 21 personnel with mobile quarterback Angel Flores, the team's second-leading rusher and top touchdown-scorer last season — supported by many returning linemen and some portal additions. Its conclusion is that in a conference this inefficient, shortening the game and limiting possessions may be extremely fruitful. *(p. 225)*
-- The guide points out the offense managed only 22.5 PPG and was greatly assisted by a defense allowing just 23.5 PPG, and only 18 PPG in conference play. The losses on that side it calls extremely heavy: Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss, and leading sack man Michael Heidman had 10.5 of the team's 28 sacks. Jaion Jackson, probably the second-best corner, is one of only two returning starters. Its balanced conclusion is that this style of offense limits a defense's exposure, but the group definitely looks to be a major worry. *(p. 225)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **6.0 wins** against a posted total of 6.5 — **-0.5** against this team.
-- The strategic argument follows from that: if Central Michigan can run a ground-and-pound, uber-methodical attack and limit available possessions, it should have a great deal of success in a conference whose offenses by and large stink — and even with defensive concerns, that unit should not be asked to do much. *(p. 224)*
-- The guide calls this probably the biggest question, then lays out the split backfield: Joe Labas completed 70.6% with a 13/6 touchdown-to-interception ratio while Flores was the running quarterback with 107 carries against just 28 pass attempts. Brock Townsend averaged over five yards per carry for the Chippewas and Vaughn Blue did the same at Liberty. It treats receiver buy-in as the hard part of such a playbook, and reads leading receiver Langston Lewis staying as meaningful evidence. On the line it turns an apparent weakness into intent: the group is slightly undersized by design, because the linemen must pull and get out ahead of plays to run this scheme optimally. Its verdict is that they are very, very close. *(p. 225)*
-- The guide points out the offense managed only 22.5 PPG and was greatly assisted by a defense allowing just 23.5 PPG, and only 18 PPG in conference play. The losses on that side it calls extremely heavy: Jordan Kwiatkowski and Dakota Cochran combined for 199 tackles and 14.5 tackles for loss, and leading sack man Michael Heidman had 10.5 of the team's 28 sacks. Jaion Jackson, probably the second-best corner, is one of only two returning starters. Its balanced conclusion is that this style of offense limits a defense's exposure, but the group definitely looks to be a major worry. *(p. 225)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

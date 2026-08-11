@@ -172,8 +172,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 54** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 54**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -209,6 +210,7 @@ Also referenced on **pp. 77** — not reproduced here.
 - K.C. Keeler's team fell painfully short, reaching 5-3 with four chances at a first bowl since 2019 before losing to East Carolina, Army, Tulane and North Texas — fairly noting that was when the schedule ramped up. *(p. 68)*
 - It argues the season worked out roughly as it should: Temple was favored four times and won all four, added a home upset of UTSA, and lost to Army and Navy by one point each. *(p. 68)*
 - **Will the real Temple Owls please stand up?** Temple finished -624 in yards with wild swings: outgaining UMass by 165, Howard by 439 and Navy by 134, while being outgained by 411 against Oklahoma, 140 by Georgia Tech, 381 by East Carolina, 202 by Tulane and 289 by North Texas. The guide draws out the pattern that matters — across the last four games, even while outgaining Army, Temple was -854 yards despite being +1 in turnover margin — and reads that as a major late-season depth problem the staff has possibly addressed. It closes with a conference-level judgement: the top of the American looks weaker but the league as a whole looks better, so Temple may face closer games. *(p. 69)*
+
 
 Referenced in the guide on **pp. 77, 164, 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -259,7 +261,6 @@ As printed on p. 69. Each category carries a value and a national rank.
 - All three American Owls got new coaches last season; the guide judges Rice and Florida Atlantic made progress toward the future while Temple may have done best in the present. *(p. 68)*
 - With Keeler and former Montana State coordinator Tyler Walker the offense improved by more than a touchdown per game, yet even a +11 turnover margin could not produce enough upsets to end the bowl drought. *(p. 68)*
 - It maps the path: apart from Penn State every home game is extremely winnable, naming Rhode Island, UConn, Charlotte, UAB and Rice. Repeating last year's pattern of winning when supposed to gets Temple five, needing one more to clear the total, helped by only five road games with no long travel. *(p. 68)*
-- Temple managed 16 sacks and still allowed over six yards per play. The guide's key analytical point is that the defensive improvement was almost entirely turnover-driven, since most per-play and rate stats were not much better under coordinator Brian Smith: one of the nation's worst red zone defenses, below average on third down, and 30 plays of 30-plus yards allowed. With more returnees on offense than defense, Smith has a lot of work, and while three of the top four tacklers return, the leaders in pass breakups and sacks do not. *(p. 69)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -267,7 +268,6 @@ As printed on p. 69. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 5.5**.
 - It argues the season worked out roughly as it should: Temple was favored four times and won all four, added a home upset of UTSA, and lost to Army and Navy by one point each. *(p. 68)*
-- Temple finished -624 in yards with wild swings: outgaining UMass by 165, Howard by 439 and Navy by 134, while being outgained by 411 against Oklahoma, 140 by Georgia Tech, 381 by East Carolina, 202 by Tulane and 289 by North Texas. The guide draws out the pattern that matters — across the last four games, even while outgaining Army, Temple was -854 yards despite being +1 in turnover margin — and reads that as a major late-season depth problem the staff has possibly addressed. It closes with a conference-level judgement: the top of the American looks weaker but the league as a whole looks better, so Temple may face closer games. *(p. 69)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

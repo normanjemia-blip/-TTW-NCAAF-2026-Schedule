@@ -125,6 +125,7 @@ The Stability Score table prints the same figure independently: **11 returning s
 
 - A structural difficulty is raised: ACC membership means logistical challenges and rough travel, making depth a priority that may take time to build — particularly given Berkeley's academic requirements. *(p. 82)*
 
+
 Referenced in the guide on **pp. 331** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
@@ -132,12 +133,14 @@ Referenced in the guide on **pp. 331** — those passages are not reproduced her
 - **Will it work out better this time?** The guide highlights a striking fact: Cal had No. 1 overall pick and national champion Fernando Mendoza for two seasons and went 6-7 both times. It credits Justin Wilcox with doing what was expected defensively, holding opponents under 28 points per game in six of the last seven seasons, and places blame on an offense that never got going despite returning starters and production. Hiring another defensive-minded head coach might work, but it puts the onus on Jordan Somerville and former NFL receiver Ike Hilliard to find explosiveness — noting Somerville is only 30, with a single year as an Oregon offensive assistant in 2022 enough for Lupoi to want him again. *(p. 83)*
 - **Is JKS going to be a sophomore sensation?** Sagapolutele, from Ewa Beach, Hawaii, was originally committed to Oregon before transferring to Cal for a better opportunity ahead of his freshman year. He threw for over 3,400 yards with an 18-to-9 touchdown-to-interception ratio and 64.2% completions as a true freshman. The guide sets out the obstacles — a new scheme and new receivers, with Jacob De Jesus and Trond Grizzell having taken 163 catches and over 1,800 yards elsewhere — and the supports: Hilliard's presence, 1,000-yard Ohio transfer Chase Henderson, big-bodied Rutgers transfer Ian Strong, and considerable starting experience on the line. Its conclusion is that he could have a monster season. *(p. 83)*
 
+
 Referenced in the guide on **pp. 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - The guide notes he has coached under esteemed mentors and frames this as not a total teardown because quarterback Jaron-Keawe Sagapolutele is in place, while the defense is a mostly blank slate. *(p. 82)*
 - **Can the defense turn positives into negatives?** Michael Hutchings and Lupoi barely overlapped at Oregon; Hutchings had moved on to Bowling Green and Western Kentucky before three seasons coaching Vikings defensive backs, and is now 31. Cal managed only 21 sacks and 13 takeaways. The guide acknowledges the talent gap with Oregon while using Lupoi's defense there as the benchmark: tied for 26th nationally with 21 takeaways in 15 games and 30 sacks. Cal allowed 4.7 yards per carry and a 61.7% completion rate. Only three starters return, which it suggests is probably a good thing. *(p. 83)*
+
 
 Referenced in the guide on **pp. 18, 20, 279** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -184,8 +187,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 237**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -206,12 +210,21 @@ Prices printed on the team page *(p. 83)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Sean Green | JARON-KEAWE SAGAPOLUTELE TO WIN HEISMAN TROPHY (65-1) *(player market — Jaron-Keawe Sagapolutele)* | 11 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - Recommendation is Under 6.5 wins. The guide separates quality from wins deliberately: Cal may not match last season's seven wins yet has a very good chance of being a much more aesthetically pleasing team. *(p. 82)*
 - It expects Sagapolutele to grow and a more innovative squad on both sides, then sets against that a completely new staff, no bye until early November, and inevitable growing pains despite avoiding Miami, Florida State, Louisville and Georgia Tech. Its projection is 5.74 wins. *(p. 82)*
 
 ## 22. Historical / Situational Trends
 
 - **Will it work out better this time?** The guide highlights a striking fact: Cal had No. 1 overall pick and national champion Fernando Mendoza for two seasons and went 6-7 both times. It credits Justin Wilcox with doing what was expected defensively, holding opponents under 28 points per game in six of the last seven seasons, and places blame on an offense that never got going despite returning starters and production. Hiring another defensive-minded head coach might work, but it puts the onus on Jordan Somerville and former NFL receiver Ike Hilliard to find explosiveness — noting Somerville is only 30, with a single year as an Oregon offensive assistant in 2022 enough for Lupoi to want him again. *(p. 83)*
+
 
 Referenced in the guide on **pp. 215** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -259,9 +272,8 @@ As printed on p. 83. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Recommendation is Under 6.5 wins. The guide separates quality from wins deliberately: Cal may not match last season's seven wins yet has a very good chance of being a much more aesthetically pleasing team. *(p. 82)*
-- The guide highlights a striking fact: Cal had No. 1 overall pick and national champion Fernando Mendoza for two seasons and went 6-7 both times. It credits Justin Wilcox with doing what was expected defensively, holding opponents under 28 points per game in six of the last seven seasons, and places blame on an offense that never got going despite returning starters and production. Hiring another defensive-minded head coach might work, but it puts the onus on Jordan Somerville and former NFL receiver Ike Hilliard to find explosiveness — noting Somerville is only 30, with a single year as an Oregon offensive assistant in 2022 enough for Lupoi to want him again. *(p. 83)*
-- Sagapolutele, from Ewa Beach, Hawaii, was originally committed to Oregon before transferring to Cal for a better opportunity ahead of his freshman year. He threw for over 3,400 yards with an 18-to-9 touchdown-to-interception ratio and 64.2% completions as a true freshman. The guide sets out the obstacles — a new scheme and new receivers, with Jacob De Jesus and Trond Grizzell having taken 163 catches and over 1,800 yards elsewhere — and the supports: Hilliard's presence, 1,000-yard Ohio transfer Chase Henderson, big-bodied Rutgers transfer Ian Strong, and considerable starting experience on the line. Its conclusion is that he could have a monster season. *(p. 83)*
-- Michael Hutchings and Lupoi barely overlapped at Oregon; Hutchings had moved on to Bowling Green and Western Kentucky before three seasons coaching Vikings defensive backs, and is now 31. Cal managed only 21 sacks and 13 takeaways. The guide acknowledges the talent gap with Oregon while using Lupoi's defense there as the benchmark: tied for 26th nationally with 21 takeaways in 15 games and 30 sacks. Cal allowed 4.7 yards per carry and a 61.7% completion rate. Only three starters return, which it suggests is probably a good thing. *(p. 83)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -270,6 +282,8 @@ As printed on p. 83. Each category carries a value and a national rank.
 - Makinen projects **5.7 wins** against a posted total of 6.5 — **-0.8** against this team.
 - The team page recommends **UNDER 6.5**.
 - A structural difficulty is raised: ACC membership means logistical challenges and rough travel, making depth a priority that may take time to build — particularly given Berkeley's academic requirements. *(p. 82)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

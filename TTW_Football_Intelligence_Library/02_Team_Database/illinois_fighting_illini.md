@@ -123,18 +123,21 @@ The Stability Score table prints the same figure independently: **11 returning s
 - **Will Katin Houser's second stint in the Big Ten go better than his first?** After redshirting in 2022 Houser could not beat out Noah Kim at Michigan State and moved to East Carolina, where he started full-time and threw for 3,300 yards on 65.9% completions with 19 touchdowns plus nine rushing. The guide judges he has a better supporting cast in Champaign than he had in East Lansing, while flagging two offsetting factors: a new system and an offensive line replacing four starters. *(p. 151)*
 - **Can Illinois get more physical up front?** The line must replace four starters including first-team All-Big Ten tackle J.C. Davis, and the guide notes last year's group already struggled to run consistently and looked overmatched against better fronts — Duke, Indiana, Ohio State and Wisconsin averaged five sacks against them. Bielema is content with his backfield, having moved second-leading rusher Kaden Feagin to tight end, and is rated among the country's better evaluators and developers of linemen. The caution is that he imported only one Power Four transfer, Wisconsin center Jake Renfro. *(p. 151)*
 
+
 Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 323** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 323**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - Four offensive line starters also leave through graduation or the portal. *(p. 150)*
 - The guide notes a gap between identity and output: Illinois prides itself on old-school physical Big Ten football under Bret Bielema, yet ranked 13th in the conference rushing at 138.1 yards per game and 12th in scoring defense at 23.6 points allowed. *(p. 150)*
 - **Can Illinois get more physical up front?** The line must replace four starters including first-team All-Big Ten tackle J.C. Davis, and the guide notes last year's group already struggled to run consistently and looked overmatched against better fronts — Duke, Indiana, Ohio State and Wisconsin averaged five sacks against them. Bielema is content with his backfield, having moved second-leading rusher Kaden Feagin to tight end, and is rated among the country's better evaluators and developers of linemen. The caution is that he imported only one Power Four transfer, Wisconsin center Jake Renfro. *(p. 151)*
+
 
 Referenced in the guide on **pp. 20, 191** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -215,6 +218,7 @@ Prices printed on the team page *(p. 151)*:
 
 - Illinois won 19 games across the last two seasons, the most in programme history over a two-year span, largely behind three-year starter Luke Altmyer, who has now graduated. *(p. 150)*
 
+
 Referenced in the guide on **pp. 22, 166** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -261,7 +265,8 @@ As printed on p. 151. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Katin Houser returns to the Big Ten from East Carolina, where he went 13-6 as a starter, having previously been at Michigan State. *(p. 150)*
-- Hauck's Montana sides ranked top-20 in FCS scoring defense and top-10 in takeaways in three of the last five years. Attrition is concentrated on the defensive line, where five rotational players including second-round pick Gabe Jacas are replaced by Group of Six or FCS talent, which the guide calls the roster's biggest question. The secondary is not: four senior starters return including All-Big Ten free safety Xavier Scott. Illinois rated only 14th in the conference against the pass, but the guide rates this defensive backfield among the league's better ones and allows the new scheme could catch opponents by surprise. *(p. 151)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -270,8 +275,8 @@ As printed on p. 151. Each category carries a value and a national rank.
 - Makinen projects **7.3 wins** against a posted total of 7.5 — **-0.2** against this team.
 - The team page recommends **UNDER 7.5**.
 - The rest of the road slate is not arduous: Maryland plus two teams with new coaches in Michigan State and Northwestern. Oregon is a likely home loss. *(p. 150)*
-- The line must replace four starters including first-team All-Big Ten tackle J.C. Davis, and the guide notes last year's group already struggled to run consistently and looked overmatched against better fronts — Duke, Indiana, Ohio State and Wisconsin averaged five sacks against them. Bielema is content with his backfield, having moved second-leading rusher Kaden Feagin to tight end, and is rated among the country's better evaluators and developers of linemen. The caution is that he imported only one Power Four transfer, Wisconsin center Jake Renfro. *(p. 151)*
-- Hauck's Montana sides ranked top-20 in FCS scoring defense and top-10 in takeaways in three of the last five years. Attrition is concentrated on the defensive line, where five rotational players including second-round pick Gabe Jacas are replaced by Group of Six or FCS talent, which the guide calls the roster's biggest question. The secondary is not: four senior starters return including All-Big Ten free safety Xavier Scott. Illinois rated only 14th in the conference against the pass, but the guide rates this defensive backfield among the league's better ones and allows the new scheme could catch opponents by surprise. *(p. 151)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

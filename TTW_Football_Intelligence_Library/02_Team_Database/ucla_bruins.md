@@ -124,12 +124,14 @@ The Stability Score table prints the same figure independently: **18 returning s
 - **Can a true No. 1 wide receiver emerge?** The guide attributes part of Iamaleava's poor passing numbers to receivers who gave him little help, and adds a stylistic point: he is most effective throwing on the run rather than from the pocket, so receivers must create separation. Rowe from South Carolina is rated the most talented, Ellis brings 624 yards and familiarity with the offense from James Madison, and Smith posted 43 catches for 688 yards and three touchdowns at San Jose State. *(p. 179)*
 - **Can the defensive line get some pressure on opposing quarterbacks?** No FBS team was worse last season: UCLA managed 10 sacks. Chesney used the portal for Sun Belt Freshman of the Year Sahir West (seven sacks) and Aiden Gobaira (four sacks) from James Madison, plus Oklahoma linebacker Samuel Omosigho (50 tackles, two sacks). The guide's structural point is that a talented secondary masked the line's weakness and will be good again, but without help up front UCLA will concede points as before — 33.4 per game, 125th nationally. *(p. 179)*
 
+
 Referenced in the guide on **pp. 24, 165, 249, 257** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 45, 179** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 45, 179**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -137,11 +139,13 @@ Referenced in the guide on **pp. 45, 179** — those passages are not reproduced
 - **Is Nico Iamaleava ready to take the next step?** After the drama of his transfer from Tennessee, Iamaleava had a disappointing first year in Westwood with just 1,929 passing yards in 11 starts. The guide balances that with the underlying detail: he completed 64.4%, threw only seven interceptions and added 505 rushing yards and four touchdowns. Chesney brought help from James Madison in all-purpose back Wayne Knight (1,373 rushing yards and nine touchdowns plus 397 receiving), alongside returning backs Jaivian Thomas and Anthony Woods and three offensive line starters in Riley Robell, Carter Sweezie — both All-Sun Belt — and JD Rayner. The receiving corps is essentially new, with holdover Mikey Matthews joined by Landon Ellis, Leland Smith, Brian Rowe, Aidan Mizell and Semaj Morgan. *(p. 179)*
 - **Can a true No. 1 wide receiver emerge?** The guide attributes part of Iamaleava's poor passing numbers to receivers who gave him little help, and adds a stylistic point: he is most effective throwing on the run rather than from the pocket, so receivers must create separation. Rowe from South Carolina is rated the most talented, Ellis brings 624 yards and familiarity with the offense from James Madison, and Smith posted 43 catches for 688 yards and three touchdowns at San Jose State. *(p. 179)*
 
+
 Referenced in the guide on **pp. 10, 165, 257** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Can the defensive line get some pressure on opposing quarterbacks?** No FBS team was worse last season: UCLA managed 10 sacks. Chesney used the portal for Sun Belt Freshman of the Year Sahir West (seven sacks) and Aiden Gobaira (four sacks) from James Madison, plus Oklahoma linebacker Samuel Omosigho (50 tackles, two sacks). The guide's structural point is that a talented secondary masked the line's weakness and will be good again, but without help up front UCLA will concede points as before — 33.4 per game, 125th nationally. *(p. 179)*
+
 
 Referenced in the guide on **pp. 19** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -230,6 +234,7 @@ Also referenced on **pp. 12, 20, 172** — not reproduced here.
 
 - Bob Chesney has been a rising name for years, taking Holy Cross to the FCS playoffs five times in seven years and getting James Madison into the College Football Playoff two seasons after Curt Cignetti left for Indiana. *(p. 178)*
 
+
 Referenced in the guide on **pp. 12, 20, 24, 45, 183, 249** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -275,8 +280,9 @@ As printed on p. 179. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The guide attributes part of Iamaleava's poor passing numbers to receivers who gave him little help, and adds a stylistic point: he is most effective throwing on the run rather than from the pocket, so receivers must create separation. Rowe from South Carolina is rated the most talented, Ellis brings 624 yards and familiarity with the offense from James Madison, and Smith posted 43 catches for 688 yards and three touchdowns at San Jose State. *(p. 179)*
-- No FBS team was worse last season: UCLA managed 10 sacks. Chesney used the portal for Sun Belt Freshman of the Year Sahir West (seven sacks) and Aiden Gobaira (four sacks) from James Madison, plus Oklahoma linebacker Samuel Omosigho (50 tackles, two sacks). The guide's structural point is that a talented secondary masked the line's weakness and will be good again, but without help up front UCLA will concede points as before — 33.4 per game, 125th nationally. *(p. 179)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 178; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -284,7 +290,8 @@ As printed on p. 179. Each category carries a value and a national rank.
 
 - Makinen projects **5.9 wins** against a posted total of 6.5 — **-0.6** against this team.
 - The team page recommends **UNDER 6.5**.
-- No FBS team was worse last season: UCLA managed 10 sacks. Chesney used the portal for Sun Belt Freshman of the Year Sahir West (seven sacks) and Aiden Gobaira (four sacks) from James Madison, plus Oklahoma linebacker Samuel Omosigho (50 tackles, two sacks). The guide's structural point is that a talented secondary masked the line's weakness and will be good again, but without help up front UCLA will concede points as before — 33.4 per game, 125th nationally. *(p. 179)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -119,11 +119,13 @@ The Stability Score table prints the same figure independently: **16 returning s
 
 - **Will the offensive line improve in both facets?** Part of Manning's difficulty was pressure — he was pressured on 35.6% of dropbacks and his 165 pressured dropbacks led the SEC. The run game was similarly limited at 4.2 yards per carry and 138 yards per game. Sarkisian added bodies through the portal, with Wake Forest right tackle Melvin Siani the standout, and returns left tackle Trevor Goosby and center Connor Robertson. The guide expects better protection and more push. *(p. 311)*
 
+
 Referenced in the guide on **pp. 6, 15, 20, 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Can the secondary be a bigger strength?** Texas gained five-star cornerback John Meredith III, ESPN's top-ranked 2027 corner, who reclassified into the 2026 cycle to enroll in the fall. His role is unknown but the guide treats that level of talent as unambiguously positive for a unit that needs more. Texas ranked 66th in defensive success rate against the pass and 33rd in opponent EPA per play through the air. Jelani McDonald (80 tackles, 3 pass breakups, 3 interceptions) returns at safety, but three starters left the defensive backfield. Will Muschamp was hired to run the defense, and the guide expects overall improvement. *(p. 311)*
+
 
 Referenced in the guide on **pp. 6, 32, 333** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -132,11 +134,13 @@ Referenced in the guide on **pp. 6, 32, 333** — those passages are not reprodu
 - Sixteen starters return, among the most experienced rosters in the country, including quarterback Arch Manning, and the team's biggest weakness — the offensive line — has been addressed. *(p. 310)*
 - **Will the offensive line improve in both facets?** Part of Manning's difficulty was pressure — he was pressured on 35.6% of dropbacks and his 165 pressured dropbacks led the SEC. The run game was similarly limited at 4.2 yards per carry and 138 yards per game. Sarkisian added bodies through the portal, with Wake Forest right tackle Melvin Siani the standout, and returns left tackle Trevor Goosby and center Connor Robertson. The guide expects better protection and more push. *(p. 311)*
 
+
 Referenced in the guide on **pp. 10, 15, 18, 23, 205** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Can the secondary be a bigger strength?** Texas gained five-star cornerback John Meredith III, ESPN's top-ranked 2027 corner, who reclassified into the 2026 cycle to enroll in the fall. His role is unknown but the guide treats that level of talent as unambiguously positive for a unit that needs more. Texas ranked 66th in defensive success rate against the pass and 33rd in opponent EPA per play through the air. Jelani McDonald (80 tackles, 3 pass breakups, 3 interceptions) returns at safety, but three starters left the defensive backfield. Will Muschamp was hired to run the defense, and the guide expects overall improvement. *(p. 311)*
+
 
 Referenced in the guide on **pp. 77** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -184,8 +188,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 8, 45, 310** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 8, 45, 310**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -225,10 +230,9 @@ Prices printed on the team page *(p. 311)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| Dave Tuley | TEXAS TO WIN SEC (+295) & | 5 |
+| Dave Tuley | TEXAS TO WIN SEC (+295) & NATIONAL CHAMPIONSHIP (+700) | 5 |
 | Aaron Moore | TEXAS TO WIN NATIONAL CHAMPIONSHIP (+700) | 6 |
-| Paul Stone | TEXAS TO MAKE COLLEGE FOOTBALL PLAYOFF (-200) | 6 |
-| Jensen Lewis | TEXAS TO MAKE COLLEGE FOOTBALL PLAYOFF (+115) | 7 |
+| Steve Makinen | TEXAS TO MAKE COLLEGE FOOTBALL PLAYOFF (-200) | 6 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -240,6 +244,7 @@ Also referenced on **pp. 5, 17, 38, 45, 276, 336** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - The guide's framing is that Texas wants to earn a playoff place by winning games rather than campaigning for one as in previous years. *(p. 310)*
+
 
 Referenced in the guide on **pp. 5, 6, 17, 18, 22, 23, 77, 128, 287** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -288,20 +293,17 @@ As printed on p. 311. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 9.5**.
 - The guide's framing is that Texas wants to earn a playoff place by winning games rather than campaigning for one as in previous years. *(p. 310)*
-- Sixteen starters return, among the most experienced rosters in the country, including quarterback Arch Manning, and the team's biggest weakness — the offensive line — has been addressed. *(p. 310)*
 - Conclusion: if this is a genuine national title contender, ten wins should be attainable — and so should a national championship. *(p. 310)*
-- The guide accepts many were disappointed by Manning's season but points to the last six games, where he threw 14 touchdowns with a 1.2% turnover-worthy play rate, averaged 7.8 yards per attempt and added five rushing scores, with Texas going 5-1 straight up and 3-2-1 against the spread. Across the full season he was PFF's eighth-best passer in the conference and barely completed 60%. Its conditional conclusion: if he carries the late-season form forward, the offense could be more explosive. *(p. 311)*
-- Part of Manning's difficulty was pressure — he was pressured on 35.6% of dropbacks and his 165 pressured dropbacks led the SEC. The run game was similarly limited at 4.2 yards per carry and 138 yards per game. Sarkisian added bodies through the portal, with Wake Forest right tackle Melvin Siani the standout, and returns left tackle Trevor Goosby and center Connor Robertson. The guide expects better protection and more push. *(p. 311)*
-- Texas gained five-star cornerback John Meredith III, ESPN's top-ranked 2027 corner, who reclassified into the 2026 cycle to enroll in the fall. His role is unknown but the guide treats that level of talent as unambiguously positive for a unit that needs more. Texas ranked 66th in defensive success rate against the pass and 33rd in opponent EPA per play through the air. Jelani McDonald (80 tackles, 3 pass breakups, 3 interceptions) returns at safety, but three starters left the defensive backfield. Will Muschamp was hired to run the defense, and the guide expects overall improvement. *(p. 311)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **9.0 wins** against a posted total of 9.5 — **-0.5** against this team.
-- Sixteen starters return, among the most experienced rosters in the country, including quarterback Arch Manning, and the team's biggest weakness — the offensive line — has been addressed. *(p. 310)*
-- Its counter-argument is that the detail favors Texas: the Longhorns leave the state only once before November, when they visit Tennessee; the Ohio State meeting is a revenge spot in Austin; and Oklahoma is in Dallas. The difficult three-week run of Oklahoma, Florida and Ole Miss follows a bye, with two of the three at home. *(p. 310)*
-- Part of Manning's difficulty was pressure — he was pressured on 35.6% of dropbacks and his 165 pressured dropbacks led the SEC. The run game was similarly limited at 4.2 yards per carry and 138 yards per game. Sarkisian added bodies through the portal, with Wake Forest right tackle Melvin Siani the standout, and returns left tackle Trevor Goosby and center Connor Robertson. The guide expects better protection and more push. *(p. 311)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

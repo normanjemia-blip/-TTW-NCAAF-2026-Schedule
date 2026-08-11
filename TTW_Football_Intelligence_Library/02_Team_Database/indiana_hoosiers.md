@@ -123,6 +123,7 @@ The Stability Score table prints the same figure independently: **16 returning s
 - **Can Hoover handle it?** Hoover was 19-12 as a productive TCU starter and can throw, but ball security has been the weakness — 33 turnovers in 36 career games. The guide argues the environment should fix much of that, noting no FBS team has fewer giveaways over the last two seasons than Indiana's 17. It also flags a scheme consequence: Hoover lacks Mendoza's size and athleticism, so Cignetti and coordinator Mike Shanahan will likely run less RPO. *(p. 153)*
 - **Production AND potential?** Set against Cignetti's stated preference for production over potential, Indiana loses Mendoza, its top two receivers including first-rounder Omar Cooper Jr., and its top two rushers. Talent remains in Charlie Becker and Michigan State transfer Nick Marsh (1,311 yards and nine touchdowns over two years), with Khobie Martin (508 yards, six touchdowns) and Turbo Richard (1,027 yards, 11 touchdowns over two years at Boston College) at running back. The guide's reservation is not only talent but culture: many of the departures were the James Madison players who came with Cignetti. *(p. 153)*
 
+
 Referenced in the guide on **pp. 20, 138, 149, 157, 161, 173, 197** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -136,11 +137,13 @@ Not addressed in guide.
 - **Can Hoover handle it?** Hoover was 19-12 as a productive TCU starter and can throw, but ball security has been the weakness — 33 turnovers in 36 career games. The guide argues the environment should fix much of that, noting no FBS team has fewer giveaways over the last two seasons than Indiana's 17. It also flags a scheme consequence: Hoover lacks Mendoza's size and athleticism, so Cignetti and coordinator Mike Shanahan will likely run less RPO. *(p. 153)*
 - **Production AND potential?** Set against Cignetti's stated preference for production over potential, Indiana loses Mendoza, its top two receivers including first-rounder Omar Cooper Jr., and its top two rushers. Talent remains in Charlie Becker and Michigan State transfer Nick Marsh (1,311 yards and nine touchdowns over two years), with Khobie Martin (508 yards, six touchdowns) and Turbo Richard (1,027 yards, 11 touchdowns over two years at Boston College) at running back. The guide's reservation is not only talent but culture: many of the departures were the James Madison players who came with Cignetti. *(p. 153)*
 
+
 Referenced in the guide on **pp. 18, 149, 161, 172, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - Cignetti kept his staff intact and returns 10 starters, six on defense for Broyles Award-winning coordinator Bryant Haines, and added eight further Power Four starters through the portal. *(p. 152)*
+
 
 Referenced in the guide on **pp. 18, 95, 149, 151, 169, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -234,6 +237,14 @@ Prices printed on the team page *(p. 153)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Dave Tuley | INDIANA TO WIN BIG TEN (+245) | 6 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - Market context given: Indiana is -350 to return to the playoff, which the guide reads as the market rejecting a one-hit-wonder view. *(p. 152)*
 - Recommendation is Under 10.5 wins, with the guide explicitly calling 10.5 the right number rather than a mispriced one. Indiana avoids a double revenge spot with Oregon until a possible Big Ten Championship Game and should be favored in every game except Ohio State, where it is a small home dog. *(p. 152)*
 - A regression argument is offered: Indiana is +37 in turnover margin over two seasons and the guide expects some reversion. Its closing view is that going over 10.5 means buying at the top of the market, tempered by the observation that all Cignetti does is win. *(p. 152)*
@@ -245,6 +256,7 @@ Also referenced on **pp. 6, 11, 14, 17, 38, 161, 206** — not reproduced here.
 - Indiana begins what Curt Cignetti calls Chapter 3 after going 16-0 and winning the national championship — the first team in the modern era to do so, turning a longtime Big Ten doormat into a powerhouse. *(p. 152)*
 - A regression argument is offered: Indiana is +37 in turnover margin over two seasons and the guide expects some reversion. Its closing view is that going over 10.5 means buying at the top of the market, tempered by the observation that all Cignetti does is win. *(p. 152)*
 - **How will the Hoosiers handle being the 'Hunted' instead of being the 'Hunter'?** Indiana was always a circled game, usually as an opponent's homecoming; now it is circled as defending national champion. The guide expects Cignetti to keep operating with a chip on his shoulder to prove 2025 was not a fluke, and expects doubters precisely because it is Indiana — which it suggests suits him. It leaves the underlying question open: whether the programme culture can sustain this or was lightning in a bottle. *(p. 153)*
+
 
 Referenced in the guide on **pp. 6, 14, 15, 17, 18, 19, 20, 46, 90, 149, 151, 154, 157, 161, 166, 168, 170, 171, 172, 173, 215** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -305,8 +317,6 @@ As printed on p. 153. Each category carries a value and a national rank.
 - Losses are heavy: Heisman winner and No. 1 overall pick Fernando Mendoza, seven other draft picks (eight in all, a programme record) and eight undrafted free agents. The guide's judgement is that the cupboard is nonetheless not bare. *(p. 152)*
 - It still expects a third straight playoff appearance under Cignetti, who is 27-2 in two years, while identifying tricky spots at Nebraska, at Washington and against USC where a close loss is plausible. *(p. 152)*
 - A regression argument is offered: Indiana is +37 in turnover margin over two seasons and the guide expects some reversion. Its closing view is that going over 10.5 means buying at the top of the market, tempered by the observation that all Cignetti does is win. *(p. 152)*
-- Hoover was 19-12 as a productive TCU starter and can throw, but ball security has been the weakness — 33 turnovers in 36 career games. The guide argues the environment should fix much of that, noting no FBS team has fewer giveaways over the last two seasons than Indiana's 17. It also flags a scheme consequence: Hoover lacks Mendoza's size and athleticism, so Cignetti and coordinator Mike Shanahan will likely run less RPO. *(p. 153)*
-- Indiana was always a circled game, usually as an opponent's homecoming; now it is circled as defending national champion. The guide expects Cignetti to keep operating with a chip on his shoulder to prove 2025 was not a fluke, and expects doubters precisely because it is Indiana — which it suggests suits him. It leaves the underlying question open: whether the programme culture can sustain this or was lightning in a bottle. *(p. 153)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -121,17 +121,20 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **Can Manny Rojas put the ‘D’ back in ‘elaware?** The guide uses two seasons as a controlled comparison to show the size of the FBS jump on defense, even within a lacklustre conference: 21 PPG and 5.3 yards per play allowed in Delaware's final FCS season, against 31 PPG and 6.0 in the first FBS season. The development it calls the biggest disappointment — or perhaps the most noticeable — is the run defense, at 4.6 yards per carry overall and 4.5 against Conference USA opponents. On the coordinator it notes Rojas has been at Delaware since 2020, predating Carty, who kept him, and raises the question of how long that loyalty survives another poor year, especially with three of the four leading tacklers back and a few FBS-level transfers added. *(p. 189)*
 - **Will the offensive line be the team’s downfall?** The guide breaks down a poor 3.8 yards per carry to show the line is not solely responsible: Minicucci had 112 carries for just 235 yards, an average of 2.1 that dragged the whole figure down, though second-leading rusher Viron Ellison managed only 3.9 himself. It applies the same correction to sacks — the line technically allowed 27, and just 14 in conference play, and it says Minicucci was pretty clearly the reason, through scrambles and designed short-yardage runs. The losses are two long-term starters, Patrick Shupp and Fintan Brose, tackles who combined for 24 starts at various positions, with the centre returning. Since this was not an area Delaware filled through the portal, it concludes the programme must hope internal options improve. *(p. 189)*
 
+
 Referenced in the guide on **pp. 191, 203** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 189, 191, 203** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 189, 191, 203**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - Around him all the running backs and top receiver Sean Wilson return, though his two best offensive linemen do not. *(p. 188)*
 - **Will the offensive line be the team’s downfall?** The guide breaks down a poor 3.8 yards per carry to show the line is not solely responsible: Minicucci had 112 carries for just 235 yards, an average of 2.1 that dragged the whole figure down, though second-leading rusher Viron Ellison managed only 3.9 himself. It applies the same correction to sacks — the line technically allowed 27, and just 14 in conference play, and it says Minicucci was pretty clearly the reason, through scrambles and designed short-yardage runs. The losses are two long-term starters, Patrick Shupp and Fintan Brose, tackles who combined for 24 starts at various positions, with the centre returning. Since this was not an area Delaware filled through the portal, it concludes the programme must hope internal options improve. *(p. 189)*
+
 
 Referenced in the guide on **pp. 204** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -139,6 +142,7 @@ Referenced in the guide on **pp. 204** — those passages are not reproduced her
 
 - It finds some defensive continuity too, and while noting Delaware was out-gained on a per-play basis in Conference USA play, it reads the arrow as pointing up in Year 2 with more scholarships and more depth. *(p. 188)*
 - **Can Manny Rojas put the ‘D’ back in ‘elaware?** The guide uses two seasons as a controlled comparison to show the size of the FBS jump on defense, even within a lacklustre conference: 21 PPG and 5.3 yards per play allowed in Delaware's final FCS season, against 31 PPG and 6.0 in the first FBS season. The development it calls the biggest disappointment — or perhaps the most noticeable — is the run defense, at 4.6 yards per carry overall and 4.5 against Conference USA opponents. On the coordinator it notes Rojas has been at Delaware since 2020, predating Carty, who kept him, and raises the question of how long that loyalty survives another poor year, especially with three of the four leading tacklers back and a few FBS-level transfers added. *(p. 189)*
+
 
 Referenced in the guide on **pp. 204** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -268,9 +272,8 @@ As printed on p. 189. Each category carries a value and a national rank.
 
 - Makinen projects **6.1 wins** against a posted total of 5.5 — **+0.6** in this team's favour.
 - Whether or not the bowl win contributed, it says Delaware is in really good shape on returning production, especially relative to its Conference USA peers. *(p. 188)*
-- Around him all the running backs and top receiver Sean Wilson return, though his two best offensive linemen do not. *(p. 188)*
-- Its balanced verdict: Carty appears to be a solid coach and this appears to be a good programme, but Delaware was out-gained per play and struggled in the trenches within a subpar conference. Projection is 5.73 wins. *(p. 188)*
-- The guide breaks down a poor 3.8 yards per carry to show the line is not solely responsible: Minicucci had 112 carries for just 235 yards, an average of 2.1 that dragged the whole figure down, though second-leading rusher Viron Ellison managed only 3.9 himself. It applies the same correction to sacks — the line technically allowed 27, and just 14 in conference play, and it says Minicucci was pretty clearly the reason, through scrambles and designed short-yardage runs. The losses are two long-term starters, Patrick Shupp and Fintan Brose, tackles who combined for 24 starts at various positions, with the centre returning. Since this was not an area Delaware filled through the portal, it concludes the programme must hope internal options improve. *(p. 189)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -278,10 +281,8 @@ As printed on p. 189. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 5.5**.
 - Its durability concern is specific: Minicucci takes a lot of hits and the depth behind him is virtually non-existent. *(p. 188)*
-- Its balanced verdict: Carty appears to be a solid coach and this appears to be a good programme, but Delaware was out-gained per play and struggled in the trenches within a subpar conference. Projection is 5.73 wins. *(p. 188)*
-- The guide uses two seasons as a controlled comparison to show the size of the FBS jump on defense, even within a lacklustre conference: 21 PPG and 5.3 yards per play allowed in Delaware's final FCS season, against 31 PPG and 6.0 in the first FBS season. The development it calls the biggest disappointment — or perhaps the most noticeable — is the run defense, at 4.6 yards per carry overall and 4.5 against Conference USA opponents. On the coordinator it notes Rojas has been at Delaware since 2020, predating Carty, who kept him, and raises the question of how long that loyalty survives another poor year, especially with three of the four leading tacklers back and a few FBS-level transfers added. *(p. 189)*
-- The guide breaks down a poor 3.8 yards per carry to show the line is not solely responsible: Minicucci had 112 carries for just 235 yards, an average of 2.1 that dragged the whole figure down, though second-leading rusher Viron Ellison managed only 3.9 himself. It applies the same correction to sacks — the line technically allowed 27, and just 14 in conference play, and it says Minicucci was pretty clearly the reason, through scrambles and designed short-yardage runs. The losses are two long-term starters, Patrick Shupp and Fintan Brose, tackles who combined for 24 starts at various positions, with the centre returning. Since this was not an area Delaware filled through the portal, it concludes the programme must hope internal options improve. *(p. 189)*
-- The guide lists the margins that defined league play: three-point losses to Western Kentucky and Sam Houston State, a three-point win over Middle Tennessee and a one-point win over Louisiana Tech. It expects coin flips like those to decide the season again, while noting those opponents are more established at FBS level with stronger recruiting pipelines and that Delaware's talent level does not seem much higher. The new element is unfamiliarity running both ways: Delaware did not play Kennesaw State, Missouri State or New Mexico State last season and plays all three now — with the New Mexico State game out in Las Cruces on November 21 and Kennesaw State the reigning conference champion — while everyone else now has film on the Blue Hens. Its closing question is how Carty and his staff adjust. *(p. 189)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

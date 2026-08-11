@@ -139,6 +139,7 @@ Not addressed in guide.
 - Its reasoning combines two unknowns: Woods might turn Belin or Locklear into a quality starter, but there are major questions in the trenches, which is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
 - **Will whoever plays QB even have a chance?** The guide notes King Large is an all-name team member and the projected left tackle, and that he — like most of the line — is unproven, then argues that may not be a bad thing. Its evidence is last season: 52 sacks allowed and just 3.5 yards per carry even with Lawrence's success, because when Clark was not sacked he was running for his life, finishing with 94 carries for -16 yards. The problem is shown to be chronic rather than recent — Missouri State has allowed 40 or more sacks in five of the last six seasons since 2020. With virtually no FBS experience in the group, it identifies the offensive line coach Woods brought from SMU, Hussam Ouri, as possibly the most important person on that sideline this season. *(p. 201)*
 
+
 Referenced in the guide on **pp. 25, 339** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
@@ -219,6 +220,7 @@ Prices printed on the team page *(p. 201)*:
 
 - It explains the exodus — many players followed head coach Ryan Beard to Coastal Carolina or found homes elsewhere — and treats Beard being hired away as no surprise, since he took the Bears to a bowl in their first FBS season and out-gained Arkansas State in a losing effort to finish 7-6. *(p. 200)*
 
+
 Referenced in the guide on **pp. 189, 320, 328** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -264,7 +266,9 @@ As printed on p. 201. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The guide notes King Large is an all-name team member and the projected left tackle, and that he — like most of the line — is unproven, then argues that may not be a bad thing. Its evidence is last season: 52 sacks allowed and just 3.5 yards per carry even with Lawrence's success, because when Clark was not sacked he was running for his life, finishing with 94 carries for -16 yards. The problem is shown to be chronic rather than recent — Missouri State has allowed 40 or more sacks in five of the last six seasons since 2020. With virtually no FBS experience in the group, it identifies the offensive line coach Woods brought from SMU, Hussam Ouri, as possibly the most important person on that sideline this season. *(p. 201)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 200; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -272,8 +276,8 @@ As printed on p. 201. Each category carries a value and a national rank.
 
 - Makinen projects **4.2 wins** against a posted total of 4.5 — **-0.3** against this team.
 - The team page recommends **UNDER 4.5**.
-- Its reasoning combines two unknowns: Woods might turn Belin or Locklear into a quality starter, but there are major questions in the trenches, which is a lot to overlook given the uncertainty at the most important position on the field. *(p. 200)*
-- Clark left as the programme's all-time second-leading passer and signed with the Raiders as an undrafted free agent, having posted a 28/11 touchdown-to-interception ratio in a final season played through injuries that also cost him a start. The guide says his absence is made worse by losing Shomari Lawrence, who ran for 1,021 yards and seven touchdowns, with the next leading rusher Ramone Green at just 52 carries for 278 yards. The portal replacements are Duke transfer Henry Belin, who spent four years with the Blue Devils and basically never played, and UTEP transfer Skyler Locklear, who had turnover issues for the Miners, alongside holdovers Cole Feuerbacher and Elijah Leonard. It flags one relationship worth watching: Locklear's quarterbacks coach from last season, Mark Cala, is the new offensive coordinator. *(p. 201)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

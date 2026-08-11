@@ -196,7 +196,7 @@ Full national context: [09 — Power Rating Index](../00_Master_Index/09_Power_R
 
 - **Central Michigan Chippewas** (p. 225) — With a lot of returning linemen and some transfer portal acquisitions, Central Michigan is going to play a run-heavy, ball-control style of offense.
 
-- **Eastern Michigan Eagles** (p. 227) — Championship steve makinen power rating make the playoff RANK # CONFERENCE: NATIONAL: # RANK Is this a case study in returning production in the transfer portal era?
+- **Eastern Michigan Eagles** (p. 227) — Is this a case study in returning production in the transfer portal era?
 
 - **Kent State Golden Flashes** (p. 229) — Here’s the thing - DeShields staying healthy is vital because there is absolutely no FBS experience behind him.
 

@@ -117,6 +117,7 @@ The Stability Score table prints the same figure independently: **12 returning s
 
 - **Is there hope on defense after a disastrous 2025 season?** New coordinator DK McDonald must repair a unit that allowed 26.8 points per game and could not crack the top 100 in Adjusted EPA per play allowed at 0.05. The guide expects some improvement after portal work, then states the condition sharply: Kansas needs to be either much stronger rushing the passer or much steadier in the secondary, or the Big 12's best quarterbacks will torch it. *(p. 133)*
 
+
 Referenced in the guide on **pp. 233** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -242,9 +243,8 @@ As printed on p. 133. Each category carries a value and a national rank.
 
 - Makinen projects **5.7 wins** against a posted total of 5.5 — **+0.2** in this team's favour.
 - The good news is the return of coordinator Andy Kotelnicki, a former Broyles Award nominee, after an up-and-down spell at Penn State — meaning Kansas will run the most successful offense it has used in decades. *(p. 132)*
-- Kansas averaged 35.6 points per game in 2022 and 34.8 in 2023, among the most potent offenses in the country, which is why James Franklin took Kotelnicki to Happy Valley — a move the guide says ultimately worked out for no one. It expects extreme efficiency when the pieces are in place while stating clearly that they are not right now: the quarterback situation looks ugly with Daniels, one of the best dual threats in the sport last year, gone, and the receiver room appears to lack game-changing talent. Its conclusion is that Kotelnicki may not produce an elite offense immediately. *(p. 133)*
-- Kotelnicki's pro-style system uses heavy pre-snap motion to create mismatches, but the guide stresses none of it works without an efficient, physical run game — making line play critical, especially with quarterback uncertainty. Kansas is set at left tackle with Calvin Clements, who started 12 games and looks like a future pro, has left guard Amir Herring back, and added impressive bodies elsewhere. It sees real potential for one of the better Big 12 lines, which could stop the offense spiralling. *(p. 133)*
-- New coordinator DK McDonald must repair a unit that allowed 26.8 points per game and could not crack the top 100 in Adjusted EPA per play allowed at 0.05. The guide expects some improvement after portal work, then states the condition sharply: Kansas needs to be either much stronger rushing the passer or much steadier in the secondary, or the Big 12's best quarterbacks will torch it. *(p. 133)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -253,6 +253,8 @@ As printed on p. 133. Each category carries a value and a national rank.
 - The team page recommends **UNDER 5.5**.
 - The guide's framing question is whether the talent is there for bowl eligibility. *(p. 132)*
 - Recommendation is Under 5.5 wins. Without Jalon Daniels' playmaking to mask deficiencies it expects a tough year. *(p. 132)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

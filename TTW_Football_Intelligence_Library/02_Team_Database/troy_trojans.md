@@ -126,12 +126,14 @@ The Stability Score table prints the same figure independently: **6 returning st
 - **Who is QB1?** The guide treats the Kilcrease-Crowder situation as a rarity in the transfer era — two quarterbacks who both stayed. Both sat behind Matthew Caldwell in 2024 and entered 2025 as 1a and 1b, flipping places depending on the day. Crowder won the job but was hurt in the third game; when he returned, Kilcrease still started against Old Dominion, then was hurt himself, and Crowder finished the season. The guide's evidence on their relative standing comes from the market: when Crowder was hurt and Kilcrease took over, the betting action indicated Kilcrease was seen as a clear downgrade. It also notes a number of East Mississippi CC players now on the roster, including 6-foot-5 quarterback Rodge Waldrop, and states its own curiosity about how the competition resolves. *(p. 345)*
 - **Is improvement coming on both sides of the ball?** On offense, new coordinator Adam Austin led a Tarleton offense with five 50-point games that was the highest-scoring team at the FCS level and second only to North Texas across all of Division I. On defense, Dontae Wright delivered measurable year-over-year gains — 28.4 PPG in 2024 down to 23.9 last season, more than 6% shaved off opponents' completion percentage, 18 more sacks and 0.4 fewer yards per play allowed. The complication is attrition: essentially all of his top defensive players are gone, the exception being Donnie Smith and his 11 sacks. The guide's inference from the 2024-to-2025 improvement is that this staff is adept at finding talent in the portal. *(p. 345)*
 
+
 Referenced in the guide on **pp. 183** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 183** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 183**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -140,11 +142,13 @@ Referenced in the guide on **pp. 183** — those passages are not reproduced her
 - **Can the Trojans provide some protection?** The guide opens with wordplay on protection before making the point that keeping a quarterback healthy requires blocking for him. It stresses it verified the figure — 59 sacks allowed was not a typo, and was seven more than the next closest team — and adds that the number could have been higher still given Tucker Kilcrease's 116 carries and Goose Crowder's 57. A couple of starters return on the offensive line, which it does not treat as automatically good news, with the portal heavily used to fill out the rest. What it finds incredible is the resilience of the results: Troy was exactly even in turnover margin and its quarterbacks posted a 20/11 touchdown-to-interception ratio while under duress on seemingly every dropback. *(p. 345)*
 - **Is improvement coming on both sides of the ball?** On offense, new coordinator Adam Austin led a Tarleton offense with five 50-point games that was the highest-scoring team at the FCS level and second only to North Texas across all of Division I. On defense, Dontae Wright delivered measurable year-over-year gains — 28.4 PPG in 2024 down to 23.9 last season, more than 6% shaved off opponents' completion percentage, 18 more sacks and 0.4 fewer yards per play allowed. The complication is attrition: essentially all of his top defensive players are gone, the exception being Donnie Smith and his 11 sacks. The guide's inference from the 2024-to-2025 improvement is that this staff is adept at finding talent in the portal. *(p. 345)*
 
+
 Referenced in the guide on **pp. 63** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Is improvement coming on both sides of the ball?** On offense, new coordinator Adam Austin led a Tarleton offense with five 50-point games that was the highest-scoring team at the FCS level and second only to North Texas across all of Division I. On defense, Dontae Wright delivered measurable year-over-year gains — 28.4 PPG in 2024 down to 23.9 last season, more than 6% shaved off opponents' completion percentage, 18 more sacks and 0.4 fewer yards per play allowed. The complication is attrition: essentially all of his top defensive players are gone, the exception being Donnie Smith and his 11 sacks. The guide's inference from the 2024-to-2025 improvement is that this staff is adept at finding talent in the portal. *(p. 345)*
+
 
 Referenced in the guide on **pp. 15, 111** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -226,6 +230,7 @@ Prices printed on the team page *(p. 345)*:
 - It says the last two seasons are hard to gauge. The 4-8 start to Parker's tenure came amid a mass exodus of talent after Sumrall's departure, though Troy did win three of its last four to end on something of a high note. *(p. 344)*
 - Last season it describes as winning ugly: 59 sacks allowed and just 2.8 yards per carry, the worst offensive season since the Larry Blakeney era, yet the Trojans found ways to win — including a 6-3 conference record while being out-gained by nearly a full yard per play. *(p. 344)*
 
+
 Referenced in the guide on **pp. 336** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -273,19 +278,17 @@ As printed on p. 345. Each category carries a value and a national rank.
 
 - Makinen projects **7.4 wins** against a posted total of 6.5 — **+0.9** in this team's favour.
 - The team page recommends **OVER 6.5**.
-- The guide rates Gerad Parker's work among the nation's top coaching jobs: a four-win improvement achieved despite cluster injuries on the offensive line and at quarterback. *(p. 344)*
 - Last season it describes as winning ugly: 59 sacks allowed and just 2.8 yards per carry, the worst offensive season since the Larry Blakeney era, yet the Trojans found ways to win — including a 6-3 conference record while being out-gained by nearly a full yard per play. *(p. 344)*
-- Its handling of that anomaly is the crux of the argument: that kind of good fortune usually regresses to the mean, but the never-ending swarm of injuries is not guaranteed to return either. *(p. 344)*
-- The guide opens with wordplay on protection before making the point that keeping a quarterback healthy requires blocking for him. It stresses it verified the figure — 59 sacks allowed was not a typo, and was seven more than the next closest team — and adds that the number could have been higher still given Tucker Kilcrease's 116 carries and Goose Crowder's 57. A couple of starters return on the offensive line, which it does not treat as automatically good news, with the portal heavily used to fill out the rest. What it finds incredible is the resilience of the results: Troy was exactly even in turnover margin and its quarterbacks posted a 20/11 touchdown-to-interception ratio while under duress on seemingly every dropback. *(p. 345)*
-- On offense, new coordinator Adam Austin led a Tarleton offense with five 50-point games that was the highest-scoring team at the FCS level and second only to North Texas across all of Division I. On defense, Dontae Wright delivered measurable year-over-year gains — 28.4 PPG in 2024 down to 23.9 last season, more than 6% shaved off opponents' completion percentage, 18 more sacks and 0.4 fewer yards per play allowed. The complication is attrition: essentially all of his top defensive players are gone, the exception being Donnie Smith and his 11 sacks. The guide's inference from the 2024-to-2025 improvement is that this staff is adept at finding talent in the portal. *(p. 345)*
+
+*5 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The guide rates Gerad Parker's work among the nation's top coaching jobs: a four-win improvement achieved despite cluster injuries on the offensive line and at quarterback. *(p. 344)*
-- Its handling of that anomaly is the crux of the argument: that kind of good fortune usually regresses to the mean, but the never-ending swarm of injuries is not guaranteed to return either. *(p. 344)*
 - The closing case is health-based: Parker reached eight wins with what the guide calls a dumpster fire on the offensive line and two injured quarterbacks, the roster is better now, and it cannot imagine the health luck being that bad again. *(p. 344)*
+
+*5 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

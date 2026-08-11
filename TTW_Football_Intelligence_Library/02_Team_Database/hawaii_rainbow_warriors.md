@@ -115,8 +115,9 @@ The Stability Score table prints the same figure independently: **7 returning st
 
 ## 11. Transfer Portal
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 8, 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 8, 18**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
@@ -126,6 +127,7 @@ Not addressed in guide.
 
 - Micah Alejado was named preseason Offensive Player of the Year and Pofele Ashlock made the preseason all-conference team, which should make this one of the conference's premier offenses. *(p. 246)*
 - **What does a healthy Alejado look like in 2026?** Alejado produced an incredible 2025 despite a nagging ankle injury suffered in the opener against Stanford, which eventually cost him starts against Sam Houston State and Portland State. He still completed 66% for 3,106 yards with 24 touchdowns to nine interceptions. The guide adds a developmental angle: the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs, having rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. It expects passing improvement given his pedigree while posing the real question — whether a healthy ankle lets him add a running dimension. *(p. 247)*
+
 
 Referenced in the guide on **pp. 8, 18, 205, 243** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -175,8 +177,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 247** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 247**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -203,6 +206,14 @@ Prices printed on the team page *(p. 247)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Jonathan Von Tobel | HAWAII TO WIN MOUNTAIN WEST (+600) | 15 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - The guide addresses the obvious objection — that improving on nine wins is hard — and argues Hawaii has what it needs. *(p. 246)*
 - Recommendation is Over 7.5 wins, hinging on Alejado's growth — and the guide notes he has given no reason to doubt it, with a plethora of weapons available. *(p. 246)*
 - The guide goes further than the win total, calling Hawaii a solid bet to be Mountain West champion. *(p. 246)*
@@ -211,6 +222,7 @@ Prices printed on the team page *(p. 247)*:
 
 - Improvement is the theme under Timmy Chang, who has bettered his record every season with statistical gains on both sides of the ball. *(p. 246)*
 - **Can the 'Bows break through?** Hawaii has managed a winning Mountain West record just three times since joining in 2012, one being last season. Coming off nine wins the goal is a conference championship, and the guide reports the market has them on the fringe of contention as the fourth choice at DraftKings at +450. It highlights the structural advantage — Hawaii hosts all three teams ahead of it in the market, UNLV, North Dakota State and New Mexico — and closes on the trend, noting Chang has improved his record every season, suggesting the programme is on the brink of something big. *(p. 247)*
+
 
 Referenced in the guide on **pp. 14, 248, 257, 279** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -261,17 +273,16 @@ As printed on p. 247. Each category carries a value and a national rank.
 - The team page recommends **OVER 7.5**.
 - Improvement is the theme under Timmy Chang, who has bettered his record every season with statistical gains on both sides of the ball. *(p. 246)*
 - The guide goes further than the win total, calling Hawaii a solid bet to be Mountain West champion. *(p. 246)*
-- Alejado produced an incredible 2025 despite a nagging ankle injury suffered in the opener against Stanford, which eventually cost him starts against Sam Houston State and Portland State. He still completed 66% for 3,106 yards with 24 touchdowns to nine interceptions. The guide adds a developmental angle: the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs, having rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. It expects passing improvement given his pedigree while posing the real question — whether a healthy ankle lets him add a running dimension. *(p. 247)*
-- The guide traces the trajectory from Chang's 2022 arrival, when Hawaii had two returning starters and allowed 34.7 points and 6.6 yards per play. Every season since it has allowed fewer points and yards per game, improved yards per play, and raised sacks from 17 in 2022 to 30 last season. Only three starters return, but Dennis Thurman is back for a second year as coordinator and the top three players in tackles for loss plus sack leader Elijah Palmer remain. Its standard is deliberately modest: Hawaii does not need a shutdown unit, so maintaining or slightly improving on last season should make this a strength. *(p. 247)*
-- Hawaii has managed a winning Mountain West record just three times since joining in 2012, one being last season. Coming off nine wins the goal is a conference championship, and the guide reports the market has them on the fringe of contention as the fourth choice at DraftKings at +450. It highlights the structural advantage — Hawaii hosts all three teams ahead of it in the market, UNLV, North Dakota State and New Mexico — and closes on the trend, noting Chang has improved his record every season, suggesting the programme is on the brink of something big. *(p. 247)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The schedule includes all three conference powers, but crucially each must travel to the islands. A road trip to Wyoming is difficult but follows a bye, and trips to Northern Illinois, UTEP and Nevada are games this team should handle if it is what its potential suggests. *(p. 246)*
-- Alejado produced an incredible 2025 despite a nagging ankle injury suffered in the opener against Stanford, which eventually cost him starts against Sam Houston State and Portland State. He still completed 66% for 3,106 yards with 24 touchdowns to nine interceptions. The guide adds a developmental angle: the Las Vegas native was never a dual threat in high school yet showed he could escape pressure and use his legs, having rushed for 614 yards and six touchdowns over his final two seasons at Bishop Gorman. It expects passing improvement given his pedigree while posing the real question — whether a healthy ankle lets him add a running dimension. *(p. 247)*
-- The guide traces the trajectory from Chang's 2022 arrival, when Hawaii had two returning starters and allowed 34.7 points and 6.6 yards per play. Every season since it has allowed fewer points and yards per game, improved yards per play, and raised sacks from 17 in 2022 to 30 last season. Only three starters return, but Dennis Thurman is back for a second year as coordinator and the top three players in tackles for loss plus sack leader Elijah Palmer remain. Its standard is deliberately modest: Hawaii does not need a shutdown unit, so maintaining or slightly improving on last season should make this a strength. *(p. 247)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 246; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -123,12 +123,14 @@ The Stability Score table prints the same figure independently: **7 returning st
 - **Will Kohl cash in his latest opportunity?** To replace Keyone Jenkins, coordinator Nick Coleman and Simmons landed JJ Kohl, originally at Iowa State and then Appalachian State, where he posted a 12/2 touchdown-to-interception ratio across six starts and relief appearances. The guide notes he was a four-star in the 2023 class out of Iowa and is a massive human being at 6-foot-7 and 245 pounds. It then reasons about the receiver loss in a specific way: with a new quarterback, losing leading receiver Alex Perry matters less because chemistry had to be rebuilt anyway — while recording that Perry had 530 more receiving yards and 25 more catches than anyone else, part of why he is now at Illinois. It would not be terribly surprised to see Kohl share time with Delaware transfer Zach Marker or freshman DJ Alexander, both bigger running threats. *(p. 191)*
 - **How much of a worry is the secondary?** The guide's baseline is Mister Clark, who had 13 pass breakups playing primarily at nickel plus 6.5 tackles for loss, calling him a truly dynamic player on a defense short of them. The front seven retains a few pieces, including top sack man Kenton Simmons, but it describes the secondary as a grab bag of transfers — projected starting corners from Duke and FAU, and a multi-time transfer, most recently from Oklahoma State, taking Clark's role. It rates safety well, with homegrown star Shamir Sterlin and two-year South Alabama starter Wesley Miller. The reason this matters is turnover dependence: FIU's quarterbacks threw 13 interceptions while the defense produced 21 takeaways, tied for 26th, leaving the team exactly even in margin — so impact plays like those will be necessary again. *(p. 191)*
 
+
 Referenced in the guide on **pp. 163** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 191** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 191**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -139,6 +141,7 @@ Referenced in the guide on **pp. 191** — those passages are not reproduced her
 
 - **What does Simmons have in store for an encore?** The guide first shows the headline numbers moving the wrong way — offense from 5.7 to 5.6 yards per play, defense from 5.2 up to 5.9 — then argues the conference-only splits tell a much better story, at better than 6.2 yards per play gained and just over 5.6 allowed. It states the methodological principle behind that: for teams like this it is always important to parse out the paycheck games, since trips to Penn State and UConn carry little merit in the metrics or as a guide to the next season. The problem it then puts to Simmons is personnel — the leading quarterback, running back, receiver, tackler and defensive back are all gone, leaving the staff a great deal of offseason work. *(p. 191)*
 - **How much of a worry is the secondary?** The guide's baseline is Mister Clark, who had 13 pass breakups playing primarily at nickel plus 6.5 tackles for loss, calling him a truly dynamic player on a defense short of them. The front seven retains a few pieces, including top sack man Kenton Simmons, but it describes the secondary as a grab bag of transfers — projected starting corners from Duke and FAU, and a multi-time transfer, most recently from Oklahoma State, taking Clark's role. It rates safety well, with homegrown star Shamir Sterlin and two-year South Alabama starter Wesley Miller. The reason this matters is turnover dependence: FIU's quarterbacks threw 13 interceptions while the defense produced 21 takeaways, tied for 26th, leaving the team exactly even in margin — so impact plays like those will be necessary again. *(p. 191)*
+
 
 Referenced in the guide on **pp. 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -253,8 +256,9 @@ As printed on p. 191. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Simmons, previously head coach at Florida A&M and Prairie View A&M, delivered FIU's first winning conference record since 2018 and nearly as many conference wins in one year, five, as MacIntyre managed in three, six. *(p. 190)*
-- Its structural caution is that despite the financial commitment from Armando Christian Perez — better known as Pitbull — and the school's Florida location, this has been a hard place to win and a hard place to sustain winning. *(p. 190)*
 - It is explicit that this is not a criticism of the team: what Simmons is doing is very impressive, and FIU will be highly competitive again, plenty capable of seven or eight wins if the ball bounces its way. *(p. 190)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -263,8 +267,8 @@ As printed on p. 191. Each category carries a value and a national rank.
 - Makinen projects **6.0 wins** against a posted total of 6.5 — **-0.5** against this team.
 - The team page recommends **UNDER 6.5**.
 - The schedule argument is the road slate: trips to Jacksonville State, Liberty, Delaware and Kennesaw State — three of the four shortest prices to win the conference — plus tricky visits to USF and Florida Atlantic, the latter a revenge spot for an Owls team that lost in Miami last season. Projection is 5.99 wins. *(p. 190)*
-- To replace Keyone Jenkins, coordinator Nick Coleman and Simmons landed JJ Kohl, originally at Iowa State and then Appalachian State, where he posted a 12/2 touchdown-to-interception ratio across six starts and relief appearances. The guide notes he was a four-star in the 2023 class out of Iowa and is a massive human being at 6-foot-7 and 245 pounds. It then reasons about the receiver loss in a specific way: with a new quarterback, losing leading receiver Alex Perry matters less because chemistry had to be rebuilt anyway — while recording that Perry had 530 more receiving yards and 25 more catches than anyone else, part of why he is now at Illinois. It would not be terribly surprised to see Kohl share time with Delaware transfer Zach Marker or freshman DJ Alexander, both bigger running threats. *(p. 191)*
-- The guide's baseline is Mister Clark, who had 13 pass breakups playing primarily at nickel plus 6.5 tackles for loss, calling him a truly dynamic player on a defense short of them. The front seven retains a few pieces, including top sack man Kenton Simmons, but it describes the secondary as a grab bag of transfers — projected starting corners from Duke and FAU, and a multi-time transfer, most recently from Oklahoma State, taking Clark's role. It rates safety well, with homegrown star Shamir Sterlin and two-year South Alabama starter Wesley Miller. The reason this matters is turnover dependence: FIU's quarterbacks threw 13 interceptions while the defense produced 21 takeaways, tied for 26th, leaving the team exactly even in margin — so impact plays like those will be necessary again. *(p. 191)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

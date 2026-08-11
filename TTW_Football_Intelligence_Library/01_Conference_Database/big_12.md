@@ -163,7 +163,7 @@ Full national context: [09 — Power Rating Index](../00_Master_Index/09_Power_R
 
 - **Arizona Wildcats** (p. 116) — Brennan is now in good standing with the university, and expectations are somewhat high with star quarterback Noah Fifita returning with 13 other starters.
 
-- **BYU Cougars** (p. 123) — Championship steve makinen power rating make the playoff RANK # CONFERENCE: NATIONAL: # RANK How much better will Bear Bachmeier be as a passer?
+- **BYU Cougars** (p. 123) — How much better will Bear Bachmeier be as a passer?
 
 - **Baylor Bears** (p. 120) — This defense is expected to be a little better than it was a year ago, and DJ Lagway is a high-profile addition at quarterback.
 
@@ -171,7 +171,7 @@ Full national context: [09 — Power Rating Index](../00_Master_Index/09_Power_R
 
 - **Colorado Buffaloes** (p. 126) — That was a year in which Shedeur Sanders put up stupid numbers as a passer, and Travis Hunter won the Heisman for his contributions as both a wide receiver and a cornerback.
 
-- **Houston Cougars** (p. 129) — Championship steve makinen power rating make the playoff RANK # CONFERENCE: NATIONAL: # RANK Can Fritz afford to keep QB Keisean Henderson on the bench all season?
+- **Houston Cougars** (p. 129) — Can Fritz afford to keep QB Keisean Henderson on the bench all season?
 
 - **Iowa State Cyclones** (p. 131) — Quarterback Jaylen Raynor is an exciting player, as he was a fun dual-threat weapon for Arkansas State last year.
 

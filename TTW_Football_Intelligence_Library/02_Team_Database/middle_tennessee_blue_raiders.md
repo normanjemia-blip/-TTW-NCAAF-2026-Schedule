@@ -128,14 +128,16 @@ The Stability Score table prints the same figure independently: **6 returning st
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 199** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 199**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - With very minimal offensive improvement, a new coordinator has arrived in Anthony Scelfo, previously at Southeastern Louisiana. *(p. 198)*
 - Its reasoning is scheme plus conference context — Scelfo and a more robust running game with a more mobile quarterback should help, particularly in Conference USA, where teams that run the ball efficiently often fare better. *(p. 198)*
 - **Will Roman rebuild the offense in a day?** The guide answers probably not, while calling the end-of-season developments promising. On the coordinator it notes Scelfo has coached under his father at Southeastern Louisiana since 2021, making this his first time calling plays at FBS level. Gagliano returns but much else does not: Cam'ron Lacy is back after leading the team with 549 yards, yet nobody else with 30-plus catches returns and leading rusher Jekail Middlebrook has moved on. The running back room it rates much stronger, with holdover DJ Taylor (7.7 yards per carry on just 26 attempts), Saginaw Valley State transfer Terence Brown, and Antonio Martin, who averaged over five yards per carry for Southeastern Louisiana in Scelfo's first season as coordinator in 2024. Its conclusion holds even if the quarterback disappoints: MTSU should run the ball a lot better. *(p. 199)*
+
 
 Referenced in the guide on **pp. 206** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -189,8 +191,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 198** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 198**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -265,18 +268,17 @@ As printed on p. 199. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 4.5**.
 - Middle Tennessee has not reached a bowl since 2022, and while 2025 brought modest improvement it was nowhere near enough to be pleased with. *(p. 198)*
-- The failure it finds most pointed is on Mason's own side of the ball: despite his defensive background, MTSU allowed 34.3 PPG in Year 1 and 30.9 in Year 2, though it credits an improvement of 0.8 yards per play. *(p. 198)*
 - With very minimal offensive improvement, a new coordinator has arrived in Anthony Scelfo, previously at Southeastern Louisiana. *(p. 198)*
-- The guide answers probably not, while calling the end-of-season developments promising. On the coordinator it notes Scelfo has coached under his father at Southeastern Louisiana since 2021, making this his first time calling plays at FBS level. Gagliano returns but much else does not: Cam'ron Lacy is back after leading the team with 549 yards, yet nobody else with 30-plus catches returns and leading rusher Jekail Middlebrook has moved on. The running back room it rates much stronger, with holdover DJ Taylor (7.7 yards per carry on just 26 attempts), Saginaw Valley State transfer Terence Brown, and Antonio Martin, who averaged over five yards per carry for Southeastern Louisiana in Scelfo's first season as coordinator in 2024. Its conclusion holds even if the quarterback disappoints: MTSU should run the ball a lot better. *(p. 199)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **3.4 wins** against a posted total of 3.5 — **-0.1** against this team.
-- The path to the number runs through non-conference: MTSU lost by 20 to FCS Austin Peay to open last season, so the guide presumes it will be ready for Murray State, and it recalls the Blue Raiders going to Reno and beating Nevada. Splitting non-conference leaves three conference wins available. Projection is 4.1 wins, with the value stated to be on the Over. *(p. 198)*
-- The guide gives the production first: under Gagliano the offense scored 26, 31 and 31 points with 541, 460 and 459 yards, figures it says were almost untouchable before Nicholas Vattiato's injury. Across three starts and a couple of relief appearances he threw for over 1,000 yards with a 7/0 touchdown-to-interception ratio and added 4.3 yards per carry on 39 attempts. That leads it to ask why he was not starting to begin with, and it answers structurally rather than personally: it does not claim to know the locker-room dynamics, but notes the redshirt freshman was surely earning less NIL money than the programme's all-time second-leading passer, and that some teams — especially at the Group of Six level — seem unwilling to move on from entrenched starters they have invested in. *(p. 199)*
-- The guide's baseline is that the cupboard was neither bare nor fully stocked when Mason succeeded longtime head coach Rick Stockstill — which is why it still calls 6.7 yards per play allowed in his first year shocking. Better players in the front seven then cut 1.2 yards per carry year over year, but the secondary continued to struggle, with MTSU tied for 105th nationally in passing plays of 20-plus yards allowed. Returning contributors are few, the exception being Reggie Johnson, second on the team with 3.5 sacks. It describes the unit as mostly rebuilt through the portal, across both this cycle and the one before. *(p. 199)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

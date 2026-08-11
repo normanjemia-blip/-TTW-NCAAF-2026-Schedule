@@ -121,13 +121,15 @@ The Stability Score table prints the same figure independently: **10 returning s
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 203** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 203**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - It admits surprise that New Mexico State improved at all last season, going from 3-9 to 4-8 with as many interceptions as touchdowns, 16, and the absolute worst rushing offense in the nation. *(p. 202)*
 - **What about the skill positions?** The guide restates the severity of the run game — the worst rushing attack in the nation, at just 77 yards per game, crossing 100 only twice. The additions it names are sprinter James Jones from Delaware State and true freshman Xavier Rucker, the highest-rated freshman to join the programme. At receiver, three of the top four pass-catchers are gone, though it notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: while offensive linemen are not skill players, that is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Its conclusion is measured — not that the offense suddenly puts up great numbers, but that the running game should at least improve. *(p. 203)*
+
 
 Referenced in the guide on **pp. 339** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -221,6 +223,7 @@ Also referenced on **pp. 196** — not reproduced here.
 - It frames the job itself as very difficult, with success hard to come by: aside from Kill's 7-6 and 10-5 campaigns, the programme has one other winning season, in 2017, going back to 2002 — and in many of those years, three or fewer wins. *(p. 202)*
 - It admits surprise that New Mexico State improved at all last season, going from 3-9 to 4-8 with as many interceptions as touchdowns, 16, and the absolute worst rushing offense in the nation. *(p. 202)*
 
+
 Referenced in the guide on **pp. 189** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -268,22 +271,19 @@ As printed on p. 203. Each category carries a value and a national rank.
 
 - Makinen projects **4.6 wins** against a posted total of 4.5 — **+0.1** in this team's favour.
 - The guide says Jerry Kill's work in Las Cruces looks more impressive with each passing day, recording his 17-11 across 2022 and 2023. *(p. 202)*
-- It frames the job itself as very difficult, with success hard to come by: aside from Kill's 7-6 and 10-5 campaigns, the programme has one other winning season, in 2017, going back to 2002 — and in many of those years, three or fewer wins. *(p. 202)*
 - It admits surprise that New Mexico State improved at all last season, going from 3-9 to 4-8 with as many interceptions as touchdowns, 16, and the absolute worst rushing offense in the nation. *(p. 202)*
 - Recommendation is Under 4.5 wins. It allows this may be Sanchez's best team, while noting others in Conference USA look improved too. *(p. 202)*
-- Depth was a huge issue last season and looks to be again — 247Sports credits the programme with 26 portal players but ranks the class seventh of the conference's 10 teams. Projection is 4.61 wins. *(p. 202)*
-- The guide restates the severity of the run game — the worst rushing attack in the nation, at just 77 yards per game, crossing 100 only twice. The additions it names are sprinter James Jones from Delaware State and true freshman Xavier Rucker, the highest-rated freshman to join the programme. At receiver, three of the top four pass-catchers are gone, though it notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: while offensive linemen are not skill players, that is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Its conclusion is measured — not that the offense suddenly puts up great numbers, but that the running game should at least improve. *(p. 203)*
-- The guide grants real improvement — nearly nine fewer points and 0.8 fewer yards per play allowed — then argues it came down simply to forcing more turnovers. The comparison is stark: only 10 takeaways in 2024, including a single fumble recovery, against nine fumble recoveries and 15 interceptions in 2025, which it labels fumble luck. It adds that the Aggies were tied for 22nd in red-zone attempts faced. Encouraging as that is, and with a good number of returning starters and contributors, the underlying pass rush stays weak: 19 sacks last season and only 33 across two seasons, with Ezra Christensen (six sacks, 10 quarterback hits) and Jamall Thompson (four sacks) both gone. *(p. 203)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 4.5**.
-- It frames the job itself as very difficult, with success hard to come by: aside from Kill's 7-6 and 10-5 campaigns, the programme has one other winning season, in 2017, going back to 2002 — and in many of those years, three or fewer wins. *(p. 202)*
 - Its summary is that the bar is low and the Aggies will once again struggle to clear it. *(p. 202)*
-- The guide restates the severity of the run game — the worst rushing attack in the nation, at just 77 yards per game, crossing 100 only twice. The additions it names are sprinter James Jones from Delaware State and true freshman Xavier Rucker, the highest-rated freshman to join the programme. At receiver, three of the top four pass-catchers are gone, though it notes nobody had eye-popping numbers. Its most interesting observation stretches the question's terms: while offensive linemen are not skill players, that is the unit that looks most improved, with starting experience from the FCS and JUCO ranks plus one returning starter. Its conclusion is measured — not that the offense suddenly puts up great numbers, but that the running game should at least improve. *(p. 203)*
-- The guide grants real improvement — nearly nine fewer points and 0.8 fewer yards per play allowed — then argues it came down simply to forcing more turnovers. The comparison is stark: only 10 takeaways in 2024, including a single fumble recovery, against nine fumble recoveries and 15 interceptions in 2025, which it labels fumble luck. It adds that the Aggies were tied for 22nd in red-zone attempts faced. Encouraging as that is, and with a good number of returning starters and contributors, the underlying pass rush stays weak: 19 sacks last season and only 33 across two seasons, with Ezra Christensen (six sacks, 10 quarterback hits) and Jamall Thompson (four sacks) both gone. *(p. 203)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

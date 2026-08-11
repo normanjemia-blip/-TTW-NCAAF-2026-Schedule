@@ -121,23 +121,27 @@ The Stability Score table prints the same figure independently: **16 returning s
 
 - **How much will the offense differ after an offseason of change?** Kiffin left before the playoff run but the staff he had chosen stayed through the postseason. Offensive coordinator Charlie Weis Jr., described as central to the offense, has now gone to Baton Rouge. John David Baker, East Carolina's coordinator in 2025, replaces him and to some degree replaces Kiffin. The guide flags the practical consequences: new terminology and unknown play structure and flow. All four top receivers from 2025 are gone via draft, portal or otherwise. Kewan Lacy remains a major piece in the backfield, but the guide warns of a possible large shift in the unit's efficiency. *(p. 305)*
 
+
 Referenced in the guide on **pp. 8, 11, 18, 19, 73, 195, 296, 297, 331** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 11** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 11**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
 - **How much will the offense differ after an offseason of change?** Kiffin left before the playoff run but the staff he had chosen stayed through the postseason. Offensive coordinator Charlie Weis Jr., described as central to the offense, has now gone to Baton Rouge. John David Baker, East Carolina's coordinator in 2025, replaces him and to some degree replaces Kiffin. The guide flags the practical consequences: new terminology and unknown play structure and flow. All four top receivers from 2025 are gone via draft, portal or otherwise. Kewan Lacy remains a major piece in the backfield, but the guide warns of a possible large shift in the unit's efficiency. *(p. 305)*
 
+
 Referenced in the guide on **pp. 8, 18, 300, 318, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
+
 
 Referenced in the guide on **pp. 18, 95, 283, 297** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -183,8 +187,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 305, 310** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 305, 310**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -209,7 +214,7 @@ Prices printed on the team page *(p. 305)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
-| Sean Green | OLE MISS OVER 8.5 WINS (+150) & | 11 |
+| Mitch Moss | OLE MISS OVER 8.5 WINS (+150) & TO MAKE COLLEGE FOOTBALL PLAYOFF (+220) | 11 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -221,6 +226,7 @@ Also referenced on **pp. 15** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - The guide calls Ole Miss the SEC's most compelling narrative: a run to the playoff semifinals where the Rebels led Miami with three minutes left before folding. *(p. 304)*
+
 
 Referenced in the guide on **pp. 45, 73, 92, 195, 296, 297, 301, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -268,10 +274,9 @@ As printed on p. 305. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
-- Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
 - Schedule adds to the case: road trips to Florida, Texas and Oklahoma; home games against LSU in an emotionally charged Week 3, Missouri and Georgia; and an opener against a good Louisville side in Nashville. *(p. 304)*
-- Chambliss only got the job through Austin Simmons' injury but never gave it back, finishing as PFF's third-highest graded SEC passer: 65.6% completions, 8.8 yards per attempt, 22 touchdowns to three interceptions. The guide highlights ball security as the contrast with Simmons — a 2.5% turnover-worthy play rate, third-best among SEC starters. He enters 2026 as the unquestioned starter and a Heisman candidate, with the open question being whether he can repeat it amid heavy turnover in the receiver room. *(p. 305)*
-- The guide treats this as the season's crux. Golding had Weis calling plays in the postseason and now does not; he has had to hire a coordinator, rebuild groups such as receiver, and take charge of every facet. It does not dispute the success under him last season but insists the situation is now materially different — a first-time head coach steering a programme with national title ambitions through a brutal conference. As a defensive coach, his coordinator choice is expected to hang over the season if the offense starts slowly. *(p. 305)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -280,9 +285,8 @@ As printed on p. 305. Each category carries a value and a national rank.
 - The team page recommends **UNDER 7.5**.
 - The guide calls Ole Miss the SEC's most compelling narrative: a run to the playoff semifinals where the Rebels led Miami with three minutes left before folding. *(p. 304)*
 - Pete Golding is now a first-time head coach charged with sustaining what he achieved on an interim basis, having replaced his offensive staff and retooled the skill positions. The guide poses the question directly — does he have head-coaching ability, or did he benefit from inheriting Lane Kiffin's team mid-run? *(p. 304)*
-- Recommendation is Under 7.5 wins. Ole Miss returns 16 starters from a team a drive from the national championship game, but the guide argues the departures matter more: the architects of one of the country's better offenses, plus key pieces on both lines. *(p. 304)*
-- Chambliss only got the job through Austin Simmons' injury but never gave it back, finishing as PFF's third-highest graded SEC passer: 65.6% completions, 8.8 yards per attempt, 22 touchdowns to three interceptions. The guide highlights ball security as the contrast with Simmons — a 2.5% turnover-worthy play rate, third-best among SEC starters. He enters 2026 as the unquestioned starter and a Heisman candidate, with the open question being whether he can repeat it amid heavy turnover in the receiver room. *(p. 305)*
-- The guide treats this as the season's crux. Golding had Weis calling plays in the postseason and now does not; he has had to hire a coordinator, rebuild groups such as receiver, and take charge of every facet. It does not dispute the success under him last season but insists the situation is now materially different — a first-time head coach steering a programme with national title ambitions through a brutal conference. As a defensive coach, his coordinator choice is expected to hang over the season if the offense starts slowly. *(p. 305)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

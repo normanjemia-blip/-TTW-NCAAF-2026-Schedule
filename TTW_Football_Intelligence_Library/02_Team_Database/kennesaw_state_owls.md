@@ -127,8 +127,9 @@ The Stability Score table prints the same figure independently: **9 returning st
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 107** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 107**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -213,6 +214,7 @@ Also referenced on **pp. 190** — not reproduced here.
 - But as that move approached, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023, and was fired nine games into 2024 — even after an incredible upset of Liberty a few weeks earlier. *(p. 194)*
 - On the schedule it notes only one clear non-conference loss this time, against what everyone assumed would be two last season, recalling that Kennesaw State only lost 10-9 to Wake Forest. *(p. 194)*
 
+
 Referenced in the guide on **pp. 188, 189, 196** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -259,10 +261,8 @@ As printed on p. 195. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The guide argues Kennesaw State may have been the best story in the Group of Five and that not enough people were talking about it. *(p. 194)*
-- But as that move approached, Brian Bohannon became less successful, going 5-6 in 2022 and 3-6 in 2023, and was fired nine games into 2024 — even after an incredible upset of Liberty a few weeks earlier. *(p. 194)*
-- Its decisive reason is comparative: the conference schedule is tough and the opponents in some of the toss-up games appear to have improved more than the Owls. Projection is 6.34 wins. *(p. 194)*
-- The guide grades the defense against a low bar and still finds it wanting: this is not a good offensive conference, yet the Owls allowed more than 400 yards per game and were out-gained by 0.5 yards per carry. It grants they out-gained opponents per play thanks to explosives in the passing game, then isolates the schedule-strength effect — nearly 6.5 yards per play allowed in November as the slate ramped up. Its examples are a 41-34 win over Missouri State, a 48-42 double-overtime win over Liberty, and being completely smacked by Western Michigan in the Myrtle Beach Bowl. The summary statistic is that Kennesaw State was out-gained in four of its eight conference wins. The top three tacklers return, leaving its question open. *(p. 195)*
-- The guide restates the churn: virtually a brand-new team last season and another full of new faces now, with Mack having brought in more than 60 players via the portal last year, and 247Sports listing 29 graded transfers this cycle in a class ranked third in the conference behind Sam Houston and Liberty. It calls the eight-win year-over-year improvement incredible, especially with Power Four openers against Wake Forest and Indiana. Then it sets out both sides plainly: it is fair to be excited that transfers who did not feature prominently now get their chance in Year 2 of the system, but there is basically zero returning production on offense — and it asks what the chances are of lightning striking twice. *(p. 195)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -271,8 +271,8 @@ As printed on p. 195. Each category carries a value and a national rank.
 - The team page recommends **UNDER 6.5**.
 - Recommendation is Under 6.5 wins, framed starkly — from conference champions to possibly missing a bowl — with many signs pointing that way. *(p. 194)*
 - On the schedule it notes only one clear non-conference loss this time, against what everyone assumed would be two last season, recalling that Kennesaw State only lost 10-9 to Wake Forest. *(p. 194)*
-- Its decisive reason is comparative: the conference schedule is tough and the opponents in some of the toss-up games appear to have improved more than the Owls. Projection is 6.34 wins. *(p. 194)*
-- The guide grades the defense against a low bar and still finds it wanting: this is not a good offensive conference, yet the Owls allowed more than 400 yards per game and were out-gained by 0.5 yards per carry. It grants they out-gained opponents per play thanks to explosives in the passing game, then isolates the schedule-strength effect — nearly 6.5 yards per play allowed in November as the slate ramped up. Its examples are a 41-34 win over Missouri State, a 48-42 double-overtime win over Liberty, and being completely smacked by Western Michigan in the Myrtle Beach Bowl. The summary statistic is that Kennesaw State was out-gained in four of its eight conference wins. The top three tacklers return, leaving its question open. *(p. 195)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

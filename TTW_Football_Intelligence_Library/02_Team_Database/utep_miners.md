@@ -117,12 +117,14 @@ The Stability Score table prints the same figure independently: **6 returning st
 - **Can EJ Colson spark a rebuilding offense?** Colson, a transfer from Incarnate Word, started a game and appeared in another for UCF in 2024, which the guide says did not go well — 9 of 16 for 64 yards with an interception — before he moved on. Last season he showed promise, completing 70.9% for 2,142 yards with 16 touchdowns and four interceptions plus 287 rushing yards and three scores. Scotty Walden named him the starter in May. The guide frames the task as Herculean and quantifies it precisely: turning around an offense that ranked 131st in EPA per play and 129th in success rate, while doing it without the top four rushers and top seven receivers. *(p. 261)*
 - **Could the running game surprise some defenses in the Mountain West?** The guide concedes projection is hard with no returning starters, while judging UTEP could have done much worse. The baseline is poor: 116 yards per game at 3.7 per carry, with the programme not averaging more than 3.9 since 2022. Walden added line help in left guard Brian Williams, an all-conference selection in the SWAC, and right tackle Jaymon Lamb, who played seven games for North Texas. At running back it names Missouri transfer Tavorus Jones the crown jewel, a former four-star who appeared in 20 games for the Tigers. *(p. 261)*
 
+
 Referenced in the guide on **pp. 201** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 261**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -215,8 +217,9 @@ Also referenced on **pp. 196** — not reproduced here.
 
 ## 22. Historical / Situational Trends
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 260, 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 260, 261**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -267,15 +270,12 @@ As printed on p. 261. Each category carries a value and a national rank.
 - Its conclusion at this level is comparative rather than absolute: there is a strong chance this is not the team that finishes last in the Mountain West. *(p. 260)*
 - Recommendation is Over 3.5 wins. There is enough on offense to be somewhat optimistic about climbing out of the national cellar, with much depending on EJ Colson, who has the upside. *(p. 260)*
 - The defense could also improve once conference play begins. *(p. 260)*
-- Colson, a transfer from Incarnate Word, started a game and appeared in another for UCF in 2024, which the guide says did not go well — 9 of 16 for 64 yards with an interception — before he moved on. Last season he showed promise, completing 70.9% for 2,142 yards with 16 touchdowns and four interceptions plus 287 rushing yards and three scores. Scotty Walden named him the starter in May. The guide frames the task as Herculean and quantifies it precisely: turning around an offense that ranked 131st in EPA per play and 129th in success rate, while doing it without the top four rushers and top seven receivers. *(p. 261)*
-- The guide notes UTEP quietly had a strong defensive campaign: 14th nationally in opponent EPA per play, 20th in success rate, 97th percentile in explosive play rate allowed and 94th percentile in late-down success rate. Only four starters return but talent remains — middle linebacker Jayden Wilson was second in tackles with 92 and third in tackles for loss with 7.5, while Justin Content and Xavier Smith return in the secondary having combined for 10 pass breakups, seven tackles for loss and two interceptions. Kyle Beyer takes over as coordinator having served as an analyst last season, and the guide sees a strong chance of an above-average Mountain West unit. *(p. 261)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **3.2 wins** against a posted total of 3.5 — **-0.3** against this team.
-- The guide notes UTEP quietly had a strong defensive campaign: 14th nationally in opponent EPA per play, 20th in success rate, 97th percentile in explosive play rate allowed and 94th percentile in late-down success rate. Only four starters return but talent remains — middle linebacker Jayden Wilson was second in tackles with 92 and third in tackles for loss with 7.5, while Justin Content and Xavier Smith return in the secondary having combined for 10 pass breakups, seven tackles for loss and two interceptions. Kyle Beyer takes over as coordinator having served as an analyst last season, and the guide sees a strong chance of an above-average Mountain West unit. *(p. 261)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

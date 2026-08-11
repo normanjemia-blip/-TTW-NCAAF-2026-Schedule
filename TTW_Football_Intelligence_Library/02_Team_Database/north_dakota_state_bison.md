@@ -116,6 +116,7 @@ The Stability Score table prints the same figure independently: **10 returning s
 - Its reasoning is specific: portal losses were immense with little brought back, and while the Mountain West is no power conference, these are teams built with former Power Four players carrying real talent — so there should be doubts about walking in and dominating. *(p. 252)*
 - **Will the lack of talent from the transfer portal burn the Bison?** North Dakota State took a different approach from most, signing 29 high school players and only nine transfers, of whom three played at Power Four programmes last season — one being punter Caleb McGrath. It lost significant talent including two First-Team All-MVFC offensive linemen. The guide explains why the model worked before and why it may not now: recruiting and developing high school players succeeded at the FCS level, but Group of Five teams constantly retool with castoffs and former top prospects seeking a new home. With just 10 starters back and zero portal starters added, it leaves the question genuinely open. *(p. 253)*
 
+
 Referenced in the guide on **pp. 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -125,6 +126,7 @@ Referenced in the guide on **pp. 161** — those passages are not reproduced her
 ## 13. Offensive Identity
 
 - **Does the run of quarterback development continue?** Cole Payton going to the Eagles at pick 178 marked the fifth Bison starting quarterback drafted in 11 years, and Nathan Hayes now carries that pressure. Hayes appeared in 10 games, completing 57% for 381 yards with four touchdowns and one interception, and has been in the system since 2022 so there should be no learning curve. The guide's counterweight is the supporting cast: he takes over an offense missing its top two rushers and top two receivers. *(p. 253)*
+
 
 Referenced in the guide on **pp. 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -195,6 +197,8 @@ Prices printed on the team page *(p. 253)*:
 | Contributor | Pick | Page |
 | --- | --- | --- |
 | Pauly Howard | NORTH DAKOTA STATE UNDER 9.5 WINS (-200) | 7 |
+| Stormy Buonantony | NORTH DAKOTA STATE ALT UNDER 8.5 WINS (+145) | 14 |
+| Jonathan Von Tobel | NORTH DAKOTA STATE UNDER 8.5 WINS (+140) | 15 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -211,6 +215,7 @@ Also referenced on **pp. 9, 15, 247** — not reproduced here.
 - It credits a great programme with a long history of dominating the FCS and challenging strong FBS teams, noting NDSU retains favorite status even while stepping up. *(p. 252)*
 - **Does the run of quarterback development continue?** Cole Payton going to the Eagles at pick 178 marked the fifth Bison starting quarterback drafted in 11 years, and Nathan Hayes now carries that pressure. Hayes appeared in 10 games, completing 57% for 381 yards with four touchdowns and one interception, and has been in the system since 2022 so there should be no learning curve. The guide's counterweight is the supporting cast: he takes over an offense missing its top two rushers and top two receivers. *(p. 253)*
 
+
 Referenced in the guide on **pp. 9, 14, 155, 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -222,8 +227,8 @@ This is the guide's own note, not a gap in extraction.
 ## 24. Bull Case
 
 - It credits a great programme with a long history of dominating the FCS and challenging strong FBS teams, noting NDSU retains favorite status even while stepping up. *(p. 252)*
-- Schedule detail: road games at Air Force, UNLV, Hawaii and New Mexico — trips to every contender. The home schedule is far from daunting with Fordham and Sacramento State, though Wyoming, Nevada and UTEP could all improve. It answers its own question about winning most of those road games with a blunt doubtful. *(p. 252)*
-- The guide notes the role is nothing new — NDSU was favored in every game last season and closed as a 30-plus point favorite in six of 13 — but stresses this is a higher level. It observes the conference did the Bison no favors in scheduling their inaugural season, with road trips to Air Force, UNLV, New Mexico and Hawaii that it calls coin-flip spots. Its summary is that the days of bullying a lesser conference are gone: NDSU is certainly capable of winning the league, but the road is much tougher. *(p. 253)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -233,9 +238,8 @@ This is the guide's own note, not a gap in extraction.
 - The team page recommends **UNDER 8.5**.
 - The distinguishing factor is roster construction: the Bison arrive with a largely homegrown roster and few transfers, and Tim Polasek lost considerable talent to the portal. *(p. 252)*
 - Its reasoning is specific: portal losses were immense with little brought back, and while the Mountain West is no power conference, these are teams built with former Power Four players carrying real talent — so there should be doubts about walking in and dominating. *(p. 252)*
-- Schedule detail: road games at Air Force, UNLV, Hawaii and New Mexico — trips to every contender. The home schedule is far from daunting with Fordham and Sacramento State, though Wyoming, Nevada and UTEP could all improve. It answers its own question about winning most of those road games with a blunt doubtful. *(p. 252)*
-- North Dakota State took a different approach from most, signing 29 high school players and only nine transfers, of whom three played at Power Four programmes last season — one being punter Caleb McGrath. It lost significant talent including two First-Team All-MVFC offensive linemen. The guide explains why the model worked before and why it may not now: recruiting and developing high school players succeeded at the FCS level, but Group of Five teams constantly retool with castoffs and former top prospects seeking a new home. With just 10 starters back and zero portal starters added, it leaves the question genuinely open. *(p. 253)*
-- Cole Payton going to the Eagles at pick 178 marked the fifth Bison starting quarterback drafted in 11 years, and Nathan Hayes now carries that pressure. Hayes appeared in 10 games, completing 57% for 381 yards with four touchdowns and one interception, and has been in the system since 2022 so there should be no learning curve. The guide's counterweight is the supporting cast: he takes over an offense missing its top two rushers and top two receivers. *(p. 253)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

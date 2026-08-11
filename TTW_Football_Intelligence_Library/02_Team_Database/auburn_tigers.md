@@ -125,16 +125,19 @@ The Stability Score table prints the same figure independently: **9 returning st
 - **Can USF win the SEC?** The deliberately provocative framing: Golesh brought essentially his whole South Florida offense with him — coordinator Joel Gordon, who has worked under him for three years, quarterback Brown, who played for him his entire career, and six USF receivers. Good for continuity, but the guide asks whether the talent translates up a level, with trips to Tennessee, Georgia, Ole Miss and Alabama plus home games against Florida and LSU. Its own caution: last season's USF team is taking on an SEC schedule, which could be a Year 1 disaster. *(p. 289)*
 - **Speaking of Byrum Brown, can he be even better?** Brown completed 65.8% of his passes and amassed 4,238 combined passing and rushing yards with 42 total touchdowns at USF. The guide rates him among the nation's best and notes he already has an SEC scalp, having beaten Florida in The Swamp. Familiar targets Jeremiah Koger (38 receptions, 597 yards) and Keshaun Singleton (50 receptions, 877 yards) followed him, and holdover running back Jeremiah Cobb should benefit from the scheme and Brown's presence. Merely repeating last year's production would make this a group capable of catching conference opponents sleeping. *(p. 289)*
 
+
 Referenced in the guide on **pp. 6, 15, 24, 73, 162, 259, 269, 293** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 6, 24, 259** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 6, 24, 259**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **Speaking of Byrum Brown, can he be even better?** Brown completed 65.8% of his passes and amassed 4,238 combined passing and rushing yards with 42 total touchdowns at USF. The guide rates him among the nation's best and notes he already has an SEC scalp, having beaten Florida in The Swamp. Familiar targets Jeremiah Koger (38 receptions, 597 yards) and Keshaun Singleton (50 receptions, 877 yards) followed him, and holdover running back Jeremiah Cobb should benefit from the scheme and Brown's presence. Merely repeating last year's production would make this a group capable of catching conference opponents sleeping. *(p. 289)*
+
 
 Referenced in the guide on **pp. 18, 20, 45, 155, 162** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -188,8 +191,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 10**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -224,6 +228,7 @@ Where contributors disagree, every position is kept separately and none is recon
 ## 22. Historical / Situational Trends
 
 - The guide catalogues a long decline: no bowl win in over eight years, no winning season since 2019 under Gus Malzahn, a peak AP ranking of 22nd in the last four years, and a 1-7 SEC record in 2025 — the worst since 0-8 in 2012. *(p. 288)*
+
 
 Referenced in the guide on **pp. 6, 24, 45, 155** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -274,17 +279,16 @@ As printed on p. 289. Each category carries a value and a national rank.
 - The guide catalogues a long decline: no bowl win in over eight years, no winning season since 2019 under Gus Malzahn, a peak AP ranking of 22nd in the last four years, and a 1-7 SEC record in 2025 — the worst since 0-8 in 2012. *(p. 288)*
 - Recommendation is Over 6.5 wins. The guide argues Golesh inherits close to an ideal situation: one of the country's best quarterbacks, skill-position talent already familiar with the system, and a good defense with a strong foundation. *(p. 288)*
 - Conclusion is that Golesh and Brown have already shown they can pull a big upset, should handle the winnable games and at minimum return to the postseason. Brown is also called a legitimate Heisman threat. *(p. 288)*
-- The deliberately provocative framing: Golesh brought essentially his whole South Florida offense with him — coordinator Joel Gordon, who has worked under him for three years, quarterback Brown, who played for him his entire career, and six USF receivers. Good for continuity, but the guide asks whether the talent translates up a level, with trips to Tennessee, Georgia, Ole Miss and Alabama plus home games against Florida and LSU. Its own caution: last season's USF team is taking on an SEC schedule, which could be a Year 1 disaster. *(p. 289)*
-- Brown completed 65.8% of his passes and amassed 4,238 combined passing and rushing yards with 42 total touchdowns at USF. The guide rates him among the nation's best and notes he already has an SEC scalp, having beaten Florida in The Swamp. Familiar targets Jeremiah Koger (38 receptions, 597 yards) and Keshaun Singleton (50 receptions, 877 yards) followed him, and holdover running back Jeremiah Cobb should benefit from the scheme and Brown's presence. Merely repeating last year's production would make this a group capable of catching conference opponents sleeping. *(p. 289)*
-- Keeping Durkin is called a savvy move. Auburn's defense stayed consistent through a bad season, allowing 20.7 points per game and 2.9 yards per carry, and has conceded under five yards per play in both years under him. Only four starters return, but the guide stresses the quality of that returning production: leading tackler Xavier Atkins is back, as are Sylvester Smith-Reed and Rayshawn Pleasant, who combined for 44 tackles, four pass breakups and two interceptions. Some positions still need production to emerge, but continuity at play-caller could help the team beat expectations. *(p. 289)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - Makinen projects **6.1 wins** against a posted total of 6.5 — **-0.4** against this team.
-- Schedule: road games at Georgia, Ole Miss and Alabama, but a manageable home slate and no games against either Texas school. *(p. 288)*
-- The deliberately provocative framing: Golesh brought essentially his whole South Florida offense with him — coordinator Joel Gordon, who has worked under him for three years, quarterback Brown, who played for him his entire career, and six USF receivers. Good for continuity, but the guide asks whether the talent translates up a level, with trips to Tennessee, Georgia, Ole Miss and Alabama plus home games against Florida and LSU. Its own caution: last season's USF team is taking on an SEC schedule, which could be a Year 1 disaster. *(p. 289)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

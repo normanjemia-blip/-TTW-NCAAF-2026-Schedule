@@ -119,6 +119,7 @@ The Stability Score table prints the same figure independently: **11 returning s
 - **Should Wake Forest have aimed higher at QB?** Robby Ashford and Deshawn Purdie gave more than expected, with an 18-to-11 ratio and Ashford's nine rushing touchdowns and 554 yards, though there was no clear starter for a while before Ashford, previously at Auburn and South Carolina, settled in. The guide makes a specific causal link: his mobility meant Wake Forest allowed only 17 sacks after surrendering 91 across the two prior seasons and at least 35 in each of the last four. Left-handed Gio Lopez is not that type of player and the line is rebuilt. With only a 10-to-5 ratio at nearby North Carolina, it judges him a very underwhelming addition for co-coordinators Rob Ezell and Dan Enos. *(p. 113)*
 - **Can the defense orchestrate a repeat performance?** Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
 
+
 Referenced in the guide on **pp. 197, 219, 311** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -135,6 +136,7 @@ Referenced in the guide on **pp. 197, 219, 311** — those passages are not repr
 - The offense is basically brand new apart from leading receiver Carlos Hernandez, while the defense has a fair number of holdovers and coordinator Scottie Hazelton did an outstanding job. *(p. 112)*
 - **Can the defense orchestrate a repeat performance?** Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
 - **Have you seen the Regression Monster?** The guide lays out the case in detail. Wake Forest beat Virginia Tech, SMU and Virginia as an underdog. The defense was spectacular in the red zone but bent a lot beforehand: tied for 119th in red zone attempts against, yet tied for 57th in red zone touchdowns allowed and 10th in red zone touchdown percentage. The offense was similarly skewed, tied for 86th in red zone attempts and 104th in red zone touchdowns. Wake Forest also tied Texas State for the most plays of 60-plus yards with 11 and tied for second with 15 plays of 50-plus. Its conclusion is that it strongly questions the ability to sustain those situational numbers. *(p. 113)*
+
 
 Referenced in the guide on **pp. 329** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -211,6 +213,7 @@ Prices printed on the team page *(p. 113)*:
 - The guide calls Jake Dickert's 9-4 debut one of the more surprising first-year performances, noting the hire met mixed feelings when Dave Clawson amicably parted ways, and that Dickert arrived from Washington State and immediately succeeded. *(p. 112)*
 - **Have you seen the Regression Monster?** The guide lays out the case in detail. Wake Forest beat Virginia Tech, SMU and Virginia as an underdog. The defense was spectacular in the red zone but bent a lot beforehand: tied for 119th in red zone attempts against, yet tied for 57th in red zone touchdowns allowed and 10th in red zone touchdown percentage. The offense was similarly skewed, tied for 86th in red zone attempts and 104th in red zone touchdowns. Wake Forest also tied Texas State for the most plays of 60-plus yards with 11 and tied for second with 15 plays of 50-plus. Its conclusion is that it strongly questions the ability to sustain those situational numbers. *(p. 113)*
 
+
 Referenced in the guide on **pp. 99, 194** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -257,7 +260,8 @@ As printed on p. 113. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **6.2 wins** against a posted total of 5.5 — **+0.7** in this team's favour.
-- Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -266,8 +270,8 @@ As printed on p. 113. Each category carries a value and a national rank.
 - The team page recommends **UNDER 5.5**.
 - Schedule specifics: a tough road slate, Miami plus both ACC Championship Game teams in Virginia and Duke at home, and even the non-conference trip to Purdue looks tricky. *(p. 112)*
 - Its conclusion cites one of the conference's worst portal hauls and heavy lost offensive production as reasons a downturn should be expected, even with a projection of 6.01 wins. *(p. 112)*
-- Hazelton's unit was stellar, cutting over 10 points and 1.4 yards per play year over year, finishing ninth nationally in yards per play with a top-10 red zone defense. Leading tackler Nick Anderson is gone but top pass rusher Langston Hardy returns after seven sacks and 10 tackles for loss, and safety Davaughn Patterson could not declare for the draft but will be in next April's. The guide then loops back to its own earlier question, reasoning that Wake Forest evidently did not have to spend heavily to keep the defense together — so why not aim higher on offense? *(p. 113)*
-- The guide lays out the case in detail. Wake Forest beat Virginia Tech, SMU and Virginia as an underdog. The defense was spectacular in the red zone but bent a lot beforehand: tied for 119th in red zone attempts against, yet tied for 57th in red zone touchdowns allowed and 10th in red zone touchdown percentage. The offense was similarly skewed, tied for 86th in red zone attempts and 104th in red zone touchdowns. Wake Forest also tied Texas State for the most plays of 60-plus yards with 11 and tied for second with 15 plays of 50-plus. Its conclusion is that it strongly questions the ability to sustain those situational numbers. *(p. 113)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

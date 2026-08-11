@@ -120,12 +120,14 @@ The Stability Score table prints the same figure independently: **14 returning s
 - **Is Demond Williams Jr. all-in?** The guide treats NIL and the portal as simply how the sport now works, while noting this came perilously close to Williams leaving with lawyers about to be involved, and suggests he received bad advice from his representatives. If it is behind everyone, he is among the conference's more dynamic quarterbacks, having led Washington to fourth nationally in scoring at 34.1 points and fifth in total offense at 409.9 yards. He must now do it without receiver Denzel Boston and running back Jonah Coleman. Receiver Dezmen Roebuck (42 catches, 560 yards, seven touchdowns) and tight end Decker DeGraaf return, with four-star receivers Jordan Clay, Mason James and Trez Davis part of Washington's highest-rated recruiting class in school history. *(p. 183)*
 - **Who emerges at running back?** Coleman has gone to the NFL and his heir apparent Adam Mohammed transferred to Cal. Seniors Jayden Limar from Oregon and Trey Cooley from Troy arrived but both missed spring with injuries, and Jordan Washington was also hurt in spring, so redshirt freshman Quaid Carr and true freshman Brian Bonner took most of the reps. The guide's offsetting point is the blocking: four line starters return including the Hatchett brothers, center Landen and right guard Geirean, with five-star freshman Kodi Greene expected at left tackle. *(p. 183)*
 
+
 Referenced in the guide on **pp. 157** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Is Demond Williams Jr. all-in?** The guide treats NIL and the portal as simply how the sport now works, while noting this came perilously close to Williams leaving with lawyers about to be involved, and suggests he received bad advice from his representatives. If it is behind everyone, he is among the conference's more dynamic quarterbacks, having led Washington to fourth nationally in scoring at 34.1 points and fifth in total offense at 409.9 yards. He must now do it without receiver Denzel Boston and running back Jonah Coleman. Receiver Dezmen Roebuck (42 catches, 560 yards, seven touchdowns) and tight end Decker DeGraaf return, with four-star receivers Jordan Clay, Mason James and Trez Davis part of Washington's highest-rated recruiting class in school history. *(p. 183)*
 - **Who emerges at running back?** Coleman has gone to the NFL and his heir apparent Adam Mohammed transferred to Cal. Seniors Jayden Limar from Oregon and Trey Cooley from Troy arrived but both missed spring with injuries, and Jordan Washington was also hurt in spring, so redshirt freshman Quaid Carr and true freshman Brian Bonner took most of the reps. The guide's offsetting point is the blocking: four line starters return including the Hatchett brothers, center Landen and right guard Geirean, with five-star freshman Kodi Greene expected at left tackle. *(p. 183)*
+
 
 Referenced in the guide on **pp. 156** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -135,12 +137,14 @@ Referenced in the guide on **pp. 156** — those passages are not reproduced her
 - **Is Demond Williams Jr. all-in?** The guide treats NIL and the portal as simply how the sport now works, while noting this came perilously close to Williams leaving with lawyers about to be involved, and suggests he received bad advice from his representatives. If it is behind everyone, he is among the conference's more dynamic quarterbacks, having led Washington to fourth nationally in scoring at 34.1 points and fifth in total offense at 409.9 yards. He must now do it without receiver Denzel Boston and running back Jonah Coleman. Receiver Dezmen Roebuck (42 catches, 560 yards, seven touchdowns) and tight end Decker DeGraaf return, with four-star receivers Jordan Clay, Mason James and Trez Davis part of Washington's highest-rated recruiting class in school history. *(p. 183)*
 - **Who emerges at running back?** Coleman has gone to the NFL and his heir apparent Adam Mohammed transferred to Cal. Seniors Jayden Limar from Oregon and Trey Cooley from Troy arrived but both missed spring with injuries, and Jordan Washington was also hurt in spring, so redshirt freshman Quaid Carr and true freshman Brian Bonner took most of the reps. The guide's offsetting point is the blocking: four line starters return including the Hatchett brothers, center Landen and right guard Geirean, with five-star freshman Kodi Greene expected at left tackle. *(p. 183)*
 
+
 Referenced in the guide on **pp. 35, 157, 273** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 171, 182, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 171, 182, 281**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 15. Key Strengths
 
@@ -188,8 +192,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 13, 280** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 13, 280**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -220,6 +225,7 @@ Also referenced on **pp. 12** — not reproduced here.
 - Jedd Fisch improved Washington from 6-7 to 9-4 in his second season, with 65% of production returning and the look of a team ready to challenge the top of the Big Ten. *(p. 182)*
 - Three of the four losses last season came against top-25 teams. The guide's framing is that Washington has reached the upper level of the Big Ten in its third year and now needs to beat the league's elite, with Williams' return a necessary condition. *(p. 182)*
 - **Can the Huskies beat anyone good?** Washington beats the teams it should but is still looking for a signature win to convince its support of Fisch. The record cited is 2-7 in Big Ten road games under him, both wins coming last year at Maryland and UCLA. This year brings tests at USC, Oregon and Nebraska plus Indiana in the home finale. The guide puts the weight on Williams, noting he managed just 645 yards with three touchdowns and six interceptions across Washington's four defeats. *(p. 183)*
+
 
 Referenced in the guide on **pp. 13, 14, 157** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -270,18 +276,18 @@ As printed on p. 183. Each category carries a value and a national rank.
 - The team page recommends **OVER 7.5**.
 - Jedd Fisch improved Washington from 6-7 to 9-4 in his second season, with 65% of production returning and the look of a team ready to challenge the top of the Big Ten. *(p. 182)*
 - The guide then records the disruption plainly: days after signing a $4 million NIL deal to return, quarterback Demond Williams Jr entered the transfer portal and was reportedly close to signing for more money with LSU. It did not reach court, and Williams returned to Seattle. *(p. 182)*
-- Three of the four losses last season came against top-25 teams. The guide's framing is that Washington has reached the upper level of the Big Ten in its third year and now needs to beat the league's elite, with Williams' return a necessary condition. *(p. 182)*
 - Recommendation is Over 7.5 wins. Washington opens with an all-home September, so 4-0 is expected before the trip to USC, and the guide suggests that could build confidence toward finally beating a good team. *(p. 182)*
 - The counterweight it supplies is specific: against the four best defenses Washington faced — Ohio State, Michigan, Wisconsin and Oregon — the Huskies averaged 9.3 points and 4.3 yards per play. Williams simply has to be better against better teams. *(p. 182)*
-- The guide treats NIL and the portal as simply how the sport now works, while noting this came perilously close to Williams leaving with lawyers about to be involved, and suggests he received bad advice from his representatives. If it is behind everyone, he is among the conference's more dynamic quarterbacks, having led Washington to fourth nationally in scoring at 34.1 points and fifth in total offense at 409.9 yards. He must now do it without receiver Denzel Boston and running back Jonah Coleman. Receiver Dezmen Roebuck (42 catches, 560 yards, seven touchdowns) and tight end Decker DeGraaf return, with four-star receivers Jordan Clay, Mason James and Trez Davis part of Washington's highest-rated recruiting class in school history. *(p. 183)*
-- Coleman has gone to the NFL and his heir apparent Adam Mohammed transferred to Cal. Seniors Jayden Limar from Oregon and Trey Cooley from Troy arrived but both missed spring with injuries, and Jordan Washington was also hurt in spring, so redshirt freshman Quaid Carr and true freshman Brian Bonner took most of the reps. The guide's offsetting point is the blocking: four line starters return including the Hatchett brothers, center Landen and right guard Geirean, with five-star freshman Kodi Greene expected at left tackle. *(p. 183)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Three of the four losses last season came against top-25 teams. The guide's framing is that Washington has reached the upper level of the Big Ten in its third year and now needs to beat the league's elite, with Williams' return a necessary condition. *(p. 182)*
-- Coleman has gone to the NFL and his heir apparent Adam Mohammed transferred to Cal. Seniors Jayden Limar from Oregon and Trey Cooley from Troy arrived but both missed spring with injuries, and Jordan Washington was also hurt in spring, so redshirt freshman Quaid Carr and true freshman Brian Bonner took most of the reps. The guide's offsetting point is the blocking: four line starters return including the Hatchett brothers, center Landen and right guard Geirean, with five-star freshman Kodi Greene expected at left tackle. *(p. 183)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 182; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

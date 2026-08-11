@@ -120,17 +120,20 @@ The Stability Score table prints the same figure independently: **9 returning st
 - **Can O'Brien find a quarterback?** The early leader is Saginaw Valley State transfer Mason McKenzie, who had no FBS offers out of high school. Billed as a dual threat with nearly 6,000 total yards and close to 50 touchdowns, he faces what the guide calls a serious step up from Division II. Grayson Wilson at least drew multiple FBS offers and enrolled at Arkansas without playing, so he starts with a clean slate. O'Brien, serving as his own coordinator, also has freshman Femi Babalola, who had several Division I offers and may be the best long-term option. *(p. 81)*
 - **How much will the growing pains hurt?** The Eagles retain almost none of last season's skill production. Leading receiver Lewis Bond (88 catches, 993 yards) is gone along with the next two, leaving tight end Kaelan Chudzinski, son of former Browns head coach Rob Chudzinski, as the top returnee. The top two rushers, who produced 13 touchdowns and over 1,100 yards, have also left. The guide expects Liberty transfer Evan Dickens and sophomore Bo MacCormack to help in the passing game given unproven receivers, noting Dickens ran for 1,339 yards at Liberty. *(p. 81)*
 
+
 Referenced in the guide on **pp. 12, 89, 119, 153, 165, 177** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Can O'Brien find a quarterback?** The early leader is Saginaw Valley State transfer Mason McKenzie, who had no FBS offers out of high school. Billed as a dual threat with nearly 6,000 total yards and close to 50 touchdowns, he faces what the guide calls a serious step up from Division II. Grayson Wilson at least drew multiple FBS offers and enrolled at Arkansas without playing, so he starts with a clean slate. O'Brien, serving as his own coordinator, also has freshman Femi Babalola, who had several Division I offers and may be the best long-term option. *(p. 81)*
 
+
 Referenced in the guide on **pp. 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **How much will the growing pains hurt?** The Eagles retain almost none of last season's skill production. Leading receiver Lewis Bond (88 catches, 993 yards) is gone along with the next two, leaving tight end Kaelan Chudzinski, son of former Browns head coach Rob Chudzinski, as the top returnee. The top two rushers, who produced 13 touchdowns and over 1,100 yards, have also left. The guide expects Liberty transfer Evan Dickens and sophomore Bo MacCormack to help in the passing game given unproven receivers, noting Dickens ran for 1,339 yards at Liberty. *(p. 81)*
+
 
 Referenced in the guide on **pp. 89, 119, 153** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -219,6 +222,7 @@ Prices printed on the team page *(p. 81)*:
 
 - O'Brien went 7-6 in year one before falling to 2-10, with too little offensive firepower to cover a defense ranked 132nd nationally in yards per play allowed. *(p. 80)*
 
+
 Referenced in the guide on **pp. 176, 177** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -264,7 +268,9 @@ As printed on p. 81. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- The early leader is Saginaw Valley State transfer Mason McKenzie, who had no FBS offers out of high school. Billed as a dual threat with nearly 6,000 total yards and close to 50 touchdowns, he faces what the guide calls a serious step up from Division II. Grayson Wilson at least drew multiple FBS offers and enrolled at Arkansas without playing, so he starts with a clean slate. O'Brien, serving as his own coordinator, also has freshman Femi Babalola, who had several Division I offers and may be the best long-term option. *(p. 81)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 80; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -273,6 +279,8 @@ As printed on p. 81. Each category carries a value and a national rank.
 - Makinen projects **3.0 wins** against a posted total of 3.5 — **-0.5** against this team.
 - The team page recommends **UNDER 3.5**.
 - Road trips to Cincinnati, SMU, Georgia Tech, Duke, Notre Dame and Miami all look like clear losses — half the schedule. In the five FBS home games Boston College faces a talent disadvantage, and two of them, Rutgers and Virginia Tech, come early with a brand new roster. *(p. 80)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

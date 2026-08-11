@@ -119,12 +119,14 @@ The Stability Score table prints the same figure independently: **14 returning s
 - **Is the offense sustainable?** The guide calls it a simple question with a complex answer. It first gives evidence Virginia was genuinely good: in its three losses it was +98, +124 and +11 in yardage, and was outgained only three times — all in wins. Then it details the losses, which are heavy at skill positions: quarterback Chandler Morris after 3,000 yards and a 16-to-9 ratio, and more importantly J'Mari Taylor, who ran for over 1,000 yards with 14 touchdowns and was fourth in receptions and receiving yards, with everyone ahead of him also gone. The rebuild brings Penn State and Missouri transfer Beau Pribula plus Pitt transfer Eli Holstein at quarterback, and 247Sports ranks Virginia's portal class eighth in the ACC, also including running back Peyton Lewis and receiver Da'Shawn Martin. *(p. 109)*
 - **Is the defense sustainable?** Under Elliott the defense allowed 24.0, 33.8 and 28.8 points before last season's 19.6. Four of the top six tacklers return, and the guide judges Virginia's defensive portal haul more proven than its offensive one. It offers a mechanism for the improvement — it came in coordinator John Rudzinski's second year, so players may simply have learned the scheme — while noting top pass rushers Daniel Rickert and Mitchell Melton and leading tackler Devin Neal are gone. Its verdict is that a repeat is possible but seems unlikely, pointing out Virginia had 31 sacks last season after 30 in the previous two combined. *(p. 109)*
 
+
 Referenced in the guide on **pp. 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 323** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 323**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -183,8 +185,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 13** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 13**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -218,6 +221,7 @@ Also referenced on **pp. 112, 113** — not reproduced here.
 - Those gains produced an 8.1-point rise in scoring and a 9.2-point improvement defensively, yielding 11-3, an ACC Championship Game place and the conference's only 7-1 league record. *(p. 108)*
 - The guide poses the burning question plainly — one-year flash or something more — noting Elliott won 11 games total across his first three seasons. *(p. 108)*
 - **"Cluster Luck" or scheme?** The guide borrows the term from Joe Peta's book Trading Bases, explaining the concept as performance with runners in scoring position driving a large share of season outcomes while being too volatile to project forward. Applied to Virginia, it cites third-down conversion rate — 11th on offense and second on defense — with nearly twice as many offensive third-down conversions as opponents and 35 more in conference games, plus 163 more plays run than opponents. It ends on the open question of whether any of that repeats. *(p. 109)*
+
 
 Referenced in the guide on **pp. 15, 20, 79, 113, 278, 290** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -266,9 +270,8 @@ As printed on p. 109. Each category carries a value and a national rank.
 
 - Makinen projects **7.8 wins** against a posted total of 7.5 — **+0.3** in this team's favour.
 - Those gains produced an 8.1-point rise in scoring and a 9.2-point improvement defensively, yielding 11-3, an ACC Championship Game place and the conference's only 7-1 league record. *(p. 108)*
-- The line remains mostly intact as a good foundation, but virtually everyone else on offense is new, which it names as the major concern. *(p. 108)*
-- The guide calls it a simple question with a complex answer. It first gives evidence Virginia was genuinely good: in its three losses it was +98, +124 and +11 in yardage, and was outgained only three times — all in wins. Then it details the losses, which are heavy at skill positions: quarterback Chandler Morris after 3,000 yards and a 16-to-9 ratio, and more importantly J'Mari Taylor, who ran for over 1,000 yards with 14 touchdowns and was fourth in receptions and receiving yards, with everyone ahead of him also gone. The rebuild brings Penn State and Missouri transfer Beau Pribula plus Pitt transfer Eli Holstein at quarterback, and 247Sports ranks Virginia's portal class eighth in the ACC, also including running back Peyton Lewis and receiver Da'Shawn Martin. *(p. 109)*
-- Under Elliott the defense allowed 24.0, 33.8 and 28.8 points before last season's 19.6. Four of the top six tacklers return, and the guide judges Virginia's defensive portal haul more proven than its offensive one. It offers a mechanism for the improvement — it came in coordinator John Rudzinski's second year, so players may simply have learned the scheme — while noting top pass rushers Daniel Rickert and Mitchell Melton and leading tackler Devin Neal are gone. Its verdict is that a repeat is possible but seems unlikely, pointing out Virginia had 31 sacks last season after 30 in the previous two combined. *(p. 109)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -276,10 +279,8 @@ As printed on p. 109. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 7.5**.
 - The guide poses the burning question plainly — one-year flash or something more — noting Elliott won 11 games total across his first three seasons. *(p. 108)*
-- The line remains mostly intact as a good foundation, but virtually everyone else on offense is new, which it names as the major concern. *(p. 108)*
-- Its conclusion is that 8-4 is the most likely outcome but feels closer to the ceiling given the harder schedule and regression signs, even with a projection of 7.79 wins. *(p. 108)*
-- The guide calls it a simple question with a complex answer. It first gives evidence Virginia was genuinely good: in its three losses it was +98, +124 and +11 in yardage, and was outgained only three times — all in wins. Then it details the losses, which are heavy at skill positions: quarterback Chandler Morris after 3,000 yards and a 16-to-9 ratio, and more importantly J'Mari Taylor, who ran for over 1,000 yards with 14 touchdowns and was fourth in receptions and receiving yards, with everyone ahead of him also gone. The rebuild brings Penn State and Missouri transfer Beau Pribula plus Pitt transfer Eli Holstein at quarterback, and 247Sports ranks Virginia's portal class eighth in the ACC, also including running back Peyton Lewis and receiver Da'Shawn Martin. *(p. 109)*
-- The guide borrows the term from Joe Peta's book Trading Bases, explaining the concept as performance with runners in scoring position driving a large share of season outcomes while being too volatile to project forward. Applied to Virginia, it cites third-down conversion rate — 11th on offense and second on defense — with nearly twice as many offensive third-down conversions as opponents and 35 more in conference games, plus 163 more plays run than opponents. It ends on the open question of whether any of that repeats. *(p. 109)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -194,8 +194,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 234** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 234**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -231,8 +232,9 @@ Prices printed on the team page *(p. 241)*:
 
 ## 22. Historical / Situational Trends
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 241** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 241**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 23. Important Statistics
 
@@ -279,9 +281,8 @@ As printed on p. 241. Each category carries a value and a national rank.
 
 - The guide builds its case on rarity: for a Group of Six team to return the conference's Offensive Player of the Year in the current game is rare, for that player to be the starting quarterback rarer still, and adding a 1,000-yard running back from the previous season gives the foundation of something special. *(p. 240)*
 - It therefore treats Lance Taylor's Broncos as expected to make a strong run at repeating as MAC champions. *(p. 240)*
-- Greer Martini is the 30-year-old coordinator replacing Chris O'Leary, whose route the guide traces — O'Leary left the Chargers for a year to call plays in Kalamazoo and has now returned to Jim Harbaugh's staff as defensive coordinator. It quantifies what he built: tied for fourth nationally with 43 sacks, +21 in sack differential, 12th in third-down defense, and only 24 red-zone trips allowed across nine conference games. Martini coached the linebackers and the guide rates his unit really good, while noting the staff had to work the portal to replace those players. The individual losses are steep — Nadame Tucker and Rodney McGraw combined for 21.5 sacks and 26 quarterback hits, with Tucker's 14.5 sacks earning him an undrafted free agent deal from O'Leary and the Chargers, and McGraw now with the Dolphins. *(p. 241)*
-- The guide starts from an unflattering number — 109th in yards per play — then explains it as a function of run-pass distribution, with over 600 rushing attempts. It places that in national context: seventh in total rush attempts, behind only three service academies, Rice (which now runs the option) and Indiana. Lowry's running is identified as the separator twice over, both for the offense and for him personally in taking the job full-time after a timeshare with Brady Jones to start the year. With Lowry, Buckley and a pretty experienced offensive line, it expects the run game to work, and leaves the real question open: whether Western Michigan can pass enough to keep opposing defenses honest. *(p. 241)*
-- The guide sets Taylor's 10-15 start over his first two seasons in Kalamazoo against a breakthrough year it attributes to the pass rush and the ability to wear defenses down. It then supplies the numbers that qualify that success: 12th in average time of possession, but tied for 98th in plays of 10-plus yards and tied for 110th in plays of 20-plus. The defensive improvement is credited squarely to O'Leary, who cut 1.4 yards per play off units that had allowed 6.4 and 6.1 in Taylor's first two seasons. Its conclusion is that there seem to be many reasons for scepticism given heavy personnel losses on defense and the loss of an NFL-calibre coordinator. *(p. 241)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -289,11 +290,8 @@ As printed on p. 241. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 7.5**.
 - The production returning: Broc Lowry threw for 1,803 yards and rushed for 963 more with 23 total touchdowns, while Jalen Buckley shook off an injury-plagued 2024 to average 5.6 yards per carry. *(p. 240)*
-- A specific durability concern is flagged — there is a great deal of depth behind Buckley but not behind Lowry, who had 203 carries, a lot for a 6-foot-1 quarterback. *(p. 240)*
-- It works through one of those games in detail: Western Michigan should beat Rice, but that game will basically have a running clock between teams averaging 49.8 and 44.5 rushing attempts per game, so the margin for error could be thin. Projection is 7.39 wins. *(p. 240)*
-- Greer Martini is the 30-year-old coordinator replacing Chris O'Leary, whose route the guide traces — O'Leary left the Chargers for a year to call plays in Kalamazoo and has now returned to Jim Harbaugh's staff as defensive coordinator. It quantifies what he built: tied for fourth nationally with 43 sacks, +21 in sack differential, 12th in third-down defense, and only 24 red-zone trips allowed across nine conference games. Martini coached the linebackers and the guide rates his unit really good, while noting the staff had to work the portal to replace those players. The individual losses are steep — Nadame Tucker and Rodney McGraw combined for 21.5 sacks and 26 quarterback hits, with Tucker's 14.5 sacks earning him an undrafted free agent deal from O'Leary and the Chargers, and McGraw now with the Dolphins. *(p. 241)*
-- The guide starts from an unflattering number — 109th in yards per play — then explains it as a function of run-pass distribution, with over 600 rushing attempts. It places that in national context: seventh in total rush attempts, behind only three service academies, Rice (which now runs the option) and Indiana. Lowry's running is identified as the separator twice over, both for the offense and for him personally in taking the job full-time after a timeshare with Brady Jones to start the year. With Lowry, Buckley and a pretty experienced offensive line, it expects the run game to work, and leaves the real question open: whether Western Michigan can pass enough to keep opposing defenses honest. *(p. 241)*
-- The guide sets Taylor's 10-15 start over his first two seasons in Kalamazoo against a breakthrough year it attributes to the pass rush and the ability to wear defenses down. It then supplies the numbers that qualify that success: 12th in average time of possession, but tied for 98th in plays of 10-plus yards and tied for 110th in plays of 20-plus. The defensive improvement is credited squarely to O'Leary, who cut 1.4 yards per play off units that had allowed 6.4 and 6.1 in Taylor's first two seasons. Its conclusion is that there seem to be many reasons for scepticism given heavy personnel losses on defense and the loss of an NFL-calibre coordinator. *(p. 241)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

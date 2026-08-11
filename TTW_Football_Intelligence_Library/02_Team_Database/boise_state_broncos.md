@@ -122,6 +122,7 @@ Not addressed in guide.
 
 - **Will the running attack ground and pound defenses?** Dylan Riley did not replace Jeanty but flashed, including 201 rushing yards on 15 carries in a 56-31 win over UNLV, finishing with 1,125 yards and 10 touchdowns, backed by Sire Gaines and his 811 yards. The guide expects that pairing to ease Madsen's job. It records Danielson's own stated disappointment that the line was not more physical and his expectation that this changes, noting Boise returns two of the league's best linemen in senior guard Roger Carreon and senior tackle Daylon Metoyer and adds Division II transfer Tyler Ethridge from Colorado State-Pueblo. Left tackle Kage Casey left as a fourth-round pick to Denver, but depth, experience and size remain. *(p. 267)*
 
+
 Referenced in the guide on **pp. 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
@@ -198,6 +199,14 @@ Prices printed on the team page *(p. 267)*:
 
 ## 21. Betting Notes / Best Bets
 
+**Host best bets naming this team** *(pp. 5–15)*:
+
+| Contributor | Pick | Page |
+| --- | --- | --- |
+| Steve Makinen | BOISE STATE TO MAKE COLLEGE FOOTBALL PLAYOFF (+450) | 6 |
+
+Where contributors disagree, every position is kept separately and none is reconciled.
+
 - Recommendation is Over 7.5 wins. Apart from the opener at Oregon, where Boise is a 24.5-point underdog, it judges every game winnable. *(p. 266)*
 - The toughest conference road tests are Fresno State and Washington State, with a home date against San Diego State, and the guide expects eight wins if Maddux Madsen stays healthy — calling 7.5 a tick low and -135 fair. *(p. 266)*
 - An important market mechanic is flagged: DraftKings prices this total on 11 games, excluding the Flex Game added to Pac-12 schedules in late November, while Circa Sports includes the 12th flex game and offers 7.5 Over -180. The guide explains the flex format — rather than locking final opponents, the league adjusts matchups to maximize bowl eligibility and playoff chances, with the last game designated a non-conference rematch from earlier in the season. *(p. 266)*
@@ -210,6 +219,7 @@ Also referenced on **pp. 13, 20, 265, 268, 276** — not reproduced here.
 - The guide calls the decline real but minor: Boise State went 12-2 and reached the playoff two years ago, so last season's 9-5 was an obvious step back. *(p. 266)*
 - It singles out the bookend losses as the worst part — 34-7 at South Florida in the opener and 38-10 to Washington in the LA Bowl. *(p. 266)*
 - Boise has won big under multiple coaches, from Dirk Koetter through Dan Hawkins, Chris Petersen and Bryan Harsin to Spencer Danielson, who has delivered three consecutive Mountain West titles. *(p. 266)*
+
 
 Referenced in the guide on **pp. 6, 20, 22, 275** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -260,17 +270,16 @@ As printed on p. 267. Each category carries a value and a national rank.
 - The team page recommends **OVER 7.5**.
 - With a senior quarterback and an experienced team, the guide says Boise deserves to be Pac-12 favorite, with another playoff appearance the bigger realistic goal. *(p. 266)*
 - Recommendation is Over 7.5 wins. Apart from the opener at Oregon, where Boise is a 24.5-point underdog, it judges every game winnable. *(p. 266)*
-- The guide notes his full name honours Greg Maddux and Derek Jeter before giving the record: 20-6 as a starter, but injuries and poor stretches last season. As a sophomore he completed 62.4% for 3,018 yards with 23 touchdowns and six interceptions; as a junior that fell to 58.3%, 2,334 yards, 18 touchdowns and nine interceptions. It gives both extremes — four interceptions in a 28-7 loss at Notre Dame, then three touchdown passes when healthier to beat UNLV 38-21 in the conference title game. It recalls he was labelled a game manager when Ashton Jeanty carried the offense, judges him capable of more, ties Boise's success closely to his play, and suggests he could be the conference's top quarterback. *(p. 267)*
-- Dylan Riley did not replace Jeanty but flashed, including 201 rushing yards on 15 carries in a 56-31 win over UNLV, finishing with 1,125 yards and 10 touchdowns, backed by Sire Gaines and his 811 yards. The guide expects that pairing to ease Madsen's job. It records Danielson's own stated disappointment that the line was not more physical and his expectation that this changes, noting Boise returns two of the league's best linemen in senior guard Roger Carreon and senior tackle Daylon Metoyer and adds Division II transfer Tyler Ethridge from Colorado State-Pueblo. Left tackle Kage Casey left as a fourth-round pick to Denver, but depth, experience and size remain. *(p. 267)*
-- The guide anchors the concern in a single collapse: Boise led the nation with 55 sacks in 2024 and managed 27 last season. Edge rusher Jayden Virgin-Morgan returns after leading the team with six. Four of the top five tacklers are gone, leaving junior linebacker Boen Phelps and senior cornerback Jaden Mickey as experienced leaders on a unit that must improve after allowing 24 points per game. Its verdict is that Boise has questions to answer on this side. *(p. 267)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - It singles out the bookend losses as the worst part — 34-7 at South Florida in the opener and 38-10 to Washington in the LA Bowl. *(p. 266)*
-- The guide notes his full name honours Greg Maddux and Derek Jeter before giving the record: 20-6 as a starter, but injuries and poor stretches last season. As a sophomore he completed 62.4% for 3,018 yards with 23 touchdowns and six interceptions; as a junior that fell to 58.3%, 2,334 yards, 18 touchdowns and nine interceptions. It gives both extremes — four interceptions in a 28-7 loss at Notre Dame, then three touchdown passes when healthier to beat UNLV 38-21 in the conference title game. It recalls he was labelled a game manager when Ashton Jeanty carried the offense, judges him capable of more, ties Boise's success closely to his play, and suggests he could be the conference's top quarterback. *(p. 267)*
-- The guide anchors the concern in a single collapse: Boise led the nation with 55 sacks in 2024 and managed 27 last season. Edge rusher Jayden Virgin-Morgan returns after leading the team with six. Four of the top five tacklers are gone, leaving junior linebacker Boen Phelps and senior cornerback Jaden Mickey as experienced leaders on a unit that must improve after allowing 24 points per game. Its verdict is that Boise has questions to answer on this side. *(p. 267)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

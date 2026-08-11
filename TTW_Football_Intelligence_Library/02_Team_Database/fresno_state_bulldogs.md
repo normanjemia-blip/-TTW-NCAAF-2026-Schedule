@@ -121,12 +121,14 @@ The Stability Score table prints the same figure independently: **13 returning s
 
 - **Will a Maryland transfer pass the test?** The guide diagnoses last season precisely: Fresno ran the ball well but was limited by what EJ Warner could not do — an accurate passer without the arm to stretch the field, finishing with 2,030 yards, 13 touchdowns and 11 interceptions. Entz brought in Maryland transfer Khristian Martin, a 6-foot-4, 230-pound dual-threat sophomore expected to beat out junior Jayden Mandal and freshman Deagan Rose. Four of the top five pass catchers return including leading receiver Josiah Freeman with 52 catches and six touchdowns. It is honest that Martin's impact is a mystery while noting he has the physical skills for major impact and a solid support system of experienced backs, receivers and linemen. *(p. 271)*
 
+
 Referenced in the guide on **pp. 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 271**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -185,8 +187,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 271** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 271**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -220,6 +223,7 @@ Prices printed on the team page *(p. 271)*:
 | Contributor | Pick | Page |
 | --- | --- | --- |
 | Matt Youmans | FRESNO STATE OVER 6.5 WINS (-120) | 5 |
+| Wes Reynolds | FRESNO STATE TO WIN PAC-12 (+650) | 13 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
 
@@ -233,6 +237,7 @@ Where contributors disagree, every position is kept separately and none is recon
 ## 22. Historical / Situational Trends
 
 - In 2025 he took a 6-7 Fresno State team to 9-4 with an Arizona Bowl win. *(p. 270)*
+
 
 Referenced in the guide on **pp. 22, 237** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -284,14 +289,14 @@ As printed on p. 271. Each category carries a value and a national rank.
 - On the first, Matt Entz is about as good as it gets — he coached North Dakota State to two FCS national titles in five years and left 60-11. *(p. 270)*
 - Its conditional is precise: the quarterback is the key, because if Khristian Martin matures quickly Fresno can win almost every game — while the team is solid enough everywhere to win seven or eight even with mediocre quarterback play. *(p. 270)*
 - Its conclusion returns to the coach: Entz won eight regular-season games in his debut, has a better team and a manageable schedule, so bet on the Bulldogs being big overachievers. *(p. 270)*
-- The guide diagnoses last season precisely: Fresno ran the ball well but was limited by what EJ Warner could not do — an accurate passer without the arm to stretch the field, finishing with 2,030 yards, 13 touchdowns and 11 interceptions. Entz brought in Maryland transfer Khristian Martin, a 6-foot-4, 230-pound dual-threat sophomore expected to beat out junior Jayden Mandal and freshman Deagan Rose. Four of the top five pass catchers return including leading receiver Josiah Freeman with 52 catches and six touchdowns. It is honest that Martin's impact is a mystery while noting he has the physical skills for major impact and a solid support system of experienced backs, receivers and linemen. *(p. 271)*
-- The guide explains Entz's method — he builds winning teams by building a physical offensive line first — then names the personnel: tackles Brayden Walton and Rolan Fullwood and guard Edward Fonua, three of the league's best, anchoring arguably the biggest and best line in the Pac-12. They clear the way for Bryson Donelson and Rayshon Luke, who combined for 1,302 rushing yards and 11 touchdowns. In a conference it notes is rich in running back talent, headlined by Boise State's Dylan Riley and San Diego State's Lucky Sutton, it judges Fresno could have the most effective ground offense. *(p. 271)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-No note in this file is phrased as an explicitly pessimistic claim. VSiN's reasoning on this side is on pp. 270, 271 — see the other sections of this file, which carry the same analysis without splitting it by direction.
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 270; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+> *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 26. Open Questions / Risks
 

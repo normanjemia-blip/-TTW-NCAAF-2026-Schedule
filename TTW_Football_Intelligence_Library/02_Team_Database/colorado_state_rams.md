@@ -129,12 +129,14 @@ The Stability Score table prints the same figure independently: **7 returning st
 - **Who will win the starting quarterback job?** UConn transfer K'saan Farrar might have the inside track through his history with Mora, though he attempted only 18 passes as a backup while Joe Fagnano threw 28 touchdowns to one interception. The guide judges he could struggle to beat Oklahoma State transfer Hauss Hejny, a higher-ranked recruit, notes both can run — which Mora prefers — and reports a media source indicating Hejny has become the favorite. It then lists the supporting cast and the pattern within it: UConn transfer Mel Brown and Auburn transfer Durell Robinson at running back, top returning receiver Tommy Maher with 32 catches, UConn transfer Jackson Harper at receiver and UConn transfer Juice Vereen at tight end — before noting Mora must build the offensive line through transfers too, a theme that holds for the whole team. *(p. 269)*
 - **Will the Rams' rotten defense show significant improvement?** The guide's easy answer is yes, mostly because it cannot get much worse: 30.8 points allowed per game ranked 112th and the rushing defense at 205 yards per game ranked 125th. It notes with some amusement that a UConn transfer is expected to lead the unit — junior linebacker Oumar Diomande, second for the Huskies in both tackles with 116 and sacks with five. The defensive line and linebacker personnel look strong on paper, with McClendon serving as co-coordinator alongside Tyson Summers, Norvell's coordinator who took over as interim coach. *(p. 269)*
 
+
 Referenced in the guide on **pp. 119, 267** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 269** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 269**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -143,6 +145,7 @@ Referenced in the guide on **pp. 269** — those passages are not reproduced her
 ## 14. Defensive Identity
 
 - **Will the Rams' rotten defense show significant improvement?** The guide's easy answer is yes, mostly because it cannot get much worse: 30.8 points allowed per game ranked 112th and the rushing defense at 205 yards per game ranked 125th. It notes with some amusement that a UConn transfer is expected to lead the unit — junior linebacker Oumar Diomande, second for the Huskies in both tackles with 116 and sacks with five. The defensive line and linebacker personnel look strong on paper, with McClendon serving as co-coordinator alongside Tyson Summers, Norvell's coordinator who took over as interim coach. *(p. 269)*
+
 
 Referenced in the guide on **pp. 119** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -270,19 +273,17 @@ As printed on p. 269. Each category carries a value and a national rank.
 
 - Makinen projects **3.9 wins** against a posted total of 3.5 — **+0.4** in this team's favour.
 - The team page recommends **OVER 3.5**.
-- It walks the schedule: winnable home openers against Wyoming and Southern Utah, an almost certain home loss to BYU on 19 September, then UTSA, Oregon State, Utah State and Washington State — making four or more wins no huge leap. *(p. 268)*
 - On price it notes Circa lists 3.5 including the 12th flex game and recommends Over -140, adding it would not be a big surprise if Mora reached 6-6, especially with impressive quarterback play. *(p. 268)*
-- The guide's easy answer is yes, mostly because it cannot get much worse: 30.8 points allowed per game ranked 112th and the rushing defense at 205 yards per game ranked 125th. It notes with some amusement that a UConn transfer is expected to lead the unit — junior linebacker Oumar Diomande, second for the Huskies in both tackles with 116 and sacks with five. The defensive line and linebacker personnel look strong on paper, with McClendon serving as co-coordinator alongside Tyson Summers, Norvell's coordinator who took over as interim coach. *(p. 269)*
-- The guide reassesses his UCLA tenure: 46-30 from 2012 to 2017 before being fired seemed unremarkable at the time, but given the Bruins' subsequent struggles he may have performed better than perceived. It calls an immediate bowl unrealistic and supplies the UConn trajectory as the model — 6-7 and 3-9 in his first two years before winning big once he had built the roster and found the right quarterback. Its closing point is a general principle applied here: as with most new coaches, Mora must find a quarterback who can make plays. *(p. 269)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - It expects change to be gradual because Mora must integrate more than 60 new players and has quarterback questions. *(p. 268)*
-- It walks the schedule: winnable home openers against Wyoming and Southern Utah, an almost certain home loss to BYU on 19 September, then UTSA, Oregon State, Utah State and Washington State — making four or more wins no huge leap. *(p. 268)*
-- UConn transfer K'saan Farrar might have the inside track through his history with Mora, though he attempted only 18 passes as a backup while Joe Fagnano threw 28 touchdowns to one interception. The guide judges he could struggle to beat Oklahoma State transfer Hauss Hejny, a higher-ranked recruit, notes both can run — which Mora prefers — and reports a media source indicating Hejny has become the favorite. It then lists the supporting cast and the pattern within it: UConn transfer Mel Brown and Auburn transfer Durell Robinson at running back, top returning receiver Tommy Maher with 32 catches, UConn transfer Jackson Harper at receiver and UConn transfer Juice Vereen at tight end — before noting Mora must build the offensive line through transfers too, a theme that holds for the whole team. *(p. 269)*
-- The guide reassesses his UCLA tenure: 46-30 from 2012 to 2017 before being fired seemed unremarkable at the time, but given the Bruins' subsequent struggles he may have performed better than perceived. It calls an immediate bowl unrealistic and supplies the UConn trajectory as the model — 6-7 and 3-9 in his first two years before winning big once he had built the roster and found the right quarterback. Its closing point is a general principle applied here: as with most new coaches, Mora must find a quarterback who can make plays. *(p. 269)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -230,6 +230,7 @@ Also referenced on **pp. 77** — not reproduced here.
 
 - The guide leads with G.J. Kinne's consistency: three years with the Bobcats producing 8-5, 8-5 and 7-6, each season ending in a bowl win. *(p. 276)*
 
+
 Referenced in the guide on **pp. 21, 77, 219** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -277,19 +278,18 @@ As printed on p. 277. Each category carries a value and a national rank.
 
 - Makinen projects **6.0 wins** against a posted total of 5.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 6.5**.
-- On the conference move, the guide's judgement is that the Sun Belt was a relatively soft league and the step up to the Pac-12 is not a massive one. Texas State is not yet on Boise State's level, but it credits the Bobcats with the talent to hang with every other team in the new league. *(p. 276)*
 - Its bottom line is an experienced quarterback who will put up big numbers plus more than enough offensive firepower to reach another bowl. *(p. 276)*
 - The opener is used as a showcase rather than a win: Texas State is a 30.5-point underdog at Texas on Sept. 5, with Jackson matched against Heisman Trophy contender Arch Manning. The guide suggests Jackson could post bigger numbers than Manning both in that game and over the season. *(p. 276)*
-- Schedule reasoning behind the Over: it is not easy, adding road games at Pac-12 favourites Boise State and San Diego State, but the Bobcats figure to be favoured in at least six of their seven home games and have winnable road dates at Colorado State and Oregon State. *(p. 276)*
-- The guide's answer is that the numbers will point to Jackson as the marquee Pac-12 quarterback. Last season he completed 71.3% for 3,224 yards and 21 touchdowns against seven interceptions, and added 744 rushing yards and 17 touchdowns — as a sophomore. It supports this with team figures as written in the prose: the Bobcats ranked 12th nationally in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth. Its conclusion is that the offense should cause nightmares for defensive coordinators, because beyond Jackson's dual-threat ability the Bobcats return two of the league's top receivers — Beau Sparks (84 receptions, 1,200 yards, 10 touchdowns) and Chris Dawn (65 receptions, 1,007 yards). The offensive line is inexperienced, but the guide argues size matters and points to 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
-- The guide answers by fit: the Pac-12 has long been known for both, making Texas State a natural addition. It concedes the Bobcats could be bad defensively while leaving room for improvement if a few key players step up — most notably senior end DonTerry Russell, a former Mississippi State transfer. Senior safety Ryan Nolan is among only four starters returning from a defense that allowed 164.8 rushing yards per game and 29 PPG. The betting instruction drawn from this is to look to bet Over the total in most Texas State games this season. *(p. 277)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The stated risk is the defense, which the guide calls definitely a concern; the offsetting case is that Jackson is a rising star and the offense will be too hot for most Pac-12 defenses to handle. *(p. 276)*
-- The guide's answer is that the numbers will point to Jackson as the marquee Pac-12 quarterback. Last season he completed 71.3% for 3,224 yards and 21 touchdowns against seven interceptions, and added 744 rushing yards and 17 touchdowns — as a sophomore. It supports this with team figures as written in the prose: the Bobcats ranked 12th nationally in scoring offense at 36.5 PPG and rolled up 472 yards per game to rank fifth. Its conclusion is that the offense should cause nightmares for defensive coordinators, because beyond Jackson's dual-threat ability the Bobcats return two of the league's top receivers — Beau Sparks (84 receptions, 1,200 yards, 10 touchdowns) and Chris Dawn (65 receptions, 1,007 yards). The offensive line is inexperienced, but the guide argues size matters and points to 6-foot-6, 375-pound right tackle William Boone, a North Carolina transfer. *(p. 277)*
+
+*2 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

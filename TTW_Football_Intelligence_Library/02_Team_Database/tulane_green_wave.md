@@ -125,6 +125,7 @@ The Stability Score table prints the same figure independently: **8 returning st
 - **Who are the impact players on offense?** The guide argues Retzlaff's availability was a gift because Tulane was poorly set at running back after Makhi Hughes transferred: Jamauri McClure averaged 6.5 yards per carry on 83 attempts while Javin Gordon managed 4.0 on 128. Leading receiver Shazz Preston is gone, leaving Anthony Brown-Stevenson, who had only two fewer catches. It is dryly candid about the quarterbacks, noting Zeon Chriss-Gremillion has played a very long time in college with a hyphenated name the most notable development, and that Kadin Semonza redshirted without playing after starting at Ball State. Its answer to its own question is simply that we do not know. *(p. 71)*
 - **Is the defense going to bail out the offense?** Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits promoting Tayler Polk from co-coordinator to full coordinator with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. But the unit struggled against the pass, allowing 262 yards per game and a 67.6% completion rate, and most of last season's 25 takeaways are gone. Its conclusion is that concerns run deep on both sides. *(p. 71)*
 
+
 Referenced in the guide on **pp. 87, 287** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -214,6 +215,7 @@ Prices printed on the team page *(p. 71)*:
 - The playoff itself went badly — Ole Miss, who had won 45-10 in the regular season, won 41-10 — though it was a good reward at the end of Jon Sumrall's short tenure. *(p. 70)*
 - **Will Hall experience the regression Sumrall did not?** The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
 
+
 Referenced in the guide on **pp. 7, 11, 29, 36, 54, 68, 95, 128** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -261,24 +263,17 @@ As printed on p. 71. Each category carries a value and a national rank.
 
 - Makinen projects **8.0 wins** against a posted total of 7.5 — **+0.5** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- The guide raises a counterfactual: what would have happened had Jake Retzlaff not violated BYU's Honor Code. Tulane was going to be good, but it suggests Retzlaff may have made them great enough to be the Group of Five playoff representative. *(p. 70)*
-- The playoff itself went badly — Ole Miss, who had won 45-10 in the regular season, won 41-10 — though it was a good reward at the end of Jon Sumrall's short tenure. *(p. 70)*
 - It notes Sumrall inherited a strong foundation and brought talent from Troy, a luxury Will Hall may not have. *(p. 70)*
-- It expects a transitional year despite a soft schedule and a still fairly strong talent pipeline. *(p. 70)*
-- It revises its own view of the coach openly: Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure — which included a conference change — had earned him. Projection is 7.56 wins. *(p. 70)*
-- The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
-- Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits promoting Tayler Polk from co-coordinator to full coordinator with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. But the unit struggled against the pass, allowing 262 yards per game and a 67.6% completion rate, and most of last season's 25 takeaways are gone. Its conclusion is that concerns run deep on both sides. *(p. 71)*
+
+*5 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- The playoff itself went badly — Ole Miss, who had won 45-10 in the regular season, won 41-10 — though it was a good reward at the end of Jon Sumrall's short tenure. *(p. 70)*
 - Schedule detail: Tulane likely splits non-conference games against Duke, South Alabama, Kansas State and Southern Miss, has a bye before facing Army's triple option, avoids Navy and East Carolina, and hosts Memphis and UTSA in consecutive weeks. *(p. 70)*
-- It revises its own view of the coach openly: Hall has had two stints at Tulane and success at West Alabama and West Georgia, so he may deserve more benefit of the doubt than his messy Southern Miss tenure — which included a conference change — had earned him. Projection is 7.56 wins. *(p. 70)*
-- The guide looks past the 11-3 record: Tulane outscored opponents only 27.7 to 23.9 and outgained them by half a yard per play, with that edge largely from a +24 sack differential. It won four games in which it was outgained and five by one score. The guide offers three candidate explanations rather than picking one — Sumrall's late-game coaching in close contests, luck, or Retzlaff, who led the team in rushing with 16 rushing scores — before concluding it feels like it could come crashing down on Hall, whom it calls an awful head coach at Southern Miss without nearly the offensive upside of last year's squad. *(p. 71)*
-- The guide argues Retzlaff's availability was a gift because Tulane was poorly set at running back after Makhi Hughes transferred: Jamauri McClure averaged 6.5 yards per carry on 83 attempts while Javin Gordon managed 4.0 on 128. Leading receiver Shazz Preston is gone, leaving Anthony Brown-Stevenson, who had only two fewer catches. It is dryly candid about the quarterbacks, noting Zeon Chriss-Gremillion has played a very long time in college with a hyphenated name the most notable development, and that Kadin Semonza redshirted without playing after starting at Ball State. Its answer to its own question is simply that we do not know. *(p. 71)*
-- Tulane's portal class ranks seventh among 14 American teams, which the guide calls unimpressive for a programme with three 11-win seasons and a 9-5 campaign in four years. It credits promoting Tayler Polk from co-coordinator to full coordinator with possibly retaining leading tacklers Jack Tchienchou and Chris Rodgers. But the unit struggled against the pass, allowing 262 yards per game and a 67.6% completion rate, and most of last season's 25 takeaways are gone. Its conclusion is that concerns run deep on both sides. *(p. 71)*
+
+*5 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

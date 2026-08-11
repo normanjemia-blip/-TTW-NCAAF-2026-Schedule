@@ -118,11 +118,13 @@ The Stability Score table prints the same figure independently: **13 returning s
 - **Can the offense continue to punish opponents on the ground?** Vanderbilt ran well in 2025 — 176 yards per game at 5.6 per carry — though much of that came from Pavia, who led the team with 862 rushing yards. Sedrick Alexander and Makhilyn Young return: Alexander averaged 5.5 per carry with 3.43 after contact, and Young was explosive with 414 yards on 47 carries and 4.21 after contact. The guide's doubt is the line, where four starters are gone and only one FBS transfer was added, and it expects a stark drop-off on the ground once Pavia's absence is factored in. *(p. 315)*
 - **Will the defense do enough to make up for the potentially declining offense?** The guide calls the 2025 defense underrated: 3.7 yards per carry and 22.8 points allowed, 23rd in opponent EPA per rush and 49th in success rate on the ground. The secondary was the weakness, ranking 129th in EPA per dropback and 111th in success rate. Seven starters return, mostly in the front seven, so attention falls on the back end. Lea added portal bodies including former four-star Ricardo Jones from Clemson, but expects considerable internal promotion. Improvement there is framed as a necessity given the offense's expected growing pains. *(p. 315)*
 
+
 Referenced in the guide on **pp. 105, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **What does the post-Diego Pavia era look like?** Replacing a starter is hard; replacing one who went 17-9, led Vanderbilt to its first 10-win season and finished second in Heisman voting is harder. Lea says there will be a competition, but five-star freshman Jared Curtis appears the likely starter against Austin Peay. Curtis was the second-best prospect in his class per 247 and early projections make him a possible first-round pick. Not a true dual threat, his running back background lets him extend plays and work as a designed runner. The guide's caution is direct: he is a true freshman in the SEC, and equally talented quarterbacks have struggled in less demanding circumstances. *(p. 315)*
+
 
 Referenced in the guide on **pp. 105** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -130,6 +132,7 @@ Referenced in the guide on **pp. 105** — those passages are not reproduced her
 
 - The test now is doing it without a superstar quarterback, with a true freshman starting, an offensive line to rebuild, and a schedule offering both opportunity and misfortune. The guide states plainly that decline, even for one season, is on the horizon. *(p. 314)*
 - **Can the offense continue to punish opponents on the ground?** Vanderbilt ran well in 2025 — 176 yards per game at 5.6 per carry — though much of that came from Pavia, who led the team with 862 rushing yards. Sedrick Alexander and Makhilyn Young return: Alexander averaged 5.5 per carry with 3.43 after contact, and Young was explosive with 414 yards on 47 carries and 4.21 after contact. The guide's doubt is the line, where four starters are gone and only one FBS transfer was added, and it expects a stark drop-off on the ground once Pavia's absence is factored in. *(p. 315)*
+
 
 Referenced in the guide on **pp. 332** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -220,6 +223,7 @@ Prices printed on the team page *(p. 315)*:
 
 - Clark Lea is credited with achieving what he returned to his alma mater to do: 17 wins in two seasons and a first bowl win since 2013. *(p. 314)*
 
+
 Referenced in the guide on **pp. 279** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -267,10 +271,8 @@ As printed on p. 315. Each category carries a value and a national rank.
 
 - Makinen projects **6.4 wins** against a posted total of 5.5 — **+0.9** in this team's favour.
 - Clark Lea is credited with achieving what he returned to his alma mater to do: 17 wins in two seasons and a first bowl win since 2013. *(p. 314)*
-- Schedule opens with winnable games against Austin Peay and Delaware before stepping up sharply when N.C. State visits on 19 September. Conference road trips go to Auburn, Georgia and Florida, with Ole Miss, Alabama and Tennessee at home. The guide concludes that laying a price to reach six wins is not prudent. *(p. 314)*
-- Replacing a starter is hard; replacing one who went 17-9, led Vanderbilt to its first 10-win season and finished second in Heisman voting is harder. Lea says there will be a competition, but five-star freshman Jared Curtis appears the likely starter against Austin Peay. Curtis was the second-best prospect in his class per 247 and early projections make him a possible first-round pick. Not a true dual threat, his running back background lets him extend plays and work as a designed runner. The guide's caution is direct: he is a true freshman in the SEC, and equally talented quarterbacks have struggled in less demanding circumstances. *(p. 315)*
-- Vanderbilt ran well in 2025 — 176 yards per game at 5.6 per carry — though much of that came from Pavia, who led the team with 862 rushing yards. Sedrick Alexander and Makhilyn Young return: Alexander averaged 5.5 per carry with 3.43 after contact, and Young was explosive with 414 yards on 47 carries and 4.21 after contact. The guide's doubt is the line, where four starters are gone and only one FBS transfer was added, and it expects a stark drop-off on the ground once Pavia's absence is factored in. *(p. 315)*
-- The guide calls the 2025 defense underrated: 3.7 yards per carry and 22.8 points allowed, 23rd in opponent EPA per rush and 49th in success rate on the ground. The secondary was the weakness, ranking 129th in EPA per dropback and 111th in success rate. Seven starters return, mostly in the front seven, so attention falls on the back end. Lea added portal bodies including former four-star Ricardo Jones from Clemson, but expects considerable internal promotion. Improvement there is framed as a necessity given the offense's expected growing pains. *(p. 315)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -278,9 +280,8 @@ As printed on p. 315. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 5.5**.
 - It puts the doubt as a question — beyond the front seven, which Vanderbilt unit can be trusted? *(p. 314)*
-- Schedule opens with winnable games against Austin Peay and Delaware before stepping up sharply when N.C. State visits on 19 September. Conference road trips go to Auburn, Georgia and Florida, with Ole Miss, Alabama and Tennessee at home. The guide concludes that laying a price to reach six wins is not prudent. *(p. 314)*
-- Replacing a starter is hard; replacing one who went 17-9, led Vanderbilt to its first 10-win season and finished second in Heisman voting is harder. Lea says there will be a competition, but five-star freshman Jared Curtis appears the likely starter against Austin Peay. Curtis was the second-best prospect in his class per 247 and early projections make him a possible first-round pick. Not a true dual threat, his running back background lets him extend plays and work as a designed runner. The guide's caution is direct: he is a true freshman in the SEC, and equally talented quarterbacks have struggled in less demanding circumstances. *(p. 315)*
-- The guide calls the 2025 defense underrated: 3.7 yards per carry and 22.8 points allowed, 23rd in opponent EPA per rush and 49th in success rate on the ground. The secondary was the weakness, ranking 129th in EPA per dropback and 111th in success rate. Seven starters return, mostly in the front seven, so attention falls on the back end. Lea added portal bodies including former four-star Ricardo Jones from Clemson, but expects considerable internal promotion. Improvement there is framed as a necessity given the offense's expected growing pains. *(p. 315)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -120,6 +120,7 @@ The Stability Score table prints the same figure independently: **11 returning s
 - **Can the transfers help Browne?** The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
 - **Can the Boilermakers be more physical up front?** Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
 
+
 Referenced in the guide on **pp. 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -210,6 +211,7 @@ Prices printed on the team page *(p. 175)*:
 - Barry Odom's first year was another hard one: Purdue improved only from 1-11 to 2-10, sits on an 18-game Big Ten losing streak and has no Power Four wins across that two-year span. *(p. 174)*
 - The guide adds the psychological dimension — being bottom of the conference while the archrival is the defending national champion. *(p. 174)*
 
+
 Referenced in the guide on **pp. 19, 73** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -257,9 +259,8 @@ As printed on p. 175. Each category carries a value and a national rank.
 
 - The team page recommends **OVER 3.5**.
 - Barry Odom's first year was another hard one: Purdue improved only from 1-11 to 2-10, sits on an 18-game Big Ten losing streak and has no Power Four wins across that two-year span. *(p. 174)*
-- The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
-- Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
-- Kevin Kane was Purdue's coordinator under Ryan Walters in 2023 and 2024, when the Boilermakers finished last in the league in most defensive categories, and he was replaced before spending last season coaching Minnesota's linebackers. The guide gives the case for a second chance in balanced terms: he now has more autonomy calling the defense and prefers to attack more than Walters did, and in any case Purdue did not improve without him, ranking 17th in the Big Ten in total defense. *(p. 175)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -267,8 +268,8 @@ As printed on p. 175. Each category carries a value and a national rank.
 
 - Makinen projects **2.9 wins** against a posted total of 3.5 — **-0.6** against this team.
 - No portal quarterback was added, so this is Ryan Browne's job again. He threw for 2,153 yards with nine touchdowns to ten interceptions while playing through an ankle injury, which the guide says hurt his play along with the graduation of running back Devin Mockobee. *(p. 174)*
-- The guide holds Browne to improvement while noting fairly that he had little help. Second-leading rusher Antonio Harris (69 carries, 305 yards, two touchdowns) returns, but most production should come from portal additions: running backs Fame Ijeboi from Minnesota, Jerrick Gibson from Texas and Travis Terrell from Jackson State. Three portal receivers — Bisi Owens from Penn, Assad Wassem from Florida Atlantic and Xavier Townsend from Iowa State — are all expected to start, with De'Nylon Morrissette back from an ankle injury. *(p. 175)*
-- Purdue struggled particularly in short yardage, 85th on third downs, and in the red zone, 119th. Odom fired offensive line coach Vance Vice, who had come with him from UNLV, and hired Zach Crabtree, previously with coordinator Josh Henson at USC. The guide rates the change an upgrade and notes added size. Left tackle Joey Tanona returns with as many as four new portal starters possible, including center Boaz Stanley with 21 starts at South Carolina, left guard Micah Banuelos with five at USC, and right tackle Nuki Mafi with 12 at Oklahoma State. *(p. 175)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -118,12 +118,14 @@ The Stability Score table prints the same figure independently: **11 returning s
 - Going from 10-3 in 2024, after Fran Brown assembled a spectacular portal class, to 3-9 was one of the nation's biggest declines — which the guide attributes partly to a -13 turnover margin and -17 sack margin. *(p. 106)*
 - **Will the real Steve Angeli please stand up?** Angeli threw only 80 passes at Notre Dame, albeit with a 10-to-1 ratio and 72.5% completions, then produced over 1,300 yards in four starts as a genuine spark for Syracuse before the injury. The guide keeps the uncertainty open in both directions: he was a three-star freshman in 2022 and a three-star transfer in 2025 per 247Sports, so he may simply have been thriving in his first real chance to start. If it does not hold, Amari Odom started at Kennesaw State and Malachi Nelson is on his fourth team after being a top recruit. It adds that Angeli faces an entirely new receiver group, the top returnee having caught eight passes. *(p. 107)*
 
+
 Referenced in the guide on **pp. 195** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 23, 107, 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 23, 107, 223**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -224,6 +226,7 @@ Also referenced on **pp. 95** — not reproduced here.
 - Going from 10-3 in 2024, after Fran Brown assembled a spectacular portal class, to 3-9 was one of the nation's biggest declines — which the guide attributes partly to a -13 turnover margin and -17 sack margin. *(p. 106)*
 - It also notes Syracuse was already a regression candidate, having gone 10-3 with only a +4.9 points-per-game differential including two overtime wins, making a 2026 outcome somewhere in between very likely. *(p. 106)*
 
+
 Referenced in the guide on **pp. 23, 195** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -270,8 +273,8 @@ As printed on p. 107. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - The team page recommends **OVER 4.5**.
-- Assuming the offense works, the guide turns to a defense badly hurt by Angeli's absence and turnovers: 34.9 points and 6.5 yards per play allowed. Its comparison is pointed — even in the 1-10 COVID season of 2020, Syracuse allowed only 32.7 points. Over the final eight games the Orange gave up 30 or more seven times and conceded 70 to Notre Dame. It rates the Vince Kehres hire as possibly one of the best of the coaching cycle: the former Mount Union head coach went 95-6 in Division III with two national championships before six seasons as Toledo's coordinator, where the Rockets allowed between 13.3 and 25.1 points per game and exceeded 5.0 yards per play only once. *(p. 107)*
-- The guide stacks three changes: Angeli back, Kehres hired, and Brown also taking special teams coordinator Alex Bayer from Bowling Green. It then presents genuinely conflicting evidence rather than resolving it — Phil Steele's special teams rankings had Syracuse 131st and 100th in the Brown era, while Bill Connelly's SP+ had them 35th, which it calls a massive discrepancy. The concrete figures are 83rd in kick return average and 106th in punt return average. Its conclusion is that better field position with a healthy offense and improved defense could make Syracuse better in all three phases. *(p. 107)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -280,7 +283,8 @@ As printed on p. 107. Each category carries a value and a national rank.
 - The guide argues no injury was more impactful than Syracuse losing Steve Angeli. The Orange were 3-1 and had beaten Clemson as a 17-point underdog when the Notre Dame transfer went down for the season. *(p. 106)*
 - The split is stark: Angeli posted a 10-to-2 touchdown-to-interception ratio thriving in Jeff Nixon's system, while his replacements went 7 to 13, and Syracuse lost eight straight by 35, 13, 17, 25, 17, 28, 63 and 22 points. *(p. 106)*
 - It also notes Syracuse was already a regression candidate, having gone 10-3 with only a +4.9 points-per-game differential including two overtime wins, making a 2026 outcome somewhere in between very likely. *(p. 106)*
-- Angeli threw only 80 passes at Notre Dame, albeit with a 10-to-1 ratio and 72.5% completions, then produced over 1,300 yards in four starts as a genuine spark for Syracuse before the injury. The guide keeps the uncertainty open in both directions: he was a three-star freshman in 2022 and a three-star transfer in 2025 per 247Sports, so he may simply have been thriving in his first real chance to start. If it does not hold, Amari Odom started at Kennesaw State and Malachi Nelson is on his fourth team after being a top recruit. It adds that Angeli faces an entirely new receiver group, the top returnee having caught eight passes. *(p. 107)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

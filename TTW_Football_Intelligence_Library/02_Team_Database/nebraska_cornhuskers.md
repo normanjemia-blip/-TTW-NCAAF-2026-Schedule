@@ -125,22 +125,26 @@ The Stability Score table prints the same figure independently: **15 returning s
 - **What happens to the running game without Emmett Johnson?** Johnson was a first-team All-American with 1,451 rushing yards and 15 total touchdowns. Nebraska chose not to replace him from the portal, turning to sophomores Mekhi Nelson and Isaiah Mozee. The guide reports that Nelson was arrested in late June on an aggravated battery charge and that the charges were dropped, while his fall camp availability remains undetermined, so true freshman Jamal Rule may be needed early. Up front Nebraska added guards Paul Mubenga from LSU and Brendan Black from Iowa State plus tackle Tree Babalade from South Carolina, giving a bigger and more agile group that must improve on 33 sacks allowed. *(p. 165)*
 - **Can the transition from 3-3-5 to Rob Aurich's 4-2-5 scheme go smoothly?** Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
 
+
 Referenced in the guide on **pp. 20** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 165** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 165**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
 - **What happens to the running game without Emmett Johnson?** Johnson was a first-team All-American with 1,451 rushing yards and 15 total touchdowns. Nebraska chose not to replace him from the portal, turning to sophomores Mekhi Nelson and Isaiah Mozee. The guide reports that Nelson was arrested in late June on an aggravated battery charge and that the charges were dropped, while his fall camp availability remains undetermined, so true freshman Jamal Rule may be needed early. Up front Nebraska added guards Paul Mubenga from LSU and Brendan Black from Iowa State plus tackle Tree Babalade from South Carolina, giving a bigger and more agile group that must improve on 33 sacks allowed. *(p. 165)*
+
 
 Referenced in the guide on **pp. 259** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Can the transition from 3-3-5 to Rob Aurich's 4-2-5 scheme go smoothly?** Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
+
 
 Referenced in the guide on **pp. 216** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -187,8 +191,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 220** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 220**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -219,6 +224,7 @@ Also referenced on **pp. 161, 162** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - Matt Rhule arrived in 2023 known for quick rebuilds at Temple and Baylor; three years on he is 19-19 and the guide says the natives are getting restless. *(p. 164)*
+
 
 Referenced in the guide on **pp. 20, 25, 161, 259** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -265,9 +271,9 @@ As printed on p. 165. Each category carries a value and a national rank.
 
 ## 24. Bull Case
 
-- Dylan Raiola, a legacy recruit whose father Dominic and uncle Donovan played at Nebraska, was expected to be the answer at quarterback. He went 13-9 as a starter over two seasons but broke his leg against USC after a promising 6-2 start, then transferred to Oregon; uncle Donovan was fired as offensive line coach. *(p. 164)*
-- Johnson was a first-team All-American with 1,451 rushing yards and 15 total touchdowns. Nebraska chose not to replace him from the portal, turning to sophomores Mekhi Nelson and Isaiah Mozee. The guide reports that Nelson was arrested in late June on an aggravated battery charge and that the charges were dropped, while his fall camp availability remains undetermined, so true freshman Jamal Rule may be needed early. Up front Nebraska added guards Paul Mubenga from LSU and Brendan Black from Iowa State plus tackle Tree Babalade from South Carolina, giving a bigger and more agile group that must improve on 33 sacks allowed. *(p. 165)*
-- Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
+No statement in this file is phrased as an unambiguously optimistic claim about this team. VSiN's reasoning is on pp. 164; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -276,7 +282,8 @@ As printed on p. 165. Each category carries a value and a national rank.
 - Makinen projects **6.3 wins** against a posted total of 6.5 — **-0.2** against this team.
 - The team page recommends **UNDER 6.5**.
 - Conclusion: with a new defensive scheme and a difficult schedule, Nebraska looks middling again and Rhule's seat will only get hotter. *(p. 164)*
-- Aurich led a top-10 San Diego State defense and was hired to fix a unit that conceded 131 points across its final three games. The guide identifies the imbalance to correct: third nationally against the pass but 98th against the run, with only 22 sacks in 13 games. Portal additions up front are Owen Stoudmire from Boston College, Jahsear Whittington from Pitt and Anthony Jones Jr from UCLA; at linebacker Owen Chambliss follows Aurich from San Diego State and Dexter Foster arrives from Oregon State alongside Vincent Shavers Jr (61 tackles, 7.5 tackles for loss). The secondary is called the team's best unit with three starters back — Andrew Marshall, Rex Guthrie and Donovan Jones. *(p. 165)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

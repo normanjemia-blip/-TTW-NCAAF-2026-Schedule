@@ -122,6 +122,7 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **How much better can the Wildcats be against the run?** The guide pushes back on offseason hype around the defense. It agrees people are understandably high on a secondary combining talent and experience, then makes the structural point: Kansas State allowed 164.0 rushing yards per game, and strong defensive backs mean relatively little if you cannot stop the run. Additions include Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns and Kentucky transfer Austin Ramsey plus productive linebackers, but it cautions that bringing in an entirely new crop is difficult. Its calibrated expectation is a top-40 rushing defense, with anything more probably unfair. *(p. 135)*
 - **Who's catching the passes for this team?** Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat, and his big-play ability drew Lane Kiffin, so he is now at LSU — leaving a major hole. Jaron Tibbs and Josh Manning have been productive before, but the guide's question is whether either can consistently create space when Klein is not scheming them open. It offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout and the missing piece. *(p. 135)*
 
+
 Referenced in the guide on **pp. 8** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -181,6 +182,7 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 ## 18. Difficult Stretches / Trap Spots
 
 - Its specific doubts: home games are the tougher ones but that guarantees nothing, and Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan. It also flags unresolved questions stopping the run, is not sold on Klein instantly fixing the offense, says Johnson must earn back lost trust, and calls the receiver group mediocre. *(p. 134)*
+
 
 Referenced in the guide on **pp. 280** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -266,9 +268,8 @@ As printed on p. 135. Each category carries a value and a national rank.
 - Chris Klieman stepped down after a 6-6 season, citing family and personal health. The guide credits him with at least nine wins in three consecutive years before that and with succeeding the legendary Bill Snyder well. *(p. 134)*
 - Kansas State does have talent on both sides and returns electric dual-threat quarterback Avery Johnson, and the guide notes many have the team pegged as a sleeper. *(p. 134)*
 - Recommendation is Under 7.5 wins. It acknowledges why people like the Wildcats as sneaky-good while judging seven wins likelier than eight. *(p. 134)*
-- The guide pushes back on offseason hype around the defense. It agrees people are understandably high on a secondary combining talent and experience, then makes the structural point: Kansas State allowed 164.0 rushing yards per game, and strong defensive backs mean relatively little if you cannot stop the run. Additions include Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns and Kentucky transfer Austin Ramsey plus productive linebackers, but it cautions that bringing in an entirely new crop is difficult. Its calibrated expectation is a top-40 rushing defense, with anything more probably unfair. *(p. 135)*
-- Johnson threw for 2,712 yards with 25 touchdowns and 10 interceptions plus 605 rushing yards and seven scores in 2024, generating real excitement, but did not improve in 2025: 2,385 yards, 18 touchdowns, six interceptions, 477 rushing yards and eight scores. The guide asks directly whether this is simply who he is, then argues there should be another gear — he is among the nation's most impressive athletes at the position and Klein's return should mean a perfect scheme fit. It ties the win total to him: eight or nine wins requires him sharper as a passer while keeping his running threat. *(p. 135)*
-- Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat, and his big-play ability drew Lane Kiffin, so he is now at LSU — leaving a major hole. Jaron Tibbs and Josh Manning have been productive before, but the guide's question is whether either can consistently create space when Klein is not scheming them open. It offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout and the missing piece. *(p. 135)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -276,9 +277,8 @@ As printed on p. 135. Each category carries a value and a national rank.
 
 - The team page recommends **UNDER 7.5**.
 - The guide balances that against inexperience: this is his first time running an entire programme, so a seamless transition is not guaranteed. *(p. 134)*
-- Its specific doubts: home games are the tougher ones but that guarantees nothing, and Kansas State can easily be tripped up by Houston, Kansas and Arizona in Manhattan. It also flags unresolved questions stopping the run, is not sold on Klein instantly fixing the offense, says Johnson must earn back lost trust, and calls the receiver group mediocre. *(p. 134)*
-- The guide pushes back on offseason hype around the defense. It agrees people are understandably high on a secondary combining talent and experience, then makes the structural point: Kansas State allowed 164.0 rushing yards per game, and strong defensive backs mean relatively little if you cannot stop the run. Additions include Oklahoma State transfer Wendell Gregory, Cincinnati transfer Kamari Burns and Kentucky transfer Austin Ramsey plus productive linebackers, but it cautions that bringing in an entirely new crop is difficult. Its calibrated expectation is a top-40 rushing defense, with anything more probably unfair. *(p. 135)*
-- Jayce Brown caught 41 balls for 712 yards and five touchdowns as a genuine deep threat, and his big-play ability drew Lane Kiffin, so he is now at LSU — leaving a major hole. Jaron Tibbs and Josh Manning have been productive before, but the guide's question is whether either can consistently create space when Klein is not scheming them open. It offers Izaiah Williams, who followed Klein from Texas A&M, as a possible breakout and the missing piece. *(p. 135)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

@@ -117,6 +117,7 @@ The Stability Score table prints the same figure independently: **13 returning s
 - **Who replaces Koi Perich in the secondary?** Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
 - **Who can plug the holes?** Minnesota is solid on the edge with Smith, Bush and Karter Menz (6.5 sacks) and should reach quarterbacks. It returns 65% of overall defensive production but loses its top four defensive tackles including seventh-round pick Deven Eastern. The portal response was Naquan Crowder and Sid Kaba from Marshall and Xion Chapman from FIU. The guide leaves the interior unproven and notes pointedly that the Big Ten contains several of the country's top-10 offensive lines. *(p. 163)*
 
+
 Referenced in the guide on **pp. 15, 175, 185** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
@@ -136,6 +137,7 @@ Referenced in the guide on **pp. 15, 175, 185** — those passages are not repro
 - Its reservations are specific: Lindsey has the potential to be special but lacks a true No. 1 receiver, with Auburn transfer Perry Thompson the open question, and there are doubts on the interior of both lines. *(p. 162)*
 - **Who replaces Koi Perich in the secondary?** Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
 - **Who can plug the holes?** Minnesota is solid on the edge with Smith, Bush and Karter Menz (6.5 sacks) and should reach quarterbacks. It returns 65% of overall defensive production but loses its top four defensive tackles including seventh-round pick Deven Eastern. The portal response was Naquan Crowder and Sid Kaba from Marshall and Xion Chapman from FIU. The guide leaves the interior unproven and notes pointedly that the Big Ten contains several of the country's top-10 offensive lines. *(p. 163)*
+
 
 Referenced in the guide on **pp. 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -216,6 +218,7 @@ Prices printed on the team page *(p. 163)*:
 - P.J. Fleck enters a tenth season with bowls in seven of nine years, a 7-0 bowl record, and eight or more wins in four of the last five. The guide's framing question is whether a steady programme can occasionally challenge the conference elite. *(p. 162)*
 - A situational pattern is offered as the path to clearing the number: Minnesota has beaten a ranked opponent as a home underdog in each of the last two years — No. 25 Nebraska in 2025 and No. 11 USC in 2024 — and the guide says it likely needs the same against Michigan or Iowa this time. *(p. 162)*
 
+
 Referenced in the guide on **pp. 175** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 23. Important Statistics
@@ -262,23 +265,17 @@ As printed on p. 163. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Makinen projects **6.3 wins** against a posted total of 5.5 — **+0.8** in this team's favour.
-- P.J. Fleck enters a tenth season with bowls in seven of nine years, a 7-0 bowl record, and eight or more wins in four of the last five. The guide's framing question is whether a steady programme can occasionally challenge the conference elite. *(p. 162)*
 - Minnesota returns 68% of its 2025 production per ESPN's Bill Connelly, led by redshirt sophomore Drake Lindsey (63.5%, 2,432 yards, 19 touchdowns to six interceptions) who started all 13 games as a freshman. *(p. 162)*
-- Running back Darius Taylor missed nearly half of last season but has almost 2,500 yards in 28 career games. Three of the top four pass catchers return along with six defensive starters. *(p. 162)*
-- Taylor turned down portal interest to stay and should be clear of the hamstring problems that plagued him. The guide's counterweight is stark: Minnesota ranked 116th nationally on the ground at 3.57 yards per carry, and 127th in total offense. Taylor still managed 915 scrimmage yards despite missing five games. It puts the burden squarely on the offensive line, which returns three starters and adds Tennessee transfer right tackle Bennett Warren, concluding that Lindsey's progress depends on it. *(p. 163)*
-- Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
-- Minnesota is solid on the edge with Smith, Bush and Karter Menz (6.5 sacks) and should reach quarterbacks. It returns 65% of overall defensive production but loses its top four defensive tackles including seventh-round pick Deven Eastern. The portal response was Naquan Crowder and Sid Kaba from Marshall and Xion Chapman from FIU. The guide leaves the interior unproven and notes pointedly that the Big Ten contains several of the country's top-10 offensive lines. *(p. 163)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 6.5**.
-- P.J. Fleck enters a tenth season with bowls in seven of nine years, a 7-0 bowl record, and eight or more wins in four of the last five. The guide's framing question is whether a steady programme can occasionally challenge the conference elite. *(p. 162)*
-- Running back Darius Taylor missed nearly half of last season but has almost 2,500 yards in 28 career games. Three of the top four pass catchers return along with six defensive starters. *(p. 162)*
-- Its reservations are specific: Lindsey has the potential to be special but lacks a true No. 1 receiver, with Auburn transfer Perry Thompson the open question, and there are doubts on the interior of both lines. *(p. 162)*
-- Taylor turned down portal interest to stay and should be clear of the hamstring problems that plagued him. The guide's counterweight is stark: Minnesota ranked 116th nationally on the ground at 3.57 yards per carry, and 127th in total offense. Taylor still managed 915 scrimmage yards despite missing five games. It puts the burden squarely on the offensive line, which returns three starters and adds Tennessee transfer right tackle Bennett Warren, concluding that Lindsey's progress depends on it. *(p. 163)*
-- Losing Perich to Oregon is described as stinging more than a typical portal exit — a local product from Esko, Minnesota, and arguably the defense's most talented player, first-team All-Big Ten as a freshman in 2024 with five interceptions while also contributing on offense and special teams. Kerry Brown (four pass breakups, two interceptions) returns with linebacker Maverick Baranowski (103 tackles) and defensive end Anthony Smith, whose 12.5 sacks led the Big Ten, plus TJ Bush from Cal with 91 pressures and 13 sacks across three seasons at Liberty and Cal. The guide's measured conclusion: talent remains, but Perich's loss may lower the unit's ceiling. *(p. 163)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

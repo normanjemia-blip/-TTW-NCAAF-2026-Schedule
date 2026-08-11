@@ -127,11 +127,13 @@ The Stability Score table prints the same figure independently: **10 returning s
 - **Who are the impact players on offense?** The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
 - **Will the defense suffer as a result of the offense?** The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
 
+
 Referenced in the guide on **pp. 29, 36, 287** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - It rates this a great spot: plenty of NIL money and a solid programme with no losing season since 2013, four double-digit winning seasons since 2017, after a 2014 winning record ended six years of futility. *(p. 58)*
+
 
 Referenced in the guide on **pp. 10** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -140,11 +142,13 @@ Referenced in the guide on **pp. 10** — those passages are not reproduced here
 - **What will this offense look like?** Huff returned to the Sun Belt for coordinator Kevin Decker, whose Old Dominion offense ranked top-20 in yards per play at 32 points per game, and whose 2021 Fordham offense averaged over 600 yards per game. The guide characterizes his philosophy precisely: high-octane and explosive, but starting with the ground game with the pass coming off it — Old Dominion averaged 5.6 yards per carry and nearly 240 rushing yards. It calls the fit of all the transfer pieces fascinating to watch, noting Marcus Stokes was a multi-year West Florida starter and Air Noland a highly touted recruit who never played at Ohio State before transferring to South Carolina. *(p. 59)*
 - **Who are the impact players on offense?** The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
 
+
 Referenced in the guide on **pp. 177, 287** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **Will the defense suffer as a result of the offense?** The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
+
 
 Referenced in the guide on **pp. 159** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -187,8 +191,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 66** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 66**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -226,6 +231,7 @@ Prices printed on the team page *(p. 59)*:
 
 - Memphis went from Group of Five playoff contender to afterthought quickly, losing at home to Tulane then dropping three straight including the Gasparilla Bowl after Ryan Silverfield left for Arkansas and many players departed. *(p. 58)*
 - It rates this a great spot: plenty of NIL money and a solid programme with no losing season since 2013, four double-digit winning seasons since 2017, after a 2014 winning record ended six years of futility. *(p. 58)*
+
 
 Referenced in the guide on **pp. 6, 10, 25, 36** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -276,8 +282,8 @@ As printed on p. 59. Each category carries a value and a national rank.
 - Memphis went from Group of Five playoff contender to afterthought quickly, losing at home to Tulane then dropping three straight including the Gasparilla Bowl after Ryan Silverfield left for Arkansas and many players departed. *(p. 58)*
 - It rates this a great spot: plenty of NIL money and a solid programme with no losing season since 2013, four double-digit winning seasons since 2017, after a 2014 winning record ended six years of futility. *(p. 58)*
 - Recommendation is Over 7.5 wins, stated as a bet on the coach — two good coordinator hires, and a sense Huff has motivated players discarded or cast off elsewhere. *(p. 58)*
-- The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
-- The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -285,9 +291,8 @@ As printed on p. 59. Each category carries a value and a national rank.
 
 - Makinen projects **7.3 wins** against a posted total of 7.5 — **-0.2** against this team.
 - This is essentially a brand-new roster for Charles Huff, who spent one year at Southern Miss after Marshall — as the guide puts it, inexplicably — let him leave as reigning Sun Belt champion. *(p. 58)*
-- The non-conference schedule is tough with UNLV and Boise State, but the conference slate is not bad. Memphis plays at Tulane, South Florida and Navy, and the guide notes Huff has six games before the New Orleans trip to get the team in shape. *(p. 58)*
-- The guide's answer is that there are no truly established skill players, whoever wins the job among Stokes, Noland or Huff recruit Denzel Gardner. Dallan Hayden averaged over five yards per carry at Ohio State but was ineffective at Colorado; Jaylin Carter had 166 yards at Southern Miss; Manny Covey had under 300 yards in three seasons at Cincinnati. Receivers are similar, with some impressive yards-per-reception figures but few catches. It reframes this as a coherent roster philosophy rather than a random collection: noteworthy recruits who could not crack lineups elsewhere, all carrying chips on their shoulders, which could make for a fun offense if Decker plays with tempo. *(p. 59)*
-- The guide rates Lance Guidry a really good coordinator hire, someone Huff worked with at Marshall who has coordinated in many places. As on offense, virtually nobody from last season remains and the unit was rebuilt through the portal, with several Southern Miss players following — J'Mond Tapp and his 7.5 sacks, plus Ian Foster and Anthony Richard, who each had 10 pass breakups. Its calibrated judgement is that with fewer noteworthy recruits on this side the defense's upside may be lower than the offense's, though the Southern Miss group should help. *(p. 59)*
+
+*1 further statement about this team carries both positive and negative language and is not classified to either side. It appears in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

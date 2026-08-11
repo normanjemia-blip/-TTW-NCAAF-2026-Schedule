@@ -118,12 +118,14 @@ The Stability Score table prints the same figure independently: **13 returning s
 - **How does the coaching staff replace all the production at the skill positions?** As usually follows a firing, production drained out of Fayetteville. Arkansas lost its leading rusher and top three receivers. Braylen Russell (55 carries, 291 yards) is the top returning back and CJ Brown (28 receptions, 319 yards) the top returning receiver. Sutton Smith followed Silverfield from Memphis, Jasper Parker arrived from Michigan, and Memphis receiver Jamari Hawkins (38 receptions, 623 yards) transferred in. The pecking order is unknown and the guide expects heavy reliance on new faces. *(p. 287)*
 - **How much can this defense improve?** 2025 was ugly: 33.8 points allowed per game, 6.3 yards per play, 4.7 yards per carry, 134th in adjusted opponent EPA per play and 120th in defensive success rate. Defensive end Quincy Rhodes (44 tackles, 8 sacks) returned, joined by a wave of transfers including an almost rebuilt linebacker group and Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). The guide's measured conclusion is that this will not be among the nation's best units but has the pieces to climb back toward average under new coordinator Rob Roberts. *(p. 287)*
 
+
 Referenced in the guide on **pp. 10, 321** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 6, 223** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 6, 223**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 13. Offensive Identity
 
@@ -187,8 +189,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 6, 286** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 6, 286**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -225,6 +228,7 @@ Where contributors disagree, every position is kept separately and none is recon
 
 - Arkansas started 2-0 and then lost its last ten games. Sam Pittman was dismissed in September and the programme finished bottom of the SEC. *(p. 286)*
 - Historical context given: Arkansas has won nine games only once since its last double-digit season in 2011. Simply reaching a bowl would count as a successful first year. *(p. 286)*
+
 
 Referenced in the guide on **pp. 6, 10, 36** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -272,9 +276,8 @@ As printed on p. 287. Each category carries a value and a national rank.
 ## 24. Bull Case
 
 - Historical context given: Arkansas has won nine games only once since its last double-digit season in 2011. Simply reaching a bowl would count as a successful first year. *(p. 286)*
-- Schedule detail: road trips to Utah, Texas A&M and Texas; home games against Georgia and LSU. Winnable spots are home games with Tulsa, Missouri and South Carolina, plus road games at Vanderbilt and Auburn — but the guide rates all of those coin flips an Over bettor would have to keep winning. *(p. 286)*
-- Jackson is nominally in a battle with Memphis transfer AJ Hill, but the guide assumes the sophomore starts against North Alabama in Week 1. He appeared in five games in 2025 and played extensively in the last two, going 27-of-46 (58.7%) for 332 yards and two touchdowns with 41 rushing yards and a rushing score. The left-hander showed pocket-passing touch in limited work; whether his upside arrives is left open. *(p. 287)*
-- 2025 was ugly: 33.8 points allowed per game, 6.3 yards per play, 4.7 yards per carry, 134th in adjusted opponent EPA per play and 120th in defensive success rate. Defensive end Quincy Rhodes (44 tackles, 8 sacks) returned, joined by a wave of transfers including an almost rebuilt linebacker group and Tulane corner Joker Johnson (42 tackles, 9 pass breakups, 4 interceptions). The guide's measured conclusion is that this will not be among the nation's best units but has the pieces to climb back toward average under new coordinator Rob Roberts. *(p. 287)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
@@ -283,7 +286,8 @@ As printed on p. 287. Each category carries a value and a national rank.
 - Makinen projects **3.8 wins** against a posted total of 4.5 — **-0.7** against this team.
 - The team page recommends **UNDER 4.5**.
 - Arkansas started 2-0 and then lost its last ten games. Sam Pittman was dismissed in September and the programme finished bottom of the SEC. *(p. 286)*
-- As usually follows a firing, production drained out of Fayetteville. Arkansas lost its leading rusher and top three receivers. Braylen Russell (55 carries, 291 yards) is the top returning back and CJ Brown (28 receptions, 319 yards) the top returning receiver. Sutton Smith followed Silverfield from Memphis, Jasper Parker arrived from Michigan, and Memphis receiver Jamari Hawkins (38 receptions, 623 yards) transferred in. The pecking order is unknown and the guide expects heavy reliance on new faces. *(p. 287)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

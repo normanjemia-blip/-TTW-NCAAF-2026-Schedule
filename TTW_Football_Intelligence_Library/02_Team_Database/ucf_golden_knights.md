@@ -120,11 +120,13 @@ The Stability Score table prints the same figure independently: **12 returning s
 - **Is this offense primed for a significant leap?** Conditional on the line, the guide expects something closer to the 2017 UCF offense. The quarterback position goes from a mess to a strength with Alonza Barnett III, who threw for 2,806 yards with 23 touchdowns and eight interceptions for a good James Madison team and ran for 589 yards and 15 scores — a high-level dual threat it also describes as a leader and proven winner. Skill-position talent is plentiful, with Duane Thomas and Dylan Wade the more dangerous receiving weapons and Josh Derry intriguing after lighting up the FCS at Monmouth. *(p. 143)*
 - **How does DC Alex Grinch follow up a solid Year 1 showing in Orlando?** UCF cut from 26.9 points allowed per game in 2024 to 23.6. The guide notes Grinch's career as a coordinator has been up and down while crediting a very good job last year, with the pass defense especially impressive at 185.0 yards allowed per game. Four starters return in that secondary so it should be a strength again, with defensive tackle RJ Jackson and linebacker Lewis Carter also back and instant-impact signings from both the Group of Five and Power Four. Its expectation is a solid unit even if some numbers look slightly worse. *(p. 143)*
 
+
 Referenced in the guide on **pp. 105, 169, 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - He did win five games in 2025, improving on the 4-8 season under Gus Malzahn, with recruiting and portal work moving in the right direction. *(p. 142)*
+
 
 Referenced in the guide on **pp. 105** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -133,11 +135,13 @@ Referenced in the guide on **pp. 105** — those passages are not reproduced her
 - **How much better can the offensive line be?** UCF lost four of five starters but the guide reframes that as opportunity, since this was one of the Big 12's worst lines. Preston Cushman is the lone returnee and was at Ole Miss two years ago, which it treats as a useful SEC-caliber presence. Two more full-time starters arrived plus another who played a good number of games, and Connor Meadows returns after starting several games at center late last season. Its calibrated conclusion: not one of the better Big 12 lines, but the staff expects improvement. *(p. 143)*
 - **Is this offense primed for a significant leap?** Conditional on the line, the guide expects something closer to the 2017 UCF offense. The quarterback position goes from a mess to a strength with Alonza Barnett III, who threw for 2,806 yards with 23 touchdowns and eight interceptions for a good James Madison team and ran for 589 yards and 15 scores — a high-level dual threat it also describes as a leader and proven winner. Skill-position talent is plentiful, with Duane Thomas and Dylan Wade the more dangerous receiving weapons and Josh Derry intriguing after lighting up the FCS at Monmouth. *(p. 143)*
 
+
 Referenced in the guide on **pp. 81, 161** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **How does DC Alex Grinch follow up a solid Year 1 showing in Orlando?** UCF cut from 26.9 points allowed per game in 2024 to 23.6. The guide notes Grinch's career as a coordinator has been up and down while crediting a very good job last year, with the pass defense especially impressive at 185.0 yards allowed per game. Four starters return in that secondary so it should be a strength again, with defensive tackle RJ Jackson and linebacker Lewis Carter also back and instant-impact signings from both the Group of Five and Power Four. Its expectation is a solid unit even if some numbers look slightly worse. *(p. 143)*
+
 
 Referenced in the guide on **pp. 132, 167, 169** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -176,8 +180,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 18** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 18**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -205,6 +210,7 @@ Prices printed on the team page *(p. 143)*:
 ## 22. Historical / Situational Trends
 
 - Scott Frost's first UCF spell took an 0-12 team to 13-0 in two years, and the guide is clear nobody expects a repeat. *(p. 142)*
+
 
 Referenced in the guide on **pp. 261** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -255,15 +261,12 @@ As printed on p. 143. Each category carries a value and a national rank.
 - The team page recommends **OVER 5.5**.
 - There is a solid buzz in Orlando, and Frost's aim is a bowl game. UCF has 13 returning starters against 10 last season, with key spots upgraded. *(p. 142)*
 - It maps the route: expected wins over Bethune-Cookman, Georgia State and Iowa State, then seven winnable games — at Pitt, TCU at home, at Oklahoma State, Baylor at home, at Kansas, Arizona State at home and at Colorado — from which UCF needs only three, which it calls extremely reasonable given the roster. *(p. 142)*
-- UCF lost four of five starters but the guide reframes that as opportunity, since this was one of the Big 12's worst lines. Preston Cushman is the lone returnee and was at Ole Miss two years ago, which it treats as a useful SEC-caliber presence. Two more full-time starters arrived plus another who played a good number of games, and Connor Meadows returns after starting several games at center late last season. Its calibrated conclusion: not one of the better Big 12 lines, but the staff expects improvement. *(p. 143)*
-- Conditional on the line, the guide expects something closer to the 2017 UCF offense. The quarterback position goes from a mess to a strength with Alonza Barnett III, who threw for 2,806 yards with 23 touchdowns and eight interceptions for a good James Madison team and ran for 589 yards and 15 scores — a high-level dual threat it also describes as a leader and proven winner. Skill-position talent is plentiful, with Duane Thomas and Dylan Wade the more dangerous receiving weapons and Josh Derry intriguing after lighting up the FCS at Monmouth. *(p. 143)*
-- UCF cut from 26.9 points allowed per game in 2024 to 23.6. The guide notes Grinch's career as a coordinator has been up and down while crediting a very good job last year, with the pass defense especially impressive at 185.0 yards allowed per game. Four starters return in that secondary so it should be a strength again, with defensive tackle RJ Jackson and linebacker Lewis Carter also back and instant-impact signings from both the Group of Five and Power Four. Its expectation is a solid unit even if some numbers look slightly worse. *(p. 143)*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- UCF lost four of five starters but the guide reframes that as opportunity, since this was one of the Big 12's worst lines. Preston Cushman is the lone returnee and was at Ole Miss two years ago, which it treats as a useful SEC-caliber presence. Two more full-time starters arrived plus another who played a good number of games, and Connor Meadows returns after starting several games at center late last season. Its calibrated conclusion: not one of the better Big 12 lines, but the staff expects improvement. *(p. 143)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 142; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

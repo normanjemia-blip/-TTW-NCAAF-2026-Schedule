@@ -125,11 +125,13 @@ The Stability Score table prints the same figure independently: **5 returning st
 - It concedes new schemes and coordinators may have limited the value of holdovers anyway, describing the roster as players who barely featured plus transfers from every corner of the country. *(p. 62)*
 - **Who are these f*#%ing guys?** The guide frames the roster turnover through the Major League scene of a fan reading an unrecognizable roster, then identifies the exceptions honestly. Tayven Jackson originally went to Tennessee and started games for Indiana and UCF, making him the clubhouse leader at quarterback. Jahiem White averaged 6.5 yards per carry at West Virginia and rejoins Brown. Aaron Alexander had 91 tackles at Arkansas State. Beyond those few, it says most of these players simply did not latch on at their previous schools. *(p. 63)*
 
+
 Referenced in the guide on **pp. 26** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **What is the state of the North Texas program?** The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
+
 
 Referenced in the guide on **pp. 26** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -138,11 +140,13 @@ Referenced in the guide on **pp. 26** — those passages are not reproduced here
 - It calls this possibly the most stripped-down programme it has seen, and proves it with returning production: the top returning rusher had 95 yards on 21 carries, the top pass catcher seven grabs for 80 yards, the top tackler 32 stops and 1.5 sacks, the top defensive back four pass breakups — and even the kicker and punter are gone. *(p. 62)*
 - **Is this a better fit for Neal Brown?** Brown will call his own plays, which the guide says may work well or not at all. It notes his coordinator work at Troy, Texas Tech and Kentucky earned him his first head job, while qualifying the record: Troy did not play with much tempo or light up scoreboards, though it scored 30-plus in each of his last three seasons, and West Virginia averaged 30-plus in only two of six. It adds a real tension — expectations are low given the bare cupboard, but the athletic department had been willing to go high-octane and up-tempo with Morris — before allowing Brown might reinvent himself or return to his Texas Tech approach. *(p. 63)*
 
+
 Referenced in the guide on **pp. 20, 55, 75, 136, 345** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - It calls this possibly the most stripped-down programme it has seen, and proves it with returning production: the top returning rusher had 95 yards on 21 carries, the top pass catcher seven grabs for 80 yards, the top tackler 32 stops and 1.5 sacks, the top defensive back four pass breakups — and even the kicker and punter are gone. *(p. 62)*
+
 
 Referenced in the guide on **pp. 137, 281** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -228,6 +232,7 @@ Prices printed on the team page *(p. 63)*:
 
 | Contributor | Pick | Page |
 | --- | --- | --- |
+| Paul Stone | NORTH TEXAS UNDER 5.5 WINS (+100) | 7 |
 | Pauly Howard | NORTH TEXAS UNDER 6.5 WINS (-200) | 7 |
 
 Where contributors disagree, every position is kept separately and none is reconciled.
@@ -240,6 +245,7 @@ Where contributors disagree, every position is kept separately and none is recon
 
 - The guide suggests the season's motto might be to smile that it happened rather than cry that it is over. Eric Morris left for Oklahoma State after probably the best season in programme history: 12-2, over 45 points per game, and a first bowl win since 2013. *(p. 62)*
 - **What is the state of the North Texas program?** The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
+
 
 Referenced in the guide on **pp. 7, 26, 29, 68, 136, 137, 217, 261, 345** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -288,15 +294,16 @@ As printed on p. 63. Each category carries a value and a national rank.
 
 - Makinen projects **5.9 wins** against a posted total of 5.5 — **+0.4** in this team's favour.
 - The guide suggests the season's motto might be to smile that it happened rather than cry that it is over. Eric Morris left for Oklahoma State after probably the best season in programme history: 12-2, over 45 points per game, and a first bowl win since 2013. *(p. 62)*
-- Brown will call his own plays, which the guide says may work well or not at all. It notes his coordinator work at Troy, Texas Tech and Kentucky earned him his first head job, while qualifying the record: Troy did not play with much tempo or light up scoreboards, though it scored 30-plus in each of his last three seasons, and West Virginia averaged 30-plus in only two of six. It adds a real tension — expectations are low given the bare cupboard, but the athletic department had been willing to go high-octane and up-tempo with Morris — before allowing Brown might reinvent himself or return to his Texas Tech approach. *(p. 63)*
-- The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
 - The team page recommends **UNDER 5.5**.
-- The guide widens to institutional conditions, noting things from above trickle down and that even last season there was not much investment. It argues North Texas got very fortunate: Drew Mestemaker had barely played quarterback in high school, and running back Caleb Hawkins had one Division I offer — North Texas — before producing 25 touchdowns and over 1,400 yards. Skyler Cassity was a stellar coordinator hire by Morris, but it questions who would have predicted the best defense the programme has seen in a long time. It ends on two open questions: whether students support a team stripped to the studs, and whether the athletic department invests more in the roster. *(p. 63)*
+
+*3 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 

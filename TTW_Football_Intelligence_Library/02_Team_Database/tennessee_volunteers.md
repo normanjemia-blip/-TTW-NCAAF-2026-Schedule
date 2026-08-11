@@ -118,11 +118,13 @@ The Stability Score table prints the same figure independently: **14 returning s
 
 - **What becomes of the defense?** The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
 
+
 Referenced in the guide on **pp. 10, 153, 163, 179, 221** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 12. Recruiting / Roster Notes
 
 - **Do the Volunteers finally have a long-term answer at quarterback?** Heupel has started a different quarterback in Week 1 of every season at Knoxville, and 2026 is no exception — but the hope is Faizon Brandon is the first of several years. A five-star and the third-ranked member of the 2026 class, Brandon threw one interception per 98 attempts in high school. The guide records that Heupel insists Brandon is in a genuine battle with redshirt freshman George McIntyre, while noting the expectation is Brandon takes over full-time after the Furman opener, in which both are likely to play. It anticipates freshman growing pains and frames the move as about the programme's future. *(p. 309)*
+
 
 Referenced in the guide on **pp. 10, 19** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -131,11 +133,13 @@ Referenced in the guide on **pp. 10, 19** — those passages are not reproduced 
 - Tennessee is expected to field one of the better offenses in the SEC and the country again. Quarterback is unsettled, but the guide stresses the system is user-friendly. *(p. 308)*
 - **Can the offense continue its scoring run?** Tennessee has averaged at least 31.8 points per game every season under Heupel, and annual quarterback churn has not disrupted a system with a high floor. A true freshman starter threatens the streak, but the guide judges the surrounding pieces good enough to protect it: an offensive line that lost one starter and is a Joe Moore Award contender, three of the top four receivers back outside leading receiver Chris Brazzell, and leading rusher DeSean Bishop returning. With Heupel rated an elite play-caller, it expects another 30-point season. *(p. 309)*
 
+
 Referenced in the guide on **pp. 10, 19, 153, 163, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
 ## 14. Defensive Identity
 
 - **What becomes of the defense?** The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
+
 
 Referenced in the guide on **pp. 221** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -188,8 +192,9 @@ Projected lines and opponent power ratings are Makinen's, printed alongside the 
 
 ## 18. Difficult Stretches / Trap Spots
 
+Not addressed in guide under this heading.
 
-Referenced in the guide on **pp. 8** — those passages are not reproduced here; see the pages for VSiN's own wording.
+The guide names this team on **pp. 8**, but no passage there was extracted under this heading; see those pages for VSiN's own wording.
 
 ## 19. Win Total Discussion
 
@@ -219,6 +224,7 @@ Also referenced on **pp. 10, 298** — not reproduced here.
 ## 22. Historical / Situational Trends
 
 - The guide's frame is steadiness rather than peaks: the 2024 playoff exit to Ohio State was a high point, the Heupel era has had no true lows, and 2026 shapes as another perfectly adequate season. *(p. 308)*
+
 
 Referenced in the guide on **pp. 91, 220, 327** — those passages are not reproduced here; see the pages for VSiN's own wording.
 
@@ -267,17 +273,16 @@ As printed on p. 309. Each category carries a value and a national rank.
 
 - Makinen projects **7.7 wins** against a posted total of 7.5 — **+0.2** in this team's favour.
 - The team page recommends **OVER 7.5**.
-- On upside the guide is deliberately measured: an SEC title-game push is called unlikely, but if the true freshman quarterback hits it rates Tennessee a sneaky team with more upside than most expect. *(p. 308)*
-- Tennessee has averaged at least 31.8 points per game every season under Heupel, and annual quarterback churn has not disrupted a system with a high floor. A true freshman starter threatens the streak, but the guide judges the surrounding pieces good enough to protect it: an offensive line that lost one starter and is a Joe Moore Award contender, three of the top four receivers back outside leading receiver Chris Brazzell, and leading rusher DeSean Bishop returning. With Heupel rated an elite play-caller, it expects another 30-point season. *(p. 309)*
-- The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
 ## 25. Bear Case
 
-- Recommendation is Over 7.5 wins, resting on Heupel's consistency — at least eight wins in four straight years, and 7-5 in the regular season in the one year he missed that mark — plus immense offensive talent giving a firm floor despite the quarterback question. *(p. 308)*
-- Tennessee has averaged at least 31.8 points per game every season under Heupel, and annual quarterback churn has not disrupted a system with a high floor. A true freshman starter threatens the streak, but the guide judges the surrounding pieces good enough to protect it: an offensive line that lost one starter and is a Joe Moore Award contender, three of the top four receivers back outside leading receiver Chris Brazzell, and leading rusher DeSean Bishop returning. With Heupel rated an elite play-caller, it expects another 30-point season. *(p. 309)*
-- The defense took heavy offseason losses. The line must be rebuilt entirely after all four starters and three rotation players left, and the secondary lost two starters, one an NFL draft pick. Linebacker is a strength on paper with leading tacklers Edwin Spillman and Arion Carter back plus Amare Campbell, Penn State's leading tackler in 2025. Jim Knowles was hired to run the unit, giving it an elite play-caller, but the guide is clear that big questions remain up front and in the back. *(p. 309)*
+No statement in this file is phrased as an unambiguously pessimistic claim about this team. VSiN's reasoning is on pp. 308; see the season outlook and *Open Questions / Risks*, which carry the same analysis without splitting it by direction.
+
+*4 further statements about this team carry both positive and negative language and are not classified to either side. They appear in full under the season outlook and *Open Questions / Risks*.*
 
 > *Assembled from statements the guide makes about this team. The statements are GUIDE CONTENT with page references; the selection of which ones argue this side is PERSONAL INFERENCE.*
 
