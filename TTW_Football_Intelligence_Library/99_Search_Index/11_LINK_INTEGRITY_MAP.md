@@ -6,7 +6,7 @@
 
 > **Source class: TTW DERIVED — navigation only.** This page contains **no football information**. Every fact it points at was extracted, authored, validated and approved in an earlier phase, and lives in the file linked. The search layer may point; it may not assert. It creates no score, grade, probability, ranking or betting recommendation, and it resolves no source conflict.
 
-Every relative markdown link in the library, resolved against the filesystem. **8,813 links checked.**
+Every relative markdown link in the library, resolved against the filesystem. **9,918 links checked.**
 
 ## Result: ✅ all resolve
 

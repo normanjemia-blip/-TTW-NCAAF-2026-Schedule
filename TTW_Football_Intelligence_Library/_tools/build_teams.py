@@ -718,21 +718,41 @@ class TeamFileBuilder:
             f"[Power Rating Index](../00_Master_Index/09_Power_Rating_Index.md) · "
             f"[Coaching Index](../00_Master_Index/04_Coaching_Index.md) · "
             f"[Quarterback Index](../00_Master_Index/06_Quarterback_Index.md)\n\n"
-            f"**Not yet built** — these databases are later phases and the links "
-            f"are placeholders:\n\n"
-            # The Coaching Database is keyed by TEAM, not by coach. This
-            # pointer was written in Phase 3, before Phase 5 chose its
-            # naming, and named a coach file that never existed in any
-            # convention. It sat in backticks rather than a link, so no
-            # link checker saw it -- 138 files pointing nowhere.
-            f"- Head coach file — "
+            # This block once read "Not yet built -- these databases are
+            # later phases and the links are placeholders". All of them are
+            # now built, so the placeholders are live links. The Coaching
+            # Database is keyed by TEAM, not by coach: the original pointer
+            # was written before Phase 5 chose its naming and named a file
+            # that existed under no convention, and it sat in backticks
+            # rather than a link, so no checker had ever seen it.
+            f"**Every other database, for this team:**\n\n"
+            f"- Head coach — "
             f"[03_Coaching_Database/{slug(team['team'])}.md]"
             f"(../03_Coaching_Database/{slug(team['team'])}.md)\n"
-            f"- Quarterback file — `04_Quarterback_Database/` (Phase 4)\n"
-            f"- Power ratings — `05_Power_Ratings/` (Phase 6)\n"
-            f"- Win totals — `06_Win_Totals/` (Phase 7)\n"
-            f"- Futures — `07_Futures/` (Phase 8)\n"
-            f"- Historical trends — `12_Historical_Trends/` (Phase 10)\n"
+            f"- Quarterback — "
+            f"[04_Quarterback_Database/{slug(team['team'])}.md]"
+            f"(../04_Quarterback_Database/{slug(team['team'])}.md)\n"
+            f"- Power rating — "
+            f"[05_Power_Ratings/00_MAKINEN_RATINGS.md]"
+            f"(../05_Power_Ratings/00_MAKINEN_RATINGS.md)\n"
+            f"- Win total — "
+            f"[06_Win_Totals/00_ALL_TEAMS.md]"
+            f"(../06_Win_Totals/00_ALL_TEAMS.md)\n"
+            f"- Futures board — "
+            f"[07_Futures/00_TEAM_FUTURES.md]"
+            f"(../07_Futures/00_TEAM_FUTURES.md)\n"
+            f"- Returning production — "
+            f"[08_Returning_Production/README.md]"
+            f"(../08_Returning_Production/README.md)\n"
+            f"- Schedule — "
+            f"[10_Schedule_Intelligence/00_BY_TEAM.md]"
+            f"(../10_Schedule_Intelligence/00_BY_TEAM.md)\n"
+            f"- Historical angles — "
+            f"[12_Historical_Trends/00_BY_TEAM.md]"
+            f"(../12_Historical_Trends/00_BY_TEAM.md)\n"
+            f"- Everything at once — "
+            f"[99_Search_Index/02_TEAM_LOOKUP.md]"
+            f"(../99_Search_Index/02_TEAM_LOOKUP.md)\n"
         )
 
 

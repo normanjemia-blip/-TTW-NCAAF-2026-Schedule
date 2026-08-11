@@ -84,7 +84,7 @@ Every question in the project brief maps to a starting file:
 | *Where does the guide contradict itself?* | [conflict roll-up](../99_Search_Index/09_SOURCE_CONFLICT_ROLLUP.md) — by kind, none adjudicated |
 | *What is missing, and why* | [gap register](../99_Search_Index/10_GAP_REGISTER.md) — 1,713 absences, by cause |
 
-Questions marked with a later phase are **not yet answerable**. The index tells you where the answer will live and what still has to be built — it does not pretend to answer them now.
+**Every question above is now answerable.** All eleven phases are built, and each row links to the database that holds the answer. Where the answer is *the guide does not address this*, the file says so rather than leaving the question open — see the [gap register](../99_Search_Index/10_GAP_REGISTER.md).
 
 
 ### Win totals — `06_Win_Totals`

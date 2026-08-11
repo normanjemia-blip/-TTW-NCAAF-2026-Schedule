@@ -672,9 +672,11 @@ def build_master(files, teams, conferences, coordinators, qbs, abbreviations):
         "| *Start anywhere and find everything* | [`99_Search_Index`](../99_Search_Index/README.md) — 12 lookups, 287 entities |\n"
         "| *Where does the guide contradict itself?* | [conflict roll-up](../99_Search_Index/09_SOURCE_CONFLICT_ROLLUP.md) — by kind, none adjudicated |\n"
         "| *What is missing, and why* | [gap register](../99_Search_Index/10_GAP_REGISTER.md) — 1,713 absences, by cause |\n"
-        "\nQuestions marked with a later phase are **not yet answerable**. The index "
-        "tells you where the answer will live and what still has to be built — it "
-        "does not pretend to answer them now.\n"
+        "\n**Every question above is now answerable.** All eleven phases are "
+        "built, and each row links to the database that holds the answer. "
+        "Where the answer is *the guide does not address this*, the file "
+        "says so rather than leaving the question open — see the "
+        "[gap register](../99_Search_Index/10_GAP_REGISTER.md).\n"
     )
 
     lines.append(

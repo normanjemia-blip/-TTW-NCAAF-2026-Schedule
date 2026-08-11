@@ -326,12 +326,15 @@ Every page naming this team outside its own spread: pp. 10, 52, 74, 76, 77, 136,
 
 **Master Index** — [Team Index](../00_Master_Index/03_Team_Index.md) · [Power Rating Index](../00_Master_Index/09_Power_Rating_Index.md) · [Coaching Index](../00_Master_Index/04_Coaching_Index.md) · [Quarterback Index](../00_Master_Index/06_Quarterback_Index.md)
 
-**Not yet built** — these databases are later phases and the links are placeholders:
+**Every other database, for this team:**
 
-- Head coach file — [03_Coaching_Database/tulsa_golden_hurricane.md](../03_Coaching_Database/tulsa_golden_hurricane.md)
-- Quarterback file — `04_Quarterback_Database/` (Phase 4)
-- Power ratings — `05_Power_Ratings/` (Phase 6)
-- Win totals — `06_Win_Totals/` (Phase 7)
-- Futures — `07_Futures/` (Phase 8)
-- Historical trends — `12_Historical_Trends/` (Phase 10)
+- Head coach — [03_Coaching_Database/tulsa_golden_hurricane.md](../03_Coaching_Database/tulsa_golden_hurricane.md)
+- Quarterback — [04_Quarterback_Database/tulsa_golden_hurricane.md](../04_Quarterback_Database/tulsa_golden_hurricane.md)
+- Power rating — [05_Power_Ratings/00_MAKINEN_RATINGS.md](../05_Power_Ratings/00_MAKINEN_RATINGS.md)
+- Win total — [06_Win_Totals/00_ALL_TEAMS.md](../06_Win_Totals/00_ALL_TEAMS.md)
+- Futures board — [07_Futures/00_TEAM_FUTURES.md](../07_Futures/00_TEAM_FUTURES.md)
+- Returning production — [08_Returning_Production/README.md](../08_Returning_Production/README.md)
+- Schedule — [10_Schedule_Intelligence/00_BY_TEAM.md](../10_Schedule_Intelligence/00_BY_TEAM.md)
+- Historical angles — [12_Historical_Trends/00_BY_TEAM.md](../12_Historical_Trends/00_BY_TEAM.md)
+- Everything at once — [99_Search_Index/02_TEAM_LOOKUP.md](../99_Search_Index/02_TEAM_LOOKUP.md)
 
