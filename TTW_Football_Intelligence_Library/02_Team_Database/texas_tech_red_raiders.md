@@ -359,7 +359,7 @@ Every page naming this team outside its own spread: pp. 6, 11, 15, 18, 19, 23, 3
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/joey_mcguire.md`
+- Head coach file — [03_Coaching_Database/texas_tech_red_raiders.md](../03_Coaching_Database/texas_tech_red_raiders.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

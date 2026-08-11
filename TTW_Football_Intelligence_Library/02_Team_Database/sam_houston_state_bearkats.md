@@ -334,7 +334,7 @@ Every page naming this team outside its own spread: pp. 46, 72, 189, 195, 247, 2
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/phil_longo.md`
+- Head coach file — [03_Coaching_Database/sam_houston_state_bearkats.md](../03_Coaching_Database/sam_houston_state_bearkats.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

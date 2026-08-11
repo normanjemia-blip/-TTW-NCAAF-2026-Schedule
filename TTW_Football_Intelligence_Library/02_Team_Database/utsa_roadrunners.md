@@ -188,8 +188,6 @@ Referenced in the guide on **pp. 50, 66** — those passages are not reproduced 
 - **Recommendation on the team page:** **OVER 7.5** *(p. 76)*
 - **Projection stated in the team-page essay:** 7.77 wins *(p. 76)*
 
-**Selected as one of Steve Makinen's win-total bets** *(pp. 22–27)*: **UNDER 8.5**.
-
 ## 20. Futures / Conference / Playoff Discussion
 
 Prices printed on the team page *(p. 77)*:
@@ -327,7 +325,7 @@ Every page naming this team outside its own spread: pp. 11, 14, 36, 50, 54, 60, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/jeff_traylor.md`
+- Head coach file — [03_Coaching_Database/utsa_roadrunners.md](../03_Coaching_Database/utsa_roadrunners.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

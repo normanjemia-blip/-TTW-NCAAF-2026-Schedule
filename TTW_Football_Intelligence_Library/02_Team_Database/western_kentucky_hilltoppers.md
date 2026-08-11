@@ -331,7 +331,7 @@ Every page naming this team outside its own spread: pp. 37, 46, 57, 77, 83, 147,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/tyson_helton.md`
+- Head coach file — [03_Coaching_Database/western_kentucky_hilltoppers.md](../03_Coaching_Database/western_kentucky_hilltoppers.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

@@ -320,7 +320,7 @@ Every page naming this team outside its own spread: pp. 151, 177, 195, 221, 222,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/chris_creighton.md`
+- Head coach file — [03_Coaching_Database/eastern_michigan_eagles.md](../03_Coaching_Database/eastern_michigan_eagles.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

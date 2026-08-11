@@ -327,7 +327,7 @@ Every page naming this team outside its own spread: pp. 5, 52, 57, 68, 77, 144, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/scott_abell.md`
+- Head coach file — [03_Coaching_Database/rice_owls.md](../03_Coaching_Database/rice_owls.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

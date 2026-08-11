@@ -198,6 +198,8 @@ Referenced in the guide on **pp. 66** — those passages are not reproduced here
 - **Recommendation on the team page:** **OVER 7.5** *(p. 58)*
 - **Projection stated in the team-page essay:** 7.38 wins *(p. 58)*
 
+**Selected as one of Steve Makinen's win-total bets** *(pp. 22–27)*: **UNDER 7.5**.
+
 ## 20. Futures / Conference / Playoff Discussion
 
 Prices printed on the team page *(p. 59)*:
@@ -334,7 +336,7 @@ Every page naming this team outside its own spread: pp. 6, 10, 25, 29, 33, 36, 3
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/charles_huff.md`
+- Head coach file — [03_Coaching_Database/memphis_tigers.md](../03_Coaching_Database/memphis_tigers.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

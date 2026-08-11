@@ -338,7 +338,7 @@ Every page naming this team outside its own spread: pp. 7, 62, 77, 113, 219, 272
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/g_j_kinne.md`
+- Head coach file — [03_Coaching_Database/texas_state_bobcats.md](../03_Coaching_Database/texas_state_bobcats.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

@@ -335,7 +335,7 @@ Every page naming this team outside its own spread: pp. 6, 9, 14, 15, 24, 159, 2
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/jason_eck.md`
+- Head coach file — [03_Coaching_Database/new_mexico_lobos.md](../03_Coaching_Database/new_mexico_lobos.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

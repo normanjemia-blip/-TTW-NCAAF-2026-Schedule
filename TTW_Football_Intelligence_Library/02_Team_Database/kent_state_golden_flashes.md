@@ -323,7 +323,7 @@ Every page naming this team outside its own spread: pp. 34, 89, 216, 218, 221, 2
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/mark_carney.md`
+- Head coach file — [03_Coaching_Database/kent_state_golden_flashes.md](../03_Coaching_Database/kent_state_golden_flashes.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

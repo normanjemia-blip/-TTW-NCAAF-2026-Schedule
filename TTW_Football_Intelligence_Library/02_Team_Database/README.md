@@ -88,7 +88,7 @@ Each file draws on the **whole guide**, not only that team's two-page preview �
 | --- | --- | --- | --- | --- | --- | --- |
 | [Georgia Bulldogs](georgia_bulldogs.md) | 292–293 | Kirby Smart | 67.5 | #4 of 138 | 17 | 65 |
 | [Texas Longhorns](texas_longhorns.md) | 310–311 | Steve Sarkisian | 66.0 | #6 of 138 | 17 | 83 |
-| [Texas A&M Aggies](texas_a_m_aggies.md) | 312–313 | Mike Elko | 62.5 | #8 of 138 | 15 | 53 |
+| [Texas A&M Aggies](texas_aandm_aggies.md) | 312–313 | Mike Elko | 62.5 | #8 of 138 | 15 | 53 |
 | [Oklahoma Sooners](oklahoma_sooners.md) | 302–303 | Brent Venables | 61.0 | #10 of 138 | 17 | 46 |
 | [Alabama Crimson Tide](alabama_crimson_tide.md) | 284–285 | Kalen DeBoer | 61.0 | #11 of 138 | 12 | 51 |
 | [Ole Miss Rebels](ole_miss_rebels.md) | 304–305 | Pete Golding | 60.5 | #12 of 138 | 10 | 55 |

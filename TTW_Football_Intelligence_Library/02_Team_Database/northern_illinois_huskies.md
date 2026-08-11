@@ -326,7 +326,7 @@ Every page naming this team outside its own spread: pp. 6, 26, 35, 41, 46, 125, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/rob_harley.md`
+- Head coach file — [03_Coaching_Database/northern_illinois_huskies.md](../03_Coaching_Database/northern_illinois_huskies.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

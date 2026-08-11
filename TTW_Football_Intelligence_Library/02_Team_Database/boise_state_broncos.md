@@ -319,7 +319,7 @@ Every page naming this team outside its own spread: pp. 5, 6, 13, 14, 20, 22, 24
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/spencer_danielson.md`
+- Head coach file — [03_Coaching_Database/boise_state_broncos.md](../03_Coaching_Database/boise_state_broncos.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

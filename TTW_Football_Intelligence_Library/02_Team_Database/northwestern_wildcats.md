@@ -317,7 +317,7 @@ Every page naming this team outside its own spread: pp. 11, 13, 20, 32, 34, 126,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/david_braun.md`
+- Head coach file — [03_Coaching_Database/northwestern_wildcats.md](../03_Coaching_Database/northwestern_wildcats.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

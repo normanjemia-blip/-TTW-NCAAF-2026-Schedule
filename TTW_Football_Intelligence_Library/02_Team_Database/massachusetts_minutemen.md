@@ -340,7 +340,7 @@ Every page naming this team outside its own spread: pp. 26, 46, 69, 205, 218, 22
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/joe_harasymiak.md`
+- Head coach file — [03_Coaching_Database/massachusetts_minutemen.md](../03_Coaching_Database/massachusetts_minutemen.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

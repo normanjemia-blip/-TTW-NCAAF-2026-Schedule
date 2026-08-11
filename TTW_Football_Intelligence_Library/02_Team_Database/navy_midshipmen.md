@@ -330,7 +330,7 @@ Every page naming this team outside its own spread: pp. 14, 20, 27, 46, 50, 51, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/brian_newberry.md`
+- Head coach file — [03_Coaching_Database/navy_midshipmen.md](../03_Coaching_Database/navy_midshipmen.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

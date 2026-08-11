@@ -313,7 +313,7 @@ Every page naming this team outside its own spread: pp. 15, 19, 34, 101, 102, 13
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/brent_brennan.md`
+- Head coach file — [03_Coaching_Database/arizona_wildcats.md](../03_Coaching_Database/arizona_wildcats.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

@@ -320,7 +320,7 @@ This team is named in **5 sentences across 2 pages** of the guide.
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/chuck_martin.md`
+- Head coach file — [03_Coaching_Database/miami_ohio_redhawks.md](../03_Coaching_Database/miami_ohio_redhawks.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

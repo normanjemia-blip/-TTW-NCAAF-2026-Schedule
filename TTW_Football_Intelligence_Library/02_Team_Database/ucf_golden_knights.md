@@ -312,7 +312,7 @@ Every page naming this team outside its own spread: pp. 8, 18, 33, 63, 65, 81, 1
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/scott_frost.md`
+- Head coach file — [03_Coaching_Database/ucf_golden_knights.md](../03_Coaching_Database/ucf_golden_knights.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

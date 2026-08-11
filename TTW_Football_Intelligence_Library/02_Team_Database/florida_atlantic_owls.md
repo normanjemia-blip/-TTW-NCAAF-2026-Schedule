@@ -330,7 +330,7 @@ Every page naming this team outside its own spread: pp. 22, 31, 60, 68, 161, 175
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/zach_kittley.md`
+- Head coach file — [03_Coaching_Database/florida_atlantic_owls.md](../03_Coaching_Database/florida_atlantic_owls.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

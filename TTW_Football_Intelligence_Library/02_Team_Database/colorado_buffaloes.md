@@ -320,7 +320,7 @@ Every page naming this team outside its own spread: pp. 14, 15, 18, 59, 75, 125,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/deion_sanders.md`
+- Head coach file — [03_Coaching_Database/colorado_buffaloes.md](../03_Coaching_Database/colorado_buffaloes.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

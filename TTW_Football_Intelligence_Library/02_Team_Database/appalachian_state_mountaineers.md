@@ -334,7 +334,7 @@ Every page naming this team outside its own spread: pp. 10, 11, 33, 96, 191, 324
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/dowell_loggains.md`
+- Head coach file — [03_Coaching_Database/appalachian_state_mountaineers.md](../03_Coaching_Database/appalachian_state_mountaineers.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

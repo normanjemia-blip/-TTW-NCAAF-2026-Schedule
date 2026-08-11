@@ -48,7 +48,10 @@ def load(name):
 
 
 def slug(name):
-    return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
+    # Matches coach_lib.slug and build_teams.slug. All three diverged on
+    # "&" until Phase 11's repository-wide link check exposed it.
+    s = name.lower().replace("\u2019", "").replace("'", "").replace("&", "and")
+    return re.sub(r"[^a-z0-9]+", "_", s).strip("_")
 
 
 def main():

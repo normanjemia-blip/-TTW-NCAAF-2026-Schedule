@@ -337,7 +337,7 @@ Every page naming this team outside its own spread: pp. 6, 7, 9, 14, 15, 20, 24,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/dan_mullen.md`
+- Head coach file — [03_Coaching_Database/unlv_rebels.md](../03_Coaching_Database/unlv_rebels.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

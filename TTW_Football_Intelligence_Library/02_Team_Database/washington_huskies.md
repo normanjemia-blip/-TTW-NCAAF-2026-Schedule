@@ -330,7 +330,7 @@ Every page naming this team outside its own spread: pp. 11, 12, 13, 14, 18, 19, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/jedd_fisch.md`
+- Head coach file — [03_Coaching_Database/washington_huskies.md](../03_Coaching_Database/washington_huskies.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

@@ -339,7 +339,7 @@ Every page naming this team outside its own spread: pp. 7, 8, 9, 10, 11, 15, 19,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/morgan_scalley.md`
+- Head coach file — [03_Coaching_Database/utah_utes.md](../03_Coaching_Database/utah_utes.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

@@ -314,7 +314,7 @@ Every page naming this team outside its own spread: pp. 37, 203, 243, 268, 272, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/bronco_mendenhall.md`
+- Head coach file — [03_Coaching_Database/utah_state_aggies.md](../03_Coaching_Database/utah_state_aggies.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

@@ -334,7 +334,7 @@ Every page naming this team outside its own spread: pp. 11, 35, 165, 167, 204, 2
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/jamarcus_shephard.md`
+- Head coach file — [03_Coaching_Database/oregon_state_beavers.md](../03_Coaching_Database/oregon_state_beavers.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

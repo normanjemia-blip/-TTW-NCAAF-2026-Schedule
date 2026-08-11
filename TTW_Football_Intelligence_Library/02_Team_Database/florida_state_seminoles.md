@@ -326,7 +326,7 @@ Every page naming this team outside its own spread: pp. 6, 10, 13, 15, 34, 67, 9
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/mike_norvell.md`
+- Head coach file — [03_Coaching_Database/florida_state_seminoles.md](../03_Coaching_Database/florida_state_seminoles.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

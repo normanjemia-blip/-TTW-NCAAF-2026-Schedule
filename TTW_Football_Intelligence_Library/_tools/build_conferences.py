@@ -122,7 +122,13 @@ def quote(lines, page):
 
 
 def slug(name):
-    return re.sub(r"[^a-z0-9]+", "_", name.lower()).strip("_")
+    # "&" becomes "and", matching coach_lib.slug. The two diverged, and
+    # "Texas A&M Aggies" was the one team where it showed: this file
+    # produced texas_a_m_aggies while Phases 4, 5, 7 and 8 linked to
+    # texas_aandm_aggies, leaving 18 broken cross-links into the Team
+    # Database. One canonical slug now serves the whole library.
+    s = name.lower().replace("\u2019", "").replace("'", "").replace("&", "and")
+    return re.sub(r"[^a-z0-9]+", "_", s).strip("_")
 
 
 def tier_teams(standings):

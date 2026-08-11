@@ -328,7 +328,7 @@ Every page naming this team outside its own spread: pp. 24, 29, 63, 75, 77, 99, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/rich_rodriguez.md`
+- Head coach file — [03_Coaching_Database/west_virginia_mountaineers.md](../03_Coaching_Database/west_virginia_mountaineers.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

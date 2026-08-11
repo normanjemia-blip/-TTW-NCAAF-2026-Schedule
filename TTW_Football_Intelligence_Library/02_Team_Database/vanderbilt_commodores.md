@@ -329,7 +329,7 @@ Every page naming this team outside its own spread: pp. 10, 20, 30, 46, 96, 105,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/clark_lea.md`
+- Head coach file — [03_Coaching_Database/vanderbilt_commodores.md](../03_Coaching_Database/vanderbilt_commodores.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

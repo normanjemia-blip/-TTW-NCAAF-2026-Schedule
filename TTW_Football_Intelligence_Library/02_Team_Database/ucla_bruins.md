@@ -333,7 +333,7 @@ Every page naming this team outside its own spread: pp. 9, 10, 12, 19, 20, 24, 3
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/bob_chesney.md`
+- Head coach file — [03_Coaching_Database/ucla_bruins.md](../03_Coaching_Database/ucla_bruins.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

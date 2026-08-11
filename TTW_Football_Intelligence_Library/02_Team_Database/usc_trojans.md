@@ -331,7 +331,7 @@ Every page naming this team outside its own spread: pp. 5, 8, 11, 12, 13, 14, 18
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/lincoln_riley.md`
+- Head coach file — [03_Coaching_Database/usc_trojans.md](../03_Coaching_Database/usc_trojans.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

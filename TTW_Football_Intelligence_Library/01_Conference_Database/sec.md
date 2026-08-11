@@ -544,7 +544,7 @@ Spread across **3** different teams — the degree of disagreement is itself the
 
 - [Tennessee Volunteers](../02_Team_Database/tennessee_volunteers.md) — guide pp. 308–309
 
-- [Texas A&M Aggies](../02_Team_Database/texas_a_m_aggies.md) — guide pp. 312–313
+- [Texas A&M Aggies](../02_Team_Database/texas_aandm_aggies.md) — guide pp. 312–313
 
 - [Texas Longhorns](../02_Team_Database/texas_longhorns.md) — guide pp. 310–311
 

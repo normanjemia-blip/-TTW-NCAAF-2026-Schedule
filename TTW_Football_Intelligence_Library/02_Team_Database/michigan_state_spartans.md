@@ -322,7 +322,7 @@ Every page naming this team outside its own spread: pp. 12, 20, 22, 32, 150, 151
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/pat_fitzgerald.md`
+- Head coach file — [03_Coaching_Database/michigan_state_spartans.md](../03_Coaching_Database/michigan_state_spartans.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

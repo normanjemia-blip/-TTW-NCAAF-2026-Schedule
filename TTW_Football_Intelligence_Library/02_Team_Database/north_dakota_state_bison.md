@@ -284,7 +284,7 @@ Every page naming this team outside its own spread: pp. 5, 7, 9, 13, 14, 15, 46,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/tim_polasek.md`
+- Head coach file — [03_Coaching_Database/north_dakota_state_bison.md](../03_Coaching_Database/north_dakota_state_bison.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

@@ -324,7 +324,7 @@ Every page naming this team outside its own spread: pp. 34, 221, 222, 226, 228, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/joe_moorhead.md`
+- Head coach file — [03_Coaching_Database/akron_zips.md](../03_Coaching_Database/akron_zips.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

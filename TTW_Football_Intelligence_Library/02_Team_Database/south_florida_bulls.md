@@ -204,7 +204,7 @@ Referenced in the guide on **pp. 220** — those passages are not reproduced her
 - **Recommendation on the team page:** **UNDER 8.5** *(p. 66)*
 - **Projection stated in the team-page essay:** 8.56 wins *(p. 66)*
 
-**Selected as one of Steve Makinen's win-total bets** *(pp. 22–27)*: **UNDER 7.5**.
+**Selected as one of Steve Makinen's win-total bets** *(pp. 22–27)*: **UNDER 8.5**.
 
 ## 20. Futures / Conference / Playoff Discussion
 
@@ -340,7 +340,7 @@ Every page naming this team outside its own spread: pp. 20, 27, 36, 45, 54, 75, 
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/brian_hartline.md`
+- Head coach file — [03_Coaching_Database/south_florida_bulls.md](../03_Coaching_Database/south_florida_bulls.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)

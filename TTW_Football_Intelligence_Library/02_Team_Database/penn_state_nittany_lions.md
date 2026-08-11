@@ -340,7 +340,7 @@ Every page naming this team outside its own spread: pp. 5, 7, 8, 10, 12, 13, 18,
 
 **Not yet built** — these databases are later phases and the links are placeholders:
 
-- Head coach file — `03_Coaching_Database/matt_campbell.md`
+- Head coach file — [03_Coaching_Database/penn_state_nittany_lions.md](../03_Coaching_Database/penn_state_nittany_lions.md)
 - Quarterback file — `04_Quarterback_Database/` (Phase 4)
 - Power ratings — `05_Power_Ratings/` (Phase 6)
 - Win totals — `06_Win_Totals/` (Phase 7)
