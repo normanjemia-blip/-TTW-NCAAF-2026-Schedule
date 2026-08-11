@@ -1,6 +1,6 @@
 # TTW Football Intelligence Library
 
-**Version 1.10 — Phases 1–10 complete and approved; Phase 11 (Search Optimization) not yet started**
+**Version 2.0 — all 11 phases complete; Phase 11 (Search Optimization) awaiting owner approval**
 
 TTW's permanent football research encyclopedia, built from the 2026 VSiN College
 Football Betting Guide. The goal is that the 345-page guide never has to be
@@ -35,7 +35,7 @@ That file is the navigation system for everything else.
 | 8 | Futures | `07_Futures` | ✅ **Complete — awaiting approval** |
 | 9 | Betting Concepts | `11_Betting_Concepts` | ✅ **Complete — 29 concepts** |
 | 10 | Historical Trends | `12_Historical_Trends` | ✅ **Complete — 9 angles, 98-entry register** |
-| 11 | Search Optimization | `99_Search_Index` | ⏸ Pending |
+| 11 | Search Optimization | `99_Search_Index` | ✅ **Complete — 287 entities, 12 lookups** |
 
 ### Folded directories (Director decision, 2026-08-08)
 
@@ -44,9 +44,9 @@ phases rather than getting phases of their own:
 
 | Directory | Filled by |
 | --- | --- |
-| `08_Returning_Production` | Phase 3 — **resolved**, extracted by coordinate in Phase 3 |
-| `09_Transfer_Portal` | Phase 3, with conference-level summaries in Phase 2 |
-| `10_Schedule_Intelligence` | Phase 2 and Phase 3 |
+| `08_Returning_Production` | Phase 3 data, ✅ **built as a Phase 11 derived view** |
+| `09_Transfer_Portal` | Phase 3 data, ✅ **built as a Phase 11 derived view** |
+| `10_Schedule_Intelligence` | Phase 2–3 data, ✅ **built as a Phase 11 derived view** |
 | `13_Situational_Angles` | ✅ **Complete — both halves**: conceptual in Phase 9, historical and system-based in Phase 10 |
 | `14_Statistics_Reference` | Phase 9 — ✅ **built**: 27-category schema, definitions, and 136 teams × 27 values and ranks |
 

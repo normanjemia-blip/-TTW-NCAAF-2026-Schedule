@@ -597,8 +597,7 @@ def build_master(files, teams, conferences, coordinators, qbs, abbreviations):
         f"| **Coordinators named** | {len(coordinators)} |\n"
         f"| **Ranked quarterbacks** | {len(qbs)} |\n"
         f"| **Abbreviations defined** | {len(abbreviations)} |\n"
-        "| **Library status** | Phases 1–10 complete and approved; Phase 11 "
-        "(Search Optimization) next |\n",
+        "| **Library status** | **All 11 phases complete.** Phase 11 (Search Optimization) awaiting owner approval |\n",
         "\n## Built databases\n",
         "\nPhase numbers and directory numbers deliberately differ "
         "(`05_Power_Ratings` is Phase 6, `07_Futures` is Phase 8), so this "
@@ -625,6 +624,13 @@ def build_master(files, teams, conferences, coordinators, qbs, abbreviations):
         "[11_Betting_Concepts/README.md](../11_Betting_Concepts/README.md) |",
         "| 10 | Historical Trends (9 angles, 98 claims) | "
         "[12_Historical_Trends/README.md](../12_Historical_Trends/README.md) |",
+        "| 11 | Search Index — 287 entities, 12 lookups | "
+        "[99_Search_Index/README.md](../99_Search_Index/README.md) |",
+        "| 11 | Returning Production · Transfer Portal · Schedule "
+        "Intelligence (derived views) | "
+        "[08](../08_Returning_Production/README.md) · "
+        "[09](../09_Transfer_Portal/README.md) · "
+        "[10](../10_Schedule_Intelligence/README.md) |",
         "\nSeparately, the **auxiliary VSiN Preseason Calibration Study** is "
         "complete. It sits outside the library's phase numbering and is not a "
         "library database; its finding was that the historical paired data "
@@ -660,9 +666,12 @@ def build_master(files, teams, conferences, coordinators, qbs, abbreviations):
         "| *Every SEC futures recommendation* | [`07_Futures`](../07_Futures/README.md) — see the breakdown below |\n"
         "| *What does the guide mean by X?* | [`11_Betting_Concepts`](../11_Betting_Concepts/README.md) — see the breakdown below |\n"
         "| *Every slow-tempo offense* | [12 — Statistical Category Index](12_Statistical_Category_Index.md) → [`14_Statistics_Reference`](../14_Statistics_Reference/README.md) |\n"
-        "| *Every trap game* | [01 — Guide Structure Map](01_Guide_Structure_Map.md) → `10_Schedule_Intelligence` |\n"
+        "| *Every trap game* | [01 — Guide Structure Map](01_Guide_Structure_Map.md) → [`10_Schedule_Intelligence`](../10_Schedule_Intelligence/README.md) |\n"
         "| *Does this angle have a track record?* | [`12_Historical_Trends`](../12_Historical_Trends/README.md) — see the breakdown below |\n"
-        "| *Every portal-heavy roster* | `09_Transfer_Portal` |\n"
+        "| *Every portal-heavy roster* | [`09_Transfer_Portal`](../09_Transfer_Portal/README.md) — 91 of 138 teams |\n"
+        "| *Start anywhere and find everything* | [`99_Search_Index`](../99_Search_Index/README.md) — 12 lookups, 287 entities |\n"
+        "| *Where does the guide contradict itself?* | [conflict roll-up](../99_Search_Index/09_SOURCE_CONFLICT_ROLLUP.md) — by kind, none adjudicated |\n"
+        "| *What is missing, and why* | [gap register](../99_Search_Index/10_GAP_REGISTER.md) — 1,713 absences, by cause |\n"
         "\nQuestions marked with a later phase are **not yet answerable**. The index "
         "tells you where the answer will live and what still has to be built — it "
         "does not pretend to answer them now.\n"

@@ -24,7 +24,7 @@ Start from any entity you already have in mind and reach every approved part of 
 | 8 | [08_HISTORICAL_ANGLE_LOOKUP.md](08_HISTORICAL_ANGLE_LOOKUP.md) | angles — **guide records, not TTW backtests** |
 | 9 | [09_SOURCE_CONFLICT_ROLLUP.md](09_SOURCE_CONFLICT_ROLLUP.md) | conflicts by **kind**, none adjudicated |
 | 10 | [10_GAP_REGISTER.md](10_GAP_REGISTER.md) | 1,713 absences, by why they exist |
-| 11 | [11_LINK_INTEGRITY_MAP.md](11_LINK_INTEGRITY_MAP.md) | 8,804 links, 0 broken |
+| 11 | [11_LINK_INTEGRITY_MAP.md](11_LINK_INTEGRITY_MAP.md) | 8,813 links, 0 broken |
 | 12 | [12_QUERY_RECIPES.md](12_QUERY_RECIPES.md) | the brief's questions, answered |
 
 ## What this layer is not
