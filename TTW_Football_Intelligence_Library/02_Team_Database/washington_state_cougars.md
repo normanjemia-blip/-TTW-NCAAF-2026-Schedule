@@ -305,7 +305,7 @@ The guide's starting point is that, blowout losses to North Texas and Washington
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide's third question is headed “Will a defense with no returning starters be a disaster?” while the same spread (p. 280) prints three returning defensive starters. Both are reproduced as printed in the Team Database and neither is corrected here. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/washington_state_cougars.md).*
 
 ## 28. Relevant Page References
 

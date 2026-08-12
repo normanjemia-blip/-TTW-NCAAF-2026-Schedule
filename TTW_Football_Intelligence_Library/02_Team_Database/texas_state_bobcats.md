@@ -313,7 +313,8 @@ The guide traces Kinne's path in full. He was a big-time passer at Tulsa, finish
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** On the same spread the prose states Texas State ranked 12th nationally in scoring offense at 36.5 PPG and fifth with 472 yards per game, while the statistics table on the same page (p. 277) prints 36.6 PPG ranked #9 and 478.8 total yards ranked #5. Both are reproduced as printed in the Team Database and neither is corrected here. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/texas_state_bobcats.md).*
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **5.5**; the team page prints **Over 6.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

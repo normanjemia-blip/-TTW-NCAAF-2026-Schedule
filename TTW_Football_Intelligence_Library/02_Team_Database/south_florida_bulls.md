@@ -319,7 +319,7 @@ By contrast the guide rates the Josh Aldridge hire highly, noting he worked at c
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — a defect found in a TTW artefact, not in the guide.** This entry's number was recorded as 7.5 rather than 8.5 in the Phase 2 artefact; that is a TTW artefact defect recorded in the source conflict audit, not a guide conflict. *Recorded in Phase 7, field 26 of this team's win-total record — [source](../06_Win_Totals/south_florida_bulls.md).*
 
 ## 28. Relevant Page References
 

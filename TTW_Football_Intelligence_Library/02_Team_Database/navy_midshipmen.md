@@ -310,6 +310,8 @@ The guide calls this the million-dollar question. Sensing urgency, Newberry is r
 ## 27. Source Conflicts
 
 - **Head coach tenure stated inconsistently.** The American conference preview (p. 49) describes Brian Newberry as beginning his fourth season; Navy's team page (p. 60) states his fifth. Both are reproduced as printed and neither is corrected.
+- **Quarterback Database — source conflict / ambiguity.** The guide gives Brian Newberry's tenure differently in two places, described in the Team Database from pp. 49 and 60. It does not bear on the quarterback record. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/navy_midshipmen.md).*
+- **Coaching Database — head-coach tenure.** The American preview (p. 49) says Brian Newberry “begins his fourth season at the helm”, while the team page (p. 60) prints “Brian Newberry - 5th season”. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, the labelled SOURCE CONFLICT block of this team's coaching record — [source](../03_Coaching_Database/navy_midshipmen.md).*
 
 ## 28. Relevant Page References
 

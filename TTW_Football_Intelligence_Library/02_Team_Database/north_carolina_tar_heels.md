@@ -296,7 +296,7 @@ The guide acknowledges heavy early coverage and poor optics from the outside giv
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide treats Edwards as the default starter while arguing the programme should start someone else; it does not resolve which will happen. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/north_carolina_tar_heels.md).*
 
 ## 28. Relevant Page References
 

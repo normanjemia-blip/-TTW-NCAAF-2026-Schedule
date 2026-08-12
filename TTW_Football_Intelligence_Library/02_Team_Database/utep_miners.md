@@ -299,7 +299,7 @@ The guide notes UTEP quietly had a strong defensive campaign: 14th nationally in
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — source conflict / ambiguity.** The guide states the defensive coordinator position two ways. The team pages (pp. 260–261) record Kyle Beyer taking over as coordinator having served as an analyst last season, while the Stability Score table (p. 44) awards 3 points for a returning defensive coordinator. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/utep_miners.md).*
 
 ## 28. Relevant Page References
 

@@ -302,7 +302,7 @@ Despite improving in several areas the defense did not take the ball away, manag
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — source conflict / ambiguity.** The guide states the offensive coordinator position two ways. The team pages (pp. 72–73) refer to new coordinator Kevin Barbay and ask whether he and Tre Lamb can inject life into the offense, while the Stability Score table (p. 44) awards 3 points for a returning offensive coordinator. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/tulsa_golden_hurricane.md).*
 
 ## 28. Relevant Page References
 

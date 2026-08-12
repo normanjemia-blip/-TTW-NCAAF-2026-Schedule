@@ -316,7 +316,9 @@ The guide offers a genuinely two-sided answer. From 2021-25 Candle lost ten time
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide declines to name a starter, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/connecticut_huskies.md).*
+- **Win Totals — source conflict / ambiguity.** The passage as printed contains a stray name — the quarterback system sentence ends with 'Nico Iamaleava', who is a UCLA player and not a UConn one. Reproduced as printed and not corrected. *Recorded in Phase 7, field 26 of this team's win-total record — [source](../06_Win_Totals/connecticut_huskies.md).*
+- **Futures — a conference price with no market.** 2 teams — Connecticut Huskies, Notre Dame Fighting Irish — carry the conference row's label with **no price at all**. Both are Independents, which have no conference title to win. Recorded as an absence rather than filled in. *Recorded in Phase 8, the futures source conflict audit — [source](../07_Futures/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

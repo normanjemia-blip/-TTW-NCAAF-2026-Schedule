@@ -278,7 +278,8 @@ New coordinator DK McDonald must repair a unit that allowed 26.8 points per game
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide declines to name a starter or list the candidates, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/kansas_jayhawks.md).*
+- **Coaching Database — source conflict / ambiguity.** The guide states both coordinator positions two ways. The team pages (pp. 132–133) present Andy Kotelnicki's return from Penn State as a change and call DK McDonald the new defensive coordinator, while the Stability Score table (p. 43) awards 3 points for a returning offensive coordinator and 3 points for a returning defensive coordinator. All are reproduced as printed and none is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/kansas_jayhawks.md).*
 
 ## 28. Relevant Page References
 

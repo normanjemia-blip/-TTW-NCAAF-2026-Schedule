@@ -291,7 +291,7 @@ The guide pushes back directly on other previews talking up the line's experienc
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide is unusually candid that it does not know what to make of Pitt's scoring output relative to its underlying metrics, attributing much of it to special teams. It leaves that unresolved. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/pittsburgh_panthers.md).*
 
 ## 28. Relevant Page References
 

@@ -317,7 +317,7 @@ The guide credits first-year coordinator Griff McCarley with an immediate pass-r
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide names four candidates and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/arkansas_state_red_wolves.md).*
 
 ## 28. Relevant Page References
 

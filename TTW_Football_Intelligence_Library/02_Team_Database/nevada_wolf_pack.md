@@ -287,7 +287,7 @@ Given Choate's defensive background the guide says this unit's effectiveness wil
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide expects Duncan to win while recording that the head coach insists the race is tight. Both are stated; neither is resolved. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/nevada_wolf_pack.md).*
 
 ## 28. Relevant Page References
 

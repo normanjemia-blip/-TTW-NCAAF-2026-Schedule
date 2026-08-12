@@ -308,6 +308,7 @@ Michael Hutchings and Lupoi barely overlapped at Oregon; Hutchings had moved on 
 ## 27. Source Conflicts
 
 - **Returning-starter arithmetic.** The guide prints total 11, offence 8 and defence 6 on p. 82. Offence plus defence is 14, which does not equal the printed total. All three figures are reproduced as printed; none is corrected.
+- **Quarterback Database — source conflict / ambiguity.** The guide prints total 11 returning starters with offense 8 and defense 6 on p. 82; offense plus defense is 14, which does not equal the printed total. All three figures are reproduced as printed in the Team Database and none is corrected here. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/california_golden_bears.md).*
 
 ## 28. Relevant Page References
 

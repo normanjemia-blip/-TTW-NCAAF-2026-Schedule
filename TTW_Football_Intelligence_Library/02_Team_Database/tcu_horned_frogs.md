@@ -294,7 +294,8 @@ With the offense moving away from high-octane spread, the guide argues improving
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — source conflict / ambiguity.** The guide states the offensive coordinator position two ways. The team pages (pp. 138–139) present Gordon Sammis as arriving from UConn and devote a section to what TCU will look like with him in the role, while the Stability Score table (p. 44) awards 3 points for a returning offensive coordinator. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/tcu_horned_frogs.md).*
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **6.5**; the team page prints **Under 7.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

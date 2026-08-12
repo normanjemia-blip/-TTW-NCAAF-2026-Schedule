@@ -25,6 +25,9 @@ import re
 import sys
 from collections import Counter
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import cross_conflicts
+
 SRC = "_source/data"
 OUT = "02_Team_Database"
 
@@ -791,18 +794,33 @@ class TeamFileBuilder:
         return list(dict.fromkeys(rows))
 
     def conflicts(self, team, detail, ref):
-        rows = []
+        """§27 — every conflict any completed phase has recorded about this
+        team, not only the ones Phase 3 authored.
+
+        Before the N-2 repair this method saw Phase 3's data alone, so a
+        team whose only conflict lived in the quarterback, coaching,
+        win-total or futures database asserted that none existed. The
+        cross-database index supplies those, each keeping its own phase's
+        wording and pointing back at the artifact that authored it. Nothing
+        is merged into a single statement and nothing is adjudicated.
+        """
+        rows, own = [], []
         rows += self.numeric_conflicts(team, ref)
         if detail.get("returning_starters_conflict"):
+            own.append(detail["returning_starters_conflict"])
             rows.append(f"- **Returning-starter arithmetic.** "
                         f"{detail['returning_starters_conflict']}")
         for c in self.d["stability_conflicts"]:
             if c["team"] == team["team"]:
+                own.append(c["detail"])
                 rows.append(f"- **Returning starters printed differently in two "
                             f"places.** {c['detail']}")
         for c in self.d["global_conflicts"]:
             if team["team"] in c["applies_to"]:
+                own.append(c["detail"])
                 rows.append(f"- **{c['title']}** {c['detail']}")
+        rows += cross_conflicts.render(
+            self.d["cross_conflicts"].get(team["team"], []), already=own)
         if not rows:
             return "No source conflict identified for this team."
         # A team that carries any conflict must never also assert it has none.
@@ -980,6 +998,10 @@ def main():
         "stability": {r["team"]: r for r in load("stability_scores") if r.get("team")},
         "stability_conflicts": load("stability_conflicts"),
         "global_conflicts": global_conflicts,
+        # N-2: what Phases 4, 5, 7 and 8 recorded about each team. Read from
+        # the same authored source records those phases read, so §27 cannot
+        # drift from the databases it reports.
+        "cross_conflicts": cross_conflicts.cross_database_conflicts(),
     }
 
     only = sys.argv[1] if len(sys.argv) > 1 else None

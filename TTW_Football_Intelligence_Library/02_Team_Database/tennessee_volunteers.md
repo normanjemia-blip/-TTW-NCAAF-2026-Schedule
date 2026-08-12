@@ -306,7 +306,7 @@ The defense took heavy offseason losses. The line must be rebuilt entirely after
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** Heupel is reported insisting on a genuine battle while the guide simultaneously states the expectation that Brandon takes over full-time after the opener. Both are recorded; neither is resolved. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/tennessee_volunteers.md).*
 
 ## 28. Relevant Page References
 

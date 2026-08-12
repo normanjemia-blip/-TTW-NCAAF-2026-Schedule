@@ -293,7 +293,7 @@ Probably. Seven starters return including top tacklers Kip Lewis and Owen Heinec
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** On conditioning the guide reports only what Mateer said — he appeared bulkier at the Manning Passing Academy and told media he had not gained weight but gotten in better shape. The guide does not resolve this and neither does this record. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/oklahoma_sooners.md).*
 
 ## 28. Relevant Page References
 

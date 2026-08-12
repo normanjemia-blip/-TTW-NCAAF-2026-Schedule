@@ -311,6 +311,8 @@ Drinkwitz needed three seasons to make Missouri a winning program; over the last
 ## 27. Source Conflicts
 
 - **Returning-starter arithmetic.** The guide prints total 12, offence 9 and defence 6 on p. 300. Offence plus defence is 15, which does not equal the printed total. All three figures are reproduced as printed; none is corrected.
+- **Quarterback Database — source conflict / ambiguity.** The team spread prints total 12 returning starters with offense 9 and defense 6 (p. 300); offense plus defense is 15, which does not equal the printed total. All three figures are reproduced as printed in the Team Database and none is corrected here. This bears on any returning-starter reading of the quarterback position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/missouri_tigers.md).*
+- **Coaching Database — source conflict / ambiguity.** The team page (p. 300) prints total 12 returning starters with offense 9 and defense 6; offense plus defense is 15, which does not equal the printed total. All three figures are reproduced as printed and none is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/missouri_tigers.md).*
 
 ## 28. Relevant Page References
 

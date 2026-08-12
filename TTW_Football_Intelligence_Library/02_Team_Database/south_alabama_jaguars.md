@@ -311,7 +311,8 @@ The heading is a film reference the guide acknowledges has nothing to do with fo
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — source conflict / ambiguity.** The guide states the defensive coordinator position two ways. The team pages (pp. 340–341) record that Major Applewhite has hired football lifer Todd Orlando to fix the defense, while the Stability Score table (p. 44) awards 3 points for a returning defensive coordinator. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/south_alabama_jaguars.md).*
+- **Win Totals — the team page and the feature recommend opposite sides.** The feature (pp. 22–27) bets **Over 5.5**; the team page bets **Under 5.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 11 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

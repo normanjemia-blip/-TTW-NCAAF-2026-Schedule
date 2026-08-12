@@ -327,7 +327,7 @@ Texas gained five-star cornerback John Meredith III, ESPN's top-ranked 2027 corn
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — source conflict / ambiguity.** The guide states the defensive coaching situation two ways. The team pages (pp. 310–311) record that Will Muschamp was hired to run the defense, while the Stability Score table (p. 44) awards 3 points for a returning defensive coordinator. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/texas_longhorns.md).*
 
 ## 28. Relevant Page References
 

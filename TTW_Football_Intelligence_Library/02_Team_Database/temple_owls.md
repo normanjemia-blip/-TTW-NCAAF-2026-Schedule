@@ -291,7 +291,7 @@ Temple finished -624 in yards with wild swings: outgaining UMass by 165, Howard 
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide names two candidates and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/temple_owls.md).*
 
 ## 28. Relevant Page References
 

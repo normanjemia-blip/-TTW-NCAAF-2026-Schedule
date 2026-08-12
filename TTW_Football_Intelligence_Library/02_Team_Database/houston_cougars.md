@@ -291,7 +291,8 @@ Houston tied for 41st nationally in Adjusted EPA per play allowed at -0.05. Nine
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — source conflict / ambiguity.** The team page's own text says Houston's win total is either 7.5 or 8.5 depending on where you look. The feature bets Over 8.5; the team page prints Over 7.5. Both are reproduced. *Recorded in Phase 7, field 26 of this team's win-total record — [source](../06_Win_Totals/houston_cougars.md).*
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **8.5**; the team page prints **Over 7.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

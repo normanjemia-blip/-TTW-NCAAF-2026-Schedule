@@ -315,7 +315,7 @@ Yes, on the condition that Russell wins the job and delivers; the doubts sit on 
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide expects Russell to start while simultaneously describing a fall-camp “competition”; both are stated, and neither is resolved in the guide. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/alabama_crimson_tide.md).*
 
 ## 28. Relevant Page References
 

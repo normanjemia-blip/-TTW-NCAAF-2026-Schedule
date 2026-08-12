@@ -329,7 +329,9 @@ The guide argues coordinator hires matter at any programme but especially in the
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide names two candidates and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/liberty_flames.md).*
+- **Coaching Database — source conflict / ambiguity.** The guide states the defensive coordinator position two ways. The team pages (pp. 196–197) record Jamey Chadwell beginning year four alongside a new defensive coordinator and devote a full section to Shawn Quinn's arrival from Virginia Tech, while the Stability Score table (p. 43) awards 3 points for a returning defensive coordinator. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/liberty_flames.md).*
+- **Win Totals — the team page and the feature recommend opposite sides.** The feature (pp. 22–27) bets **Under 8.5**; the team page bets **Over 8.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 11 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

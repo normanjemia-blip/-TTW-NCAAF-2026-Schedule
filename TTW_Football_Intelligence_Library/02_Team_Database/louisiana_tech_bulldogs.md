@@ -302,7 +302,7 @@ The guide answers with two independent measures. Using Jeff Sagarin's end-of-sea
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide's rushing passage names three opponents by yards-per-carry then lists four by total rushing yards, adding New Mexico State. Both formulations are reproduced in the Team Database as printed and neither is corrected here. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/louisiana_tech_bulldogs.md).*
 
 ## 28. Relevant Page References
 

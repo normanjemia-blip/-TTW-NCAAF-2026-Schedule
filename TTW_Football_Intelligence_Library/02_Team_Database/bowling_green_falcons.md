@@ -299,7 +299,7 @@ The guide balances the two impressive wins over Liberty and Toledo against blown
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide states the position is in flux and names no 2026 candidates, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/bowling_green_falcons.md).*
 
 ## 28. Relevant Page References
 

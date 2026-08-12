@@ -317,7 +317,7 @@ The guide's framing is ironic: the turnaround under an offensive-minded coach wa
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **6.5**; the team page prints **Under 7.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

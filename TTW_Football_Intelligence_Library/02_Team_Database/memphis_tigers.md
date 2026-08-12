@@ -316,7 +316,9 @@ The guide rates Lance Guidry a really good coordinator hire, someone Huff worked
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide names three candidates and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/memphis_tigers.md).*
+- **Win Totals — a defect found in a TTW artefact, not in the guide.** This entry was missing entirely from the Phase 2 artefact, which is recorded in the source conflict audit as a TTW artefact defect rather than a guide conflict. *Recorded in Phase 7, field 26 of this team's win-total record — [source](../06_Win_Totals/memphis_tigers.md).*
+- **Win Totals — the team page and the feature recommend opposite sides.** The feature (pp. 22–27) bets **Under 7.5**; the team page bets **Over 7.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 11 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

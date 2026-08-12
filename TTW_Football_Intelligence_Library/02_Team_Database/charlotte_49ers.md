@@ -310,6 +310,7 @@ The guide identifies a multi-year structural problem: Charlotte is not big or st
 ## 27. Source Conflicts
 
 - **Charlotte printed in two conferences.** Charlotte appears in both the American (p. 49) and Conference USA (p. 187) projected standings tables with identical figures. The contents page, Charlotte's own team page (p. 52, ranked #14 of 14 in the American) and the '#N of 10' conference ranks on every Conference USA team page all place Charlotte in the American.
+- **Quarterback Database — source conflict / ambiguity.** The team appears in two projected standings tables in the guide's conference previews, a source error recorded in the Conference Database. It does not bear on the quarterback record. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/charlotte_49ers.md).*
 
 ## 28. Relevant Page References
 

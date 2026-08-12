@@ -312,7 +312,7 @@ On offense, new coordinator Adam Austin led a Tarleton offense with five 50-poin
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide declines to name a starter between two returning quarterbacks, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/troy_trojans.md).*
 
 ## 28. Relevant Page References
 

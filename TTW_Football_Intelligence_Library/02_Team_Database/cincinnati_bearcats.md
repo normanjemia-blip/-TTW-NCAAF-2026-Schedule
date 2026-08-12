@@ -298,7 +298,7 @@ The guide maps the path precisely. Cincinnati opens with winnable games against 
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide notes candidly that it does not know what Sorsby will be doing in 2026 — his destination is left unstated. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/cincinnati_bearcats.md).*
 
 ## 28. Relevant Page References
 

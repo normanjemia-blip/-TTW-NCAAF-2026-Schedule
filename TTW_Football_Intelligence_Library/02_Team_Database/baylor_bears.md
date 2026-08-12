@@ -306,7 +306,7 @@ Aranda has stopped calling the defense, which the guide calls a wise step aside 
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **6.5**; the team page prints **Over 5.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

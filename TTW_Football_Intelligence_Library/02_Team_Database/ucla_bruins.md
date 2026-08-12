@@ -315,7 +315,7 @@ No FBS team was worse last season: UCLA managed 10 sacks. Chesney used the porta
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — the team page and the feature recommend opposite sides.** The feature (pp. 22–27) bets **Over 6.5**; the team page bets **Under 6.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 11 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

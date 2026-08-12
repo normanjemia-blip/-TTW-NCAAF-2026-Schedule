@@ -320,7 +320,7 @@ The guide adds supporting detail on how dominant the season actually was: the tw
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Futures — a conference price with no market.** 2 teams — Connecticut Huskies, Notre Dame Fighting Irish — carry the conference row's label with **no price at all**. Both are Independents, which have no conference title to win. Recorded as an absence rather than filled in. *Recorded in Phase 8, the futures source conflict audit — [source](../07_Futures/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

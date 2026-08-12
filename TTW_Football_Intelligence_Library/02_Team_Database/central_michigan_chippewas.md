@@ -301,7 +301,7 @@ The guide points out the offense managed only 22.5 PPG and was greatly assisted 
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide names Flores as the mobile quarterback the scheme is built around while separately presenting last season as a split with Joe Labas and asking how close Drinkall is to running the offense he wants. It does not state which starts in 2026. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/central_michigan_chippewas.md).*
 
 ## 28. Relevant Page References
 

@@ -296,6 +296,7 @@ Arizona State added notable transfers on the defensive line and at linebacker, w
 ## 27. Source Conflicts
 
 - **Returning starters printed differently in two places.** The team page (p. 118) prints 17 returning starters; the Stability Score table (p. 42) prints 12 for the same team. The team page is internally consistent — offence 8 plus defence 9 equals its own total — so both figures are reproduced as printed and neither is corrected.
+- **Quarterback Database — source conflict / ambiguity.** The team spread (p. 118) prints 17 returning starters while the Stability Score table (p. 42) prints 12 for the same team. Both are reproduced as printed in the Team Database and neither is corrected here. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/arizona_state_sun_devils.md).*
 
 ## 28. Relevant Page References
 

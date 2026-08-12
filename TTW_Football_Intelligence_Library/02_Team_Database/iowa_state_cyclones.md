@@ -303,7 +303,8 @@ The guide extends the doubt from the line to the whole unit. Quarterback Jaylen 
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — source conflict / ambiguity.** The conference table prints a DraftKings total of 5.5; the team page uses 4.5. Both are reproduced as printed. *Recorded in Phase 7, field 26 of this team's win-total record — [source](../06_Win_Totals/iowa_state_cyclones.md).*
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **5.5**; the team page prints **Under 4.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

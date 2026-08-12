@@ -321,7 +321,8 @@ The guide expects aggression under Brown, and again reasons from Mercer: last ye
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide names no quarterback for Toledo anywhere in the spread, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/toledo_rockets.md).*
+- **Win Totals — the team page and the feature recommend opposite sides.** The feature (pp. 22–27) bets **Under 7.5**; the team page bets **Over 7.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 11 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

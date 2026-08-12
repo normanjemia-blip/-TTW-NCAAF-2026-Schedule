@@ -305,7 +305,7 @@ The guide calls the 2025 defense underrated: 3.7 yards per carry and 22.8 points
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** Lea is reported promising a competition while the guide simultaneously names Curtis the likely starter. Both are recorded; neither is resolved. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/vanderbilt_commodores.md).*
 
 ## 28. Relevant Page References
 

@@ -329,7 +329,8 @@ The guide sets out the market position: tied with Alabama at DraftKings to win t
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — source conflict / ambiguity.** The guide states the offensive coaching situation two ways. The team pages (pp. 312–313) list a new offensive play-caller among the obstacles and name Holmon Wiggins as the man arriving, while the Stability Score table (p. 44) awards 3 points for a returning offensive coordinator. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/texas_aandm_aggies.md).*
+- **Win Totals — the team page and the feature recommend opposite sides.** The feature (pp. 22–27) bets **Over 8.5**; the team page bets **Under 8.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 11 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

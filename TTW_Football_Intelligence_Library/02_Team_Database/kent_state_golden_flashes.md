@@ -301,7 +301,7 @@ The guide describes a fascinating age split on Cherokee Valeria's defense: porta
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — new / returning head coach.** The guide states this three ways and they do not agree: the team page prints “Mark Carney - 2nd season”; the Stability Score table (p. 43) awards 4 points for a returning head coach, so it treats the position as unchanged; the Coaching Carousel feature (pp. 28–37) lists the programme. All three are reproduced as printed and none is corrected. *Recorded in Phase 5, the labelled SOURCE CONFLICT block of this team's coaching record — [source](../03_Coaching_Database/kent_state_golden_flashes.md).*
 
 ## 28. Relevant Page References
 

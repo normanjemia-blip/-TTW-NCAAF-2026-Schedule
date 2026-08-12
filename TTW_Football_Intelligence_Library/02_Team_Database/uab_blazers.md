@@ -304,7 +304,8 @@ The guide reviews the recent history: Steve Russ and Sione Ta'ufo'ou were coordi
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — conference placement in the Coaching Carousel.** The Coaching Carousel (p. 33) places UAB in the Conference USA / Independents section, while the team page and the projected standings place the programme in the American. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, the labelled SOURCE CONFLICT block of this team's coaching record — [source](../03_Coaching_Database/uab_blazers.md).*
+- **Coaching Database — new / returning head coach.** The guide states this three ways and they do not agree: the team page prints “Alex Mortensen - 1st season”; the Stability Score table (p. 44) awards 4 points for a returning head coach, so it treats the position as unchanged; the Coaching Carousel feature (pp. 28–37) lists the programme. All three are reproduced as printed and none is corrected. *Recorded in Phase 5, the labelled SOURCE CONFLICT block of this team's coaching record — [source](../03_Coaching_Database/uab_blazers.md).*
 
 ## 28. Relevant Page References
 

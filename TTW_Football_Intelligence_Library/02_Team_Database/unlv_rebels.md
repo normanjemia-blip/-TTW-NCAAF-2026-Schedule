@@ -323,7 +323,9 @@ Paul Guenther joined last March as associate head coach and safeties coach befor
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — source conflict / ambiguity.** The conference table prints a DraftKings total of 7.5; the team page uses 8.5. Both are reproduced as printed. *Recorded in Phase 7, field 26 of this team's win-total record — [source](../06_Win_Totals/unlv_rebels.md).*
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **7.5**; the team page prints **Under 8.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
+- **Win Totals — the team page and the feature recommend opposite sides.** The feature (pp. 22–27) bets **Over 7.5**; the team page bets **Under 8.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 11 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

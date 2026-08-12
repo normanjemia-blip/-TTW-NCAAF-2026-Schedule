@@ -299,7 +299,7 @@ The guide answers “maybe” and lays out the pattern across three seasons: 3-1
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Coaching Database — source conflict / ambiguity.** The guide states the defensive coordinator position two ways. The team pages (pp. 336–337) record Earnest Hill entering year three as coordinator with his top two tacklers back, while the Stability Score table (p. 43) awards 0 points for a returning defensive coordinator. Both are reproduced as printed and neither is corrected. *Recorded in Phase 5, field 28 of this team's coaching record — [source](../03_Coaching_Database/ulm_warhawks.md).*
 
 ## 28. Relevant Page References
 

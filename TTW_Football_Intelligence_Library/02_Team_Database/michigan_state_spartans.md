@@ -304,7 +304,7 @@ Michigan State managed only 22 sacks in 12 games, 86th nationally, and returns j
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **4.5**; the team page prints **Over 3.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

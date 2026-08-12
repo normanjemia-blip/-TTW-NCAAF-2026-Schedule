@@ -280,6 +280,62 @@ def maintenance_gates():
     ck(not dirty, "no conference quoted bullet contains page furniture",
        str(sorted(set(dirty))[:3]))
 
+    # ------------------------------------------------------ N-2 gates
+    #
+    # G5 above is a WITHIN-FILE invariant: it can only see a contradiction a
+    # team file makes with itself. N-2 was invisible to it because the file
+    # was internally consistent and wrong -- it asserted no conflict, and
+    # carried none, while four other databases recorded one. These three
+    # gates read the other databases independently of build_teams.py and
+    # compare, so the class cannot return silently.
+    from cross_conflicts import cross_database_conflicts
+    xref = cross_database_conflicts()
+
+    stray = sorted(set(xref) - canon)
+    ck(not stray, "every cross-database conflict resolves to a canonical team",
+       str(stray[:3]))
+
+    # G9 -- no team asserts it has no conflict while another phase records one.
+    NONE = "No source conflict identified for this team."
+    false_none = sorted(t for t in xref if NONE in files.get(t, ""))
+    ck(not false_none,
+       f"no team asserts it has no source conflict while another database "
+       f"records one ({len(xref)} teams carry a cross-database conflict)",
+       str(false_none[:4]))
+
+    # G10 -- every recorded conflict actually reaches §27, either in its own
+    # words or as a verbatim duplicate of a row the Team Database already
+    # renders. Absence of an assertion is not the same as presence of the
+    # record, and G9 alone would pass on an empty section.
+    def _key(text):
+        return _re.sub(r"[^a-z0-9]+", "", text.lower())
+
+    unsurfaced = []
+    for t, recs in xref.items():
+        m = _re.search(r"\n## 27\. Source Conflicts\n(.*?)(?=\n## )",
+                       files.get(t, ""), _re.S)
+        section = _key(m.group(1)) if m else ""
+        for r in recs:
+            if _key(r["detail"]) not in section:
+                unsurfaced.append(f"{t}/P{r['phase']}")
+    ck(not unsurfaced,
+       f"all {sum(len(v) for v in xref.values())} cross-database conflict "
+       f"records reach the canonical team file", str(unsurfaced[:4]))
+
+    # G11 -- every §27 cross-link resolves, and each cites its phase. A
+    # pointer to an artifact that does not exist is worse than no pointer.
+    broken = []
+    for t, body in files.items():
+        m = _re.search(r"\n## 27\. Source Conflicts\n(.*?)(?=\n## )", body, _re.S)
+        if not m:
+            continue
+        for target in _re.findall(r"\[source\]\(([^)]+)\)", m.group(1)):
+            if not os.path.exists(os.path.normpath(
+                    os.path.join(OUT_DIR, target))):
+                broken.append(f"{t} -> {target}")
+    ck(not broken, "every §27 cross-database source link resolves on disk",
+       str(broken[:3]))
+
     print("\nMAINTENANCE GATES — added after Live Retrieval Test #1")
     print("=" * 66)
     for m in P:

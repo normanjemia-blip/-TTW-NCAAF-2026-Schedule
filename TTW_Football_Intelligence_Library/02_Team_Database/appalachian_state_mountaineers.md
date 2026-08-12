@@ -313,7 +313,8 @@ The guide calls this the most important question for App State, stating outright
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Quarterback Database — source conflict / ambiguity.** The guide names three portal quarterbacks and declines to state an expected starter, so this record carries no VSiN preseason expectation for the position. *Recorded in Phase 4, field 23 of this team's quarterback record — [source](../04_Quarterback_Database/appalachian_state_mountaineers.md).*
+- **Win Totals — the team page and the conference table print different numbers.** The conference table prints **5.5**; the team page prints **Over 6.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 21 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 

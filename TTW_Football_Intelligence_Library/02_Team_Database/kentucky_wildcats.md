@@ -305,7 +305,7 @@ With a defensive head coach replaced by an offensive one, the guide asks what be
 
 ## 27. Source Conflicts
 
-No source conflict identified for this team.
+- **Win Totals — the team page and the feature recommend opposite sides.** The feature (pp. 22–27) bets **Under 4.5**; the team page bets **Over 4.5**. Both are reproduced as printed and neither is corrected. *Recorded in Phase 7, one of 11 teams in the win-total source conflict audit — [source](../06_Win_Totals/00_SOURCE_CONFLICTS.md).*
 
 ## 28. Relevant Page References
 
