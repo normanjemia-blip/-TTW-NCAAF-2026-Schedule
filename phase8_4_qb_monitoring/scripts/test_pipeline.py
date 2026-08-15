@@ -15,9 +15,21 @@ import pipeline_lib as L
 import apply_pending_qb_resolutions as APP
 import verify_qb_candidate as VER
 
-DEFAULT_SRC = os.path.join(os.path.dirname(__file__), "..", "..",
-                           "workbook_v0.7.2_QB_values_candidate",
-                           "TTW_NCAAF_Power_Ratings_2026_v0.7.2_QB_VALUES_CANDIDATE.xlsx")
+_ROOT = os.path.join(os.path.dirname(__file__), "..", "..")
+# Default to the current authoritative master; fall back to the v0.7.2 candidate
+# the harness was originally written against (now under archive/candidates/).
+# The harness copies the source into a temp dir and asserts it is unchanged, so
+# pointing at the authoritative workbook is read-only and safe.
+_SRC_CANDIDATES = [
+    os.path.join(_ROOT, "promotion_v0.8.1",
+                 "TTW_College_Football_Power_Ratings_v0.8.1_AUTHORITATIVE.xlsx"),
+    os.path.join(_ROOT, "archive", "candidates", "workbook_v0.7.2_QB_values_candidate",
+                 "TTW_NCAAF_Power_Ratings_2026_v0.7.2_QB_VALUES_CANDIDATE.xlsx"),
+    os.path.join(_ROOT, "workbook_v0.7.2_QB_values_candidate",
+                 "TTW_NCAAF_Power_Ratings_2026_v0.7.2_QB_VALUES_CANDIDATE.xlsx"),
+]
+DEFAULT_SRC = next((p for p in _SRC_CANDIDATES if os.path.exists(p)),
+                   _SRC_CANDIDATES[0])
 
 PEND_COLS = ["abbrev", "team", "resolution_status", "confidence", "baseline_qb",
              "baseline_value", "active_qb", "active_value", "source",

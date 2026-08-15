@@ -16,8 +16,17 @@ except (AttributeError, ValueError):
     pass
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-TRACKER = os.path.join(HERE, "..", "..", "workbook_v0.7.2_QB_values_candidate",
-                       "qb_exception_resolution_tracker.json")
+ROOT = os.path.join(HERE, "..", "..")
+# The v0.7.2 tracker moved under archive/candidates/ when the v0.7.x candidates
+# were archived. Try the current location first, then the pre-archive one.
+_TRACKER_CANDIDATES = [
+    os.path.join(ROOT, "archive", "candidates", "workbook_v0.7.2_QB_values_candidate",
+                 "qb_exception_resolution_tracker.json"),
+    os.path.join(ROOT, "workbook_v0.7.2_QB_values_candidate",
+                 "qb_exception_resolution_tracker.json"),
+]
+TRACKER = next((p for p in _TRACKER_CANDIDATES if os.path.exists(p)),
+               _TRACKER_CANDIDATES[0])
 
 def main():
     if len(sys.argv) != 2:
