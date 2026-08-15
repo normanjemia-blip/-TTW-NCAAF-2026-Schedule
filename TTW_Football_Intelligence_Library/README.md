@@ -12,8 +12,10 @@
 | **Teams** | 138 of 138 FBS |
 | **Conferences** | 11 of 11 |
 | **Phases** | all 11 complete and approved |
-| **Validation** | 10 harnesses, 115 gates, all passing |
-| **Link integrity** | 9,917 relative links, **0 broken** |
+| **Validation** | 11 harnesses, 142 gates, all passing |
+| | *Was 10 harnesses / 115 gates at freeze. The maintenance commits added 4 §27 conflict gates and 2 quarterback cross-reference gates; the §27 accounting check replaced a diagnostic that never measured what it printed; and final acceptance added the 22-gate matchup-retrieval harness.* |
+| **Link integrity** | 10,012 relative links, **0 broken** |
+| | *Was 9,917 at freeze. The N-2 repair added 95 §27 cross-database source links. No link was removed and none is broken.* |
 | **Workbook** | v0.8.1 AUTHORITATIVE **frozen and untouched** — no spreadsheet file is tracked in this repository |
 
 **This library is FROZEN.** It records the 2026 VSiN College Football Betting

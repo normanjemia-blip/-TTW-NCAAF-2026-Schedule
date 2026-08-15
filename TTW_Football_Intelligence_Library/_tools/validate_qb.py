@@ -147,6 +147,43 @@ def main():
     h = hashlib.sha256(open(wb, "rb").read()).hexdigest()
     ok.append(f"verified dataset read-only, sha256 {h[:16]}…")
 
+    # ------------------------------------------------ final-acceptance gates
+    #
+    # 11 — the cross-reference covers the whole library.
+    # It was found holding 16 rows: a `build_qb.py "Big 12"` run wrote the
+    # whole-library artifact from a conference-scoped loop. Phase 4C and 4D
+    # read this file, so the next report rebuild would have dropped 122 teams
+    # without any existing gate noticing.
+    import json as _json
+    xr = _json.load(open("_source/data/qb_crossref.json"))["records"]
+    canon = {t["team"] for t in
+             _json.load(open("_source/data/team_details.json"))}
+    seen = {r["team"] for r in xr}
+    if len(xr) != 138 or seen != canon:
+        problems.append(
+            f"qb_crossref.json holds {len(xr)} rows covering {len(seen)} teams; "
+            f"expected all 138 (missing {sorted(canon - seen)[:3]})")
+    else:
+        ok.append("the QB cross-reference covers all 138 canonical teams, one "
+                  "row each — no partial write")
+
+    # 12 — the rendered competition status agrees with the verified text it
+    # reproduces. Seven files read "Settled in the verified record" directly
+    # beneath a verified entry naming a live competition.
+    from build_qb import is_open
+    contra = []
+    for r in xr:
+        body = open(f"{OUT}/{slug(r['team'])}").read()
+        rendered_open = "OPEN — competition unresolved" in body
+        if rendered_open != is_open(r["verified_starter"] or ""):
+            contra.append(r["team"])
+    if contra:
+        problems.append(f"competition status contradicts the verified text it "
+                        f"reproduces: {contra[:4]}")
+    else:
+        ok.append("no file states the job is settled while the verified entry "
+                  "it reproduces names a live competition")
+
     print("PHASE 4 VALIDATION")
     print("=" * 60)
     for line in ok:

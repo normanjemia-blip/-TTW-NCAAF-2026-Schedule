@@ -84,7 +84,22 @@ def norm_name(s):
 
 
 def is_open(s):
-    return bool(s) and bool(re.search(r"\bopen\b|\bundecided\b|\bcompetition\b|/", s, re.I))
+    """Does the verified entry describe a job that is not settled?
+
+    "competing" and "pushing" were added at final acceptance. The noun
+    "competition" was matched but its participles were not, so seven
+    entries that name a live competition -- "Max Johnson (leader; Turner
+    Helton competing)" -- were rendered as "Settled in the verified
+    record", contradicting the verbatim text printed directly above the
+    line and the evidence summary printed below it.
+
+    Only unambiguous competition markers are matched. "leader", "likely"
+    and "expected" are deliberately NOT here: they appear in settled
+    entries too, and this predicate must not manufacture doubt the
+    verified record does not state.
+    """
+    return bool(s) and bool(re.search(
+        r"\bopen\b|\bundecided\b|\bcompet\w+\b|\bpushing\b|/", s, re.I))
 
 
 def names_same_player(vsin, active):
@@ -353,11 +368,26 @@ def build():
             "has_note": note is not None,
         })
 
+    # The cross-reference is a WHOLE-LIBRARY artifact, so a conference-scoped
+    # run must never write it. It previously did: a `build_qb.py "Big 12"` run
+    # left the committed file holding 16 rows instead of 138, and Phase 4C/4D
+    # read that file. The rendered markdown happened to predate the truncation
+    # and was unaffected, but the next report rebuild would have silently
+    # dropped 122 teams.
+    if only:
+        print(f"quarterback files written: {written} ({only})")
+        print("qb_crossref.json NOT written — a conference-scoped run may not "
+              "overwrite the whole-library cross-reference")
+        return rows
+
+    if len(rows) != 138:
+        raise SystemExit(f"refusing to write qb_crossref.json with {len(rows)} "
+                         f"rows; expected 138")
     with open("_source/data/qb_crossref.json", "w") as fh:
         json.dump({"generated_from": {
             "layer1": "2026 VSiN College Football Betting Guide (this library)",
             "layer2": meta}, "records": rows}, fh, indent=1)
-    print(f"quarterback files written: {written}" + (f" ({only})" if only else ""))
+    print(f"quarterback files written: {written}")
     return rows
 
 

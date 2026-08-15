@@ -50,7 +50,7 @@ Team file: [../02_Team_Database/kansas_jayhawks.md](../02_Team_Database/kansas_j
 | Workbook team | Kansas (`KAN`, QB VALUES row 48) |
 | Currently verified expected starter | Cole Ballard (leader; Isaiah Marshall competing) |
 | Baseline QB | — |
-| Current competition status | Settled in the verified record |
+| Current competition status | OPEN — competition unresolved |
 | Existing H/M/L confidence classification | **L** (reproduced exactly; not recalculated) |
 | Verification date | 2026-08-03 |
 | Reviewed for season | 2026 |
@@ -73,9 +73,9 @@ The guide names no expected starter clearly enough to test.
 | VSiN preseason expectation | Not addressed in guide. |
 | Current verified state | Cole Ballard (leader; Isaiah Marshall competing) |
 | Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 70 |
+| Monitoring priority score | 95 |
 
-Priority drivers: low-confidence verification (L); no VSiN preseason position; VSiN handicap depends heavily on QB play.
+Priority drivers: low-confidence verification (L); unresolved competition in verified state; no VSiN preseason position; VSiN handicap depends heavily on QB play.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

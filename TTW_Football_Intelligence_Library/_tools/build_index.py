@@ -599,7 +599,8 @@ def build_master(files, teams, conferences, coordinators, qbs, abbreviations):
         f"| **Abbreviations defined** | {len(abbreviations)} |\n"
         "| **Library status** | **COMPLETE — Static 2026 VSiN Preseason Library.** All 11 phases complete and approved; frozen 2026-08-11 |\n"
         "| **Completion** | 2026-08-11 · final content commit `efc99b1` · 608 files · 138 teams · 11 conferences |\n"
-        "| **Assurance** | 10 validation harnesses, 115 gates, all passing · 9,917 relative links, **0 broken** |\n"
+        "| **Assurance** | 11 validation harnesses, 142 gates, all passing · "
+        "10,012 relative links, **0 broken** |\n"
         "| **Workbook** | v0.8.1 AUTHORITATIVE frozen and untouched — no spreadsheet file tracked in this repository |\n",
         "\n## Built databases\n",
         "\nPhase numbers and directory numbers deliberately differ "

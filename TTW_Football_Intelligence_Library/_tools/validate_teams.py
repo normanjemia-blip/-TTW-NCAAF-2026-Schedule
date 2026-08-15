@@ -27,6 +27,8 @@ from collections import Counter
 SRC = "_source/data"
 OUT = "02_Team_Database"
 
+NO_CONFLICT = "No source conflict identified for this team."
+
 SCHEMA = [
     "Program Snapshot", "Conference", "VSiN Team Rank / Conference Rank",
     "Steve Makinen Power Rating", "Home-Field Advantage Reference",
@@ -87,7 +89,7 @@ def main():
         failures.append(f"teams mapped to more than one conference: {multi}")
 
     schema_ok = rating_ok = provenance_ok = 0
-    deferred_marks, conflict_files = 0, 0
+    deferred_marks, conflict_files, no_conflict_files = 0, 0, 0
 
     for team in teams:
         path = os.path.join(OUT, f"{slug(team['team'])}.md")
@@ -119,14 +121,28 @@ def main():
             failures.append(f"{team['team']}: no page provenance found")
 
         deferred_marks += len(re.findall(r"DEFERRED — EXTRACTION NOT RELIABLE", text))
-        if "SOURCE CONFLICT" in text:
+        # This counter searched for the literal uppercase "SOURCE CONFLICT",
+        # which the team schema never renders -- its heading is "## 27. Source
+        # Conflicts". It therefore never measured what it printed. After the
+        # N-2 repair it began matching the words "SOURCE CONFLICT block" inside
+        # a Phase 5 citation, so it reported 7 while 74 files carried a
+        # conflict. It now counts §27 bullets, and the complement is counted
+        # beside it so the two must add to 138.
+        if re.search(r"\n## 27\. Source Conflicts\n\n- \*\*", text):
             conflict_files += 1
+        elif NO_CONFLICT in text:
+            no_conflict_files += 1
+
+    if conflict_files + no_conflict_files != len(teams):
+        failures.append(f"§27 accounting: {conflict_files} carry a conflict + "
+                        f"{no_conflict_files} assert none != {len(teams)} teams")
 
     print(f"team files present                 {len(files)}/138")
     print(f"schema complete (29 headings)      {schema_ok}/138")
     print(f"power ratings reconciled           {rating_ok}/138")
     print(f"files with page provenance         {provenance_ok}/138")
     print(f"files carrying a source conflict   {conflict_files}")
+    print(f"files asserting no source conflict {no_conflict_files}")
     print(f"explicit deferred markers          {deferred_marks}")
 
     conferences = Counter(t["conference"] for t in teams)

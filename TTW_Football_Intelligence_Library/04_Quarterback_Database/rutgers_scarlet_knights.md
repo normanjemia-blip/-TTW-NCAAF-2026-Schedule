@@ -50,7 +50,7 @@ Team file: [../02_Team_Database/rutgers_scarlet_knights.md](../02_Team_Database/
 | Workbook team | Rutgers (`RUTG`, QB VALUES row 35) |
 | Currently verified expected starter | Dylan Lonergan (likely starter; AJ Surace competing) |
 | Baseline QB | — |
-| Current competition status | Settled in the verified record |
+| Current competition status | OPEN — competition unresolved |
 | Existing H/M/L confidence classification | **M** (reproduced exactly; not recalculated) |
 | Verification date | 2026-08-03 |
 | Reviewed for season | 2026 |
@@ -64,18 +64,18 @@ Team file: [../02_Team_Database/rutgers_scarlet_knights.md](../02_Team_Database/
 
 ## C. RELATIONSHIP BETWEEN THE LAYERS
 
-### ALIGNED
+### PARTIALLY ALIGNED
 
-Verified state names the same quarterback the guide expected.
+Verified state still lists this quarterback but the job is not settled; confidence is M.
 
 | | |
 | --- | --- |
 | VSiN preseason expectation | Dylan Lonergan |
 | Current verified state | Dylan Lonergan (likely starter; AJ Surace competing) |
-| Does the VSiN assumption still appear current? | Yes — verified state agrees. |
-| Monitoring priority score | 50 |
+| Does the VSiN assumption still appear current? | Partly — the core expectation survives, but certainty or personnel have moved. |
+| Monitoring priority score | 90 |
 
-Priority drivers: medium-confidence verification (M); VSiN handicap depends heavily on QB play; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); unresolved competition in verified state; partial VSiN/current-state disagreement; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

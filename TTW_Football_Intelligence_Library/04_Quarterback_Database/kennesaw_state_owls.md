@@ -50,7 +50,7 @@ Team file: [../02_Team_Database/kennesaw_state_owls.md](../02_Team_Database/kenn
 | Workbook team | Kennesaw State (`KENN`, QB VALUES row 98) |
 | Currently verified expected starter | Rickie Collins (leader; Landon Varnes competing) |
 | Baseline QB | Rickie Collins |
-| Current competition status | Settled in the verified record |
+| Current competition status | OPEN — competition unresolved |
 | Existing H/M/L confidence classification | **M** (reproduced exactly; not recalculated) |
 | Verification date | 2026-08-03 |
 | Reviewed for season | 2026 |
@@ -73,9 +73,9 @@ The guide names no expected starter clearly enough to test.
 | VSiN preseason expectation | Not addressed in guide. |
 | Current verified state | Rickie Collins (leader; Landon Varnes competing) |
 | Does the VSiN assumption still appear current? | Not applicable — the guide took no clear position. |
-| Monitoring priority score | 55 |
+| Monitoring priority score | 80 |
 
-Priority drivers: medium-confidence verification (M); no VSiN preseason position; VSiN handicap depends heavily on QB play; transfer context in verification note.
+Priority drivers: medium-confidence verification (M); unresolved competition in verified state; no VSiN preseason position; VSiN handicap depends heavily on QB play; transfer context in verification note.
 
 > This classification compares two sources. It does not decide which is correct, and it does not change the workbook's H/M/L code or QB value.
 

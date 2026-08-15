@@ -18,8 +18,8 @@
 
 | Relationship | Teams |
 | --- | --- |
-| ALIGNED | 90 |
-| PARTIALLY ALIGNED | 24 |
+| ALIGNED | 87 |
+| PARTIALLY ALIGNED | 27 |
 | STALE | 2 |
 | UNRESOLVED | 0 |
 | NO VSIN POSITION | 22 |
