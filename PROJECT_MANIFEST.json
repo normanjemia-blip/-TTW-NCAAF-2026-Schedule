@@ -8,8 +8,8 @@
     "native_google_sheet_id": "1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA",
     "native_google_sheet_url": "https://docs.google.com/spreadsheets/d/1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA",
     "native_sheet_note": "IMPORTED AND LIVE. The production master is the native Google Sheet 1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA, titled 'TTW College Football Power Ratings v0.8.1 - PRODUCTION MASTER', verified content-equivalent to the v0.8.1 xlsx (21 tabs, 888 games, 138 teams, 0 formula errors, 0 failing AUDIT invariants). The archived sheet 1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc holds v0.6.2 and is a superseded rollback target - do not target it. NOTE: the Sheet has not yet been updated to v0.8.2; the NMSU activation was promoted repository-side and the owner applied it to the Sheet separately. Timezone remains unverifiable through the available connector.",
-    "source_xlsx": "promotion_v0.8.2/TTW_College_Football_Power_Ratings_v0.8.2_AUTHORITATIVE.xlsx",
-    "source_sha256": "225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0",
+    "source_xlsx": "promotion_v0.8.3/TTW_College_Football_Power_Ratings_v0.8.3_AUTHORITATIVE.xlsx",
+    "source_sha256": "ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8",
     "promotion_date": "2026-08-04",
     "promoted_from": "promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx",
     "promoted_byte_for_byte": false,
@@ -26,7 +26,7 @@
     "title": "TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE",
     "status": "PRESERVED — rollback version, unmodified",
     "source_xlsx": "workbook_v0.6.2_deliverables/TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE.xlsx",
-    "source_sha256": "225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0",
+    "source_sha256": "ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8",
     "native_google_sheet_id": "1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA",
     "native_google_sheet_url": "https://docs.google.com/spreadsheets/d/1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA",
     "deliverables_dir": "workbook_v0.6.2_deliverables",
@@ -121,19 +121,20 @@
   "intermediate_rollback": {
     "version": "v0.8.0",
     "source_xlsx": "promotion_v0.8.0/TTW_College_Football_Power_Ratings_v0.8.0_AUTHORITATIVE.xlsx",
-    "source_sha256": "225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0",
+    "source_sha256": "ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8",
     "note": "Functionally identical to v0.8.1; differs only by the START HERE!A1 banner text. Use for a cosmetic revert; use the v0.6.2 rollback entry for a full rollback."
   },
   "current_version": {
-    "version": "v0.8.2",
+    "version": "v0.8.3",
     "promotion_date": "2026-08-18",
-    "workbook": "promotion_v0.8.2/TTW_College_Football_Power_Ratings_v0.8.2_AUTHORITATIVE.xlsx",
-    "sha256": "225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0",
-    "certificate": "promotion_v0.8.2/verify_v082.py",
-    "supersedes": "v0.8.1 (frozen, e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6)",
-    "change": "NMSU QB activation (8 QB VALUES cells) + banner version/census (1 cell); zero formula changes",
+    "workbook": "promotion_v0.8.3/TTW_College_Football_Power_Ratings_v0.8.3_AUTHORITATIVE.xlsx",
+    "sha256": "ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8",
+    "certificate": "promotion_v0.8.3/verify_v083.py",
+    "supersedes": "v0.8.2 (frozen, 225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0)",
+    "change": "Go-live guardrail: AUDIT!B16 replaced (blank-market -> market-line validity); AUDIT!A16 relabelled; banner version. 3 cells, 1 intentional formula change.",
     "qb_status_census": "38 UNCERTAIN / 100 OK",
     "qb_confidence_census": "65 H / 41 M / 32 L",
-    "week0_games_blocked_by_qb": 4
+    "week0_games_blocked_by_qb": 4,
+    "market_lines_in_repo_artifact": "BLANK by design — live Week 0 Circa rows are transient working-copy data"
   }
 }
