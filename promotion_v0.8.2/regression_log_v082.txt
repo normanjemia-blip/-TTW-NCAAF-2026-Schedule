@@ -1,0 +1,74 @@
+==============================================================================
+v0.8.2 PROMOTION CERTIFICATE
+==============================================================================
+
+1. FROZEN v0.8.1
+  v0.8.1 SHA-256: e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6
+  [PASS] 1.1 v0.8.1 retains its original frozen SHA-256 - e2da9a4c28bd5c0f
+  v0.8.2 SHA-256: 225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0
+  [PASS] 1.2 v0.8.2 differs from v0.8.1
+
+2. PROMOTION IDENTITY
+  [PASS] 2.1 21 sheets, identical names and order - 21 sheets
+  [PASS] 2.2 sheet visibility preserved
+  [PASS] 2.3 named ranges preserved - 0 defined names
+  [PASS] 2.4 v0.8.2 differs from v0.8.1 by exactly NINE cells - 9
+  [PASS] 2.5 the nine coordinates are exactly the authorized set - []
+  [PASS] 2.6 ZERO formula differences - []
+  [PASS] 2.7 only START HERE (1) and QB VALUES (8) changed - {'START HERE': 1, 'QB VALUES': 8}
+
+3. NMSU RECORD
+  [PASS] 3.1 NMSU resolves to exactly one row by abbreviation - [102]
+  [PASS] 3.2 NMSU is QB VALUES row 102 - 102
+  [PASS] 3.3 G102 evaluates to 0 - 0
+  [PASS] 3.4 M102 evaluates to OK - 'OK'
+  [PASS] 3.5 J102 remains 2026
+  [PASS] 3.6 G102 is still a formula
+  [PASS] 3.7 M102 is still a formula
+
+4. WORKBOOK CENSUSES
+  [PASS] 4.1 QB status census = 38 UNCERTAIN / 100 OK - {'UNCERTAIN': 38, 'OK': 100}
+  [PASS] 4.2 confidence census = 65 H / 41 M / 32 L - {'L': 32, 'M': 41, 'H': 65}
+  [PASS] 4.3 nonzero QB values = 0 - []
+  [PASS] 4.4 Tier-1 population still 73 (M + L)
+  [PASS] 4.5 banner states v0.8.2 AUTHORITATIVE
+  [PASS] 4.6 banner census reads 65 H / 41 M / 32 L
+  [PASS] 4.7 banner preserves the 73 Tier-1 statement
+  [PASS] 4.8 banner carries no stale v0.8.1 identifier
+
+5. MODEL OUTPUTS
+  [PASS] 5.1 NMSU at FSU remains FSU -27.7 - FSU -27.7 (margin 27.7357)
+  [PASS] 5.2 Week 0 blocked games move from five to four - 4
+  [PASS] 5.3 888 games / 761 FBS-v-FBS / 127 FCS - 888/761/127
+
+6. SETTINGS AND SAFEGUARDS
+  [PASS] 6.1 market lines remain empty - 0
+  [PASS] 6.2 BET toggle remains N - 'N'
+  [PASS] 6.3 totals remain unavailable (B22/B23 blank)
+  [PASS] 6.4 NDSU remains transitional - row 122
+  [PASS] 6.4 SAC remains transitional - row 114
+
+7. AUDIT STRUCTURAL INVARIANTS
+      OK    138 teams in master list
+      OK    No duplicate abbreviations
+      OK    No duplicate manual aliases
+      OK    Preseason prior mean (informational)
+      OK    No BLOCK-typed team resolves to READY
+      OK    No recommendation without a valid line
+      OK    BET toggle default OFF
+      OK    Thresholds 1.0 / 1.5 / 3.0
+      OK    Default HFA 2.5 / Neutral 0
+      OK    Movement cap 2.5
+      OK    No market lines entered
+      OK    No ambiguous manual alias
+      OK    No duplicate import aliases
+      OK    No duplicate GameIDs
+  [PASS] 7.1 AUDIT reports zero failing invariants - []
+
+==============================================================================
+RESULT: 33 passed, 0 failed
+v0.8.1 SHA-256 (frozen): e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6
+v0.8.2 SHA-256:          225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0
+==============================================================================
+
+verify_v082.py exit code: 0

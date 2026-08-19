@@ -1,0 +1,10 @@
+sheet,cell,classification,old,new
+START HERE,A1,DOCUMENTATION — version identifier and confidence census,"TO THE WINDOW — TTW COLLEGE FOOTBALL POWER RATINGS (v0.8.1 AUTHORITATIVE — promotion complete 2026-08-04. QB verification complete: backlog 0, audit-trail gap 0, all 73 Tier-1 records verified and stamped against team-specific primary sources; 65 H / 40 M / 33 L; 0 nonzero QB values. Preseason state: 0 market lines loaded, BET toggle = N.)","TO THE WINDOW — TTW COLLEGE FOOTBALL POWER RATINGS (v0.8.2 AUTHORITATIVE — promotion complete 2026-08-04. QB verification complete: backlog 0, audit-trail gap 0, all 73 Tier-1 records verified and stamped against team-specific primary sources; 65 H / 41 M / 32 L; 0 nonzero QB values. Preseason state: 0 market lines loaded, BET toggle = N.)"
+QB VALUES,C102,QB DATA — baseline quarterback identity,,Trey Hedden
+QB VALUES,D102,"QB DATA — baseline value (deviation-only convention, 0)",,0
+QB VALUES,E102,QB DATA — active quarterback identity,Open competition,Trey Hedden
+QB VALUES,F102,"QB DATA — active value (deviation-only convention, 0)",,0
+QB VALUES,H102,QB DATA — confidence code L to M,L,M
+QB VALUES,I102,QB DATA — source citation,Underdog Dynasty (C-USA 2026 QB projections) (https://www.underdogdynasty.com/conference-usa/43406/projecting-cusa-conference-usa-starting-qb-quarterbacks-2026-football),KVIA ABC-7 El Paso (https://kvia.com/sports/2026/07/29/new-mexico-state-football-team-begins-fall-camp/)
+QB VALUES,K102,QB DATA — last-update stamp,2026-08-03 00:00:00,2026-08-18 00:00:00
+QB VALUES,L102,QB DATA — reviewer note,VERIFIED 2026-08-03: New Mexico State remains in a rebuild with a likely quarterback competition; NO starter named. L retained; values blank; UNCERTAIN.,"2026-08-18: Replaces prior ""Open competition"" (L) record sourced to Underdog Dynasty projections. KVIA ABC-7 El Paso reported on 2026-07-29 that NMSU HC Tony Sanchez confirmed Trey Hedden as the starter entering Week 1. Baseline and active values are 0/0 under the deviation-only convention; no numerical adjustment is proposed. Confidence M pending official Week 0 depth chart/game notes. Recheck before NMSU at FSU."

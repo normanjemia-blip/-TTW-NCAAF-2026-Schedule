@@ -13,14 +13,15 @@ sold — just process.
 
 | | |
 |---|---|
-| **Title** | **TTW College Football Power Ratings — v0.8.1 AUTHORITATIVE** |
+| **Title** | **TTW College Football Power Ratings — v0.8.2 AUTHORITATIVE** |
 | **Status** | APPROVED — current authoritative production workbook |
-| **Release class** | **Documentation maintenance** over v0.8.0 — no functional change |
-| **File** | [`promotion_v0.8.1/TTW_College_Football_Power_Ratings_v0.8.1_AUTHORITATIVE.xlsx`](promotion_v0.8.1/) |
-| **SHA-256** | `e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6` |
-| **Promotion date** | 2026-08-04 (v0.8.0), patched same day (v0.8.1) |
-| **Native Google Sheet** | **NOT YET IMPORTED** — the sheet still holds v0.6.2; import is an owner action |
-| **Certificates** | [Maintenance (v0.8.1)](promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md) · [Promotion (v0.8.0)](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
+| **Release class** | **QB data** over v0.8.1 — NMSU activation; zero formula changes, zero model-output changes |
+| **File** | [`promotion_v0.8.2/TTW_College_Football_Power_Ratings_v0.8.2_AUTHORITATIVE.xlsx`](promotion_v0.8.2/) |
+| **SHA-256** | `225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0` |
+| **Supersedes** | v0.8.1 `e2da9a4c…cdfd6` — **frozen, unmodified** |
+| **Promotion date** | 2026-08-18 (v0.8.2) · 2026-08-04 (v0.8.0, patched same day to v0.8.1) |
+| **Native Google Sheet** | **IMPORTED AND LIVE** — production master [`1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA`](https://docs.google.com/spreadsheets/d/1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA) *(the sheet carries v0.8.1; the v0.8.2 NMSU change is applied there separately by the owner)* |
+| **Certificates** | [Promotion (v0.8.2)](promotion_v0.8.2/README.md) · [Maintenance (v0.8.1)](promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md) · [Promotion (v0.8.0)](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
 
 **v0.8.1** corrects the `START HERE` banner, which still declared the workbook
 *"NOT AUTHORITATIVE, NOT PROMOTED"* and cited 74 Tier-1 records instead of 73.
@@ -44,7 +45,7 @@ code, and every QB delta is blank or 0.
 | **Title** | `TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE` |
 | **Status** | PRESERVED — rollback target |
 | **SHA-256** | `bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd` |
-| **Native Google Sheet** | [`1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc`](https://docs.google.com/spreadsheets/d/1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc) |
+| **Native Google Sheet** | production master [`1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA`](https://docs.google.com/spreadsheets/d/1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA) · archived v0.6.2 `1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc` (superseded rollback target) |
 | **Deliverables** | [`workbook_v0.6.2_deliverables/`](workbook_v0.6.2_deliverables/) |
 | **Procedure** | [`promotion_v0.8.0/ROLLBACK.md`](promotion_v0.8.0/ROLLBACK.md) |
 

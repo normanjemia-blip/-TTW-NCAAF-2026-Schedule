@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Week 0 full-card dry run against the v0.8.1 AUTHORITATIVE workbook.
+"""Week 0 full-card dry run against the v0.8.2 AUTHORITATIVE workbook.
 
 Read-only. The workbook is opened, never written; its SHA-256 is asserted
 before and after so a run can never be the reason a number changed.
@@ -22,7 +22,7 @@ Two jobs:
 
 Exit code 0 iff every gate passes and the card reconciles.
 
-Formula chain (v0.8.1, preseason state -- SETTINGS!B4 and B5 blank):
+Formula chain (v0.8.2, preseason state -- SETTINGS!B4 and B5 blank):
   PRESEASON!G/K/T   source norms, each mean-centred over rows 6:143
   PRESEASON!Y       available weight = sum of B28..B32 over present sources
   PRESEASON!Z       FINAL PRIOR = weighted sum / Y
@@ -40,10 +40,10 @@ import openpyxl
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
-WB = os.path.join(ROOT, "promotion_v0.8.1",
-                  "TTW_College_Football_Power_Ratings_v0.8.1_AUTHORITATIVE.xlsx")
+WB = os.path.join(ROOT, "promotion_v0.8.2",
+                  "TTW_College_Football_Power_Ratings_v0.8.2_AUTHORITATIVE.xlsx")
 CHECKPOINT = os.path.join(ROOT, "phase10_operational_validation", "week0_card.json")
-EXPECTED_SHA = "e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6"
+EXPECTED_SHA = "225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0"
 
 PASS, FAIL = [], []
 
@@ -219,7 +219,7 @@ def main():
     print("WEEK 0 FULL-CARD DRY RUN -- v0.8.1 AUTHORITATIVE")
     print("=" * 78)
     sha_before = sha256(WB)
-    check(sha_before == EXPECTED_SHA, "workbook is the authoritative v0.8.1", sha_before[:16])
+    check(sha_before == EXPECTED_SHA, "workbook is the authoritative v0.8.2", sha_before[:16])
 
     wb, S, rows, prior, hfa, qbdelta, qbstatus, games = load()
 
@@ -305,12 +305,12 @@ def main():
 
     # G3 QB uncertainty gating
     unc_teams = [a for a, s in qbstatus.items() if s == "UNCERTAIN"]
-    check(len(unc_teams) == 39, "39 teams QB UNCERTAIN", f"{len(unc_teams)}")
+    check(len(unc_teams) == 38, "38 teams QB UNCERTAIN", f"{len(unc_teams)}")
     leaked = [gid for gid, e in allrows.items() if e["AI"] == "QB UNCERTAIN" and e["X"] == "BET"]
     check(not leaked, "no QB UNCERTAIN game can reach BET", f"{len(leaked)} leaked")
     wk0_unc = [g["gid"] for g in wk0
                if engine(g, S, prior, hfa, qbdelta, qbstatus)["AE"] == "QB UNCERTAIN"]
-    check(len(wk0_unc) == 5, "5 of 8 Week 0 games carry QB UNCERTAIN", f"{len(wk0_unc)}")
+    check(len(wk0_unc) == 4, "4 of 8 Week 0 games carry QB UNCERTAIN", f"{len(wk0_unc)}")
 
     # G4 market-line staleness
     check(S["B5"] in (None, ""), "SETTINGS!B5 (as-of date) is blank -- preseason state")
