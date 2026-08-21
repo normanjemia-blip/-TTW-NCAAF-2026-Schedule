@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Week 0 full-card dry run against the v0.8.3 AUTHORITATIVE workbook.
+"""Week 0 full-card dry run against the v0.8.4 AUTHORITATIVE workbook.
 
 Read-only. The workbook is opened, never written; its SHA-256 is asserted
 before and after so a run can never be the reason a number changed.
@@ -22,7 +22,7 @@ Two jobs:
 
 Exit code 0 iff every gate passes and the card reconciles.
 
-Formula chain (v0.8.3, preseason state -- SETTINGS!B4 and B5 blank):
+Formula chain (v0.8.4, preseason state -- SETTINGS!B4 and B5 blank):
   PRESEASON!G/K/T   source norms, each mean-centred over rows 6:143
   PRESEASON!Y       available weight = sum of B28..B32 over present sources
   PRESEASON!Z       FINAL PRIOR = weighted sum / Y
@@ -40,10 +40,10 @@ import openpyxl
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
-WB = os.path.join(ROOT, "promotion_v0.8.3",
-                  "TTW_College_Football_Power_Ratings_v0.8.3_AUTHORITATIVE.xlsx")
+WB = os.path.join(ROOT, "promotion_v0.8.4",
+                  "TTW_College_Football_Power_Ratings_v0.8.4_AUTHORITATIVE.xlsx")
 CHECKPOINT = os.path.join(ROOT, "phase10_operational_validation", "week0_card.json")
-EXPECTED_SHA = "ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8"
+EXPECTED_SHA = "ed5d3b3d9aa3dd4f845e91688216a28276aaa0b3e4bd68ba09a9ceb96a8adaff"
 
 PASS, FAIL = [], []
 
@@ -219,7 +219,7 @@ def main():
     print("WEEK 0 FULL-CARD DRY RUN -- v0.8.1 AUTHORITATIVE")
     print("=" * 78)
     sha_before = sha256(WB)
-    check(sha_before == EXPECTED_SHA, "workbook is the authoritative v0.8.3", sha_before[:16])
+    check(sha_before == EXPECTED_SHA, "workbook is the authoritative v0.8.4", sha_before[:16])
 
     wb, S, rows, prior, hfa, qbdelta, qbstatus, games = load()
 
@@ -232,10 +232,24 @@ def main():
     print("PART A -- rebuild the Week 0 card and reconcile against the Phase 10 checkpoint")
     print("-" * 78)
     cp = {c["gid"]: c for c in json.load(open(CHECKPOINT))}
+    # The Phase 10 checkpoint is a POINT-IN-TIME record from 2026-08-15 and is
+    # deliberately never rewritten. QB status legitimately moves as records are
+    # resolved, so a status difference is not automatically a defect -- but it
+    # must be DECLARED here, with the reason, or it still fails. Model spreads,
+    # edges, sides and labels remain hard gates and are never allowed to drift.
+    DECLARED_STATUS_DRIFT = {
+        # gid: (checkpoint status, current status, reason)
+        "401856766": ("QB UNCERTAIN", "DATA INCOMPLETE",
+                      "UNC activated 2026-08-19 (Billy Edwards Jr., M); QB gate cleared, "
+                      "status now falls through to DATA INCOMPLETE while B4/B5 are blank"),
+        "401858201": ("QB UNCERTAIN", "DATA INCOMPLETE",
+                      "Stanford activated 2026-08-21 (Davis Warren, H); QB gate cleared, "
+                      "status now falls through to DATA INCOMPLETE while B4/B5 are blank"),
+    }
     # the two published Week 0 lines, as recorded in Phase 10
     LINES = {"401856766": ("TCU", 7.0), "401858201": ("STAN", 4.0)}
 
-    rebuilt, diffs = {}, []
+    rebuilt, diffs, declared = {}, [], []
     for g in sorted(wk0, key=lambda x: x["gid"]):
         fav, spr = LINES.get(g["gid"], (None, None))
         e = engine(g, S, prior, hfa, qbdelta, qbstatus, fav, spr)
@@ -248,7 +262,11 @@ def main():
             if model != c["model"]:
                 diffs.append(f"{c['game']}: model {model} vs checkpoint {c['model']}")
             if e["AI"] != c["status"]:
-                diffs.append(f"{c['game']}: status {e['AI']} vs checkpoint {c['status']}")
+                d = DECLARED_STATUS_DRIFT.get(g["gid"])
+                if d and d[0] == c["status"] and d[1] == e["AI"]:
+                    declared.append(f"{c['game']}: {d[0]} -> {d[1]} ({d[2]})")
+                else:
+                    diffs.append(f"{c['game']}: status {e['AI']} vs checkpoint {c['status']}")
             if c["market"] != "PENDING":
                 if f"{e['V']:.1f}" != c["edge"]:
                     diffs.append(f"{c['game']}: edge {e['V']:.1f} vs checkpoint {c['edge']}")
@@ -259,8 +277,18 @@ def main():
 
     check(len(wk0) == len(cp), f"Week 0 card has the same {len(cp)} games as the checkpoint",
           f"rebuilt={len(wk0)} checkpoint={len(cp)}")
-    check(not diffs, "rebuilt card reproduces the Phase 10 checkpoint exactly",
+    check(not diffs, "rebuilt card reproduces the Phase 10 checkpoint "
+          "(model spreads, edges, sides and labels are hard gates)",
           "; ".join(diffs[:4]))
+    if declared:
+        print(f"\n  NOTE - {len(declared)} declared status drift(s); the checkpoint is "
+              f"preserved, not rewritten:")
+        for d in declared:
+            print(f"    * {d}")
+    check(len(declared) == len(DECLARED_STATUS_DRIFT),
+          f"all {len(DECLARED_STATUS_DRIFT)} declared status drifts are still present "
+          f"(a declaration that stops applying must be removed)",
+          f"observed {len(declared)}")
 
     # ---------------- PART B -- operating gates ----------------
     print("\n" + "-" * 78)
@@ -305,12 +333,12 @@ def main():
 
     # G3 QB uncertainty gating
     unc_teams = [a for a, s in qbstatus.items() if s == "UNCERTAIN"]
-    check(len(unc_teams) == 38, "38 teams QB UNCERTAIN", f"{len(unc_teams)}")
+    check(len(unc_teams) == 34, "34 teams QB UNCERTAIN", f"{len(unc_teams)}")
     leaked = [gid for gid, e in allrows.items() if e["AI"] == "QB UNCERTAIN" and e["X"] == "BET"]
     check(not leaked, "no QB UNCERTAIN game can reach BET", f"{len(leaked)} leaked")
     wk0_unc = [g["gid"] for g in wk0
                if engine(g, S, prior, hfa, qbdelta, qbstatus)["AE"] == "QB UNCERTAIN"]
-    check(len(wk0_unc) == 4, "4 of 8 Week 0 games carry QB UNCERTAIN", f"{len(wk0_unc)}")
+    check(len(wk0_unc) == 1, "1 of 8 Week 0 games carries QB UNCERTAIN", f"{len(wk0_unc)}")
 
     # G4 market-line staleness
     check(S["B5"] in (None, ""), "SETTINGS!B5 (as-of date) is blank -- preseason state")

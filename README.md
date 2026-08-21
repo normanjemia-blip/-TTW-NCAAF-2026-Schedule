@@ -13,15 +13,15 @@ sold — just process.
 
 | | |
 |---|---|
-| **Title** | **TTW College Football Power Ratings — v0.8.3 AUTHORITATIVE** |
+| **Title** | **TTW College Football Power Ratings — v0.8.4 AUTHORITATIVE** |
 | **Status** | APPROVED — current authoritative production workbook |
-| **Release class** | **Go-live guardrail** over v0.8.2 — AUDIT market-line invariant; zero model-output changes |
-| **File** | [`promotion_v0.8.3/TTW_College_Football_Power_Ratings_v0.8.3_AUTHORITATIVE.xlsx`](promotion_v0.8.3/) |
-| **SHA-256** | `ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8` |
-| **Supersedes** | v0.8.2 `22508544…90d0` — **frozen, unmodified** (v0.8.1 `e2da9a4c…cdfd6` also frozen) |
+| **Release class** | **QB records** over v0.8.3 — NIU/Tulane corrections + live resync; zero formula and zero model-output changes |
+| **File** | [`promotion_v0.8.4/TTW_College_Football_Power_Ratings_v0.8.4_AUTHORITATIVE.xlsx`](promotion_v0.8.4/) |
+| **SHA-256** | `ed5d3b3d9aa3dd4f845e91688216a28276aaa0b3e4bd68ba09a9ceb96a8adaff` |
+| **Supersedes** | v0.8.3 `ff557825…96b8` — **frozen, unmodified** (v0.8.2 and v0.8.1 also frozen) |
 | **Promotion date** | 2026-08-18 (v0.8.3, and v0.8.2 earlier the same day) · 2026-08-04 (v0.8.0 → v0.8.1) |
 | **Native Google Sheet** | **IMPORTED AND LIVE** — production master [`1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA`](https://docs.google.com/spreadsheets/d/1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA) *(the sheet carries v0.8.1; the v0.8.2 NMSU change is applied there separately by the owner)* |
-| **Certificates** | [Promotion (v0.8.3)](promotion_v0.8.3/README.md) · [Promotion (v0.8.2)](promotion_v0.8.2/README.md) · [Maintenance (v0.8.1)](promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md) · [Promotion (v0.8.0)](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
+| **Certificates** | [Promotion (v0.8.4)](promotion_v0.8.4/README.md) · [Promotion (v0.8.3)](promotion_v0.8.3/README.md) · [Promotion (v0.8.2)](promotion_v0.8.2/README.md) · [Maintenance (v0.8.1)](promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md) · [Promotion (v0.8.0)](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
 
 **v0.8.1** corrects the `START HERE` banner, which still declared the workbook
 *"NOT AUTHORITATIVE, NOT PROMOTED"* and cited 74 Tier-1 records instead of 73.
