@@ -8,7 +8,7 @@
 
 | Tier | Artifact | Role | Ever edited? |
 |---|---|---|:--:|
-| **1 — ARCHIVE** | **current:** `TTW_College_Football_Power_Ratings_v0.8.4_AUTHORITATIVE.xlsx` · SHA-256 `ed5d3b3d…a892`<br>**frozen:** `…v0.8.3…` · `ff557825…96b8`<br>**frozen:** `…v0.8.2…` · `22508544…90d0`<br>**frozen predecessor:** `…v0.8.1_AUTHORITATIVE.xlsx` · SHA-256 `e2da9a4c…cdfd6` | Immutable reference of record | **Never** |
+| **1 — ARCHIVE** | **current:** `TTW_College_Football_Power_Ratings_v0.8.5_AUTHORITATIVE.xlsx` · SHA-256 `0676aa1a…67be`<br>**frozen:** `…v0.8.4…` · `ed5d3b3d…a892`<br>**frozen:** `…v0.8.3…` · `ff557825…96b8`<br>**frozen:** `…v0.8.2…` · `22508544…90d0`<br>**frozen predecessor:** `…v0.8.1_AUTHORITATIVE.xlsx` · SHA-256 `e2da9a4c…cdfd6` | Immutable reference of record | **Never** |
 | **2 — PRODUCTION MASTER** | Google Sheet `1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA` | The clean template every week is copied from | **Only for approved structural changes** |
 | **3 — WORKING COPY** | `TTW WORKING YYYY-MM-DD Wk N` | Where all live data goes | **Every week** |
 
@@ -84,7 +84,7 @@ Anything else is a working-copy activity.
 inputs. Nothing else is affected. Never hesitate over this.
 
 ### Level 2 — the production master is damaged
-1. Confirm the archive is intact: current v0.8.4 SHA-256 must be `ed5d3b3d9aa3dd4f845e91688216a28276aaa0b3e4bd68ba09a9ceb96a8adaff`; the frozen v0.8.3 predecessor must remain `ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8`; the frozen v0.8.2 predecessor must remain `225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0`; the frozen v0.8.1 predecessor must remain `e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6`
+1. Confirm the archive is intact: current v0.8.5 SHA-256 must be `0676aa1a05d661ca0d99c917c8dc471c0030128cc42ea8fd1bd2f17dcea767be`; the frozen v0.8.4 predecessor must remain `ed5d3b3d9aa3dd4f845e91688216a28276aaa0b3e4bd68ba09a9ceb96a8adaff`; the frozen v0.8.3 predecessor must remain `ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8`; the frozen v0.8.2 predecessor must remain `225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0`; the frozen v0.8.1 predecessor must remain `e2da9a4c28bd5c0f094ab06a2a85d3e31b37c2aba894f97f3415e15f799cdfd6`
 2. Try **File → Version history → See version history** first, and restore the last good version — faster and cleaner than re-importing
 3. If version history cannot recover it, re-import the `.xlsx`, then **re-run Phase 9A Part 6 verification** before use
 4. Re-apply timezone and protection
