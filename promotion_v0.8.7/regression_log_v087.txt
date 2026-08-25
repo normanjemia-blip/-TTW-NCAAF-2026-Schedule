@@ -1,0 +1,201 @@
+==============================================================================
+promotion_v0.8.7/verify_v087.py
+==============================================================================
+==============================================================================
+v0.8.7 PROMOTION CERTIFICATE
+==============================================================================
+
+1. PREDECESSOR AND SCOPE
+  v0.8.6 SHA-256: bb76901a96a3fa63e14f0cc582891de82846c12fa5f7ce41d182c8addab967f9
+  v0.8.7 SHA-256: 46671deeaaa94d98c63cb32d0e94af9907e76e7e2638de431b918987df2e15cd
+  [PASS] 1.1 v0.8.6 retains its frozen SHA-256 - bb76901a96a3fa63
+  [PASS] 1.2 v0.8.7 differs from v0.8.6
+  [PASS] 1.3 21 sheets, identical names and order
+  [PASS] 1.4 sheet visibility preserved
+  [PASS] 1.5 named ranges preserved
+  [PASS] 1.6 ZERO formula differences - []
+  [PASS] 1.7 only START HERE and QB VALUES changed - {'START HERE': 1, 'QB VALUES': 68}
+  [PASS] 1.8 START HERE changed exactly 1 cell
+  [PASS] 1.9 exactly the 11 approved QB rows were touched - touched=[7, 9, 21, 29, 48, 76, 85, 89, 91, 113, 125] expected=[7, 9, 21, 29, 48, 76, 85, 89, 91, 113, 125]
+  [INFO] total changed cells: 69 (QB VALUES 68, banner 1)
+
+2. THE FOURTEEN APPROVED ZEROS — AND NO OTHERS
+  [PASS] 2.1 exactly 14 zeros on the 7 activated rows - 14
+  [PASS] 2.2 ZERO nonzero QB values anywhere in the workbook - []
+  [PASS] 2.3 total zeros = 234 = 2 x 117 OK rows (was 220 = 2 x 110, so +14) - zeros=234 ok=117
+  [PASS] 2.x TULN r91: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+  [PASS] 2.x ARK r7: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+  [PASS] 2.x FLA r9: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+  [PASS] 2.x NEB r29: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+  [PASS] 2.x OHIO r113: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+  [PASS] 2.x USF r89: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+  [PASS] 2.x UNLV r125: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+
+3. PROTECTED CELLS
+  [PASS] 3.x TULN r91: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x ARK r7: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x FLA r9: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x NEB r29: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x OHIO r113: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x USF r89: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x UNLV r125: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x ORST r76: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x MEM r85: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x VAN r21: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x KAN r48: G and M still formulas, J still 2026 - G=True M=True J=2026
+
+4. CENSUSES
+  [PASS] 4.1 QB status census = 117 OK / 21 UNCERTAIN - {'OK': 117, 'UNCERTAIN': 21}
+  [PASS] 4.2 confidence census = 76 H / 43 M / 19 L - {'H': 76, 'M': 43, 'L': 19}
+  [PASS] 4.3 census totals 138
+  [PASS] 4.4 banner states v0.8.7 AUTHORITATIVE
+  [PASS] 4.5 banner census reads 76 H / 43 M / 19 L
+  [PASS] 4.6 banner carries no stale v0.8.6 identifier
+
+5. PER-ROW OUTCOMES
+  [PASS] 5.x TULN activated: M, Zeon Chriss-Gremillion, G=0, status OK - H=M C=Zeon Chriss-Gremillion E=Zeon Chriss-Gremillion G=0 status=OK
+  [PASS] 5.x ARK activated: H, KJ Jackson, G=0, status OK - H=H C=KJ Jackson E=KJ Jackson G=0 status=OK
+  [PASS] 5.x FLA activated: H, Aaron Philo, G=0, status OK - H=H C=Aaron Philo E=Aaron Philo G=0 status=OK
+  [PASS] 5.x NEB activated: H, Anthony Colandrea, G=0, status OK - H=H C=Anthony Colandrea E=Anthony Colandrea G=0 status=OK
+  [PASS] 5.x OHIO activated: M, Nick Poulos, G=0, status OK - H=M C=Nick Poulos E=Nick Poulos G=0 status=OK
+  [PASS] 5.x USF activated: M, Michael Van Buren Jr., G=0, status OK - H=M C=Michael Van Buren Jr. E=Michael Van Buren Jr. G=0 status=OK
+  [PASS] 5.x UNLV activated: M, Jackson Arnold, G=0, status OK - H=M C=Jackson Arnold E=Jackson Arnold G=0 status=OK
+
+5b. BASELINE-MATCH ROWS: COLUMN C WAS NOT REWRITTEN
+  [PASS] 5.x ARK C7 unchanged from v0.8.6 — the baseline predates this promotion - 'KJ Jackson' -> 'KJ Jackson'
+  [PASS] 5.x UNLV C125 unchanged from v0.8.6 — the baseline predates this promotion - 'Jackson Arnold' -> 'Jackson Arnold'
+
+5c. OREGON STATE OPTION B
+  [PASS] 5.6 Oregon State: baseline preserved as Maalik Murphy - 'Maalik Murphy'
+  [PASS] 5.7 Oregon State: active starter recorded as Braden Atkinson - 'Braden Atkinson'
+  [PASS] 5.8 Oregon State: D and F BLANK — no zero valuation manufactured
+  [PASS] 5.9 Oregon State: confidence M and status still UNCERTAIN - H=M status=UNCERTAIN
+
+5d. TEXT CORRECTIONS STAY L / UNCERTAIN
+  [PASS] 5.10 Memphis: field states both QBs and the withheld decision - 'Marcus Stokes / Air Noland; decision withheld until kickoff.'
+  [PASS] 5.11 Memphis: D/F blank, L, UNCERTAIN — not activated on inference
+  [PASS] 5.x VAN corrected, still L / UNCERTAIN, values blank - E=Open (Jared Curtis / Blaze Berlowitz / Whit Muschamp) H=L status=UNCERTAIN
+  [PASS] 5.x KAN corrected, still L / UNCERTAIN, values blank - E=Open (Cole Ballard / Isaiah Marshall) H=L status=UNCERTAIN
+  [PASS] 5.x MEM prior note retained verbatim, only appended to
+  [PASS] 5.x VAN prior note retained verbatim, only appended to
+  [PASS] 5.x KAN prior note retained verbatim, only appended to
+
+5e. BASELINE-QB INVARIANT
+  [PASS] 5.12 all 117 OK rows carry a populated baseline QB in column C - []
+
+5f. DARIUS CURRY STILL APPEARS NOWHERE
+  [PASS] 5.13 Darius Curry appears nowhere in the workbook - []
+
+6. ROWS THAT MUST NOT HAVE MOVED
+  [PASS] 6.x TTU r52 completely unchanged from v0.8.6
+  [PASS] 6.x STAN r68 completely unchanged from v0.8.6
+  [PASS] 6.x NIU r123 completely unchanged from v0.8.6
+  [PASS] 6.x CSU r74 completely unchanged from v0.8.6
+  [PASS] 6.x FRES r75 completely unchanged from v0.8.6
+  [PASS] 6.x SYR r69 completely unchanged from v0.8.6
+  [PASS] 6.x ALA r6 completely unchanged from v0.8.6
+  [PASS] 6.x TENN r18 completely unchanged from v0.8.6
+  [PASS] 6.x GASO r131 completely unchanged from v0.8.6
+  [PASS] 6.x RUTG r35 completely unchanged from v0.8.6
+  [PASS] 6.x WSU r80 completely unchanged from v0.8.6
+  [PASS] 6.x NW r30 completely unchanged from v0.8.6
+  [PASS] 6.13 Texas Tech medical gate still held: H, D/F blank, UNCERTAIN
+
+7. MODEL OUTPUTS UNCHANGED
+  [PASS] 7.1 888 games / 761 FBS-v-FBS / 127 FCS-involved / 0 BLOCK - 888/761/127
+  [PASS] 7.x MEM at UNLV model spread unchanged at UNLV -5.6 - UNLV -5.6
+  [PASS] 7.x UNC at TCU model spread unchanged at TCU -4.2 - TCU -4.2
+  [PASS] 7.x NMSU at FSU model spread unchanged at FSU -27.7 - FSU -27.7
+  [PASS] 7.x SJSU at USC model spread unchanged at USC -35.2 - USC -35.2
+  [PASS] 7.x HAW at STAN model spread unchanged at STAN -3.7 - STAN -3.7
+  [PASS] 7.2 every QB delta is 0 or blank, so ENGINE!M contributes nothing - []
+  [PASS] 7.3 Oregon State delta is BLANK, not 0 — valuation deferred, not asserted - ''
+
+7b. WEEK 0 GATE — MEMPHIS AT UNLV MUST STILL BE QB-GATED
+  [PASS] 7.4 UNLV now OK - OK
+  [PASS] 7.5 Memphis still UNCERTAIN - UNCERTAIN
+  [PASS] 7.6 Memphis at UNLV remains QB-gated because Memphis is unresolved
+
+8. SETTINGS AND SAFEGUARDS
+  [PASS] 8.1 repository artifact ships with MARKET LINES blank - 0
+  [PASS] 8.2 BET toggle remains N
+  [PASS] 8.3 totals remain unavailable (B22/B23 blank)
+  [PASS] 8.4 NDSU remains transitional
+  [PASS] 8.4 SAC remains transitional
+  [PASS] 8.5 AUDIT market-line invariant unchanged from v0.8.3 design
+  [PASS] 8.6 IMPORT SCHEDULE untouched — the schedule candidate is NOT folded in
+
+==============================================================================
+RESULT: 89 passed, 0 failed
+v0.8.6 SHA-256 (frozen): bb76901a96a3fa63e14f0cc582891de82846c12fa5f7ce41d182c8addab967f9
+v0.8.7 SHA-256:          46671deeaaa94d98c63cb32d0e94af9907e76e7e2638de431b918987df2e15cd
+==============================================================================
+
+[exit 0]
+
+==============================================================================
+phase11_week0_dryrun/week0_dryrun.py
+==============================================================================
+==============================================================================
+WEEK 0 FULL-CARD DRY RUN -- v0.8.1 AUTHORITATIVE
+==============================================================================
+  [PASS] workbook is the authoritative v0.8.6  -- bb76901a96a3fa63
+
+  games loaded: 888
+  week 0 games: 8
+
+------------------------------------------------------------------------------
+PART A -- rebuild the Week 0 card and reconcile against the Phase 10 checkpoint
+------------------------------------------------------------------------------
+    UNC @ TCU   neutral=True  model=TCU -4.2       status=DATA INCOMPLETE label=INVESTIGATE
+    HAW @ STAN  neutral=False model=STAN -3.7      status=DATA INCOMPLETE label=-
+   NCST @ UVA   neutral=False model=UVA -5.3       status=PENDING LINE   label=-
+    MEM @ UNLV  neutral=False model=UNLV -5.6      status=PENDING LINE   label=-
+   SJSU @ USC   neutral=False model=USC -35.2      status=PENDING LINE   label=-
+   NMSU @ FSU   neutral=False model=FSU -27.7      status=PENDING LINE   label=-
+   JVST @ NDSU  neutral=False model=NDSU -7.0      status=PENDING LINE   label=-
+    SAC @ EMU   neutral=False model=EMU -4.8       status=PENDING LINE   label=-
+  [PASS] Week 0 card has the same 8 games as the checkpoint  -- rebuilt=8 checkpoint=8
+  [PASS] rebuilt card reproduces the Phase 10 checkpoint (model spreads, edges, sides and labels are hard gates)
+
+  NOTE - 2 declared status drift(s); the checkpoint is preserved, not rewritten:
+    * UNC @ TCU: QB UNCERTAIN -> DATA INCOMPLETE (UNC activated 2026-08-19 (Billy Edwards Jr., M); QB gate cleared, status now falls through to DATA INCOMPLETE while B4/B5 are blank)
+    * HAW @ STAN: QB UNCERTAIN -> DATA INCOMPLETE (Stanford activated 2026-08-21 (Davis Warren, H); QB gate cleared, status now falls through to DATA INCOMPLETE while B4/B5 are blank)
+  [PASS] all 2 declared status drifts are still present (a declaration that stops applying must be removed)  -- observed 2
+
+------------------------------------------------------------------------------
+PART B -- operating gates
+------------------------------------------------------------------------------
+  [PASS] 127 FCS games present  -- found 127
+  [PASS] every FCS game is FCS — NO PLAY and none carries a bet label  -- noplay=127/127 labelled=0
+  [PASS] no FCS game produces a playable label  -- 0 labelled
+  [PASS] 761 FBS-v-FBS games  -- 761
+  [PASS] all 11 neutral-site games take HFA = SETTINGS!B7 = 0  -- 0 wrong
+  [PASS] Dublin game (UNC @ TCU, Aviva Stadium) carries neutral HFA = 0  -- neutral=True L=0 venue=Aviva Stadium
+  [PASS] Dublin model margin is TCU -4.2 (pure rating differential)  -- R=4.16
+  [PASS] counterfactual confirms the neutral flag is worth 2.5 pts (would read TCU -6.7)
+  [PASS] 28 teams QB UNCERTAIN  -- 28
+  [PASS] no QB UNCERTAIN game can reach BET  -- 0 leaked
+  [PASS] 1 of 8 Week 0 games carries QB UNCERTAIN  -- 1
+  [PASS] SETTINGS!B5 (as-of date) is blank -- preseason state
+  [PASS] stale threshold B13 = 5 days  -- 5
+  [PASS] STALE LINE count is 0 -- and that is because B5 is blank, not because lines are fresh  -- 0
+  [PASS] home favorite -> market home spread is negative  -- T=-7.0
+  [PASS] edge = model margin + market home spread = 4.2 + (-7.0) = -2.8  -- V=-2.84
+  [PASS] negative edge -> value on the away team  -- W=UNC
+  [PASS] away favorite -> market home spread is positive  -- T=3.0
+  [PASS] away-favorite edge = 4.2 + 3.0 = 7.2  -- V=7.16
+  [PASS] positive edge -> value on the home team  -- W=TCU
+  [PASS] BET toggle SETTINGS!B11 = N  -- N
+  [PASS] no game anywhere on the card can produce BET while the toggle is N  -- 0
+  [PASS] even with the toggle Y and a 7.8-pt edge, QB UNCERTAIN still forces INVESTIGATE  -- edge=-7.8 status=DATA INCOMPLETE label=INVESTIGATE
+  [PASS] SETTINGS!B22 (league avg total) blank -- totals disabled
+  [PASS] SETTINGS!B23 (total EPA scale) blank -- totals disabled
+  [PASS] workbook unchanged by this run  -- bb76901a96a3fa63
+
+==============================================================================
+RESULT: 30 passed, 0 failed
+==============================================================================
+
+[exit 0]
+
