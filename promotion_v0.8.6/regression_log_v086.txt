@@ -1,0 +1,159 @@
+==============================================================================
+promotion_v0.8.6/verify_v086.py
+==============================================================================
+==============================================================================
+v0.8.6 PROMOTION CERTIFICATE — supplemental packet items 1-3
+==============================================================================
+
+1. PREDECESSOR AND IDENTITY
+  v0.8.5 SHA-256: 0676aa1a05d661ca0d99c917c8dc471c0030128cc42ea8fd1bd2f17dcea767be
+  v0.8.6 SHA-256: bb76901a96a3fa63e14f0cc582891de82846c12fa5f7ce41d182c8addab967f9
+  [PASS] 1.1 v0.8.5 retains its frozen SHA-256 - 0676aa1a05d661ca
+  [PASS] 1.2 v0.8.6 differs from v0.8.5
+  [PASS] 1.3 21 sheets, identical names and order - 21
+  [PASS] 1.4 sheet visibility preserved
+  [PASS] 1.5 named ranges preserved
+  [PASS] 1.6 ZERO formula differences - []
+  [PASS] 1.7 only START HERE (1) and QB VALUES (17) changed - {'START HERE': 1, 'QB VALUES': 17}
+  [PASS] 1.8 total changed cells = 18 - 18
+  [PASS] 1.9 exactly the 3 approved QB rows were touched - touched=[35, 74, 80] expected=[35, 74, 80]
+
+2. THE FOUR APPROVED ZEROS — AND NO OTHERS
+  [PASS] 2.1 exactly 4 zeros written on the 2 activated rows - 4 [('RUTG', 'D'), ('RUTG', 'F'), ('WSU', 'D'), ('WSU', 'F')]
+  [PASS] 2.2 ZERO nonzero QB values anywhere in the workbook - []
+  [PASS] 2.3 total zeros = 220 = 2 x 110 OK rows (was 216 = 2 x 108 in v0.8.5, so +4) - zeros=220 ok_rows=110
+  [PASS] 2.x RUTG r35: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+  [PASS] 2.x WSU r80: D=0 and F=0, so G = F - D = 0 exactly - D=0 F=0
+
+3. PROTECTED CELLS
+  [PASS] 3.x RUTG r35: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x WSU r80: G and M still formulas, J still 2026 - G=True M=True J=2026
+  [PASS] 3.x CSU r74: G and M still formulas, J still 2026 - G=True M=True J=2026
+
+4. CENSUSES
+  [PASS] 4.1 QB status census = 110 OK / 28 UNCERTAIN - {'OK': 110, 'UNCERTAIN': 28}
+  [PASS] 4.2 confidence census = 73 H / 40 M / 25 L - {'H': 73, 'L': 25, 'M': 40}
+  [PASS] 4.3 census totals 138 - 138
+  [PASS] 4.4 banner states v0.8.6 AUTHORITATIVE
+  [PASS] 4.5 banner census reads 73 H / 40 M / 25 L
+  [PASS] 4.6 banner carries no stale v0.8.5 identifier
+
+5. PER-ROW OUTCOMES
+  [PASS] 5.x RUTG activated: M, Dylan Lonergan, G=0, status OK - H=M C=Dylan Lonergan E=Dylan Lonergan G=0 status=OK
+  [PASS] 5.x WSU activated: H, Caden Pinnick, G=0, status OK - H=H C=Caden Pinnick E=Caden Pinnick G=0 status=OK
+  [PASS] 5.3 C80 was ALREADY 'Caden Pinnick' in v0.8.5 and is unchanged here - before='Caden Pinnick' after='Caden Pinnick'
+  [PASS] 5.4 Rutgers baseline QB C35 was blank in v0.8.5 and is now populated
+  [PASS] 5.5 Colorado State field standardised, still L / UNCERTAIN, values blank - E=Hauss Hejny vs. K'saan Farrar H=L status=UNCERTAIN
+  [PASS] 5.6 the prior Colorado State note is retained verbatim, only appended to
+
+5b. DARIUS CURRY MUST APPEAR NOWHERE
+  [PASS] 5.7 Darius Curry appears nowhere in the workbook - []
+
+5c. BASELINE-QB INVARIANT
+  [PASS] 5.8 all 110 OK rows carry a populated baseline QB in column C - []
+
+6. ROWS THAT MUST NOT HAVE MOVED
+  [PASS] 6.x TTU r52 completely unchanged from v0.8.5
+  [PASS] 6.x STAN r68 completely unchanged from v0.8.5
+  [PASS] 6.x NIU r123 completely unchanged from v0.8.5
+  [PASS] 6.x TULN r91 completely unchanged from v0.8.5
+  [PASS] 6.x FRES r75 completely unchanged from v0.8.5
+  [PASS] 6.x SYR r69 completely unchanged from v0.8.5
+  [PASS] 6.x ALA r6 completely unchanged from v0.8.5
+  [PASS] 6.x TENN r18 completely unchanged from v0.8.5
+  [PASS] 6.x GASO r131 completely unchanged from v0.8.5
+  [PASS] 6.10 Texas Tech medical gate still held: H, D/F blank, UNCERTAIN
+
+7. MODEL OUTPUTS UNCHANGED
+  [PASS] 7.1 888 games / 761 FBS-v-FBS / 127 FCS-involved / 0 BLOCK - 888/761/127
+  [PASS] 7.x MEM at UNLV model spread unchanged at UNLV -5.6 - UNLV -5.6
+  [PASS] 7.x UNC at TCU model spread unchanged at TCU -4.2 - TCU -4.2
+  [PASS] 7.x NMSU at FSU model spread unchanged at FSU -27.7 - FSU -27.7
+  [PASS] 7.x SJSU at USC model spread unchanged at USC -35.2 - USC -35.2
+  [PASS] 7.x HAW at STAN model spread unchanged at STAN -3.7 - STAN -3.7
+  [PASS] 7.2 every QB delta is 0 or blank, so ENGINE!M contributes nothing - []
+  [PASS] 7.3 RUTG QB delta is exactly 0 - contributes nothing to any game - 0
+  [PASS] 7.3 WSU QB delta is exactly 0 - contributes nothing to any game - 0
+
+8. SETTINGS AND SAFEGUARDS
+  [PASS] 8.1 repository artifact ships with MARKET LINES blank - 0
+  [PASS] 8.2 BET toggle remains N - 'N'
+  [PASS] 8.3 totals remain unavailable (B22/B23 blank)
+  [PASS] 8.4 NDSU remains transitional - row 122
+  [PASS] 8.4 SAC remains transitional - row 114
+  [PASS] 8.5 AUDIT market-line invariant unchanged from v0.8.3 design
+
+==============================================================================
+RESULT: 56 passed, 0 failed
+v0.8.5 SHA-256 (frozen): 0676aa1a05d661ca0d99c917c8dc471c0030128cc42ea8fd1bd2f17dcea767be
+v0.8.6 SHA-256:          bb76901a96a3fa63e14f0cc582891de82846c12fa5f7ce41d182c8addab967f9
+==============================================================================
+
+[exit 0]
+
+==============================================================================
+phase11_week0_dryrun/week0_dryrun.py
+==============================================================================
+==============================================================================
+WEEK 0 FULL-CARD DRY RUN -- v0.8.1 AUTHORITATIVE
+==============================================================================
+  [PASS] workbook is the authoritative v0.8.6  -- bb76901a96a3fa63
+
+  games loaded: 888
+  week 0 games: 8
+
+------------------------------------------------------------------------------
+PART A -- rebuild the Week 0 card and reconcile against the Phase 10 checkpoint
+------------------------------------------------------------------------------
+    UNC @ TCU   neutral=True  model=TCU -4.2       status=DATA INCOMPLETE label=INVESTIGATE
+    HAW @ STAN  neutral=False model=STAN -3.7      status=DATA INCOMPLETE label=-
+   NCST @ UVA   neutral=False model=UVA -5.3       status=PENDING LINE   label=-
+    MEM @ UNLV  neutral=False model=UNLV -5.6      status=PENDING LINE   label=-
+   SJSU @ USC   neutral=False model=USC -35.2      status=PENDING LINE   label=-
+   NMSU @ FSU   neutral=False model=FSU -27.7      status=PENDING LINE   label=-
+   JVST @ NDSU  neutral=False model=NDSU -7.0      status=PENDING LINE   label=-
+    SAC @ EMU   neutral=False model=EMU -4.8       status=PENDING LINE   label=-
+  [PASS] Week 0 card has the same 8 games as the checkpoint  -- rebuilt=8 checkpoint=8
+  [PASS] rebuilt card reproduces the Phase 10 checkpoint (model spreads, edges, sides and labels are hard gates)
+
+  NOTE - 2 declared status drift(s); the checkpoint is preserved, not rewritten:
+    * UNC @ TCU: QB UNCERTAIN -> DATA INCOMPLETE (UNC activated 2026-08-19 (Billy Edwards Jr., M); QB gate cleared, status now falls through to DATA INCOMPLETE while B4/B5 are blank)
+    * HAW @ STAN: QB UNCERTAIN -> DATA INCOMPLETE (Stanford activated 2026-08-21 (Davis Warren, H); QB gate cleared, status now falls through to DATA INCOMPLETE while B4/B5 are blank)
+  [PASS] all 2 declared status drifts are still present (a declaration that stops applying must be removed)  -- observed 2
+
+------------------------------------------------------------------------------
+PART B -- operating gates
+------------------------------------------------------------------------------
+  [PASS] 127 FCS games present  -- found 127
+  [PASS] every FCS game is FCS — NO PLAY and none carries a bet label  -- noplay=127/127 labelled=0
+  [PASS] no FCS game produces a playable label  -- 0 labelled
+  [PASS] 761 FBS-v-FBS games  -- 761
+  [PASS] all 11 neutral-site games take HFA = SETTINGS!B7 = 0  -- 0 wrong
+  [PASS] Dublin game (UNC @ TCU, Aviva Stadium) carries neutral HFA = 0  -- neutral=True L=0 venue=Aviva Stadium
+  [PASS] Dublin model margin is TCU -4.2 (pure rating differential)  -- R=4.16
+  [PASS] counterfactual confirms the neutral flag is worth 2.5 pts (would read TCU -6.7)
+  [PASS] 28 teams QB UNCERTAIN  -- 28
+  [PASS] no QB UNCERTAIN game can reach BET  -- 0 leaked
+  [PASS] 1 of 8 Week 0 games carries QB UNCERTAIN  -- 1
+  [PASS] SETTINGS!B5 (as-of date) is blank -- preseason state
+  [PASS] stale threshold B13 = 5 days  -- 5
+  [PASS] STALE LINE count is 0 -- and that is because B5 is blank, not because lines are fresh  -- 0
+  [PASS] home favorite -> market home spread is negative  -- T=-7.0
+  [PASS] edge = model margin + market home spread = 4.2 + (-7.0) = -2.8  -- V=-2.84
+  [PASS] negative edge -> value on the away team  -- W=UNC
+  [PASS] away favorite -> market home spread is positive  -- T=3.0
+  [PASS] away-favorite edge = 4.2 + 3.0 = 7.2  -- V=7.16
+  [PASS] positive edge -> value on the home team  -- W=TCU
+  [PASS] BET toggle SETTINGS!B11 = N  -- N
+  [PASS] no game anywhere on the card can produce BET while the toggle is N  -- 0
+  [PASS] even with the toggle Y and a 7.8-pt edge, QB UNCERTAIN still forces INVESTIGATE  -- edge=-7.8 status=DATA INCOMPLETE label=INVESTIGATE
+  [PASS] SETTINGS!B22 (league avg total) blank -- totals disabled
+  [PASS] SETTINGS!B23 (total EPA scale) blank -- totals disabled
+  [PASS] workbook unchanged by this run  -- bb76901a96a3fa63
+
+==============================================================================
+RESULT: 30 passed, 0 failed
+==============================================================================
+
+[exit 0]
+

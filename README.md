@@ -13,15 +13,15 @@ sold — just process.
 
 | | |
 |---|---|
-| **Title** | **TTW College Football Power Ratings — v0.8.5 AUTHORITATIVE** |
+| **Title** | **TTW College Football Power Ratings — v0.8.6 AUTHORITATIVE** |
 | **Status** | APPROVED — current authoritative production workbook |
-| **Release class** | **QB activations** over v0.8.4 — Syracuse, Alabama, Tennessee, Georgia Southern + Fresno State correction; zero formula and zero model-output changes |
-| **File** | [`promotion_v0.8.5/TTW_College_Football_Power_Ratings_v0.8.5_AUTHORITATIVE.xlsx`](promotion_v0.8.5/) |
-| **SHA-256** | `0676aa1a05d661ca0d99c917c8dc471c0030128cc42ea8fd1bd2f17dcea767be` |
-| **Supersedes** | v0.8.4 `ed5d3b3d…a892` — **frozen, unmodified** (v0.8.3, v0.8.2, v0.8.1 also frozen) |
+| **Release class** | **QB activations** over v0.8.5 — Rutgers (M) and Washington State (L→H) + Colorado State candidate-field correction; zero formula and zero model-output changes |
+| **File** | [`promotion_v0.8.6/TTW_College_Football_Power_Ratings_v0.8.6_AUTHORITATIVE.xlsx`](promotion_v0.8.6/) |
+| **SHA-256** | `bb76901a96a3fa63e14f0cc582891de82846c12fa5f7ce41d182c8addab967f9` |
+| **Supersedes** | v0.8.5 `0676aa1a…67be` — **frozen, unmodified** (v0.8.4, v0.8.3, v0.8.2, v0.8.1 also frozen) |
 | **Promotion date** | 2026-08-18 (v0.8.3, and v0.8.2 earlier the same day) · 2026-08-04 (v0.8.0 → v0.8.1) |
 | **Native Google Sheet** | **IMPORTED AND LIVE** — production master [`1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA`](https://docs.google.com/spreadsheets/d/1w2cATBNYFtFXU32xw8_3btbFAtaqhdSx5HQxiFPnWmA) *(the sheet carries v0.8.1; the v0.8.2 NMSU change is applied there separately by the owner)* |
-| **Certificates** | [Promotion (v0.8.5)](promotion_v0.8.5/README.md) · [Promotion (v0.8.4)](promotion_v0.8.4/README.md) · [Promotion (v0.8.3)](promotion_v0.8.3/README.md) · [Promotion (v0.8.2)](promotion_v0.8.2/README.md) · [Maintenance (v0.8.1)](promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md) · [Promotion (v0.8.0)](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
+| **Certificates** | [Promotion (v0.8.6)](promotion_v0.8.6/README.md) · [Promotion (v0.8.5)](promotion_v0.8.5/README.md) · [Promotion (v0.8.4)](promotion_v0.8.4/README.md) · [Promotion (v0.8.3)](promotion_v0.8.3/README.md) · [Promotion (v0.8.2)](promotion_v0.8.2/README.md) · [Maintenance (v0.8.1)](promotion_v0.8.1/MAINTENANCE_CERTIFICATE.md) · [Promotion (v0.8.0)](promotion_v0.8.0/PROMOTION_CERTIFICATE.md) |
 
 **v0.8.1** corrects the `START HERE` banner, which still declared the workbook
 *"NOT AUTHORITATIVE, NOT PROMOTED"* and cited 74 Tier-1 records instead of 73.
