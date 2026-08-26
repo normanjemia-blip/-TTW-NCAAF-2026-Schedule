@@ -1,0 +1,274 @@
+==============================================================================
+promotion_v0.8.8/verify_v088.py
+==============================================================================
+==============================================================================
+v0.8.8 PROMOTION CERTIFICATE — schedule dates + one banner cell
+==============================================================================
+  v0.8.7 SHA-256: 46671deeaaa94d98c63cb32d0e94af9907e76e7e2638de431b918987df2e15cd
+  v0.8.8 SHA-256: b2a920feddc0f49f0647957334db0ecd0e922fe6a3933fc6a11af31587b56450
+
+0. PREDECESSOR
+  [PASS] 0.1 v0.8.7 retains its frozen SHA-256 - 46671deeaaa94d98
+  [PASS] 0.2 v0.8.8 differs from v0.8.7
+  [PASS] 0.3 21 sheets, identical names and order
+  [PASS] 0.4 sheet visibility preserved
+  [PASS] 0.5 named ranges preserved
+
+1-2-6. SCOPE: 133 SCHEDULE CELLS + 1 BANNER, NO FORMULA CHANGE
+  [PASS] 6.1 ZERO formula differences - []
+  [PASS] 1.1 exactly 134 cells changed: 133 schedule + 1 banner - 134
+  [PASS] 1.2 only IMPORT SCHEDULE (133) and START HERE (1) changed - {'START HERE': 1, 'IMPORT SCHEDULE': 133}
+  [PASS] 2.1 every schedule change is in column D (start_date) - [4]
+  [PASS] 1.3 the single banner cell is START HERE!A1 - ['A1']
+
+1b. THE BANNER EDIT IS THE VERSION TOKEN AND NOTHING ELSE
+  [PASS] 1.4 v0.8.8 banner declares v0.8.8 AUTHORITATIVE
+  [PASS] 1.5 no stale v0.8.7 identifier remains in the banner
+  [PASS] 1.6 reversing the token reproduces the v0.8.7 banner exactly - nothing else moved
+  [PASS] 1.7 banner confidence census still reads 76 H / 43 M / 19 L
+
+3. EVERY SCHEDULE-DATE DELTA IS EXACTLY -1 DAY
+  [PASS] 3.1 every schedule change is exactly -1 day - {-1: 133}
+  [PASS] 3.2 133 rows moved - 133
+  [PASS] 3.3 all 888 dates equal the canonical venue-local rule - []
+
+4. THE 403 PLACEHOLDER-TIME ROWS ARE UNCHANGED
+  [PASS] 4.1 exactly 403 rows carry a placeholder kickoff time - 403
+  [PASS] 4.2 all 403 placeholder-time rows unchanged - []
+  [PASS] 4.3 no newly announced kickoff time was incorporated - the snapshot still reports 403 awaiting re-derivation
+
+5. EVENT IDS
+  [PASS] 5.1 all 888 event ids present and UNIQUE - n=888 unique=888
+  [PASS] 5.2 id column byte-identical to v0.8.7
+  [PASS] 5.x column season byte-identical
+  [PASS] 5.x column week byte-identical
+  [PASS] 5.x column neutral_site byte-identical
+  [PASS] 5.x column away_team byte-identical
+  [PASS] 5.x column home_team byte-identical
+  [PASS] 5.x column venue byte-identical
+  [PASS] 5.x column notes byte-identical
+
+7. WEEKS AND THE WEEK 0 BOUNDARY
+  [PASS] 7.1 week distribution identical - no game changes week - 15 weeks
+  [PASS] 7.2 zero games cross the Week 0 boundary - 0
+  [PASS] 7.3 Week 0 still holds exactly 8 games - 8
+  [PASS] 7.4 Week 0 is a single Saturday, 2026-08-29 - ['2026-08-29']
+
+8-9. THE HEADLINE DATES
+  [PASS] 8.1 Memphis at UNLV is Saturday 2026-08-29 - [('2026-08-30', '2026-08-29')]
+  [PASS] 9.1 Sunday games are 3 (were 70 in v0.8.7) - before=70 after=3
+  [PASS] 9.2 the three genuine Sunday games remain Sunday 2026-09-06 - [('Louisville Cardinals', 'Ole Miss Rebels', '2026-09-06'), ('Washington State Cougars', 'Washington Huskies', '2026-09-06'), ('Wisconsin Badgers', 'Notre Dame Fighting Irish', '2026-09-06')]
+
+10-13. QB STATE — NOTHING MOVED
+  [PASS] 10.1 QB status census remains 117 OK / 21 UNCERTAIN - {'OK': 117, 'UNCERTAIN': 21}
+  [PASS] 11.1 confidence census remains 76 H / 43 M / 19 L - {'H': 76, 'M': 43, 'L': 19}
+  [PASS] 12.1 QB zero count remains 234 - 234
+  [PASS] 12.2 still zero nonzero QB values - []
+  [PASS] 13.1 the ENTIRE QB VALUES sheet is byte-identical to v0.8.7 - no QB value or status changed
+
+14-15. MODEL OUTPUTS
+  [PASS] 15.1 888 games / 761 FBS-v-FBS / 127 FCS-involved - 888/761/127
+  [PASS] 14.x MEM at UNLV spread unchanged at UNLV -5.6 - UNLV -5.6
+  [PASS] 14.x UNC at TCU spread unchanged at TCU -4.2 - TCU -4.2
+  [PASS] 14.x NMSU at FSU spread unchanged at FSU -27.7 - FSU -27.7
+  [PASS] 14.x SJSU at USC spread unchanged at USC -35.2 - USC -35.2
+  [PASS] 14.x HAW at STAN spread unchanged at STAN -3.7 - STAN -3.7
+
+15b. NO EDGE, SIDE, LABEL OR GATE CAN MOVE
+  [PASS] 15.2 CALC - which drives every gate, edge and side - touches NO date column - 0
+  [PASS] 15.3 no TODAY() anywhere - no date-relative drift - 0
+  [PASS] 15.4 MARKET LINES still blank - no line, edge, side or label can move - 0
+  [PASS] 15.5 QB gate population unchanged - 21 rows still UNCERTAIN - 21
+  [PASS] 15.6 BET toggle remains N
+  [PASS] 15.7 totals remain unavailable (B22/B23 blank)
+  [PASS] 15.8 AUDIT market-line invariant unchanged
+
+16-17. IDEMPOTENCE AND THE REGRESSION GUARD
+  [PASS] 16.1 the date rule is idempotent - re-applying to v0.8.8 changes nothing - []
+  [PASS] 16.2 refresh guard PASSES on v0.8.8
+  [PASS] 17.1 refresh guard detects all 133 predecessor UTC-date defects in v0.8.7 - guard flagged 133
+
+18-19. POINTERS AND THE SUPERSEDED CANDIDATE
+  [PASS] 18.1 manifest current_version is v0.8.8 - v0.8.8
+  [PASS] 18.2 manifest current sha256 is the final v0.8.8 workbook
+  [PASS] 18.3 manifest current_authoritative points at the v0.8.8 workbook
+  [PASS] 18.4 manifest records v0.8.7 as the frozen predecessor with its exact SHA
+  [PASS] 18.5 rollback hashes preserved and correct
+  [PASS] 18.6 README production pointer names v0.8.8 and its final SHA
+  [PASS] 18.7 policy current-version reference names v0.8.8 and its final SHA
+  [PASS] 18.8 policy still preserves v0.8.7 as frozen with its exact SHA
+  [PASS] 18.9 Week 0 dry run targets the v0.8.8 workbook and SHA
+  [PASS] 19.x README does not reference the superseded SCHED1 candidate as current
+  [PASS] 19.x policy does not reference the superseded SCHED1 candidate as current
+  [PASS] 19.x manifest does not reference the superseded SCHED1 candidate as current
+  [PASS] 19.x week0 dry run does not reference the superseded SCHED1 candidate as current
+  [PASS] 19.5 the superseded candidate file still exists on disk, untouched
+  [PASS] 19.6 the certified candidate is unmodified by this promotion
+
+==============================================================================
+RESULT: 72 passed, 0 failed
+v0.8.7 SHA-256 (frozen): 46671deeaaa94d98c63cb32d0e94af9907e76e7e2638de431b918987df2e15cd
+v0.8.8 SHA-256:          b2a920feddc0f49f0647957334db0ecd0e922fe6a3933fc6a11af31587b56450
+==============================================================================
+
+[exit 0]
+
+==============================================================================
+schedule_candidate_v1/verify_schedule_candidate.py
+==============================================================================
+==============================================================================
+SCHEDULE DATE CANDIDATE — CERTIFICATE (candidate only, not promoted)
+==============================================================================
+
+0. INPUTS
+  snapshot rows: 888
+  [PASS] 0.1 base workbook is byte-identical to authoritative v0.8.7 - 46671deeaaa94d98
+
+1. SCOPE OF CHANGE
+  [PASS] 1.1 ZERO formula differences - []
+  [PASS] 1.2 only IMPORT SCHEDULE changed - {'IMPORT SCHEDULE': 133}
+  [PASS] 1.3 only column D (start_date) changed - [4]
+  [PASS] 1.4 exactly 133 cells changed - 133
+  [PASS] 1.5 21 sheets, names and order preserved
+
+2. IDENTITY COLUMNS UNTOUCHED
+  [PASS] 2.x column id byte-identical
+  [PASS] 2.x column season byte-identical
+  [PASS] 2.x column week byte-identical
+  [PASS] 2.x column neutral_site byte-identical
+  [PASS] 2.x column away_team byte-identical
+  [PASS] 2.x column home_team byte-identical
+  [PASS] 2.x column venue byte-identical
+  [PASS] 2.x column notes byte-identical
+
+3. EVERY CORRECTED DATE EQUALS THE CANONICAL RULE
+  [PASS] 3.1 all 888 candidate dates equal the canonical venue-local date - []
+  [PASS] 3.2 exactly 133 moved, 755 already correct - moved=133 kept=755
+  [PASS] 3.3 every change is exactly -1 day - {-1: 133}
+
+4. KICKOFF INSTANTS AND WEEKS UNCHANGED
+  [PASS] 4.1 no kickoff instant was altered — the workbook stores no kickoff time, only a date; the ESPN instant is the INPUT and is untouched
+  [PASS] 4.2 week distribution identical - 15 weeks
+  [PASS] 4.3 no week's corrected span overlaps the previous week - 0
+  [PASS] 4.4 Week 0 still holds exactly 8 games - 8
+  [PASS] 4.5 Week 0 is now a single Saturday (2026-08-29) - ['2026-08-29']
+
+5. RATINGS AND MODEL OUTPUTS UNCHANGED
+  [PASS] 5.1 888 games / 761 FBS-v-FBS / 127 FCS-involved - 888/761/127
+  [PASS] 5.x MEM at UNLV model spread unchanged at UNLV -5.6 - UNLV -5.6
+  [PASS] 5.x UNC at TCU model spread unchanged at TCU -4.2 - TCU -4.2
+  [PASS] 5.x NMSU at FSU model spread unchanged at FSU -27.7 - FSU -27.7
+  [PASS] 5.x SJSU at USC model spread unchanged at USC -35.2 - USC -35.2
+  [PASS] 5.x HAW at STAN model spread unchanged at STAN -3.7 - STAN -3.7
+
+6. QB STATE UNCHANGED
+  [PASS] 6.1 QB status census still 117 OK / 21 UNCERTAIN - {'OK': 117, 'UNCERTAIN': 21}
+  [PASS] 6.2 confidence census still 76 H / 43 M / 19 L - {'H': 76, 'M': 43, 'L': 19}
+  [PASS] 6.3 still zero nonzero QB values
+  [PASS] 6.4 QB zero count still 234 = 2 x 117 OK rows - 234
+  [PASS] 6.5 QB gate population unchanged - 21 rows still UNCERTAIN - 21
+  [PASS] 6.6 MARKET LINES still blank - no line, edge, side or label can move - 0
+
+6b. PLACEHOLDER-TIME ROWS, EVENT IDS AND SUNDAY COUNTS
+  [PASS] 6.7 exactly 403 rows carry a placeholder kickoff time - 403
+  [PASS] 6.8 all 403 placeholder-time rows are UNCHANGED - []
+  [PASS] 6.9 all 888 event ids present and UNIQUE - n=888 unique=888
+  [PASS] 6.10 stored Sunday games fall from 70 to 3 - before=70 after=3
+  [PASS] 6.11 the three genuine Sunday games remain Sunday 2026-09-06 - [('Louisville Cardinals', 'Ole Miss Rebels', '2026-09-06'), ('Washington State Cougars', 'Washington Huskies', '2026-09-06'), ('Wisconsin Badgers', 'Notre Dame Fighting Irish', '2026-09-06')]
+  [PASS] 6.12 Memphis at UNLV becomes Saturday 2026-08-29 (venue-local) - [('2026-08-30 00:00:00', '2026-08-29 00:00:00')]
+  [PASS] 6.13 zero games cross the Week 0 boundary - 0
+
+7. THE DATE IS DISPLAY-ONLY — PROVEN FROM THE FORMULA GRAPH
+  [PASS] 7.1 the only consumers are CLEAN, ENGINE and DASHBOARD - ['CLEAN', 'DASHBOARD', 'ENGINE']
+  [PASS] 7.2 CALC (which drives every gate) touches NO date column - 0
+  [PASS] 7.3 no TODAY() anywhere, so no date-relative drift - 0
+  [PASS] 7.4 staleness compares the LINE date to SETTINGS!B5, not the game date - =IF(OR($L6="",$P6="",SETTINGS!$B$5=""),0,IF(SETTINGS!$B$5-$P6>SETTINGS!$B$13,1,0
+
+8. IDEMPOTENCE AND THE REFRESH GUARD
+  [PASS] 8.1 refresh guard PASSES on the candidate
+  [PASS] 8.2 refresh guard FAILS on the OLD UTC dates, catching all 133 - guard flagged 133
+  [PASS] 8.2b guard detects all 133 stale UTC dates AS STORED IN v0.8.7 itself - guard flagged 133 against the v0.8.7 workbook
+  [PASS] 8.3 rule is idempotent — re-applying changes nothing - 0
+  [PASS] 8.4 SECOND application of the transformation to the corrected workbook produces ZERO additional changes - []
+  [INFO] 403 rows still await an announced kickoff and must be re-derived later
+
+9. CSV CANDIDATE
+  [PASS] 9.1 same 888 ids, none added or dropped
+  [PASS] 9.2 exactly 133 CSV rows differ - 133
+  [PASS] 9.3 no field other than start_date differs on any row
+
+==============================================================================
+RESULT: 53 passed, 0 failed
+  base v0.8.7 : 46671deeaaa94d98c63cb32d0e94af9907e76e7e2638de431b918987df2e15cd
+  candidate   : 5416ffcb4c07b8e741f24f51b9603ac44c064db943e144618d6ffa372ef62a84
+  STATUS: CANDIDATE ONLY — NOT PROMOTED
+==============================================================================
+
+[exit 0]
+
+==============================================================================
+phase11_week0_dryrun/week0_dryrun.py
+==============================================================================
+==============================================================================
+WEEK 0 FULL-CARD DRY RUN -- v0.8.1 AUTHORITATIVE
+==============================================================================
+  [PASS] workbook is the authoritative v0.8.8  -- b2a920feddc0f49f
+
+  games loaded: 888
+  week 0 games: 8
+
+------------------------------------------------------------------------------
+PART A -- rebuild the Week 0 card and reconcile against the Phase 10 checkpoint
+------------------------------------------------------------------------------
+    UNC @ TCU   neutral=True  model=TCU -4.2       status=DATA INCOMPLETE label=INVESTIGATE
+    HAW @ STAN  neutral=False model=STAN -3.7      status=DATA INCOMPLETE label=-
+   NCST @ UVA   neutral=False model=UVA -5.3       status=PENDING LINE   label=-
+    MEM @ UNLV  neutral=False model=UNLV -5.6      status=PENDING LINE   label=-
+   SJSU @ USC   neutral=False model=USC -35.2      status=PENDING LINE   label=-
+   NMSU @ FSU   neutral=False model=FSU -27.7      status=PENDING LINE   label=-
+   JVST @ NDSU  neutral=False model=NDSU -7.0      status=PENDING LINE   label=-
+    SAC @ EMU   neutral=False model=EMU -4.8       status=PENDING LINE   label=-
+  [PASS] Week 0 card has the same 8 games as the checkpoint  -- rebuilt=8 checkpoint=8
+  [PASS] rebuilt card reproduces the Phase 10 checkpoint (model spreads, edges, sides and labels are hard gates)
+
+  NOTE - 2 declared status drift(s); the checkpoint is preserved, not rewritten:
+    * UNC @ TCU: QB UNCERTAIN -> DATA INCOMPLETE (UNC activated 2026-08-19 (Billy Edwards Jr., M); QB gate cleared, status now falls through to DATA INCOMPLETE while B4/B5 are blank)
+    * HAW @ STAN: QB UNCERTAIN -> DATA INCOMPLETE (Stanford activated 2026-08-21 (Davis Warren, H); QB gate cleared, status now falls through to DATA INCOMPLETE while B4/B5 are blank)
+  [PASS] all 2 declared status drifts are still present (a declaration that stops applying must be removed)  -- observed 2
+
+------------------------------------------------------------------------------
+PART B -- operating gates
+------------------------------------------------------------------------------
+  [PASS] 127 FCS games present  -- found 127
+  [PASS] every FCS game is FCS — NO PLAY and none carries a bet label  -- noplay=127/127 labelled=0
+  [PASS] no FCS game produces a playable label  -- 0 labelled
+  [PASS] 761 FBS-v-FBS games  -- 761
+  [PASS] all 11 neutral-site games take HFA = SETTINGS!B7 = 0  -- 0 wrong
+  [PASS] Dublin game (UNC @ TCU, Aviva Stadium) carries neutral HFA = 0  -- neutral=True L=0 venue=Aviva Stadium
+  [PASS] Dublin model margin is TCU -4.2 (pure rating differential)  -- R=4.16
+  [PASS] counterfactual confirms the neutral flag is worth 2.5 pts (would read TCU -6.7)
+  [PASS] 21 teams QB UNCERTAIN  -- 21
+  [PASS] no QB UNCERTAIN game can reach BET  -- 0 leaked
+  [PASS] 1 of 8 Week 0 games carries QB UNCERTAIN  -- 1
+  [PASS] SETTINGS!B5 (as-of date) is blank -- preseason state
+  [PASS] stale threshold B13 = 5 days  -- 5
+  [PASS] STALE LINE count is 0 -- and that is because B5 is blank, not because lines are fresh  -- 0
+  [PASS] home favorite -> market home spread is negative  -- T=-7.0
+  [PASS] edge = model margin + market home spread = 4.2 + (-7.0) = -2.8  -- V=-2.84
+  [PASS] negative edge -> value on the away team  -- W=UNC
+  [PASS] away favorite -> market home spread is positive  -- T=3.0
+  [PASS] away-favorite edge = 4.2 + 3.0 = 7.2  -- V=7.16
+  [PASS] positive edge -> value on the home team  -- W=TCU
+  [PASS] BET toggle SETTINGS!B11 = N  -- N
+  [PASS] no game anywhere on the card can produce BET while the toggle is N  -- 0
+  [PASS] even with the toggle Y and a 7.8-pt edge, QB UNCERTAIN still forces INVESTIGATE  -- edge=-7.8 status=DATA INCOMPLETE label=INVESTIGATE
+  [PASS] SETTINGS!B22 (league avg total) blank -- totals disabled
+  [PASS] SETTINGS!B23 (total EPA scale) blank -- totals disabled
+  [PASS] workbook unchanged by this run  -- b2a920feddc0f49f
+
+==============================================================================
+RESULT: 30 passed, 0 failed
+==============================================================================
+
+[exit 0]
+
