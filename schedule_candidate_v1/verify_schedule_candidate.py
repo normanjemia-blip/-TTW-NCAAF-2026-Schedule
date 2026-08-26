@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """SCHEDULE DATE CANDIDATE certificate — READ-ONLY. Writes nothing.
 
-Proves the candidate = v0.8.6 + exactly 133 corrected dates in IMPORT SCHEDULE
+Proves the candidate = v0.8.7 + exactly 133 corrected dates in IMPORT SCHEDULE
 column D, and that event ids, kickoff instants, weeks, formulas, ratings, model
 outputs and QB censuses are all unchanged -- and that a refresh cannot
 reintroduce UTC dates.
@@ -19,13 +19,18 @@ sys.path.insert(0, HERE)
 from espn_date_rule import start_date, assert_not_utc_dates, venue_zone  # noqa: E402
 
 UTC = ZoneInfo("UTC")
-BASE = os.path.join(ROOT, "promotion_v0.8.6",
-                    "TTW_College_Football_Power_Ratings_v0.8.6_AUTHORITATIVE.xlsx")
-CAND = os.path.join(HERE, "TTW_College_Football_Power_Ratings_SCHED1_CANDIDATE.xlsx")
+BASE = os.path.join(ROOT, "promotion_v0.8.7",
+                    "TTW_College_Football_Power_Ratings_v0.8.7_AUTHORITATIVE.xlsx")
+CAND = os.path.join(HERE, "TTW_College_Football_Power_Ratings_v0.8.8_SCHEDULE_CANDIDATE.xlsx")
 SNAP = os.path.join(HERE, "espn_kickoff_snapshot.csv")
 OLD_CSV = os.path.join(ROOT, "TTW_2026_Verified_Schedule_ESPN_v1.0.csv")
 NEW_CSV = os.path.join(HERE, "TTW_2026_Verified_Schedule_ESPN_v1.1_LOCALDATES.csv")
-FROZEN_V086 = "bb76901a96a3fa63e14f0cc582891de82846c12fa5f7ce41d182c8addab967f9"
+# Rebased 2026-08-25: base moved from v0.8.6 (bb76901a...67f9) to v0.8.7.
+FROZEN_V087 = "46671deeaaa94d98c63cb32d0e94af9907e76e7e2638de431b918987df2e15cd"
+# QB expectations belong to the BASE version and move with it.
+EXPECT_QB_STATUS = (117, 21)          # was (110, 28) under v0.8.6
+EXPECT_QB_CONF = (76, 43, 19)         # was (73, 40, 25) under v0.8.6
+EXPECT_QB_ZEROS = 234                 # was 220 under v0.8.6  (2 x OK rows)
 
 PASS, FAIL = [], []
 
@@ -63,7 +68,8 @@ def main():
 
     snap = {r["id"]: r for r in csv.DictReader(io.open(SNAP, encoding="utf-8"))}
     print(f"\n0. INPUTS\n  snapshot rows: {len(snap)}")
-    chk("0.1 base v0.8.6 retains its frozen SHA-256", sha256(BASE) == FROZEN_V086)
+    chk("0.1 base workbook is byte-identical to authoritative v0.8.7",
+        sha256(BASE) == FROZEN_V087, sha256(BASE)[:16])
 
     a = openpyxl.load_workbook(BASE)
     b = openpyxl.load_workbook(CAND)
@@ -218,12 +224,93 @@ def main():
         G = "" if (D is None or F is None) else F - D
         codes[H] += 1
         sts["UNCERTAIN" if (G == "" or H == "L" or J != 2026) else "OK"] += 1
-    chk("6.1 QB status census still 110 OK / 28 UNCERTAIN",
-        (sts["OK"], sts["UNCERTAIN"]) == (110, 28), str(dict(sts)))
-    chk("6.2 confidence census still 73 H / 40 M / 25 L",
-        (codes["H"], codes["M"], codes["L"]) == (73, 40, 25), str(dict(codes)))
+    chk(f"6.1 QB status census still {EXPECT_QB_STATUS[0]} OK / {EXPECT_QB_STATUS[1]} UNCERTAIN",
+        (sts["OK"], sts["UNCERTAIN"]) == EXPECT_QB_STATUS, str(dict(sts)))
+    chk(f"6.2 confidence census still {EXPECT_QB_CONF[0]} H / {EXPECT_QB_CONF[1]} M / "
+        f"{EXPECT_QB_CONF[2]} L",
+        (codes["H"], codes["M"], codes["L"]) == EXPECT_QB_CONF, str(dict(codes)))
     chk("6.3 still zero nonzero QB values",
         all(d in ("", 0) for d in delta.values()))
+    qb_zeros = sum(1 for r in range(6, 144) if tm.cell(row=r, column=1).value
+                   for c in (4, 6) if qb.cell(row=r, column=c).value == 0)
+    chk(f"6.4 QB zero count still {EXPECT_QB_ZEROS} = 2 x {EXPECT_QB_STATUS[0]} OK rows",
+        qb_zeros == EXPECT_QB_ZEROS, str(qb_zeros))
+    gated = [r for r in range(6, 144) if tm.cell(row=r, column=1).value
+             and (qb.cell(row=r, column=4).value is None or qb.cell(row=r, column=6).value is None
+                  or qb.cell(row=r, column=8).value == "L"
+                  or qb.cell(row=r, column=10).value != 2026)]
+    chk("6.5 QB gate population unchanged - 21 rows still UNCERTAIN",
+        len(gated) == EXPECT_QB_STATUS[1], str(len(gated)))
+    mlines = sum(1 for r in range(6, 1006)
+                 if b["MARKET LINES"].cell(row=r, column=1).value is not None
+                 or b["MARKET LINES"].cell(row=r, column=4).value is not None)
+    chk("6.6 MARKET LINES still blank - no line, edge, side or label can move",
+        mlines == 0, str(mlines))
+
+    print("\n6b. PLACEHOLDER-TIME ROWS, EVENT IDS AND SUNDAY COUNTS")
+    # 403 rows whose kickoff time is still a placeholder must be byte-identical.
+    placeholders = [gid for gid, s_ in snap.items() if s_["time_valid"] != "True"]
+    chk("6.7 exactly 403 rows carry a placeholder kickoff time", len(placeholders) == 403,
+        str(len(placeholders)))
+    ph = set(placeholders)
+    moved_ph = []
+    for r in range(6, 900):
+        gid = sa.cell(row=r, column=1).value
+        if gid is None or str(gid) not in ph:
+            continue
+        if sa.cell(row=r, column=4).value != sb.cell(row=r, column=4).value:
+            moved_ph.append(str(gid))
+    chk("6.8 all 403 placeholder-time rows are UNCHANGED", not moved_ph, str(moved_ph[:5]))
+
+    ids = [str(sb.cell(row=r, column=1).value) for r in range(6, 900)
+           if sb.cell(row=r, column=1).value is not None]
+    chk("6.9 all 888 event ids present and UNIQUE",
+        len(ids) == 888 and len(set(ids)) == 888, f"n={len(ids)} unique={len(set(ids))}")
+
+    def sundays(ws):
+        n = 0
+        for r in range(6, 900):
+            if ws.cell(row=r, column=1).value is None:
+                continue
+            d = ws.cell(row=r, column=4).value
+            if d is not None and d.weekday() == 6:
+                n += 1
+        return n
+    chk("6.10 stored Sunday games fall from 70 to 3",
+        sundays(sa) == 70 and sundays(sb) == 3, f"before={sundays(sa)} after={sundays(sb)}")
+
+    genuine_rows = []
+    for r in range(6, 900):
+        if sb.cell(row=r, column=1).value is None:
+            continue
+        d = sb.cell(row=r, column=4).value
+        if d is not None and d.weekday() == 6:
+            genuine_rows.append((sb.cell(row=r, column=6).value, sb.cell(row=r, column=8).value,
+                                 d.date().isoformat()))
+    want_genuine = {("Louisville Cardinals", "Ole Miss Rebels", "2026-09-06"),
+                    ("Washington State Cougars", "Washington Huskies", "2026-09-06"),
+                    ("Wisconsin Badgers", "Notre Dame Fighting Irish", "2026-09-06")}
+    chk("6.11 the three genuine Sunday games remain Sunday 2026-09-06",
+        set(genuine_rows) == want_genuine, str(sorted(genuine_rows)))
+
+    memunlv = [(sa.cell(row=r, column=4).value, sb.cell(row=r, column=4).value)
+               for r in range(6, 900) if str(sb.cell(row=r, column=1).value) == "401862693"]
+    chk("6.12 Memphis at UNLV becomes Saturday 2026-08-29 (venue-local)",
+        len(memunlv) == 1
+        and memunlv[0][0].date() == datetime.date(2026, 8, 30)
+        and memunlv[0][1].date() == datetime.date(2026, 8, 29)
+        and memunlv[0][1].weekday() == 5,
+        str([(str(x), str(y)) for x, y in memunlv]))
+
+    W0_END = datetime.date(2026, 9, 2)
+    crossed = 0
+    for r in range(6, 900):
+        if sa.cell(row=r, column=1).value is None:
+            continue
+        x = sa.cell(row=r, column=4).value.date(); y = sb.cell(row=r, column=4).value.date()
+        if (x <= W0_END) != (y <= W0_END):
+            crossed += 1
+    chk("6.13 zero games cross the Week 0 boundary", crossed == 0, str(crossed))
 
     print("\n7. THE DATE IS DISPLAY-ONLY — PROVEN FROM THE FORMULA GRAPH")
     def txt(v):
@@ -271,6 +358,20 @@ def main():
                              kickoff_utc=kick, address=addr, time_valid=tv))
         recs_old.append(dict(id=gid, stored_date=datetime.date.fromisoformat(s["stored_start_date"]),
                              kickoff_utc=kick, address=addr, time_valid=tv))
+    # Requirement: the guard must catch the OLD dates AS THEY STAND IN v0.8.7 -- read them
+    # from the authoritative base workbook itself, not from the snapshot's copy.
+    recs_v087 = []
+    for r in range(6, 900):
+        gid = sa.cell(row=r, column=1).value
+        if gid is None:
+            continue
+        s_ = snap[str(gid)]
+        kick = datetime.datetime.strptime(s_["espn_kickoff_utc"], "%Y-%m-%dT%H:%MZ").replace(tzinfo=UTC)
+        recs_v087.append(dict(
+            id=str(gid), stored_date=sa.cell(row=r, column=4).value.date(), kickoff_utc=kick,
+            address=dict(city=s_["venue_city"], state=s_["venue_state"],
+                         country=s_["venue_country"] or "USA"),
+            time_valid=s_["time_valid"] == "True"))
     ok_new = True
     try:
         assert_not_utc_dates(recs_new)
@@ -284,6 +385,13 @@ def main():
         caught = int(str(e).split()[0])
     chk("8.2 refresh guard FAILS on the OLD UTC dates, catching all 133",
         caught == 133, f"guard flagged {caught}")
+    caught87 = 0
+    try:
+        assert_not_utc_dates(recs_v087)
+    except AssertionError as e:
+        caught87 = int(str(e).split()[0])
+    chk("8.2b guard detects all 133 stale UTC dates AS STORED IN v0.8.7 itself",
+        caught87 == 133, f"guard flagged {caught87} against the v0.8.7 workbook")
     reapply = sum(1 for s in snap.values()
                   if start_date(datetime.datetime.strptime(s["espn_kickoff_utc"], "%Y-%m-%dT%H:%MZ")
                                 .replace(tzinfo=UTC),
@@ -292,6 +400,22 @@ def main():
                                 s["time_valid"] == "True")
                   != datetime.date.fromisoformat(s["canonical_start_date"]))
     chk("8.3 rule is idempotent — re-applying changes nothing", reapply == 0, str(reapply))
+    second_pass = []
+    for r in range(6, 900):
+        gid = sb.cell(row=r, column=1).value
+        if gid is None:
+            continue
+        s_ = snap[str(gid)]
+        kick = datetime.datetime.strptime(s_["espn_kickoff_utc"], "%Y-%m-%dT%H:%MZ").replace(tzinfo=UTC)
+        addr = dict(city=s_["venue_city"], state=s_["venue_state"],
+                    country=s_["venue_country"] or "USA")
+        again = start_date(kick, addr, s_["time_valid"] == "True")
+        have = sb.cell(row=r, column=4).value.date()
+        if again != have:
+            second_pass.append((str(gid), str(have), str(again)))
+    chk("8.4 SECOND application of the transformation to the corrected workbook "
+        "produces ZERO additional changes", not second_pass, str(second_pass[:5]))
+
     pend = sum(1 for s in snap.values() if s["needs_rederivation"] == "True")
     print(f"  [INFO] {pend} rows still await an announced kickoff and must be re-derived later")
 
@@ -308,7 +432,7 @@ def main():
 
     print("\n" + "=" * 78)
     print(f"RESULT: {len(PASS)} passed, {len(FAIL)} failed")
-    print(f"  base v0.8.6 : {sha256(BASE)}")
+    print(f"  base v0.8.7 : {sha256(BASE)}")
     print(f"  candidate   : {sha256(CAND)}")
     print("  STATUS: CANDIDATE ONLY — NOT PROMOTED")
     print("=" * 78)

@@ -8,14 +8,18 @@ Produces, from the frozen v0.8.6 production workbook and the ESPN event record:
                               reproducible without re-fetching ESPN
   TTW_2026_Verified_Schedule_ESPN_v1.1_LOCALDATES.csv
                               the corrected schedule file
-  TTW_College_Football_Power_Ratings_SCHED1_CANDIDATE.xlsx
-                              v0.8.6 with IMPORT SCHEDULE column D corrected
+  TTW_College_Football_Power_Ratings_v0.8.8_SCHEDULE_CANDIDATE.xlsx
+                              v0.8.7 with IMPORT SCHEDULE column D corrected
                               and NOTHING else touched
 
 THIS CANDIDATE IS DELIBERATELY INDEPENDENT OF THE QB PROMOTION CHAIN.
-It is built from v0.8.6 today. When a QB version is promoted, rebase by
+It is now rebased onto v0.8.7. When a further QB version is promoted, rebase by
 re-running this script with --source pointing at that workbook; the date
-correction is orthogonal and will apply unchanged.
+correction is orthogonal and applies unchanged.
+
+REBASE HISTORY
+  built on v0.8.6 (bb76901a...67f9)  2026-08-25
+  rebased  on v0.8.7 (46671dee...15cd) 2026-08-25 -- same 133 cells, unchanged
 
 Run:  python3 schedule_candidate_v1/build_schedule_candidate.py
 """
@@ -32,8 +36,8 @@ SRC_CSV = os.path.join(ROOT, "TTW_2026_Verified_Schedule_ESPN_v1.0.csv")
 OUT_CSV = os.path.join(HERE, "TTW_2026_Verified_Schedule_ESPN_v1.1_LOCALDATES.csv")
 SNAP = os.path.join(HERE, "espn_kickoff_snapshot.csv")
 DEFAULT_SRC_XLSX = os.path.join(
-    ROOT, "promotion_v0.8.6", "TTW_College_Football_Power_Ratings_v0.8.6_AUTHORITATIVE.xlsx")
-OUT_XLSX = os.path.join(HERE, "TTW_College_Football_Power_Ratings_SCHED1_CANDIDATE.xlsx")
+    ROOT, "promotion_v0.8.7", "TTW_College_Football_Power_Ratings_v0.8.7_AUTHORITATIVE.xlsx")
+OUT_XLSX = os.path.join(HERE, "TTW_College_Football_Power_Ratings_v0.8.8_SCHEDULE_CANDIDATE.xlsx")
 CACHE = os.environ.get("ESPN_CACHE", os.path.join(
     "/tmp/claude-0/-home-user--TTW-NCAAF-2026-Schedule",
     "93f60580-cc70-5bb0-a25b-86aea5198243/scratchpad/espn"))

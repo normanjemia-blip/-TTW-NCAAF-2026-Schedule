@@ -1,4 +1,8 @@
-# SCHEDULE DATE CANDIDATE v1 — **CANDIDATE ONLY, NOT PROMOTED**
+# SCHEDULE DATE CANDIDATE — **CANDIDATE ONLY, NOT PROMOTED**
+
+> **REBASED 2026-08-25 onto v0.8.7.** Current candidate, certificate results and
+> approval detail: **`V088_SCHEDULE_CANDIDATE_APPROVAL.md`**. The figures below that
+> reference v0.8.6 describe the ORIGINAL build and are retained as history.
 
 **Built:** 2026-08-25 · **Base:** v0.8.6 AUTHORITATIVE, frozen at `c6bc5f8`
 **Certificate:** `verify_schedule_candidate.py` — **41 passed, 0 failed**
