@@ -1,0 +1,30 @@
+PASS  AI: all 1000 rows (6:1005) match the new template exactly  []
+PASS  AJ: all 1000 rows (6:1005) match the new template exactly  []
+PASS  AB: all 1000 rows (6:1005) match the new template exactly  []
+PASS  AC: all 1000 rows (6:1005) match the new template exactly  []
+
+Diff counts (v0.5.1 vs v0.4.2): {'START HERE': 2, 'ENGINE': 2000, 'DATA QUALITY': 6, 'SETTINGS': 1, 'FCS TIERS': 2, 'CLEAN': 2000, 'DICTIONARY': 3, 'CHANGELOG': 36}
+PASS  Exactly 4000 formula cells changed (1000 rows x AI/AJ/AB/AC)  4000
+PASS  All formula diffs confined to ENGINE and CLEAN  []
+PASS  Diff touches only expected sheets  set()
+PASS  ENGINE diff == 2000 (AI+AJ x 1000 rows)  2000
+PASS  CLEAN diff == 2000 (AB+AC x 1000 rows)  2000
+PASS  FCS TIERS diff == 2 (A1 + A2 banner text only, no data)  2
+PASS  SETTINGS diff == 1 (C21 comment only)  1
+PASS  FCS TIERS carries zero rating/tier data (fully inactive)  []
+PASS  FCS TIERS!A1 marked INACTIVE  FCS FRAMEWORK — INACTIVE / NOT USED (as of v0.5.1)
+PASS  PRESEASON TTW (L,N,O) fully blank  []
+PASS  PRESEASON VSiN (U,V,W) fully blank  []
+PASS  QB VALUES manual-input columns fully blank (0 of 138 loaded)  []
+PASS  MARKET LINES manual-input columns fully blank  []
+PASS  SAC still FBS-RECLASSIFYING (TEAM MAP D114)
+PASS  NDSU still FBS-RECLASSIFYING (TEAM MAP D122)
+PASS  SAC still Transitional=Y (TEAM MAP E114)
+PASS  NDSU still Transitional=Y (TEAM MAP E122)
+PASS  TEAM RATINGS!X114 (SAC review-cleared) still blank
+PASS  TEAM RATINGS!X122 (NDSU review-cleared) still blank
+PASS  IMPORT SCHEDULE 888 game ids intact
+PASS  CHANGELOG has >=1 v0.5.1 entry  9
+PASS  CHANGELOG v0.5 entries NOT present (v0.5.1 built from v0.4.2, not v0.5)  ['v0.2', 'v0.2.1', 'v0.2.2', 'v0.3', 'v0.3.1', 'v0.4', 'v0.4.1', 'v0.4.2', 'v0.5.1']
+
+ALL CHECKS PASSED

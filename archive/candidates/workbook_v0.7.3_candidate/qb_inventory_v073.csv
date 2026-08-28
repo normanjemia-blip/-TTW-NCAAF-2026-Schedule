@@ -1,0 +1,139 @@
+row,abbrev,team,conference,active_qb,confidence,baseline_value,active_value,last_update,tier1,verification_status
+6,ALA,Alabama,SEC,Keelon Russell,L,,,2026-07-21,True,verified 7A-7D
+7,ARK,Arkansas,SEC,KJ Jackson,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+8,AUB,Auburn,SEC,Byrum Brown,M,0,0,2026-07-21,True,verified 7A-7D
+9,FLA,Florida,SEC,Aaron Philo,L,,,2026-07-21,True,verified 7A-7D
+10,UGA,Georgia,SEC,Gunner Stockton,H,0,0,2026-07-21,False,"H-coded, tier 2"
+11,UK,Kentucky,SEC,Kenny Minchey,M,0,0,2026-07-21,True,verified 7A-7D
+12,LSU,LSU,SEC,Sam Leavitt,H,0,0,2026-07-21,False,verified 7A-7D
+13,MSST,Mississippi State,SEC,Kamario Taylor,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+14,MIZ,Missouri,SEC,Austin Simmons,M,0,0,2026-07-21,True,verified 7A-7D
+15,OU,Oklahoma,SEC,John Mateer,H,0,0,2026-07-21,False,"H-coded, tier 2"
+16,MISS,Ole Miss,SEC,Trinidad Chambliss,H,0,0,2026-07-21,False,verified 7A-7D
+17,SCAR,South Carolina,SEC,LaNorris Sellers,H,0,0,2026-07-21,False,verified 7A-7D
+18,TENN,Tennessee,SEC,Faizon Brandon,L,,,2026-07-21,True,verified 7A-7D
+19,TEX,Texas,SEC,Arch Manning,H,0,0,2026-07-21,False,"H-coded, tier 2"
+20,TAMU,Texas A&M,SEC,Marcel Reed,H,0,0,2026-07-21,False,"H-coded, tier 2"
+21,VAN,Vanderbilt,SEC,Jared Curtis,L,,,2026-07-21,True,verified 7A-7D
+22,ILL,Illinois,Big Ten,Katin Houser,H,0,0,2026-07-21,False,"H-coded, tier 2"
+23,IND,Indiana,Big Ten,Josh Hoover,H,0,0,2026-07-21,False,verified 7A-7D
+24,IOWA,Iowa,Big Ten,Jeremy Hecklinski,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+25,MD,Maryland,Big Ten,Malik Washington,H,0,0,2026-07-21,False,"H-coded, tier 2"
+26,MICH,Michigan,Big Ten,Bryce Underwood,H,0,0,2026-07-21,False,verified 7A-7D
+27,MSU,Michigan State,Big Ten,Alessio Milivojevic,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+28,MINN,Minnesota,Big Ten,Drake Lindsey,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+29,NEB,Nebraska,Big Ten,Anthony Colandrea,L,,,2026-07-21,True,verified 7A-7D
+30,NW,Northwestern,Big Ten,Aidan Chiles,H,0,0,2026-07-21,False,"H-coded, tier 2"
+31,OHST,Ohio State,Big Ten,Julian Sayin,H,0,0,2026-07-21,False,"H-coded, tier 2"
+32,ORE,Oregon,Big Ten,Dante Moore,H,0,0,2026-07-21,False,"H-coded, tier 2"
+33,PSU,Penn State,Big Ten,Rocco Becht,H,0,0,2026-07-21,False,verified 7A-7D
+34,PUR,Purdue,Big Ten,Ryan Browne,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+35,RUTG,Rutgers,Big Ten,Dylan Lonergan,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+36,UCLA,UCLA,Big Ten,Nico Iamaleava,H,0,0,2026-07-21,False,"H-coded, tier 2"
+37,USC,USC,Big Ten,Jayden Maiava,H,0,0,2026-07-21,False,"H-coded, tier 2"
+38,WASH,Washington,Big Ten,Demond Williams Jr.,H,0,0,2026-07-21,False,"H-coded, tier 2"
+39,WISC,Wisconsin,Big Ten,Colton Joseph,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+40,ARIZ,Arizona,Big 12,Noah Fifita,H,0,0,2026-07-21,False,"H-coded, tier 2"
+41,AZST,Arizona State,Big 12,Cutter Boley,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+42,BAY,Baylor,Big 12,DJ Lagway,H,0,0,2026-07-21,False,"H-coded, tier 2"
+43,BYU,BYU,Big 12,Bear Bachmeier,H,0,0,2026-07-21,False,"H-coded, tier 2"
+44,CIN,Cincinnati,Big 12,JC French IV,H,0,0,2026-07-21,False,"H-coded, tier 2"
+45,COLO,Colorado,Big 12,Julian Lewis,H,0,0,2026-07-21,False,"H-coded, tier 2"
+46,HOU,Houston,Big 12,Conner Weigman,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+47,ISU,Iowa State,Big 12,Jaylen Raynor,H,0,0,2026-07-21,False,"H-coded, tier 2"
+48,KAN,Kansas,Big 12,Cole Ballard,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+49,KSU,Kansas State,Big 12,Avery Johnson,H,0,0,2026-07-21,False,"H-coded, tier 2"
+50,OKST,Oklahoma State,Big 12,Drew Mestemaker,H,0,0,2026-07-21,False,"H-coded, tier 2"
+51,TCU,TCU,Big 12,Jaden Craig,H,0,0,2026-07-21,False,"H-coded, tier 2"
+52,TTU,Texas Tech,Big 12,Will Hammond,M,,,2026-08-03,True,FRESH 2026-08-03
+53,UCF,UCF,Big 12,Alonza Barnett III,H,0,0,2026-07-21,False,"H-coded, tier 2"
+54,UTAH,Utah,Big 12,Devon Dampier,H,0,0,2026-07-21,False,"H-coded, tier 2"
+55,WVU,West Virginia,Big 12,Michael Hawkins Jr.,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+56,BC,Boston College,ACC,Mason McKenzie,H,0,0,2026-07-21,False,"H-coded, tier 2"
+57,CAL,California,ACC,Jaron-Keawe Sagapolutele,H,0,0,2026-07-21,False,"H-coded, tier 2"
+58,CLEM,Clemson,ACC,Christopher Vizzina,H,0,0,2026-07-21,False,verified 7A-7D
+59,DUKE,Duke,ACC,Walker Eget,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+60,FSU,Florida State,ACC,Ashton Daniels,H,0,0,2026-07-21,False,"H-coded, tier 2"
+61,GT,Georgia Tech,ACC,Alberto Mendoza,H,0,0,2026-07-21,False,"H-coded, tier 2"
+62,LOU,Louisville,ACC,Lincoln Kienholz,H,0,0,2026-07-21,False,"H-coded, tier 2"
+63,MIA,Miami,ACC,Darian Mensah,H,0,0,2026-07-21,False,verified 7A-7D
+64,NCST,NC State,ACC,CJ Bailey,H,0,0,2026-07-21,False,"H-coded, tier 2"
+65,UNC,North Carolina,ACC,Billy Edwards Jr.,M,,,2026-07-21,True,verified 7A-7D
+66,PITT,Pittsburgh,ACC,Mason Heintschel,H,0,0,2026-07-21,False,"H-coded, tier 2"
+67,SMU,SMU,ACC,Kevin Jennings,H,0,0,2026-07-21,False,"H-coded, tier 2"
+68,STAN,Stanford,ACC,Davis Warren,L,,,2026-07-21,True,verified 7A-7D
+69,SYR,Syracuse,ACC,Steve Angeli,L,,,2026-07-21,True,verified 7A-7D
+70,UVA,Virginia,ACC,Beau Pribula,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+71,VT,Virginia Tech,ACC,Ethan Grunkemeyer,H,0,0,2026-07-21,False,"H-coded, tier 2"
+72,WAKE,Wake Forest,ACC,Gio Lopez,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+73,BSU,Boise State,Pac-12,Maddux Madsen,H,0,0,2026-07-21,False,"H-coded, tier 2"
+74,CSU,Colorado State,Pac-12,Hauss Hejny,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+75,FRES,Fresno State,Pac-12,Khristian Martin,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+76,ORST,Oregon State,Pac-12,Maalik Murphy,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+77,SDSU,San Diego State,Pac-12,Jayden Denegal,H,0,0,2026-07-21,False,"H-coded, tier 2"
+78,TXST,Texas State,Pac-12,Brad Jackson,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+79,USU,Utah State,Pac-12,McCae Hillstead,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+80,WSU,Washington State,Pac-12,Caden Pinnick,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+81,ARMY,Army,American,Cale Hellums,H,0,0,2026-07-21,False,"H-coded, tier 2"
+82,CLT,Charlotte,American,Grayson Loftis,H,0,0,2026-07-21,False,verified 7A-7D
+83,ECU,East Carolina,American,Chaston Ditta,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+84,FAU,Florida Atlantic,American,Caden Veltkamp,M,0,0,2026-07-21,True,verified 7A-7D
+85,MEM,Memphis,American,Marcus Stokes,L,,,2026-07-21,True,verified 7A-7D
+86,NAVY,Navy,American,Braxton Woodson,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+87,UNT,North Texas,American,Tayven Jackson,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+88,RICE,Rice,American,Jacurri Brown,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+89,USF,South Florida,American,OPEN (Kromenhoek / Van Buren Jr. / Cooper),L,,,2026-07-21,True,verified 7A-7D
+90,TEM,Temple,American,Jaxon Smolik,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+91,TULN,Tulane,American,Kadin Semonza,L,,,2026-07-21,True,verified 7A-7D
+92,TLSA,Tulsa,American,Baylor Hayes,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+93,UAB,UAB,American,Ryder Burton,H,0,0,2026-07-21,False,"H-coded, tier 2"
+94,UTSA,UTSA,American,Owen McCown,H,0,0,2026-07-21,False,verified 7A-7D
+95,DEL,Delaware,Conference USA,Nick Minicucci,H,0,0,2026-07-21,False,"H-coded, tier 2"
+96,FIU,FIU,Conference USA,JJ Kohl,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+97,JVST,Jacksonville State,Conference USA,Caden Creel,H,0,0,2026-07-21,False,"H-coded, tier 2"
+98,KENN,Kennesaw State,Conference USA,Rickie Collins,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+99,LIB,Liberty,Conference USA,Ethan Vasko,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+100,MTSU,Middle Tennessee,Conference USA,Roman Gagliano,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+101,MOST,Missouri State,Conference USA,Open competition,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+102,NMSU,New Mexico State,Conference USA,Open competition,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+103,SHSU,Sam Houston,Conference USA,Landyn Locke,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+104,WKU,Western Kentucky,Conference USA,Rodney Tisdale Jr.,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+105,AKR,Akron,MAC,Open (Reese Poffenbarger / Brayden Roggow),L,0,0,2026-08-03,True,FRESH 2026-08-03
+106,BALL,Ball State,MAC,Keldric Luster,L,,,2026-07-21,True,FRESH 2026-08-03
+107,BGSU,Bowling Green,MAC,Austin Novosad,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+108,BUFF,Buffalo,MAC,Open (Elijah Holmes / CJ Ogbonna),L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+109,CMU,Central Michigan,MAC,Open (Flores / Beamon / Glasser),L,,,2026-07-21,True,FRESH 2026-08-03
+110,EMU,Eastern Michigan,MAC,Noah Kim,H,0,0,2026-07-21,False,"H-coded, tier 2"
+111,KENT,Kent State,MAC,Dru DeShields,H,0,0,2026-07-21,False,"H-coded, tier 2"
+112,M-OH,Miami (OH),MAC,Thomas Gotkowski,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+113,OHIO,Ohio,MAC,Open competition,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+114,SAC,Sacramento State,MAC,Carson Conklin,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+115,TOL,Toledo,MAC,John Alan Richter,M,0,0,2026-07-21,True,FRESH 2026-08-03
+116,MASS,UMass,MAC,William 'Pop' Watson,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+117,WMU,Western Michigan,MAC,Broc Lowry,M,0,0,2026-07-21,True,FRESH 2026-08-03
+118,AFA,Air Force,Mountain West,Liam Szarka,H,0,0,2026-07-21,False,"H-coded, tier 2"
+119,HAW,Hawai'i,Mountain West,Micah Alejado,H,0,0,2026-07-21,False,"H-coded, tier 2"
+120,NEV,Nevada,Mountain West,Carter Jones,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+121,UNM,New Mexico,Mountain West,Jack Layne,H,0,0,2026-07-21,False,"H-coded, tier 2"
+122,NDSU,North Dakota State,Mountain West,Nathan Hayes,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+123,NIU,Northern Illinois,Mountain West,Open (Davidson / Macon / Hamric),L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+124,SJSU,San José State,Mountain West,Luke Weaver,L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+125,UNLV,UNLV,Mountain West,Jackson Arnold,M,0,0,2026-07-21,True,verified 7A-7D
+126,UTEP,UTEP,Mountain West,EJ Colson,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+127,WYO,Wyoming,Mountain West,Tyler Hughes,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+128,APP,Appalachian State,Sun Belt,Malachi Singleton,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+129,ARST,Arkansas State,Sun Belt,Open (Owens / Dickey / St. Hilare / Haly),L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+130,CCU,Coastal Carolina,Sun Belt,Open (Jackson / Guerra / Bailey / Lopez),L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+131,GASO,Georgia Southern,Sun Belt,Open (Weston Bryan / Turner Helton),L,,,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+132,GAST,Georgia State,Sun Belt,Cameran Brown,H,0,0,2026-07-21,False,"H-coded, tier 2"
+133,JMU,James Madison,Sun Belt,Arrington Maiden,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+134,ULL,Louisiana,Sun Belt,Lunch Winfield,H,0,0,2026-07-21,False,"H-coded, tier 2"
+135,LT,Louisiana Tech,Sun Belt,Blake Baker,H,0,0,2026-07-21,False,"H-coded, tier 2"
+136,MRSH,Marshall,Sun Belt,Carlos Del Rio-Wilson,H,0,0,2026-07-21,False,"H-coded, tier 2"
+137,ODU,Old Dominion,Sun Belt,Quinn Henicle,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)
+138,USA,South Alabama,Sun Belt,Bishop Davenport,H,0,0,2026-07-21,False,"H-coded, tier 2"
+139,USM,Southern Miss,Sun Belt,Open (White / Hampton / Lyddy),L,,,2026-07-21,True,verified 7A-7D
+140,TROY,Troy,Sun Belt,Goose Crowder,H,0,0,2026-07-21,False,"H-coded, tier 2"
+141,ULM,ULM,Sun Belt,Aidan Armenta,H,0,0,2026-07-21,False,"H-coded, tier 2"
+142,ND,Notre Dame,Independent,CJ Carr,H,0,0,2026-07-21,False,"H-coded, tier 2"
+143,CONN,UConn,Independent,Tucker McDonald,M,0,0,2026-07-21,True,NOT VERIFIED (Tier 1 outstanding)

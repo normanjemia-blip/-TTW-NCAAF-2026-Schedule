@@ -1,0 +1,63 @@
+==============================================================================
+v0.8.3 PROMOTION CERTIFICATE — go-live market-line guardrail
+==============================================================================
+
+1. PREDECESSOR AND IDENTITY
+  v0.8.2 SHA-256: 225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0
+  v0.8.3 SHA-256: ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8
+  [PASS] 1.1 v0.8.2 retains its frozen SHA-256 - 225085449b5a1db5
+  [PASS] 1.2 v0.8.3 differs from v0.8.2
+  [PASS] 1.3 21 sheets, identical names and order - 21
+  [PASS] 1.4 sheet visibility preserved
+  [PASS] 1.5 named ranges preserved
+  [PASS] 1.6 exactly THREE cells differ - [('START HERE', 'A1'), ('AUDIT', 'A16'), ('AUDIT', 'B16')]
+  [PASS] 1.7 the three coordinates are exactly the authorized set - []
+  [PASS] 1.8 the ONLY formula change is AUDIT!B16 - [('AUDIT', 'B16')]
+  [PASS] 1.9 banner states v0.8.3 AUTHORITATIVE
+  [PASS] 1.10 banner carries no stale v0.8.2 identifier
+  [PASS] 1.11 AUDIT!E1 count formula unchanged
+  [PASS] 1.12 old 'REMOVE TEST LINES' sentinel gone from B16
+
+2. MODEL CONTENT PRESERVED
+  [PASS] 2.x ENGINE formulas identical to v0.8.2
+  [PASS] 2.x QB VALUES formulas identical to v0.8.2
+  [PASS] 2.x TEAM RATINGS formulas identical to v0.8.2
+  [PASS] 2.x PRESEASON formulas identical to v0.8.2
+  [PASS] 2.x CALC formulas identical to v0.8.2
+  [PASS] 2.x MARKET LINES formulas identical to v0.8.2
+  [PASS] 2.1 QB census unchanged (38 UNCERTAIN / 100 OK) - {'UNCERTAIN': 38, 'OK': 100}
+  [PASS] 2.2 confidence census unchanged (65 H / 41 M / 32 L) - {'L': 32, 'M': 41, 'H': 65}
+  [PASS] 2.3 nonzero QB values still 0 - 0
+  [PASS] 2.4 repository artifact ships with MARKET LINES blank - []
+
+3. THE NEW INVARIANT, EXERCISED
+  [PASS] 3.1 zero market rows -> OK - OK — 0 line(s) valid
+  [PASS] 3.2 eight valid Week 0 Circa rows -> OK - OK — 8 line(s) valid
+  [PASS] 3.x defect caught: GameID not in schedule - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: favorite blank - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: favorite not in that game - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: spread negative - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: spread zero - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: spread non-numeric - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: spread missing - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: total missing - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: total non-numeric - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: source missing - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: line date missing - FAIL — 1 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: duplicate GameID - FAIL — 2 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x defect caught: stale line (as-of set, 9 days old) - FAIL — 8 line(s) invalid — see MARKET LINES column Q
+  [PASS] 3.x fresh line inside the stale window -> OK - OK — 8 line(s) valid
+
+4. SETTINGS AND SAFEGUARDS
+  [PASS] 4.1 BET toggle remains N
+  [PASS] 4.2 totals remain unavailable
+  [PASS] 4.3 NDSU remains transitional
+  [PASS] 4.3 SAC remains transitional
+
+==============================================================================
+RESULT: 42 passed, 0 failed
+v0.8.2 SHA-256 (frozen): 225085449b5a1db5903a3998cb909be1f7ae0037782ea65d412bcb4d9d9490d0
+v0.8.3 SHA-256:          ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8
+==============================================================================
+
+verify_v083.py exit code: 0

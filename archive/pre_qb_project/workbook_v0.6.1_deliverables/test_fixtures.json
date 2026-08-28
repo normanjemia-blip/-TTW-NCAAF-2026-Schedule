@@ -1,0 +1,65 @@
+{
+  "carried_over_from_v0.6": {
+    "note": "The 7 real schedule rows (G1-G7) from Phase 6's test_fixtures.json, reused unchanged for continuity. See that file for the full table.",
+    "games": ["G1 row 8 (NCST@UVA)", "G2 row 6 (UNC@TCU, neutral)", "G3 row 9 (SJSU@USC)",
+      "G4 row 10 (NMSU@FSU)", "G5 row 11 (JVST@NDSU)", "G6 row 14 (Bethune-Cookman@UCF, FCS)",
+      "G7 row 15 (Akron@Wake Forest)"]
+  },
+  "new_in_v0.6.1": {
+    "isolated_oversized_adjustment_real_workbook": {
+      "row": 7,
+      "sheet": "ADJUSTMENTS (real full-scale test-applied copy)",
+      "target_gameid": "401856766 (G2)",
+      "value": 999,
+      "active": "Y",
+      "purpose": "Demonstrate the v0.6.1 J/K formula fix live in a real, full-scale workbook copy (not just the harness): Flags should read a clean 'LARGE ADJ (>4); ' message (not #VALUE!), and Effective should compute 0."
+    },
+    "data_incomplete_isolated_test": {
+      "game": "G1",
+      "row": 8,
+      "id": "401858202",
+      "method": "Temporarily set IMPORT SCHEDULE!C8 (week) to blank via direct cell clear, confirm ENGINE!AI8 = DATA INCOMPLETE, then restore C8 to its exact original value (0, i.e. Week 0) and re-confirm the game returns to its normal status.",
+      "harness_sequence": ["harness_test_G_control.xlsx (baseline, C8=0)",
+        "harness_test_G_datainc.xlsx (C8 cleared to blank)",
+        "harness_test_G_datainc2.xlsx (independent re-run, same result)",
+        "harness_test_G_restored.xlsx (C8 restored to 0, status returns to baseline)"],
+      "note": "This test is what surfaced the genuine, second formula defect documented in data_incomplete_finding.md: DATA INCOMPLETE is structurally unreachable in production because a bare reference to a blank source cell evaluates to 0 (not blank) in Excel/Sheets. Demonstrating the isolated defect required forcing the removed value into a state the CLEAN formula's IF($A6=\"\",\"\",'IMPORT SCHEDULE'!C6) pattern cannot distinguish from a real Week-0 game - see that file for the full root-cause proof."
+    },
+    "genuine_bet_toggle_test": {
+      "game": "G1",
+      "row": 8,
+      "id": "401858202",
+      "method": "Same fixture (line, QBs resolved, small spread=1.0 to maximize model-vs-market edge) used for both toggle states so the only variable changed is SETTINGS!B11.",
+      "spread_entered": 1.0,
+      "result_edge": "4.328571428571427 (>= 3.0 required threshold)",
+      "status_both_variants": "READY",
+      "harness_files": ["harness_test_BET_N.xlsx (toggle=N -> label=INVESTIGATE)",
+        "harness_test_BET_Y.xlsx (toggle=Y -> label=BET)"],
+      "note": "Corrects the Phase 6 CHANGELOG/report claim that this test had already passed - in v0.6 neither harness variant actually reached READY (G5 was used, which stayed TRANSITION UNCERTAIN), so the toggle's effect on the BET label was never actually observed. This is the first genuine demonstration."
+    },
+    "prior_fade_table_full_test": {
+      "file": "fade_table_test.xlsx",
+      "method": "Isolated TEAM RATINGS!G formula (prior-fade weight lookup/interpolation) fed synthetic F (effective games) = 0 through 10.",
+      "rows_verified": "All 10 populated SETTINGS!C37:C46 rows (not just F=0 and F=1)",
+      "expected_values": [1.0, 0.8, 0.65, 0.5, 0.4, 0.3, 0.225, 0.175, 0.125, 0.1],
+      "note": "F=10 correctly clamps to the F=9 floor (MIN($F,9)), confirming the table has no unhandled overflow beyond its documented domain."
+    },
+    "ndsu_functional_restriction_test": {
+      "team": "North Dakota State (NDSU)",
+      "team_ratings_row": 122,
+      "harness_file": "harness_test_NDSU_functional.xlsx",
+      "method": "5 synthetic completed FBS games added at IMPORT SCHEDULE/CLEAN/ENGINE/CALC rows 20-24 (byte-exact real formulas copied from those row numbers), opponents Air Force/UNLV/New Mexico/San Jose State/UTEP, all completed and won by NDSU. G5 (JVST@NDSU, row 11) given a fresh market line, both teams' QBs resolved, BET toggle=Y, spread deliberately small (0.5) to produce a large edge.",
+      "result": {
+        "TEAM_RATINGS_F122_effective_games_played": 5.0,
+        "TEAM_RATINGS_X122_review_cleared": "blank/unset (manual-only field, no formula anywhere sets it)",
+        "ENGINE_AF11_transitional_flag": "TRANSITIONAL",
+        "ENGINE_AI11_status": "TRANSITION UNCERTAIN",
+        "edge": 11.45614078674948,
+        "label": "INVESTIGATE (never BET, despite toggle=Y and an edge nearly 4x the BET threshold)"
+      },
+      "note": "Proves the transitional restriction is FUNCTIONAL, not merely a label that happens to remain: games played (5, exceeding the model's 4-game threshold), edge size, and BET toggle state are all independently insufficient to lift it. Only a manual entry in TEAM RATINGS!X (review-cleared) can, and nothing in the workbook auto-populates that cell.",
+      "IMPORTANT_CORRECTION_DURING_CLEANUP": "IMPORT SCHEDULE rows 20-24 in the REAL full-scale test-applied workbook copy (v0.6.1_test_applied.xlsx) were NOT unused rows - they held 5 real production schedule games (Arkansas-Pine Bluff@Missouri, Idaho@Utah, Colorado@Georgia Tech, Eastern Illinois@Minnesota, UAB@Illinois). The cleanup script restores their exact original values; see cleanup_script_v061.py and cell_diff_proof_v061.tsv."
+    }
+  },
+  "note": "Every synthetic value in both the harness files and the real-workbook test-applied copy is tagged 'TEST ONLY — NOT REAL DATA' in a Source/Notes/Reason field."
+}

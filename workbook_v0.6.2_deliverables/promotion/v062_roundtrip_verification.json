@@ -1,0 +1,41 @@
+{
+  "source_sha256": "bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd",
+  "roundtrip_sha256": "ccd37c5003e68d590cdc51f56320a216c4f9761d00dd92e684e8b5b58b38c6d5",
+  "sheet_count_source": 21,
+  "sheet_count_roundtrip": 21,
+  "sheet_order_states_equal": true,
+  "formula_count_source": 123011,
+  "formula_count_roundtrip": 123011,
+  "formula_coordinates_equal": true,
+  "exact_formula_text_differences": 26618,
+  "shared_formula_groups": 40,
+  "shared_formula_followers": 26618,
+  "shared_formula_semantics_equal": true,
+  "clean_C6_D1005_exact": true,
+  "adjustments_J_unchanged": true,
+  "adjustments_K_semantics_unchanged": true,
+  "start_here_A1": "TO THE WINDOW — NCAAF POWER RATINGS 2026 (v0.6.2 PHASE 6.2 DATA-INCOMPLETE PATHWAY REPAIR — PENDING APPROVAL)",
+  "start_here_has_v062": true,
+  "changelog_v062_exact": true,
+  "source_calc_props": {
+    "calcId": "124519",
+    "fullCalcOnLoad": "1"
+  },
+  "roundtrip_calc_props": {},
+  "native_recalc_evidence": {
+    "games_loaded": "888",
+    "blocked": "0",
+    "pending_line": "761",
+    "data_incomplete": "0",
+    "fcs_no_play": "127",
+    "audit_failures": "0"
+  },
+  "market_line_input_cells_nonblank": 0,
+  "adjustment_input_cells_nonblank": 0,
+  "stats_input_cells_nonblank": 0,
+  "bet_toggle": "N",
+  "constant_numeric_serialization_differences": 3168,
+  "substantive_constant_differences": 0,
+  "substantive_constant_difference_samples": [],
+  "overall_pass": true
+}

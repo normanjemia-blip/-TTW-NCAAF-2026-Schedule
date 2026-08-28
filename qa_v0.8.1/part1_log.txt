@@ -1,0 +1,101 @@
+==============================================================================
+QA PART 1 — WORKBOOK INTEGRITY
+==============================================================================
+
+1.1 WORKSHEET ACCESS
+  sheets: 21
+    START HERE            1000 x 26  [visible]
+    DASHBOARD             1005 x 26  [visible]
+    ENGINE                1005 x 38  [visible]
+    MARKET LINES          1005 x 26  [visible]
+    ADJUSTMENTS           1000 x 26  [visible]
+    QB VALUES             1000 x 26  [visible]
+    TEAM RATINGS          1000 x 26  [visible]
+    DATA QUALITY          1000 x 26  [visible]
+    SETTINGS              1000 x 26  [visible]
+    IMPORT SCHEDULE       1005 x 26  [visible]
+    IMPORT STATS          1000 x 26  [visible]
+    PRESEASON             1000 x 31  [hidden]
+    FCS TIERS             1000 x 26  [hidden]
+    TEAM MAP              1000 x 26  [hidden]
+    CLEAN                 1005 x 33  [hidden]
+    CALC                  1005 x 26  [hidden]
+    HISTORY               1000 x 26  [hidden]
+    BACKTEST              1000 x 26  [hidden]
+    AUDIT                 1000 x 26  [hidden]
+    DICTIONARY            1000 x 26  [hidden]
+    CHANGELOG             1000 x 26  [hidden]
+  [PASS] 1.1 all 21 worksheets open without error
+
+1.2 ERROR VALUES IN CELLS
+    #VALUE! (literal-value) x3  first: CHANGELOG!C47  GENUINE FORMULA DEFECT FOUND AND DOCUMENTED, NOT REPAIRED (per instruction to stop and report rather than silently fix):
+  [PASS] 1.2a no #REF! anywhere - 0
+  [FAIL] 1.2b no literal error values stored in cells - 3
+
+1.3 CACHED FORMULA RESULTS
+  non-empty cells (data_only): 15657; cached error values: 0
+  [PASS] 1.3 no cached error results - 0
+  NOTE: this workbook stores NO cached formula results, so 1.3 cannot detect
+        runtime errors. Runtime behaviour is assessed in Parts 3-5 instead.
+
+1.4 DEPENDENCY GRAPH AND CIRCULAR REFERENCES
+  cross-sheet dependency edges:
+    ADJUSTMENTS        -> ['SETTINGS']
+    AUDIT              -> ['CALC', 'CLEAN', 'ENGINE', 'MARKET LINES', 'PRESEASON', 'SETTINGS', 'TEAM MAP']
+    CALC               -> ['CLEAN', 'IMPORT STATS', 'MARKET LINES', 'SETTINGS', 'TEAM RATINGS']
+    CLEAN              -> ['FCS TIERS', 'IMPORT SCHEDULE', 'PRESEASON', 'SETTINGS', 'TEAM MAP']
+    DASHBOARD          -> ['CALC', 'CLEAN', 'ENGINE', 'MARKET LINES', 'SETTINGS', 'TEAM RATINGS']
+    DATA QUALITY       -> ['ADJUSTMENTS', 'AUDIT', 'CLEAN', 'ENGINE', 'IMPORT STATS', 'MARKET LINES', 'PRESEASON']
+    ENGINE             -> ['ADJUSTMENTS', 'CALC', 'CLEAN', 'QB VALUES', 'SETTINGS', 'TEAM RATINGS']
+    IMPORT STATS       -> ['TEAM MAP']
+    MARKET LINES       -> ['CLEAN', 'SETTINGS', 'TEAM MAP']
+    PRESEASON          -> ['SETTINGS', 'TEAM MAP']
+    QB VALUES          -> ['SETTINGS', 'TEAM RATINGS']
+    START HERE         -> ['ADJUSTMENTS', 'AUDIT', 'ENGINE', 'IMPORT STATS', 'QB VALUES', 'SETTINGS']
+    TEAM RATINGS       -> ['CALC', 'CLEAN', 'HISTORY', 'PRESEASON', 'SETTINGS', 'TEAM MAP']
+  [PASS] 1.4a all sheet references resolve to existing sheets - []
+  [FAIL] 1.4b no cell references itself (direct self-circularity) - [('DASHBOARD', 'A6', '=IF(ENGINE!$A6="","",ENGINE!$B6)'), ('DASHBOARD', 'V6', '=IF(ENGINE!$A6="","",IF(OR(ENGINE!$V6="",ENGINE!$AI6<>"READY"),0,ABS(ENGINE!$V6)+IF(ENGINE'), ('DASHBOARD', 'A7', '=IF(ENGINE!$A7="","",ENGINE!$B7)'), ('DASHBOARD', 'V7', '=IF(ENGINE!$A7="","",IF(OR(ENGINE!$V7="",ENGINE!$AI7<>"READY"),0,ABS(ENGINE!$V7)+IF(ENGINE'), ('DASHBOARD', 'A8', '=IF(ENGINE!$A8="","",ENGINE!$B8)')]
+  sheet-level cycles detected: 1
+    TEAM RATINGS -> CALC -> TEAM RATINGS
+  [FAIL] 1.4c no sheet-level circular dependency - [['TEAM RATINGS', 'CALC', 'TEAM RATINGS']]
+
+1.5 NAMED RANGES
+  defined names: 0
+  [PASS] 1.5 all named ranges resolve (or none defined) - []
+
+1.6 DATA VALIDATION
+  total data-validation rules: 0
+  [PASS] 1.6 data validation present and enumerable - 0 rules
+
+1.7 CONDITIONAL FORMATTING
+  total conditional-format rules: 0
+  [PASS] 1.7 conditional formatting present and enumerable - 0 rules
+
+1.8 WORKBOOK / SHEET PROTECTION
+  workbook protection: None
+    START HERE           sheet_protected=False  password_set=False
+    DASHBOARD            sheet_protected=False  password_set=False
+    ENGINE               sheet_protected=False  password_set=False
+    MARKET LINES         sheet_protected=False  password_set=False
+    ADJUSTMENTS          sheet_protected=False  password_set=False
+    QB VALUES            sheet_protected=False  password_set=False
+    TEAM RATINGS         sheet_protected=False  password_set=False
+    DATA QUALITY         sheet_protected=False  password_set=False
+    SETTINGS             sheet_protected=False  password_set=False
+    IMPORT SCHEDULE      sheet_protected=False  password_set=False
+    IMPORT STATS         sheet_protected=False  password_set=False
+    PRESEASON            sheet_protected=False  password_set=False
+    FCS TIERS            sheet_protected=False  password_set=False
+    TEAM MAP             sheet_protected=False  password_set=False
+    CLEAN                sheet_protected=False  password_set=False
+    CALC                 sheet_protected=False  password_set=False
+    HISTORY              sheet_protected=False  password_set=False
+    BACKTEST             sheet_protected=False  password_set=False
+    AUDIT                sheet_protected=False  password_set=False
+    DICTIONARY           sheet_protected=False  password_set=False
+    CHANGELOG            sheet_protected=False  password_set=False
+  [PASS] 1.8 protection state is consistent and enumerable - 0 of 21 sheets protected
+
+1.9 SHEET VISIBILITY
+  hidden: ['PRESEASON', 'FCS TIERS', 'TEAM MAP', 'CLEAN', 'CALC', 'HISTORY', 'BACKTEST', 'AUDIT', 'DICTIONARY', 'CHANGELOG']
+  [PASS] 1.9 hidden set matches the START HERE tab map - actual=['AUDIT', 'BACKTEST', 'CALC', 'CHANGELOG', 'CLEAN', 'DICTIONARY', 'FCS TIERS', 'HISTORY', 'PRESEASON', 'TEAM MAP'] documented=['AUDIT', 'BACKTEST', 'CALC', 'CHANGELOG', 'CLEAN', 'DICTIONARY', 'FCS TIERS', 'HISTORY', 'PRESEASON', 'TEAM MAP']

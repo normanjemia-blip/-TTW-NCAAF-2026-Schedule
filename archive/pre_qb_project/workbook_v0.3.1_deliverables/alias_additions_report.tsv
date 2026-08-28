@@ -1,0 +1,139 @@
+Abbrev	Canonical Name	ESPN Full Display Name	ESPN Conference String
+ALA	Alabama	Alabama Crimson Tide	Southeastern Conference
+ARK	Arkansas	Arkansas Razorbacks	Southeastern Conference
+AUB	Auburn	Auburn Tigers	Southeastern Conference
+FLA	Florida	Florida Gators	Southeastern Conference
+UGA	Georgia	Georgia Bulldogs	Southeastern Conference
+UK	Kentucky	Kentucky Wildcats	Southeastern Conference
+LSU	LSU	LSU Tigers	Southeastern Conference
+MSST	Mississippi State	Mississippi State Bulldogs	Southeastern Conference
+MIZ	Missouri	Missouri Tigers	Southeastern Conference
+OU	Oklahoma	Oklahoma Sooners	Southeastern Conference
+MISS	Ole Miss	Ole Miss Rebels	Southeastern Conference
+SCAR	South Carolina	South Carolina Gamecocks	Southeastern Conference
+TENN	Tennessee	Tennessee Volunteers	Southeastern Conference
+TEX	Texas	Texas Longhorns	Southeastern Conference
+TAMU	Texas A&M	Texas A&M Aggies	Southeastern Conference
+VAN	Vanderbilt	Vanderbilt Commodores	Southeastern Conference
+ILL	Illinois	Illinois Fighting Illini	Big Ten Conference
+IND	Indiana	Indiana Hoosiers	Big Ten Conference
+IOWA	Iowa	Iowa Hawkeyes	Big Ten Conference
+MD	Maryland	Maryland Terrapins	Big Ten Conference
+MICH	Michigan	Michigan Wolverines	Big Ten Conference
+MSU	Michigan State	Michigan State Spartans	Big Ten Conference
+MINN	Minnesota	Minnesota Golden Gophers	Big Ten Conference
+NEB	Nebraska	Nebraska Cornhuskers	Big Ten Conference
+NW	Northwestern	Northwestern Wildcats	Big Ten Conference
+OHST	Ohio State	Ohio State Buckeyes	Big Ten Conference
+ORE	Oregon	Oregon Ducks	Big Ten Conference
+PSU	Penn State	Penn State Nittany Lions	Big Ten Conference
+PUR	Purdue	Purdue Boilermakers	Big Ten Conference
+RUTG	Rutgers	Rutgers Scarlet Knights	Big Ten Conference
+UCLA	UCLA	UCLA Bruins	Big Ten Conference
+USC	USC	USC Trojans	Big Ten Conference
+WASH	Washington	Washington Huskies	Big Ten Conference
+WISC	Wisconsin	Wisconsin Badgers	Big Ten Conference
+ARIZ	Arizona	Arizona Wildcats	Big 12 Conference
+AZST	Arizona State	Arizona State Sun Devils	Big 12 Conference
+BAY	Baylor	Baylor Bears	Big 12 Conference
+BYU	BYU	BYU Cougars	Big 12 Conference
+CIN	Cincinnati	Cincinnati Bearcats	Big 12 Conference
+COLO	Colorado	Colorado Buffaloes	Big 12 Conference
+HOU	Houston	Houston Cougars	Big 12 Conference
+ISU	Iowa State	Iowa State Cyclones	Big 12 Conference
+KAN	Kansas	Kansas Jayhawks	Big 12 Conference
+KSU	Kansas State	Kansas State Wildcats	Big 12 Conference
+OKST	Oklahoma State	Oklahoma State Cowboys	Big 12 Conference
+TCU	TCU	TCU Horned Frogs	Big 12 Conference
+TTU	Texas Tech	Texas Tech Red Raiders	Big 12 Conference
+UCF	UCF	UCF Knights	Big 12 Conference
+UTAH	Utah	Utah Utes	Big 12 Conference
+WVU	West Virginia	West Virginia Mountaineers	Big 12 Conference
+BC	Boston College	Boston College Eagles	Atlantic Coast Conference
+CAL	California	California Golden Bears	Atlantic Coast Conference
+CLEM	Clemson	Clemson Tigers	Atlantic Coast Conference
+DUKE	Duke	Duke Blue Devils	Atlantic Coast Conference
+FSU	Florida State	Florida State Seminoles	Atlantic Coast Conference
+GT	Georgia Tech	Georgia Tech Yellow Jackets	Atlantic Coast Conference
+LOU	Louisville	Louisville Cardinals	Atlantic Coast Conference
+MIA	Miami	Miami Hurricanes	Atlantic Coast Conference
+NCST	NC State	NC State Wolfpack	Atlantic Coast Conference
+UNC	North Carolina	North Carolina Tar Heels	Atlantic Coast Conference
+PITT	Pittsburgh	Pittsburgh Panthers	Atlantic Coast Conference
+SMU	SMU	SMU Mustangs	Atlantic Coast Conference
+STAN	Stanford	Stanford Cardinal	Atlantic Coast Conference
+SYR	Syracuse	Syracuse Orange	Atlantic Coast Conference
+UVA	Virginia	Virginia Cavaliers	Atlantic Coast Conference
+VT	Virginia Tech	Virginia Tech Hokies	Atlantic Coast Conference
+WAKE	Wake Forest	Wake Forest Demon Deacons	Atlantic Coast Conference
+BSU	Boise State	Boise State Broncos	Pac-12 Conference
+CSU	Colorado State	Colorado State Rams	Pac-12 Conference
+FRES	Fresno State	Fresno State Bulldogs	Pac-12 Conference
+ORST	Oregon State	Oregon State Beavers	Pac-12 Conference
+SDSU	San Diego State	San Diego State Aztecs	Pac-12 Conference
+TXST	Texas State	Texas State Bobcats	Pac-12 Conference
+USU	Utah State	Utah State Aggies	Pac-12 Conference
+WSU	Washington State	Washington State Cougars	Pac-12 Conference
+ARMY	Army	Army Black Knights	American Conference
+CLT	Charlotte	Charlotte 49ers	American Conference
+ECU	East Carolina	East Carolina Pirates	American Conference
+FAU	Florida Atlantic	Florida Atlantic Owls	American Conference
+MEM	Memphis	Memphis Tigers	American Conference
+NAVY	Navy	Navy Midshipmen	American Conference
+UNT	North Texas	North Texas Mean Green	American Conference
+RICE	Rice	Rice Owls	American Conference
+USF	South Florida	South Florida Bulls	American Conference
+TEM	Temple	Temple Owls	American Conference
+TULN	Tulane	Tulane Green Wave	American Conference
+TLSA	Tulsa	Tulsa Golden Hurricane	American Conference
+UAB	UAB	UAB Blazers	American Conference
+UTSA	UTSA	UTSA Roadrunners	American Conference
+DEL	Delaware	Delaware Blue Hens	Conference USA
+FIU	FIU	Florida International Panthers	Conference USA
+JVST	Jacksonville State	Jacksonville State Gamecocks	Conference USA
+KENN	Kennesaw State	Kennesaw State Owls	Conference USA
+LIB	Liberty	Liberty Flames	Conference USA
+MTSU	Middle Tennessee	Middle Tennessee Blue Raiders	Conference USA
+MOST	Missouri State	Missouri State Bears	Conference USA
+NMSU	New Mexico State	New Mexico State Aggies	Conference USA
+SHSU	Sam Houston	Sam Houston Bearkats	Conference USA
+WKU	Western Kentucky	Western Kentucky Hilltoppers	Conference USA
+AKR	Akron	Akron Zips	Mid-American Conference
+BALL	Ball State	Ball State Cardinals	Mid-American Conference
+BGSU	Bowling Green	Bowling Green Falcons	Mid-American Conference
+BUFF	Buffalo	Buffalo Bulls	Mid-American Conference
+CMU	Central Michigan	Central Michigan Chippewas	Mid-American Conference
+EMU	Eastern Michigan	Eastern Michigan Eagles	Mid-American Conference
+KENT	Kent State	Kent State Golden Flashes	Mid-American Conference
+M-OH	Miami (OH)	Miami (OH) RedHawks	Mid-American Conference
+OHIO	Ohio	Ohio Bobcats	Mid-American Conference
+SAC	Sacramento State	Sacramento State Hornets	Mid-American Conference
+TOL	Toledo	Toledo Rockets	Mid-American Conference
+MASS	UMass	Massachusetts Minutemen	Mid-American Conference
+WMU	Western Michigan	Western Michigan Broncos	Mid-American Conference
+AFA	Air Force	Air Force Falcons	Mountain West Conference
+HAW	Hawai'i	Hawai'i Rainbow Warriors	Mountain West Conference
+NEV	Nevada	Nevada Wolf Pack	Mountain West Conference
+UNM	New Mexico	New Mexico Lobos	Mountain West Conference
+NDSU	North Dakota State	North Dakota State Bison	Mountain West Conference
+NIU	Northern Illinois	Northern Illinois Huskies	Mountain West Conference
+SJSU	San José State	San José State Spartans	Mountain West Conference
+UNLV	UNLV	UNLV Rebels	Mountain West Conference
+UTEP	UTEP	UTEP Miners	Mountain West Conference
+WYO	Wyoming	Wyoming Cowboys	Mountain West Conference
+APP	Appalachian State	App State Mountaineers	Sun Belt Conference
+ARST	Arkansas State	Arkansas State Red Wolves	Sun Belt Conference
+CCU	Coastal Carolina	Coastal Carolina Chanticleers	Sun Belt Conference
+GASO	Georgia Southern	Georgia Southern Eagles	Sun Belt Conference
+GAST	Georgia State	Georgia State Panthers	Sun Belt Conference
+JMU	James Madison	James Madison Dukes	Sun Belt Conference
+ULL	Louisiana	Louisiana Ragin' Cajuns	Sun Belt Conference
+LT	Louisiana Tech	Louisiana Tech Bulldogs	Sun Belt Conference
+MRSH	Marshall	Marshall Thundering Herd	Sun Belt Conference
+ODU	Old Dominion	Old Dominion Monarchs	Sun Belt Conference
+USA	South Alabama	South Alabama Jaguars	Sun Belt Conference
+USM	Southern Miss	Southern Miss Golden Eagles	Sun Belt Conference
+TROY	Troy	Troy Trojans	Sun Belt Conference
+ULM	ULM	UL Monroe Warhawks	Sun Belt Conference
+ND	Notre Dame	Notre Dame Fighting Irish	FBS Independents
+CONN	UConn	UConn Huskies	FBS Independents

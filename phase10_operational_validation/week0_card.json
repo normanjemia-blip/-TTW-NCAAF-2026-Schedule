@@ -1,0 +1,98 @@
+[
+ {
+  "gid": "401856766",
+  "game": "UNC @ TCU",
+  "neutral": true,
+  "model": "TCU -4.2",
+  "market": "TCU -7.0",
+  "edge": "-2.8",
+  "side": "UNC",
+  "label": "INVESTIGATE",
+  "status": "QB UNCERTAIN",
+  "venue": "Aviva Stadium, Dublin"
+ },
+ {
+  "gid": "401858201",
+  "game": "HAW @ STAN",
+  "neutral": false,
+  "model": "STAN -3.7",
+  "market": "STAN -4.0",
+  "edge": "-0.3",
+  "side": "HAW",
+  "label": "",
+  "status": "QB UNCERTAIN",
+  "venue": "Stanford Stadium"
+ },
+ {
+  "gid": "401858202",
+  "game": "NCST @ UVA",
+  "neutral": false,
+  "model": "UVA -5.3",
+  "market": "PENDING",
+  "edge": "\u2014",
+  "side": "",
+  "label": "",
+  "status": "PENDING LINE",
+  "venue": "Scott Stadium"
+ },
+ {
+  "gid": "401864494",
+  "game": "SJSU @ USC",
+  "neutral": false,
+  "model": "USC -35.2",
+  "market": "PENDING",
+  "edge": "\u2014",
+  "side": "",
+  "label": "",
+  "status": "PENDING LINE",
+  "venue": "LA Memorial Coliseum"
+ },
+ {
+  "gid": "401864570",
+  "game": "NMSU @ FSU",
+  "neutral": false,
+  "model": "FSU -27.7",
+  "market": "PENDING",
+  "edge": "\u2014",
+  "side": "",
+  "label": "",
+  "status": "PENDING LINE",
+  "venue": "Doak Campbell"
+ },
+ {
+  "gid": "401864577",
+  "game": "JVST @ NDSU",
+  "neutral": false,
+  "model": "NDSU -7.0",
+  "market": "PENDING",
+  "edge": "\u2014",
+  "side": "",
+  "label": "",
+  "status": "PENDING LINE",
+  "venue": "Fargodome"
+ },
+ {
+  "gid": "401866408",
+  "game": "SAC @ EMU",
+  "neutral": false,
+  "model": "EMU -4.8",
+  "market": "PENDING",
+  "edge": "\u2014",
+  "side": "",
+  "label": "",
+  "status": "PENDING LINE",
+  "venue": "Rynearson"
+ },
+ {
+  "gid": "401862693",
+  "game": "MEM @ UNLV",
+  "neutral": false,
+  "model": "UNLV -5.6",
+  "market": "PENDING",
+  "edge": "\u2014",
+  "side": "",
+  "label": "",
+  "status": "PENDING LINE",
+  "venue": "Allegiant Stadium"
+ }
+]

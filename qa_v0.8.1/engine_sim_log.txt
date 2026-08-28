@@ -1,0 +1,150 @@
+==============================================================================
+PART 4 — EDGE VALIDATION (value flow)
+==============================================================================
+
+  baseline row: {"A": "G1", "I": 10.0, "J": 14.0, "K": 4.0, "L": 2.5, "M": 0, "P": 6.5, "R": 6.5, "T": -5.5, "V": 1.0, "W": "BBB", "X": "LEAN", "AI": "READY", "AJ": 3}
+  [PASS] 4.1 neutral diff K = home - away = 14.0 - 10.0
+        got=4.0 want=4.0
+  [PASS] 4.2 HFA L = team-specific 2.5
+        got=2.5 want=2.5
+  [PASS] 4.3 QB adj M = 0 (all deltas blank/zero)
+        got=0 want=0
+  [PASS] 4.4 base margin P = K+L+M+N+O = 6.5
+        got=6.5 want=6.5
+  [PASS] 4.5 FINAL MARGIN R = P when no override
+        got=6.5 want=6.5
+  [PASS] 4.6 model spread S names the favourite correctly
+        got='BBB -6.5' want='BBB -6.5'
+  [PASS] 4.7 market home spread T passes through
+        got=-5.5 want=-5.5
+  [PASS] 4.8 spread EDGE V = R + T = 6.5 + (-5.5) = +1.0
+        got=1.0 want=1.0
+  [PASS] 4.9 side W = HOME when edge positive
+        got='BBB' want='BBB'
+  [PASS] 4.10 label = LEAN at edge 1.0 (>=B8 1, <B9 1.5)
+        got='LEAN' want='LEAN'
+  [PASS] 4.11 STATUS = READY
+        got='READY' want='READY'
+
+  -- the sign convention worked example from START HERE --
+  [PASS] 4.12 model margin +9.0
+        got=9.0 want=9.0
+  [PASS] 4.13 edge = 9.0 + (-7.5) = +1.5 -> value on HOME
+        got=1.5 want=1.5
+  [PASS] 4.14 side = HOME (UGA)
+        got='UGA' want='UGA'
+  [PASS] 4.15 margin +5.0 -> edge -2.5 -> value on AWAY
+        got=-2.5 want=-2.5
+  [PASS] 4.16 side = AWAY
+        got='XXX' want='XXX'
+
+  -- manual override --
+  [PASS] 4.17 override replaces base margin
+        got=10.0 want=10.0
+  [PASS] 4.18 edge recomputed from override
+        got=4.5 want=4.5
+  [PASS] 4.19 DUPLICATE override blocks the game
+        got='BLOCKED' want='BLOCKED'
+  [PASS] 4.20 duplicate-override reason surfaced
+        got=True want=True
+
+  -- QB adjustment --
+  [PASS] 4.21 home QB delta -3.0 lowers margin by 3
+        got=3.5 want=3.5
+  [PASS] 4.22 away QB delta -3.0 RAISES home margin by 3
+        got=9.5 want=9.5
+  [PASS] 4.23 blank QB deltas coerce to 0 (no #VALUE!)
+        got=0 want=0
+
+  -- home-field adjustment --
+  [PASS] 4.24 neutral site forces HFA = SETTINGS!B7 = 0
+        got=0 want=0
+  [PASS] 4.25 non-FBS home falls back to default 2.5
+        got=2.5 want=2.5
+  [PASS] 4.26 FBS home uses team-specific HFA
+        got=3.5 want=3.5
+
+  -- confidence --
+  [PASS] 4.27 confidence 4 with ample sample, clean flags
+        got=4 want=4
+  [PASS] 4.28 confidence drops on small sample
+        got=2 want=2
+  [PASS] 4.29 confidence blank when PENDING LINE
+        got='' want=''
+
+==============================================================================
+PART 3 — PRODUCTION SCENARIOS
+==============================================================================
+  [PASS] 3.x QB ruled out (home QB coded L -> UNCERTAIN)  [AI]
+        got='QB UNCERTAIN' want='QB UNCERTAIN'
+  [PASS] 3.x QB questionable (same gate — workbook has no separate state)  [AI]
+        got='QB UNCERTAIN' want='QB UNCERTAIN'
+  [PASS] 3.x neutral-site game  [L]
+        got=0 want=0
+  [PASS] 3.x rivalry game (no special handling; manual adj is the lever)  [P]
+        got=8.0 want=8.0
+  [PASS] 3.x FCS opponent  [AI]
+        got='FCS — NO PLAY' want='FCS — NO PLAY'
+  [PASS] 3.x bye week (team simply absent — no row)  [A]
+        got='' want=''
+  [PASS] 3.x missing market line  [AI]
+        got='PENDING LINE' want='PENDING LINE'
+  [PASS] 3.x line movement (re-enter line -> edge recomputes)  [V]
+        got=-0.5 want=-0.5
+  [PASS] 3.x postponed game (no dedicated state; user must blank the line)  [AI]
+        got='PENDING LINE' want='PENDING LINE'
+  [PASS] 3.x cancelled game (same — no dedicated state)  [AI]
+        got='PENDING LINE' want='PENDING LINE'
+
+==============================================================================
+PART 5 — STRESS / GRACEFUL FAILURE
+==============================================================================
+  [PASS] 5.x blank inputs (no gameid)  [A]
+        got='' want=''
+  [PASS] 5.x duplicate GameID  [AI]
+        got='BLOCKED' want='BLOCKED'
+  [PASS] 5.x missing team (unmatched abbrev -> BLOCK)  [AI]
+        got='BLOCKED' want='BLOCKED'
+  [PASS] 5.x misspelled team -> rating missing  [AI]
+        got='BLOCKED' want='BLOCKED'
+  [PASS] 5.x invalid favourite in MARKET LINES  [AI]
+        got='BLOCKED' want='BLOCKED'
+  [PASS] 5.x duplicate market row  [AI]
+        got='BLOCKED' want='BLOCKED'
+  [PASS] 5.x invalid date (blank)  [AI]
+        got='DATA INCOMPLETE' want='DATA INCOMPLETE'
+  [PASS] 5.x blank week  [AI]
+        got='DATA INCOMPLETE' want='DATA INCOMPLETE'
+  [FAIL] 5.x negative spread value accepted as a number  [V]
+        got=10.0 want=3.0
+  [PASS] 5.x extremely large spread (+/-500)  [V]
+        got=-493.5 want=-493.5
+  [PASS] 5.x extreme ratings do not crash  [R]
+        got=2000002.5 want=2000002.5
+
+  -- precedence ordering proof --
+  [PASS] 5.12 BLOCKED outranks everything
+        got='BLOCKED' want='BLOCKED'
+  [PASS] 5.13 FCS outranks PENDING LINE and QB UNCERTAIN
+        got='FCS — NO PLAY' want='FCS — NO PLAY'
+  [PASS] 5.14 PENDING LINE outranks QB UNCERTAIN
+        got='PENDING LINE' want='PENDING LINE'
+
+  -- shipped-SETTINGS gaps --
+  [PASS] 5.15 model TOTAL is inert because SETTINGS!B22/B23 are blank
+        got='' want=''
+  [PASS] 5.16 total edge therefore blank
+        got='' want=''
+  [PASS] 5.17 STALE LINE never fires while SETTINGS!B5 (as-of date) is blank
+        got='READY' want='READY'
+  [PASS] 5.18 STALE LINE fires once B5 is set
+        got='STALE LINE' want='STALE LINE'
+  [PASS] 5.19 BET label suppressed while BET toggle = N
+        got='INVESTIGATE' want='INVESTIGATE'
+  [PASS] 5.20 BET label appears when toggle=Y, READY and edge>=3
+        got='BET' want='BET'
+
+##############################################################################
+# SIMULATOR FINDINGS: 1
+#  [MAJOR] 5.x negative spread value accepted as a number  [V] :: got=10.0 want=3.0
+##############################################################################

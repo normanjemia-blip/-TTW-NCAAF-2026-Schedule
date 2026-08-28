@@ -1,0 +1,33 @@
+{
+ "log": "pending_qb_resolutions.EXAMPLE",
+ "warning": "FICTIONAL ILLUSTRATIVE DATA ONLY. Both rows use made-up QB names. Do NOT treat as real resolutions. Replace with genuine, human-approved data before running against the production checkpoint.",
+ "records": [
+  {
+   "abbrev": "KAN", "team": "Kansas", "sweep_date": "2026-08-04",
+   "current_candidates": "Example Starter (FICTIONAL) | Example Backup (FICTIONAL)",
+   "current_leader": "Example Starter (FICTIONAL)",
+   "resolution_status": "APPROVED", "confidence": "M", "availability": "full participation",
+   "baseline_qb": "Example Starter (FICTIONAL)", "baseline_value": 0,
+   "active_qb": "Example Starter (FICTIONAL)", "active_value": 0,
+   "source": "FICTIONAL EXAMPLE - official depth chart",
+   "source_date": "2026-08-04", "last_update": "2026-08-04", "reviewed_season": 2026,
+   "notes": "FICTIONAL illustrative zero-init row - replace before any real use",
+   "baseline_identity": "established", "zero_init_justified": "Y",
+   "nonzero_adjustment_possible": "N"
+  },
+  {
+   "abbrev": "STAN", "team": "Stanford", "sweep_date": "2026-08-11",
+   "current_candidates": "Example Baseline (FICTIONAL) | Example Replacement (FICTIONAL)",
+   "current_leader": "Example Replacement (FICTIONAL)",
+   "resolution_status": "APPROVED", "confidence": "M",
+   "availability": "baseline out for season; replacement named",
+   "baseline_qb": "Example Baseline (FICTIONAL)", "baseline_value": 0,
+   "active_qb": "Example Replacement (FICTIONAL)", "active_value": -1.50,
+   "source": "FICTIONAL EXAMPLE - HC press conference",
+   "source_date": "2026-08-11", "last_update": "2026-08-11", "reviewed_season": 2026,
+   "notes": "FICTIONAL illustrative baseline-mismatch row - needs matching approved review-log record",
+   "baseline_identity": "established", "zero_init_justified": "N",
+   "nonzero_adjustment_possible": "Y"
+  }
+ ]
+}

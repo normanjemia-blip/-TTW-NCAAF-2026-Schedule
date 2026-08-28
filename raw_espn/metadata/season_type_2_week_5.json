@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/5?lang=en&region=us","number":5,"startDate":"2026-09-28T07:00Z","endDate":"2026-10-05T06:59Z","text":"Week 5","rankings":{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/5/rankings?lang=en&region=us"}}

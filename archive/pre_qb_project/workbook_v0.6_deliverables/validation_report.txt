@@ -1,0 +1,30 @@
+Diff vs v0.5.2: {'START HERE': 1, 'CHANGELOG': 28}
+PASS  Diff vs v0.5.2 touches ONLY START HERE + CHANGELOG  {'START HERE': 1, 'CHANGELOG': 28}
+PASS  ZERO formula cells changed anywhere vs v0.5.2  []
+PASS  START HERE diff == 1 (banner only)  1
+PASS  CHANGELOG diff == 28 (7 new rows x 4)  28
+PASS  888 total classified games  888
+PASS  761 FBS-vs-FBS games  761
+PASS  127 FCS-involved games  127
+PASS  888 unique schedule games in v0.6
+PASS  All 888 GameIDs unique  888
+PASS  138 QB rows fully blank (all UNCERTAIN)  []
+PASS  0 market lines (MARKET LINES manual columns fully blank)  []
+PASS  0 manual adjustments  []
+PASS  0 imported in-season statistics  []
+PASS  BET toggle OFF (SETTINGS!B11 = N)  N
+PASS  SETTINGS!B4 (current week) blank (preseason)
+PASS  SETTINGS!B5 (as-of date) blank (preseason)
+PASS  0 HISTORY snapshots  []
+PASS  IMPORT SCHEDULE row 8 away_points blank (no synthetic score)  None
+PASS  IMPORT SCHEDULE row 9 away_points blank (no synthetic score)  None
+PASS  IMPORT SCHEDULE row 14 away_points blank (no synthetic score)  None
+PASS  No remaining TEST/SYNTHETIC data outside CHANGELOG's own description  []
+PASS  SAC still FBS-RECLASSIFYING
+PASS  NDSU still FBS-RECLASSIFYING
+PASS  TEAM RATINGS!X114 (SAC review-cleared) blank
+PASS  TEAM RATINGS!X122 (NDSU review-cleared) blank
+PASS  CHANGELOG has 7 v0.6 entries  7
+PASS  CHANGELOG v0.5.2 entry count unchanged (1)  1
+
+ALL CHECKS PASSED

@@ -1,0 +1,14 @@
+sheet,cell,old_value,new_value
+START HERE,A1,TO THE WINDOW — NCAAF POWER RATINGS 2026 (v0.7.1 QB VALUES WORKING — DEVIATION-ONLY ZERO-INIT of 105 settled QBs; 33 UNCERTAIN exceptions; NONZERO ADJUSTMENTS PENDING — NOT AUTHORITATIVE),TO THE WINDOW — NCAAF POWER RATINGS 2026 (v0.7.2 QB VALUES CANDIDATE — DEVIATION-ONLY ZERO-INIT of 105 settled QBs; 33 UNCERTAIN exceptions incl. Vanderbilt (re-verified 2026-07-22: genuine Curtis/Berlowitz competition — stays UNCERTAIN); NONZERO ADJUSTMENTS PENDING — NOT AUTHORITATIVE)
+CHANGELOG,A64,,v0.7.2
+CHANGELOG,B64,,2026-07-22
+CHANGELOG,C64,,"Phase 8.3 (CANDIDATE — not authoritative): re-verified Vanderbilt's 2026 QB situation. Clark Lea at SEC Media Days (2026-07-21) confirmed a genuine, undecided Jared Curtis vs Blaze Berlowitz competition (Berlowitz a credible veteran with two years in OC Tim Beck's system, Pavia's backup — not a mere backup); Lea declined to name a starter and the battle may run to the opener. Re-verification FAILED: Vanderbilt NOT reclassified L->M and NOT initialized. QB status counts remain 105 OK / 33 UNCERTAIN (not 106/32)."
+CHANGELOG,D64,,Phase 8.3 re-verification gate
+CHANGELOG,A65,,v0.7.2
+CHANGELOG,B65,,2026-07-22
+CHANGELOG,C65,,"No QB VALUES data changed vs v0.7.1: Baseline value (D) and Active value (F) still contain only 0 or blank; no nonzero QB deviation exists; formula count unchanged (123,011). The only cells that differ from v0.7.1 are this version banner (START HERE!A1) and these CHANGELOG rows."
+CHANGELOG,D65,,Phase 8.3 (null result — no data change)
+CHANGELOG,A66,,v0.7.2
+CHANGELOG,B66,,2026-07-22
+CHANGELOG,C66,,"Methodology cleanup (documentation only): future deviation bands replaced with discrete, non-overlapping quarter-point values (-4.00..+2.00; no backdoor QB value via ADJUSTMENTS); the review trail was moved to a SEPARATE qb_deviation_review_log (CSV/JSON) since the exception tracker has no review-log columns; the exception tracker gained ISO date fields (last_checked/most_recent_source/next_research/resolution)."
+CHANGELOG,D66,,Phase 8.3 methodology correction

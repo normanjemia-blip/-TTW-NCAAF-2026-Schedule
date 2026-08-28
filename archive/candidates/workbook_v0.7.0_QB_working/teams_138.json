@@ -1,0 +1,968 @@
+[
+ {
+  "row": 6,
+  "abbrev": "ALA",
+  "team": "Alabama",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 7,
+  "abbrev": "ARK",
+  "team": "Arkansas",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 8,
+  "abbrev": "AUB",
+  "team": "Auburn",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 9,
+  "abbrev": "FLA",
+  "team": "Florida",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 10,
+  "abbrev": "UGA",
+  "team": "Georgia",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 11,
+  "abbrev": "UK",
+  "team": "Kentucky",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 12,
+  "abbrev": "LSU",
+  "team": "LSU",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 13,
+  "abbrev": "MSST",
+  "team": "Mississippi State",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 14,
+  "abbrev": "MIZ",
+  "team": "Missouri",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 15,
+  "abbrev": "OU",
+  "team": "Oklahoma",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 16,
+  "abbrev": "MISS",
+  "team": "Ole Miss",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 17,
+  "abbrev": "SCAR",
+  "team": "South Carolina",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 18,
+  "abbrev": "TENN",
+  "team": "Tennessee",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 19,
+  "abbrev": "TEX",
+  "team": "Texas",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 20,
+  "abbrev": "TAMU",
+  "team": "Texas A&M",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 21,
+  "abbrev": "VAN",
+  "team": "Vanderbilt",
+  "conference": "SEC",
+  "status": "FBS"
+ },
+ {
+  "row": 22,
+  "abbrev": "ILL",
+  "team": "Illinois",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 23,
+  "abbrev": "IND",
+  "team": "Indiana",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 24,
+  "abbrev": "IOWA",
+  "team": "Iowa",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 25,
+  "abbrev": "MD",
+  "team": "Maryland",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 26,
+  "abbrev": "MICH",
+  "team": "Michigan",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 27,
+  "abbrev": "MSU",
+  "team": "Michigan State",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 28,
+  "abbrev": "MINN",
+  "team": "Minnesota",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 29,
+  "abbrev": "NEB",
+  "team": "Nebraska",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 30,
+  "abbrev": "NW",
+  "team": "Northwestern",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 31,
+  "abbrev": "OHST",
+  "team": "Ohio State",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 32,
+  "abbrev": "ORE",
+  "team": "Oregon",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 33,
+  "abbrev": "PSU",
+  "team": "Penn State",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 34,
+  "abbrev": "PUR",
+  "team": "Purdue",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 35,
+  "abbrev": "RUTG",
+  "team": "Rutgers",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 36,
+  "abbrev": "UCLA",
+  "team": "UCLA",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 37,
+  "abbrev": "USC",
+  "team": "USC",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 38,
+  "abbrev": "WASH",
+  "team": "Washington",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 39,
+  "abbrev": "WISC",
+  "team": "Wisconsin",
+  "conference": "Big Ten",
+  "status": "FBS"
+ },
+ {
+  "row": 40,
+  "abbrev": "ARIZ",
+  "team": "Arizona",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 41,
+  "abbrev": "AZST",
+  "team": "Arizona State",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 42,
+  "abbrev": "BAY",
+  "team": "Baylor",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 43,
+  "abbrev": "BYU",
+  "team": "BYU",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 44,
+  "abbrev": "CIN",
+  "team": "Cincinnati",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 45,
+  "abbrev": "COLO",
+  "team": "Colorado",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 46,
+  "abbrev": "HOU",
+  "team": "Houston",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 47,
+  "abbrev": "ISU",
+  "team": "Iowa State",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 48,
+  "abbrev": "KAN",
+  "team": "Kansas",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 49,
+  "abbrev": "KSU",
+  "team": "Kansas State",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 50,
+  "abbrev": "OKST",
+  "team": "Oklahoma State",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 51,
+  "abbrev": "TCU",
+  "team": "TCU",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 52,
+  "abbrev": "TTU",
+  "team": "Texas Tech",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 53,
+  "abbrev": "UCF",
+  "team": "UCF",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 54,
+  "abbrev": "UTAH",
+  "team": "Utah",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 55,
+  "abbrev": "WVU",
+  "team": "West Virginia",
+  "conference": "Big 12",
+  "status": "FBS"
+ },
+ {
+  "row": 56,
+  "abbrev": "BC",
+  "team": "Boston College",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 57,
+  "abbrev": "CAL",
+  "team": "California",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 58,
+  "abbrev": "CLEM",
+  "team": "Clemson",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 59,
+  "abbrev": "DUKE",
+  "team": "Duke",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 60,
+  "abbrev": "FSU",
+  "team": "Florida State",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 61,
+  "abbrev": "GT",
+  "team": "Georgia Tech",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 62,
+  "abbrev": "LOU",
+  "team": "Louisville",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 63,
+  "abbrev": "MIA",
+  "team": "Miami",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 64,
+  "abbrev": "NCST",
+  "team": "NC State",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 65,
+  "abbrev": "UNC",
+  "team": "North Carolina",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 66,
+  "abbrev": "PITT",
+  "team": "Pittsburgh",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 67,
+  "abbrev": "SMU",
+  "team": "SMU",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 68,
+  "abbrev": "STAN",
+  "team": "Stanford",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 69,
+  "abbrev": "SYR",
+  "team": "Syracuse",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 70,
+  "abbrev": "UVA",
+  "team": "Virginia",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 71,
+  "abbrev": "VT",
+  "team": "Virginia Tech",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 72,
+  "abbrev": "WAKE",
+  "team": "Wake Forest",
+  "conference": "ACC",
+  "status": "FBS"
+ },
+ {
+  "row": 73,
+  "abbrev": "BSU",
+  "team": "Boise State",
+  "conference": "Pac-12",
+  "status": "FBS"
+ },
+ {
+  "row": 74,
+  "abbrev": "CSU",
+  "team": "Colorado State",
+  "conference": "Pac-12",
+  "status": "FBS"
+ },
+ {
+  "row": 75,
+  "abbrev": "FRES",
+  "team": "Fresno State",
+  "conference": "Pac-12",
+  "status": "FBS"
+ },
+ {
+  "row": 76,
+  "abbrev": "ORST",
+  "team": "Oregon State",
+  "conference": "Pac-12",
+  "status": "FBS"
+ },
+ {
+  "row": 77,
+  "abbrev": "SDSU",
+  "team": "San Diego State",
+  "conference": "Pac-12",
+  "status": "FBS"
+ },
+ {
+  "row": 78,
+  "abbrev": "TXST",
+  "team": "Texas State",
+  "conference": "Pac-12",
+  "status": "FBS"
+ },
+ {
+  "row": 79,
+  "abbrev": "USU",
+  "team": "Utah State",
+  "conference": "Pac-12",
+  "status": "FBS"
+ },
+ {
+  "row": 80,
+  "abbrev": "WSU",
+  "team": "Washington State",
+  "conference": "Pac-12",
+  "status": "FBS"
+ },
+ {
+  "row": 81,
+  "abbrev": "ARMY",
+  "team": "Army",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 82,
+  "abbrev": "CLT",
+  "team": "Charlotte",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 83,
+  "abbrev": "ECU",
+  "team": "East Carolina",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 84,
+  "abbrev": "FAU",
+  "team": "Florida Atlantic",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 85,
+  "abbrev": "MEM",
+  "team": "Memphis",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 86,
+  "abbrev": "NAVY",
+  "team": "Navy",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 87,
+  "abbrev": "UNT",
+  "team": "North Texas",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 88,
+  "abbrev": "RICE",
+  "team": "Rice",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 89,
+  "abbrev": "USF",
+  "team": "South Florida",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 90,
+  "abbrev": "TEM",
+  "team": "Temple",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 91,
+  "abbrev": "TULN",
+  "team": "Tulane",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 92,
+  "abbrev": "TLSA",
+  "team": "Tulsa",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 93,
+  "abbrev": "UAB",
+  "team": "UAB",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 94,
+  "abbrev": "UTSA",
+  "team": "UTSA",
+  "conference": "American",
+  "status": "FBS"
+ },
+ {
+  "row": 95,
+  "abbrev": "DEL",
+  "team": "Delaware",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 96,
+  "abbrev": "FIU",
+  "team": "FIU",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 97,
+  "abbrev": "JVST",
+  "team": "Jacksonville State",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 98,
+  "abbrev": "KENN",
+  "team": "Kennesaw State",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 99,
+  "abbrev": "LIB",
+  "team": "Liberty",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 100,
+  "abbrev": "MTSU",
+  "team": "Middle Tennessee",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 101,
+  "abbrev": "MOST",
+  "team": "Missouri State",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 102,
+  "abbrev": "NMSU",
+  "team": "New Mexico State",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 103,
+  "abbrev": "SHSU",
+  "team": "Sam Houston",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 104,
+  "abbrev": "WKU",
+  "team": "Western Kentucky",
+  "conference": "Conference USA",
+  "status": "FBS"
+ },
+ {
+  "row": 105,
+  "abbrev": "AKR",
+  "team": "Akron",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 106,
+  "abbrev": "BALL",
+  "team": "Ball State",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 107,
+  "abbrev": "BGSU",
+  "team": "Bowling Green",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 108,
+  "abbrev": "BUFF",
+  "team": "Buffalo",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 109,
+  "abbrev": "CMU",
+  "team": "Central Michigan",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 110,
+  "abbrev": "EMU",
+  "team": "Eastern Michigan",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 111,
+  "abbrev": "KENT",
+  "team": "Kent State",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 112,
+  "abbrev": "M-OH",
+  "team": "Miami (OH)",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 113,
+  "abbrev": "OHIO",
+  "team": "Ohio",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 114,
+  "abbrev": "SAC",
+  "team": "Sacramento State",
+  "conference": "MAC",
+  "status": "FBS-RECLASSIFYING"
+ },
+ {
+  "row": 115,
+  "abbrev": "TOL",
+  "team": "Toledo",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 116,
+  "abbrev": "MASS",
+  "team": "UMass",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 117,
+  "abbrev": "WMU",
+  "team": "Western Michigan",
+  "conference": "MAC",
+  "status": "FBS"
+ },
+ {
+  "row": 118,
+  "abbrev": "AFA",
+  "team": "Air Force",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 119,
+  "abbrev": "HAW",
+  "team": "Hawai'i",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 120,
+  "abbrev": "NEV",
+  "team": "Nevada",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 121,
+  "abbrev": "UNM",
+  "team": "New Mexico",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 122,
+  "abbrev": "NDSU",
+  "team": "North Dakota State",
+  "conference": "Mountain West",
+  "status": "FBS-RECLASSIFYING"
+ },
+ {
+  "row": 123,
+  "abbrev": "NIU",
+  "team": "Northern Illinois",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 124,
+  "abbrev": "SJSU",
+  "team": "San Jos\u00e9 State",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 125,
+  "abbrev": "UNLV",
+  "team": "UNLV",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 126,
+  "abbrev": "UTEP",
+  "team": "UTEP",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 127,
+  "abbrev": "WYO",
+  "team": "Wyoming",
+  "conference": "Mountain West",
+  "status": "FBS"
+ },
+ {
+  "row": 128,
+  "abbrev": "APP",
+  "team": "Appalachian State",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 129,
+  "abbrev": "ARST",
+  "team": "Arkansas State",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 130,
+  "abbrev": "CCU",
+  "team": "Coastal Carolina",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 131,
+  "abbrev": "GASO",
+  "team": "Georgia Southern",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 132,
+  "abbrev": "GAST",
+  "team": "Georgia State",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 133,
+  "abbrev": "JMU",
+  "team": "James Madison",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 134,
+  "abbrev": "ULL",
+  "team": "Louisiana",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 135,
+  "abbrev": "LT",
+  "team": "Louisiana Tech",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 136,
+  "abbrev": "MRSH",
+  "team": "Marshall",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 137,
+  "abbrev": "ODU",
+  "team": "Old Dominion",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 138,
+  "abbrev": "USA",
+  "team": "South Alabama",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 139,
+  "abbrev": "USM",
+  "team": "Southern Miss",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 140,
+  "abbrev": "TROY",
+  "team": "Troy",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 141,
+  "abbrev": "ULM",
+  "team": "ULM",
+  "conference": "Sun Belt",
+  "status": "FBS"
+ },
+ {
+  "row": 142,
+  "abbrev": "ND",
+  "team": "Notre Dame",
+  "conference": "Independent",
+  "status": "FBS"
+ },
+ {
+  "row": 143,
+  "abbrev": "CONN",
+  "team": "UConn",
+  "conference": "Independent",
+  "status": "FBS"
+ }
+]

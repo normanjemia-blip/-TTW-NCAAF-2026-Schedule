@@ -1,0 +1,1 @@
+{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/2?lang=en&region=us","number":2,"startDate":"2026-09-08T07:00Z","endDate":"2026-09-14T06:59Z","text":"Week 2","rankings":{"$ref":"http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/2/rankings?lang=en&region=us"}}

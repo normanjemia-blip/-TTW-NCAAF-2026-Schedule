@@ -1,0 +1,889 @@
+id,espn_kickoff_utc,time_valid,venue,venue_city,venue_state,venue_country,venue_tz,local_kickoff,canonical_start_date,stored_start_date,needs_rederivation
+401856766,2026-08-29T16:00Z,True,Aviva Stadium,Dublin,,Ireland,Europe/Dublin,2026-08-29 17:00,2026-08-29,2026-08-29,False
+401858201,2026-08-29T23:00Z,True,Stanford Stadium,Stanford,CA,USA,America/Los_Angeles,2026-08-29 16:00,2026-08-29,2026-08-29,False
+401858202,2026-08-29T19:30Z,True,Scott Stadium,Charlottesville,VA,USA,America/New_York,2026-08-29 15:30,2026-08-29,2026-08-29,False
+401864494,2026-08-29T19:00Z,True,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,America/Los_Angeles,2026-08-29 12:00,2026-08-29,2026-08-29,False
+401864570,2026-08-29T23:00Z,True,Doak Campbell Stadium,Tallahassee,FL,USA,America/New_York,2026-08-29 19:00,2026-08-29,2026-08-29,False
+401864577,2026-08-29T21:30Z,True,Fargodome,Fargo,ND,USA,America/Chicago,2026-08-29 16:30,2026-08-29,2026-08-29,False
+401866408,2026-08-29T22:30Z,True,Rynearson Stadium,Ypsilanti,MI,USA,America/Detroit,2026-08-29 18:30,2026-08-29,2026-08-29,False
+401862693,2026-08-30T02:00Z,True,Allegiant Stadium,Las Vegas,NV,USA,America/Los_Angeles,2026-08-29 19:00,2026-08-29,2026-08-30,False
+401856767,2026-09-03T23:00Z,True,Acrisure Bounce House,Orlando,FL,USA,America/New_York,2026-09-03 19:00,2026-09-03,2026-09-03,False
+401858204,2026-09-03T23:00Z,True,Allegacy Federal Credit Union Stadium,Winston-Salem,NC,USA,America/New_York,2026-09-03 19:00,2026-09-03,2026-09-03,False
+401858423,2026-09-03T22:00Z,True,SHI Stadium,Piscataway,NJ,USA,America/New_York,2026-09-03 18:00,2026-09-03,2026-09-03,False
+401864424,2026-09-03T23:00Z,True,Delaware Stadium,Newark,DE,USA,America/New_York,2026-09-03 19:00,2026-09-03,2026-09-03,False
+401864425,2026-09-03T23:00Z,True,Walens Family Field at Fifth Third Stadium,Kennesaw,GA,USA,America/New_York,2026-09-03 19:00,2026-09-03,2026-09-03,False
+401866409,2026-09-03T23:00Z,True,Broadview Stadium,Buffalo,NY,USA,America/New_York,2026-09-03 19:00,2026-09-03,2026-09-03,False
+401856663,2026-09-04T00:00Z,True,Memorial Stadium,Columbia,MO,USA,America/Chicago,2026-09-03 19:00,2026-09-03,2026-09-04,False
+401856768,2026-09-04T01:00Z,True,Rice-Eccles Stadium,Salt Lake City,UT,USA,America/Denver,2026-09-03 19:00,2026-09-03,2026-09-04,False
+401856776,2026-09-04T00:00Z,True,Bobby Dodd Stadium,Atlanta,GA,USA,America/New_York,2026-09-03 20:00,2026-09-03,2026-09-04,False
+401858422,2026-09-04T00:00Z,True,Huntington Bank Stadium,Minneapolis,MN,USA,America/Chicago,2026-09-03 19:00,2026-09-03,2026-09-04,False
+401858424,2026-09-04T01:00Z,True,Gies Memorial Stadium,Champaign,IL,USA,America/Chicago,2026-09-03 20:00,2026-09-03,2026-09-04,False
+401858435,2026-09-04T23:00Z,True,Ross-Ade Stadium,West Lafayette,IN,USA,America/Indiana/Indianapolis,2026-09-04 19:00,2026-09-04,2026-09-04,False
+401864495,2026-09-04T22:30Z,True,Rynearson Stadium,Ypsilanti,MI,USA,America/Detroit,2026-09-04 18:30,2026-09-04,2026-09-04,False
+401866623,2026-09-04T23:00Z,True,Center Parc Stadium,Atlanta,GA,USA,America/New_York,2026-09-04 19:00,2026-09-04,2026-09-04,False
+401856634,2026-09-05T16:00Z,True,Bryant-Denny Stadium,Tuscaloosa,AL,USA,America/Chicago,2026-09-05 11:00,2026-09-05,2026-09-05,False
+401856635,2026-09-05T20:15Z,True,Donald W. Reynolds Razorback Stadium,Fayetteville,AR,USA,America/Chicago,2026-09-05 15:15,2026-09-05,2026-09-05,False
+401856636,2026-09-05T19:30Z,True,Mercedes-Benz Stadium,Atlanta,GA,USA,America/New_York,2026-09-05 15:30,2026-09-05,2026-09-05,False
+401856637,2026-09-05T23:45Z,True,Ben Hill Griffin Stadium,Gainesville,FL,USA,America/New_York,2026-09-05 19:45,2026-09-05,2026-09-05,False
+401856658,2026-09-05T19:00Z,True,Sanford Stadium,Athens,GA,USA,America/New_York,2026-09-05 15:00,2026-09-05,2026-09-05,False
+401856659,2026-09-05T17:00Z,True,Kroger Field,Lexington,KY,USA,America/New_York,2026-09-05 13:00,2026-09-05,2026-09-05,False
+401856660,2026-09-05T23:30Z,True,Tiger Stadium (LA),Baton Rouge,LA,USA,America/Chicago,2026-09-05 18:30,2026-09-05,2026-09-05,False
+401856662,2026-09-05T23:30Z,True,Davis Wade Stadium,Starkville,MS,USA,America/Chicago,2026-09-05 18:30,2026-09-05,2026-09-05,False
+401856664,2026-09-05T00:00Z,True,"Memorial Stadium (Norman, OK)",Norman,OK,USA,America/Chicago,2026-09-04 19:00,2026-09-04,2026-09-05,False
+401856665,2026-09-05T16:45Z,True,Williams-Brice Stadium,Columbia,SC,USA,America/New_York,2026-09-05 12:45,2026-09-05,2026-09-05,False
+401856666,2026-09-05T19:30Z,True,Neyland Stadium,Knoxville,TN,USA,America/New_York,2026-09-05 15:30,2026-09-05,2026-09-05,False
+401856667,2026-09-05T19:30Z,True,DKR-Texas Memorial Stadium,Austin,TX,USA,America/Chicago,2026-09-05 14:30,2026-09-05,2026-09-05,False
+401856668,2026-09-05T23:00Z,True,Kyle Field,College Station,TX,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401856669,2026-09-05T23:00Z,True,FirstBank Stadium,Nashville,TN,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401856769,2026-09-05T00:00Z,True,David Booth Kansas Memorial Stadium,Lawrence,KS,USA,America/Chicago,2026-09-04 19:00,2026-09-04,2026-09-05,False
+401856770,2026-09-05T23:00Z,True,Galaxy Stadium,Lubbock,TX,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401856771,2026-09-05T23:00Z,True,Bill Snyder Family Stadium,Manhattan,KS,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401856772,2026-09-05T19:45Z,True,H. A. Chapman Stadium,Tulsa,OK,USA,America/Chicago,2026-09-05 14:45,2026-09-05,2026-09-05,False
+401856777,2026-09-05T19:30Z,True,Nippert Stadium,Cincinnati,OH,USA,America/New_York,2026-09-05 15:30,2026-09-05,2026-09-05,False
+401856778,2026-09-05T16:00Z,True,TDECU Stadium,Houston,TX,USA,America/Chicago,2026-09-05 11:00,2026-09-05,2026-09-05,False
+401856779,2026-09-05T17:00Z,True,Jack Trice Stadium,Ames,IA,USA,America/Chicago,2026-09-05 12:00,2026-09-05,2026-09-05,False
+401856780,2026-09-05T16:00Z,True,Milan Puskar Stadium,Morgantown,WV,USA,America/New_York,2026-09-05 12:00,2026-09-05,2026-09-05,False
+401858206,2026-09-05T01:00Z,True,Stanford Stadium,Stanford,CA,USA,America/Los_Angeles,2026-09-04 18:00,2026-09-04,2026-09-05,False
+401858207,2026-09-05T16:30Z,True,Acrisure Stadium,Pittsburgh,PA,USA,America/New_York,2026-09-05 12:30,2026-09-05,2026-09-05,False
+401858208,2026-09-05T16:00Z,True,JMA Wireless Dome,Syracuse,NY,USA,America/New_York,2026-09-05 12:00,2026-09-05,2026-09-05,False
+401858209,2026-09-05T19:30Z,True,Wallace Wade Stadium,Durham,NC,USA,America/New_York,2026-09-05 15:30,2026-09-05,2026-09-05,False
+401858211,2026-09-05T23:30Z,True,Lane Stadium,Blacksburg,VA,USA,America/New_York,2026-09-05 19:30,2026-09-05,2026-09-05,False
+401858425,2026-09-05T16:00Z,True,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,USA,America/Indiana/Indianapolis,2026-09-05 12:00,2026-09-05,2026-09-05,False
+401858426,2026-09-05T20:15Z,True,Kinnick Stadium,Iowa City,IA,USA,America/Chicago,2026-09-05 15:15,2026-09-05,2026-09-05,False
+401858428,2026-09-05T23:30Z,True,Michigan Stadium,Ann Arbor,MI,USA,America/Detroit,2026-09-05 19:30,2026-09-05,2026-09-05,False
+401858429,2026-09-05T00:00Z,True,Spartan Stadium,East Lansing,MI,USA,America/Detroit,2026-09-04 20:00,2026-09-04,2026-09-05,False
+401858430,2026-09-05T16:00Z,True,"Memorial Stadium (Lincoln, NE)",Lincoln,NE,USA,America/Chicago,2026-09-05 11:00,2026-09-05,2026-09-05,False
+401858432,2026-09-05T16:30Z,True,Ohio Stadium,Columbus,OH,USA,America/New_York,2026-09-05 12:30,2026-09-05,2026-09-05,False
+401858433,2026-09-05T19:30Z,True,Autzen Stadium,Eugene,OR,USA,America/Los_Angeles,2026-09-05 12:30,2026-09-05,2026-09-05,False
+401858434,2026-09-05T19:30Z,True,Beaver Stadium,University Park,PA,USA,America/New_York,2026-09-05 15:30,2026-09-05,2026-09-05,False
+401858436,2026-09-05T01:00Z,True,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,America/Los_Angeles,2026-09-04 18:00,2026-09-04,2026-09-05,False
+401860878,2026-09-05T22:00Z,True,Canvas Stadium,Fort Collins,CO,USA,America/Denver,2026-09-05 16:00,2026-09-05,2026-09-05,False
+401860880,2026-09-05T23:00Z,True,Maverik Stadium,Logan,UT,USA,America/Denver,2026-09-05 17:00,2026-09-05,2026-09-05,False
+401861962,2026-09-05T16:00Z,True,Pratt & Whitney Stadium,East Hartford,CT,USA,America/New_York,2026-09-05 12:00,2026-09-05,2026-09-05,False
+401862694,2026-09-05T19:30Z,True,Jerry Richardson Stadium,Charlotte,NC,USA,America/New_York,2026-09-05 15:30,2026-09-05,2026-09-05,False
+401862695,2026-09-05T23:00Z,True,Simmons Bank Liberty Stadium,Memphis,TN,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401862696,2026-09-05T19:30Z,True,Navy-Marine Corps Memorial Stadium,Annapolis,MD,USA,America/New_York,2026-09-05 15:30,2026-09-05,2026-09-05,False
+401862697,2026-09-05T23:00Z,True,Rice Stadium,Houston,TX,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401862698,2026-09-05T18:00Z,True,Lincoln Financial Field,Philadelphia,PA,USA,America/New_York,2026-09-05 14:00,2026-09-05,2026-09-05,False
+401862699,2026-09-05T23:00Z,True,Raymond James Stadium,Tampa,FL,USA,America/New_York,2026-09-05 19:00,2026-09-05,2026-09-05,False
+401862700,2026-09-05T19:30Z,True,Alamodome,San Antonio,TX,USA,America/Chicago,2026-09-05 14:30,2026-09-05,2026-09-05,False
+401862701,2026-09-05T16:00Z,True,Michie Stadium,West Point,NY,USA,America/New_York,2026-09-05 12:00,2026-09-05,2026-09-05,False
+401864496,2026-09-05T17:00Z,True,Falcon Stadium,USAF Academy,CO,USA,America/Denver,2026-09-05 11:00,2026-09-05,2026-09-05,False
+401864499,2026-09-05T19:30Z,True,Fargodome,Fargo,ND,USA,America/Chicago,2026-09-05 14:30,2026-09-05,2026-09-05,False
+401866410,2026-09-05T16:00Z,True,Doyt L. Perry Stadium,Bowling Green,OH,USA,America/New_York,2026-09-05 12:00,2026-09-05,2026-09-05,False
+401866627,2026-09-05T19:30Z,True,Kidd Brewer Stadium,Boone,NC,USA,America/New_York,2026-09-05 15:30,2026-09-05,2026-09-05,False
+401867866,2026-09-05T23:00Z,True,"Johnny ""Red"" Floyd Stadium",Murfreesboro,TN,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401867973,2026-09-05T22:00Z,True,S.B. Ballard Stadium,Norfolk,VA,USA,America/New_York,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401868140,2026-09-05T23:00Z,True,AmFirst Stadium,Jacksonville,AL,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401868170,2026-09-05T23:00Z,True,Allen E. Paulson Stadium,Statesboro,GA,USA,America/New_York,2026-09-05 19:00,2026-09-05,2026-09-05,False
+401868316,2026-09-05T23:00Z,True,Hancock Whitney Stadium,Mobile,AL,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401868356,2026-09-05T21:00Z,True,M. M. Roberts Stadium,Hattiesburg,MS,USA,America/Chicago,2026-09-05 16:00,2026-09-05,2026-09-05,False
+401869129,2026-09-05T23:30Z,True,Joe Aillet Stadium,Ruston,LA,USA,America/Chicago,2026-09-05 18:30,2026-09-05,2026-09-05,False
+401869960,2026-09-05T16:00Z,True,Bridgeforth Stadium,Harrisonburg,VA,USA,America/New_York,2026-09-05 12:00,2026-09-05,2026-09-05,False
+401870763,2026-09-05T23:00Z,True,Veterans Memorial Stadium (AL),Troy,AL,USA,America/Chicago,2026-09-05 18:00,2026-09-05,2026-09-05,False
+401856661,2026-09-06T23:30Z,True,Nissan Stadium,Nashville,TN,USA,America/Chicago,2026-09-06 18:30,2026-09-06,2026-09-06,False
+401856773,2026-09-06T01:30Z,True,Casino Del Sol Stadium,Tucson,AZ,USA,America/Phoenix,2026-09-05 18:30,2026-09-05,2026-09-06,False
+401856774,2026-09-06T02:00Z,True,Mountain America Stadium,Tempe,AZ,USA,America/Phoenix,2026-09-05 19:00,2026-09-05,2026-09-06,False
+401856775,2026-09-06T00:00Z,True,LaVell Edwards Stadium,Provo,UT,USA,America/Denver,2026-09-05 18:00,2026-09-05,2026-09-06,False
+401858210,2026-09-06T02:30Z,True,California Memorial Stadium,Berkeley,CA,USA,America/Los_Angeles,2026-09-05 19:30,2026-09-05,2026-09-06,False
+401858427,2026-09-06T00:00Z,True,SECU Stadium,College Park,MD,USA,America/New_York,2026-09-05 20:00,2026-09-05,2026-09-06,False
+401858431,2026-09-06T00:00Z,True,Northwestern Medicine Field at Martin Stadium,Evanston,IL,USA,America/Chicago,2026-09-05 19:00,2026-09-05,2026-09-06,False
+401858437,2026-09-06T20:00Z,True,Husky Stadium,Seattle,WA,USA,America/Los_Angeles,2026-09-06 13:00,2026-09-06,2026-09-06,False
+401858438,2026-09-06T23:30Z,True,Lambeau Field,Green Bay,WI,USA,America/Chicago,2026-09-06 18:30,2026-09-06,2026-09-06,False
+401860879,2026-09-06T01:30Z,True,Snapdragon Stadium,San Diego,CA,USA,America/Los_Angeles,2026-09-05 18:30,2026-09-05,2026-09-06,False
+401864432,2026-09-06T02:30Z,True,Mackay Stadium,Reno,NV,USA,America/Los_Angeles,2026-09-05 19:30,2026-09-05,2026-09-06,False
+401864497,2026-09-06T02:00Z,True,Clarence T.C. Ching Athletics Complex,Honolulu,HI,USA,Pacific/Honolulu,2026-09-05 16:00,2026-09-05,2026-09-06,False
+401864498,2026-09-06T02:00Z,True,University Stadium (NM),Albuquerque,NM,USA,America/Denver,2026-09-05 20:00,2026-09-05,2026-09-06,False
+401866411,2026-09-06T02:00Z,True,Hornet Stadium,Sacramento,CA,USA,America/Los_Angeles,2026-09-05 19:00,2026-09-05,2026-09-06,False
+401869142,2026-09-06T00:00Z,True,Our Lady of Lourdes Stadium,Lafayette,LA,USA,America/Chicago,2026-09-05 19:00,2026-09-05,2026-09-06,False
+401870790,2026-09-06T01:00Z,True,Aggie Memorial Stadium,Las Cruces,NM,USA,America/Denver,2026-09-05 19:00,2026-09-05,2026-09-06,False
+401858212,2026-09-07T23:30Z,True,Doak Campbell Stadium,Tallahassee,FL,USA,America/New_York,2026-09-07 19:30,2026-09-07,2026-09-07,False
+401858213,2026-09-11T00:00Z,True,Hard Rock Stadium,Miami Gardens,FL,USA,America/New_York,2026-09-10 20:00,2026-09-10,2026-09-11,False
+401858214,2026-09-11T23:30Z,True,"Alumni Stadium (Chestnut Hill, MA)",Chestnut Hill,MA,USA,America/New_York,2026-09-11 19:30,2026-09-11,2026-09-11,False
+401858215,2026-09-11T23:00Z,True,L&N Federal Credit Union Stadium,Louisville,KY,USA,America/New_York,2026-09-11 19:00,2026-09-11,2026-09-11,False
+401858220,2026-09-11T23:00Z,True,Scott Stadium,Charlottesville,VA,USA,America/New_York,2026-09-11 19:00,2026-09-11,2026-09-11,False
+401858222,2026-09-11T23:00Z,True,Carter-Finley Stadium,Raleigh,NC,USA,America/New_York,2026-09-11 19:00,2026-09-11,2026-09-11,False
+401856671,2026-09-12T23:30Z,True,Jordan-Hare Stadium,Auburn,AL,USA,America/Chicago,2026-09-12 18:30,2026-09-12,2026-09-12,False
+401856672,2026-09-12T21:30Z,True,Ben Hill Griffin Stadium,Gainesville,FL,USA,America/New_York,2026-09-12 17:30,2026-09-12,2026-09-12,False
+401856673,2026-09-12T16:45Z,True,Sanford Stadium,Athens,GA,USA,America/New_York,2026-09-12 12:45,2026-09-12,2026-09-12,False
+401856674,2026-09-12T19:30Z,True,Kroger Field,Lexington,KY,USA,America/New_York,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401856676,2026-09-12T23:45Z,True,Vaught-Hemingway Stadium,Oxford,MS,USA,America/Chicago,2026-09-12 18:45,2026-09-12,2026-09-12,False
+401856677,2026-09-12T19:30Z,True,Huntington Bank Stadium,Minneapolis,MN,USA,America/Chicago,2026-09-12 14:30,2026-09-12,2026-09-12,False
+401856678,2026-09-12T00:00Z,True,David Booth Kansas Memorial Stadium,Lawrence,KS,USA,America/Chicago,2026-09-11 19:00,2026-09-11,2026-09-12,False
+401856679,2026-09-12T16:00Z,True,Michigan Stadium,Ann Arbor,MI,USA,America/Detroit,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401856680,2026-09-12T23:00Z,True,Williams-Brice Stadium,Columbia,SC,USA,America/New_York,2026-09-12 19:00,2026-09-12,2026-09-12,False
+401856681,2026-09-12T23:00Z,True,Bobby Dodd Stadium,Atlanta,GA,USA,America/New_York,2026-09-12 19:00,2026-09-12,2026-09-12,False
+401856682,2026-09-12T23:30Z,True,DKR-Texas Memorial Stadium,Austin,TX,USA,America/Chicago,2026-09-12 18:30,2026-09-12,2026-09-12,False
+401856683,2026-09-12T16:00Z,True,Kyle Field,College Station,TX,USA,America/Chicago,2026-09-12 11:00,2026-09-12,2026-09-12,False
+401856684,2026-09-12T20:15Z,True,FirstBank Stadium,Nashville,TN,USA,America/Chicago,2026-09-12 15:15,2026-09-12,2026-09-12,False
+401856781,2026-09-12T16:00Z,True,Bill Snyder Family Stadium,Manhattan,KS,USA,America/Chicago,2026-09-12 11:00,2026-09-12,2026-09-12,False
+401856782,2026-09-12T16:00Z,True,Boone Pickens Stadium,Stillwater,OK,USA,America/Chicago,2026-09-12 11:00,2026-09-12,2026-09-12,False
+401856783,2026-09-12T23:30Z,True,Reser Stadium,Corvallis,OR,USA,America/Los_Angeles,2026-09-12 16:30,2026-09-12,2026-09-12,False
+401856785,2026-09-12T19:30Z,True,Folsom Field,Boulder,CO,USA,America/Denver,2026-09-12 13:30,2026-09-12,2026-09-12,False
+401856786,2026-09-12T23:00Z,True,Nippert Stadium,Cincinnati,OH,USA,America/New_York,2026-09-12 19:00,2026-09-12,2026-09-12,False
+401856787,2026-09-12T23:00Z,True,TDECU Stadium,Houston,TX,USA,America/Chicago,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401856788,2026-09-12T23:30Z,True,Kinnick Stadium,Iowa City,IA,USA,America/Chicago,2026-09-12 18:30,2026-09-12,2026-09-12,False
+401856790,2026-09-12T19:30Z,True,Acrisure Stadium,Pittsburgh,PA,USA,America/New_York,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401856791,2026-09-12T17:00Z,True,Milan Puskar Stadium,Morgantown,WV,USA,America/New_York,2026-09-12 13:00,2026-09-12,2026-09-12,False
+401856810,2026-09-12T19:30Z,True,LaVell Edwards Stadium,Provo,UT,USA,America/Denver,2026-09-12 13:30,2026-09-12,2026-09-12,False
+401858216,2026-09-12T19:30Z,True,JMA Wireless Dome,Syracuse,NY,USA,America/New_York,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401858217,2026-09-12T19:30Z,True,Gies Memorial Stadium,Champaign,IL,USA,America/Chicago,2026-09-12 14:30,2026-09-12,2026-09-12,False
+401858218,2026-09-12T16:00Z,True,Kenan Stadium,Chapel Hill,NC,USA,America/New_York,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401858219,2026-09-12T23:30Z,True,"Memorial Stadium (Clemson, SC)",Clemson,SC,USA,America/New_York,2026-09-12 19:30,2026-09-12,2026-09-12,False
+401858221,2026-09-12T16:00Z,True,Lane Stadium,Blacksburg,VA,USA,America/New_York,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401858223,2026-09-12T20:00Z,True,Gerald J. Ford Stadium,Dallas,TX,USA,America/Chicago,2026-09-12 15:00,2026-09-12,2026-09-12,False
+401858224,2026-09-12T16:00Z,True,Ross-Ade Stadium,West Lafayette,IN,USA,America/Indiana/Indianapolis,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401858439,2026-09-12T16:00Z,True,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,USA,America/Indiana/Indianapolis,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401858440,2026-09-12T19:30Z,True,Spartan Stadium,East Lansing,MI,USA,America/Detroit,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401858441,2026-09-12T23:00Z,True,"Memorial Stadium (Lincoln, NE)",Lincoln,NE,USA,America/Chicago,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401858442,2026-09-12T16:00Z,True,Lincoln Financial Field,Philadelphia,PA,USA,America/New_York,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401858443,2026-09-12T23:15Z,True,Rose Bowl,Pasadena,CA,USA,America/Los_Angeles,2026-09-12 16:15,2026-09-12,2026-09-12,False
+401858444,2026-09-12T19:30Z,True,Pratt & Whitney Stadium,East Hartford,CT,USA,America/New_York,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401858446,2026-09-12T19:30Z,True,Husky Stadium,Seattle,WA,USA,America/Los_Angeles,2026-09-12 12:30,2026-09-12,2026-09-12,False
+401858447,2026-09-12T23:15Z,True,Camp Randall Stadium,Madison,WI,USA,America/Chicago,2026-09-12 18:15,2026-09-12,2026-09-12,False
+401859184,2026-09-12T19:30Z,True,Notre Dame Stadium,Notre Dame,IN,USA,America/Indiana/Indianapolis,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401860881,2026-09-12T22:00Z,True,Albertsons Stadium,Boise,ID,USA,America/Boise,2026-09-12 16:00,2026-09-12,2026-09-12,False
+401860882,2026-09-12T23:00Z,True,Canvas Stadium,Fort Collins,CO,USA,America/Denver,2026-09-12 17:00,2026-09-12,2026-09-12,False
+401860884,2026-09-12T19:30Z,True,UFCU Stadium,San Marcos,TX,USA,America/Chicago,2026-09-12 14:30,2026-09-12,2026-09-12,False
+401862702,2026-09-12T16:00Z,True,Michie Stadium,West Point,NY,USA,America/New_York,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401862703,2026-09-12T23:30Z,True,Flagler Credit Union Stadium,Boca Raton,FL,USA,America/New_York,2026-09-12 19:30,2026-09-12,2026-09-12,False
+401862705,2026-09-12T19:45Z,True,DATCU Stadium,Denton,TX,USA,America/Chicago,2026-09-12 14:45,2026-09-12,2026-09-12,False
+401862707,2026-09-12T23:00Z,True,Elliott T. Bowers Stadium,Huntsville,TX,USA,America/Chicago,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401862708,2026-09-12T19:30Z,True,Protective Stadium,Birmingham,AL,USA,America/Chicago,2026-09-12 14:30,2026-09-12,2026-09-12,False
+401864503,2026-09-12T23:00Z,True,Huskie Stadium,Dekalb,IL,USA,America/Chicago,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401864504,2026-09-12T04:00Z,False,CEFCU Stadium,San Jose,CA,USA,America/Los_Angeles,2026-09-11 21:00,2026-09-12,2026-09-12,True
+401864506,2026-09-12T20:00Z,True,War Memorial Stadium,Laramie,WY,USA,America/Denver,2026-09-12 14:00,2026-09-12,2026-09-12,False
+401864571,2026-09-12T16:00Z,True,Dowdy-Ficklen Stadium,Greenville,NC,USA,America/New_York,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401864575,2026-09-12T23:00Z,True,Yulman Stadium,New Orleans,LA,USA,America/Chicago,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401865252,2026-09-12T04:00Z,False,University Stadium (NM),Albuquerque,NM,USA,America/Denver,2026-09-11 22:00,2026-09-12,2026-09-12,True
+401866412,2026-09-12T19:30Z,True,InfoCision Stadium,Akron,OH,USA,America/New_York,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401866413,2026-09-12T18:00Z,True,Scheumann Stadium,Muncie,IN,USA,America/Indiana/Indianapolis,2026-09-12 14:00,2026-09-12,2026-09-12,False
+401866414,2026-09-12T22:00Z,True,Pitbull Stadium,Miami,FL,USA,America/New_York,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401866415,2026-09-12T17:00Z,True,Kelly/Shorts Stadium,Mount Pleasant,MI,USA,America/Detroit,2026-09-12 13:00,2026-09-12,2026-09-12,False
+401866416,2026-09-12T16:00Z,True,Zoeller Field at Dix Stadium,Kent,OH,USA,America/New_York,2026-09-12 12:00,2026-09-12,2026-09-12,False
+401866417,2026-09-12T17:00Z,True,Yager Stadium,Oxford,OH,USA,America/New_York,2026-09-12 13:00,2026-09-12,2026-09-12,False
+401866418,2026-09-12T22:00Z,True,Peden Stadium,Athens,OH,USA,America/New_York,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401866419,2026-09-12T19:30Z,True,Glass Bowl,Toledo,OH,USA,America/New_York,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401866420,2026-09-12T19:30Z,True,Warren McGuirk Alumni Stadium,Amherst,MA,USA,America/New_York,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401866421,2026-09-12T22:30Z,True,Waldo Stadium,Kalamazoo,MI,USA,America/Detroit,2026-09-12 18:30,2026-09-12,2026-09-12,False
+401867796,2026-09-12T23:30Z,True,Tiger Stadium (LA),Baton Rouge,LA,USA,America/Chicago,2026-09-12 18:30,2026-09-12,2026-09-12,False
+401867929,2026-09-12T19:30Z,True,Bridgeforth Stadium,Harrisonburg,VA,USA,America/New_York,2026-09-12 15:30,2026-09-12,2026-09-12,False
+401868008,2026-09-12T23:30Z,True,Brooks Stadium (SC),Conway,SC,USA,America/New_York,2026-09-12 19:30,2026-09-12,2026-09-12,False
+401868187,2026-09-12T22:00Z,True,Williams Stadium (VA),Lynchburg,VA,USA,America/New_York,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401868241,2026-09-12T23:00Z,True,Centennial Bank Stadium,Jonesboro,AR,USA,America/Chicago,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401868326,2026-09-12T20:00Z,True,Veterans Memorial Stadium (AL),Troy,AL,USA,America/Chicago,2026-09-12 15:00,2026-09-12,2026-09-12,False
+401869955,2026-09-12T23:00Z,True,Walens Family Field at Fifth Third Stadium,Kennesaw,GA,USA,America/New_York,2026-09-12 19:00,2026-09-12,2026-09-12,False
+401871045,2026-09-12T23:00Z,True,Joan C. Edwards Stadium,Huntington,WV,USA,America/New_York,2026-09-12 19:00,2026-09-12,2026-09-12,False
+401871046,2026-09-12T23:00Z,True,Robert W. Plaster Stadium,Springfield,MO,USA,America/Chicago,2026-09-12 18:00,2026-09-12,2026-09-12,False
+401856670,2026-09-13T02:15Z,True,Rice-Eccles Stadium,Salt Lake City,UT,USA,America/Denver,2026-09-12 20:15,2026-09-12,2026-09-13,False
+401856784,2026-09-13T00:00Z,True,McLane Stadium,Waco,TX,USA,America/Chicago,2026-09-12 19:00,2026-09-12,2026-09-13,False
+401856789,2026-09-13T00:00Z,True,Amon G. Carter Stadium,Fort Worth,TX,USA,America/Chicago,2026-09-12 19:00,2026-09-12,2026-09-13,False
+401858445,2026-09-13T03:00Z,True,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,America/Los_Angeles,2026-09-12 20:00,2026-09-12,2026-09-13,False
+401860883,2026-09-13T02:30Z,True,Valley Children's Stadium,Fresno,CA,USA,America/Los_Angeles,2026-09-12 19:30,2026-09-12,2026-09-13,False
+401864500,2026-09-13T02:30Z,True,Mackay Stadium,Reno,NV,USA,America/Los_Angeles,2026-09-12 19:30,2026-09-12,2026-09-13,False
+401864502,2026-09-13T02:00Z,True,Falcon Stadium,USAF Academy,CO,USA,America/Denver,2026-09-12 20:00,2026-09-12,2026-09-13,False
+401864505,2026-09-13T01:00Z,True,Sun Bowl,El Paso,TX,USA,America/Denver,2026-09-12 19:00,2026-09-12,2026-09-13,False
+401864578,2026-09-13T03:59Z,True,Clarence T.C. Ching Athletics Complex,Honolulu,HI,USA,Pacific/Honolulu,2026-09-12 17:59,2026-09-12,2026-09-13,False
+401858225,2026-09-17T23:30Z,True,Acrisure Stadium,Pittsburgh,PA,USA,America/New_York,2026-09-17 19:30,2026-09-17,2026-09-17,False
+401858226,2026-09-18T23:30Z,True,Allegacy Federal Credit Union Stadium,Winston-Salem,NC,USA,America/New_York,2026-09-18 19:30,2026-09-18,2026-09-18,False
+401856685,2026-09-19T19:30Z,True,Bryant-Denny Stadium,Tuscaloosa,AL,USA,America/Chicago,2026-09-19 14:30,2026-09-19,2026-09-19,False
+401856686,2026-09-19T16:00Z,True,Donald W. Reynolds Razorback Stadium,Fayetteville,AR,USA,America/Chicago,2026-09-19 11:00,2026-09-19,2026-09-19,False
+401856687,2026-09-19T23:00Z,True,Jordan-Hare Stadium,Auburn,AL,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401856688,2026-09-19T23:30Z,True,Vaught-Hemingway Stadium,Oxford,MS,USA,America/Chicago,2026-09-19 18:30,2026-09-19,2026-09-19,False
+401856689,2026-09-19T16:45Z,True,Memorial Stadium,Columbia,MO,USA,America/Chicago,2026-09-19 11:45,2026-09-19,2026-09-19,False
+401856690,2026-09-19T23:30Z,True,"Memorial Stadium (Norman, OK)",Norman,OK,USA,America/Chicago,2026-09-19 18:30,2026-09-19,2026-09-19,False
+401856691,2026-09-19T20:15Z,True,Williams-Brice Stadium,Columbia,SC,USA,America/New_York,2026-09-19 16:15,2026-09-19,2026-09-19,False
+401856692,2026-09-19T23:45Z,True,Neyland Stadium,Knoxville,TN,USA,America/New_York,2026-09-19 19:45,2026-09-19,2026-09-19,False
+401856694,2026-09-19T19:30Z,True,Kyle Field,College Station,TX,USA,America/Chicago,2026-09-19 14:30,2026-09-19,2026-09-19,False
+401856695,2026-09-19T16:45Z,True,FirstBank Stadium,Nashville,TN,USA,America/Chicago,2026-09-19 11:45,2026-09-19,2026-09-19,False
+401856792,2026-09-19T16:00Z,True,Bill Snyder Family Stadium,Manhattan,KS,USA,America/Chicago,2026-09-19 11:00,2026-09-19,2026-09-19,False
+401856795,2026-09-19T23:30Z,True,Canvas Stadium,Fort Collins,CO,USA,America/Denver,2026-09-19 17:30,2026-09-19,2026-09-19,False
+401856796,2026-09-19T23:30Z,True,Northwestern Medicine Field at Martin Stadium,Evanston,IL,USA,America/Chicago,2026-09-19 18:30,2026-09-19,2026-09-19,False
+401856797,2026-09-19T19:30Z,True,TQL Stadium,Cincinnati,OH,USA,America/New_York,2026-09-19 15:30,2026-09-19,2026-09-19,False
+401856798,2026-09-19T16:00Z,True,Jack Trice Stadium,Ames,IA,USA,America/Chicago,2026-09-19 11:00,2026-09-19,2026-09-19,False
+401856800,2026-09-19T23:00Z,True,Acrisure Bounce House,Orlando,FL,USA,America/New_York,2026-09-19 19:00,2026-09-19,2026-09-19,False
+401856801,2026-09-19T19:30Z,True,Rice-Eccles Stadium,Salt Lake City,UT,USA,America/Denver,2026-09-19 13:30,2026-09-19,2026-09-19,False
+401856802,2026-09-19T23:30Z,True,Bank of America Stadium,Charlotte,NC,USA,America/New_York,2026-09-19 19:30,2026-09-19,2026-09-19,False
+401856803,2026-09-19T23:00Z,True,Boone Pickens Stadium,Stillwater,OK,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401856811,2026-09-19T00:00Z,True,Galaxy Stadium,Lubbock,TX,USA,America/Chicago,2026-09-18 19:00,2026-09-18,2026-09-19,False
+401856812,2026-09-19T16:00Z,True,Wembley Stadium,London,,England,Europe/London,2026-09-19 17:00,2026-09-19,2026-09-19,False
+401858227,2026-09-19T18:00Z,True,"Alumni Stadium (Chestnut Hill, MA)",Chestnut Hill,MA,USA,America/New_York,2026-09-19 14:00,2026-09-19,2026-09-19,False
+401858228,2026-09-19T16:00Z,True,Bobby Dodd Stadium,Atlanta,GA,USA,America/New_York,2026-09-19 12:00,2026-09-19,2026-09-19,False
+401858229,2026-09-19T16:00Z,True,"Memorial Stadium (Clemson, SC)",Clemson,SC,USA,America/New_York,2026-09-19 12:00,2026-09-19,2026-09-19,False
+401858230,2026-09-19T19:30Z,True,L&N Federal Credit Union Stadium,Louisville,KY,USA,America/New_York,2026-09-19 15:30,2026-09-19,2026-09-19,False
+401858231,2026-09-19T20:00Z,True,Wallace Wade Stadium,Durham,NC,USA,America/New_York,2026-09-19 16:00,2026-09-19,2026-09-19,False
+401858232,2026-09-19T23:30Z,True,SECU Stadium,College Park,MD,USA,America/New_York,2026-09-19 19:30,2026-09-19,2026-09-19,False
+401858233,2026-09-19T19:30Z,True,California Memorial Stadium,Berkeley,CA,USA,America/Los_Angeles,2026-09-19 12:30,2026-09-19,2026-09-19,False
+401858448,2026-09-19T18:00Z,True,Gies Memorial Stadium,Champaign,IL,USA,America/Chicago,2026-09-19 13:00,2026-09-19,2026-09-19,False
+401858449,2026-09-19T20:00Z,True,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,USA,America/Indiana/Indianapolis,2026-09-19 16:00,2026-09-19,2026-09-19,False
+401858450,2026-09-19T19:30Z,True,Michigan Stadium,Ann Arbor,MI,USA,America/Detroit,2026-09-19 15:30,2026-09-19,2026-09-19,False
+401858451,2026-09-19T16:00Z,True,Huntington Bank Stadium,Minneapolis,MN,USA,America/Chicago,2026-09-19 11:00,2026-09-19,2026-09-19,False
+401858452,2026-09-19T23:15Z,True,"Memorial Stadium (Lincoln, NE)",Lincoln,NE,USA,America/Chicago,2026-09-19 18:15,2026-09-19,2026-09-19,False
+401858453,2026-09-19T23:30Z,True,Notre Dame Stadium,Notre Dame,IN,USA,America/Indiana/Indianapolis,2026-09-19 19:30,2026-09-19,2026-09-19,False
+401858454,2026-09-19T16:00Z,True,Ohio Stadium,Columbus,OH,USA,America/New_York,2026-09-19 12:00,2026-09-19,2026-09-19,False
+401858455,2026-09-19T02:30Z,True,Autzen Stadium,Eugene,OR,USA,America/Los_Angeles,2026-09-18 19:30,2026-09-18,2026-09-19,False
+401858456,2026-09-19T16:00Z,True,Beaver Stadium,University Park,PA,USA,America/New_York,2026-09-19 12:00,2026-09-19,2026-09-19,False
+401858457,2026-09-19T19:30Z,True,SHI Stadium,Piscataway,NJ,USA,America/New_York,2026-09-19 15:30,2026-09-19,2026-09-19,False
+401858459,2026-09-19T23:15Z,True,Husky Stadium,Seattle,WA,USA,America/Los_Angeles,2026-09-19 16:15,2026-09-19,2026-09-19,False
+401858460,2026-09-19T16:30Z,True,Camp Randall Stadium,Madison,WI,USA,America/Chicago,2026-09-19 11:30,2026-09-19,2026-09-19,False
+401858471,2026-09-19T20:00Z,True,Kinnick Stadium,Iowa City,IA,USA,America/Chicago,2026-09-19 15:00,2026-09-19,2026-09-19,False
+401860889,2026-09-19T16:00Z,True,UFCU Stadium,San Marcos,TX,USA,America/Chicago,2026-09-19 11:00,2026-09-19,2026-09-19,False
+401860890,2026-09-19T19:30Z,True,Martin Stadium,Pullman,WA,USA,America/Los_Angeles,2026-09-19 12:30,2026-09-19,2026-09-19,False
+401861963,2026-09-19T23:00Z,True,M. M. Roberts Stadium,Hattiesburg,MS,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401862710,2026-09-19T22:00Z,True,S.B. Ballard Stadium,Norfolk,VA,USA,America/New_York,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401862771,2026-09-19T22:00Z,True,Flagler Credit Union Stadium,Boca Raton,FL,USA,America/New_York,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401862772,2026-09-19T23:00Z,True,Simmons Bank Liberty Stadium,Memphis,TN,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401862773,2026-09-19T23:00Z,True,Rice Stadium,Houston,TX,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401862774,2026-09-19T19:00Z,True,Glass Bowl,Toledo,OH,USA,America/New_York,2026-09-19 15:00,2026-09-19,2026-09-19,False
+401862777,2026-09-19T23:00Z,True,Raymond James Stadium,Tampa,FL,USA,America/New_York,2026-09-19 19:00,2026-09-19,2026-09-19,False
+401864443,2026-09-19T23:00Z,True,"Johnny ""Red"" Floyd Stadium",Murfreesboro,TN,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401864508,2026-09-19T17:00Z,True,Kelly/Shorts Stadium,Mount Pleasant,MI,USA,America/Detroit,2026-09-19 13:00,2026-09-19,2026-09-19,False
+401864574,2026-09-19T22:00Z,True,Kidd Brewer Stadium,Boone,NC,USA,America/New_York,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401866422,2026-09-19T20:00Z,True,Williams Stadium (VA),Lynchburg,VA,USA,America/New_York,2026-09-19 16:00,2026-09-19,2026-09-19,False
+401866423,2026-09-19T23:00Z,True,Hancock Whitney Stadium,Mobile,AL,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401866424,2026-09-19T19:30Z,True,Warren McGuirk Alumni Stadium,Amherst,MA,USA,America/New_York,2026-09-19 15:30,2026-09-19,2026-09-19,False
+401867804,2026-09-19T20:00Z,True,McLane Stadium,Waco,TX,USA,America/Chicago,2026-09-19 15:00,2026-09-19,2026-09-19,False
+401868317,2026-09-19T20:30Z,True,Malone Stadium,Monroe,LA,USA,America/Chicago,2026-09-19 15:30,2026-09-19,2026-09-19,False
+401869940,2026-09-19T15:30Z,True,Delaware Stadium,Newark,DE,USA,America/New_York,2026-09-19 11:30,2026-09-19,2026-09-19,False
+401869948,2026-09-19T23:00Z,True,AmFirst Stadium,Jacksonville,AL,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401870764,2026-09-19T23:00Z,True,Elliott T. Bowers Stadium,Huntsville,TX,USA,America/Chicago,2026-09-19 18:00,2026-09-19,2026-09-19,False
+401871047,2026-09-19T22:30Z,True,Robert W. Plaster Stadium,Springfield,MO,USA,America/Chicago,2026-09-19 17:30,2026-09-19,2026-09-19,False
+401856693,2026-09-20T00:00Z,True,DKR-Texas Memorial Stadium,Austin,TX,USA,America/Chicago,2026-09-19 19:00,2026-09-19,2026-09-20,False
+401856793,2026-09-20T02:30Z,True,Casino Del Sol Stadium,Tucson,AZ,USA,America/Phoenix,2026-09-19 19:30,2026-09-19,2026-09-20,False
+401856799,2026-09-20T00:00Z,True,Amon G. Carter Stadium,Fort Worth,TX,USA,America/Chicago,2026-09-19 19:00,2026-09-19,2026-09-20,False
+401858458,2026-09-20T03:00Z,True,Rose Bowl,Pasadena,CA,USA,America/Los_Angeles,2026-09-19 20:00,2026-09-19,2026-09-20,False
+401860885,2026-09-20T02:00Z,True,Albertsons Stadium,Boise,ID,USA,America/Boise,2026-09-19 20:00,2026-09-19,2026-09-20,False
+401860886,2026-09-20T03:00Z,True,Reser Stadium,Corvallis,OR,USA,America/Los_Angeles,2026-09-19 20:00,2026-09-19,2026-09-20,False
+401860887,2026-09-20T02:00Z,True,Snapdragon Stadium,San Diego,CA,USA,America/Los_Angeles,2026-09-19 19:00,2026-09-19,2026-09-20,False
+401860888,2026-09-20T03:00Z,True,CEFCU Stadium,San Jose,CA,USA,America/Los_Angeles,2026-09-19 20:00,2026-09-19,2026-09-20,False
+401862775,2026-09-20T00:00Z,True,H. A. Chapman Stadium,Tulsa,OK,USA,America/Chicago,2026-09-19 19:00,2026-09-19,2026-09-20,False
+401862776,2026-09-20T00:00Z,True,Our Lady of Lourdes Stadium,Lafayette,LA,USA,America/Chicago,2026-09-19 19:00,2026-09-19,2026-09-20,False
+401864507,2026-09-20T02:30Z,True,Hornet Stadium,Sacramento,CA,USA,America/Los_Angeles,2026-09-19 19:30,2026-09-19,2026-09-20,False
+401869941,2026-09-24T23:30Z,True,Brooks Stadium (SC),Conway,SC,USA,America/New_York,2026-09-24 19:30,2026-09-24,2026-09-24,False
+401858468,2026-09-25T23:00Z,True,SHI Stadium,Piscataway,NJ,USA,America/New_York,2026-09-25 19:00,2026-09-25,2026-09-25,False
+401862778,2026-09-25T23:00Z,True,Protective Stadium,Birmingham,AL,USA,America/Chicago,2026-09-25 18:00,2026-09-25,2026-09-25,False
+401862779,2026-09-25T20:00Z,True,Lincoln Financial Field,Philadelphia,PA,USA,America/New_York,2026-09-25 16:00,2026-09-25,2026-09-25,False
+401856696,2026-09-26T04:00Z,False,Bryant-Denny Stadium,Tuscaloosa,AL,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401856698,2026-09-26T04:00Z,False,Jordan-Hare Stadium,Auburn,AL,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401856699,2026-09-26T04:00Z,False,Ben Hill Griffin Stadium,Gainesville,FL,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401856700,2026-09-26T04:00Z,False,Sanford Stadium,Athens,GA,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401856702,2026-09-26T04:00Z,False,Tiger Stadium (LA),Baton Rouge,LA,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401856703,2026-09-26T04:00Z,False,Davis Wade Stadium,Starkville,MS,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401856704,2026-09-26T16:00Z,True,Neyland Stadium,Knoxville,TN,USA,America/New_York,2026-09-26 12:00,2026-09-26,2026-09-26,False
+401856804,2026-09-26T23:30Z,True,Martin Stadium,Pullman,WA,USA,America/Los_Angeles,2026-09-26 16:30,2026-09-26,2026-09-26,False
+401856805,2026-09-26T04:00Z,False,Galaxy Stadium,Lubbock,TX,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401856806,2026-09-26T04:00Z,False,Allen E. Paulson Stadium,Statesboro,GA,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401856813,2026-09-26T04:00Z,False,McLane Stadium,Waco,TX,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401856814,2026-09-26T04:00Z,False,Nippert Stadium,Cincinnati,OH,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401856815,2026-09-26T04:00Z,False,Acrisure Bounce House,Orlando,FL,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401856816,2026-09-26T04:00Z,False,Jack Trice Stadium,Ames,IA,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401856881,2026-09-26T04:00Z,False,Milan Puskar Stadium,Morgantown,WV,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858234,2026-09-26T02:30Z,True,California Memorial Stadium,Berkeley,CA,USA,America/Los_Angeles,2026-09-25 19:30,2026-09-25,2026-09-26,False
+401858236,2026-09-26T16:00Z,True,Acrisure Stadium,Pittsburgh,PA,USA,America/New_York,2026-09-26 12:00,2026-09-26,2026-09-26,False
+401858237,2026-09-26T04:00Z,False,Doak Campbell Stadium,Tallahassee,FL,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858238,2026-09-26T22:30Z,True,Hard Rock Stadium,Miami Gardens,FL,USA,America/New_York,2026-09-26 18:30,2026-09-26,2026-09-26,False
+401858239,2026-09-26T04:00Z,False,Scott Stadium,Charlottesville,VA,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858241,2026-09-26T04:00Z,False,Gerald J. Ford Stadium,Dallas,TX,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401858242,2026-09-26T04:00Z,False,"Alumni Stadium (Chestnut Hill, MA)",Chestnut Hill,MA,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858243,2026-09-26T04:00Z,False,L&N Federal Credit Union Stadium,Louisville,KY,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858244,2026-09-26T19:30Z,True,Wallace Wade Stadium,Durham,NC,USA,America/New_York,2026-09-26 15:30,2026-09-26,2026-09-26,False
+401858461,2026-09-26T00:00Z,True,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,USA,America/Indiana/Indianapolis,2026-09-25 20:00,2026-09-25,2026-09-26,False
+401858462,2026-09-26T04:00Z,False,SECU Stadium,College Park,MD,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858463,2026-09-26T04:00Z,False,Michigan Stadium,Ann Arbor,MI,USA,America/Detroit,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858464,2026-09-26T04:00Z,False,Spartan Stadium,East Lansing,MI,USA,America/Detroit,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858465,2026-09-26T04:00Z,False,Ohio Stadium,Columbus,OH,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858466,2026-09-26T04:00Z,False,Beaver Stadium,University Park,PA,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858467,2026-09-26T04:00Z,False,Ross-Ade Stadium,West Lafayette,IN,USA,America/Indiana/Indianapolis,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401858469,2026-09-26T04:00Z,False,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,America/Los_Angeles,2026-09-25 21:00,2026-09-26,2026-09-26,True
+401858470,2026-09-26T04:00Z,False,Husky Stadium,Seattle,WA,USA,America/Los_Angeles,2026-09-25 21:00,2026-09-26,2026-09-26,True
+401860892,2026-09-26T22:00Z,True,UFCU Stadium,San Marcos,TX,USA,America/Chicago,2026-09-26 17:00,2026-09-26,2026-09-26,False
+401860893,2026-09-26T04:00Z,False,Glass Bowl,Toledo,OH,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401860894,2026-09-26T23:30Z,True,Maverik Stadium,Logan,UT,USA,America/Denver,2026-09-26 17:30,2026-09-26,2026-09-26,False
+401860896,2026-09-26T04:00Z,False,Alamodome,San Antonio,TX,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401860897,2026-09-26T04:00Z,False,Waldo Stadium,Kalamazoo,MI,USA,America/Detroit,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401861970,2026-09-26T04:00Z,False,Yager Stadium,Oxford,OH,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401862780,2026-09-26T04:00Z,False,Jerry Richardson Stadium,Charlotte,NC,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401862781,2026-09-26T20:00Z,True,Dowdy-Ficklen Stadium,Greenville,NC,USA,America/New_York,2026-09-26 16:00,2026-09-26,2026-09-26,False
+401862782,2026-09-26T04:00Z,False,Malone Stadium,Monroe,LA,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401862783,2026-09-26T23:30Z,True,DATCU Stadium,Denton,TX,USA,America/Chicago,2026-09-26 18:30,2026-09-26,2026-09-26,False
+401862784,2026-09-26T04:00Z,False,Yulman Stadium,New Orleans,LA,USA,America/Chicago,2026-09-25 23:00,2026-09-26,2026-09-26,True
+401862785,2026-09-26T04:00Z,False,Doyt L. Perry Stadium,Bowling Green,OH,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401864509,2026-09-26T04:00Z,False,Mackay Stadium,Reno,NV,USA,America/Los_Angeles,2026-09-25 21:00,2026-09-26,2026-09-26,True
+401864510,2026-09-26T19:00Z,True,War Memorial Stadium,Laramie,WY,USA,America/Denver,2026-09-26 13:00,2026-09-26,2026-09-26,False
+401864511,2026-09-26T04:00Z,False,Center Parc Stadium,Atlanta,GA,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401864512,2026-09-26T04:00Z,False,InfoCision Stadium,Akron,OH,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401864572,2026-09-26T04:00Z,False,Carter-Finley Stadium,Raleigh,NC,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401864576,2026-09-26T16:45Z,True,Kroger Field,Lexington,KY,USA,America/New_York,2026-09-26 12:45,2026-09-26,2026-09-26,False
+401864579,2026-09-26T19:30Z,True,Aggie Memorial Stadium,Las Cruces,NM,USA,America/Denver,2026-09-26 13:30,2026-09-26,2026-09-26,False
+401866425,2026-09-26T04:00Z,False,Zoeller Field at Dix Stadium,Kent,OH,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401866426,2026-09-26T19:30Z,True,Broadview Stadium,Buffalo,NY,USA,America/New_York,2026-09-26 15:30,2026-09-26,2026-09-26,False
+401866427,2026-09-26T17:00Z,True,Rynearson Stadium,Ypsilanti,MI,USA,America/Detroit,2026-09-26 13:00,2026-09-26,2026-09-26,False
+401866428,2026-09-26T19:30Z,True,Peden Stadium,Athens,OH,USA,America/New_York,2026-09-26 15:30,2026-09-26,2026-09-26,False
+401866429,2026-09-26T04:00Z,False,Hornet Stadium,Sacramento,CA,USA,America/Los_Angeles,2026-09-25 21:00,2026-09-26,2026-09-26,True
+401867909,2026-09-26T22:00Z,True,Pitbull Stadium,Miami,FL,USA,America/New_York,2026-09-26 18:00,2026-09-26,2026-09-26,False
+401868188,2026-09-26T19:30Z,True,Joan C. Edwards Stadium,Huntington,WV,USA,America/New_York,2026-09-26 15:30,2026-09-26,2026-09-26,False
+401869931,2026-09-26T23:00Z,True,Centennial Bank Stadium,Jonesboro,AR,USA,America/Chicago,2026-09-26 18:00,2026-09-26,2026-09-26,False
+401869961,2026-09-26T04:00Z,False,S.B. Ballard Stadium,Norfolk,VA,USA,America/New_York,2026-09-26 00:00,2026-09-26,2026-09-26,True
+401870745,2026-09-26T23:00Z,True,Houchens Industries-L.T. Smith Stadium,Bowling Green,KY,USA,America/Chicago,2026-09-26 18:00,2026-09-26,2026-09-26,False
+401871048,2026-09-26T23:00Z,True,AmFirst Stadium,Jacksonville,AL,USA,America/Chicago,2026-09-26 18:00,2026-09-26,2026-09-26,False
+401856697,2026-09-27T00:00Z,True,Donald W. Reynolds Razorback Stadium,Fayetteville,AR,USA,America/Chicago,2026-09-26 19:00,2026-09-26,2026-09-27,False
+401858240,2026-09-27T02:30Z,True,Stanford Stadium,Stanford,CA,USA,America/Los_Angeles,2026-09-26 19:30,2026-09-26,2026-09-27,False
+401860891,2026-09-27T02:00Z,True,Valley Children's Stadium,Fresno,CA,USA,America/Los_Angeles,2026-09-26 19:00,2026-09-26,2026-09-27,False
+401860895,2026-09-27T01:00Z,True,Sun Bowl,El Paso,TX,USA,America/Denver,2026-09-26 19:00,2026-09-26,2026-09-27,False
+401858245,2026-10-02T23:00Z,True,Lane Stadium,Blacksburg,VA,USA,America/New_York,2026-10-02 19:00,2026-10-02,2026-10-02,False
+401862786,2026-10-02T01:00Z,True,H. A. Chapman Stadium,Tulsa,OK,USA,America/Chicago,2026-10-01 20:00,2026-10-01,2026-10-02,False
+401871049,2026-10-02T00:00Z,True,Aggie Memorial Stadium,Las Cruces,NM,USA,America/Denver,2026-10-01 18:00,2026-10-01,2026-10-02,False
+401871050,2026-10-02T23:00Z,True,Delaware Stadium,Newark,DE,USA,America/New_York,2026-10-02 19:00,2026-10-02,2026-10-02,False
+401856705,2026-10-03T04:00Z,False,Sanford Stadium,Athens,GA,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401856706,2026-10-03T23:45Z,True,Tiger Stadium (LA),Baton Rouge,LA,USA,America/Chicago,2026-10-03 18:45,2026-10-03,2026-10-03,False
+401856707,2026-10-03T04:00Z,False,Davis Wade Stadium,Starkville,MS,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401856708,2026-10-03T04:00Z,False,Memorial Stadium,Columbia,MO,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401856709,2026-10-03T04:00Z,False,Williams-Brice Stadium,Columbia,SC,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401856710,2026-10-03T04:00Z,False,Neyland Stadium,Knoxville,TN,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401856711,2026-10-03T04:00Z,False,Kyle Field,College Station,TX,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401856807,2026-10-03T04:00Z,False,David Booth Kansas Memorial Stadium,Lawrence,KS,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401856817,2026-10-03T04:00Z,False,Mountain America Stadium,Tempe,AZ,USA,America/Phoenix,2026-10-02 21:00,2026-10-03,2026-10-03,True
+401856818,2026-10-03T04:00Z,False,Amon G. Carter Stadium,Fort Worth,TX,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401856819,2026-10-03T04:00Z,False,TDECU Stadium,Houston,TX,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401856820,2026-10-03T04:00Z,False,Casino Del Sol Stadium,Tucson,AZ,USA,America/Phoenix,2026-10-02 21:00,2026-10-03,2026-10-03,True
+401856821,2026-10-03T04:00Z,False,Folsom Field,Boulder,CO,USA,America/Denver,2026-10-02 22:00,2026-10-03,2026-10-03,True
+401856822,2026-10-03T04:00Z,False,Jack Trice Stadium,Ames,IA,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401858246,2026-10-03T04:00Z,False,Gerald J. Ford Stadium,Dallas,TX,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401858247,2026-10-03T19:30Z,True,Allegiant Stadium,Las Vegas,NV,USA,America/Los_Angeles,2026-10-03 12:30,2026-10-03,2026-10-03,False
+401858248,2026-10-03T04:00Z,False,Carter-Finley Stadium,Raleigh,NC,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401858249,2026-10-03T04:00Z,False,"Memorial Stadium (Clemson, SC)",Clemson,SC,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401858250,2026-10-03T04:00Z,False,Kenan Stadium,Chapel Hill,NC,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401858251,2026-10-03T04:00Z,False,Allegacy Federal Credit Union Stadium,Winston-Salem,NC,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401858252,2026-10-03T16:00Z,True,Pratt & Whitney Stadium,East Hartford,CT,USA,America/New_York,2026-10-03 12:00,2026-10-03,2026-10-03,False
+401858253,2026-10-03T04:00Z,False,Doak Campbell Stadium,Tallahassee,FL,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401858472,2026-10-03T04:00Z,False,Gies Memorial Stadium,Champaign,IL,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401858473,2026-10-03T04:00Z,False,Kinnick Stadium,Iowa City,IA,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401858474,2026-10-03T04:00Z,False,Huntington Bank Stadium,Minneapolis,MN,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401858475,2026-10-03T04:00Z,False,"Memorial Stadium (Lincoln, NE)",Lincoln,NE,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401858476,2026-10-03T00:00Z,True,Ryan Field,Evanston,IL,USA,America/Chicago,2026-10-02 19:00,2026-10-02,2026-10-03,False
+401858478,2026-10-03T04:00Z,False,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,America/Los_Angeles,2026-10-02 21:00,2026-10-03,2026-10-03,True
+401858479,2026-10-03T04:00Z,False,Camp Randall Stadium,Madison,WI,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401860898,2026-10-03T23:30Z,True,Albertsons Stadium,Boise,ID,USA,America/Boise,2026-10-03 17:30,2026-10-03,2026-10-03,False
+401860899,2026-10-03T22:00Z,True,Canvas Stadium,Fort Collins,CO,USA,America/Denver,2026-10-03 16:00,2026-10-03,2026-10-03,False
+401862787,2026-10-03T04:00Z,False,Jerry Richardson Stadium,Charlotte,NC,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401862788,2026-10-03T04:00Z,False,Rice Stadium,Houston,TX,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401862790,2026-10-03T22:00Z,True,Flagler Credit Union Stadium,Boca Raton,FL,USA,America/New_York,2026-10-03 18:00,2026-10-03,2026-10-03,False
+401862791,2026-10-03T16:00Z,True,Falcon Stadium,USAF Academy,CO,USA,America/Denver,2026-10-03 10:00,2026-10-03,2026-10-03,False
+401862792,2026-10-03T04:00Z,False,Raymond James Stadium,Tampa,FL,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401862793,2026-10-03T19:30Z,True,Protective Stadium,Birmingham,AL,USA,America/Chicago,2026-10-03 14:30,2026-10-03,2026-10-03,False
+401864514,2026-10-03T04:00Z,False,University Stadium (NM),Albuquerque,NM,USA,America/Denver,2026-10-02 22:00,2026-10-03,2026-10-03,True
+401864515,2026-10-03T19:30Z,True,Fargodome,Fargo,ND,USA,America/Chicago,2026-10-03 14:30,2026-10-03,2026-10-03,False
+401866430,2026-10-03T04:00Z,False,Kelly/Shorts Stadium,Mount Pleasant,MI,USA,America/Detroit,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401866431,2026-10-03T04:00Z,False,Scheumann Stadium,Muncie,IN,USA,America/Indiana/Indianapolis,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401866432,2026-10-03T04:00Z,False,Broadview Stadium,Buffalo,NY,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401866433,2026-10-03T04:00Z,False,Warren McGuirk Alumni Stadium,Amherst,MA,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401866434,2026-10-03T04:00Z,False,Zoeller Field at Dix Stadium,Kent,OH,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401866477,2026-10-03T04:00Z,False,Yager Stadium,Oxford,OH,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401869842,2026-10-03T04:00Z,False,Joe Aillet Stadium,Ruston,LA,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401869932,2026-10-03T04:00Z,False,Our Lady of Lourdes Stadium,Lafayette,LA,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401869942,2026-10-03T04:00Z,False,Brooks Stadium (SC),Conway,SC,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401869956,2026-10-03T04:00Z,False,Center Parc Stadium,Atlanta,GA,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401869962,2026-10-03T04:00Z,False,Bridgeforth Stadium,Harrisonburg,VA,USA,America/New_York,2026-10-03 00:00,2026-10-03,2026-10-03,True
+401871089,2026-10-03T04:00Z,False,Hancock Whitney Stadium,Mobile,AL,USA,America/Chicago,2026-10-02 23:00,2026-10-03,2026-10-03,True
+401858477,2026-10-04T00:00Z,True,SHI Stadium,Piscataway,NJ,USA,America/New_York,2026-10-03 20:00,2026-10-03,2026-10-04,False
+401860900,2026-10-04T02:30Z,True,Snapdragon Stadium,San Diego,CA,USA,America/Los_Angeles,2026-10-03 19:30,2026-10-03,2026-10-04,False
+401860921,2026-10-04T01:30Z,True,Martin Stadium,Pullman,WA,USA,America/Los_Angeles,2026-10-03 18:30,2026-10-03,2026-10-04,False
+401864513,2026-10-04T03:59Z,True,Clarence T.C. Ching Athletics Complex,Honolulu,HI,USA,Pacific/Honolulu,2026-10-03 17:59,2026-10-03,2026-10-04,False
+401871051,2026-10-07T23:00Z,True,Walens Family Field at Fifth Third Stadium,Kennesaw,GA,USA,America/New_York,2026-10-07 19:00,2026-10-07,2026-10-07,False
+401871066,2026-10-07T23:30Z,True,Pitbull Stadium,Miami,FL,USA,America/New_York,2026-10-07 19:30,2026-10-07,2026-10-07,False
+401871090,2026-10-07T00:00Z,True,Veterans Memorial Stadium (AL),Troy,AL,USA,America/Chicago,2026-10-06 19:00,2026-10-06,2026-10-07,False
+401862794,2026-10-08T23:30Z,True,Alamodome,San Antonio,TX,USA,America/Chicago,2026-10-08 18:30,2026-10-08,2026-10-08,False
+401869933,2026-10-08T23:30Z,True,Centennial Bank Stadium,Jonesboro,AR,USA,America/Chicago,2026-10-08 18:30,2026-10-08,2026-10-08,False
+401870766,2026-10-08T23:00Z,True,Williams Stadium (VA),Lynchburg,VA,USA,America/New_York,2026-10-08 19:00,2026-10-08,2026-10-08,False
+401871052,2026-10-08T23:00Z,True,Houchens Industries-L.T. Smith Stadium,Bowling Green,KY,USA,America/Chicago,2026-10-08 18:00,2026-10-08,2026-10-08,False
+401858254,2026-10-09T23:00Z,True,L&N Federal Credit Union Stadium,Louisville,KY,USA,America/New_York,2026-10-09 19:00,2026-10-09,2026-10-09,False
+401856712,2026-10-10T04:00Z,False,Bryant-Denny Stadium,Tuscaloosa,AL,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401856713,2026-10-10T04:00Z,False,Donald W. Reynolds Razorback Stadium,Fayetteville,AR,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401856714,2026-10-10T04:00Z,False,Ben Hill Griffin Stadium,Gainesville,FL,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401856715,2026-10-10T04:00Z,False,Kroger Field,Lexington,KY,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401856716,2026-10-10T04:00Z,False,Memorial Stadium,Columbia,MO,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401856717,2026-10-10T19:30Z,True,Cotton Bowl,Dallas,TX,USA,America/Chicago,2026-10-10 14:30,2026-10-10,2026-10-10,False
+401856718,2026-10-10T04:00Z,False,FirstBank Stadium,Nashville,TN,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401856808,2026-10-10T04:00Z,False,Mountain America Stadium,Tempe,AZ,USA,America/Phoenix,2026-10-09 21:00,2026-10-10,2026-10-10,True
+401856823,2026-10-10T04:00Z,False,Milan Puskar Stadium,Morgantown,WV,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401856824,2026-10-10T04:00Z,False,Boone Pickens Stadium,Stillwater,OK,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401856825,2026-10-10T04:00Z,False,Bill Snyder Family Stadium,Manhattan,KS,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401856826,2026-10-10T02:15Z,True,LaVell Edwards Stadium,Provo,UT,USA,America/Denver,2026-10-09 20:15,2026-10-09,2026-10-10,False
+401856827,2026-10-10T04:00Z,False,Rice-Eccles Stadium,Salt Lake City,UT,USA,America/Denver,2026-10-09 22:00,2026-10-10,2026-10-10,True
+401858255,2026-10-10T04:00Z,False,Bobby Dodd Stadium,Atlanta,GA,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401858256,2026-10-10T04:00Z,False,Acrisure Stadium,Pittsburgh,PA,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401858257,2026-10-10T19:30Z,True,Notre Dame Stadium,Notre Dame,IN,USA,America/Indiana/Indianapolis,2026-10-10 15:30,2026-10-10,2026-10-10,False
+401858258,2026-10-10T04:00Z,False,Scott Stadium,Charlottesville,VA,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401858259,2026-10-10T04:00Z,False,California Memorial Stadium,Berkeley,CA,USA,America/Los_Angeles,2026-10-09 21:00,2026-10-10,2026-10-10,True
+401858260,2026-10-10T04:00Z,False,Carter-Finley Stadium,Raleigh,NC,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401858480,2026-10-10T04:00Z,False,Spartan Stadium,East Lansing,MI,USA,America/Detroit,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401858481,2026-10-10T04:00Z,False,"Memorial Stadium (Lincoln, NE)",Lincoln,NE,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401858482,2026-10-10T04:00Z,False,Ryan Field,Evanston,IL,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401858483,2026-10-10T04:00Z,False,Ohio Stadium,Columbus,OH,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401858484,2026-10-10T04:00Z,False,Autzen Stadium,Eugene,OR,USA,America/Los_Angeles,2026-10-09 21:00,2026-10-10,2026-10-10,True
+401858485,2026-10-10T04:00Z,False,Beaver Stadium,University Park,PA,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401858486,2026-10-10T04:00Z,False,Ross-Ade Stadium,West Lafayette,IN,USA,America/Indiana/Indianapolis,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401858487,2026-10-10T01:00Z,True,Husky Stadium,Seattle,WA,USA,America/Los_Angeles,2026-10-09 18:00,2026-10-09,2026-10-10,False
+401860902,2026-10-10T22:00Z,True,Reser Stadium,Corvallis,OR,USA,America/Los_Angeles,2026-10-10 15:00,2026-10-10,2026-10-10,False
+401860922,2026-10-10T01:00Z,True,Maverik Stadium,Logan,UT,USA,America/Denver,2026-10-09 19:00,2026-10-09,2026-10-10,False
+401861964,2026-10-10T04:00Z,False,Lincoln Financial Field,Philadelphia,PA,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401862795,2026-10-10T16:00Z,True,Michie Stadium,West Point,NY,USA,America/New_York,2026-10-10 12:00,2026-10-10,2026-10-10,False
+401862796,2026-10-10T04:00Z,False,DATCU Stadium,Denton,TX,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401862797,2026-10-10T04:00Z,False,Dowdy-Ficklen Stadium,Greenville,NC,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401862798,2026-10-10T04:00Z,False,Simmons Bank Liberty Stadium,Memphis,TN,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401862799,2026-10-10T19:30Z,True,Navy-Marine Corps Memorial Stadium,Annapolis,MD,USA,America/New_York,2026-10-10 15:30,2026-10-10,2026-10-10,False
+401864516,2026-10-10T23:30Z,True,Huskie Stadium,Dekalb,IL,USA,America/Chicago,2026-10-10 18:30,2026-10-10,2026-10-10,False
+401864517,2026-10-10T04:00Z,False,Sun Bowl,El Paso,TX,USA,America/Denver,2026-10-09 22:00,2026-10-10,2026-10-10,True
+401864518,2026-10-10T23:00Z,True,Allegiant Stadium,Las Vegas,NV,USA,America/Los_Angeles,2026-10-10 16:00,2026-10-10,2026-10-10,False
+401864519,2026-10-10T01:00Z,True,CEFCU Stadium,San Jose,CA,USA,America/Los_Angeles,2026-10-09 18:00,2026-10-09,2026-10-10,False
+401866435,2026-10-10T19:30Z,True,InfoCision Stadium,Akron,OH,USA,America/New_York,2026-10-10 15:30,2026-10-10,2026-10-10,False
+401866436,2026-10-10T04:00Z,False,Doyt L. Perry Stadium,Bowling Green,OH,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401866437,2026-10-10T04:00Z,False,Glass Bowl,Toledo,OH,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401866438,2026-10-10T04:00Z,False,Peden Stadium,Athens,OH,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401866439,2026-10-10T04:00Z,False,Waldo Stadium,Kalamazoo,MI,USA,America/Detroit,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401866440,2026-10-10T04:00Z,False,Warren McGuirk Alumni Stadium,Amherst,MA,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401869843,2026-10-10T04:00Z,False,Kidd Brewer Stadium,Boone,NC,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401869943,2026-10-10T04:00Z,False,Joan C. Edwards Stadium,Huntington,WV,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401869949,2026-10-10T04:00Z,False,Allen E. Paulson Stadium,Statesboro,GA,USA,America/New_York,2026-10-10 00:00,2026-10-10,2026-10-10,True
+401869965,2026-10-10T04:00Z,False,Joe Aillet Stadium,Ruston,LA,USA,America/Chicago,2026-10-09 23:00,2026-10-10,2026-10-10,True
+401860901,2026-10-11T02:30Z,True,Valley Children's Stadium,Fresno,CA,USA,America/Los_Angeles,2026-10-10 19:30,2026-10-10,2026-10-11,False
+401871067,2026-10-13T23:00Z,True,"Johnny ""Red"" Floyd Stadium",Murfreesboro,TN,USA,America/Chicago,2026-10-13 18:00,2026-10-13,2026-10-13,False
+401871053,2026-10-14T00:00Z,True,AmFirst Stadium,Jacksonville,AL,USA,America/Chicago,2026-10-13 19:00,2026-10-13,2026-10-14,False
+401871054,2026-10-14T23:30Z,True,Robert W. Plaster Stadium,Springfield,MO,USA,America/Chicago,2026-10-14 18:30,2026-10-14,2026-10-14,False
+401862800,2026-10-15T23:30Z,True,Protective Stadium,Birmingham,AL,USA,America/Chicago,2026-10-15 18:30,2026-10-15,2026-10-15,False
+401869950,2026-10-15T23:30Z,True,S.B. Ballard Stadium,Norfolk,VA,USA,America/New_York,2026-10-15 19:30,2026-10-15,2026-10-15,False
+401871068,2026-10-15T00:00Z,True,Elliott T. Bowers Stadium,Huntsville,TX,USA,America/Chicago,2026-10-14 19:00,2026-10-14,2026-10-15,False
+401860923,2026-10-16T00:00Z,True,UFCU Stadium,San Marcos,TX,USA,America/Chicago,2026-10-15 19:00,2026-10-15,2026-10-16,False
+401862801,2026-10-16T23:30Z,True,Yulman Stadium,New Orleans,LA,USA,America/Chicago,2026-10-16 18:30,2026-10-16,2026-10-16,False
+401856719,2026-10-17T04:00Z,False,Sanford Stadium,Athens,GA,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401856720,2026-10-17T04:00Z,False,Tiger Stadium (LA),Baton Rouge,LA,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856721,2026-10-17T04:00Z,False,Vaught-Hemingway Stadium,Oxford,MS,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856722,2026-10-17T04:00Z,False,"Memorial Stadium (Norman, OK)",Norman,OK,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856723,2026-10-17T04:00Z,False,Neyland Stadium,Knoxville,TN,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401856724,2026-10-17T04:00Z,False,DKR-Texas Memorial Stadium,Austin,TX,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856725,2026-10-17T17:00Z,True,Kyle Field,College Station,TX,USA,America/Chicago,2026-10-17 12:00,2026-10-17,2026-10-17,False
+401856726,2026-10-17T04:00Z,False,FirstBank Stadium,Nashville,TN,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856809,2026-10-17T04:00Z,False,LaVell Edwards Stadium,Provo,UT,USA,America/Denver,2026-10-16 22:00,2026-10-17,2026-10-17,True
+401856828,2026-10-17T04:00Z,False,Galaxy Stadium,Lubbock,TX,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856829,2026-10-17T04:00Z,False,Milan Puskar Stadium,Morgantown,WV,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401856830,2026-10-17T04:00Z,False,Bill Snyder Family Stadium,Manhattan,KS,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856831,2026-10-17T04:00Z,False,TDECU Stadium,Houston,TX,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856832,2026-10-17T04:00Z,False,McLane Stadium,Waco,TX,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401856833,2026-10-17T04:00Z,False,Folsom Field,Boulder,CO,USA,America/Denver,2026-10-16 22:00,2026-10-17,2026-10-17,True
+401858261,2026-10-17T04:00Z,False,"Memorial Stadium (Clemson, SC)",Clemson,SC,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858262,2026-10-17T23:30Z,True,Stanford Stadium,Stanford,CA,USA,America/Los_Angeles,2026-10-17 16:30,2026-10-17,2026-10-17,False
+401858263,2026-10-17T04:00Z,False,Hard Rock Stadium,Miami Gardens,FL,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858264,2026-10-17T04:00Z,False,Lane Stadium,Blacksburg,VA,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858265,2026-10-17T04:00Z,False,JMA Wireless Dome,Syracuse,NY,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858266,2026-10-17T04:00Z,False,Wallace Wade Stadium,Durham,NC,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858267,2026-10-17T04:00Z,False,"Alumni Stadium (Chestnut Hill, MA)",Chestnut Hill,MA,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858268,2026-10-17T04:00Z,False,Gerald J. Ford Stadium,Dallas,TX,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401858269,2026-10-17T04:00Z,False,California Memorial Stadium,Berkeley,CA,USA,America/Los_Angeles,2026-10-16 21:00,2026-10-17,2026-10-17,True
+401858488,2026-10-17T04:00Z,False,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,USA,America/Indiana/Indianapolis,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858489,2026-10-17T04:00Z,False,SECU Stadium,College Park,MD,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858490,2026-10-17T04:00Z,False,Michigan Stadium,Ann Arbor,MI,USA,America/Detroit,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858491,2026-10-17T04:00Z,False,Spartan Stadium,East Lansing,MI,USA,America/Detroit,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401858492,2026-10-17T04:00Z,False,Autzen Stadium,Eugene,OR,USA,America/Los_Angeles,2026-10-16 21:00,2026-10-17,2026-10-17,True
+401858493,2026-10-17T00:00Z,True,Ross-Ade Stadium,West Lafayette,IN,USA,America/Indiana/Indianapolis,2026-10-16 20:00,2026-10-16,2026-10-17,False
+401858494,2026-10-17T04:00Z,False,Rose Bowl,Pasadena,CA,USA,America/Los_Angeles,2026-10-16 21:00,2026-10-17,2026-10-17,True
+401860903,2026-10-17T22:00Z,True,Reser Stadium,Corvallis,OR,USA,America/Los_Angeles,2026-10-17 15:00,2026-10-17,2026-10-17,False
+401862802,2026-10-17T16:00Z,True,Michie Stadium,West Point,NY,USA,America/New_York,2026-10-17 12:00,2026-10-17,2026-10-17,False
+401862803,2026-10-17T04:00Z,False,Lincoln Financial Field,Philadelphia,PA,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401862804,2026-10-17T04:00Z,False,Alamodome,San Antonio,TX,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401862805,2026-10-17T04:00Z,False,Rice Stadium,Houston,TX,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401862806,2026-10-17T04:00Z,False,Raymond James Stadium,Tampa,FL,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401864520,2026-10-17T23:00Z,True,Fargodome,Fargo,ND,USA,America/Chicago,2026-10-17 18:00,2026-10-17,2026-10-17,False
+401864521,2026-10-17T04:00Z,False,Clarence T.C. Ching Athletics Complex,Honolulu,HI,USA,Pacific/Honolulu,2026-10-16 18:00,2026-10-17,2026-10-17,True
+401864522,2026-10-17T19:30Z,True,War Memorial Stadium,Laramie,WY,USA,America/Denver,2026-10-17 13:30,2026-10-17,2026-10-17,False
+401864524,2026-10-17T19:30Z,True,Falcon Stadium,USAF Academy,CO,USA,America/Denver,2026-10-17 13:30,2026-10-17,2026-10-17,False
+401866441,2026-10-17T04:00Z,False,Doyt L. Perry Stadium,Bowling Green,OH,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401866442,2026-10-17T04:00Z,False,Broadview Stadium,Buffalo,NY,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401866443,2026-10-17T04:00Z,False,Kelly/Shorts Stadium,Mount Pleasant,MI,USA,America/Detroit,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401866444,2026-10-17T04:00Z,False,Rynearson Stadium,Ypsilanti,MI,USA,America/Detroit,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401866445,2026-10-17T04:00Z,False,Hornet Stadium,Sacramento,CA,USA,America/Los_Angeles,2026-10-16 21:00,2026-10-17,2026-10-17,True
+401866478,2026-10-17T04:00Z,False,Yager Stadium,Oxford,OH,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401869844,2026-10-17T00:00Z,True,Brooks Stadium (SC),Conway,SC,USA,America/New_York,2026-10-16 20:00,2026-10-16,2026-10-17,False
+401869934,2026-10-17T04:00Z,False,M. M. Roberts Stadium,Hattiesburg,MS,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401869957,2026-10-17T04:00Z,False,Bridgeforth Stadium,Harrisonburg,VA,USA,America/New_York,2026-10-17 00:00,2026-10-17,2026-10-17,True
+401869966,2026-10-17T04:00Z,False,Our Lady of Lourdes Stadium,Lafayette,LA,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401871091,2026-10-17T04:00Z,False,Malone Stadium,Monroe,LA,USA,America/Chicago,2026-10-16 23:00,2026-10-17,2026-10-17,True
+401860904,2026-10-18T02:30Z,True,Snapdragon Stadium,San Diego,CA,USA,America/Los_Angeles,2026-10-17 19:30,2026-10-17,2026-10-18,False
+401864523,2026-10-18T01:00Z,True,Sun Bowl,El Paso,TX,USA,America/Denver,2026-10-17 19:00,2026-10-17,2026-10-18,False
+401871055,2026-10-20T23:00Z,True,Pitbull Stadium,Miami,FL,USA,America/New_York,2026-10-20 19:00,2026-10-20,2026-10-20,False
+401871069,2026-10-20T23:00Z,True,Delaware Stadium,Newark,DE,USA,America/New_York,2026-10-20 19:00,2026-10-20,2026-10-20,False
+401871092,2026-10-20T23:30Z,True,Joan C. Edwards Stadium,Huntington,WV,USA,America/New_York,2026-10-20 19:30,2026-10-20,2026-10-20,False
+401862807,2026-10-22T23:30Z,True,Simmons Bank Liberty Stadium,Memphis,TN,USA,America/Chicago,2026-10-22 18:30,2026-10-22,2026-10-22,False
+401869845,2026-10-22T23:00Z,True,Kidd Brewer Stadium,Boone,NC,USA,America/New_York,2026-10-22 19:00,2026-10-22,2026-10-22,False
+401871056,2026-10-22T23:00Z,True,Walens Family Field at Fifth Third Stadium,Kennesaw,GA,USA,America/New_York,2026-10-22 19:00,2026-10-22,2026-10-22,False
+401871070,2026-10-22T00:00Z,True,Elliott T. Bowers Stadium,Huntsville,TX,USA,America/Chicago,2026-10-21 19:00,2026-10-21,2026-10-22,False
+401858271,2026-10-23T23:00Z,True,Scott Stadium,Charlottesville,VA,USA,America/New_York,2026-10-23 19:00,2026-10-23,2026-10-23,False
+401861965,2026-10-23T23:00Z,True,Pratt & Whitney Stadium,East Hartford,CT,USA,America/New_York,2026-10-23 19:00,2026-10-23,2026-10-23,False
+401856727,2026-10-24T04:00Z,False,Bryant-Denny Stadium,Tuscaloosa,AL,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401856728,2026-10-24T16:00Z,True,Jordan-Hare Stadium,Auburn,AL,USA,America/Chicago,2026-10-24 11:00,2026-10-24,2026-10-24,False
+401856729,2026-10-24T04:00Z,False,Kroger Field,Lexington,KY,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401856730,2026-10-24T04:00Z,False,Davis Wade Stadium,Starkville,MS,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401856731,2026-10-24T04:00Z,False,Williams-Brice Stadium,Columbia,SC,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401856732,2026-10-24T04:00Z,False,DKR-Texas Memorial Stadium,Austin,TX,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401856834,2026-10-24T04:00Z,False,David Booth Kansas Memorial Stadium,Lawrence,KS,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401856835,2026-10-24T04:00Z,False,Acrisure Bounce House,Orlando,FL,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401856836,2026-10-24T04:00Z,False,Boone Pickens Stadium,Stillwater,OK,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401856837,2026-10-24T04:00Z,False,Rice-Eccles Stadium,Salt Lake City,UT,USA,America/Denver,2026-10-23 22:00,2026-10-24,2026-10-24,True
+401856838,2026-10-24T04:00Z,False,Casino Del Sol Stadium,Tucson,AZ,USA,America/Phoenix,2026-10-23 21:00,2026-10-24,2026-10-24,True
+401856839,2026-10-24T04:00Z,False,Mountain America Stadium,Tempe,AZ,USA,America/Phoenix,2026-10-23 21:00,2026-10-24,2026-10-24,True
+401856840,2026-10-24T04:00Z,False,Nippert Stadium,Cincinnati,OH,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401856841,2026-10-24T04:00Z,False,Amon G. Carter Stadium,Fort Worth,TX,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401858270,2026-10-24T04:00Z,False,Gerald J. Ford Stadium,Dallas,TX,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401858272,2026-10-24T02:30Z,True,Stanford Stadium,Stanford,CA,USA,America/Los_Angeles,2026-10-23 19:30,2026-10-23,2026-10-24,False
+401858273,2026-10-24T04:00Z,False,Bobby Dodd Stadium,Atlanta,GA,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401858274,2026-10-24T04:00Z,False,Hard Rock Stadium,Miami Gardens,FL,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401858275,2026-10-24T04:00Z,False,Kenan Stadium,Chapel Hill,NC,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401858276,2026-10-24T04:00Z,False,"Memorial Stadium (Clemson, SC)",Clemson,SC,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401858495,2026-10-24T04:00Z,False,Gies Memorial Stadium,Champaign,IL,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401858496,2026-10-24T04:00Z,False,Michigan Stadium,Ann Arbor,MI,USA,America/Detroit,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401858497,2026-10-24T04:00Z,False,Huntington Bank Stadium,Minneapolis,MN,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401858498,2026-10-24T04:00Z,False,Ryan Field,Evanston,IL,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401858499,2026-10-24T04:00Z,False,Rose Bowl,Pasadena,CA,USA,America/Los_Angeles,2026-10-23 21:00,2026-10-24,2026-10-24,True
+401858500,2026-10-24T04:00Z,False,Camp Randall Stadium,Madison,WI,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401860905,2026-10-24T22:30Z,True,Canvas Stadium,Fort Collins,CO,USA,America/Denver,2026-10-24 16:30,2026-10-24,2026-10-24,False
+401860906,2026-10-24T23:30Z,True,UFCU Stadium,San Marcos,TX,USA,America/Chicago,2026-10-24 18:30,2026-10-24,2026-10-24,False
+401860907,2026-10-24T22:00Z,True,Martin Stadium,Pullman,WA,USA,America/Los_Angeles,2026-10-24 15:00,2026-10-24,2026-10-24,False
+401862808,2026-10-24T00:30Z,True,H. A. Chapman Stadium,Tulsa,OK,USA,America/Chicago,2026-10-23 19:30,2026-10-23,2026-10-24,False
+401862809,2026-10-24T04:00Z,False,Flagler Credit Union Stadium,Boca Raton,FL,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401862810,2026-10-24T19:30Z,True,Navy-Marine Corps Memorial Stadium,Annapolis,MD,USA,America/New_York,2026-10-24 15:30,2026-10-24,2026-10-24,False
+401862811,2026-10-24T04:00Z,False,Yulman Stadium,New Orleans,LA,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401864525,2026-10-24T01:00Z,True,War Memorial Stadium,Laramie,WY,USA,America/Denver,2026-10-23 19:00,2026-10-23,2026-10-24,False
+401864526,2026-10-24T04:00Z,False,Huskie Stadium,Dekalb,IL,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401864528,2026-10-24T21:00Z,True,Mackay Stadium,Reno,NV,USA,America/Los_Angeles,2026-10-24 14:00,2026-10-24,2026-10-24,False
+401866446,2026-10-24T04:00Z,False,Zoeller Field at Dix Stadium,Kent,OH,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401866447,2026-10-24T04:00Z,False,Scheumann Stadium,Muncie,IN,USA,America/Indiana/Indianapolis,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401866448,2026-10-24T04:00Z,False,Broadview Stadium,Buffalo,NY,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401866449,2026-10-24T04:00Z,False,Peden Stadium,Athens,OH,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401866450,2026-10-24T04:00Z,False,Glass Bowl,Toledo,OH,USA,America/New_York,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401866476,2026-10-24T04:00Z,False,Kelly/Shorts Stadium,Mount Pleasant,MI,USA,America/Detroit,2026-10-24 00:00,2026-10-24,2026-10-24,True
+401869935,2026-10-24T23:00Z,True,Centennial Bank Stadium,Jonesboro,AR,USA,America/Chicago,2026-10-24 18:00,2026-10-24,2026-10-24,False
+401869967,2026-10-24T04:00Z,False,M. M. Roberts Stadium,Hattiesburg,MS,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401871093,2026-10-24T04:00Z,False,Joe Aillet Stadium,Ruston,LA,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401871094,2026-10-24T04:00Z,False,Veterans Memorial Stadium (AL),Troy,AL,USA,America/Chicago,2026-10-23 23:00,2026-10-24,2026-10-24,True
+401864527,2026-10-25T02:00Z,True,University Stadium (NM),Albuquerque,NM,USA,America/Denver,2026-10-24 20:00,2026-10-24,2026-10-25,False
+401871071,2026-10-27T23:00Z,True,Houchens Industries-L.T. Smith Stadium,Bowling Green,KY,USA,America/Chicago,2026-10-27 18:00,2026-10-27,2026-10-27,False
+401871058,2026-10-28T23:00Z,True,"Johnny ""Red"" Floyd Stadium",Murfreesboro,TN,USA,America/Chicago,2026-10-28 18:00,2026-10-28,2026-10-28,False
+401871072,2026-10-28T00:00Z,True,Robert W. Plaster Stadium,Springfield,MO,USA,America/Chicago,2026-10-27 19:00,2026-10-27,2026-10-28,False
+401862812,2026-10-29T23:30Z,True,DATCU Stadium,Denton,TX,USA,America/Chicago,2026-10-29 18:30,2026-10-29,2026-10-29,False
+401869963,2026-10-29T23:30Z,True,Bridgeforth Stadium,Harrisonburg,VA,USA,America/New_York,2026-10-29 19:30,2026-10-29,2026-10-29,False
+401871057,2026-10-29T00:00Z,True,Aggie Memorial Stadium,Las Cruces,NM,USA,America/Denver,2026-10-28 18:00,2026-10-28,2026-10-29,False
+401856844,2026-10-30T23:30Z,True,Acrisure Bounce House,Orlando,FL,USA,America/New_York,2026-10-30 19:30,2026-10-30,2026-10-30,False
+401862813,2026-10-30T23:00Z,True,Jerry Richardson Stadium,Charlotte,NC,USA,America/New_York,2026-10-30 19:00,2026-10-30,2026-10-30,False
+401856733,2026-10-31T04:00Z,False,Donald W. Reynolds Razorback Stadium,Fayetteville,AR,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401856734,2026-10-31T19:30Z,True,Mercedes-Benz Stadium,Atlanta,GA,USA,America/New_York,2026-10-31 15:30,2026-10-31,2026-10-31,False
+401856735,2026-10-31T04:00Z,False,Vaught-Hemingway Stadium,Oxford,MS,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401856736,2026-10-31T04:00Z,False,"Memorial Stadium (Norman, OK)",Norman,OK,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401856737,2026-10-31T04:00Z,False,DKR-Texas Memorial Stadium,Austin,TX,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401856842,2026-10-31T04:00Z,False,Galaxy Stadium,Lubbock,TX,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401856843,2026-10-31T04:00Z,False,LaVell Edwards Stadium,Provo,UT,USA,America/Denver,2026-10-30 22:00,2026-10-31,2026-10-31,True
+401856845,2026-10-31T04:00Z,False,Amon G. Carter Stadium,Fort Worth,TX,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401856846,2026-10-31T04:00Z,False,Folsom Field,Boulder,CO,USA,America/Denver,2026-10-30 22:00,2026-10-31,2026-10-31,True
+401856847,2026-10-31T04:00Z,False,Jack Trice Stadium,Ames,IA,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401856848,2026-10-31T04:00Z,False,Nippert Stadium,Cincinnati,OH,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858277,2026-10-31T04:00Z,False,Carter-Finley Stadium,Raleigh,NC,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858278,2026-10-31T04:00Z,False,JMA Wireless Dome,Syracuse,NY,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858279,2026-10-31T04:00Z,False,Wallace Wade Stadium,Durham,NC,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858280,2026-10-31T04:00Z,False,Doak Campbell Stadium,Tallahassee,FL,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858281,2026-10-31T04:00Z,False,Acrisure Stadium,Pittsburgh,PA,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858282,2026-10-31T04:00Z,False,Kenan Stadium,Chapel Hill,NC,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858283,2026-10-31T04:00Z,False,L&N Federal Credit Union Stadium,Louisville,KY,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858284,2026-10-31T04:00Z,False,Allegacy Federal Credit Union Stadium,Winston-Salem,NC,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858501,2026-10-31T04:00Z,False,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,USA,America/Indiana/Indianapolis,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858502,2026-10-31T04:00Z,False,Kinnick Stadium,Iowa City,IA,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401858503,2026-10-31T04:00Z,False,SECU Stadium,College Park,MD,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858504,2026-10-31T04:00Z,False,"Memorial Stadium (Lincoln, NE)",Lincoln,NE,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401858505,2026-10-31T04:00Z,False,Autzen Stadium,Eugene,OR,USA,America/Los_Angeles,2026-10-30 21:00,2026-10-31,2026-10-31,True
+401858506,2026-10-31T04:00Z,False,Beaver Stadium,University Park,PA,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858507,2026-10-31T04:00Z,False,SHI Stadium,Piscataway,NJ,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401858508,2026-10-31T04:00Z,False,Rose Bowl,Pasadena,CA,USA,America/Los_Angeles,2026-10-30 21:00,2026-10-31,2026-10-31,True
+401858509,2026-10-31T04:00Z,False,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,America/Los_Angeles,2026-10-30 21:00,2026-10-31,2026-10-31,True
+401859185,2026-10-31T16:00Z,True,Gillette Stadium,Foxborough,MA,USA,America/New_York,2026-10-31 12:00,2026-10-31,2026-10-31,False
+401860909,2026-10-31T23:00Z,True,Snapdragon Stadium,San Diego,CA,USA,America/Los_Angeles,2026-10-31 16:00,2026-10-31,2026-10-31,False
+401860910,2026-10-31T19:30Z,True,Maverik Stadium,Logan,UT,USA,America/Denver,2026-10-31 13:30,2026-10-31,2026-10-31,False
+401860924,2026-10-31T04:00Z,False,Valley Children's Stadium,Fresno,CA,USA,America/Los_Angeles,2026-10-30 21:00,2026-10-31,2026-10-31,True
+401861966,2026-10-31T19:00Z,True,Falcon Stadium,USAF Academy,CO,USA,America/Denver,2026-10-31 13:00,2026-10-31,2026-10-31,False
+401862814,2026-10-31T04:00Z,False,Simmons Bank Liberty Stadium,Memphis,TN,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401862815,2026-10-31T04:00Z,False,Dowdy-Ficklen Stadium,Greenville,NC,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401862816,2026-10-31T04:00Z,False,Raymond James Stadium,Tampa,FL,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401864529,2026-10-31T04:00Z,False,CEFCU Stadium,San Jose,CA,USA,America/Los_Angeles,2026-10-30 21:00,2026-10-31,2026-10-31,True
+401864531,2026-10-31T19:30Z,True,Fargodome,Fargo,ND,USA,America/Chicago,2026-10-31 14:30,2026-10-31,2026-10-31,False
+401866451,2026-10-31T02:30Z,True,Hornet Stadium,Sacramento,CA,USA,America/Los_Angeles,2026-10-30 19:30,2026-10-30,2026-10-31,False
+401866452,2026-10-31T16:00Z,True,Waldo Stadium,Kalamazoo,MI,USA,America/Detroit,2026-10-31 12:00,2026-10-31,2026-10-31,False
+401869846,2026-10-31T04:00Z,False,Allen E. Paulson Stadium,Statesboro,GA,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401869944,2026-10-31T04:00Z,False,Center Parc Stadium,Atlanta,GA,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401871059,2026-10-31T19:30Z,True,Williams Stadium (VA),Lynchburg,VA,USA,America/New_York,2026-10-31 15:30,2026-10-31,2026-10-31,False
+401871095,2026-10-31T04:00Z,False,Malone Stadium,Monroe,LA,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401871096,2026-10-31T04:00Z,False,S.B. Ballard Stadium,Norfolk,VA,USA,America/New_York,2026-10-31 00:00,2026-10-31,2026-10-31,True
+401871097,2026-10-31T04:00Z,False,Hancock Whitney Stadium,Mobile,AL,USA,America/Chicago,2026-10-30 23:00,2026-10-31,2026-10-31,True
+401860908,2026-11-01T02:00Z,True,Albertsons Stadium,Boise,ID,USA,America/Boise,2026-10-31 20:00,2026-10-31,2026-11-01,False
+401864530,2026-11-01T02:30Z,True,Allegiant Stadium,Las Vegas,NV,USA,America/Los_Angeles,2026-10-31 19:30,2026-10-31,2026-11-01,False
+401866453,2026-11-04T00:00Z,True,InfoCision Stadium,Akron,OH,USA,America/New_York,2026-11-03 19:00,2026-11-03,2026-11-04,False
+401866454,2026-11-04T00:00Z,True,Yager Stadium,Oxford,OH,USA,America/New_York,2026-11-03 19:00,2026-11-03,2026-11-04,False
+401866455,2026-11-04T05:00Z,False,Warren McGuirk Alumni Stadium,Amherst,MA,USA,America/New_York,2026-11-04 00:00,2026-11-04,2026-11-04,True
+401866456,2026-11-04T05:00Z,False,Ford Field,Detroit,MI,USA,America/Detroit,2026-11-04 00:00,2026-11-04,2026-11-04,True
+401866457,2026-11-04T05:00Z,False,Hornet Stadium,Sacramento,CA,USA,America/Los_Angeles,2026-11-03 21:00,2026-11-04,2026-11-04,True
+401862817,2026-11-06T01:00Z,True,Flagler Credit Union Stadium,Boca Raton,FL,USA,America/New_York,2026-11-05 20:00,2026-11-05,2026-11-06,False
+401869964,2026-11-06T01:00Z,True,M. M. Roberts Stadium,Hattiesburg,MS,USA,America/Chicago,2026-11-05 19:00,2026-11-05,2026-11-06,False
+401856738,2026-11-07T05:00Z,False,Jordan-Hare Stadium,Auburn,AL,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856739,2026-11-07T05:00Z,False,Ben Hill Griffin Stadium,Gainesville,FL,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401856740,2026-11-07T05:00Z,False,Tiger Stadium (LA),Baton Rouge,LA,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856741,2026-11-07T05:00Z,False,Vaught-Hemingway Stadium,Oxford,MS,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856742,2026-11-07T05:00Z,False,Davis Wade Stadium,Starkville,MS,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856743,2026-11-07T05:00Z,False,Memorial Stadium,Columbia,MO,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856744,2026-11-07T05:00Z,False,Williams-Brice Stadium,Columbia,SC,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401856745,2026-11-07T05:00Z,False,Neyland Stadium,Knoxville,TN,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401856849,2026-11-07T05:00Z,False,Rice-Eccles Stadium,Salt Lake City,UT,USA,America/Denver,2026-11-06 22:00,2026-11-07,2026-11-07,True
+401856850,2026-11-07T05:00Z,False,David Booth Kansas Memorial Stadium,Lawrence,KS,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856851,2026-11-07T05:00Z,False,TDECU Stadium,Houston,TX,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856852,2026-11-07T05:00Z,False,Mountain America Stadium,Tempe,AZ,USA,America/Phoenix,2026-11-06 22:00,2026-11-07,2026-11-07,True
+401856853,2026-11-07T05:00Z,False,McLane Stadium,Waco,TX,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856854,2026-11-07T05:00Z,False,Bill Snyder Family Stadium,Manhattan,KS,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401856855,2026-11-07T03:15Z,True,Casino Del Sol Stadium,Tucson,AZ,USA,America/Phoenix,2026-11-06 20:15,2026-11-06,2026-11-07,False
+401856856,2026-11-07T05:00Z,False,Galaxy Stadium,Lubbock,TX,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401858285,2026-11-07T05:00Z,False,JMA Wireless Dome,Syracuse,NY,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401858286,2026-11-07T05:00Z,False,Carter-Finley Stadium,Raleigh,NC,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401858287,2026-11-07T05:00Z,False,Bobby Dodd Stadium,Atlanta,GA,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401858288,2026-11-07T00:00Z,True,Gerald J. Ford Stadium,Dallas,TX,USA,America/Chicago,2026-11-06 18:00,2026-11-06,2026-11-07,False
+401858289,2026-11-07T05:00Z,False,"Alumni Stadium (Chestnut Hill, MA)",Chestnut Hill,MA,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401858290,2026-11-07T17:00Z,True,Allegacy Federal Credit Union Stadium,Winston-Salem,NC,USA,America/New_York,2026-11-07 12:00,2026-11-07,2026-11-07,False
+401858292,2026-11-07T17:00Z,True,Pratt & Whitney Stadium,East Hartford,CT,USA,America/New_York,2026-11-07 12:00,2026-11-07,2026-11-07,False
+401858510,2026-11-07T01:00Z,True,Gies Memorial Stadium,Champaign,IL,USA,America/Chicago,2026-11-06 19:00,2026-11-06,2026-11-07,False
+401858511,2026-11-07T05:00Z,False,Michigan Stadium,Ann Arbor,MI,USA,America/Detroit,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401858512,2026-11-07T05:00Z,False,Huntington Bank Stadium,Minneapolis,MN,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401858513,2026-11-07T05:00Z,False,Ryan Field,Evanston,IL,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401858514,2026-11-07T05:00Z,False,Ohio Stadium,Columbus,OH,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401858515,2026-11-07T05:00Z,False,Ross-Ade Stadium,West Lafayette,IN,USA,America/Indiana/Indianapolis,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401858516,2026-11-07T05:00Z,False,Husky Stadium,Seattle,WA,USA,America/Los_Angeles,2026-11-06 21:00,2026-11-07,2026-11-07,True
+401858517,2026-11-07T05:00Z,False,Camp Randall Stadium,Madison,WI,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401860911,2026-11-07T23:00Z,True,Canvas Stadium,Fort Collins,CO,USA,America/Denver,2026-11-07 16:00,2026-11-07,2026-11-07,False
+401862818,2026-11-07T00:30Z,True,Dowdy-Ficklen Stadium,Greenville,NC,USA,America/New_York,2026-11-06 19:30,2026-11-06,2026-11-07,False
+401862819,2026-11-07T05:00Z,False,Protective Stadium,Birmingham,AL,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401862820,2026-11-07T20:30Z,True,Navy-Marine Corps Memorial Stadium,Annapolis,MD,USA,America/New_York,2026-11-07 15:30,2026-11-07,2026-11-07,False
+401862821,2026-11-07T05:00Z,False,DATCU Stadium,Denton,TX,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401862822,2026-11-07T05:00Z,False,Yulman Stadium,New Orleans,LA,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401864532,2026-11-07T05:00Z,False,Sun Bowl,El Paso,TX,USA,America/Denver,2026-11-06 22:00,2026-11-07,2026-11-07,True
+401864533,2026-11-07T02:00Z,True,Mackay Stadium,Reno,NV,USA,America/Los_Angeles,2026-11-06 18:00,2026-11-06,2026-11-07,False
+401864534,2026-11-07T05:00Z,False,CEFCU Stadium,San Jose,CA,USA,America/Los_Angeles,2026-11-06 21:00,2026-11-07,2026-11-07,True
+401869927,2026-11-07T05:00Z,False,Kidd Brewer Stadium,Boone,NC,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401869936,2026-11-07T20:00Z,True,Centennial Bank Stadium,Jonesboro,AR,USA,America/Chicago,2026-11-07 14:00,2026-11-07,2026-11-07,False
+401869945,2026-11-07T05:00Z,False,Brooks Stadium (SC),Conway,SC,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401869951,2026-11-07T05:00Z,False,Allen E. Paulson Stadium,Statesboro,GA,USA,America/New_York,2026-11-07 00:00,2026-11-07,2026-11-07,True
+401869968,2026-11-07T05:00Z,False,Our Lady of Lourdes Stadium,Lafayette,LA,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401870795,2026-11-07T22:00Z,True,Aggie Memorial Stadium,Las Cruces,NM,USA,America/Denver,2026-11-07 15:00,2026-11-07,2026-11-07,False
+401871073,2026-11-07T20:00Z,True,Walens Family Field at Fifth Third Stadium,Kennesaw,GA,USA,America/New_York,2026-11-07 15:00,2026-11-07,2026-11-07,False
+401871074,2026-11-07T21:00Z,True,Pitbull Stadium,Miami,FL,USA,America/New_York,2026-11-07 16:00,2026-11-07,2026-11-07,False
+401871076,2026-11-07T20:30Z,True,"Johnny ""Red"" Floyd Stadium",Murfreesboro,TN,USA,America/Chicago,2026-11-07 14:30,2026-11-07,2026-11-07,False
+401871098,2026-11-07T05:00Z,False,Veterans Memorial Stadium (AL),Troy,AL,USA,America/Chicago,2026-11-06 23:00,2026-11-07,2026-11-07,True
+401858291,2026-11-08T00:30Z,True,Notre Dame Stadium,Notre Dame,IN,USA,America/Indiana/Indianapolis,2026-11-07 19:30,2026-11-07,2026-11-08,False
+401860912,2026-11-08T03:30Z,True,Reser Stadium,Corvallis,OR,USA,America/Los_Angeles,2026-11-07 19:30,2026-11-07,2026-11-08,False
+401860913,2026-11-08T02:30Z,True,Maverik Stadium,Logan,UT,USA,America/Denver,2026-11-07 19:30,2026-11-07,2026-11-08,False
+401862823,2026-11-08T00:30Z,True,Michie Stadium,West Point,NY,USA,America/New_York,2026-11-07 19:30,2026-11-07,2026-11-08,False
+401864535,2026-11-08T03:30Z,True,Allegiant Stadium,Las Vegas,NV,USA,America/Los_Angeles,2026-11-07 19:30,2026-11-07,2026-11-08,False
+401871075,2026-11-08T00:00Z,True,AmFirst Stadium,Jacksonville,AL,USA,America/Chicago,2026-11-07 18:00,2026-11-07,2026-11-08,False
+401866458,2026-11-11T00:00Z,True,InfoCision Stadium,Akron,OH,USA,America/New_York,2026-11-10 19:00,2026-11-10,2026-11-11,False
+401866459,2026-11-11T00:00Z,True,Doyt L. Perry Stadium,Bowling Green,OH,USA,America/New_York,2026-11-10 19:00,2026-11-10,2026-11-11,False
+401866460,2026-11-11T00:00Z,True,Yager Stadium,Oxford,OH,USA,America/New_York,2026-11-10 19:00,2026-11-10,2026-11-11,False
+401866461,2026-11-11T05:00Z,False,Scheumann Stadium,Muncie,IN,USA,America/Indiana/Indianapolis,2026-11-11 00:00,2026-11-11,2026-11-11,True
+401866462,2026-11-11T05:00Z,False,Kelly/Shorts Stadium,Mount Pleasant,MI,USA,America/Detroit,2026-11-11 00:00,2026-11-11,2026-11-11,True
+401866463,2026-11-11T05:00Z,False,Glass Bowl,Toledo,OH,USA,America/New_York,2026-11-11 00:00,2026-11-11,2026-11-11,True
+401862824,2026-11-13T01:00Z,True,Raymond James Stadium,Tampa,FL,USA,America/New_York,2026-11-12 20:00,2026-11-12,2026-11-13,False
+401869969,2026-11-13T02:00Z,True,Malone Stadium,Monroe,LA,USA,America/Chicago,2026-11-12 20:00,2026-11-12,2026-11-13,False
+401856857,2026-11-14T05:00Z,False,Acrisure Bounce House,Orlando,FL,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401856858,2026-11-14T05:00Z,False,LaVell Edwards Stadium,Provo,UT,USA,America/Denver,2026-11-13 22:00,2026-11-14,2026-11-14,True
+401856859,2026-11-14T05:00Z,False,Jack Trice Stadium,Ames,IA,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401856860,2026-11-14T03:15Z,True,Folsom Field,Boulder,CO,USA,America/Denver,2026-11-13 20:15,2026-11-13,2026-11-14,False
+401856861,2026-11-14T05:00Z,False,Milan Puskar Stadium,Morgantown,WV,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401856862,2026-11-14T05:00Z,False,Amon G. Carter Stadium,Fort Worth,TX,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401856863,2026-11-14T05:00Z,False,Boone Pickens Stadium,Stillwater,OK,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401856864,2026-11-14T05:00Z,False,Casino Del Sol Stadium,Tucson,AZ,USA,America/Phoenix,2026-11-13 22:00,2026-11-14,2026-11-14,True
+401856882,2026-11-14T05:00Z,False,Donald W. Reynolds Razorback Stadium,Fayetteville,AR,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401856883,2026-11-14T05:00Z,False,Sanford Stadium,Athens,GA,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401856884,2026-11-14T05:00Z,False,Kroger Field,Lexington,KY,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401856885,2026-11-14T05:00Z,False,Tiger Stadium (LA),Baton Rouge,LA,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401856886,2026-11-14T05:00Z,False,Davis Wade Stadium,Starkville,MS,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401856887,2026-11-14T05:00Z,False,"Memorial Stadium (Norman, OK)",Norman,OK,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401856888,2026-11-14T05:00Z,False,Kyle Field,College Station,TX,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401856889,2026-11-14T05:00Z,False,FirstBank Stadium,Nashville,TN,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401858293,2026-11-14T00:00Z,True,Acrisure Stadium,Pittsburgh,PA,USA,America/New_York,2026-11-13 19:00,2026-11-13,2026-11-14,False
+401858294,2026-11-14T20:30Z,True,Notre Dame Stadium,Notre Dame,IN,USA,America/Indiana/Indianapolis,2026-11-14 15:30,2026-11-14,2026-11-14,False
+401858295,2026-11-14T05:00Z,False,Scott Stadium,Charlottesville,VA,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858296,2026-11-14T05:00Z,False,Hard Rock Stadium,Miami Gardens,FL,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858297,2026-11-14T05:00Z,False,"Memorial Stadium (Clemson, SC)",Clemson,SC,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858298,2026-11-14T05:00Z,False,Kenan Stadium,Chapel Hill,NC,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858299,2026-11-14T05:00Z,False,Lane Stadium,Blacksburg,VA,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858300,2026-11-14T05:00Z,False,Carter-Finley Stadium,Raleigh,NC,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858301,2026-11-14T05:00Z,False,Gerald J. Ford Stadium,Dallas,TX,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401858518,2026-11-14T05:00Z,False,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,USA,America/Indiana/Indianapolis,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858519,2026-11-14T05:00Z,False,Kinnick Stadium,Iowa City,IA,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401858520,2026-11-14T05:00Z,False,SECU Stadium,College Park,MD,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858521,2026-11-14T05:00Z,False,Spartan Stadium,East Lansing,MI,USA,America/Detroit,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858522,2026-11-14T05:00Z,False,Ohio Stadium,Columbus,OH,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858523,2026-11-14T05:00Z,False,Autzen Stadium,Eugene,OR,USA,America/Los_Angeles,2026-11-13 21:00,2026-11-14,2026-11-14,True
+401858524,2026-11-14T05:00Z,False,Beaver Stadium,University Park,PA,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858525,2026-11-14T05:00Z,False,SHI Stadium,Piscataway,NJ,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401858526,2026-11-14T02:00Z,True,Rose Bowl,Pasadena,CA,USA,America/Los_Angeles,2026-11-13 18:00,2026-11-13,2026-11-14,False
+401860914,2026-11-14T23:00Z,True,Albertsons Stadium,Boise,ID,USA,America/Boise,2026-11-14 16:00,2026-11-14,2026-11-14,False
+401860916,2026-11-14T21:00Z,True,UFCU Stadium,San Marcos,TX,USA,America/Chicago,2026-11-14 15:00,2026-11-14,2026-11-14,False
+401861967,2026-11-14T17:00Z,True,Pratt & Whitney Stadium,East Hartford,CT,USA,America/New_York,2026-11-14 12:00,2026-11-14,2026-11-14,False
+401862825,2026-11-14T05:00Z,False,Jerry Richardson Stadium,Charlotte,NC,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401862826,2026-11-14T05:00Z,False,H. A. Chapman Stadium,Tulsa,OK,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401862827,2026-11-14T05:00Z,False,Alamodome,San Antonio,TX,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401862828,2026-11-14T05:00Z,False,Rice Stadium,Houston,TX,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401862829,2026-11-14T05:00Z,False,Lincoln Financial Field,Philadelphia,PA,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401864536,2026-11-14T05:00Z,False,Huskie Stadium,Dekalb,IL,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401864540,2026-11-14T05:00Z,False,Sun Bowl,El Paso,TX,USA,America/Denver,2026-11-13 22:00,2026-11-14,2026-11-14,True
+401869928,2026-11-14T05:00Z,False,Joan C. Edwards Stadium,Huntington,WV,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401869937,2026-11-14T05:00Z,False,Brooks Stadium (SC),Conway,SC,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401869952,2026-11-14T05:00Z,False,Center Parc Stadium,Atlanta,GA,USA,America/New_York,2026-11-14 00:00,2026-11-14,2026-11-14,True
+401870752,2026-11-14T20:30Z,True,Houchens Industries-L.T. Smith Stadium,Bowling Green,KY,USA,America/Chicago,2026-11-14 14:30,2026-11-14,2026-11-14,False
+401870769,2026-11-14T19:00Z,True,Elliott T. Bowers Stadium,Huntsville,TX,USA,America/Chicago,2026-11-14 13:00,2026-11-14,2026-11-14,False
+401870796,2026-11-14T20:00Z,True,Robert W. Plaster Stadium,Springfield,MO,USA,America/Chicago,2026-11-14 14:00,2026-11-14,2026-11-14,False
+401871060,2026-11-14T20:00Z,True,Delaware Stadium,Newark,DE,USA,America/New_York,2026-11-14 15:00,2026-11-14,2026-11-14,False
+401871061,2026-11-14T20:30Z,True,Williams Stadium (VA),Lynchburg,VA,USA,America/New_York,2026-11-14 15:30,2026-11-14,2026-11-14,False
+401871099,2026-11-14T05:00Z,False,Joe Aillet Stadium,Ruston,LA,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401871100,2026-11-14T05:00Z,False,Hancock Whitney Stadium,Mobile,AL,USA,America/Chicago,2026-11-13 23:00,2026-11-14,2026-11-14,True
+401860915,2026-11-15T02:30Z,True,Snapdragon Stadium,San Diego,CA,USA,America/Los_Angeles,2026-11-14 18:30,2026-11-14,2026-11-15,False
+401860917,2026-11-15T03:30Z,True,Martin Stadium,Pullman,WA,USA,America/Los_Angeles,2026-11-14 19:30,2026-11-14,2026-11-15,False
+401864537,2026-11-15T04:59Z,True,Clarence T.C. Ching Athletics Complex,Honolulu,HI,USA,Pacific/Honolulu,2026-11-14 18:59,2026-11-14,2026-11-15,False
+401864538,2026-11-15T00:00Z,True,Falcon Stadium,USAF Academy,CO,USA,America/Denver,2026-11-14 17:00,2026-11-14,2026-11-15,False
+401864539,2026-11-15T00:30Z,True,University Stadium (NM),Albuquerque,NM,USA,America/Denver,2026-11-14 17:30,2026-11-14,2026-11-15,False
+401866464,2026-11-18T00:00Z,True,Peden Stadium,Athens,OH,USA,America/New_York,2026-11-17 19:00,2026-11-17,2026-11-18,False
+401866465,2026-11-18T00:00Z,True,Waldo Stadium,Kalamazoo,MI,USA,America/Detroit,2026-11-17 19:00,2026-11-17,2026-11-18,False
+401866466,2026-11-18T00:00Z,True,Zoeller Field at Dix Stadium,Kent,OH,USA,America/New_York,2026-11-17 19:00,2026-11-17,2026-11-18,False
+401866467,2026-11-18T05:00Z,False,Warren McGuirk Alumni Stadium,Amherst,MA,USA,America/New_York,2026-11-18 00:00,2026-11-18,2026-11-18,True
+401866469,2026-11-18T05:00Z,False,Broadview Stadium,Buffalo,NY,USA,America/New_York,2026-11-18 00:00,2026-11-18,2026-11-18,True
+401856869,2026-11-20T23:00Z,True,Acrisure Bounce House,Orlando,FL,USA,America/New_York,2026-11-20 18:00,2026-11-20,2026-11-20,False
+401862830,2026-11-20T00:30Z,True,Lincoln Financial Field,Philadelphia,PA,USA,America/New_York,2026-11-19 19:30,2026-11-19,2026-11-20,False
+401856746,2026-11-21T19:00Z,True,Bryant-Denny Stadium,Tuscaloosa,AL,USA,America/Chicago,2026-11-21 13:00,2026-11-21,2026-11-21,False
+401856747,2026-11-21T20:30Z,True,Jordan-Hare Stadium,Auburn,AL,USA,America/Chicago,2026-11-21 14:30,2026-11-21,2026-11-21,False
+401856748,2026-11-21T05:00Z,False,Ben Hill Griffin Stadium,Gainesville,FL,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401856749,2026-11-21T17:00Z,True,Vaught-Hemingway Stadium,Oxford,MS,USA,America/Chicago,2026-11-21 11:00,2026-11-21,2026-11-21,False
+401856750,2026-11-21T18:00Z,True,Davis Wade Stadium,Starkville,MS,USA,America/Chicago,2026-11-21 12:00,2026-11-21,2026-11-21,False
+401856751,2026-11-21T05:00Z,False,Memorial Stadium,Columbia,MO,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401856752,2026-11-21T05:00Z,False,"Memorial Stadium (Norman, OK)",Norman,OK,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401856753,2026-11-21T05:00Z,False,Williams-Brice Stadium,Columbia,SC,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401856754,2026-11-21T05:00Z,False,Neyland Stadium,Knoxville,TN,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401856755,2026-11-21T05:00Z,False,DKR-Texas Memorial Stadium,Austin,TX,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401856865,2026-11-21T05:00Z,False,Bill Snyder Family Stadium,Manhattan,KS,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401856866,2026-11-21T05:00Z,False,David Booth Kansas Memorial Stadium,Lawrence,KS,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401856867,2026-11-21T05:00Z,False,Nippert Stadium,Cincinnati,OH,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401856868,2026-11-21T05:00Z,False,Milan Puskar Stadium,Morgantown,WV,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401856870,2026-11-21T05:00Z,False,Mountain America Stadium,Tempe,AZ,USA,America/Phoenix,2026-11-20 22:00,2026-11-21,2026-11-21,True
+401856871,2026-11-21T05:00Z,False,McLane Stadium,Waco,TX,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401856872,2026-11-21T05:00Z,False,Amon G. Carter Stadium,Fort Worth,TX,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401858302,2026-11-21T05:00Z,False,Hard Rock Stadium,Miami Gardens,FL,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858303,2026-11-21T00:30Z,True,Wallace Wade Stadium,Durham,NC,USA,America/New_York,2026-11-20 19:30,2026-11-20,2026-11-21,False
+401858304,2026-11-21T05:00Z,False,Doak Campbell Stadium,Tallahassee,FL,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858305,2026-11-21T05:00Z,False,Scott Stadium,Charlottesville,VA,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858306,2026-11-21T05:00Z,False,L&N Federal Credit Union Stadium,Louisville,KY,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858308,2026-11-21T05:00Z,False,California Memorial Stadium,Berkeley,CA,USA,America/Los_Angeles,2026-11-20 21:00,2026-11-21,2026-11-21,True
+401858309,2026-11-21T05:00Z,False,"Alumni Stadium (Chestnut Hill, MA)",Chestnut Hill,MA,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858310,2026-11-21T05:00Z,False,Bobby Dodd Stadium,Atlanta,GA,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858527,2026-11-21T05:00Z,False,Gies Memorial Stadium,Champaign,IL,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401858528,2026-11-21T05:00Z,False,Michigan Stadium,Ann Arbor,MI,USA,America/Detroit,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858529,2026-11-21T01:00Z,True,Spartan Stadium,East Lansing,MI,USA,America/Detroit,2026-11-20 20:00,2026-11-20,2026-11-21,False
+401858530,2026-11-21T05:00Z,False,Huntington Bank Stadium,Minneapolis,MN,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401858531,2026-11-21T05:00Z,False,"Memorial Stadium (Lincoln, NE)",Lincoln,NE,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401858532,2026-11-21T05:00Z,False,Beaver Stadium,University Park,PA,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858533,2026-11-21T05:00Z,False,Ross-Ade Stadium,West Lafayette,IN,USA,America/Indiana/Indianapolis,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401858534,2026-11-21T05:00Z,False,Los Angeles Memorial Coliseum,Los Angeles,CA,USA,America/Los_Angeles,2026-11-20 21:00,2026-11-21,2026-11-21,True
+401858535,2026-11-21T05:00Z,False,Husky Stadium,Seattle,WA,USA,America/Los_Angeles,2026-11-20 21:00,2026-11-21,2026-11-21,True
+401860920,2026-11-21T23:00Z,True,UFCU Stadium,San Marcos,TX,USA,America/Chicago,2026-11-21 17:00,2026-11-21,2026-11-21,False
+401861968,2026-11-21T20:30Z,True,Pratt & Whitney Stadium,East Hartford,CT,USA,America/New_York,2026-11-21 15:30,2026-11-21,2026-11-21,False
+401862831,2026-11-21T17:00Z,True,Michie Stadium,West Point,NY,USA,America/New_York,2026-11-21 12:00,2026-11-21,2026-11-21,False
+401862832,2026-11-21T05:00Z,False,H. A. Chapman Stadium,Tulsa,OK,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401862833,2026-11-21T05:00Z,False,Flagler Credit Union Stadium,Boca Raton,FL,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401862834,2026-11-21T17:00Z,True,Navy-Marine Corps Memorial Stadium,Annapolis,MD,USA,America/New_York,2026-11-21 12:00,2026-11-21,2026-11-21,False
+401862835,2026-11-21T05:00Z,False,Yulman Stadium,New Orleans,LA,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401862836,2026-11-21T05:00Z,False,Protective Stadium,Birmingham,AL,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401864541,2026-11-21T05:00Z,False,Mackay Stadium,Reno,NV,USA,America/Los_Angeles,2026-11-20 21:00,2026-11-21,2026-11-21,True
+401864543,2026-11-21T21:00Z,True,Fargodome,Fargo,ND,USA,America/Chicago,2026-11-21 15:00,2026-11-21,2026-11-21,False
+401864545,2026-11-21T01:00Z,True,Falcon Stadium,USAF Academy,CO,USA,America/Denver,2026-11-20 18:00,2026-11-20,2026-11-21,False
+401866468,2026-11-21T00:30Z,True,Glass Bowl,Toledo,OH,USA,America/New_York,2026-11-20 19:30,2026-11-20,2026-11-21,False
+401869929,2026-11-21T05:00Z,False,Kidd Brewer Stadium,Boone,NC,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401869938,2026-11-21T05:00Z,False,Joe Aillet Stadium,Ruston,LA,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401869946,2026-11-21T05:00Z,False,Our Lady of Lourdes Stadium,Lafayette,LA,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401869953,2026-11-21T05:00Z,False,Veterans Memorial Stadium (AL),Troy,AL,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401869958,2026-11-21T05:00Z,False,Joan C. Edwards Stadium,Huntington,WV,USA,America/New_York,2026-11-21 00:00,2026-11-21,2026-11-21,True
+401871077,2026-11-21T20:00Z,True,Aggie Memorial Stadium,Las Cruces,NM,USA,America/Denver,2026-11-21 13:00,2026-11-21,2026-11-21,False
+401871078,2026-11-21T20:00Z,True,Walens Family Field at Fifth Third Stadium,Kennesaw,GA,USA,America/New_York,2026-11-21 15:00,2026-11-21,2026-11-21,False
+401871079,2026-11-21T19:00Z,True,AmFirst Stadium,Jacksonville,AL,USA,America/Chicago,2026-11-21 13:00,2026-11-21,2026-11-21,False
+401871080,2026-11-21T18:00Z,True,Williams Stadium (VA),Lynchburg,VA,USA,America/New_York,2026-11-21 13:00,2026-11-21,2026-11-21,False
+401871081,2026-11-21T19:00Z,True,Elliott T. Bowers Stadium,Huntsville,TX,USA,America/Chicago,2026-11-21 13:00,2026-11-21,2026-11-21,False
+401871101,2026-11-21T05:00Z,False,M. M. Roberts Stadium,Hattiesburg,MS,USA,America/Chicago,2026-11-20 23:00,2026-11-21,2026-11-21,True
+401858307,2026-11-22T00:30Z,True,Notre Dame Stadium,Notre Dame,IN,USA,America/Indiana/Indianapolis,2026-11-21 19:30,2026-11-21,2026-11-22,False
+401860918,2026-11-22T00:30Z,True,Valley Children's Stadium,Fresno,CA,USA,America/Los_Angeles,2026-11-21 16:30,2026-11-21,2026-11-22,False
+401860919,2026-11-22T03:30Z,True,Reser Stadium,Corvallis,OR,USA,America/Los_Angeles,2026-11-21 19:30,2026-11-21,2026-11-22,False
+401860925,2026-11-22T02:30Z,True,Albertsons Stadium,Boise,ID,USA,America/Boise,2026-11-21 19:30,2026-11-21,2026-11-22,False
+401864542,2026-11-22T02:00Z,True,War Memorial Stadium,Laramie,WY,USA,America/Denver,2026-11-21 19:00,2026-11-21,2026-11-22,False
+401864544,2026-11-22T00:00Z,True,CEFCU Stadium,San Jose,CA,USA,America/Los_Angeles,2026-11-21 16:00,2026-11-21,2026-11-22,False
+401866471,2026-11-24T05:00Z,False,Waldo Stadium,Kalamazoo,MI,USA,America/Detroit,2026-11-24 00:00,2026-11-24,2026-11-24,True
+401866470,2026-11-25T00:00Z,True,Rynearson Stadium,Ypsilanti,MI,USA,America/Detroit,2026-11-24 19:00,2026-11-24,2026-11-25,False
+401856759,2026-11-27T20:30Z,True,Doak Campbell Stadium,Tallahassee,FL,USA,America/New_York,2026-11-27 15:30,2026-11-27,2026-11-27,False
+401856762,2026-11-27T17:00Z,True,Vaught-Hemingway Stadium,Oxford,MS,USA,America/Chicago,2026-11-27 11:00,2026-11-27,2026-11-27,False
+401856879,2026-11-27T01:00Z,True,Galaxy Stadium,Lubbock,TX,USA,America/Chicago,2026-11-26 19:00,2026-11-26,2026-11-27,False
+401858536,2026-11-27T17:00Z,True,Kinnick Stadium,Iowa City,IA,USA,America/Chicago,2026-11-27 11:00,2026-11-27,2026-11-27,False
+401862837,2026-11-27T05:00Z,False,Dowdy-Ficklen Stadium,Greenville,NC,USA,America/New_York,2026-11-27 00:00,2026-11-27,2026-11-27,True
+401862838,2026-11-27T05:00Z,False,Simmons Bank Liberty Stadium,Memphis,TN,USA,America/Chicago,2026-11-26 23:00,2026-11-27,2026-11-27,True
+401862839,2026-11-27T05:00Z,False,Raymond James Stadium,Tampa,FL,USA,America/New_York,2026-11-27 00:00,2026-11-27,2026-11-27,True
+401864549,2026-11-27T20:30Z,True,CEFCU Stadium,San Jose,CA,USA,America/Los_Angeles,2026-11-27 12:30,2026-11-27,2026-11-27,False
+401866472,2026-11-27T17:00Z,True,InfoCision Stadium,Akron,OH,USA,America/New_York,2026-11-27 12:00,2026-11-27,2026-11-27,False
+401866473,2026-11-27T17:00Z,True,Peden Stadium,Athens,OH,USA,America/New_York,2026-11-27 12:00,2026-11-27,2026-11-27,False
+401869930,2026-11-27T20:00Z,True,Hancock Whitney Stadium,Mobile,AL,USA,America/Chicago,2026-11-27 14:00,2026-11-27,2026-11-27,False
+401856756,2026-11-28T00:30Z,True,Kyle Field,College Station,TX,USA,America/Chicago,2026-11-27 18:30,2026-11-27,2026-11-28,False
+401856757,2026-11-28T05:00Z,False,Bryant-Denny Stadium,Tuscaloosa,AL,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401856758,2026-11-28T05:00Z,False,Donald W. Reynolds Razorback Stadium,Fayetteville,AR,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401856760,2026-11-28T05:00Z,False,Sanford Stadium,Athens,GA,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401856761,2026-11-28T05:00Z,False,Kroger Field,Lexington,KY,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401856763,2026-11-28T05:00Z,False,Memorial Stadium,Columbia,MO,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401856764,2026-11-28T05:00Z,False,"Memorial Stadium (Clemson, SC)",Clemson,SC,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401856765,2026-11-28T05:00Z,False,FirstBank Stadium,Nashville,TN,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401856873,2026-11-28T05:00Z,False,Casino Del Sol Stadium,Tucson,AZ,USA,America/Phoenix,2026-11-27 22:00,2026-11-28,2026-11-28,True
+401856874,2026-11-28T05:00Z,False,TDECU Stadium,Houston,TX,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401856875,2026-11-28T05:00Z,False,Folsom Field,Boulder,CO,USA,America/Denver,2026-11-27 22:00,2026-11-28,2026-11-28,True
+401856876,2026-11-28T05:00Z,False,LaVell Edwards Stadium,Provo,UT,USA,America/Denver,2026-11-27 22:00,2026-11-28,2026-11-28,True
+401856877,2026-11-28T05:00Z,False,Boone Pickens Stadium,Stillwater,OK,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401856878,2026-11-28T05:00Z,False,Jack Trice Stadium,Ames,IA,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401856880,2026-11-28T02:00Z,True,Rice-Eccles Stadium,Salt Lake City,UT,USA,America/Denver,2026-11-27 19:00,2026-11-27,2026-11-28,False
+401858311,2026-11-28T05:00Z,False,Hard Rock Stadium,Miami Gardens,FL,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401858312,2026-11-28T05:00Z,False,Allegacy Federal Credit Union Stadium,Winston-Salem,NC,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401858313,2026-11-28T05:00Z,False,Kenan Stadium,Chapel Hill,NC,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401858314,2026-11-28T05:00Z,False,JMA Wireless Dome,Syracuse,NY,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401858315,2026-11-28T05:00Z,False,California Memorial Stadium,Berkeley,CA,USA,America/Los_Angeles,2026-11-27 21:00,2026-11-28,2026-11-28,True
+401858316,2026-11-28T05:00Z,False,Stanford Stadium,Stanford,CA,USA,America/Los_Angeles,2026-11-27 21:00,2026-11-28,2026-11-28,True
+401858317,2026-11-28T05:00Z,False,Lane Stadium,Blacksburg,VA,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401858537,2026-11-28T05:00Z,False,Ryan Field,Evanston,IL,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401858538,2026-11-28T05:00Z,False,"Memorial Stadium (Bloomington, IN)",Bloomington,IN,USA,America/Indiana/Indianapolis,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401858539,2026-11-28T05:00Z,False,SECU Stadium,College Park,MD,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401858540,2026-11-28T17:00Z,True,Ohio Stadium,Columbus,OH,USA,America/New_York,2026-11-28 12:00,2026-11-28,2026-11-28,False
+401858541,2026-11-28T05:00Z,False,Autzen Stadium,Eugene,OR,USA,America/Los_Angeles,2026-11-27 21:00,2026-11-28,2026-11-28,True
+401858542,2026-11-28T05:00Z,False,SHI Stadium,Piscataway,NJ,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401858543,2026-11-28T05:00Z,False,Rose Bowl,Pasadena,CA,USA,America/Los_Angeles,2026-11-27 21:00,2026-11-28,2026-11-28,True
+401858544,2026-11-28T00:30Z,True,Camp Randall Stadium,Madison,WI,USA,America/Chicago,2026-11-27 18:30,2026-11-27,2026-11-28,False
+401861969,2026-11-28T05:00Z,False,War Memorial Stadium,Laramie,WY,USA,America/Denver,2026-11-27 22:00,2026-11-28,2026-11-28,True
+401862840,2026-11-28T05:00Z,False,Alamodome,San Antonio,TX,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401862841,2026-11-28T05:00Z,False,Rice Stadium,Houston,TX,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401862842,2026-11-28T05:00Z,False,Jerry Richardson Stadium,Charlotte,NC,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401862843,2026-11-28T05:00Z,False,DATCU Stadium,Denton,TX,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401864546,2026-11-28T21:30Z,True,University Stadium (NM),Albuquerque,NM,USA,America/Denver,2026-11-28 14:30,2026-11-28,2026-11-28,False
+401864550,2026-11-28T05:00Z,False,Huskie Stadium,Dekalb,IL,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401866474,2026-11-28T17:00Z,True,Scheumann Stadium,Muncie,IN,USA,America/Indiana/Indianapolis,2026-11-28 12:00,2026-11-28,2026-11-28,False
+401866475,2026-11-28T17:00Z,True,Doyt L. Perry Stadium,Bowling Green,OH,USA,America/New_York,2026-11-28 12:00,2026-11-28,2026-11-28,False
+401869939,2026-11-28T20:00Z,True,Centennial Bank Stadium,Jonesboro,AR,USA,America/Chicago,2026-11-28 14:00,2026-11-28,2026-11-28,False
+401869947,2026-11-28T05:00Z,False,Bridgeforth Stadium,Harrisonburg,VA,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401869954,2026-11-28T05:00Z,False,Allen E. Paulson Stadium,Statesboro,GA,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401869959,2026-11-28T05:00Z,False,Center Parc Stadium,Atlanta,GA,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401870804,2026-11-28T18:00Z,True,Houchens Industries-L.T. Smith Stadium,Bowling Green,KY,USA,America/Chicago,2026-11-28 12:00,2026-11-28,2026-11-28,False
+401871062,2026-11-28T20:30Z,True,Delaware Stadium,Newark,DE,USA,America/New_York,2026-11-28 15:30,2026-11-28,2026-11-28,False
+401871063,2026-11-28T19:00Z,True,Robert W. Plaster Stadium,Springfield,MO,USA,America/Chicago,2026-11-28 13:00,2026-11-28,2026-11-28,False
+401871082,2026-11-28T19:00Z,True,Pitbull Stadium,Miami,FL,USA,America/New_York,2026-11-28 14:00,2026-11-28,2026-11-28,False
+401871083,2026-11-28T19:00Z,True,"Johnny ""Red"" Floyd Stadium",Murfreesboro,TN,USA,America/Chicago,2026-11-28 13:00,2026-11-28,2026-11-28,False
+401871102,2026-11-28T05:00Z,False,Malone Stadium,Monroe,LA,USA,America/Chicago,2026-11-27 23:00,2026-11-28,2026-11-28,True
+401871103,2026-11-28T05:00Z,False,S.B. Ballard Stadium,Norfolk,VA,USA,America/New_York,2026-11-28 00:00,2026-11-28,2026-11-28,True
+401864547,2026-11-29T04:00Z,True,Clarence T.C. Ching Athletics Complex,Honolulu,HI,USA,Pacific/Honolulu,2026-11-28 18:00,2026-11-28,2026-11-29,False
+401864548,2026-11-29T02:00Z,True,Allegiant Stadium,Las Vegas,NV,USA,America/Los_Angeles,2026-11-28 18:00,2026-11-28,2026-11-29,False
+401862844,2026-12-12T20:00Z,True,MetLife Stadium,East Rutherford,NJ,USA,America/New_York,2026-12-12 15:00,2026-12-12,2026-12-12,False

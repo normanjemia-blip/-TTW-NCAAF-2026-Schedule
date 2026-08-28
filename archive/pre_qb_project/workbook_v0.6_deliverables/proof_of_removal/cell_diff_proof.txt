@@ -1,0 +1,12 @@
+Proof-of-removal: full cell-by-cell diff between the APPROVED
+v0.5.2_working.xlsx baseline and v0.6_test_cleaned.xlsx (the
+full-scale test-applied copy, AFTER the scripted cleanup pass
+the scripted cleanup pass reversed every fixture).
+
+
+TOTAL CELL-LEVEL DIFFERENCES: 0
+
+(v0.6_test_cleaned.xlsx retains the v0.5.2 banner/CHANGELOG since it
+was branched before the Phase 6 CHANGELOG entries were added to the
+delivered v0.6_working.xlsx - this comparison isolates the fixture-
+removal proof from that unrelated, expected documentation update.)

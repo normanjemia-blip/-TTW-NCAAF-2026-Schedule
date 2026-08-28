@@ -1,0 +1,127 @@
+{
+  "151": {
+    "name": "American Conference",
+    "slug": "american",
+    "division": "FBS"
+  },
+  "1": {
+    "name": "Atlantic Coast Conference",
+    "slug": "acc",
+    "division": "FBS"
+  },
+  "4": {
+    "name": "Big 12 Conference",
+    "slug": "big-12",
+    "division": "FBS"
+  },
+  "5": {
+    "name": "Big Ten Conference",
+    "slug": "big-ten",
+    "division": "FBS"
+  },
+  "12": {
+    "name": "Conference USA",
+    "slug": "cusa",
+    "division": "FBS"
+  },
+  "18": {
+    "name": "FBS Independents",
+    "slug": "fbs-indep",
+    "division": "FBS"
+  },
+  "15": {
+    "name": "Mid-American Conference",
+    "slug": "mac",
+    "division": "FBS"
+  },
+  "17": {
+    "name": "Mountain West Conference",
+    "slug": "mountain-west",
+    "division": "FBS"
+  },
+  "9": {
+    "name": "Pac-12 Conference",
+    "slug": "pac-12",
+    "division": "FBS"
+  },
+  "8": {
+    "name": "Southeastern Conference",
+    "slug": "sec",
+    "division": "FBS"
+  },
+  "37": {
+    "name": "Sun Belt Conference",
+    "slug": "sun-belt",
+    "division": "FBS"
+  },
+  "20": {
+    "name": "Big Sky Conference",
+    "slug": "big-sky",
+    "division": "FCS"
+  },
+  "48": {
+    "name": "Coastal Athletic Association",
+    "slug": "caa",
+    "division": "FCS"
+  },
+  "32": {
+    "name": "FCS Independents",
+    "slug": "fcs-indep",
+    "division": "FCS"
+  },
+  "22": {
+    "name": "Ivy League",
+    "slug": "ivy",
+    "division": "FCS"
+  },
+  "24": {
+    "name": "Mid-Eastern Athletic Conference",
+    "slug": "meac",
+    "division": "FCS"
+  },
+  "21": {
+    "name": "Missouri Valley Football Conference",
+    "slug": "mvfc",
+    "division": "FCS"
+  },
+  "25": {
+    "name": "Northeast Conference",
+    "slug": "nec",
+    "division": "FCS"
+  },
+  "179": {
+    "name": "OVC-Big South Association",
+    "slug": "ovc-big-south",
+    "division": "FCS"
+  },
+  "27": {
+    "name": "Patriot League",
+    "slug": "patriot",
+    "division": "FCS"
+  },
+  "28": {
+    "name": "Pioneer Football League",
+    "slug": "pioneer",
+    "division": "FCS"
+  },
+  "29": {
+    "name": "Southern Conference",
+    "slug": "southern",
+    "division": "FCS"
+  },
+  "30": {
+    "name": "Southland Conference",
+    "slug": "southland",
+    "division": "FCS"
+  },
+  "31": {
+    "name": "Southwestern Athletic Conference",
+    "slug": "swac",
+    "division": "FCS"
+  },
+  "177": {
+    "name": "United Athletic Conference",
+    "slug": "uac",
+    "division": "FCS"
+  }
+}

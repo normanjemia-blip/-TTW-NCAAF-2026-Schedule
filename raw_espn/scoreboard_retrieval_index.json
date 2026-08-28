@@ -1,0 +1,121 @@
+[
+  {
+    "season_type": 1,
+    "week": 1,
+    "date_range": "20260201-20260822",
+    "raw_event_count": 0,
+    "file": "type1_week1.json"
+  },
+  {
+    "season_type": 2,
+    "week": 1,
+    "date_range": "20260822-20260908",
+    "raw_event_count": 99,
+    "file": "type2_week1.json"
+  },
+  {
+    "season_type": 2,
+    "week": 2,
+    "date_range": "20260908-20260914",
+    "raw_event_count": 86,
+    "file": "type2_week2.json"
+  },
+  {
+    "season_type": 2,
+    "week": 3,
+    "date_range": "20260914-20260921",
+    "raw_event_count": 75,
+    "file": "type2_week3.json"
+  },
+  {
+    "season_type": 2,
+    "week": 4,
+    "date_range": "20260921-20260928",
+    "raw_event_count": 71,
+    "file": "type2_week4.json"
+  },
+  {
+    "season_type": 2,
+    "week": 5,
+    "date_range": "20260928-20261005",
+    "raw_event_count": 59,
+    "file": "type2_week5.json"
+  },
+  {
+    "season_type": 2,
+    "week": 6,
+    "date_range": "20261005-20261012",
+    "raw_event_count": 58,
+    "file": "type2_week6.json"
+  },
+  {
+    "season_type": 2,
+    "week": 7,
+    "date_range": "20261012-20261019",
+    "raw_event_count": 62,
+    "file": "type2_week7.json"
+  },
+  {
+    "season_type": 2,
+    "week": 8,
+    "date_range": "20261019-20261026",
+    "raw_event_count": 56,
+    "file": "type2_week8.json"
+  },
+  {
+    "season_type": 2,
+    "week": 9,
+    "date_range": "20261026-20261102",
+    "raw_event_count": 56,
+    "file": "type2_week9.json"
+  },
+  {
+    "season_type": 2,
+    "week": 10,
+    "date_range": "20261102-20261109",
+    "raw_event_count": 63,
+    "file": "type2_week10.json"
+  },
+  {
+    "season_type": 2,
+    "week": 11,
+    "date_range": "20261109-20261116",
+    "raw_event_count": 67,
+    "file": "type2_week11.json"
+  },
+  {
+    "season_type": 2,
+    "week": 12,
+    "date_range": "20261116-20261123",
+    "raw_event_count": 70,
+    "file": "type2_week12.json"
+  },
+  {
+    "season_type": 2,
+    "week": 13,
+    "date_range": "20261123-20261130",
+    "raw_event_count": 69,
+    "file": "type2_week13.json"
+  },
+  {
+    "season_type": 2,
+    "week": 14,
+    "date_range": "20261130-20261207",
+    "raw_event_count": 10,
+    "file": "type2_week14.json"
+  },
+  {
+    "season_type": 2,
+    "week": 15,
+    "date_range": "20261207-20261213",
+    "raw_event_count": 2,
+    "file": "type2_week15.json"
+  },
+  {
+    "season_type": 3,
+    "week": 1,
+    "date_range": "20261213-20270128",
+    "raw_event_count": 43,
+    "file": "type3_week1.json"
+  }
+]

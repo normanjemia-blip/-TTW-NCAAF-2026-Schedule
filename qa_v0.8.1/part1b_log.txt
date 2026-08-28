@@ -1,0 +1,39 @@
+==============================================================================
+ADJUDICATION OF PART-1 FINDINGS
+==============================================================================
+
+F1 — literal error strings (3 hits)
+  CHANGELOG!C47:
+    GENUINE FORMULA DEFECT FOUND AND DOCUMENTED, NOT REPAIRED (per instruction to stop and report rather than silently fix): ADJUSTMENTS!K6:K255 (Flags formula) - =IF($A6="","",IF($D6="","REASON MISSING; ","")&IF(NOT(ISNUMBER($C6)),"VALUE NOT NUMERIC; ","")&IF(AND(ISNUMBER($C6),ABS($C6)>4,$A6<>"MARGIN OVERRIDE",$A6<>"TOTAL OVERRIDE"),"LARGE ADJ (>4); ","")). Expected: a non-numeric Value (col C) shows
+  CHANGELOG!D47:
+    v0.6 - DEFECT FOUND: ADJUSTMENTS!K non-numeric-value #VALUE! propagation
+  CHANGELOG!C51:
+    CORRECTION (user-authorized): ADJUSTMENTS!K6:K255 (Flags) replaced with the corrected formula - =IF($A6="","",IF($D6="","REASON MISSING; ","")&IF(NOT(ISNUMBER($C6)),"VALUE NOT NUMERIC; ","")&IF(ISNUMBER($C6),IF(AND(ABS($C6)>4,$A6<>"MARGIN OVERRIDE",$A6<>"TOTAL OVERRIDE"),"LARGE ADJ (>4); ",""),"")) - so ABS() is never evaluated on a non-numeric value. Live-calc re-verified: a non-numeric adjustmen
+  VERDICT: these are CHANGELOG narrative entries describing a historical defect.
+           They are prose, not error values. FALSE POSITIVE in my detector.
+
+F2 — self-referencing cells
+  My detector stripped '$' then searched for the coordinate anywhere in the
+  formula, so DASHBOARD!A6 ='...ENGINE!$A6...' matched its own name. Re-testing
+  with sheet-qualified references removed first.
+  genuine self-references after correction: 1
+    ('TEAM RATINGS', 'H143', '=IF($A143="","",IF(ISNA(MATCH($A143,CALC!$A$6:$A$143,0)),"",IF(INDEX(CALC!$H$6:$H$143,MATCH($A143,CALC!$A$6:$A$143,0))="')
+  VERDICT: REAL DEFECT.
+
+F3 — TEAM RATINGS <-> CALC sheet-level cycle: is it circular AT CELL LEVEL?
+  TEAM RATINGS columns that read CALC:
+    TEAM RATINGS!H -> CALC!['A', 'H']
+  CALC columns that read TEAM RATINGS:
+    CALC!A -> TEAM RATINGS!['A']
+    CALC!X -> TEAM RATINGS!['A', 'F']
+    CALC!Y -> TEAM RATINGS!['A', 'F']
+
+  TEAM RATINGS columns CALC depends on : ['A', 'F']
+  TEAM RATINGS columns that depend on CALC: ['H']
+  OVERLAP on TEAM RATINGS: []
+
+  CALC columns TEAM RATINGS depends on : ['A', 'H']
+  CALC columns that depend on TEAM RATINGS: ['A', 'X', 'Y']
+  OVERLAP on CALC: ['A']
+
+  VERDICT: POTENTIAL REAL CIRCULARITY — overlapping columns; investigate rows.

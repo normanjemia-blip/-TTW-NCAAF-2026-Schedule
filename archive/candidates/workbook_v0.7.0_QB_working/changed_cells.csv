@@ -1,0 +1,948 @@
+sheet,cell,description
+QB VALUES,E6,Active QB = Keelon Russell
+QB VALUES,H6,Confidence = L
+QB VALUES,I6,Source
+QB VALUES,J6,Reviewed season = 2026
+QB VALUES,K6,Last update = 2026-07-21
+QB VALUES,L6,Notes
+QB VALUES,E7,Active QB = KJ Jackson
+QB VALUES,C7,Baseline QB = KJ Jackson
+QB VALUES,H7,Confidence = M
+QB VALUES,I7,Source
+QB VALUES,J7,Reviewed season = 2026
+QB VALUES,K7,Last update = 2026-07-21
+QB VALUES,L7,Notes
+QB VALUES,E8,Active QB = Byrum Brown
+QB VALUES,C8,Baseline QB = Byrum Brown
+QB VALUES,H8,Confidence = M
+QB VALUES,I8,Source
+QB VALUES,J8,Reviewed season = 2026
+QB VALUES,K8,Last update = 2026-07-21
+QB VALUES,L8,Notes
+QB VALUES,E9,Active QB = Aaron Philo
+QB VALUES,H9,Confidence = L
+QB VALUES,I9,Source
+QB VALUES,J9,Reviewed season = 2026
+QB VALUES,K9,Last update = 2026-07-21
+QB VALUES,L9,Notes
+QB VALUES,E10,Active QB = Gunner Stockton
+QB VALUES,C10,Baseline QB = Gunner Stockton
+QB VALUES,H10,Confidence = H
+QB VALUES,I10,Source
+QB VALUES,J10,Reviewed season = 2026
+QB VALUES,K10,Last update = 2026-07-21
+QB VALUES,L10,Notes
+QB VALUES,E11,Active QB = Kenny Minchey
+QB VALUES,C11,Baseline QB = Kenny Minchey
+QB VALUES,H11,Confidence = M
+QB VALUES,I11,Source
+QB VALUES,J11,Reviewed season = 2026
+QB VALUES,K11,Last update = 2026-07-21
+QB VALUES,L11,Notes
+QB VALUES,E12,Active QB = Sam Leavitt
+QB VALUES,C12,Baseline QB = Sam Leavitt
+QB VALUES,H12,Confidence = H
+QB VALUES,I12,Source
+QB VALUES,J12,Reviewed season = 2026
+QB VALUES,K12,Last update = 2026-07-21
+QB VALUES,L12,Notes
+QB VALUES,E13,Active QB = Kamario Taylor
+QB VALUES,C13,Baseline QB = Kamario Taylor
+QB VALUES,H13,Confidence = M
+QB VALUES,I13,Source
+QB VALUES,J13,Reviewed season = 2026
+QB VALUES,K13,Last update = 2026-07-21
+QB VALUES,L13,Notes
+QB VALUES,E14,Active QB = Austin Simmons
+QB VALUES,C14,Baseline QB = Austin Simmons
+QB VALUES,H14,Confidence = M
+QB VALUES,I14,Source
+QB VALUES,J14,Reviewed season = 2026
+QB VALUES,K14,Last update = 2026-07-21
+QB VALUES,L14,Notes
+QB VALUES,E15,Active QB = John Mateer
+QB VALUES,C15,Baseline QB = John Mateer
+QB VALUES,H15,Confidence = H
+QB VALUES,I15,Source
+QB VALUES,J15,Reviewed season = 2026
+QB VALUES,K15,Last update = 2026-07-21
+QB VALUES,L15,Notes
+QB VALUES,E16,Active QB = Trinidad Chambliss
+QB VALUES,C16,Baseline QB = Trinidad Chambliss
+QB VALUES,H16,Confidence = H
+QB VALUES,I16,Source
+QB VALUES,J16,Reviewed season = 2026
+QB VALUES,K16,Last update = 2026-07-21
+QB VALUES,L16,Notes
+QB VALUES,E17,Active QB = LaNorris Sellers
+QB VALUES,C17,Baseline QB = LaNorris Sellers
+QB VALUES,H17,Confidence = H
+QB VALUES,I17,Source
+QB VALUES,J17,Reviewed season = 2026
+QB VALUES,K17,Last update = 2026-07-21
+QB VALUES,L17,Notes
+QB VALUES,E18,Active QB = Faizon Brandon
+QB VALUES,H18,Confidence = L
+QB VALUES,I18,Source
+QB VALUES,J18,Reviewed season = 2026
+QB VALUES,K18,Last update = 2026-07-21
+QB VALUES,L18,Notes
+QB VALUES,E19,Active QB = Arch Manning
+QB VALUES,C19,Baseline QB = Arch Manning
+QB VALUES,H19,Confidence = H
+QB VALUES,I19,Source
+QB VALUES,J19,Reviewed season = 2026
+QB VALUES,K19,Last update = 2026-07-21
+QB VALUES,L19,Notes
+QB VALUES,E20,Active QB = Marcel Reed
+QB VALUES,C20,Baseline QB = Marcel Reed
+QB VALUES,H20,Confidence = H
+QB VALUES,I20,Source
+QB VALUES,J20,Reviewed season = 2026
+QB VALUES,K20,Last update = 2026-07-21
+QB VALUES,L20,Notes
+QB VALUES,E21,Active QB = Jared Curtis
+QB VALUES,H21,Confidence = L
+QB VALUES,I21,Source
+QB VALUES,J21,Reviewed season = 2026
+QB VALUES,K21,Last update = 2026-07-21
+QB VALUES,L21,Notes
+QB VALUES,E22,Active QB = Katin Houser
+QB VALUES,C22,Baseline QB = Katin Houser
+QB VALUES,H22,Confidence = H
+QB VALUES,I22,Source
+QB VALUES,J22,Reviewed season = 2026
+QB VALUES,K22,Last update = 2026-07-21
+QB VALUES,L22,Notes
+QB VALUES,E23,Active QB = Josh Hoover
+QB VALUES,C23,Baseline QB = Josh Hoover
+QB VALUES,H23,Confidence = H
+QB VALUES,I23,Source
+QB VALUES,J23,Reviewed season = 2026
+QB VALUES,K23,Last update = 2026-07-21
+QB VALUES,L23,Notes
+QB VALUES,E24,Active QB = Jeremy Hecklinski
+QB VALUES,H24,Confidence = L
+QB VALUES,I24,Source
+QB VALUES,J24,Reviewed season = 2026
+QB VALUES,K24,Last update = 2026-07-21
+QB VALUES,L24,Notes
+QB VALUES,E25,Active QB = Malik Washington
+QB VALUES,C25,Baseline QB = Malik Washington
+QB VALUES,H25,Confidence = H
+QB VALUES,I25,Source
+QB VALUES,J25,Reviewed season = 2026
+QB VALUES,K25,Last update = 2026-07-21
+QB VALUES,L25,Notes
+QB VALUES,E26,Active QB = Bryce Underwood
+QB VALUES,C26,Baseline QB = Bryce Underwood
+QB VALUES,H26,Confidence = H
+QB VALUES,I26,Source
+QB VALUES,J26,Reviewed season = 2026
+QB VALUES,K26,Last update = 2026-07-21
+QB VALUES,L26,Notes
+QB VALUES,E27,Active QB = Alessio Milivojevic
+QB VALUES,C27,Baseline QB = Alessio Milivojevic
+QB VALUES,H27,Confidence = M
+QB VALUES,I27,Source
+QB VALUES,J27,Reviewed season = 2026
+QB VALUES,K27,Last update = 2026-07-21
+QB VALUES,L27,Notes
+QB VALUES,E28,Active QB = Drake Lindsey
+QB VALUES,C28,Baseline QB = Drake Lindsey
+QB VALUES,H28,Confidence = M
+QB VALUES,I28,Source
+QB VALUES,J28,Reviewed season = 2026
+QB VALUES,K28,Last update = 2026-07-21
+QB VALUES,L28,Notes
+QB VALUES,E29,Active QB = Anthony Colandrea
+QB VALUES,H29,Confidence = L
+QB VALUES,I29,Source
+QB VALUES,J29,Reviewed season = 2026
+QB VALUES,K29,Last update = 2026-07-21
+QB VALUES,L29,Notes
+QB VALUES,E30,Active QB = Aidan Chiles
+QB VALUES,C30,Baseline QB = Aidan Chiles
+QB VALUES,H30,Confidence = H
+QB VALUES,I30,Source
+QB VALUES,J30,Reviewed season = 2026
+QB VALUES,K30,Last update = 2026-07-21
+QB VALUES,L30,Notes
+QB VALUES,E31,Active QB = Julian Sayin
+QB VALUES,C31,Baseline QB = Julian Sayin
+QB VALUES,H31,Confidence = H
+QB VALUES,I31,Source
+QB VALUES,J31,Reviewed season = 2026
+QB VALUES,K31,Last update = 2026-07-21
+QB VALUES,L31,Notes
+QB VALUES,E32,Active QB = Dante Moore
+QB VALUES,C32,Baseline QB = Dante Moore
+QB VALUES,H32,Confidence = H
+QB VALUES,I32,Source
+QB VALUES,J32,Reviewed season = 2026
+QB VALUES,K32,Last update = 2026-07-21
+QB VALUES,L32,Notes
+QB VALUES,E33,Active QB = Rocco Becht
+QB VALUES,C33,Baseline QB = Rocco Becht
+QB VALUES,H33,Confidence = H
+QB VALUES,I33,Source
+QB VALUES,J33,Reviewed season = 2026
+QB VALUES,K33,Last update = 2026-07-21
+QB VALUES,L33,Notes
+QB VALUES,E34,Active QB = Ryan Browne
+QB VALUES,C34,Baseline QB = Ryan Browne
+QB VALUES,H34,Confidence = M
+QB VALUES,I34,Source
+QB VALUES,J34,Reviewed season = 2026
+QB VALUES,K34,Last update = 2026-07-21
+QB VALUES,L34,Notes
+QB VALUES,E35,Active QB = Dylan Lonergan
+QB VALUES,H35,Confidence = L
+QB VALUES,I35,Source
+QB VALUES,J35,Reviewed season = 2026
+QB VALUES,K35,Last update = 2026-07-21
+QB VALUES,L35,Notes
+QB VALUES,E36,Active QB = Nico Iamaleava
+QB VALUES,C36,Baseline QB = Nico Iamaleava
+QB VALUES,H36,Confidence = H
+QB VALUES,I36,Source
+QB VALUES,J36,Reviewed season = 2026
+QB VALUES,K36,Last update = 2026-07-21
+QB VALUES,L36,Notes
+QB VALUES,E37,Active QB = Jayden Maiava
+QB VALUES,C37,Baseline QB = Jayden Maiava
+QB VALUES,H37,Confidence = H
+QB VALUES,I37,Source
+QB VALUES,J37,Reviewed season = 2026
+QB VALUES,K37,Last update = 2026-07-21
+QB VALUES,L37,Notes
+QB VALUES,E38,Active QB = Demond Williams Jr.
+QB VALUES,C38,Baseline QB = Demond Williams Jr.
+QB VALUES,H38,Confidence = H
+QB VALUES,I38,Source
+QB VALUES,J38,Reviewed season = 2026
+QB VALUES,K38,Last update = 2026-07-21
+QB VALUES,L38,Notes
+QB VALUES,E39,Active QB = Colton Joseph
+QB VALUES,C39,Baseline QB = Colton Joseph
+QB VALUES,H39,Confidence = M
+QB VALUES,I39,Source
+QB VALUES,J39,Reviewed season = 2026
+QB VALUES,K39,Last update = 2026-07-21
+QB VALUES,L39,Notes
+QB VALUES,E40,Active QB = Noah Fifita
+QB VALUES,C40,Baseline QB = Noah Fifita
+QB VALUES,H40,Confidence = H
+QB VALUES,I40,Source
+QB VALUES,J40,Reviewed season = 2026
+QB VALUES,K40,Last update = 2026-07-21
+QB VALUES,L40,Notes
+QB VALUES,E41,Active QB = Cutter Boley
+QB VALUES,C41,Baseline QB = Cutter Boley
+QB VALUES,H41,Confidence = M
+QB VALUES,I41,Source
+QB VALUES,J41,Reviewed season = 2026
+QB VALUES,K41,Last update = 2026-07-21
+QB VALUES,L41,Notes
+QB VALUES,E42,Active QB = DJ Lagway
+QB VALUES,C42,Baseline QB = DJ Lagway
+QB VALUES,H42,Confidence = H
+QB VALUES,I42,Source
+QB VALUES,J42,Reviewed season = 2026
+QB VALUES,K42,Last update = 2026-07-21
+QB VALUES,L42,Notes
+QB VALUES,E43,Active QB = Bear Bachmeier
+QB VALUES,C43,Baseline QB = Bear Bachmeier
+QB VALUES,H43,Confidence = H
+QB VALUES,I43,Source
+QB VALUES,J43,Reviewed season = 2026
+QB VALUES,K43,Last update = 2026-07-21
+QB VALUES,L43,Notes
+QB VALUES,E44,Active QB = JC French IV
+QB VALUES,C44,Baseline QB = JC French IV
+QB VALUES,H44,Confidence = H
+QB VALUES,I44,Source
+QB VALUES,J44,Reviewed season = 2026
+QB VALUES,K44,Last update = 2026-07-21
+QB VALUES,L44,Notes
+QB VALUES,E45,Active QB = Julian Lewis
+QB VALUES,C45,Baseline QB = Julian Lewis
+QB VALUES,H45,Confidence = H
+QB VALUES,I45,Source
+QB VALUES,J45,Reviewed season = 2026
+QB VALUES,K45,Last update = 2026-07-21
+QB VALUES,L45,Notes
+QB VALUES,E46,Active QB = Conner Weigman
+QB VALUES,C46,Baseline QB = Conner Weigman
+QB VALUES,H46,Confidence = M
+QB VALUES,I46,Source
+QB VALUES,J46,Reviewed season = 2026
+QB VALUES,K46,Last update = 2026-07-21
+QB VALUES,L46,Notes
+QB VALUES,E47,Active QB = Jaylen Raynor
+QB VALUES,C47,Baseline QB = Jaylen Raynor
+QB VALUES,H47,Confidence = H
+QB VALUES,I47,Source
+QB VALUES,J47,Reviewed season = 2026
+QB VALUES,K47,Last update = 2026-07-21
+QB VALUES,L47,Notes
+QB VALUES,E48,Active QB = Cole Ballard
+QB VALUES,H48,Confidence = L
+QB VALUES,I48,Source
+QB VALUES,J48,Reviewed season = 2026
+QB VALUES,K48,Last update = 2026-07-21
+QB VALUES,L48,Notes
+QB VALUES,E49,Active QB = Avery Johnson
+QB VALUES,C49,Baseline QB = Avery Johnson
+QB VALUES,H49,Confidence = H
+QB VALUES,I49,Source
+QB VALUES,J49,Reviewed season = 2026
+QB VALUES,K49,Last update = 2026-07-21
+QB VALUES,L49,Notes
+QB VALUES,E50,Active QB = Drew Mestemaker
+QB VALUES,C50,Baseline QB = Drew Mestemaker
+QB VALUES,H50,Confidence = H
+QB VALUES,I50,Source
+QB VALUES,J50,Reviewed season = 2026
+QB VALUES,K50,Last update = 2026-07-21
+QB VALUES,L50,Notes
+QB VALUES,E51,Active QB = Jaden Craig
+QB VALUES,C51,Baseline QB = Jaden Craig
+QB VALUES,H51,Confidence = H
+QB VALUES,I51,Source
+QB VALUES,J51,Reviewed season = 2026
+QB VALUES,K51,Last update = 2026-07-21
+QB VALUES,L51,Notes
+QB VALUES,E52,Active QB = Will Hammond
+QB VALUES,H52,Confidence = L
+QB VALUES,I52,Source
+QB VALUES,J52,Reviewed season = 2026
+QB VALUES,K52,Last update = 2026-07-21
+QB VALUES,L52,Notes
+QB VALUES,E53,Active QB = Alonza Barnett III
+QB VALUES,C53,Baseline QB = Alonza Barnett III
+QB VALUES,H53,Confidence = H
+QB VALUES,I53,Source
+QB VALUES,J53,Reviewed season = 2026
+QB VALUES,K53,Last update = 2026-07-21
+QB VALUES,L53,Notes
+QB VALUES,E54,Active QB = Devon Dampier
+QB VALUES,C54,Baseline QB = Devon Dampier
+QB VALUES,H54,Confidence = H
+QB VALUES,I54,Source
+QB VALUES,J54,Reviewed season = 2026
+QB VALUES,K54,Last update = 2026-07-21
+QB VALUES,L54,Notes
+QB VALUES,E55,Active QB = Michael Hawkins Jr.
+QB VALUES,C55,Baseline QB = Michael Hawkins Jr.
+QB VALUES,H55,Confidence = M
+QB VALUES,I55,Source
+QB VALUES,J55,Reviewed season = 2026
+QB VALUES,K55,Last update = 2026-07-21
+QB VALUES,L55,Notes
+QB VALUES,E56,Active QB = Mason McKenzie
+QB VALUES,C56,Baseline QB = Mason McKenzie
+QB VALUES,H56,Confidence = H
+QB VALUES,I56,Source
+QB VALUES,J56,Reviewed season = 2026
+QB VALUES,K56,Last update = 2026-07-21
+QB VALUES,L56,Notes
+QB VALUES,E57,Active QB = Jaron-Keawe Sagapolutele
+QB VALUES,C57,Baseline QB = Jaron-Keawe Sagapolutele
+QB VALUES,H57,Confidence = H
+QB VALUES,I57,Source
+QB VALUES,J57,Reviewed season = 2026
+QB VALUES,K57,Last update = 2026-07-21
+QB VALUES,L57,Notes
+QB VALUES,E58,Active QB = Christopher Vizzina
+QB VALUES,C58,Baseline QB = Christopher Vizzina
+QB VALUES,H58,Confidence = H
+QB VALUES,I58,Source
+QB VALUES,J58,Reviewed season = 2026
+QB VALUES,K58,Last update = 2026-07-21
+QB VALUES,L58,Notes
+QB VALUES,E59,Active QB = Walker Eget
+QB VALUES,C59,Baseline QB = Walker Eget
+QB VALUES,H59,Confidence = M
+QB VALUES,I59,Source
+QB VALUES,J59,Reviewed season = 2026
+QB VALUES,K59,Last update = 2026-07-21
+QB VALUES,L59,Notes
+QB VALUES,E60,Active QB = Ashton Daniels
+QB VALUES,C60,Baseline QB = Ashton Daniels
+QB VALUES,H60,Confidence = H
+QB VALUES,I60,Source
+QB VALUES,J60,Reviewed season = 2026
+QB VALUES,K60,Last update = 2026-07-21
+QB VALUES,L60,Notes
+QB VALUES,E61,Active QB = Alberto Mendoza
+QB VALUES,C61,Baseline QB = Alberto Mendoza
+QB VALUES,H61,Confidence = H
+QB VALUES,I61,Source
+QB VALUES,J61,Reviewed season = 2026
+QB VALUES,K61,Last update = 2026-07-21
+QB VALUES,L61,Notes
+QB VALUES,E62,Active QB = Lincoln Kienholz
+QB VALUES,C62,Baseline QB = Lincoln Kienholz
+QB VALUES,H62,Confidence = H
+QB VALUES,I62,Source
+QB VALUES,J62,Reviewed season = 2026
+QB VALUES,K62,Last update = 2026-07-21
+QB VALUES,L62,Notes
+QB VALUES,E63,Active QB = Darian Mensah
+QB VALUES,C63,Baseline QB = Darian Mensah
+QB VALUES,H63,Confidence = H
+QB VALUES,I63,Source
+QB VALUES,J63,Reviewed season = 2026
+QB VALUES,K63,Last update = 2026-07-21
+QB VALUES,L63,Notes
+QB VALUES,E64,Active QB = CJ Bailey
+QB VALUES,C64,Baseline QB = CJ Bailey
+QB VALUES,H64,Confidence = H
+QB VALUES,I64,Source
+QB VALUES,J64,Reviewed season = 2026
+QB VALUES,K64,Last update = 2026-07-21
+QB VALUES,L64,Notes
+QB VALUES,E65,Active QB = Billy Edwards Jr.
+QB VALUES,C65,Baseline QB = Billy Edwards Jr.
+QB VALUES,H65,Confidence = M
+QB VALUES,I65,Source
+QB VALUES,J65,Reviewed season = 2026
+QB VALUES,K65,Last update = 2026-07-21
+QB VALUES,L65,Notes
+QB VALUES,E66,Active QB = Mason Heintschel
+QB VALUES,C66,Baseline QB = Mason Heintschel
+QB VALUES,H66,Confidence = H
+QB VALUES,I66,Source
+QB VALUES,J66,Reviewed season = 2026
+QB VALUES,K66,Last update = 2026-07-21
+QB VALUES,L66,Notes
+QB VALUES,E67,Active QB = Kevin Jennings
+QB VALUES,C67,Baseline QB = Kevin Jennings
+QB VALUES,H67,Confidence = H
+QB VALUES,I67,Source
+QB VALUES,J67,Reviewed season = 2026
+QB VALUES,K67,Last update = 2026-07-21
+QB VALUES,L67,Notes
+QB VALUES,E68,Active QB = Davis Warren
+QB VALUES,H68,Confidence = L
+QB VALUES,I68,Source
+QB VALUES,J68,Reviewed season = 2026
+QB VALUES,K68,Last update = 2026-07-21
+QB VALUES,L68,Notes
+QB VALUES,E69,Active QB = Steve Angeli
+QB VALUES,H69,Confidence = L
+QB VALUES,I69,Source
+QB VALUES,J69,Reviewed season = 2026
+QB VALUES,K69,Last update = 2026-07-21
+QB VALUES,L69,Notes
+QB VALUES,E70,Active QB = Beau Pribula
+QB VALUES,C70,Baseline QB = Beau Pribula
+QB VALUES,H70,Confidence = M
+QB VALUES,I70,Source
+QB VALUES,J70,Reviewed season = 2026
+QB VALUES,K70,Last update = 2026-07-21
+QB VALUES,L70,Notes
+QB VALUES,E71,Active QB = Ethan Grunkemeyer
+QB VALUES,C71,Baseline QB = Ethan Grunkemeyer
+QB VALUES,H71,Confidence = H
+QB VALUES,I71,Source
+QB VALUES,J71,Reviewed season = 2026
+QB VALUES,K71,Last update = 2026-07-21
+QB VALUES,L71,Notes
+QB VALUES,E72,Active QB = Gio Lopez
+QB VALUES,C72,Baseline QB = Gio Lopez
+QB VALUES,H72,Confidence = M
+QB VALUES,I72,Source
+QB VALUES,J72,Reviewed season = 2026
+QB VALUES,K72,Last update = 2026-07-21
+QB VALUES,L72,Notes
+QB VALUES,E73,Active QB = Maddux Madsen
+QB VALUES,C73,Baseline QB = Maddux Madsen
+QB VALUES,H73,Confidence = H
+QB VALUES,I73,Source
+QB VALUES,J73,Reviewed season = 2026
+QB VALUES,K73,Last update = 2026-07-21
+QB VALUES,L73,Notes
+QB VALUES,E74,Active QB = Hauss Hejny
+QB VALUES,H74,Confidence = L
+QB VALUES,I74,Source
+QB VALUES,J74,Reviewed season = 2026
+QB VALUES,K74,Last update = 2026-07-21
+QB VALUES,L74,Notes
+QB VALUES,E75,Active QB = Khristian Martin
+QB VALUES,H75,Confidence = L
+QB VALUES,I75,Source
+QB VALUES,J75,Reviewed season = 2026
+QB VALUES,K75,Last update = 2026-07-21
+QB VALUES,L75,Notes
+QB VALUES,E76,Active QB = Maalik Murphy
+QB VALUES,H76,Confidence = L
+QB VALUES,I76,Source
+QB VALUES,J76,Reviewed season = 2026
+QB VALUES,K76,Last update = 2026-07-21
+QB VALUES,L76,Notes
+QB VALUES,E77,Active QB = Jayden Denegal
+QB VALUES,C77,Baseline QB = Jayden Denegal
+QB VALUES,H77,Confidence = H
+QB VALUES,I77,Source
+QB VALUES,J77,Reviewed season = 2026
+QB VALUES,K77,Last update = 2026-07-21
+QB VALUES,L77,Notes
+QB VALUES,E78,Active QB = Brad Jackson
+QB VALUES,C78,Baseline QB = Brad Jackson
+QB VALUES,H78,Confidence = M
+QB VALUES,I78,Source
+QB VALUES,J78,Reviewed season = 2026
+QB VALUES,K78,Last update = 2026-07-21
+QB VALUES,L78,Notes
+QB VALUES,E79,Active QB = McCae Hillstead
+QB VALUES,C79,Baseline QB = McCae Hillstead
+QB VALUES,H79,Confidence = M
+QB VALUES,I79,Source
+QB VALUES,J79,Reviewed season = 2026
+QB VALUES,K79,Last update = 2026-07-21
+QB VALUES,L79,Notes
+QB VALUES,E80,Active QB = Caden Pinnick
+QB VALUES,C80,Baseline QB = Caden Pinnick
+QB VALUES,H80,Confidence = M
+QB VALUES,I80,Source
+QB VALUES,J80,Reviewed season = 2026
+QB VALUES,K80,Last update = 2026-07-21
+QB VALUES,L80,Notes
+QB VALUES,E81,Active QB = Cale Hellums
+QB VALUES,C81,Baseline QB = Cale Hellums
+QB VALUES,H81,Confidence = H
+QB VALUES,I81,Source
+QB VALUES,J81,Reviewed season = 2026
+QB VALUES,K81,Last update = 2026-07-21
+QB VALUES,L81,Notes
+QB VALUES,E82,Active QB = Grayson Loftis
+QB VALUES,C82,Baseline QB = Grayson Loftis
+QB VALUES,H82,Confidence = H
+QB VALUES,I82,Source
+QB VALUES,J82,Reviewed season = 2026
+QB VALUES,K82,Last update = 2026-07-21
+QB VALUES,L82,Notes
+QB VALUES,E83,Active QB = Chaston Ditta
+QB VALUES,C83,Baseline QB = Chaston Ditta
+QB VALUES,H83,Confidence = M
+QB VALUES,I83,Source
+QB VALUES,J83,Reviewed season = 2026
+QB VALUES,K83,Last update = 2026-07-21
+QB VALUES,L83,Notes
+QB VALUES,E84,Active QB = Caden Veltkamp
+QB VALUES,C84,Baseline QB = Caden Veltkamp
+QB VALUES,H84,Confidence = M
+QB VALUES,I84,Source
+QB VALUES,J84,Reviewed season = 2026
+QB VALUES,K84,Last update = 2026-07-21
+QB VALUES,L84,Notes
+QB VALUES,E85,Active QB = Marcus Stokes
+QB VALUES,H85,Confidence = L
+QB VALUES,I85,Source
+QB VALUES,J85,Reviewed season = 2026
+QB VALUES,K85,Last update = 2026-07-21
+QB VALUES,L85,Notes
+QB VALUES,E86,Active QB = Braxton Woodson
+QB VALUES,C86,Baseline QB = Braxton Woodson
+QB VALUES,H86,Confidence = M
+QB VALUES,I86,Source
+QB VALUES,J86,Reviewed season = 2026
+QB VALUES,K86,Last update = 2026-07-21
+QB VALUES,L86,Notes
+QB VALUES,E87,Active QB = Tayven Jackson
+QB VALUES,C87,Baseline QB = Tayven Jackson
+QB VALUES,H87,Confidence = M
+QB VALUES,I87,Source
+QB VALUES,J87,Reviewed season = 2026
+QB VALUES,K87,Last update = 2026-07-21
+QB VALUES,L87,Notes
+QB VALUES,E88,Active QB = Jacurri Brown
+QB VALUES,C88,Baseline QB = Jacurri Brown
+QB VALUES,H88,Confidence = M
+QB VALUES,I88,Source
+QB VALUES,J88,Reviewed season = 2026
+QB VALUES,K88,Last update = 2026-07-21
+QB VALUES,L88,Notes
+QB VALUES,E89,Active QB = OPEN (Kromenhoek / Van Buren Jr. / Cooper)
+QB VALUES,H89,Confidence = L
+QB VALUES,I89,Source
+QB VALUES,J89,Reviewed season = 2026
+QB VALUES,K89,Last update = 2026-07-21
+QB VALUES,L89,Notes
+QB VALUES,E90,Active QB = Jaxon Smolik
+QB VALUES,C90,Baseline QB = Jaxon Smolik
+QB VALUES,H90,Confidence = M
+QB VALUES,I90,Source
+QB VALUES,J90,Reviewed season = 2026
+QB VALUES,K90,Last update = 2026-07-21
+QB VALUES,L90,Notes
+QB VALUES,E91,Active QB = Kadin Semonza
+QB VALUES,H91,Confidence = L
+QB VALUES,I91,Source
+QB VALUES,J91,Reviewed season = 2026
+QB VALUES,K91,Last update = 2026-07-21
+QB VALUES,L91,Notes
+QB VALUES,E92,Active QB = Baylor Hayes
+QB VALUES,C92,Baseline QB = Baylor Hayes
+QB VALUES,H92,Confidence = M
+QB VALUES,I92,Source
+QB VALUES,J92,Reviewed season = 2026
+QB VALUES,K92,Last update = 2026-07-21
+QB VALUES,L92,Notes
+QB VALUES,E93,Active QB = Ryder Burton
+QB VALUES,C93,Baseline QB = Ryder Burton
+QB VALUES,H93,Confidence = H
+QB VALUES,I93,Source
+QB VALUES,J93,Reviewed season = 2026
+QB VALUES,K93,Last update = 2026-07-21
+QB VALUES,L93,Notes
+QB VALUES,E94,Active QB = Owen McCown
+QB VALUES,C94,Baseline QB = Owen McCown
+QB VALUES,H94,Confidence = H
+QB VALUES,I94,Source
+QB VALUES,J94,Reviewed season = 2026
+QB VALUES,K94,Last update = 2026-07-21
+QB VALUES,L94,Notes
+QB VALUES,E95,Active QB = Nick Minicucci
+QB VALUES,C95,Baseline QB = Nick Minicucci
+QB VALUES,H95,Confidence = H
+QB VALUES,I95,Source
+QB VALUES,J95,Reviewed season = 2026
+QB VALUES,K95,Last update = 2026-07-21
+QB VALUES,L95,Notes
+QB VALUES,E96,Active QB = JJ Kohl
+QB VALUES,C96,Baseline QB = JJ Kohl
+QB VALUES,H96,Confidence = M
+QB VALUES,I96,Source
+QB VALUES,J96,Reviewed season = 2026
+QB VALUES,K96,Last update = 2026-07-21
+QB VALUES,L96,Notes
+QB VALUES,E97,Active QB = Caden Creel
+QB VALUES,C97,Baseline QB = Caden Creel
+QB VALUES,H97,Confidence = H
+QB VALUES,I97,Source
+QB VALUES,J97,Reviewed season = 2026
+QB VALUES,K97,Last update = 2026-07-21
+QB VALUES,L97,Notes
+QB VALUES,E98,Active QB = Rickie Collins
+QB VALUES,C98,Baseline QB = Rickie Collins
+QB VALUES,H98,Confidence = M
+QB VALUES,I98,Source
+QB VALUES,J98,Reviewed season = 2026
+QB VALUES,K98,Last update = 2026-07-21
+QB VALUES,L98,Notes
+QB VALUES,E99,Active QB = Ethan Vasko
+QB VALUES,H99,Confidence = L
+QB VALUES,I99,Source
+QB VALUES,J99,Reviewed season = 2026
+QB VALUES,K99,Last update = 2026-07-21
+QB VALUES,L99,Notes
+QB VALUES,E100,Active QB = Roman Gagliano
+QB VALUES,C100,Baseline QB = Roman Gagliano
+QB VALUES,H100,Confidence = M
+QB VALUES,I100,Source
+QB VALUES,J100,Reviewed season = 2026
+QB VALUES,K100,Last update = 2026-07-21
+QB VALUES,L100,Notes
+QB VALUES,E101,Active QB = Open competition
+QB VALUES,H101,Confidence = L
+QB VALUES,I101,Source
+QB VALUES,J101,Reviewed season = 2026
+QB VALUES,K101,Last update = 2026-07-21
+QB VALUES,L101,Notes
+QB VALUES,E102,Active QB = Open competition
+QB VALUES,H102,Confidence = L
+QB VALUES,I102,Source
+QB VALUES,J102,Reviewed season = 2026
+QB VALUES,K102,Last update = 2026-07-21
+QB VALUES,L102,Notes
+QB VALUES,E103,Active QB = Landyn Locke
+QB VALUES,C103,Baseline QB = Landyn Locke
+QB VALUES,H103,Confidence = M
+QB VALUES,I103,Source
+QB VALUES,J103,Reviewed season = 2026
+QB VALUES,K103,Last update = 2026-07-21
+QB VALUES,L103,Notes
+QB VALUES,E104,Active QB = Rodney Tisdale Jr.
+QB VALUES,C104,Baseline QB = Rodney Tisdale Jr.
+QB VALUES,H104,Confidence = M
+QB VALUES,I104,Source
+QB VALUES,J104,Reviewed season = 2026
+QB VALUES,K104,Last update = 2026-07-21
+QB VALUES,L104,Notes
+QB VALUES,E105,Active QB = Ben Finley
+QB VALUES,C105,Baseline QB = Ben Finley
+QB VALUES,H105,Confidence = M
+QB VALUES,I105,Source
+QB VALUES,J105,Reviewed season = 2026
+QB VALUES,K105,Last update = 2026-07-21
+QB VALUES,L105,Notes
+QB VALUES,E106,Active QB = Keldric Luster
+QB VALUES,H106,Confidence = L
+QB VALUES,I106,Source
+QB VALUES,J106,Reviewed season = 2026
+QB VALUES,K106,Last update = 2026-07-21
+QB VALUES,L106,Notes
+QB VALUES,E107,Active QB = Austin Novosad
+QB VALUES,C107,Baseline QB = Austin Novosad
+QB VALUES,H107,Confidence = M
+QB VALUES,I107,Source
+QB VALUES,J107,Reviewed season = 2026
+QB VALUES,K107,Last update = 2026-07-21
+QB VALUES,L107,Notes
+QB VALUES,E108,Active QB = Open (Elijah Holmes / CJ Ogbonna)
+QB VALUES,H108,Confidence = L
+QB VALUES,I108,Source
+QB VALUES,J108,Reviewed season = 2026
+QB VALUES,K108,Last update = 2026-07-21
+QB VALUES,L108,Notes
+QB VALUES,E109,Active QB = Open (Flores / Beamon / Glasser)
+QB VALUES,H109,Confidence = L
+QB VALUES,I109,Source
+QB VALUES,J109,Reviewed season = 2026
+QB VALUES,K109,Last update = 2026-07-21
+QB VALUES,L109,Notes
+QB VALUES,E110,Active QB = Noah Kim
+QB VALUES,C110,Baseline QB = Noah Kim
+QB VALUES,H110,Confidence = H
+QB VALUES,I110,Source
+QB VALUES,J110,Reviewed season = 2026
+QB VALUES,K110,Last update = 2026-07-21
+QB VALUES,L110,Notes
+QB VALUES,E111,Active QB = Dru DeShields
+QB VALUES,C111,Baseline QB = Dru DeShields
+QB VALUES,H111,Confidence = H
+QB VALUES,I111,Source
+QB VALUES,J111,Reviewed season = 2026
+QB VALUES,K111,Last update = 2026-07-21
+QB VALUES,L111,Notes
+QB VALUES,E112,Active QB = Thomas Gotkowski
+QB VALUES,H112,Confidence = L
+QB VALUES,I112,Source
+QB VALUES,J112,Reviewed season = 2026
+QB VALUES,K112,Last update = 2026-07-21
+QB VALUES,L112,Notes
+QB VALUES,E113,Active QB = Open competition
+QB VALUES,H113,Confidence = L
+QB VALUES,I113,Source
+QB VALUES,J113,Reviewed season = 2026
+QB VALUES,K113,Last update = 2026-07-21
+QB VALUES,L113,Notes
+QB VALUES,E114,Active QB = Carson Conklin
+QB VALUES,C114,Baseline QB = Carson Conklin
+QB VALUES,H114,Confidence = M
+QB VALUES,I114,Source
+QB VALUES,J114,Reviewed season = 2026
+QB VALUES,K114,Last update = 2026-07-21
+QB VALUES,L114,Notes
+QB VALUES,E115,Active QB = John Alan Richter
+QB VALUES,C115,Baseline QB = John Alan Richter
+QB VALUES,H115,Confidence = M
+QB VALUES,I115,Source
+QB VALUES,J115,Reviewed season = 2026
+QB VALUES,K115,Last update = 2026-07-21
+QB VALUES,L115,Notes
+QB VALUES,E116,Active QB = William 'Pop' Watson
+QB VALUES,C116,Baseline QB = William 'Pop' Watson
+QB VALUES,H116,Confidence = M
+QB VALUES,I116,Source
+QB VALUES,J116,Reviewed season = 2026
+QB VALUES,K116,Last update = 2026-07-21
+QB VALUES,L116,Notes
+QB VALUES,E117,Active QB = Broc Lowry
+QB VALUES,C117,Baseline QB = Broc Lowry
+QB VALUES,H117,Confidence = M
+QB VALUES,I117,Source
+QB VALUES,J117,Reviewed season = 2026
+QB VALUES,K117,Last update = 2026-07-21
+QB VALUES,L117,Notes
+QB VALUES,E118,Active QB = Liam Szarka
+QB VALUES,C118,Baseline QB = Liam Szarka
+QB VALUES,H118,Confidence = H
+QB VALUES,I118,Source
+QB VALUES,J118,Reviewed season = 2026
+QB VALUES,K118,Last update = 2026-07-21
+QB VALUES,L118,Notes
+QB VALUES,E119,Active QB = Micah Alejado
+QB VALUES,C119,Baseline QB = Micah Alejado
+QB VALUES,H119,Confidence = H
+QB VALUES,I119,Source
+QB VALUES,J119,Reviewed season = 2026
+QB VALUES,K119,Last update = 2026-07-21
+QB VALUES,L119,Notes
+QB VALUES,E120,Active QB = Carter Jones
+QB VALUES,H120,Confidence = L
+QB VALUES,I120,Source
+QB VALUES,J120,Reviewed season = 2026
+QB VALUES,K120,Last update = 2026-07-21
+QB VALUES,L120,Notes
+QB VALUES,E121,Active QB = Jack Layne
+QB VALUES,C121,Baseline QB = Jack Layne
+QB VALUES,H121,Confidence = H
+QB VALUES,I121,Source
+QB VALUES,J121,Reviewed season = 2026
+QB VALUES,K121,Last update = 2026-07-21
+QB VALUES,L121,Notes
+QB VALUES,E122,Active QB = Nathan Hayes
+QB VALUES,C122,Baseline QB = Nathan Hayes
+QB VALUES,H122,Confidence = M
+QB VALUES,I122,Source
+QB VALUES,J122,Reviewed season = 2026
+QB VALUES,K122,Last update = 2026-07-21
+QB VALUES,L122,Notes
+QB VALUES,E123,Active QB = Open (Davidson / Macon / Hamric)
+QB VALUES,H123,Confidence = L
+QB VALUES,I123,Source
+QB VALUES,J123,Reviewed season = 2026
+QB VALUES,K123,Last update = 2026-07-21
+QB VALUES,L123,Notes
+QB VALUES,E124,Active QB = Luke Weaver
+QB VALUES,H124,Confidence = L
+QB VALUES,I124,Source
+QB VALUES,J124,Reviewed season = 2026
+QB VALUES,K124,Last update = 2026-07-21
+QB VALUES,L124,Notes
+QB VALUES,E125,Active QB = Jackson Arnold
+QB VALUES,C125,Baseline QB = Jackson Arnold
+QB VALUES,H125,Confidence = M
+QB VALUES,I125,Source
+QB VALUES,J125,Reviewed season = 2026
+QB VALUES,K125,Last update = 2026-07-21
+QB VALUES,L125,Notes
+QB VALUES,E126,Active QB = EJ Colson
+QB VALUES,C126,Baseline QB = EJ Colson
+QB VALUES,H126,Confidence = M
+QB VALUES,I126,Source
+QB VALUES,J126,Reviewed season = 2026
+QB VALUES,K126,Last update = 2026-07-21
+QB VALUES,L126,Notes
+QB VALUES,E127,Active QB = Tyler Hughes
+QB VALUES,C127,Baseline QB = Tyler Hughes
+QB VALUES,H127,Confidence = M
+QB VALUES,I127,Source
+QB VALUES,J127,Reviewed season = 2026
+QB VALUES,K127,Last update = 2026-07-21
+QB VALUES,L127,Notes
+QB VALUES,E128,Active QB = Malachi Singleton
+QB VALUES,C128,Baseline QB = Malachi Singleton
+QB VALUES,H128,Confidence = M
+QB VALUES,I128,Source
+QB VALUES,J128,Reviewed season = 2026
+QB VALUES,K128,Last update = 2026-07-21
+QB VALUES,L128,Notes
+QB VALUES,E129,Active QB = Open (Owens / Dickey / St. Hilare / Haly)
+QB VALUES,H129,Confidence = L
+QB VALUES,I129,Source
+QB VALUES,J129,Reviewed season = 2026
+QB VALUES,K129,Last update = 2026-07-21
+QB VALUES,L129,Notes
+QB VALUES,E130,Active QB = Open (Jackson / Guerra / Bailey / Lopez)
+QB VALUES,H130,Confidence = L
+QB VALUES,I130,Source
+QB VALUES,J130,Reviewed season = 2026
+QB VALUES,K130,Last update = 2026-07-21
+QB VALUES,L130,Notes
+QB VALUES,E131,Active QB = Open (Weston Bryan / Turner Helton)
+QB VALUES,H131,Confidence = L
+QB VALUES,I131,Source
+QB VALUES,J131,Reviewed season = 2026
+QB VALUES,K131,Last update = 2026-07-21
+QB VALUES,L131,Notes
+QB VALUES,E132,Active QB = Cameran Brown
+QB VALUES,C132,Baseline QB = Cameran Brown
+QB VALUES,H132,Confidence = H
+QB VALUES,I132,Source
+QB VALUES,J132,Reviewed season = 2026
+QB VALUES,K132,Last update = 2026-07-21
+QB VALUES,L132,Notes
+QB VALUES,E133,Active QB = Arrington Maiden
+QB VALUES,C133,Baseline QB = Arrington Maiden
+QB VALUES,H133,Confidence = M
+QB VALUES,I133,Source
+QB VALUES,J133,Reviewed season = 2026
+QB VALUES,K133,Last update = 2026-07-21
+QB VALUES,L133,Notes
+QB VALUES,E134,Active QB = Lunch Winfield
+QB VALUES,C134,Baseline QB = Lunch Winfield
+QB VALUES,H134,Confidence = H
+QB VALUES,I134,Source
+QB VALUES,J134,Reviewed season = 2026
+QB VALUES,K134,Last update = 2026-07-21
+QB VALUES,L134,Notes
+QB VALUES,E135,Active QB = Blake Baker
+QB VALUES,C135,Baseline QB = Blake Baker
+QB VALUES,H135,Confidence = H
+QB VALUES,I135,Source
+QB VALUES,J135,Reviewed season = 2026
+QB VALUES,K135,Last update = 2026-07-21
+QB VALUES,L135,Notes
+QB VALUES,E136,Active QB = Carlos Del Rio-Wilson
+QB VALUES,C136,Baseline QB = Carlos Del Rio-Wilson
+QB VALUES,H136,Confidence = H
+QB VALUES,I136,Source
+QB VALUES,J136,Reviewed season = 2026
+QB VALUES,K136,Last update = 2026-07-21
+QB VALUES,L136,Notes
+QB VALUES,E137,Active QB = Quinn Henicle
+QB VALUES,C137,Baseline QB = Quinn Henicle
+QB VALUES,H137,Confidence = M
+QB VALUES,I137,Source
+QB VALUES,J137,Reviewed season = 2026
+QB VALUES,K137,Last update = 2026-07-21
+QB VALUES,L137,Notes
+QB VALUES,E138,Active QB = Bishop Davenport
+QB VALUES,C138,Baseline QB = Bishop Davenport
+QB VALUES,H138,Confidence = H
+QB VALUES,I138,Source
+QB VALUES,J138,Reviewed season = 2026
+QB VALUES,K138,Last update = 2026-07-21
+QB VALUES,L138,Notes
+QB VALUES,E139,Active QB = Open (White / Hampton / Lyddy)
+QB VALUES,H139,Confidence = L
+QB VALUES,I139,Source
+QB VALUES,J139,Reviewed season = 2026
+QB VALUES,K139,Last update = 2026-07-21
+QB VALUES,L139,Notes
+QB VALUES,E140,Active QB = Goose Crowder
+QB VALUES,C140,Baseline QB = Goose Crowder
+QB VALUES,H140,Confidence = H
+QB VALUES,I140,Source
+QB VALUES,J140,Reviewed season = 2026
+QB VALUES,K140,Last update = 2026-07-21
+QB VALUES,L140,Notes
+QB VALUES,E141,Active QB = Aidan Armenta
+QB VALUES,C141,Baseline QB = Aidan Armenta
+QB VALUES,H141,Confidence = H
+QB VALUES,I141,Source
+QB VALUES,J141,Reviewed season = 2026
+QB VALUES,K141,Last update = 2026-07-21
+QB VALUES,L141,Notes
+QB VALUES,E142,Active QB = CJ Carr
+QB VALUES,C142,Baseline QB = CJ Carr
+QB VALUES,H142,Confidence = H
+QB VALUES,I142,Source
+QB VALUES,J142,Reviewed season = 2026
+QB VALUES,K142,Last update = 2026-07-21
+QB VALUES,L142,Notes
+QB VALUES,E143,Active QB = Tucker McDonald
+QB VALUES,C143,Baseline QB = Tucker McDonald
+QB VALUES,H143,Confidence = M
+QB VALUES,I143,Source
+QB VALUES,J143,Reviewed season = 2026
+QB VALUES,K143,Last update = 2026-07-21
+QB VALUES,L143,Notes
+START HERE,A1,Banner -> v0.7.0 QB WORKING
+CHANGELOG,A57,v0.7.0 CHANGELOG entry
+CHANGELOG,B57,v0.7.0 CHANGELOG entry
+CHANGELOG,C57,v0.7.0 CHANGELOG entry
+CHANGELOG,D57,v0.7.0 CHANGELOG entry
+CHANGELOG,A58,v0.7.0 CHANGELOG entry
+CHANGELOG,B58,v0.7.0 CHANGELOG entry
+CHANGELOG,C58,v0.7.0 CHANGELOG entry
+CHANGELOG,D58,v0.7.0 CHANGELOG entry
+CHANGELOG,A59,v0.7.0 CHANGELOG entry
+CHANGELOG,B59,v0.7.0 CHANGELOG entry
+CHANGELOG,C59,v0.7.0 CHANGELOG entry
+CHANGELOG,D59,v0.7.0 CHANGELOG entry

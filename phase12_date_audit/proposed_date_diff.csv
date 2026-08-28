@@ -1,0 +1,134 @@
+id,week,away_team,home_team,venue,venue_tz,stored_start_date,proposed_start_date,delta_days,espn_utc,local_kickoff,stored_weekday,proposed_weekday
+401862693,0,Memphis Tigers,UNLV Rebels,Allegiant Stadium,America/Los_Angeles,2026-08-30,2026-08-29,-1,2026-08-30T02:00Z,19:00,Sunday,Saturday
+401856663,1,Arkansas-Pine Bluff Golden Lions,Missouri Tigers,Memorial Stadium,America/Chicago,2026-09-04,2026-09-03,-1,2026-09-04T00:00Z,19:00,Friday,Thursday
+401856768,1,Idaho Vandals,Utah Utes,Rice-Eccles Stadium,America/Denver,2026-09-04,2026-09-03,-1,2026-09-04T01:00Z,19:00,Friday,Thursday
+401856776,1,Colorado Buffaloes,Georgia Tech Yellow Jackets,Bobby Dodd Stadium,America/New_York,2026-09-04,2026-09-03,-1,2026-09-04T00:00Z,20:00,Friday,Thursday
+401858422,1,Eastern Illinois Panthers,Minnesota Golden Gophers,Huntington Bank Stadium,America/Chicago,2026-09-04,2026-09-03,-1,2026-09-04T00:00Z,19:00,Friday,Thursday
+401858424,1,UAB Blazers,Illinois Fighting Illini,Gies Memorial Stadium,America/Chicago,2026-09-04,2026-09-03,-1,2026-09-04T01:00Z,20:00,Friday,Thursday
+401856664,1,UTEP Miners,Oklahoma Sooners,"Memorial Stadium (Norman, OK)",America/Chicago,2026-09-05,2026-09-04,-1,2026-09-05T00:00Z,19:00,Saturday,Friday
+401856769,1,Long Island University Sharks,Kansas Jayhawks,David Booth Kansas Memorial Stadium,America/Chicago,2026-09-05,2026-09-04,-1,2026-09-05T00:00Z,19:00,Saturday,Friday
+401858206,1,Miami Hurricanes,Stanford Cardinal,Stanford Stadium,America/Los_Angeles,2026-09-05,2026-09-04,-1,2026-09-05T01:00Z,18:00,Saturday,Friday
+401858429,1,Toledo Rockets,Michigan State Spartans,Spartan Stadium,America/Detroit,2026-09-05,2026-09-04,-1,2026-09-05T00:00Z,20:00,Saturday,Friday
+401858436,1,Fresno State Bulldogs,USC Trojans,Los Angeles Memorial Coliseum,America/Los_Angeles,2026-09-05,2026-09-04,-1,2026-09-05T01:00Z,18:00,Saturday,Friday
+401856773,1,Northern Arizona Lumberjacks,Arizona Wildcats,Casino Del Sol Stadium,America/Phoenix,2026-09-06,2026-09-05,-1,2026-09-06T01:00Z,18:30,Sunday,Saturday
+401856774,1,Morgan State Bears,Arizona State Sun Devils,Mountain America Stadium,America/Phoenix,2026-09-06,2026-09-05,-1,2026-09-06T02:00Z,19:00,Sunday,Saturday
+401856775,1,Utah Tech Trailblazers,BYU Cougars,LaVell Edwards Stadium,America/Denver,2026-09-06,2026-09-05,-1,2026-09-06T00:00Z,18:00,Sunday,Saturday
+401858210,1,UCLA Bruins,California Golden Bears,California Memorial Stadium,America/Los_Angeles,2026-09-06,2026-09-05,-1,2026-09-06T02:00Z,19:30,Sunday,Saturday
+401858427,1,Hampton Pirates,Maryland Terrapins,SECU Stadium,America/New_York,2026-09-06,2026-09-05,-1,2026-09-06T00:00Z,20:00,Sunday,Saturday
+401858431,1,South Dakota State Jackrabbits,Northwestern Wildcats,Northwestern Medicine Field at Martin Stadium,America/Chicago,2026-09-06,2026-09-05,-1,2026-09-06T00:00Z,19:00,Sunday,Saturday
+401860879,1,Portland State Vikings,San Diego State Aztecs,Snapdragon Stadium,America/Los_Angeles,2026-09-06,2026-09-05,-1,2026-09-06T01:00Z,18:30,Sunday,Saturday
+401864432,1,Western Kentucky Hilltoppers,Nevada Wolf Pack,Mackay Stadium,America/Los_Angeles,2026-09-06,2026-09-05,-1,2026-09-06T02:00Z,19:30,Sunday,Saturday
+401864497,1,UNLV Rebels,Hawai'i Rainbow Warriors,Clarence T.C. Ching Athletics Complex,Pacific/Honolulu,2026-09-06,2026-09-05,-1,2026-09-06T02:00Z,16:00,Sunday,Saturday
+401864498,1,Central Michigan Chippewas,New Mexico Lobos,University Stadium (NM),America/Denver,2026-09-06,2026-09-05,-1,2026-09-06T02:00Z,20:00,Sunday,Saturday
+401866411,1,Mississippi Valley State Delta Devils,Sacramento State Hornets,Hornet Stadium,America/Los_Angeles,2026-09-06,2026-09-05,-1,2026-09-06T02:00Z,19:00,Sunday,Saturday
+401869142,1,Lamar Cardinals,Louisiana Ragin' Cajuns,Our Lady of Lourdes Stadium,America/Chicago,2026-09-06,2026-09-05,-1,2026-09-06T00:00Z,19:00,Sunday,Saturday
+401870790,1,Mercyhurst Lakers,New Mexico State Aggies,Aggie Memorial Stadium,America/Denver,2026-09-06,2026-09-05,-1,2026-09-06T01:00Z,19:00,Sunday,Saturday
+401858213,2,Florida A&M Rattlers,Miami Hurricanes,Hard Rock Stadium,America/New_York,2026-09-11,2026-09-10,-1,2026-09-11T00:00Z,20:00,Friday,Thursday
+401856678,2,Missouri Tigers,Kansas Jayhawks,David Booth Kansas Memorial Stadium,America/Chicago,2026-09-12,2026-09-11,-1,2026-09-12T00:00Z,19:00,Saturday,Friday
+401856670,2,Arkansas Razorbacks,Utah Utes,Rice-Eccles Stadium,America/Denver,2026-09-13,2026-09-12,-1,2026-09-13T02:00Z,20:15,Sunday,Saturday
+401856784,2,Prairie View A&M Panthers,Baylor Bears,McLane Stadium,America/Chicago,2026-09-13,2026-09-12,-1,2026-09-13T00:00Z,19:00,Sunday,Saturday
+401856789,2,Grambling Tigers,TCU Horned Frogs,Amon G. Carter Stadium,America/Chicago,2026-09-13,2026-09-12,-1,2026-09-13T00:00Z,19:00,Sunday,Saturday
+401858445,2,Louisiana Ragin' Cajuns,USC Trojans,Los Angeles Memorial Coliseum,America/Los_Angeles,2026-09-13,2026-09-12,-1,2026-09-13T03:00Z,20:00,Sunday,Saturday
+401860883,2,Sacramento State Hornets,Fresno State Bulldogs,Valley Children's Stadium,America/Los_Angeles,2026-09-13,2026-09-12,-1,2026-09-13T02:00Z,19:30,Sunday,Saturday
+401864500,2,Montana State Bobcats,Nevada Wolf Pack,Mackay Stadium,America/Los_Angeles,2026-09-13,2026-09-12,-1,2026-09-13T02:00Z,19:30,Sunday,Saturday
+401864502,2,North Dakota State Bison,Air Force Falcons,Falcon Stadium,America/Denver,2026-09-13,2026-09-12,-1,2026-09-13T02:00Z,20:00,Sunday,Saturday
+401864505,2,Texas Southern Tigers,UTEP Miners,Sun Bowl,America/Denver,2026-09-13,2026-09-12,-1,2026-09-13T01:00Z,19:00,Sunday,Saturday
+401864578,2,New Mexico State Aggies,Hawai'i Rainbow Warriors,Clarence T.C. Ching Athletics Complex,Pacific/Honolulu,2026-09-13,2026-09-12,-1,2026-09-13T03:00Z,17:59,Sunday,Saturday
+401856811,3,Houston Cougars,Texas Tech Red Raiders,Galaxy Stadium,America/Chicago,2026-09-19,2026-09-18,-1,2026-09-19T00:00Z,19:00,Saturday,Friday
+401858455,3,Portland State Vikings,Oregon Ducks,Autzen Stadium,America/Los_Angeles,2026-09-19,2026-09-18,-1,2026-09-19T02:00Z,19:30,Saturday,Friday
+401856693,3,UTSA Roadrunners,Texas Longhorns,DKR-Texas Memorial Stadium,America/Chicago,2026-09-20,2026-09-19,-1,2026-09-20T00:00Z,19:00,Sunday,Saturday
+401856793,3,Northern Illinois Huskies,Arizona Wildcats,Casino Del Sol Stadium,America/Phoenix,2026-09-20,2026-09-19,-1,2026-09-20T02:00Z,19:30,Sunday,Saturday
+401856799,3,Arkansas State Red Wolves,TCU Horned Frogs,Amon G. Carter Stadium,America/Chicago,2026-09-20,2026-09-19,-1,2026-09-20T00:00Z,19:00,Sunday,Saturday
+401858458,3,Purdue Boilermakers,UCLA Bruins,Rose Bowl,America/Los_Angeles,2026-09-20,2026-09-19,-1,2026-09-20T03:00Z,20:00,Sunday,Saturday
+401860885,3,South Dakota Coyotes,Boise State Broncos,Albertsons Stadium,America/Boise,2026-09-20,2026-09-19,-1,2026-09-20T02:00Z,20:00,Sunday,Saturday
+401860886,3,Montana Grizzlies,Oregon State Beavers,Reser Stadium,America/Los_Angeles,2026-09-20,2026-09-19,-1,2026-09-20T03:00Z,20:00,Sunday,Saturday
+401860887,3,James Madison Dukes,San Diego State Aztecs,Snapdragon Stadium,America/Los_Angeles,2026-09-20,2026-09-19,-1,2026-09-20T02:00Z,19:00,Sunday,Saturday
+401860888,3,Fresno State Bulldogs,San José State Spartans,CEFCU Stadium,America/Los_Angeles,2026-09-20,2026-09-19,-1,2026-09-20T03:00Z,20:00,Sunday,Saturday
+401862775,3,East Texas A&M Lions,Tulsa Golden Hurricane,H. A. Chapman Stadium,America/Chicago,2026-09-20,2026-09-19,-1,2026-09-20T00:00Z,19:00,Sunday,Saturday
+401862776,3,UAB Blazers,Louisiana Ragin' Cajuns,Our Lady of Lourdes Stadium,America/Chicago,2026-09-20,2026-09-19,-1,2026-09-20T00:00Z,19:00,Sunday,Saturday
+401864507,3,North Dakota State Bison,Sacramento State Hornets,Hornet Stadium,America/Los_Angeles,2026-09-20,2026-09-19,-1,2026-09-20T02:00Z,19:30,Sunday,Saturday
+401858234,4,Clemson Tigers,California Golden Bears,California Memorial Stadium,America/Los_Angeles,2026-09-26,2026-09-25,-1,2026-09-26T02:00Z,19:30,Saturday,Friday
+401858461,4,Northwestern Wildcats,Indiana Hoosiers,"Memorial Stadium (Bloomington, IN)",America/Indiana/Indianapolis,2026-09-26,2026-09-25,-1,2026-09-26T00:00Z,20:00,Saturday,Friday
+401856697,4,Tulsa Golden Hurricane,Arkansas Razorbacks,Donald W. Reynolds Razorback Stadium,America/Chicago,2026-09-27,2026-09-26,-1,2026-09-27T00:00Z,19:00,Sunday,Saturday
+401858240,4,Georgia Tech Yellow Jackets,Stanford Cardinal,Stanford Stadium,America/Los_Angeles,2026-09-27,2026-09-26,-1,2026-09-27T02:00Z,19:30,Sunday,Saturday
+401860891,4,Rice Owls,Fresno State Bulldogs,Valley Children's Stadium,America/Los_Angeles,2026-09-27,2026-09-26,-1,2026-09-27T02:00Z,19:00,Sunday,Saturday
+401860895,4,Oregon State Beavers,UTEP Miners,Sun Bowl,America/Denver,2026-09-27,2026-09-26,-1,2026-09-27T01:00Z,19:00,Sunday,Saturday
+401862786,5,North Texas Mean Green,Tulsa Golden Hurricane,H. A. Chapman Stadium,America/Chicago,2026-10-02,2026-10-01,-1,2026-10-02T01:00Z,20:00,Friday,Thursday
+401871049,5,Western Kentucky Hilltoppers,New Mexico State Aggies,Aggie Memorial Stadium,America/Denver,2026-10-02,2026-10-01,-1,2026-10-02T00:00Z,18:00,Friday,Thursday
+401858476,5,Penn State Nittany Lions,Northwestern Wildcats,Ryan Field,America/Chicago,2026-10-03,2026-10-02,-1,2026-10-03T00:00Z,19:00,Saturday,Friday
+401858477,5,Indiana Hoosiers,Rutgers Scarlet Knights,SHI Stadium,America/New_York,2026-10-04,2026-10-03,-1,2026-10-04T00:00Z,20:00,Sunday,Saturday
+401860900,5,Texas State Bobcats,San Diego State Aztecs,Snapdragon Stadium,America/Los_Angeles,2026-10-04,2026-10-03,-1,2026-10-04T02:00Z,19:30,Sunday,Saturday
+401860921,5,Fresno State Bulldogs,Washington State Cougars,Martin Stadium,America/Los_Angeles,2026-10-04,2026-10-03,-1,2026-10-04T01:00Z,18:30,Sunday,Saturday
+401864513,5,San José State Spartans,Hawai'i Rainbow Warriors,Clarence T.C. Ching Athletics Complex,Pacific/Honolulu,2026-10-04,2026-10-03,-1,2026-10-04T03:00Z,17:59,Sunday,Saturday
+401871090,6,Southern Miss Golden Eagles,Troy Trojans,Veterans Memorial Stadium (AL),America/Chicago,2026-10-07,2026-10-06,-1,2026-10-07T00:00Z,19:00,Wednesday,Tuesday
+401856826,6,Iowa State Cyclones,BYU Cougars,LaVell Edwards Stadium,America/Denver,2026-10-10,2026-10-09,-1,2026-10-10T02:00Z,20:15,Saturday,Friday
+401858487,6,Iowa Hawkeyes,Washington Huskies,Husky Stadium,America/Los_Angeles,2026-10-10,2026-10-09,-1,2026-10-10T01:00Z,18:00,Saturday,Friday
+401860922,6,Washington State Cougars,Utah State Aggies,Maverik Stadium,America/Denver,2026-10-10,2026-10-09,-1,2026-10-10T01:00Z,19:00,Saturday,Friday
+401864519,6,Wyoming Cowboys,San José State Spartans,CEFCU Stadium,America/Los_Angeles,2026-10-10,2026-10-09,-1,2026-10-10T01:00Z,18:00,Saturday,Friday
+401860901,6,Boise State Broncos,Fresno State Bulldogs,Valley Children's Stadium,America/Los_Angeles,2026-10-11,2026-10-10,-1,2026-10-11T02:00Z,19:30,Sunday,Saturday
+401871053,7,Florida International Panthers,Jacksonville State Gamecocks,AmFirst Stadium,America/Chicago,2026-10-14,2026-10-13,-1,2026-10-14T00:00Z,19:00,Wednesday,Tuesday
+401871068,7,Western Kentucky Hilltoppers,Sam Houston Bearkats,Elliott T. Bowers Stadium,America/Chicago,2026-10-15,2026-10-14,-1,2026-10-15T00:00Z,19:00,Thursday,Wednesday
+401860923,7,Colorado State Rams,Texas State Bobcats,UFCU Stadium,America/Chicago,2026-10-16,2026-10-15,-1,2026-10-16T00:00Z,19:00,Friday,Thursday
+401858493,7,Washington Huskies,Purdue Boilermakers,Ross-Ade Stadium,America/Indiana/Indianapolis,2026-10-17,2026-10-16,-1,2026-10-17T00:00Z,20:00,Saturday,Friday
+401869844,7,App State Mountaineers,Coastal Carolina Chanticleers,Brooks Stadium (SC),America/New_York,2026-10-17,2026-10-16,-1,2026-10-17T00:00Z,20:00,Saturday,Friday
+401860904,7,Fresno State Bulldogs,San Diego State Aztecs,Snapdragon Stadium,America/Los_Angeles,2026-10-18,2026-10-17,-1,2026-10-18T02:00Z,19:30,Sunday,Saturday
+401864523,7,San José State Spartans,UTEP Miners,Sun Bowl,America/Denver,2026-10-18,2026-10-17,-1,2026-10-18T01:00Z,19:00,Sunday,Saturday
+401871070,8,New Mexico State Aggies,Sam Houston Bearkats,Elliott T. Bowers Stadium,America/Chicago,2026-10-22,2026-10-21,-1,2026-10-22T00:00Z,19:00,Thursday,Wednesday
+401858272,8,NC State Wolfpack,Stanford Cardinal,Stanford Stadium,America/Los_Angeles,2026-10-24,2026-10-23,-1,2026-10-24T02:00Z,19:30,Saturday,Friday
+401862808,8,Army Black Knights,Tulsa Golden Hurricane,H. A. Chapman Stadium,America/Chicago,2026-10-24,2026-10-23,-1,2026-10-24T00:00Z,19:30,Saturday,Friday
+401864525,8,Air Force Falcons,Wyoming Cowboys,War Memorial Stadium,America/Denver,2026-10-24,2026-10-23,-1,2026-10-24T01:00Z,19:00,Saturday,Friday
+401864527,8,North Dakota State Bison,New Mexico Lobos,University Stadium (NM),America/Denver,2026-10-25,2026-10-24,-1,2026-10-25T02:00Z,20:00,Sunday,Saturday
+401871072,9,Sam Houston Bearkats,Missouri State Bears,Robert W. Plaster Stadium,America/Chicago,2026-10-28,2026-10-27,-1,2026-10-28T00:00Z,19:00,Wednesday,Tuesday
+401871057,9,Jacksonville State Gamecocks,New Mexico State Aggies,Aggie Memorial Stadium,America/Denver,2026-10-29,2026-10-28,-1,2026-10-29T00:00Z,18:00,Thursday,Wednesday
+401866451,9,Kent State Golden Flashes,Sacramento State Hornets,Hornet Stadium,America/Los_Angeles,2026-10-31,2026-10-30,-1,2026-10-31T02:00Z,19:30,Saturday,Friday
+401860908,9,Texas State Bobcats,Boise State Broncos,Albertsons Stadium,America/Boise,2026-11-01,2026-10-31,-1,2026-11-01T02:00Z,20:00,Sunday,Saturday
+401864530,9,Northern Illinois Huskies,UNLV Rebels,Allegiant Stadium,America/Los_Angeles,2026-11-01,2026-10-31,-1,2026-11-01T02:00Z,19:30,Sunday,Saturday
+401866453,10,Ohio Bobcats,Akron Zips,InfoCision Stadium,America/New_York,2026-11-04,2026-11-03,-1,2026-11-04T00:00Z,19:00,Wednesday,Tuesday
+401866454,10,Buffalo Bulls,Miami (OH) RedHawks,Yager Stadium,America/New_York,2026-11-04,2026-11-03,-1,2026-11-04T00:00Z,19:00,Wednesday,Tuesday
+401862817,10,UTSA Roadrunners,Florida Atlantic Owls,Flagler Credit Union Stadium,America/New_York,2026-11-06,2026-11-05,-1,2026-11-06T01:00Z,20:00,Friday,Thursday
+401869964,10,James Madison Dukes,Southern Miss Golden Eagles,M. M. Roberts Stadium,America/Chicago,2026-11-06,2026-11-05,-1,2026-11-06T01:00Z,19:00,Friday,Thursday
+401856855,10,TCU Horned Frogs,Arizona Wildcats,Casino Del Sol Stadium,America/Phoenix,2026-11-07,2026-11-06,-1,2026-11-07T03:00Z,20:15,Saturday,Friday
+401858288,10,Virginia Tech Hokies,SMU Mustangs,Gerald J. Ford Stadium,America/Chicago,2026-11-07,2026-11-06,-1,2026-11-07T00:00Z,18:00,Saturday,Friday
+401858510,10,Nebraska Cornhuskers,Illinois Fighting Illini,Gies Memorial Stadium,America/Chicago,2026-11-07,2026-11-06,-1,2026-11-07T01:00Z,19:00,Saturday,Friday
+401862818,10,South Florida Bulls,East Carolina Pirates,Dowdy-Ficklen Stadium,America/New_York,2026-11-07,2026-11-06,-1,2026-11-07T00:00Z,19:30,Saturday,Friday
+401864533,10,New Mexico Lobos,Nevada Wolf Pack,Mackay Stadium,America/Los_Angeles,2026-11-07,2026-11-06,-1,2026-11-07T02:00Z,18:00,Saturday,Friday
+401858291,10,Miami Hurricanes,Notre Dame Fighting Irish,Notre Dame Stadium,America/Indiana/Indianapolis,2026-11-08,2026-11-07,-1,2026-11-08T00:00Z,19:30,Sunday,Saturday
+401860912,10,Texas State Bobcats,Oregon State Beavers,Reser Stadium,America/Los_Angeles,2026-11-08,2026-11-07,-1,2026-11-08T03:00Z,19:30,Sunday,Saturday
+401860913,10,Fresno State Bulldogs,Utah State Aggies,Maverik Stadium,America/Denver,2026-11-08,2026-11-07,-1,2026-11-08T02:00Z,19:30,Sunday,Saturday
+401862823,10,Air Force Falcons,Army Black Knights,Michie Stadium,America/New_York,2026-11-08,2026-11-07,-1,2026-11-08T00:00Z,19:30,Sunday,Saturday
+401864535,10,Wyoming Cowboys,UNLV Rebels,Allegiant Stadium,America/Los_Angeles,2026-11-08,2026-11-07,-1,2026-11-08T03:00Z,19:30,Sunday,Saturday
+401871075,10,Sam Houston Bearkats,Jacksonville State Gamecocks,AmFirst Stadium,America/Chicago,2026-11-08,2026-11-07,-1,2026-11-08T00:00Z,18:00,Sunday,Saturday
+401866458,11,Western Michigan Broncos,Akron Zips,InfoCision Stadium,America/New_York,2026-11-11,2026-11-10,-1,2026-11-11T00:00Z,19:00,Wednesday,Tuesday
+401866459,11,Kent State Golden Flashes,Bowling Green Falcons,Doyt L. Perry Stadium,America/New_York,2026-11-11,2026-11-10,-1,2026-11-11T00:00Z,19:00,Wednesday,Tuesday
+401866460,11,Ohio Bobcats,Miami (OH) RedHawks,Yager Stadium,America/New_York,2026-11-11,2026-11-10,-1,2026-11-11T00:00Z,19:00,Wednesday,Tuesday
+401862824,11,Memphis Tigers,South Florida Bulls,Raymond James Stadium,America/New_York,2026-11-13,2026-11-12,-1,2026-11-13T01:00Z,20:00,Friday,Thursday
+401869969,11,Louisiana Ragin' Cajuns,UL Monroe Warhawks,Malone Stadium,America/Chicago,2026-11-13,2026-11-12,-1,2026-11-13T02:00Z,20:00,Friday,Thursday
+401856860,11,Houston Cougars,Colorado Buffaloes,Folsom Field,America/Denver,2026-11-14,2026-11-13,-1,2026-11-14T03:00Z,20:15,Saturday,Friday
+401858293,11,Florida State Seminoles,Pittsburgh Panthers,Acrisure Stadium,America/New_York,2026-11-14,2026-11-13,-1,2026-11-14T00:00Z,19:00,Saturday,Friday
+401858526,11,Illinois Fighting Illini,UCLA Bruins,Rose Bowl,America/Los_Angeles,2026-11-14,2026-11-13,-1,2026-11-14T02:00Z,18:00,Saturday,Friday
+401860915,11,Utah State Aggies,San Diego State Aztecs,Snapdragon Stadium,America/Los_Angeles,2026-11-15,2026-11-14,-1,2026-11-15T02:00Z,18:30,Sunday,Saturday
+401860917,11,Colorado State Rams,Washington State Cougars,Martin Stadium,America/Los_Angeles,2026-11-15,2026-11-14,-1,2026-11-15T03:00Z,19:30,Sunday,Saturday
+401864537,11,North Dakota State Bison,Hawai'i Rainbow Warriors,Clarence T.C. Ching Athletics Complex,Pacific/Honolulu,2026-11-15,2026-11-14,-1,2026-11-15T04:00Z,18:59,Sunday,Saturday
+401864538,11,San José State Spartans,Air Force Falcons,Falcon Stadium,America/Denver,2026-11-15,2026-11-14,-1,2026-11-15T00:00Z,17:00,Sunday,Saturday
+401864539,11,UNLV Rebels,New Mexico Lobos,University Stadium (NM),America/Denver,2026-11-15,2026-11-14,-1,2026-11-15T00:00Z,17:30,Sunday,Saturday
+401866464,12,Ball State Cardinals,Ohio Bobcats,Peden Stadium,America/New_York,2026-11-18,2026-11-17,-1,2026-11-18T00:00Z,19:00,Wednesday,Tuesday
+401866465,12,Eastern Michigan Eagles,Western Michigan Broncos,Waldo Stadium,America/Detroit,2026-11-18,2026-11-17,-1,2026-11-18T00:00Z,19:00,Wednesday,Tuesday
+401866466,12,Miami (OH) RedHawks,Kent State Golden Flashes,Zoeller Field at Dix Stadium,America/New_York,2026-11-18,2026-11-17,-1,2026-11-18T00:00Z,19:00,Wednesday,Tuesday
+401862830,12,Rice Owls,Temple Owls,Lincoln Financial Field,America/New_York,2026-11-20,2026-11-19,-1,2026-11-20T00:00Z,19:30,Friday,Thursday
+401858303,12,Clemson Tigers,Duke Blue Devils,Wallace Wade Stadium,America/New_York,2026-11-21,2026-11-20,-1,2026-11-21T00:00Z,19:30,Saturday,Friday
+401858529,12,Oregon Ducks,Michigan State Spartans,Spartan Stadium,America/Detroit,2026-11-21,2026-11-20,-1,2026-11-21T01:00Z,20:00,Saturday,Friday
+401864545,12,UTEP Miners,Air Force Falcons,Falcon Stadium,America/Denver,2026-11-21,2026-11-20,-1,2026-11-21T01:00Z,18:00,Saturday,Friday
+401866468,12,Bowling Green Falcons,Toledo Rockets,Glass Bowl,America/New_York,2026-11-21,2026-11-20,-1,2026-11-21T00:00Z,19:30,Saturday,Friday
+401858307,12,SMU Mustangs,Notre Dame Fighting Irish,Notre Dame Stadium,America/Indiana/Indianapolis,2026-11-22,2026-11-21,-1,2026-11-22T00:00Z,19:30,Sunday,Saturday
+401860918,12,Colorado State Rams,Fresno State Bulldogs,Valley Children's Stadium,America/Los_Angeles,2026-11-22,2026-11-21,-1,2026-11-22T00:00Z,16:30,Sunday,Saturday
+401860919,12,Utah State Aggies,Oregon State Beavers,Reser Stadium,America/Los_Angeles,2026-11-22,2026-11-21,-1,2026-11-22T03:00Z,19:30,Sunday,Saturday
+401860925,12,San Diego State Aztecs,Boise State Broncos,Albertsons Stadium,America/Boise,2026-11-22,2026-11-21,-1,2026-11-22T02:00Z,19:30,Sunday,Saturday
+401864542,12,New Mexico Lobos,Wyoming Cowboys,War Memorial Stadium,America/Denver,2026-11-22,2026-11-21,-1,2026-11-22T02:00Z,19:00,Sunday,Saturday
+401864544,12,UNLV Rebels,San José State Spartans,CEFCU Stadium,America/Los_Angeles,2026-11-22,2026-11-21,-1,2026-11-22T00:00Z,16:00,Sunday,Saturday
+401866470,13,Kent State Golden Flashes,Eastern Michigan Eagles,Rynearson Stadium,America/Detroit,2026-11-25,2026-11-24,-1,2026-11-25T00:00Z,19:00,Wednesday,Tuesday
+401856879,13,TCU Horned Frogs,Texas Tech Red Raiders,Galaxy Stadium,America/Chicago,2026-11-27,2026-11-26,-1,2026-11-27T01:00Z,19:00,Friday,Thursday
+401856756,13,Texas Longhorns,Texas A&M Aggies,Kyle Field,America/Chicago,2026-11-28,2026-11-27,-1,2026-11-28T00:00Z,18:30,Saturday,Friday
+401856880,13,West Virginia Mountaineers,Utah Utes,Rice-Eccles Stadium,America/Denver,2026-11-28,2026-11-27,-1,2026-11-28T02:00Z,19:00,Saturday,Friday
+401858544,13,Minnesota Golden Gophers,Wisconsin Badgers,Camp Randall Stadium,America/Chicago,2026-11-28,2026-11-27,-1,2026-11-28T00:00Z,18:30,Saturday,Friday
+401864547,13,Sacramento State Hornets,Hawai'i Rainbow Warriors,Clarence T.C. Ching Athletics Complex,Pacific/Honolulu,2026-11-29,2026-11-28,-1,2026-11-29T04:00Z,18:00,Sunday,Saturday
+401864548,13,Nevada Wolf Pack,UNLV Rebels,Allegiant Stadium,America/Los_Angeles,2026-11-29,2026-11-28,-1,2026-11-29T02:00Z,18:00,Sunday,Saturday

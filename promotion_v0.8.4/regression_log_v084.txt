@@ -1,0 +1,84 @@
+==============================================================================
+v0.8.4 PROMOTION CERTIFICATE — NIU/Tulane packet + live resync
+==============================================================================
+
+1. PREDECESSOR AND IDENTITY
+  v0.8.3 SHA-256: ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8
+  v0.8.4 SHA-256: ed5d3b3d9aa3dd4f845e91688216a28276aaa0b3e4bd68ba09a9ceb96a8adaff
+  [PASS] 1.1 v0.8.3 retains its frozen SHA-256 - ff55782586ef1adb
+  [PASS] 1.2 v0.8.4 differs from v0.8.3
+  [PASS] 1.3 21 sheets, identical names and order - 21
+  [PASS] 1.4 sheet visibility preserved
+  [PASS] 1.5 named ranges preserved
+  [PASS] 1.6 ZERO formula differences - []
+  [PASS] 1.7 only START HERE (1) and QB VALUES (44) changed - {'START HERE': 1, 'QB VALUES': 44}
+  [PASS] 1.8 exactly the 7 authorized QB rows were touched - touched=[52, 65, 68, 91, 101, 123, 124] expected=[52, 65, 68, 91, 101, 123, 124]
+  [PASS] 1.9 total changed cells = 45 - 45
+
+2. ROW IDENTITY AND PROTECTED CELLS
+  [PASS] 2.x TTU at row 52; G/M formulas intact; J=2026 - rows=[52] G/M=True J=2026
+  [PASS] 2.x UNC at row 65; G/M formulas intact; J=2026 - rows=[65] G/M=True J=2026
+  [PASS] 2.x STAN at row 68; G/M formulas intact; J=2026 - rows=[68] G/M=True J=2026
+  [PASS] 2.x TULN at row 91; G/M formulas intact; J=2026 - rows=[91] G/M=True J=2026
+  [PASS] 2.x MOST at row 101; G/M formulas intact; J=2026 - rows=[101] G/M=True J=2026
+  [PASS] 2.x NIU at row 123; G/M formulas intact; J=2026 - rows=[123] G/M=True J=2026
+  [PASS] 2.x SJSU at row 124; G/M formulas intact; J=2026 - rows=[124] G/M=True J=2026
+
+3. CENSUSES
+  [PASS] 3.1 QB status census = 104 OK / 34 UNCERTAIN - {'UNCERTAIN': 34, 'OK': 104}
+  [PASS] 3.2 confidence census = 69 H / 40 M / 29 L - {'L': 29, 'M': 40, 'H': 69}
+  [PASS] 3.3 nonzero QB values = 0 - []
+  [PASS] 3.4 banner states v0.8.4 AUTHORITATIVE
+  [PASS] 3.5 banner census matches 69 H / 40 M / 29 L
+  [PASS] 3.6 banner carries no stale v0.8.3 identifier
+
+4. PACKET-SPECIFIC ASSERTIONS
+  [PASS] 4.1 NIU confidence downgraded M -> L - 'L'
+  [PASS] 4.2 NIU candidate list restored to the four-way - 'Open (Davidson / Macon / Hamric / Dickens)'
+  [PASS] 4.3 NIU values stay blank; status UNCERTAIN
+  [PASS] 4.4 Tulane candidate list corrected to the four-way - 'Open (Semonza / Chriss-Gremillion / Johnson / Bruno)'
+  [PASS] 4.5 Tulane confidence UNCHANGED at L - 'L'
+  [PASS] 4.6 Tulane values stay blank; status UNCERTAIN
+  [PASS] 4.7 Texas Tech identity confidence H - 'H'
+  [PASS] 4.8 Texas Tech QB1 named in baseline AND active
+  [PASS] 4.9 Texas Tech MEDICAL GATE HELD: D/F blank, status UNCERTAIN
+  [PASS] 4.10 Colorado State row is completely unchanged - row 74
+  [PASS] 4.x UNC resynced: M, 0/0, status OK - H=M D=0 F=0 status=OK
+  [PASS] 4.x STAN resynced: H, 0/0, status OK - H=H D=0 F=0 status=OK
+  [PASS] 4.x MOST resynced: H, 0/0, status OK - H=H D=0 F=0 status=OK
+  [PASS] 4.x SJSU resynced: H, 0/0, status OK - H=H D=0 F=0 status=OK
+
+5. MODEL OUTPUTS AND MARKET ROWS
+  [PASS] 5.1 888 games / 761 FBS-v-FBS / 127 FCS - 888/761/127
+  [PASS] 5.x MEM at UNLV model spread unchanged at UNLV -5.6 - UNLV -5.6
+  [PASS] 5.x UNC at TCU model spread unchanged at TCU -4.2 - TCU -4.2
+  [PASS] 5.x NMSU at FSU model spread unchanged at FSU -27.7 - FSU -27.7
+  [PASS] 5.x SJSU at USC model spread unchanged at USC -35.2 - USC -35.2
+  [PASS] 5.x HAW at STAN model spread unchanged at STAN -3.7 - STAN -3.7
+  [PASS] 5.2 repository artifact ships with MARKET LINES blank - 0
+
+6. SETTINGS, SAFEGUARDS AND AUDIT
+  [PASS] 6.1 BET toggle remains N - 'N'
+  [PASS] 6.2 totals remain unavailable (B22/B23 blank)
+  [PASS] 6.3 NDSU remains transitional - row 122
+  [PASS] 6.3 SAC remains transitional - row 114
+  [PASS] 6.4 AUDIT market-line invariant is the v0.8.3 operational formula
+      OK    138 teams in master list
+      OK    No duplicate abbreviations
+      OK    No duplicate manual aliases
+      OK    No ambiguous manual alias
+      OK    No duplicate import aliases
+      OK    BET toggle default OFF
+      OK    Thresholds 1.0 / 1.5 / 3.0
+      OK    Default HFA 2.5 / Neutral 0
+      OK    Movement cap 2.5
+      OK    No market lines entered
+  [PASS] 6.5 AUDIT structural invariants: zero failing - []
+
+==============================================================================
+RESULT: 49 passed, 0 failed
+v0.8.3 SHA-256 (frozen): ff55782586ef1adb662eba59710e824dc382769a24579e48917b101fbcdd96b8
+v0.8.4 SHA-256:          ed5d3b3d9aa3dd4f845e91688216a28276aaa0b3e4bd68ba09a9ceb96a8adaff
+==============================================================================
+
+verify_v084.py exit code: 0

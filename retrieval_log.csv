@@ -1,0 +1,81 @@
+retrieved_at,request_url,season,season_type,week,http_status,raw_event_count,parsed_event_count,retry_count,notes
+2026-07-19T02:49:43Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/1?lang=en&region=us,2026,1,,200,,,0,reference data OK
+2026-07-19T02:49:44Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/1/weeks?lang=en&region=us&limit=50,2026,1,,200,,,0,reference data OK
+2026-07-19T02:49:44Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/1/weeks/1?lang=en&region=us,2026,1,1,200,,,0,reference data OK
+2026-07-19T02:49:45Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2?lang=en&region=us,2026,2,,200,,,0,reference data OK
+2026-07-19T02:49:45Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks?lang=en&region=us&limit=50,2026,2,,200,,,0,reference data OK
+2026-07-19T02:49:45Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/1?lang=en&region=us,2026,2,1,200,,,0,reference data OK
+2026-07-19T02:49:45Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/2?lang=en&region=us,2026,2,2,200,,,0,reference data OK
+2026-07-19T02:49:45Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/3?lang=en&region=us,2026,2,3,200,,,0,reference data OK
+2026-07-19T02:49:45Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/4?lang=en&region=us,2026,2,4,200,,,0,reference data OK
+2026-07-19T02:49:45Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/5?lang=en&region=us,2026,2,5,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/6?lang=en&region=us,2026,2,6,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/7?lang=en&region=us,2026,2,7,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/8?lang=en&region=us,2026,2,8,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/9?lang=en&region=us,2026,2,9,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/10?lang=en&region=us,2026,2,10,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/11?lang=en&region=us,2026,2,11,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/12?lang=en&region=us,2026,2,12,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/13?lang=en&region=us,2026,2,13,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/14?lang=en&region=us,2026,2,14,200,,,0,reference data OK
+2026-07-19T02:49:46Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/weeks/15?lang=en&region=us,2026,2,15,200,,,0,reference data OK
+2026-07-19T02:49:47Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/3?lang=en&region=us,2026,3,,200,,,0,reference data OK
+2026-07-19T02:49:47Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/3/weeks?lang=en&region=us&limit=50,2026,3,,200,,,0,reference data OK
+2026-07-19T02:49:47Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/3/weeks/1?lang=en&region=us,2026,3,1,200,,,0,reference data OK
+2026-07-19T02:49:48Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/80?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:48Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/80/children?lang=en&region=us&limit=100,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:48Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/151?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:48Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/1?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/4?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/5?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/12?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/18?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/15?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/17?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/9?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/8?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:49Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/37?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:50Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/81?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:50Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/81/children?lang=en&region=us&limit=100,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:50Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/20?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:50Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/48?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:50Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/32?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/22?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/24?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/21?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/25?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/179?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/27?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/28?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/29?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/30?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/31?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:49:51Z,http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/types/2/groups/177?lang=en&region=us,2026,,,200,,,0,reference data OK
+2026-07-19T02:50:27Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260201-20260822&groups=80&limit=300,2026,1,1,200,0,0,0,OK
+2026-07-19T02:50:27Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260822-20260908&groups=80&limit=300,2026,2,1,200,99,99,0,OK
+2026-07-19T02:50:28Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260908-20260914&groups=80&limit=300,2026,2,2,200,86,86,0,OK
+2026-07-19T02:50:29Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260914-20260921&groups=80&limit=300,2026,2,3,200,75,75,0,OK
+2026-07-19T02:50:29Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260921-20260928&groups=80&limit=300,2026,2,4,200,71,71,0,OK
+2026-07-19T02:50:30Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260928-20261005&groups=80&limit=300,2026,2,5,200,59,59,0,OK
+2026-07-19T02:50:30Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261005-20261012&groups=80&limit=300,2026,2,6,200,58,58,0,OK
+2026-07-19T02:50:31Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261012-20261019&groups=80&limit=300,2026,2,7,200,62,62,0,OK
+2026-07-19T02:50:32Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261019-20261026&groups=80&limit=300,2026,2,8,200,56,56,0,OK
+2026-07-19T02:50:32Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261026-20261102&groups=80&limit=300,2026,2,9,200,56,56,0,OK
+2026-07-19T02:50:33Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261102-20261109&groups=80&limit=300,2026,2,10,200,63,63,0,OK
+2026-07-19T02:50:33Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261109-20261116&groups=80&limit=300,2026,2,11,200,67,67,0,OK
+2026-07-19T02:50:34Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261116-20261123&groups=80&limit=300,2026,2,12,200,70,70,0,OK
+2026-07-19T02:50:35Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261123-20261130&groups=80&limit=300,2026,2,13,200,69,69,0,OK
+2026-07-19T02:50:35Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261130-20261207&groups=80&limit=300,2026,2,14,200,10,10,0,OK
+2026-07-19T02:50:36Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261207-20261213&groups=80&limit=300,2026,2,15,200,2,2,0,OK
+2026-07-19T02:50:36Z,https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261213-20270128&groups=80&limit=300,2026,3,1,200,43,43,0,OK
+2026-07-19T02:56:24Z,group80_teams,2026,2,,200,148,,0,FBS team roster for count cross-check
+2026-07-19T02:56:45Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/3194?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:46Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/3198?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:46Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/3146?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:47Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/3193?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:47Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/3145?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:48Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/125290?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:49Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/3144?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:49Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/3147?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:50Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/3197?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation
+2026-07-19T02:56:50Z,https://sports.core.api.espn.com/v2/sports/football/leagues/college-football/seasons/2026/teams/125291?lang=en&region=us,2026,2,,200,,,0,FBS team with zero games - identity lookup for reconciliation

@@ -1,0 +1,554 @@
+{
+  "OHST": {
+    "name_espn": "Ohio State Buckeyes",
+    "fpi": "28.7"
+  },
+  "TEX": {
+    "name_espn": "Texas Longhorns",
+    "fpi": "26.9"
+  },
+  "ND": {
+    "name_espn": "Notre Dame Fighting Irish",
+    "fpi": "25.9"
+  },
+  "ORE": {
+    "name_espn": "Oregon Ducks",
+    "fpi": "25.3"
+  },
+  "UGA": {
+    "name_espn": "Georgia Bulldogs",
+    "fpi": "24.8"
+  },
+  "IND": {
+    "name_espn": "Indiana Hoosiers",
+    "fpi": "23.1"
+  },
+  "MIA": {
+    "name_espn": "Miami Hurricanes",
+    "fpi": "21.8"
+  },
+  "ALA": {
+    "name_espn": "Alabama Crimson Tide",
+    "fpi": "20.1"
+  },
+  "LSU": {
+    "name_espn": "LSU Tigers",
+    "fpi": "20.0"
+  },
+  "TTU": {
+    "name_espn": "Texas Tech Red Raiders",
+    "fpi": "20.0"
+  },
+  "TAMU": {
+    "name_espn": "Texas A&M Aggies",
+    "fpi": "20.0"
+  },
+  "OU": {
+    "name_espn": "Oklahoma Sooners",
+    "fpi": "17.8"
+  },
+  "USC": {
+    "name_espn": "USC Trojans",
+    "fpi": "17.0"
+  },
+  "MISS": {
+    "name_espn": "Ole Miss Rebels",
+    "fpi": "16.0"
+  },
+  "MICH": {
+    "name_espn": "Michigan Wolverines",
+    "fpi": "15.9"
+  },
+  "TENN": {
+    "name_espn": "Tennessee Volunteers",
+    "fpi": "15.1"
+  },
+  "PSU": {
+    "name_espn": "Penn State Nittany Lions",
+    "fpi": "13.7"
+  },
+  "FLA": {
+    "name_espn": "Florida Gators",
+    "fpi": "13.6"
+  },
+  "CLEM": {
+    "name_espn": "Clemson Tigers",
+    "fpi": "13.4"
+  },
+  "BYU": {
+    "name_espn": "BYU Cougars",
+    "fpi": "13.1"
+  },
+  "MIZ": {
+    "name_espn": "Missouri Tigers",
+    "fpi": "12.2"
+  },
+  "AUB": {
+    "name_espn": "Auburn Tigers",
+    "fpi": "12.0"
+  },
+  "SCAR": {
+    "name_espn": "South Carolina Gamecocks",
+    "fpi": "11.7"
+  },
+  "SMU": {
+    "name_espn": "SMU Mustangs",
+    "fpi": "11.1"
+  },
+  "IOWA": {
+    "name_espn": "Iowa Hawkeyes",
+    "fpi": "10.6"
+  },
+  "WASH": {
+    "name_espn": "Washington Huskies",
+    "fpi": "9.9"
+  },
+  "LOU": {
+    "name_espn": "Louisville Cardinals",
+    "fpi": "9.5"
+  },
+  "FSU": {
+    "name_espn": "Florida State Seminoles",
+    "fpi": "9.3"
+  },
+  "VAN": {
+    "name_espn": "Vanderbilt Commodores",
+    "fpi": "9.0"
+  },
+  "NEB": {
+    "name_espn": "Nebraska Cornhuskers",
+    "fpi": "8.8"
+  },
+  "UTAH": {
+    "name_espn": "Utah Utes",
+    "fpi": "8.5"
+  },
+  "UVA": {
+    "name_espn": "Virginia Cavaliers",
+    "fpi": "7.9"
+  },
+  "VT": {
+    "name_espn": "Virginia Tech Hokies",
+    "fpi": "7.4"
+  },
+  "ARIZ": {
+    "name_espn": "Arizona Wildcats",
+    "fpi": "7.2"
+  },
+  "HOU": {
+    "name_espn": "Houston Cougars",
+    "fpi": "7.1"
+  },
+  "PITT": {
+    "name_espn": "Pittsburgh Panthers",
+    "fpi": "6.6"
+  },
+  "BAY": {
+    "name_espn": "Baylor Bears",
+    "fpi": "6.5"
+  },
+  "TCU": {
+    "name_espn": "TCU Horned Frogs",
+    "fpi": "6.4"
+  },
+  "ILL": {
+    "name_espn": "Illinois Fighting Illini",
+    "fpi": "6.3"
+  },
+  "UK": {
+    "name_espn": "Kentucky Wildcats",
+    "fpi": "5.4"
+  },
+  "KSU": {
+    "name_espn": "Kansas State Wildcats",
+    "fpi": "5.1"
+  },
+  "UNC": {
+    "name_espn": "North Carolina Tar Heels",
+    "fpi": "4.9"
+  },
+  "WISC": {
+    "name_espn": "Wisconsin Badgers",
+    "fpi": "4.8"
+  },
+  "AZST": {
+    "name_espn": "Arizona State Sun Devils",
+    "fpi": "4.8"
+  },
+  "COLO": {
+    "name_espn": "Colorado Buffaloes",
+    "fpi": "4.5"
+  },
+  "CIN": {
+    "name_espn": "Cincinnati Bearcats",
+    "fpi": "4.4"
+  },
+  "ARK": {
+    "name_espn": "Arkansas Razorbacks",
+    "fpi": "4.4"
+  },
+  "GT": {
+    "name_espn": "Georgia Tech Yellow Jackets",
+    "fpi": "4.2"
+  },
+  "MSST": {
+    "name_espn": "Mississippi State Bulldogs",
+    "fpi": "4.1"
+  },
+  "BSU": {
+    "name_espn": "Boise State Broncos",
+    "fpi": "4.0"
+  },
+  "NCST": {
+    "name_espn": "NC State Wolfpack",
+    "fpi": "3.7"
+  },
+  "DUKE": {
+    "name_espn": "Duke Blue Devils",
+    "fpi": "3.5"
+  },
+  "WAKE": {
+    "name_espn": "Wake Forest Demon Deacons",
+    "fpi": "3.4"
+  },
+  "OKST": {
+    "name_espn": "Oklahoma State Cowboys",
+    "fpi": "3.3"
+  },
+  "KAN": {
+    "name_espn": "Kansas Jayhawks",
+    "fpi": "2.8"
+  },
+  "TULN": {
+    "name_espn": "Tulane Green Wave",
+    "fpi": "2.3"
+  },
+  "UCF": {
+    "name_espn": "UCF Knights",
+    "fpi": "2.1"
+  },
+  "UNLV": {
+    "name_espn": "UNLV Rebels",
+    "fpi": "1.8"
+  },
+  "SDSU": {
+    "name_espn": "San Diego State Aztecs",
+    "fpi": "1.4"
+  },
+  "NW": {
+    "name_espn": "Northwestern Wildcats",
+    "fpi": "1.4"
+  },
+  "MD": {
+    "name_espn": "Maryland Terrapins",
+    "fpi": "1.0"
+  },
+  "CAL": {
+    "name_espn": "California Golden Bears",
+    "fpi": "0.9"
+  },
+  "MINN": {
+    "name_espn": "Minnesota Golden Gophers",
+    "fpi": "0.6"
+  },
+  "UCLA": {
+    "name_espn": "UCLA Bruins",
+    "fpi": "0.5"
+  },
+  "MSU": {
+    "name_espn": "Michigan State Spartans",
+    "fpi": "0.3"
+  },
+  "WVU": {
+    "name_espn": "West Virginia Mountaineers",
+    "fpi": "0.2"
+  },
+  "RUTG": {
+    "name_espn": "Rutgers Scarlet Knights",
+    "fpi": "-0.2"
+  },
+  "ECU": {
+    "name_espn": "East Carolina Pirates",
+    "fpi": "-0.6"
+  },
+  "NAVY": {
+    "name_espn": "Navy Midshipmen",
+    "fpi": "-0.7"
+  },
+  "SYR": {
+    "name_espn": "Syracuse Orange",
+    "fpi": "-0.8"
+  },
+  "PUR": {
+    "name_espn": "Purdue Boilermakers",
+    "fpi": "-0.9"
+  },
+  "ISU": {
+    "name_espn": "Iowa State Cyclones",
+    "fpi": "-0.9"
+  },
+  "USF": {
+    "name_espn": "South Florida Bulls",
+    "fpi": "-0.9"
+  },
+  "MEM": {
+    "name_espn": "Memphis Tigers",
+    "fpi": "-1.9"
+  },
+  "JMU": {
+    "name_espn": "James Madison Dukes",
+    "fpi": "-2.0"
+  },
+  "HAW": {
+    "name_espn": "Hawai'i Rainbow Warriors",
+    "fpi": "-2.4"
+  },
+  "FRES": {
+    "name_espn": "Fresno State Bulldogs",
+    "fpi": "-2.5"
+  },
+  "BC": {
+    "name_espn": "Boston College Eagles",
+    "fpi": "-2.7"
+  },
+  "TOL": {
+    "name_espn": "Toledo Rockets",
+    "fpi": "-3.0"
+  },
+  "STAN": {
+    "name_espn": "Stanford Cardinal",
+    "fpi": "-3.3"
+  },
+  "UNM": {
+    "name_espn": "New Mexico Lobos",
+    "fpi": "-3.5"
+  },
+  "WMU": {
+    "name_espn": "Western Michigan Broncos",
+    "fpi": "-4.0"
+  },
+  "WSU": {
+    "name_espn": "Washington State Cougars",
+    "fpi": "-4.1"
+  },
+  "TXST": {
+    "name_espn": "Texas State Bobcats",
+    "fpi": "-4.3"
+  },
+  "ODU": {
+    "name_espn": "Old Dominion Monarchs",
+    "fpi": "-4.4"
+  },
+  "WKU": {
+    "name_espn": "Western Kentucky Hilltoppers",
+    "fpi": "-4.9"
+  },
+  "USM": {
+    "name_espn": "Southern Miss Golden Eagles",
+    "fpi": "-5.1"
+  },
+  "UTSA": {
+    "name_espn": "UTSA Roadrunners",
+    "fpi": "-5.3"
+  },
+  "ARMY": {
+    "name_espn": "Army Black Knights",
+    "fpi": "-5.6"
+  },
+  "UNT": {
+    "name_espn": "North Texas Mean Green",
+    "fpi": "-6.4"
+  },
+  "DEL": {
+    "name_espn": "Delaware Blue Hens",
+    "fpi": "-6.6"
+  },
+  "USU": {
+    "name_espn": "Utah State Aggies",
+    "fpi": "-6.7"
+  },
+  "AFA": {
+    "name_espn": "Air Force Falcons",
+    "fpi": "-6.8"
+  },
+  "M-OH": {
+    "name_espn": "Miami (OH) RedHawks",
+    "fpi": "-7.0"
+  },
+  "TROY": {
+    "name_espn": "Troy Trojans",
+    "fpi": "-7.4"
+  },
+  "LIB": {
+    "name_espn": "Liberty Flames",
+    "fpi": "-7.7"
+  },
+  "OHIO": {
+    "name_espn": "Ohio Bobcats",
+    "fpi": "-8.0"
+  },
+  "ORST": {
+    "name_espn": "Oregon State Beavers",
+    "fpi": "-8.1"
+  },
+  "ULL": {
+    "name_espn": "Louisiana Ragin' Cajuns",
+    "fpi": "-8.3"
+  },
+  "NDSU": {
+    "name_espn": "North Dakota State Bison",
+    "fpi": "-8.3"
+  },
+  "JVST": {
+    "name_espn": "Jacksonville State Gamecocks",
+    "fpi": "-8.5"
+  },
+  "TEM": {
+    "name_espn": "Temple Owls",
+    "fpi": "-8.6"
+  },
+  "GASO": {
+    "name_espn": "Georgia Southern Eagles",
+    "fpi": "-8.7"
+  },
+  "MRSH": {
+    "name_espn": "Marshall Thundering Herd",
+    "fpi": "-8.8"
+  },
+  "TLSA": {
+    "name_espn": "Tulsa Golden Hurricane",
+    "fpi": "-9.0"
+  },
+  "KENN": {
+    "name_espn": "Kennesaw State Owls",
+    "fpi": "-9.0"
+  },
+  "ARST": {
+    "name_espn": "Arkansas State Red Wolves",
+    "fpi": "-9.2"
+  },
+  "LT": {
+    "name_espn": "Louisiana Tech Bulldogs",
+    "fpi": "-9.6"
+  },
+  "APP": {
+    "name_espn": "App State Mountaineers",
+    "fpi": "-9.8"
+  },
+  "MOST": {
+    "name_espn": "Missouri State Bears",
+    "fpi": "-10.3"
+  },
+  "SAC": {
+    "name_espn": "Sacramento State Hornets",
+    "fpi": "-10.4"
+  },
+  "USA": {
+    "name_espn": "South Alabama Jaguars",
+    "fpi": "-10.5"
+  },
+  "BUFF": {
+    "name_espn": "Buffalo Bulls",
+    "fpi": "-10.8"
+  },
+  "CONN": {
+    "name_espn": "UConn Huskies",
+    "fpi": "-11.2"
+  },
+  "FAU": {
+    "name_espn": "Florida Atlantic Owls",
+    "fpi": "-11.3"
+  },
+  "NEV": {
+    "name_espn": "Nevada Wolf Pack",
+    "fpi": "-11.9"
+  },
+  "CCU": {
+    "name_espn": "Coastal Carolina Chanticleers",
+    "fpi": "-12.1"
+  },
+  "CSU": {
+    "name_espn": "Colorado State Rams",
+    "fpi": "-12.4"
+  },
+  "FIU": {
+    "name_espn": "Florida International Panthers",
+    "fpi": "-12.6"
+  },
+  "CMU": {
+    "name_espn": "Central Michigan Chippewas",
+    "fpi": "-12.8"
+  },
+  "WYO": {
+    "name_espn": "Wyoming Cowboys",
+    "fpi": "-13.1"
+  },
+  "RICE": {
+    "name_espn": "Rice Owls",
+    "fpi": "-13.4"
+  },
+  "BGSU": {
+    "name_espn": "Bowling Green Falcons",
+    "fpi": "-13.7"
+  },
+  "SJSU": {
+    "name_espn": "San Jos\u00e9 State Spartans",
+    "fpi": "-14.3"
+  },
+  "NIU": {
+    "name_espn": "Northern Illinois Huskies",
+    "fpi": "-14.5"
+  },
+  "CLT": {
+    "name_espn": "Charlotte 49ers",
+    "fpi": "-14.6"
+  },
+  "GAST": {
+    "name_espn": "Georgia State Panthers",
+    "fpi": "-15.2"
+  },
+  "UAB": {
+    "name_espn": "UAB Blazers",
+    "fpi": "-15.5"
+  },
+  "NMSU": {
+    "name_espn": "New Mexico State Aggies",
+    "fpi": "-15.7"
+  },
+  "MTSU": {
+    "name_espn": "Middle Tennessee Blue Raiders",
+    "fpi": "-16.1"
+  },
+  "EMU": {
+    "name_espn": "Eastern Michigan Eagles",
+    "fpi": "-16.3"
+  },
+  "UTEP": {
+    "name_espn": "UTEP Miners",
+    "fpi": "-16.6"
+  },
+  "AKR": {
+    "name_espn": "Akron Zips",
+    "fpi": "-16.9"
+  },
+  "BALL": {
+    "name_espn": "Ball State Cardinals",
+    "fpi": "-17.3"
+  },
+  "KENT": {
+    "name_espn": "Kent State Golden Flashes",
+    "fpi": "-17.9"
+  },
+  "SHSU": {
+    "name_espn": "Sam Houston Bearkats",
+    "fpi": "-18.4"
+  },
+  "MASS": {
+    "name_espn": "Massachusetts Minutemen",
+    "fpi": "-18.8"
+  },
+  "ULM": {
+    "name_espn": "UL Monroe Warhawks",
+    "fpi": "-19.3"
+  }
+}

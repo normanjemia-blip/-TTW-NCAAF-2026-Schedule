@@ -1,0 +1,128 @@
+{
+  "1": {
+    "name": "Preseason",
+    "abbreviation": "pre",
+    "startDate": "2026-02-01T08:00Z",
+    "endDate": "2026-08-22T06:59Z",
+    "weeks": [
+      {
+        "number": 1,
+        "text": "Week 1",
+        "startDate": "2026-02-01T08:00Z",
+        "endDate": "2026-08-22T06:59Z"
+      }
+    ]
+  },
+  "2": {
+    "name": "Regular Season",
+    "abbreviation": "reg",
+    "startDate": "2026-08-22T07:00Z",
+    "endDate": "2026-12-13T07:59Z",
+    "weeks": [
+      {
+        "number": 1,
+        "text": "Week 1",
+        "startDate": "2026-08-22T07:00Z",
+        "endDate": "2026-09-08T06:59Z"
+      },
+      {
+        "number": 2,
+        "text": "Week 2",
+        "startDate": "2026-09-08T07:00Z",
+        "endDate": "2026-09-14T06:59Z"
+      },
+      {
+        "number": 3,
+        "text": "Week 3",
+        "startDate": "2026-09-14T07:00Z",
+        "endDate": "2026-09-21T06:59Z"
+      },
+      {
+        "number": 4,
+        "text": "Week 4",
+        "startDate": "2026-09-21T07:00Z",
+        "endDate": "2026-09-28T06:59Z"
+      },
+      {
+        "number": 5,
+        "text": "Week 5",
+        "startDate": "2026-09-28T07:00Z",
+        "endDate": "2026-10-05T06:59Z"
+      },
+      {
+        "number": 6,
+        "text": "Week 6",
+        "startDate": "2026-10-05T07:00Z",
+        "endDate": "2026-10-12T06:59Z"
+      },
+      {
+        "number": 7,
+        "text": "Week 7",
+        "startDate": "2026-10-12T07:00Z",
+        "endDate": "2026-10-19T06:59Z"
+      },
+      {
+        "number": 8,
+        "text": "Week 8",
+        "startDate": "2026-10-19T07:00Z",
+        "endDate": "2026-10-26T06:59Z"
+      },
+      {
+        "number": 9,
+        "text": "Week 9",
+        "startDate": "2026-10-26T07:00Z",
+        "endDate": "2026-11-02T07:59Z"
+      },
+      {
+        "number": 10,
+        "text": "Week 10",
+        "startDate": "2026-11-02T08:00Z",
+        "endDate": "2026-11-09T07:59Z"
+      },
+      {
+        "number": 11,
+        "text": "Week 11",
+        "startDate": "2026-11-09T08:00Z",
+        "endDate": "2026-11-16T07:59Z"
+      },
+      {
+        "number": 12,
+        "text": "Week 12",
+        "startDate": "2026-11-16T08:00Z",
+        "endDate": "2026-11-23T07:59Z"
+      },
+      {
+        "number": 13,
+        "text": "Week 13",
+        "startDate": "2026-11-23T08:00Z",
+        "endDate": "2026-11-30T07:59Z"
+      },
+      {
+        "number": 14,
+        "text": "Week 14",
+        "startDate": "2026-11-30T08:00Z",
+        "endDate": "2026-12-07T07:59Z"
+      },
+      {
+        "number": 15,
+        "text": "Week 15",
+        "startDate": "2026-12-07T08:00Z",
+        "endDate": "2026-12-13T07:59Z"
+      }
+    ]
+  },
+  "3": {
+    "name": "Postseason",
+    "abbreviation": "post",
+    "startDate": "2026-12-13T08:00Z",
+    "endDate": "2027-01-28T07:59Z",
+    "weeks": [
+      {
+        "number": 1,
+        "text": "Bowls",
+        "startDate": "2026-12-13T08:00Z",
+        "endDate": "2027-01-28T07:59Z"
+      }
+    ]
+  }
+}

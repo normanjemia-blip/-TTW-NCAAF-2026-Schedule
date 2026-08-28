@@ -1,0 +1,505 @@
+{
+ "verified": [
+  [
+   "Abilene Christian Wildcats",
+   -8.58,
+   14
+  ],
+  [
+   "Alabama State Hornets",
+   -12.3,
+   12
+  ],
+  [
+   "Alcorn State Braves",
+   -26.83,
+   12
+  ],
+  [
+   "Arkansas-Pine Bluff Golden Lions",
+   -34.6,
+   11
+  ],
+  [
+   "Austin Peay Governors",
+   -10.1,
+   12
+  ],
+  [
+   "Bethune-Cookman Wildcats",
+   -25.98,
+   12
+  ],
+  [
+   "Bryant Bulldogs",
+   -32.95,
+   12
+  ],
+  [
+   "Bucknell Bison",
+   -32.6,
+   12
+  ],
+  [
+   "Cal Poly Mustangs",
+   -13.82,
+   12
+  ],
+  [
+   "Campbell Fighting Camels",
+   -27.68,
+   12
+  ],
+  [
+   "Central Arkansas Bears",
+   -20.14,
+   12
+  ],
+  [
+   "Central Connecticut Blue Devils",
+   -22.15,
+   13
+  ],
+  [
+   "Charleston Southern Buccaneers",
+   -24.81,
+   12
+  ],
+  [
+   "Chattanooga Mocs",
+   -26.51,
+   12
+  ],
+  [
+   "Colgate Raiders",
+   -23.38,
+   12
+  ],
+  [
+   "Delaware State Hornets",
+   -23.85,
+   12
+  ],
+  [
+   "Duquesne Dukes",
+   -23.36,
+   12
+  ],
+  [
+   "East Tennessee State Buccaneers",
+   -15.53,
+   12
+  ],
+  [
+   "East Texas A&M Lions",
+   -24.35,
+   12
+  ],
+  [
+   "Eastern Illinois Panthers",
+   -28.54,
+   12
+  ],
+  [
+   "Eastern Kentucky Colonels",
+   -18.44,
+   12
+  ],
+  [
+   "Eastern Washington Eagles",
+   -17.34,
+   12
+  ],
+  [
+   "Elon Phoenix",
+   -19.78,
+   12
+  ],
+  [
+   "Florida A&M Rattlers",
+   -35.16,
+   12
+  ],
+  [
+   "Fordham Rams",
+   -35.4,
+   12
+  ],
+  [
+   "Furman Paladins",
+   -25.79,
+   12
+  ],
+  [
+   "Gardner-Webb Runnin' Bulldogs",
+   -19.95,
+   12
+  ],
+  [
+   "Grambling Tigers",
+   -25.87,
+   12
+  ],
+  [
+   "Hampton Pirates",
+   -41.17,
+   12
+  ],
+  [
+   "Holy Cross Crusaders",
+   -22.91,
+   12
+  ],
+  [
+   "Houston Christian Huskies",
+   -33.77,
+   12
+  ],
+  [
+   "Howard Bison",
+   -32.37,
+   12
+  ],
+  [
+   "Idaho State Bengals",
+   -10.82,
+   12
+  ],
+  [
+   "Idaho Vandals",
+   -15.06,
+   12
+  ],
+  [
+   "Illinois State Redbirds",
+   -5.44,
+   17
+  ],
+  [
+   "Incarnate Word Cardinals",
+   -16.9,
+   12
+  ],
+  [
+   "Indiana State Sycamores",
+   -20.98,
+   12
+  ],
+  [
+   "Lafayette Leopards",
+   -19.48,
+   12
+  ],
+  [
+   "Lamar Cardinals",
+   -14.73,
+   13
+  ],
+  [
+   "Lindenwood Lions",
+   -22.08,
+   12
+  ],
+  [
+   "Long Island University Sharks",
+   -24.99,
+   12
+  ],
+  [
+   "Maine Black Bears",
+   -22.47,
+   12
+  ],
+  [
+   "McNeese Cowboys",
+   -22.75,
+   12
+  ],
+  [
+   "Mercer Bears",
+   -11.88,
+   12
+  ],
+  [
+   "Mercyhurst Lakers",
+   -26.11,
+   12
+  ],
+  [
+   "Merrimack Warriors",
+   -28.68,
+   12
+  ],
+  [
+   "Mississippi Valley State Delta Devils",
+   -38.91,
+   12
+  ],
+  [
+   "Monmouth Hawks",
+   -15.3,
+   12
+  ],
+  [
+   "Montana Grizzlies",
+   0.01,
+   15
+  ],
+  [
+   "Montana State Bobcats",
+   4.82,
+   16
+  ],
+  [
+   "Morgan State Bears",
+   -29.9,
+   12
+  ],
+  [
+   "Murray State Racers",
+   -29.42,
+   12
+  ],
+  [
+   "New Hampshire Wildcats",
+   -16.56,
+   13
+  ],
+  [
+   "Nicholls Colonels",
+   -21.91,
+   12
+  ],
+  [
+   "Norfolk State Spartans",
+   -37.66,
+   12
+  ],
+  [
+   "North Alabama Lions",
+   -25.39,
+   12
+  ],
+  [
+   "North Carolina A&T Aggies",
+   -36.72,
+   12
+  ],
+  [
+   "North Carolina Central Eagles",
+   -20.64,
+   12
+  ],
+  [
+   "North Dakota Fighting Hawks",
+   -0.49,
+   14
+  ],
+  [
+   "Northern Arizona Lumberjacks",
+   -13.38,
+   12
+  ],
+  [
+   "Northern Colorado Bears",
+   -20.35,
+   12
+  ],
+  [
+   "Northern Iowa Panthers",
+   -21.27,
+   12
+  ],
+  [
+   "Northwestern State Demons",
+   -34.63,
+   12
+  ],
+  [
+   "Portland State Vikings",
+   -27.04,
+   12
+  ],
+  [
+   "Prairie View A&M Panthers",
+   -18.63,
+   14
+  ],
+  [
+   "Rhode Island Rams",
+   -13.37,
+   14
+  ],
+  [
+   "Richmond Spiders",
+   -23.97,
+   12
+  ],
+  [
+   "Robert Morris Colonials",
+   -33.82,
+   12
+  ],
+  [
+   "SE Louisiana Lions",
+   -10.11,
+   13
+  ],
+  [
+   "Sacred Heart Pioneers",
+   -25.36,
+   12
+  ],
+  [
+   "Samford Bulldogs",
+   -35.15,
+   12
+  ],
+  [
+   "South Dakota Coyotes",
+   -9.84,
+   15
+  ],
+  [
+   "South Dakota State Jackrabbits",
+   -6.05,
+   14
+  ],
+  [
+   "Southeast Missouri State Redhawks",
+   -25.7,
+   12
+  ],
+  [
+   "Southern Illinois Salukis",
+   -7.19,
+   12
+  ],
+  [
+   "Southern Jaguars",
+   -39.86,
+   12
+  ],
+  [
+   "Southern Utah Thunderbirds",
+   -10.37,
+   12
+  ],
+  [
+   "Stonehill Skyhawks",
+   -31.88,
+   12
+  ],
+  [
+   "Stony Brook Seawolves",
+   -19.86,
+   12
+  ],
+  [
+   "Tarleton State Texans",
+   -0.23,
+   14
+  ],
+  [
+   "Tennessee State Tigers",
+   -35.12,
+   12
+  ],
+  [
+   "Tennessee Tech Golden Eagles",
+   -11.94,
+   13
+  ],
+  [
+   "Texas Southern Tigers",
+   -28.46,
+   10
+  ],
+  [
+   "The Citadel Bulldogs",
+   -22.2,
+   12
+  ],
+  [
+   "Towson Tigers",
+   -22.78,
+   12
+  ],
+  [
+   "UAlbany Great Danes",
+   -32.15,
+   12
+  ],
+  [
+   "UC Davis Aggies",
+   -6.3,
+   13
+  ],
+  [
+   "UT Martin Skyhawks",
+   -22.84,
+   12
+  ],
+  [
+   "UT Rio Grande Valley Vaqueros",
+   -12.72,
+   12
+  ],
+  [
+   "Utah Tech Trailblazers",
+   -26.73,
+   12
+  ],
+  [
+   "VMI Keydets",
+   -39.42,
+   12
+  ],
+  [
+   "Villanova Wildcats",
+   -8.89,
+   15
+  ],
+  [
+   "Wagner Seahawks",
+   -32.42,
+   12
+  ],
+  [
+   "Weber State Wildcats",
+   -20.36,
+   12
+  ],
+  [
+   "West Georgia Wolves",
+   -13.01,
+   11
+  ],
+  [
+   "Western Carolina Catamounts",
+   -18.88,
+   12
+  ],
+  [
+   "Western Illinois Leathernecks",
+   -27.72,
+   12
+  ],
+  [
+   "William & Mary Tribe",
+   -19.25,
+   12
+  ],
+  [
+   "Wofford Terriers",
+   -18.84,
+   12
+  ],
+  [
+   "Youngstown State Penguins",
+   -9.06,
+   13
+  ]
+ ],
+ "unrated": []
+}

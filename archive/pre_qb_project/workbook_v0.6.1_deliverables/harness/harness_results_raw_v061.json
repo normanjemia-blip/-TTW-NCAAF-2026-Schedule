@@ -1,0 +1,158 @@
+{
+ "D2": {
+  "ENGINE_row10_G4": {
+   "STATUS": "PENDING LINE",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "27.73571428571428",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "ADJUSTMENTS_row6": {
+   "J_effective": "0",
+   "K_flags": "LARGE ADJ (>4); "
+  }
+ },
+ "E2": {
+  "ENGINE_row10_G4": {
+   "STATUS": "PENDING LINE",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "27.73571428571428",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "ADJUSTMENTS_row6": {
+   "J_effective": "0",
+   "K_flags": "VALUE NOT NUMERIC; "
+  }
+ },
+ "F_override": {
+  "ENGINE_row10_G4": {
+   "STATUS": "PENDING LINE",
+   "spread_edge": "",
+   "spread_label": "",
+   "final_margin": "15.0",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "ADJUSTMENTS_row6": {
+   "J_effective": "1",
+   "K_flags": ""
+  }
+ },
+ "G_control": {
+  "ENGINE_row8_G1": {
+   "STATUS": "READY",
+   "spread_edge": "-1.1714285714285726",
+   "spread_label": "LEAN",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "IMPORT_SCHEDULE_C8_week": "0",
+  "IMPORT_SCHEDULE_D8_date": "46263",
+  "CLEAN_C8": "0",
+  "CLEAN_D8": "46263"
+ },
+ "G_datainc": {
+  "ENGINE_row8_G1": {
+   "STATUS": "READY",
+   "spread_edge": "-1.1714285714285726",
+   "spread_label": "LEAN",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "IMPORT_SCHEDULE_C8_week": "empty",
+  "IMPORT_SCHEDULE_D8_date": "46263",
+  "CLEAN_C8": "0",
+  "CLEAN_D8": "46263"
+ },
+ "G_datainc2": {
+  "ENGINE_row8_G1": {
+   "STATUS": "READY",
+   "spread_edge": "-1.1714285714285726",
+   "spread_label": "LEAN",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "IMPORT_SCHEDULE_C8_week": "empty",
+  "IMPORT_SCHEDULE_D8_date": "46263",
+  "CLEAN_C8": "0",
+  "CLEAN_D8": "46263"
+ },
+ "G_restored": {
+  "ENGINE_row8_G1": {
+   "STATUS": "READY",
+   "spread_edge": "-1.1714285714285726",
+   "spread_label": "LEAN",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "IMPORT_SCHEDULE_C8_week": "0",
+  "IMPORT_SCHEDULE_D8_date": "46263",
+  "CLEAN_C8": "0",
+  "CLEAN_D8": "46263"
+ },
+ "BET_N": {
+  "ENGINE_row8_G1": {
+   "STATUS": "READY",
+   "spread_edge": "4.328571428571427",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "SETTINGS_B11_toggle": "N"
+ },
+ "BET_Y": {
+  "ENGINE_row8_G1": {
+   "STATUS": "READY",
+   "spread_edge": "4.328571428571427",
+   "spread_label": "BET",
+   "final_margin": "5.328571428571427",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": ""
+  },
+  "SETTINGS_B11_toggle": "Y"
+ },
+ "NDSU_functional": {
+  "TEAM_RATINGS_F122_games_played": "5.0",
+  "TEAM_RATINGS_W122": "5.0",
+  "TEAM_RATINGS_X122_review_cleared": "NOT FOUND",
+  "ENGINE_row11_G5": {
+   "STATUS": "TRANSITION UNCERTAIN",
+   "spread_edge": "11.45614078674948",
+   "spread_label": "INVESTIGATE",
+   "final_margin": "11.95614078674948",
+   "manual_adj": "0.0",
+   "block_reasons": "",
+   "transitional_flag": "TRANSITIONAL"
+  }
+ },
+ "fade_table_0_9": {
+  "0": "1.0",
+  "1": "0.8",
+  "2": "0.65",
+  "3": "0.5",
+  "4": "0.4",
+  "5": "0.3",
+  "6": "0.225",
+  "7": "0.175",
+  "8": "0.125",
+  "9": "0.1",
+  "10": "0.1"
+ }
+}

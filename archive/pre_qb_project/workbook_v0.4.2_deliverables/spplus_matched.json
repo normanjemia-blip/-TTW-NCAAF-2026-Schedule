@@ -1,0 +1,1106 @@
+{
+  "OHST": {
+    "rank": 1,
+    "name_espn": "Ohio State",
+    "overall": 31.8,
+    "off_raw": "40.6 (2)",
+    "def_raw": "8.8 (1)",
+    "st_raw": "0.1 (67)"
+  },
+  "ORE": {
+    "rank": 2,
+    "name_espn": "Oregon",
+    "overall": 28.3,
+    "off_raw": "40.7 (1)",
+    "def_raw": "12.6 (3)",
+    "st_raw": "0.3 (50)"
+  },
+  "ND": {
+    "rank": 3,
+    "name_espn": "Notre Dame",
+    "overall": 25.8,
+    "off_raw": "40.2 (3)",
+    "def_raw": "14.6 (9)",
+    "st_raw": "0.3 (47)"
+  },
+  "UGA": {
+    "rank": 4,
+    "name_espn": "Georgia",
+    "overall": 25.5,
+    "off_raw": "38.2 (5)",
+    "def_raw": "13.3 (5)",
+    "st_raw": "0.6 (3)"
+  },
+  "IND": {
+    "rank": 5,
+    "name_espn": "Indiana",
+    "overall": 24.5,
+    "off_raw": "37.4 (9)",
+    "def_raw": "13.5 (6)",
+    "st_raw": "0.5 (22)"
+  },
+  "TEX": {
+    "rank": 6,
+    "name_espn": "Texas",
+    "overall": 23.7,
+    "off_raw": "37.6 (7)",
+    "def_raw": "14.3 (8)",
+    "st_raw": "0.4 (31)"
+  },
+  "TTU": {
+    "rank": 7,
+    "name_espn": "Texas Tech",
+    "overall": 23.1,
+    "off_raw": "37.6 (8)",
+    "def_raw": "14.7 (11)",
+    "st_raw": "0.2 (54)"
+  },
+  "MIA": {
+    "rank": 8,
+    "name_espn": "Miami",
+    "overall": 21.0,
+    "off_raw": "34.4 (12)",
+    "def_raw": "13.7 (7)",
+    "st_raw": "0.3 (42)"
+  },
+  "TAMU": {
+    "rank": 9,
+    "name_espn": "Texas A&M",
+    "overall": 20.3,
+    "off_raw": "37.3 (10)",
+    "def_raw": "16.7 (14)",
+    "st_raw": "-0.3 (99)"
+  },
+  "LSU": {
+    "rank": 10,
+    "name_espn": "LSU",
+    "overall": 20.2,
+    "off_raw": "32.5 (21)",
+    "def_raw": "12.5 (2)",
+    "st_raw": "0.2 (53)"
+  },
+  "ALA": {
+    "rank": 11,
+    "name_espn": "Alabama",
+    "overall": 18.2,
+    "off_raw": "31.3 (32)",
+    "def_raw": "12.6 (4)",
+    "st_raw": "-0.4 (109)"
+  },
+  "OU": {
+    "rank": 12,
+    "name_espn": "Oklahoma",
+    "overall": 17.2,
+    "off_raw": "31.6 (27)",
+    "def_raw": "14.7 (10)",
+    "st_raw": "0.4 (33)"
+  },
+  "USC": {
+    "rank": 13,
+    "name_espn": "USC",
+    "overall": 16.8,
+    "off_raw": "37.7 (6)",
+    "def_raw": "20.5 (29)",
+    "st_raw": "-0.3 (100)"
+  },
+  "MICH": {
+    "rank": 14,
+    "name_espn": "Michigan",
+    "overall": 16.1,
+    "off_raw": "32.8 (20)",
+    "def_raw": "16.2 (13)",
+    "st_raw": "-0.5 (113)"
+  },
+  "TENN": {
+    "rank": 15,
+    "name_espn": "Tennessee",
+    "overall": 16.0,
+    "off_raw": "38.7 (4)",
+    "def_raw": "23.0 (50)",
+    "st_raw": "0.4 (34)"
+  },
+  "MISS": {
+    "rank": 16,
+    "name_espn": "Ole Miss",
+    "overall": 15.9,
+    "off_raw": "35.0 (11)",
+    "def_raw": "19.7 (25)",
+    "st_raw": "0.7 (1)"
+  },
+  "PSU": {
+    "rank": 17,
+    "name_espn": "Penn St.",
+    "overall": 15.7,
+    "off_raw": "33.6 (14)",
+    "def_raw": "18.6 (23)",
+    "st_raw": "0.6 (6)"
+  },
+  "BYU": {
+    "rank": 18,
+    "name_espn": "BYU",
+    "overall": 15.5,
+    "off_raw": "33.3 (16)",
+    "def_raw": "18.1 (20)",
+    "st_raw": "0.3 (45)"
+  },
+  "FLA": {
+    "rank": 19,
+    "name_espn": "Florida",
+    "overall": 14.9,
+    "off_raw": "30.2 (39)",
+    "def_raw": "15.9 (12)",
+    "st_raw": "0.5 (17)"
+  },
+  "MIZ": {
+    "rank": 20,
+    "name_espn": "Missouri",
+    "overall": 14.8,
+    "off_raw": "32.2 (24)",
+    "def_raw": "16.9 (15)",
+    "st_raw": "-0.5 (118)"
+  },
+  "WASH": {
+    "rank": 21,
+    "name_espn": "Washington",
+    "overall": 14.5,
+    "off_raw": "32.4 (22)",
+    "def_raw": "17.6 (19)",
+    "st_raw": "-0.3 (96)"
+  },
+  "IOWA": {
+    "rank": 22,
+    "name_espn": "Iowa",
+    "overall": 13.6,
+    "off_raw": "30.3 (38)",
+    "def_raw": "17.3 (17)",
+    "st_raw": "0.6 (10)"
+  },
+  "CLEM": {
+    "rank": 23,
+    "name_espn": "Clemson",
+    "overall": 12.8,
+    "off_raw": "29.5 (48)",
+    "def_raw": "17.0 (16)",
+    "st_raw": "0.3 (41)"
+  },
+  "SCAR": {
+    "rank": 24,
+    "name_espn": "S. Carolina",
+    "overall": 12.1,
+    "off_raw": "29.9 (44)",
+    "def_raw": "18.4 (21)",
+    "st_raw": "0.5 (19)"
+  },
+  "UTAH": {
+    "rank": 25,
+    "name_espn": "Utah",
+    "overall": 11.9,
+    "off_raw": "33.0 (18)",
+    "def_raw": "21.1 (34)",
+    "st_raw": "0.0 (74)"
+  },
+  "AUB": {
+    "rank": 26,
+    "name_espn": "Auburn",
+    "overall": 11.2,
+    "off_raw": "28.4 (55)",
+    "def_raw": "17.5 (18)",
+    "st_raw": "0.3 (51)"
+  },
+  "LOU": {
+    "rank": 27,
+    "name_espn": "Louisville",
+    "overall": 11.0,
+    "off_raw": "30.6 (36)",
+    "def_raw": "19.7 (26)",
+    "st_raw": "0.2 (55)"
+  },
+  "SMU": {
+    "rank": 28,
+    "name_espn": "SMU",
+    "overall": 10.9,
+    "off_raw": "31.9 (25)",
+    "def_raw": "20.7 (32)",
+    "st_raw": "-0.4 (104)"
+  },
+  "KSU": {
+    "rank": 29,
+    "name_espn": "Kansas St.",
+    "overall": 10.4,
+    "off_raw": "33.1 (17)",
+    "def_raw": "23.0 (49)",
+    "st_raw": "0.3 (49)"
+  },
+  "ARIZ": {
+    "rank": 30,
+    "name_espn": "Arizona",
+    "overall": 10.2,
+    "off_raw": "31.5 (29)",
+    "def_raw": "20.8 (33)",
+    "st_raw": "-0.5 (119)"
+  },
+  "VAN": {
+    "rank": 31,
+    "name_espn": "Vanderbilt",
+    "overall": 10.0,
+    "off_raw": "33.4 (15)",
+    "def_raw": "24.1 (56)",
+    "st_raw": "0.6 (7)"
+  },
+  "VT": {
+    "rank": 32,
+    "name_espn": "Va. Tech",
+    "overall": 9.4,
+    "off_raw": "31.1 (34)",
+    "def_raw": "21.5 (38)",
+    "st_raw": "-0.2 (89)"
+  },
+  "ILL": {
+    "rank": 33,
+    "name_espn": "Illinois",
+    "overall": 9.3,
+    "off_raw": "31.5 (28)",
+    "def_raw": "22.7 (44)",
+    "st_raw": "0.4 (30)"
+  },
+  "TCU": {
+    "rank": 34,
+    "name_espn": "TCU",
+    "overall": 9.1,
+    "off_raw": "31.3 (31)",
+    "def_raw": "21.9 (40)",
+    "st_raw": "-0.2 (87)"
+  },
+  "FSU": {
+    "rank": 35,
+    "name_espn": "Florida St.",
+    "overall": 8.8,
+    "off_raw": "29.7 (45)",
+    "def_raw": "20.6 (30)",
+    "st_raw": "-0.3 (94)"
+  },
+  "HOU": {
+    "rank": 36,
+    "name_espn": "Houston",
+    "overall": 8.2,
+    "off_raw": "31.3 (30)",
+    "def_raw": "22.8 (45)",
+    "st_raw": "-0.4 (101)"
+  },
+  "NEB": {
+    "rank": 37,
+    "name_espn": "Nebraska",
+    "overall": 7.7,
+    "off_raw": "29.2 (49)",
+    "def_raw": "21.5 (39)",
+    "st_raw": "0.1 (69)"
+  },
+  "OKST": {
+    "rank": 38,
+    "name_espn": "Oklahoma St.",
+    "overall": 7.1,
+    "off_raw": "30.0 (42)",
+    "def_raw": "23.4 (52)",
+    "st_raw": "0.5 (26)"
+  },
+  "BSU": {
+    "rank": 39,
+    "name_espn": "Boise State",
+    "overall": 6.8,
+    "off_raw": "29.9 (43)",
+    "def_raw": "22.8 (46)",
+    "st_raw": "-0.3 (93)"
+  },
+  "UVA": {
+    "rank": 40,
+    "name_espn": "Virginia",
+    "overall": 6.6,
+    "off_raw": "26.3 (63)",
+    "def_raw": "19.9 (27)",
+    "st_raw": "0.2 (58)"
+  },
+  "PITT": {
+    "rank": 41,
+    "name_espn": "Pittsburgh",
+    "overall": 6.5,
+    "off_raw": "30.2 (40)",
+    "def_raw": "23.8 (53)",
+    "st_raw": "0.1 (60)"
+  },
+  "AZST": {
+    "rank": 42,
+    "name_espn": "Arizona St.",
+    "overall": 6.4,
+    "off_raw": "28.2 (57)",
+    "def_raw": "21.2 (37)",
+    "st_raw": "-0.6 (129)"
+  },
+  "GT": {
+    "rank": 43,
+    "name_espn": "Ga. Tech",
+    "overall": 6.0,
+    "off_raw": "28.8 (53)",
+    "def_raw": "23.4 (51)",
+    "st_raw": "0.6 (11)"
+  },
+  "DUKE": {
+    "rank": 44,
+    "name_espn": "Duke",
+    "overall": 5.7,
+    "off_raw": "32.8 (19)",
+    "def_raw": "27.5 (81)",
+    "st_raw": "0.4 (36)"
+  },
+  "MINN": {
+    "rank": 45,
+    "name_espn": "Minnesota",
+    "overall": 5.2,
+    "off_raw": "25.3 (71)",
+    "def_raw": "19.5 (24)",
+    "st_raw": "-0.5 (125)"
+  },
+  "UCLA": {
+    "rank": 46,
+    "name_espn": "UCLA",
+    "overall": 5.1,
+    "off_raw": "29.0 (52)",
+    "def_raw": "23.9 (54)",
+    "st_raw": "0.0 (71)"
+  },
+  "ARK": {
+    "rank": 47,
+    "name_espn": "Arkansas",
+    "overall": 5.0,
+    "off_raw": "34.1 (13)",
+    "def_raw": "29.3 (91)",
+    "st_raw": "0.3 (44)"
+  },
+  "NCST": {
+    "rank": 48,
+    "name_espn": "NC State",
+    "overall": 4.9,
+    "off_raw": "30.7 (35)",
+    "def_raw": "25.3 (64)",
+    "st_raw": "-0.4 (103)"
+  },
+  "NW": {
+    "rank": 49,
+    "name_espn": "Northwestern",
+    "overall": 4.6,
+    "off_raw": "24.5 (78)",
+    "def_raw": "20.4 (28)",
+    "st_raw": "0.5 (29)"
+  },
+  "CIN": {
+    "rank": 50,
+    "name_espn": "Cincinnati",
+    "overall": 4.5,
+    "off_raw": "29.6 (46)",
+    "def_raw": "25.4 (65)",
+    "st_raw": "0.3 (46)"
+  },
+  "BAY": {
+    "rank": 51,
+    "name_espn": "Baylor",
+    "overall": 4.5,
+    "off_raw": "32.2 (23)",
+    "def_raw": "28.3 (87)",
+    "st_raw": "0.6 (2)"
+  },
+  "MSST": {
+    "rank": 52,
+    "name_espn": "Miss. St.",
+    "overall": 3.9,
+    "off_raw": "30.1 (41)",
+    "def_raw": "26.7 (76)",
+    "st_raw": "0.5 (21)"
+  },
+  "UK": {
+    "rank": 53,
+    "name_espn": "Kentucky",
+    "overall": 3.8,
+    "off_raw": "25.0 (75)",
+    "def_raw": "21.2 (36)",
+    "st_raw": "0.0 (75)"
+  },
+  "UNC": {
+    "rank": 54,
+    "name_espn": "N. Carolina",
+    "overall": 3.8,
+    "off_raw": "24.5 (80)",
+    "def_raw": "21.1 (35)",
+    "st_raw": "0.4 (32)"
+  },
+  "MD": {
+    "rank": 55,
+    "name_espn": "Maryland",
+    "overall": 3.8,
+    "off_raw": "26.1 (65)",
+    "def_raw": "22.7 (43)",
+    "st_raw": "0.3 (39)"
+  },
+  "CAL": {
+    "rank": 56,
+    "name_espn": "California",
+    "overall": 3.7,
+    "off_raw": "29.2 (50)",
+    "def_raw": "25.2 (62)",
+    "st_raw": "-0.3 (95)"
+  },
+  "KAN": {
+    "rank": 57,
+    "name_espn": "Kansas",
+    "overall": 3.7,
+    "off_raw": "29.0 (51)",
+    "def_raw": "25.9 (70)",
+    "st_raw": "0.6 (9)"
+  },
+  "WAKE": {
+    "rank": 58,
+    "name_espn": "Wake Forest",
+    "overall": 3.6,
+    "off_raw": "24.2 (83)",
+    "def_raw": "20.7 (31)",
+    "st_raw": "0.0 (78)"
+  },
+  "UNLV": {
+    "rank": 59,
+    "name_espn": "UNLV",
+    "overall": 2.8,
+    "off_raw": "31.2 (33)",
+    "def_raw": "28.4 (89)",
+    "st_raw": "0.1 (66)"
+  },
+  "UCF": {
+    "rank": 60,
+    "name_espn": "UCF",
+    "overall": 2.3,
+    "off_raw": "24.5 (79)",
+    "def_raw": "22.1 (41)",
+    "st_raw": "-0.1 (83)"
+  },
+  "WISC": {
+    "rank": 61,
+    "name_espn": "Wisconsin",
+    "overall": 1.8,
+    "off_raw": "20.6 (106)",
+    "def_raw": "18.5 (22)",
+    "st_raw": "-0.3 (97)"
+  },
+  "RUTG": {
+    "rank": 62,
+    "name_espn": "Rutgers",
+    "overall": 1.8,
+    "off_raw": "30.4 (37)",
+    "def_raw": "28.7 (90)",
+    "st_raw": "0.1 (68)"
+  },
+  "NAVY": {
+    "rank": 63,
+    "name_espn": "Navy",
+    "overall": 1.1,
+    "off_raw": "27.8 (58)",
+    "def_raw": "26.9 (77)",
+    "st_raw": "0.2 (56)"
+  },
+  "ISU": {
+    "rank": 64,
+    "name_espn": "Iowa State",
+    "overall": 1.0,
+    "off_raw": "22.9 (94)",
+    "def_raw": "22.4 (42)",
+    "st_raw": "0.5 (27)"
+  },
+  "COLO": {
+    "rank": 65,
+    "name_espn": "Colorado",
+    "overall": 0.9,
+    "off_raw": "26.3 (64)",
+    "def_raw": "24.9 (57)",
+    "st_raw": "-0.5 (116)"
+  },
+  "WVU": {
+    "rank": 66,
+    "name_espn": "W. Virginia",
+    "overall": 0.8,
+    "off_raw": "26.3 (62)",
+    "def_raw": "25.6 (66)",
+    "st_raw": "0.1 (63)"
+  },
+  "MSU": {
+    "rank": 67,
+    "name_espn": "Michigan St.",
+    "overall": 0.4,
+    "off_raw": "26.7 (61)",
+    "def_raw": "25.9 (69)",
+    "st_raw": "-0.4 (105)"
+  },
+  "UNM": {
+    "rank": 68,
+    "name_espn": "New Mexico",
+    "overall": -0.5,
+    "off_raw": "25.3 (68)",
+    "def_raw": "26.4 (73)",
+    "st_raw": "0.6 (13)"
+  },
+  "SYR": {
+    "rank": 69,
+    "name_espn": "Syracuse",
+    "overall": -0.7,
+    "off_raw": "23.9 (85)",
+    "def_raw": "25.0 (59)",
+    "st_raw": "0.4 (35)"
+  },
+  "MEM": {
+    "rank": 70,
+    "name_espn": "Memphis",
+    "overall": -1.1,
+    "off_raw": "28.3 (56)",
+    "def_raw": "30.0 (95)",
+    "st_raw": "0.5 (18)"
+  },
+  "SDSU": {
+    "rank": 71,
+    "name_espn": "SDSU",
+    "overall": -1.3,
+    "off_raw": "23.1 (93)",
+    "def_raw": "25.0 (60)",
+    "st_raw": "0.6 (5)"
+  },
+  "NDSU": {
+    "rank": 72,
+    "name_espn": "NDSU",
+    "overall": -1.4,
+    "off_raw": "24.4 (82)",
+    "def_raw": "25.8 (67)",
+    "st_raw": "0.0 (76)"
+  },
+  "UTSA": {
+    "rank": 73,
+    "name_espn": "UTSA",
+    "overall": -1.5,
+    "off_raw": "29.5 (47)",
+    "def_raw": "31.2 (102)",
+    "st_raw": "0.1 (59)"
+  },
+  "BC": {
+    "rank": 74,
+    "name_espn": "Boston Coll.",
+    "overall": -1.5,
+    "off_raw": "25.4 (67)",
+    "def_raw": "27.4 (80)",
+    "st_raw": "0.5 (28)"
+  },
+  "STAN": {
+    "rank": 75,
+    "name_espn": "Stanford",
+    "overall": -1.9,
+    "off_raw": "22.7 (97)",
+    "def_raw": "24.0 (55)",
+    "st_raw": "-0.6 (128)"
+  },
+  "ECU": {
+    "rank": 76,
+    "name_espn": "ECU",
+    "overall": -2.0,
+    "off_raw": "24.2 (84)",
+    "def_raw": "26.0 (71)",
+    "st_raw": "-0.2 (84)"
+  },
+  "JMU": {
+    "rank": 77,
+    "name_espn": "JMU",
+    "overall": -2.1,
+    "off_raw": "25.0 (76)",
+    "def_raw": "26.7 (75)",
+    "st_raw": "-0.4 (102)"
+  },
+  "FRES": {
+    "rank": 78,
+    "name_espn": "Fresno St.",
+    "overall": -2.3,
+    "off_raw": "20.6 (105)",
+    "def_raw": "22.9 (47)",
+    "st_raw": "0.0 (79)"
+  },
+  "AFA": {
+    "rank": 79,
+    "name_espn": "Air Force",
+    "overall": -2.4,
+    "off_raw": "25.3 (70)",
+    "def_raw": "27.7 (83)",
+    "st_raw": "0.1 (65)"
+  },
+  "USF": {
+    "rank": 80,
+    "name_espn": "USF",
+    "overall": -2.8,
+    "off_raw": "27.5 (59)",
+    "def_raw": "30.1 (98)",
+    "st_raw": "-0.3 (91)"
+  },
+  "M-OH": {
+    "rank": 81,
+    "name_espn": "Miami-OH",
+    "overall": -2.9,
+    "off_raw": "19.5 (111)",
+    "def_raw": "22.9 (48)",
+    "st_raw": "0.5 (16)"
+  },
+  "PUR": {
+    "rank": 82,
+    "name_espn": "Purdue",
+    "overall": -2.9,
+    "off_raw": "23.8 (86)",
+    "def_raw": "27.4 (79)",
+    "st_raw": "0.6 (4)"
+  },
+  "ARMY": {
+    "rank": 83,
+    "name_espn": "Army",
+    "overall": -3.0,
+    "off_raw": "24.5 (81)",
+    "def_raw": "27.6 (82)",
+    "st_raw": "0.1 (64)"
+  },
+  "HAW": {
+    "rank": 84,
+    "name_espn": "Hawaii",
+    "overall": -3.9,
+    "off_raw": "25.3 (69)",
+    "def_raw": "29.8 (93)",
+    "st_raw": "0.6 (8)"
+  },
+  "WSU": {
+    "rank": 85,
+    "name_espn": "Wash. St.",
+    "overall": -5.3,
+    "off_raw": "19.9 (110)",
+    "def_raw": "25.1 (61)",
+    "st_raw": "-0.1 (81)"
+  },
+  "WKU": {
+    "rank": 86,
+    "name_espn": "WKU",
+    "overall": -5.3,
+    "off_raw": "25.2 (73)",
+    "def_raw": "31.0 (101)",
+    "st_raw": "0.5 (24)"
+  },
+  "TULN": {
+    "rank": 87,
+    "name_espn": "Tulane",
+    "overall": -5.5,
+    "off_raw": "22.2 (99)",
+    "def_raw": "28.3 (86)",
+    "st_raw": "0.6 (14)"
+  },
+  "ODU": {
+    "rank": 88,
+    "name_espn": "ODU",
+    "overall": -5.8,
+    "off_raw": "20.2 (109)",
+    "def_raw": "25.3 (63)",
+    "st_raw": "-0.7 (134)"
+  },
+  "TXST": {
+    "rank": 89,
+    "name_espn": "Texas St.",
+    "overall": -5.9,
+    "off_raw": "31.8 (26)",
+    "def_raw": "37.8 (129)",
+    "st_raw": "0.1 (61)"
+  },
+  "TROY": {
+    "rank": 90,
+    "name_espn": "Troy",
+    "overall": -6.0,
+    "off_raw": "23.6 (90)",
+    "def_raw": "29.8 (94)",
+    "st_raw": "0.2 (52)"
+  },
+  "ORST": {
+    "rank": 91,
+    "name_espn": "Oregon St.",
+    "overall": -6.3,
+    "off_raw": "20.9 (104)",
+    "def_raw": "26.5 (74)",
+    "st_raw": "-0.7 (137)"
+  },
+  "MRSH": {
+    "rank": 92,
+    "name_espn": "Marshall",
+    "overall": -6.4,
+    "off_raw": "28.5 (54)",
+    "def_raw": "35.2 (124)",
+    "st_raw": "0.3 (48)"
+  },
+  "LIB": {
+    "rank": 93,
+    "name_espn": "Liberty",
+    "overall": -6.4,
+    "off_raw": "25.5 (66)",
+    "def_raw": "31.7 (104)",
+    "st_raw": "-0.2 (88)"
+  },
+  "FAU": {
+    "rank": 94,
+    "name_espn": "FAU",
+    "overall": -7.1,
+    "off_raw": "27.2 (60)",
+    "def_raw": "34.9 (120)",
+    "st_raw": "0.5 (20)"
+  },
+  "WMU": {
+    "rank": 95,
+    "name_espn": "WMU",
+    "overall": -7.2,
+    "off_raw": "19.0 (112)",
+    "def_raw": "25.8 (68)",
+    "st_raw": "-0.4 (106)"
+  },
+  "TLSA": {
+    "rank": 96,
+    "name_espn": "Tulsa",
+    "overall": -7.6,
+    "off_raw": "23.5 (91)",
+    "def_raw": "31.7 (103)",
+    "st_raw": "0.5 (23)"
+  },
+  "USU": {
+    "rank": 97,
+    "name_espn": "Utah St.",
+    "overall": -7.7,
+    "off_raw": "23.7 (87)",
+    "def_raw": "30.9 (100)",
+    "st_raw": "-0.5 (117)"
+  },
+  "JVST": {
+    "rank": 98,
+    "name_espn": "J'ville State",
+    "overall": -7.7,
+    "off_raw": "24.8 (77)",
+    "def_raw": "32.0 (107)",
+    "st_raw": "-0.5 (126)"
+  },
+  "CSU": {
+    "rank": 99,
+    "name_espn": "Colorado St.",
+    "overall": -8.3,
+    "off_raw": "18.8 (113)",
+    "def_raw": "27.0 (78)",
+    "st_raw": "-0.1 (82)"
+  },
+  "LT": {
+    "rank": 100,
+    "name_espn": "La. Tech",
+    "overall": -8.3,
+    "off_raw": "22.3 (98)",
+    "def_raw": "30.6 (99)",
+    "st_raw": "0.0 (70)"
+  },
+  "ARST": {
+    "rank": 101,
+    "name_espn": "Arkansas St.",
+    "overall": -8.5,
+    "off_raw": "23.7 (88)",
+    "def_raw": "32.3 (111)",
+    "st_raw": "0.1 (62)"
+  },
+  "TEM": {
+    "rank": 102,
+    "name_espn": "Temple",
+    "overall": -8.7,
+    "off_raw": "25.2 (74)",
+    "def_raw": "34.3 (117)",
+    "st_raw": "0.3 (38)"
+  },
+  "GASO": {
+    "rank": 103,
+    "name_espn": "Ga. Southern",
+    "overall": -8.9,
+    "off_raw": "23.2 (92)",
+    "def_raw": "32.1 (109)",
+    "st_raw": "0.0 (72)"
+  },
+  "ULL": {
+    "rank": 104,
+    "name_espn": "Louisiana",
+    "overall": -9.1,
+    "off_raw": "25.2 (72)",
+    "def_raw": "33.9 (116)",
+    "st_raw": "-0.5 (115)"
+  },
+  "KENN": {
+    "rank": 105,
+    "name_espn": "Kennesaw St.",
+    "overall": -9.3,
+    "off_raw": "21.3 (101)",
+    "def_raw": "30.1 (97)",
+    "st_raw": "-0.5 (127)"
+  },
+  "WYO": {
+    "rank": 106,
+    "name_espn": "Wyoming",
+    "overall": -9.6,
+    "off_raw": "16.0 (124)",
+    "def_raw": "25.0 (58)",
+    "st_raw": "-0.6 (130)"
+  },
+  "CONN": {
+    "rank": 107,
+    "name_espn": "UConn",
+    "overall": -11.2,
+    "off_raw": "20.3 (107)",
+    "def_raw": "32.1 (108)",
+    "st_raw": "0.6 (15)"
+  },
+  "TOL": {
+    "rank": 108,
+    "name_espn": "Toledo",
+    "overall": -11.5,
+    "off_raw": "16.7 (121)",
+    "def_raw": "27.9 (84)",
+    "st_raw": "-0.4 (108)"
+  },
+  "UNT": {
+    "rank": 109,
+    "name_espn": "North Texas",
+    "overall": -11.8,
+    "off_raw": "23.6 (89)",
+    "def_raw": "35.2 (123)",
+    "st_raw": "-0.2 (90)"
+  },
+  "BUFF": {
+    "rank": 110,
+    "name_espn": "Buffalo",
+    "overall": -11.9,
+    "off_raw": "15.7 (126)",
+    "def_raw": "28.1 (85)",
+    "st_raw": "0.6 (12)"
+  },
+  "APP": {
+    "rank": 111,
+    "name_espn": "App. St.",
+    "overall": -12.1,
+    "off_raw": "21.2 (102)",
+    "def_raw": "33.6 (115)",
+    "st_raw": "0.3 (40)"
+  },
+  "NEV": {
+    "rank": 112,
+    "name_espn": "Nevada",
+    "overall": -12.2,
+    "off_raw": "17.4 (117)",
+    "def_raw": "30.0 (96)",
+    "st_raw": "0.4 (37)"
+  },
+  "CMU": {
+    "rank": 113,
+    "name_espn": "CMU",
+    "overall": -12.4,
+    "off_raw": "17.4 (116)",
+    "def_raw": "29.6 (92)",
+    "st_raw": "-0.2 (86)"
+  },
+  "DEL": {
+    "rank": 114,
+    "name_espn": "Delaware",
+    "overall": -13.0,
+    "off_raw": "22.7 (96)",
+    "def_raw": "35.4 (126)",
+    "st_raw": "-0.3 (98)"
+  },
+  "BGSU": {
+    "rank": 115,
+    "name_espn": "BGSU",
+    "overall": -13.3,
+    "off_raw": "14.8 (128)",
+    "def_raw": "28.3 (88)",
+    "st_raw": "0.3 (43)"
+  },
+  "USA": {
+    "rank": 116,
+    "name_espn": "S. Alabama",
+    "overall": -13.3,
+    "off_raw": "22.7 (95)",
+    "def_raw": "35.4 (125)",
+    "st_raw": "-0.7 (136)"
+  },
+  "OHIO": {
+    "rank": 117,
+    "name_espn": "Ohio",
+    "overall": -13.6,
+    "off_raw": "13.3 (134)",
+    "def_raw": "26.2 (72)",
+    "st_raw": "-0.6 (132)"
+  },
+  "FIU": {
+    "rank": 118,
+    "name_espn": "FIU",
+    "overall": -13.7,
+    "off_raw": "21.5 (100)",
+    "def_raw": "35.0 (122)",
+    "st_raw": "-0.3 (92)"
+  },
+  "CCU": {
+    "rank": 119,
+    "name_espn": "Coastal Caro.",
+    "overall": -13.8,
+    "off_raw": "21.1 (103)",
+    "def_raw": "34.4 (118)",
+    "st_raw": "-0.5 (112)"
+  },
+  "RICE": {
+    "rank": 120,
+    "name_espn": "Rice",
+    "overall": -14.7,
+    "off_raw": "17.0 (119)",
+    "def_raw": "32.2 (110)",
+    "st_raw": "0.5 (25)"
+  },
+  "EMU": {
+    "rank": 121,
+    "name_espn": "EMU",
+    "overall": -15.0,
+    "off_raw": "17.8 (115)",
+    "def_raw": "32.8 (112)",
+    "st_raw": "0.0 (73)"
+  },
+  "SJSU": {
+    "rank": 122,
+    "name_espn": "SJSU",
+    "overall": -15.5,
+    "off_raw": "18.6 (114)",
+    "def_raw": "33.6 (114)",
+    "st_raw": "-0.5 (120)"
+  },
+  "NMSU": {
+    "rank": 123,
+    "name_espn": "NMSU",
+    "overall": -16.4,
+    "off_raw": "17.0 (118)",
+    "def_raw": "33.4 (113)",
+    "st_raw": "-0.1 (80)"
+  },
+  "UAB": {
+    "rank": 124,
+    "name_espn": "UAB",
+    "overall": -18.1,
+    "off_raw": "20.3 (108)",
+    "def_raw": "37.9 (132)",
+    "st_raw": "-0.5 (123)"
+  },
+  "NIU": {
+    "rank": 125,
+    "name_espn": "NIU",
+    "overall": -18.2,
+    "off_raw": "13.8 (132)",
+    "def_raw": "31.8 (105)",
+    "st_raw": "-0.2 (85)"
+  },
+  "MOST": {
+    "rank": 126,
+    "name_espn": "Missouri St.",
+    "overall": -18.7,
+    "off_raw": "16.7 (122)",
+    "def_raw": "34.9 (121)",
+    "st_raw": "-0.5 (122)"
+  },
+  "AKR": {
+    "rank": 127,
+    "name_espn": "Akron",
+    "overall": -19.5,
+    "off_raw": "13.0 (135)",
+    "def_raw": "31.9 (106)",
+    "st_raw": "-0.6 (131)"
+  },
+  "KENT": {
+    "rank": 128,
+    "name_espn": "Kent St.",
+    "overall": -20.1,
+    "off_raw": "15.9 (125)",
+    "def_raw": "35.5 (127)",
+    "st_raw": "-0.5 (121)"
+  },
+  "UTEP": {
+    "rank": 129,
+    "name_espn": "UTEP",
+    "overall": -20.5,
+    "off_raw": "14.7 (129)",
+    "def_raw": "34.7 (119)",
+    "st_raw": "-0.5 (114)"
+  },
+  "SAC": {
+    "rank": 130,
+    "name_espn": "Sac State",
+    "overall": -22.7,
+    "off_raw": "15.1 (127)",
+    "def_raw": "37.9 (131)",
+    "st_raw": "0.0 (76)"
+  },
+  "USM": {
+    "rank": 131,
+    "name_espn": "So. Miss",
+    "overall": -23.3,
+    "off_raw": "16.4 (123)",
+    "def_raw": "39.2 (133)",
+    "st_raw": "-0.4 (110)"
+  },
+  "ULM": {
+    "rank": 132,
+    "name_espn": "UL-Monroe",
+    "overall": -24.3,
+    "off_raw": "14.3 (130)",
+    "def_raw": "37.9 (130)",
+    "st_raw": "-0.7 (138)"
+  },
+  "GAST": {
+    "rank": 133,
+    "name_espn": "Georgia St.",
+    "overall": -25.1,
+    "off_raw": "17.0 (120)",
+    "def_raw": "41.4 (137)",
+    "st_raw": "-0.7 (133)"
+  },
+  "BALL": {
+    "rank": 134,
+    "name_espn": "Ball State",
+    "overall": -25.2,
+    "off_raw": "12.2 (136)",
+    "def_raw": "36.7 (128)",
+    "st_raw": "-0.7 (135)"
+  },
+  "MTSU": {
+    "rank": 135,
+    "name_espn": "MTSU",
+    "overall": -26.0,
+    "off_raw": "13.7 (133)",
+    "def_raw": "39.9 (134)",
+    "st_raw": "0.2 (57)"
+  },
+  "SHSU": {
+    "rank": 136,
+    "name_espn": "Sam Houston",
+    "overall": -26.3,
+    "off_raw": "14.1 (131)",
+    "def_raw": "40.0 (135)",
+    "st_raw": "-0.4 (107)"
+  },
+  "MASS": {
+    "rank": 137,
+    "name_espn": "UMass",
+    "overall": -30.9,
+    "off_raw": "9.6 (138)",
+    "def_raw": "40.1 (136)",
+    "st_raw": "-0.5 (124)"
+  },
+  "CLT": {
+    "rank": 138,
+    "name_espn": "Charlotte",
+    "overall": -32.4,
+    "off_raw": "10.4 (137)",
+    "def_raw": "42.3 (138)",
+    "st_raw": "-0.5 (111)"
+  }
+}

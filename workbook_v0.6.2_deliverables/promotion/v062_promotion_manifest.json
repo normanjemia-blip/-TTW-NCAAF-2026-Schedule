@@ -1,0 +1,29 @@
+{
+  "workbook_version": "v0.6.2",
+  "title": "TTW_NCAAF_Power_Ratings_2026_v0.6.2_AUTHORITATIVE",
+  "promotion_date": "2026-07-21",
+  "native_google_sheet_id": "1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc",
+  "native_google_sheet_url": "https://docs.google.com/spreadsheets/d/1H4XBJfHh6RZZsLDeljSp9YzeARqRAiarxfTqHqKEzVc",
+  "prior_v0_6_1_sheet_id": "1EITbPHCkNndhtgydsjZDejQ5tOx_IQvkI5yC0nEwYWo",
+  "source_xlsx_drive_id": "1bSpz5bPsCPze3XRqmGc4IpGGhznl4Hx3",
+  "source_sha256": "bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd",
+  "roundtrip_xlsx_sha256": "ccd37c5003e68d590cdc51f56320a216c4f9761d00dd92e684e8b5b58b38c6d5",
+  "roundtrip_verification": "PASS",
+  "sheet_count": 21,
+  "formula_count": 123011,
+  "production_state": {
+    "games": 888,
+    "fbs_vs_fbs": 761,
+    "fcs_involved": 127,
+    "blocked": 0,
+    "market_lines": 0,
+    "adjustments": 0,
+    "in_season_stats": 0,
+    "bet_toggle": "N"
+  },
+  "accepted_google_package_differences": [
+    "26618 formula cells serialized as followers in 40 shared-formula groups; coordinates and semantics are unchanged",
+    "3168 numeric constants normalized in serialization, such as 5 to 5.0 and binary-float tails to displayed decimal values; zero substantive constant changes",
+    "Google export omitted the source XLSX calcPr/fullCalcOnLoad metadata; native Google Sheets recalculation was confirmed by computed audit outputs"
+  ]
+}

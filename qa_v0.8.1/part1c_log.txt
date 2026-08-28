@@ -1,0 +1,23 @@
+==============================================================================
+DEFINITIVE CIRCULAR-REFERENCE TEST (column-level graph)
+==============================================================================
+
+A. SELF-REFERENCE (cell refers to itself)
+  genuine self-references: 0
+  VERDICT: CLEAN — no cell references itself.
+
+B. COLUMN-LEVEL DEPENDENCY GRAPH
+  nodes: 227   edges: 572
+  column-level cycles: 0
+  VERDICT: CLEAN — no circular reference at column level.
+
+C. TEAM RATINGS <-> CALC, resolved explicitly
+  TEAM RATINGS!H reads CALC!A and CALC!H
+  CALC!A/X/Y read TEAM RATINGS!A and TEAM RATINGS!F
+  ('TEAM RATINGS','H') depends on: [('CALC', 'A'), ('CALC', 'H'), ('TEAM RATINGS', 'A')]
+  ('TEAM RATINGS', 'A') depends on: [('TEAM MAP', 'A')]
+  ('TEAM RATINGS', 'F') depends on: [('CLEAN', 'AB'), ('CLEAN', 'AC'), ('CLEAN', 'N'), ('CLEAN', 'P'), ('TEAM RATINGS', 'A')]
+  ('CALC', 'A') depends on: [('TEAM RATINGS', 'A')]
+  ('CALC', 'H') depends on: [('CALC', 'A'), ('CALC', 'D'), ('CALC', 'G'), ('SETTINGS', 'B')]
+  If TEAM RATINGS!A and TEAM RATINGS!F do NOT depend on CALC, the sheet-level
+  'cycle' is disjoint at column level and is NOT a circular reference.

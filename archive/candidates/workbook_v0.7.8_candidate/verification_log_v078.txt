@@ -1,0 +1,89 @@
+==============================================================================
+1. STRUCTURE
+  sheets old/new: 21 / 21  identical order: True
+  visibility identical: True
+  formula cells: 123011 -> 123011  (delta 0)
+==============================================================================
+2. CELL DIFF v0.7.7 -> v0.7.8
+  changed cells: 32   FORMULA changes: 0
+    START HERE: 1
+    QB VALUES: 19
+    CHANGELOG: 12
+  classification:
+    VERSION OR CHANGELOG: 13
+    VERIFIED PAC-12 QB UPDATE: 7
+    VERIFIED SUN BELT QB UPDATE: 7
+    VERIFIED AMERICAN QB UPDATE: 3
+    NUMERICAL-CELL CONSISTENCY REPAIR: 2
+  UNRELATED/UNAUTHORIZED/UNKNOWN: 0
+==============================================================================
+3. QB VALUES INVENTORY (v0.7.8)
+  rows: 138   unique abbrevs: 138   unique teams: 138
+  codes: {'L': 31, 'M': 43, 'H': 64}
+  invalid codes: []
+  blank numerical: 38   zero numerical: 100   other: 0
+  NONZERO QB VALUES: 0
+  L-coded teams with non-blank numerical cells: 0 []
+  SETTINGS!B3 = 2026
+  QB status: {'UNCERTAIN': 38, 'OK': 100}
+  nonzero deltas G: 0
+==============================================================================
+4. VERIFICATION BACKLOG (carried-forward ledger)
+  v0.7.7 declared backlog_remaining = 5 (['TXST', 'WSU', 'UNT', 'GASO', 'ODU'])
+  Tier 1 population (M+L): 74
+  ledger status counts: {'verified 7A-7D': 28, 'VERIFIED 7D.3A': 7, 'H-coded (tier 2)': 51, 'VERIFIED 7D.3': 9, 'VERIFIED 7D.4': 26, 'VERIFIED 7D.4A': 5, 'VERIFIED 7D.2': 7, 'VERIFIED 7D.1': 5}
+  >>> REMAINING QB VERIFICATION BACKLOG: 0 []
+
+  AUDIT-TRAIL GAP (separate finding, NOT the backlog):
+    rows still stamped 2026-07-21: 82  (Tier 1 M/L: 21 | H-coded tier 2: 61)
+    of the 21 Tier 1 rows, ledger says: {'verified 7A-7D': 17, 'VERIFIED 7D.1': 4}
+    -> 21 Tier 1 teams are CREDITED as verified but carry no in-workbook
+       verification stamp (original 2026-07-21 build date and build note).
+    Tier 1 unstamped: ['ALA', 'AUB', 'FLA', 'UK', 'MIZ', 'TENN', 'VAN', 'NEB', 'UNC', 'STAN', 'SYR', 'FAU', 'MEM', 'USF', 'TULN', 'BALL', 'CMU', 'TOL', 'WMU', 'UNLV', 'USM']
+    NOTE: PHASE_7D4_REPORT section 9 attributed all 82 non-backlog stale rows to
+    H-coded tier-2 teams. That was wrong: 61 are H-coded and 21 are Tier 1 M/L.
+==============================================================================
+5. REGRESSION BATTERY
+  [PASS] 1 no formula changes - 0
+  [PASS] 2 formula count unchanged - 123011 -> 123011
+  [PASS] 3 sheet count/order/visibility unchanged
+  [PASS] 4 138 unique teams, no shifted rows
+  [PASS] 5 no invalid H/M/L codes
+  [PASS] 6 zero nonzero QB values
+  [PASS] 7 zero nonzero QB deltas
+  [PASS] 8 every L-coded team blank-gated
+  [PASS] 9 every L-coded team UNCERTAIN
+  [PASS] 10 TEAM RATINGS untouched
+  [PASS] 11 ENGINE untouched (no spread movement)
+  [PASS] 12 SETTINGS untouched (BET toggle/HFA/season)
+  [PASS] 13 ADJUSTMENTS untouched
+  [PASS] 14 MARKET LINES untouched
+  [PASS] 15 PRESEASON untouched (source weights)
+  [PASS] 16 IMPORT SCHEDULE untouched
+  [PASS] 17 only QB VALUES + CHANGELOG + START HERE in diff - ['CHANGELOG', 'QB VALUES', 'START HERE']
+  [PASS] 18 no unrelated/unauthorized/unknown cells
+  [PASS] 19 QB VALUES diff confined to the five rows
+  [PASS] 20 QB VALUES formula columns A,B,G,M intact on all 138 rows
+  [PASS] 21 QB VALUES input columns hold constants only
+  [PASS] 22 SETTINGS!B3 season = 2026
+  [PASS] 23 SETTINGS!B6 HFA = 2.5
+  [PASS] 24 SETTINGS!B11 BET toggle = N
+  [PASS] 25 ledger backlog = 0 - 0
+  [FAIL] 25b AUDIT-TRAIL GAP (finding, out of 7D.4A scope): Tier 1 rows credited as verified but never stamped in-workbook - 21 teams: ['ALA', 'AUB', 'FLA', 'UK', 'MIZ', 'TENN', 'VAN', 'NEB', 'UNC', 'STAN', 'SYR', 'FAU', 'MEM', 'USF', 'TULN', 'BALL', 'CMU', 'TOL', 'WMU', 'UNLV', 'USM']
+  [PASS] 26 WSU M->L applied, zeros cleared
+  [PASS] 27 WSU status now UNCERTAIN
+  [PASS] 28 GASO L->M applied, values still blank
+  [PASS] 29 GASO remains UNCERTAIN (blank-gated, no numerical adjustment created)
+  [PASS] 30 TXST M retained with zeros, status OK
+  [PASS] 30 UNT M retained with zeros, status OK
+  [PASS] 30 ODU M retained with zeros, status OK
+  [PASS] 31 all five dated 2026-08-04
+  [PASS] 32 ENGINE!AI status-precedence formula unchanged
+  [PASS] 33 ENGINE!M (QB adj) formula unchanged
+  [PASS] 34 ENGINE!AE (QB status) formula unchanged
+==============================================================================
+6. ZERO-CHANGE VERIFICATION / MANIFEST
+  v0.6.2 AUTHORITATIVE bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd  UNCHANGED=True
+  v0.7.7 CANDIDATE     3da33d0c10a375c6bd3e43c06f1119b1a6a72cfb49d16abff65ed9c670d02a73  UNCHANGED=True
+  v0.7.8 CANDIDATE     8f655e5e369a6a8c12fdb34f3309cff13a92c9310af6186b77081be4b3c389cb  (new)
+  PROJECT_MANIFEST.json match for v0.6.2: True
