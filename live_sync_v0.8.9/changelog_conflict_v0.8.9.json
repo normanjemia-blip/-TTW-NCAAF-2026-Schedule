@@ -1,0 +1,38 @@
+[
+ {
+  "sheet": "CHANGELOG",
+  "cell": "A87",
+  "row": 87,
+  "column": 1,
+  "live": "v0.8.3",
+  "authoritative": "v0.8.9",
+  "why": "CONFLICT - authoritative entry held back"
+ },
+ {
+  "sheet": "CHANGELOG",
+  "cell": "B87",
+  "row": 87,
+  "column": 2,
+  "live": "2026-08-19",
+  "authoritative": "2026-08-26 00:00:00",
+  "why": "CONFLICT - authoritative entry held back"
+ },
+ {
+  "sheet": "CHANGELOG",
+  "cell": "C87",
+  "row": 87,
+  "column": 3,
+  "live": "GO-LIVE: replaced the Phase 2 zero-market-row invariant with the validated operational MARKET LINES invariant; loaded eight Week 0 Circa spreads/totals from the owner-supplied OddsLogic screenshot captured 2026-08-18 11:10 PM ET; set Current week = 0 and As-of date = 2026-08-18. All eight rows resolve with no flags or duplicates. BET remains N; totals model remains unavailable; no rating, QB value, adjustment, or model formula changed.",
+  "authoritative": "SPREAD BET RULE + TOTALS SEPARATION. (1) Spread BET threshold SETTINGS!B10 changed from 3.0 to 1.5, so an absolute ATS edge of 1.50 or greater is now BET; 1.49 and below remain under the existing lower classifications. (2) Spread BET labels enabled - SETTINGS!B11 N -> Y; B11 now controls SPREADS ONLY. (3) Totals thresholds separated onto dedicated cells B49/B50/B51 and PRESERVED at exactly 2.0 / 3.0 / 6.0, the values previously produced by B8*2 / B9*2 / B10*2. (4) Totals BET toggle separated onto dedicated cell B52 and RETAINED at N, so the spread toggle can no longer reach the totals market. ENGINE!AB no longer references B10 or B11. (5) No projection, rating, edge, side or totals output changed: totals remain disabled (B22/B23 blank) and every totals label stays blank. Four lined games move INVESTIGATE -> BET on spreads: Sacramento State at Eastern Michigan, North Carolina at TCU, San Jose State at USC, New Mexico State at Florida State. Memphis at UNLV remains LEAN and QB UNCERTAIN. SUPERSEDES v0.8.9 REV 1, which left the BET toggle shared with totals.",
+  "why": "CONFLICT - authoritative entry held back"
+ },
+ {
+  "sheet": "CHANGELOG",
+  "cell": "D87",
+  "row": 87,
+  "column": 4,
+  "live": "Owner-supplied market screenshot; v0.8.3 repo guardrail commit 05b8a52",
+  "authoritative": "Approved spread-threshold rule; REV 1 superseded",
+  "why": "CONFLICT - authoritative entry held back"
+ }
+]

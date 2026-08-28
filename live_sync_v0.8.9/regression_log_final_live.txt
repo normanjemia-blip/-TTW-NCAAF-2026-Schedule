@@ -1,0 +1,88 @@
+=== live_sync_v0.8.9/verify_final_live_candidate.py ===
+==============================================================================
+FINAL LIVE v0.8.9 CANDIDATE — CERTIFICATE (live Sheet NOT written)
+==============================================================================
+  authoritative v0.8.9 : 334050660deb970f23cd9761490fb47e1f2b606b61d00a20c864cec529395cbb
+  fresh live export    : ecab90349c1fd4bbf7419b394bc7062ece52d50a245dfa5b9b27ff73e08cda8d
+  final live candidate : 131703870095f6e3ddebaf7df368259d55e9c5e8510e39e90d1356cbfeb31dd5
+
+0. INPUTS
+  [PASS] 0.1 authoritative v0.8.9 unmodified
+  [PASS] 0.2 fresh live export unmodified
+  [PASS] 0.3 sheet set and order preserved
+
+1. FORMULAS MATCH AUTHORITATIVE v0.8.9
+  [PASS] 1.1 ZERO formula cells differ from authoritative v0.8.9 - []
+  [PASS] 1.2 no Google Sheets compatibility equivalent was required
+  [PASS] 1.3 every remaining value difference is a preserved operational cell or the banner - []
+       value differences by sheet: {'START HERE': 1, 'MARKET LINES': 72, 'QB VALUES': 6, 'SETTINGS': 2, 'CHANGELOG': 20}
+
+2. PRESERVED OPERATIONAL CELLS ARE EXACT
+  [PASS] 2.1 six owner-authored QB notes exact
+  [PASS] 2.2 SETTINGS!B4 and B5 exact - B4=0 B5=datetime.datetime(2026, 8, 28, 0, 0)
+  [PASS] 2.3 every MARKET LINES cell exact (spreads, totals, sources, timestamps) - []
+  [PASS] 2.4 all live-authored CHANGELOG history intact - []
+  [PASS] 2.5 live CHANGELOG history spans rows 87-91 and is unaltered
+
+3. CENSUSES
+  [PASS] 3.1 QB census 117 OK / 21 UNCERTAIN - {'OK': 117, 'UNCERTAIN': 21}
+  [PASS] 3.2 confidence census 76 H / 43 M / 19 L - 76 H / 43 M / 19 L
+  [PASS] 3.3 234 QB zero values - 234
+  [PASS] 3.4 zero nonzero QB values - []
+  [PASS] 3.5 888 games / 761 FBS-v-FBS / 127 involving FCS - 888 / 761 / 127
+
+4. SPREAD AND TOTALS CONTROLS
+  [PASS] 4.1 spread BET threshold = 1.5 - 1.5
+  [PASS] 4.2 spread BET toggle = Y - 'Y'
+  [PASS] 4.x edge +1.50 -> BET - BET
+  [PASS] 4.x edge -1.50 -> BET - BET
+  [PASS] 4.x edge +1.49 -> LEAN - LEAN
+  [PASS] 4.x edge -1.49 -> LEAN - LEAN
+  [PASS] 4.4 totals thresholds = 2.0 / 3.0 / 6.0 - 2/3/6
+  [PASS] 4.5 totals BET toggle = N - 'N'
+  [PASS] 4.6 totals inputs remain blank -> totals inert
+  [PASS] 4.7 ENGINE!AA is formula-driven and blank while B22/B23 are unset
+  [PASS] 4.8 totals BET unreachable at every fixture while the totals toggle is N
+
+5. AUDIT GUARDS
+  [PASS] 5.1 AUDIT!B12 (spread) returns OK - OK
+  [PASS] 5.2 AUDIT!B13 (totals) returns OK - OK
+  [PASS] 5.3 ENGINE!AB references neither B10 nor B11
+
+6. CLASSIFICATIONS RECOMPUTED FROM THE FRESH LIVE LINES
+  [PASS] 6.1 candidate carries the fresh live lines unchanged
+  [PASS] 6.2 8 market lines loaded (populated GameID game-rows) - 8
+       UNC@TCU      -4.34  BET         READY
+       HAW@STAN     +0.24  (blank)     READY
+       NCST@UVA     +0.83  (blank)     READY
+       SJSU@USC     -3.31  BET         READY
+       NMSU@FSU     -4.76  BET         READY
+       JVST@NDSU    +0.46  (blank)     READY
+       SAC@EMU      -4.67  BET         READY
+       MEM@UNLV     +1.14  LEAN        QB UNCERTAIN
+       BET list from fresh lines: ['NMSU@FSU', 'SAC@EMU', 'SJSU@USC', 'UNC@TCU']
+  [PASS] 6.3 the BET list is reported from the fresh lines, not assumed - ['NMSU@FSU', 'SAC@EMU', 'SJSU@USC', 'UNC@TCU']
+  [PASS] 6.4 Memphis at UNLV remains QB UNCERTAIN - QB UNCERTAIN
+  [PASS] 6.5 Memphis at UNLV is blocked by the QB gate regardless of its edge classification - edge=+1.14 label=LEAN
+  [PASS] 6.6 no totals label activates on any lined game
+
+7. BANNER
+  [PASS] 7.1 live banner declares v0.8.9
+  [PASS] 7.2 uses the actual promotion date 2026-08-27
+  [PASS] 7.3 states the actual loaded market-line count
+  [PASS] 7.4 no stale v0.8.8 identifier
+  [PASS] 7.5 otherwise matches the authoritative banner
+
+8. CHANGELOG CONFLICT — HELD BACK, NOT RESOLVED
+  [PASS] 8.1 authoritative v0.8.9 targets CHANGELOG row 87
+  [PASS] 8.2 live row 87 is a live-authored v0.8.3 entry
+  [PASS] 8.3 the live entry is intact in the candidate
+  [PASS] 8.4 the authoritative entry was NOT written anywhere in the candidate
+  [PASS] 8.5 no live CHANGELOG entry was overwritten, moved or appended
+  [PASS] 8.6 first completely empty compatible row identified for approval - row 92
+
+==============================================================================
+RESULT: 47 passed, 0 failed
+final live candidate SHA-256: 131703870095f6e3ddebaf7df368259d55e9c5e8510e39e90d1356cbfeb31dd5
+STATUS: CANDIDATE ONLY — the live Google Sheet was NOT written
+==============================================================================
