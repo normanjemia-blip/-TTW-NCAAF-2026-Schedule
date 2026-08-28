@@ -343,32 +343,58 @@ def main():
 
     print("\n18-19. POINTERS AND THE SUPERSEDED CANDIDATE")
     man = json.load(io.open(os.path.join(ROOT, "PROJECT_MANIFEST.json"), encoding="utf-8"))
-    chk("18.1 manifest current_version is v0.8.8",
-        man["current_version"]["version"] == "v0.8.8", man["current_version"]["version"])
-    chk("18.2 manifest current sha256 is the final v0.8.8 workbook",
-        man["current_version"]["sha256"] == h88)
-    chk("18.3 manifest current_authoritative points at the v0.8.8 workbook",
-        man["current_authoritative"]["source_sha256"] == h88
-        and "v0.8.8" in man["current_authoritative"]["source_xlsx"])
-    chk("18.4 manifest records v0.8.7 as the frozen predecessor with its exact SHA",
-        FROZEN_V087 in man["current_version"]["supersedes"])
+    readme = io.open(os.path.join(ROOT, "README.md"), encoding="utf-8").read()
+    pol = io.open(os.path.join(ROOT, "phase9a_production_config",
+                               "MASTER_AND_WORKING_COPY_POLICY.md"), encoding="utf-8").read()
+    dry = io.open(os.path.join(ROOT, "phase11_week0_dryrun", "week0_dryrun.py"),
+                  encoding="utf-8").read()
+
+    # v0.8.8 was production when this certificate was written, so 18.1-18.9 asserted that the
+    # pointers named it as CURRENT. Those assertions are mutually exclusive with any later approved
+    # promotion, so the section is supersession-aware: while v0.8.8 is current the original
+    # assertions run verbatim and unweakened; once a later version is promoted the same section
+    # asserts the obligation that actually binds then - v0.8.8 preserved as the immediate rollback
+    # with its exact SHA. Forward pointer assertions move to the successor's own certificate.
+    superseded = man["current_version"]["version"] != "v0.8.8"
+
+    if not superseded:
+        chk("18.1 manifest current_version is v0.8.8",
+            man["current_version"]["version"] == "v0.8.8", man["current_version"]["version"])
+        chk("18.2 manifest current sha256 is the final v0.8.8 workbook",
+            man["current_version"]["sha256"] == h88)
+        chk("18.3 manifest current_authoritative points at the v0.8.8 workbook",
+            man["current_authoritative"]["source_sha256"] == h88
+            and "v0.8.8" in man["current_authoritative"]["source_xlsx"])
+        chk("18.4 manifest records v0.8.7 as the frozen predecessor with its exact SHA",
+            FROZEN_V087 in man["current_version"]["supersedes"])
+        chk("18.6 README production pointer names v0.8.8 and its final SHA",
+            "v0.8.8 AUTHORITATIVE" in readme and h88 in readme)
+        chk("18.7 policy current-version reference names v0.8.8 and its final SHA",
+            "v0.8.8" in pol and h88 in pol)
+        chk("18.9 Week 0 dry run targets the v0.8.8 workbook and SHA",
+            "promotion_v0.8.8" in dry and h88 in dry)
+    else:
+        cur = man["current_version"]["version"]
+        print(f"  (v0.8.8 superseded by {cur} - asserting rollback preservation)")
+        chk(f"18.1s manifest current_version advanced past v0.8.8 by promotion", True, cur)
+        chk("18.2s manifest no longer claims v0.8.8 is current",
+            man["current_version"]["sha256"] != h88)
+        chk("18.3s current_authoritative advanced past v0.8.8, whose artifact stays byte-exact",
+            man["current_authoritative"]["source_sha256"] != h88 and sha256(V088) == h88)
+        chk("18.4s successor records v0.8.8 as the frozen predecessor with its exact SHA",
+            h88 in man["current_version"]["supersedes"]
+            and "v0.8.8" in man["current_version"]["supersedes"])
+        chk("18.6s README still preserves v0.8.8 and its exact SHA", h88 in readme)
+        chk("18.7s policy still preserves v0.8.8 frozen with its exact SHA",
+            "v0.8.8" in pol and h88 in pol)
+        chk("18.9s Week 0 dry run advanced past v0.8.8 and no longer asserts its SHA",
+            "promotion_v0.8.8" not in dry and h88 not in dry)
     chk("18.5 rollback hashes preserved and correct",
         man["rollback"]["source_sha256"] ==
         "bbb17b50fbfb728bea2a23d3d20771935cc61e238313a054473aafe1ca838efd"
         and man["intermediate_rollback"]["source_sha256"] ==
         "661f8ab0e6120290d4ffd8d4ddac738d7e19d7bd0bbcf69bc9df51fb3cef97c7")
-    readme = io.open(os.path.join(ROOT, "README.md"), encoding="utf-8").read()
-    chk("18.6 README production pointer names v0.8.8 and its final SHA",
-        "v0.8.8 AUTHORITATIVE" in readme and h88 in readme)
-    pol = io.open(os.path.join(ROOT, "phase9a_production_config",
-                               "MASTER_AND_WORKING_COPY_POLICY.md"), encoding="utf-8").read()
-    chk("18.7 policy current-version reference names v0.8.8 and its final SHA",
-        "v0.8.8" in pol and h88 in pol)
     chk("18.8 policy still preserves v0.8.7 as frozen with its exact SHA", FROZEN_V087 in pol)
-    dry = io.open(os.path.join(ROOT, "phase11_week0_dryrun", "week0_dryrun.py"),
-                  encoding="utf-8").read()
-    chk("18.9 Week 0 dry run targets the v0.8.8 workbook and SHA",
-        "promotion_v0.8.8" in dry and h88 in dry)
     for name, blob in (("README", readme), ("policy", pol), ("manifest", json.dumps(man)),
                        ("week0 dry run", dry)):
         chk(f"19.x {name} does not reference the superseded SCHED1 candidate as current",

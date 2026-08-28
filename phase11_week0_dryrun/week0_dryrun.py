@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Week 0 full-card dry run against the v0.8.8 AUTHORITATIVE workbook.
+"""Week 0 full-card dry run against the v0.8.9 AUTHORITATIVE workbook.
 
 Read-only. The workbook is opened, never written; its SHA-256 is asserted
 before and after so a run can never be the reason a number changed.
@@ -22,7 +22,7 @@ Two jobs:
 
 Exit code 0 iff every gate passes and the card reconciles.
 
-Formula chain (v0.8.8, preseason state -- SETTINGS!B4 and B5 blank):
+Formula chain (v0.8.9, preseason state -- SETTINGS!B4 and B5 blank):
   PRESEASON!G/K/T   source norms, each mean-centred over rows 6:143
   PRESEASON!Y       available weight = sum of B28..B32 over present sources
   PRESEASON!Z       FINAL PRIOR = weighted sum / Y
@@ -40,10 +40,10 @@ import openpyxl
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, "..")
-WB = os.path.join(ROOT, "promotion_v0.8.8",
-                  "TTW_College_Football_Power_Ratings_v0.8.8_AUTHORITATIVE.xlsx")
+WB = os.path.join(ROOT, "promotion_v0.8.9",
+                  "TTW_College_Football_Power_Ratings_v0.8.9_AUTHORITATIVE.xlsx")
 CHECKPOINT = os.path.join(ROOT, "phase10_operational_validation", "week0_card.json")
-EXPECTED_SHA = "b2a920feddc0f49f0647957334db0ecd0e922fe6a3933fc6a11af31587b56450"
+EXPECTED_SHA = "334050660deb970f23cd9761490fb47e1f2b606b61d00a20c864cec529395cbb"
 
 PASS, FAIL = [], []
 
@@ -219,7 +219,7 @@ def main():
     print("WEEK 0 FULL-CARD DRY RUN -- v0.8.1 AUTHORITATIVE")
     print("=" * 78)
     sha_before = sha256(WB)
-    check(sha_before == EXPECTED_SHA, "workbook is the authoritative v0.8.8", sha_before[:16])
+    check(sha_before == EXPECTED_SHA, "workbook is the authoritative v0.8.9", sha_before[:16])
 
     wb, S, rows, prior, hfa, qbdelta, qbstatus, games = load()
 
@@ -359,16 +359,20 @@ def main():
     check(abs(e2["V"] - 7.2) < 0.05, "away-favorite edge = 4.2 + 3.0 = 7.2", f"V={e2['V']:.2f}")
     check(e2["W"] == "TCU", "positive edge -> value on the home team", f"W={e2['W']}")
 
-    # G6 BET toggle
-    check(S["B11"] == "N", "BET toggle SETTINGS!B11 = N", f"{S['B11']}")
+    # G6 spread BET rule - v0.8.9 approved production configuration
+    check(S["B11"] == "Y", "spread BET toggle SETTINGS!B11 = Y (v0.8.9)", f"{S['B11']}")
+    check(float(S["B10"]) == 1.5, "spread BET threshold SETTINGS!B10 = 1.5 (v0.8.9)",
+          f"{S['B10']}")
     bets = [gid for gid, e in allrows.items() if e["X"] == "BET"]
-    check(not bets, "no game anywhere on the card can produce BET while the toggle is N",
-          f"{len(bets)}")
-    # prove the toggle is the binding constraint, not an accident of no lines
-    S2 = dict(S); S2["B11"] = "Y"
-    forced = engine(dublin, S2, prior, hfa, qbdelta, qbstatus, "TCU", 12.0)
-    check(forced["X"] == "INVESTIGATE",
-          "even with the toggle Y and a 7.8-pt edge, QB UNCERTAIN still forces INVESTIGATE",
+    check(not bets, "no BET on this card - MARKET LINES is blank in the authoritative artifact, "
+                    "so no game has a spread edge at all", f"{len(bets)}")
+    # the toggle is now enabled, so prove the row gates are what still bind. NOTE: this fixture
+    # gates to DATA INCOMPLETE, not QB UNCERTAIN - the AI gate is what blocks BET here. The
+    # |edge| = 1.50 boundary itself is proven on real READY rows in promotion_v0.8.9/verify_v089.py
+    # section 3; it is deliberately not restated here, where no fixture can reach READY.
+    forced = engine(dublin, S, prior, hfa, qbdelta, qbstatus, "TCU", 12.0)
+    check(forced["X"] == "INVESTIGATE" and forced["AI"] != "READY",
+          "with the toggle Y and a 7.8-pt edge, a non-READY gate still forces INVESTIGATE",
           f"edge={forced['V']:.1f} status={forced['AI']} label={forced['X']}")
 
     # G7 totals disabled
